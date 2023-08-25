@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="236606">:facetid:toc:\"db/journals/ton/ton30.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">182.82</time>
+<completions total="1" computed="1" sent="1">
+<c sc="199" dc="199" oc="199" id="41114368">:facetid:toc:db/journals/ton/ton30.bht</c>
+</completions>
+<hits total="199" computed="199" sent="199" first="0">
+<hit score="1" id="458608">
+<info><authors><author pid="80/3561">Bahman Abolhassani</author><author pid="71/7867">John Tadrous</author><author pid="56/5751">Atilla Eryilmaz</author></authors><title>Single vs Distributed Edge Caching for Dynamic Content.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>669-682</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AbolhassaniTE22</key><doi>10.1109/TNET.2021.3121098</doi><ee>https://doi.org/10.1109/TNET.2021.3121098</ee><url>https://dblp.org/rec/journals/ton/AbolhassaniTE22</url></info>
+<url>URL#458608</url>
+</hit>
+<hit score="1" id="458609">
+<info><authors><author pid="80/3561">Bahman Abolhassani</author><author pid="71/7867">John Tadrous</author><author pid="56/5751">Atilla Eryilmaz</author><author pid="72/5346">Edmund Yeh</author></authors><title>Fresh Caching of Dynamic Content Over the Wireless Edge.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2315-2327</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AbolhassaniTEY22</key><doi>10.1109/TNET.2022.3170245</doi><ee>https://doi.org/10.1109/TNET.2022.3170245</ee><url>https://dblp.org/rec/journals/ton/AbolhassaniTEY22</url></info>
+<url>URL#458609</url>
+</hit>
+<hit score="1" id="458610">
+<info><authors><author pid="222/5396">Shivang Aggarwal</author><author pid="166/5846">Swetank Kumar Saha</author><author pid="66/2054">Imran Khan</author><author pid="254/5532">Rohan Pathak</author><author pid="92/442">Dimitrios Koutsonikolas</author><author pid="07/3803">Joerg Widmer</author></authors><title>MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1879-1894</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AggarwalSKPKW22</key><doi>10.1109/TNET.2022.3158678</doi><ee>https://doi.org/10.1109/TNET.2022.3158678</ee><url>https://dblp.org/rec/journals/ton/AggarwalSKPKW22</url></info>
+<url>URL#458610</url>
+</hit>
+<hit score="1" id="458611">
+<info><authors><author pid="129/7091">Vahid Khalilpour Akram</author><author pid="53/131">Orhan Dagdeviren</author><author pid="99/4050">Bülent Tavli</author></authors><title>A Coverage-Aware Distributed k-Connectivity Maintenance Algorithm for Arbitrarily Large k in Mobile Sensor Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>62-75</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AkramDT22</key><doi>10.1109/TNET.2021.3104356</doi><ee>https://doi.org/10.1109/TNET.2021.3104356</ee><url>https://dblp.org/rec/journals/ton/AkramDT22</url></info>
+<url>URL#458611</url>
+</hit>
+<hit score="1" id="458612">
+<info><authors><author pid="203/8833">Zhenlin An</author><author pid="148/1927">Qiongzheng Lin</author><author pid="50/2484-25">Lei Yang 0025</author><author pid="70/1741-4">Lei Xie 0004</author></authors><title>Tagcaster: Activating Wireless Voice of Electronic Toll Collection Systems With Zero Start-Up Cost.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2328-2342</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AnLYX22</key><doi>10.1109/TNET.2022.3169914</doi><ee>https://doi.org/10.1109/TNET.2022.3169914</ee><url>https://dblp.org/rec/journals/ton/AnLYX22</url></info>
+<url>URL#458612</url>
+</hit>
+<hit score="1" id="458613">
+<info><authors><author pid="47/3175">Jian An</author><author pid="14/6612">Zhenxing Wang</author><author pid="69/1798">Xin He</author><author pid="65/1767">Xiaolin Gui</author><author pid="229/2192">Jindong Cheng</author><author pid="229/1946">Ruowei Gui</author></authors><title>PPQC: A Blockchain-Based Privacy-Preserving Quality Control Mechanism in Crowdsensing Applications.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1352-1367</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AnWHGCG22</key><doi>10.1109/TNET.2022.3141582</doi><ee>https://doi.org/10.1109/TNET.2022.3141582</ee><url>https://dblp.org/rec/journals/ton/AnWHGCG22</url></info>
+<url>URL#458613</url>
+</hit>
+<hit score="1" id="458614">
+<info><authors><author pid="98/6095">Jonatha Anselmi</author><author pid="55/7602">Neil Walton</author></authors><title>Stability and Optimization of Speculative Queueing Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>911-922</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AnselmiW22</key><doi>10.1109/TNET.2021.3128778</doi><ee>https://doi.org/10.1109/TNET.2021.3128778</ee><url>https://dblp.org/rec/journals/ton/AnselmiW22</url></info>
+<url>URL#458614</url>
+</hit>
+<hit score="1" id="458615">
+<info><authors><author pid="04/5911">Chen Avin</author><author pid="62/11365">Kaushik Mondal 0001</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>Demand-Aware Network Design With Minimal Congestion and Route Lengths.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1838-1848</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AvinMS22</key><doi>10.1109/TNET.2022.3153586</doi><ee>https://doi.org/10.1109/TNET.2022.3153586</ee><url>https://dblp.org/rec/journals/ton/AvinMS22</url></info>
+<url>URL#458615</url>
+</hit>
+<hit score="1" id="458616">
+<info><authors><author pid="04/5911">Chen Avin</author><author pid="62/11365">Kaushik Mondal 0001</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>Push-Down Trees: Optimal Self-Adjusting Complete Trees.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2419-2432</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/AvinMS22a</key><doi>10.1109/TNET.2022.3174118</doi><ee>https://doi.org/10.1109/TNET.2022.3174118</ee><url>https://dblp.org/rec/journals/ton/AvinMS22a</url></info>
+<url>URL#458616</url>
+</hit>
+<hit score="1" id="458617">
+<info><authors><author pid="222/1688">Gregor Bankhamer</author><author pid="e/RobertElsasser">Robert Elsässer</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>Local Fast Rerouting With Low Congestion: A Randomized Approach.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2403-2418</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/BankhamerES22</key><doi>10.1109/TNET.2022.3174731</doi><ee>https://doi.org/10.1109/TNET.2022.3174731</ee><url>https://dblp.org/rec/journals/ton/BankhamerES22</url></info>
+<url>URL#458617</url>
+</hit>
+<hit score="1" id="458618">
+<info><authors><author pid="162/5287">Tom Barbette</author><author pid="314/2701">Erfan Wu</author><author pid="03/3188">Dejan Kostic</author><author pid="m/GQMaguireJr">Gerald Q. Maguire Jr.</author><author pid="p/PanagiotisPapadimitratos">Panagiotis Papadimitratos</author><author pid="78/9826">Marco Chiesa</author></authors><title>Cheetah: A High-Speed Programmable Load-Balancer Framework With Guaranteed Per-Connection-Consistency.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>354-367</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/BarbetteWKMPC22</key><doi>10.1109/TNET.2021.3113370</doi><ee>https://doi.org/10.1109/TNET.2021.3113370</ee><url>https://dblp.org/rec/journals/ton/BarbetteWKMPC22</url></info>
+<url>URL#458618</url>
+</hit>
+<hit score="1" id="458619">
+<info><authors><author pid="140/7690">Ran Ben Basat</author><author pid="139/7090">Gil Einziger</author><author pid="68/2276">Isaac Keslassy</author><author pid="65/1175">Ariel Orda</author><author pid="183/0710">Shay Vargaftik</author><author pid="30/1777">Erez Waisbard</author></authors><title>Memento: Making Sliding Windows Efficient for Heavy Hitters.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1440-1453</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/BasatEKOVW22</key><doi>10.1109/TNET.2021.3132385</doi><ee>https://doi.org/10.1109/TNET.2021.3132385</ee><url>https://dblp.org/rec/journals/ton/BasatEKOVW22</url></info>
+<url>URL#458619</url>
+</hit>
+<hit score="1" id="458620">
+<info><authors><author pid="139/0489">Arani Bhattacharya</author><author pid="193/9280">Caitao Zhan</author><author pid="173/7663">Abhishek Maji</author><author pid="g/HimanshuGupta">Himanshu Gupta 0001</author><author pid="90/4174">Samir R. Das</author><author pid="08/1875">Petar M. Djuric</author></authors><title>Selection of Sensors for Efficient Transmitter Localization.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>107-119</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/BhattacharyaZMG22</key><doi>10.1109/TNET.2021.3104000</doi><ee>https://doi.org/10.1109/TNET.2021.3104000</ee><url>https://dblp.org/rec/journals/ton/BhattacharyaZMG22</url></info>
+<url>URL#458620</url>
+</hit>
+<hit score="1" id="458621">
+<info><authors><author pid="132/8080">Rajarshi Bhattacharyya</author><author pid="176/5733">Archana Bura</author><author pid="218/1345">Desik Rengarajan</author><author pid="234/6129">Mason Rumuly</author><author pid="160/8715">Bainan Xia</author><author pid="03/353">Srinivas Shakkottai</author><author pid="44/8356">Dileep Kalathil</author><author pid="68/9978">Ricky K. P. Mok</author><author pid="24/3998">Amogh Dhamdhere</author></authors><title>QFlow: A Learning Approach to High QoE Video Streaming at the Wireless Edge.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>32-46</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/BhattacharyyaBR22</key><doi>10.1109/TNET.2021.3106675</doi><ee>https://doi.org/10.1109/TNET.2021.3106675</ee><url>https://dblp.org/rec/journals/ton/BhattacharyyaBR22</url></info>
+<url>URL#458621</url>
+</hit>
+<hit score="1" id="458622">
+<info><authors><author pid="143/5407">Nilanjan Biswas</author><author pid="28/411">Goutam Das</author><author pid="11/6898">Priyadip Ray</author></authors><title>Buffer-Aware User Selection and Resource Allocation for an Opportunistic Cognitive Radio Network: A Cross-Layer Approach.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>1940-1954</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/BiswasDR22</key><doi>10.1109/TNET.2022.3159819</doi><ee>https://doi.org/10.1109/TNET.2022.3159819</ee><url>https://dblp.org/rec/journals/ton/BiswasDR22</url></info>
+<url>URL#458622</url>
+</hit>
+<hit score="1" id="458623">
+<info><authors><author pid="220/5782">Marcel Blöcher</author><author pid="17/6729-15">Lin Wang 0015</author><author pid="e/PTEugster">Patrick Eugster</author><author pid="231/5434">Max Schmidt</author></authors><title>Holistic Resource Scheduling for Data Center In-Network Computing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2448-2463</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/BlocherWES22</key><doi>10.1109/TNET.2022.3174783</doi><ee>https://doi.org/10.1109/TNET.2022.3174783</ee><url>https://dblp.org/rec/journals/ton/BlocherWES22</url></info>
+<url>URL#458623</url>
+</hit>
+<hit score="1" id="458624">
+<info><authors><author pid="220/1776">Massieh Kordi Boroujeny</author><author pid="60/2817">Brian L. Mark</author></authors><title>Design of a Stochastic Traffic Regulator for End-to-End Network Delay Guarantees.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2531-2543</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/BoroujenyM22</key><doi>10.1109/TNET.2022.3181858</doi><ee>https://doi.org/10.1109/TNET.2022.3181858</ee><url>https://dblp.org/rec/journals/ton/BoroujenyM22</url></info>
+<url>URL#458624</url>
+</hit>
+<hit score="1" id="458625">
+<info><authors><author pid="176/5733">Archana Bura</author><author pid="218/1345">Desik Rengarajan</author><author pid="44/8356">Dileep Kalathil</author><author pid="03/353">Srinivas Shakkottai</author><author pid="00/3050">Jean-François Chamberland</author></authors><title>Learning to Cache and Caching to Learn: Regret Analysis of Caching Algorithms.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>18-31</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/BuraRKSC22</key><doi>10.1109/TNET.2021.3105880</doi><ee>https://doi.org/10.1109/TNET.2021.3105880</ee><url>https://dblp.org/rec/journals/ton/BuraRKSC22</url></info>
+<url>URL#458625</url>
+</hit>
+<hit score="1" id="458626">
+<info><authors><author pid="201/4740">Umut Can Çabuk</author><author pid="42/8043">Mustafa Tosun</author><author pid="53/131">Orhan Dagdeviren</author></authors><title>MAX-Tree: A Novel Topology Formation for Maximal Area Coverage in Wireless Ad-Hoc Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>162-175</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/CabukTD22</key><doi>10.1109/TNET.2021.3110675</doi><ee>https://doi.org/10.1109/TNET.2021.3110675</ee><url>https://dblp.org/rec/journals/ton/CabukTD22</url></info>
+<url>URL#458626</url>
+</hit>
+<hit score="1" id="458627">
+<info><authors><author pid="14/5359-4">Yang Cai 0004</author><author pid="88/6785">Jaime Llorca</author><author pid="03/4183">Antonia Maria Tulino</author><author pid="54/2683">Andreas F. Molisch</author></authors><title>Ultra-Reliable Distributed Cloud Network Control With End-to-End Latency Constraints.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2505-2520</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/CaiLTM22</key><doi>10.1109/TNET.2022.3179349</doi><ee>https://doi.org/10.1109/TNET.2022.3179349</ee><url>https://dblp.org/rec/journals/ton/CaiLTM22</url></info>
+<url>URL#458627</url>
+</hit>
+<hit score="1" id="458628">
+<info><authors><author pid="257/6158">Yunxiang Cai</author><author pid="29/5901">Hongzi Zhu</author><author pid="97/1256">Shan Chang</author><author pid="49/67">Xiao Wang</author><author pid="90/4380">Jiangang Shen</author><author pid="99/6797">Minyi Guo</author></authors><title>PeerProbe: Estimating Vehicular Neighbor Distribution With Adaptive Compressive Sensing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1703-1716</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/CaiZCWSG22</key><doi>10.1109/TNET.2022.3149008</doi><ee>https://doi.org/10.1109/TNET.2022.3149008</ee><url>https://dblp.org/rec/journals/ton/CaiZCWSG22</url></info>
+<url>URL#458628</url>
+</hit>
+<hit score="1" id="458629">
+<info><authors><author pid="224/2165">Jiamin Cao</author><author pid="91/112-24">Ying Liu 0024</author><author pid="36/2728-8">Yu Zhou 0008</author><author pid="73/2845-4">Lin He 0004</author><author pid="18/6055">Mingwei Xu</author></authors><title>TurboNet: Faithfully Emulating Networks With Programmable Switches.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1395-1409</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/CaoLZHX22</key><doi>10.1109/TNET.2022.3142126</doi><ee>https://doi.org/10.1109/TNET.2022.3142126</ee><url>https://dblp.org/rec/journals/ton/CaoLZHX22</url></info>
+<url>URL#458629</url>
+</hit>
+<hit score="1" id="458630">
+<info><authors><author pid="239/2939">Hankun Cao</author><author pid="169/9906">Qifa Yan</author><author pid="70/2644">Xiaohu Tang</author><author pid="00/10372">Guojun Han</author></authors><title>Adaptive Gradient Coding.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>717-734</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/CaoYTH22</key><doi>10.1109/TNET.2021.3122873</doi><ee>https://doi.org/10.1109/TNET.2021.3122873</ee><url>https://dblp.org/rec/journals/ton/CaoYTH22</url></info>
+<url>URL#458630</url>
+</hit>
+<hit score="1" id="458631">
+<info><authors><author pid="228/2756">Reena Chackochan</author><author pid="08/8261">Albert Sunny</author><author pid="174/5821">Senthilkumar Dhanasekaran</author></authors><title>Approximate Aggregate Utility Maximization Using Greedy Maximal Scheduling.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2521-2530</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ChackochanSD22</key><doi>10.1109/TNET.2022.3179451</doi><ee>https://doi.org/10.1109/TNET.2022.3179451</ee><url>https://dblp.org/rec/journals/ton/ChackochanSD22</url></info>
+<url>URL#458631</url>
+</hit>
+<hit score="1" id="458632">
+<info><authors><author pid="50/2529">Hyunseok Chang</author><author pid="01/6280">Matteo Varvello</author><author pid="01/4221">Fang Hao</author><author pid="72/5978">Sarit Mukherjee</author></authors><title>A Tale of Three Videoconferencing Applications: Zoom, Webex, and Meet.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2343-2358</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ChangVHM22</key><doi>10.1109/TNET.2022.3171467</doi><ee>https://doi.org/10.1109/TNET.2022.3171467</ee><url>https://dblp.org/rec/journals/ton/ChangVHM22</url></info>
+<url>URL#458632</url>
+</hit>
+<hit score="1" id="458633">
+<info><authors><author pid="13/3479-2">Lin Chen 0002</author><author pid="12/3912-1">Shan Lin 0001</author><author pid="70/5618-3">Hua Huang 0003</author><author pid="68/3781">Weihua Yang</author></authors><title>Charging Path Optimization in Mobile Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2262-2273</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ChenLHY22</key><doi>10.1109/TNET.2022.3167781</doi><ee>https://doi.org/10.1109/TNET.2022.3167781</ee><url>https://dblp.org/rec/journals/ton/ChenLHY22</url></info>
+<url>URL#458633</url>
+</hit>
+<hit score="1" id="458634">
+<info><authors><author pid="23/689">Kuan-yin Chen</author><author pid="91/3699-2">Sen Liu 0002</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="195/7419">Ishant Kumar Siddhrau</author><author pid="210/2555">Siyu Zhou</author><author pid="145/8541">Zehua Guo 0001</author><author pid="48/1215">H. Jonathan Chao</author></authors><title>SDNShield: NFV-Based Defense Framework Against DDoS Attacks on SDN Control Plane.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>1-17</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ChenLXSZGC22</key><doi>10.1109/TNET.2021.3105187</doi><ee>https://doi.org/10.1109/TNET.2021.3105187</ee><url>https://dblp.org/rec/journals/ton/ChenLXSZGC22</url></info>
+<url>URL#458634</url>
+</hit>
+<hit score="1" id="458635">
+<info><authors><author pid="56/1670-8">Ning Chen 0008</author><author pid="53/9359">Tie Qiu 0001</author><author pid="271/9904">Zilong Lu</author><author pid="88/1600">Dapeng Oliver Wu</author></authors><title>An Adaptive Robustness Evolution Algorithm With Self-Competition and its 3D Deployment for Internet of Things.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>368-381</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ChenQLW22</key><doi>10.1109/TNET.2021.3113916</doi><ee>https://doi.org/10.1109/TNET.2021.3113916</ee><url>https://dblp.org/rec/journals/ton/ChenQLW22</url></info>
+<url>URL#458635</url>
+</hit>
+<hit score="1" id="458636">
+<info><authors><author pid="181/2832">Wei Chen</author><author pid="32/5495-4">Ye Tian 0004</author><author pid="137/9869">Zhongxiang Wei</author><author pid="284/8584">Jiangyu Pan</author><author pid="06/449-1">Xinming Zhang 0001</author></authors><title>Task Scheduling for Probabilistic In -Band Network Telemetry.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2858-2869</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ChenTWPZ22</key><doi>10.1109/TNET.2022.3189370</doi><ee>https://doi.org/10.1109/TNET.2022.3189370</ee><url>https://dblp.org/rec/journals/ton/ChenTWPZ22</url></info>
+<url>URL#458636</url>
+</hit>
+<hit score="1" id="458637">
+<info><authors><author pid="50/10586">Yanjiao Chen</author><author pid="34/6611">Meng Xue</author><author pid="07/314-10">Jian Zhang 0010</author><author pid="259/3941">Runmin Ou</author><author pid="04/2024-1">Qian Zhang 0001</author><author pid="217/1002">Peng Kuang</author></authors><title>DetectDUI: An In-Car Detection System for Drink Driving and BACs.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>896-910</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/ChenXZOZK22</key><doi>10.1109/TNET.2021.3125950</doi><ee>https://doi.org/10.1109/TNET.2021.3125950</ee><url>https://dblp.org/rec/journals/ton/ChenXZOZK22</url></info>
+<url>URL#458637</url>
+</hit>
+<hit score="1" id="458638">
+<info><authors><author pid="211/0585">Xianhao Chen</author><author pid="74/2674">Guangyu Zhu</author><author pid="117/3794">Haichuan Ding</author><author pid="54/2752-5">Lan Zhang 0005</author><author pid="48/2947-1">Haixia Zhang 0001</author><author pid="f/YuguangFang">Yuguang Fang</author></authors><title>End-to-End Service Auction: A General Double Auction Mechanism for Edge Computing Services.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2616-2629</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ChenZDZZF22</key><doi>10.1109/TNET.2022.3179239</doi><ee>https://doi.org/10.1109/TNET.2022.3179239</ee><url>https://dblp.org/rec/journals/ton/ChenZDZZF22</url></info>
+<url>URL#458638</url>
+</hit>
+<hit score="1" id="458639">
+<info><authors><author pid="47/2086">Itamar Cohen</author><author pid="139/7090">Gil Einziger</author><author pid="10/833">Gabriel Scalosub</author></authors><title>False Negative Awareness in Indicator-Based Caching Systems.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2674-2687</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/CohenES22</key><doi>10.1109/TNET.2022.3177282</doi><ee>https://doi.org/10.1109/TNET.2022.3177282</ee><url>https://dblp.org/rec/journals/ton/CohenES22</url></info>
+<url>URL#458639</url>
+</hit>
+<hit score="1" id="458640">
+<info><authors><author pid="17/6007">Reuven Cohen</author><author pid="190/1358">Matty Kadosh</author><author pid="229/8766">Alan Lo</author><author pid="277/5243">Qasem Sayah</author></authors><title>LB Scalability: Achieving the Right Balance Between Being Stateful and Stateless.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>382-393</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/CohenKLS22</key><doi>10.1109/TNET.2021.3112517</doi><ee>https://doi.org/10.1109/TNET.2021.3112517</ee><url>https://dblp.org/rec/journals/ton/CohenKLS22</url></info>
+<url>URL#458640</url>
+</hit>
+<hit score="1" id="458641">
+<info><authors><author pid="00/2420-1">Lin Dai 0001</author></authors><title>A Theoretical Framework for Random Access: Stability Regions and Transmission Control.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2173-2200</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/Dai22</key><doi>10.1109/TNET.2022.3164458</doi><ee>https://doi.org/10.1109/TNET.2022.3164458</ee><url>https://dblp.org/rec/journals/ton/Dai22</url></info>
+<url>URL#458641</url>
+</hit>
+<hit score="1" id="458642">
+<info><authors><author pid="190/3802">Sushovan Das</author><author pid="52/7127">Afsaneh Rahbar</author><author pid="275/3638">Xinyu Crystal Wu</author><author pid="04/6982">Zhuang Wang</author><author pid="22/10826">Weitao Wang</author><author pid="59/146-1">Ang Chen 0001</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>Shufflecast: An Optical, Data-Rate Agnostic, and Low-Power Multicast Architecture for Next-Generation Compute Clusters.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>1970-1985</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/DasRWWWCN22</key><doi>10.1109/TNET.2022.3158899</doi><ee>https://doi.org/10.1109/TNET.2022.3158899</ee><url>https://dblp.org/rec/journals/ton/DasRWWWCN22</url></info>
+<url>URL#458642</url>
+</hit>
+<hit score="1" id="458643">
+<info><authors><author pid="271/9869">Keerthi Priya Dasala</author><author pid="18/2302">Josep Miquel Jornet</author><author pid="k/EWKnightly">Edward W. Knightly</author></authors><title>Scaling mmWave WLANs With Single RF Chain Multiuser Beamforming.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2630-2643</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/DasalaJK22</key><doi>10.1109/TNET.2022.3182976</doi><ee>https://doi.org/10.1109/TNET.2022.3182976</ee><url>https://dblp.org/rec/journals/ton/DasalaJK22</url></info>
+<url>URL#458643</url>
+</hit>
+<hit score="1" id="458644">
+<info><authors><author pid="89/5503">Yi Ding</author><author pid="181/2612">Ling Liu</author><author pid="16/4505-10">Yu Yang 0010</author><author pid="38/559">Yunhuai Liu</author><author pid="15/8612">Desheng Zhang</author><author pid="h/TianHe">Tian He 0001</author></authors><title>From Conception to Retirement: A Lifetime Story of a 3-Year-Old Wireless Beacon System in the Wild.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>47-61</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/DingLYLZH22</key><doi>10.1109/TNET.2021.3107043</doi><ee>https://doi.org/10.1109/TNET.2021.3107043</ee><url>https://dblp.org/rec/journals/ton/DingLYLZH22</url></info>
+<url>URL#458644</url>
+</hit>
+<hit score="1" id="458645">
+<info><authors><author pid="81/1475">Jun Du</author><author pid="00/8334">Chunxiao Jiang</author><author pid="85/964">Abderrahim Benslimane</author><author pid="01/267-1">Song Guo 0001</author><author pid="00/440-1">Yong Ren 0001</author></authors><title>SDN-Based Resource Allocation in Edge and Cloud Computing Systems: An Evolutionary Stackelberg Differential Game Approach.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1613-1628</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/DuJBGR22</key><doi>10.1109/TNET.2022.3152150</doi><ee>https://doi.org/10.1109/TNET.2022.3152150</ee><url>https://dblp.org/rec/journals/ton/DuJBGR22</url></info>
+<url>URL#458645</url>
+</hit>
+<hit score="1" id="458646">
+<info><authors><author pid="177/9310">Ingo van Duijn</author><author pid="144/4964">Peter Gjøl Jensen</author><author pid="230/6809">Jesper Stenbjerg Jensen</author><author pid="230/6823">Troels Beck Krøgh</author><author pid="230/6795">Jonas Sand Madsen</author><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="s/JiriSrba">Jirí Srba</author><author pid="230/6816">Marc Tom Thorgersen</author></authors><title>Automata-Theoretic Approach to Verification of MPLS Networks Under Link Failures.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>766-781</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/DuijnJJKMSST22</key><doi>10.1109/TNET.2021.3126572</doi><ee>https://doi.org/10.1109/TNET.2021.3126572</ee><url>https://dblp.org/rec/journals/ton/DuijnJJKMSST22</url></info>
+<url>URL#458646</url>
+</hit>
+<hit score="1" id="458647">
+<info><authors><author pid="166/5938">Chongrong Fang</author><author pid="203/9503">Haoyu Liu</author><author pid="157/7918">Mao Miao</author><author pid="72/8838">Jie Ye</author><author pid="181/2817">Lei Wang</author><author pid="98/9242">Wansheng Zhang</author><author pid="267/2886">Daxiang Kang</author><author pid="267/2853">Biao Lyu</author><author pid="299/2226">Shunmin Zhu</author><author pid="76/185-1">Peng Cheng 0001</author><author pid="55/2484-1">Jiming Chen 0001</author></authors><title>Towards Automatic Root Cause Diagnosis of Persistent Packet Loss in Cloud Overlay Network.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1178-1192</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/FangLMYWZKLZCC22</key><doi>10.1109/TNET.2021.3137557</doi><ee>https://doi.org/10.1109/TNET.2021.3137557</ee><url>https://dblp.org/rec/journals/ton/FangLMYWZKLZCC22</url></info>
+<url>URL#458647</url>
+</hit>
+<hit score="1" id="458648">
+<info><authors><author pid="153/0063">Cuiying Feng</author><author pid="73/7088">Jianwei An</author><author pid="w/KuiWu">Kui Wu 0001</author><author pid="21/1550-1">Jianping Wang 0001</author></authors><title>Bound Inference and Reinforcement Learning-Based Path Construction in Bandwidth Tomography.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>501-514</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/FengAWW22</key><doi>10.1109/TNET.2021.3118006</doi><ee>https://doi.org/10.1109/TNET.2021.3118006</ee><url>https://dblp.org/rec/journals/ton/FengAWW22</url></info>
+<url>URL#458648</url>
+</hit>
+<hit score="1" id="458649">
+<info><authors><author pid="53/8376">Xuewei Feng</author><author pid="181/2688-2">Qi Li 0002</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="274/0756">Chuanpu Fu</author><author pid="181/2626-2">Ke Xu 0002</author></authors><title>Off-Path TCP Hijacking Attacks via the Side Channel of Downgraded IPID.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>409-422</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/FengLSFX22</key><doi>10.1109/TNET.2021.3115517</doi><ee>https://doi.org/10.1109/TNET.2021.3115517</ee><url>https://dblp.org/rec/journals/ton/FengLSFX22</url></info>
+<url>URL#458649</url>
+</hit>
+<hit score="1" id="458650">
+<info><authors><author pid="192/6728">Xinzhe Fu</author><author pid="m/EytanModiano">Eytan H. Modiano</author></authors><title>Learning-NUM: Network Utility Maximization With Unknown Utility Functions and Queueing Delay.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2788-2803</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/FuM22</key><doi>10.1109/TNET.2022.3182890</doi><ee>https://doi.org/10.1109/TNET.2022.3182890</ee><url>https://dblp.org/rec/journals/ton/FuM22</url></info>
+<url>URL#458650</url>
+</hit>
+<hit score="1" id="458651">
+<info><authors><author pid="217/7590">Junsong Fu</author><author pid="44/5770-3">Na Wang 0003</author><author pid="326/8650">Leyao Nie</author><author pid="22/1154">Baojiang Cui</author><author pid="b/BKBhargava">Bharat K. Bhargava</author></authors><title>Defending Trace-Back Attack in 3D Wireless Internet of Things.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1765-1779</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/FuWNCB22</key><doi>10.1109/TNET.2022.3149293</doi><ee>https://doi.org/10.1109/TNET.2022.3149293</ee><url>https://dblp.org/rec/journals/ton/FuWNCB22</url></info>
+<url>URL#458651</url>
+</hit>
+<hit score="1" id="458652">
+<info><authors><author pid="44/7207">Luoyi Fu</author><author pid="38/9461">Jiapeng Zhang</author><author pid="218/2613">Shan Qu</author><author pid="294/4920">Huquan Kang</author><author pid="96/1149">Xinbing Wang</author><author pid="51/1742">Guihai Chen</author></authors><title>Measuring Social Network De-Anonymizability by Means of Morphism Property.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2744-2759</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/FuZQKWC22</key><doi>10.1109/TNET.2022.3180158</doi><ee>https://doi.org/10.1109/TNET.2022.3180158</ee><url>https://dblp.org/rec/journals/ton/FuZQKWC22</url></info>
+<url>URL#458652</url>
+</hit>
+<hit score="1" id="458653">
+<info><authors><author pid="209/1834">Swaroop Gopalam</author><author pid="25/3433">Stephen V. Hanly</author><author pid="21/6087">Philip Whiting</author></authors><title>Distributed and Local Scheduling Algorithms for mmWave Integrated Access and Backhaul.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1749-1764</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/GopalamHW22</key><doi>10.1109/TNET.2022.3154367</doi><ee>https://doi.org/10.1109/TNET.2022.3154367</ee><url>https://dblp.org/rec/journals/ton/GopalamHW22</url></info>
+<url>URL#458653</url>
+</hit>
+<hit score="1" id="458654">
+<info><authors><author pid="144/1073">Carlo Augusto Grazia</author><author pid="144/1026">Natale Patriciello</author><author pid="167/6311">Toke Høiland-Jørgensen</author><author pid="156/4487">Martin Klapez</author><author pid="16/5857">Maurizio Casoni</author></authors><title>Aggregating Without Bloating: Hard Times for TCP on Wi-Fi.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2359-2373</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/GraziaPHKC22</key><doi>10.1109/TNET.2022.3171594</doi><ee>https://doi.org/10.1109/TNET.2022.3171594</ee><url>https://dblp.org/rec/journals/ton/GraziaPHKC22</url></info>
+<url>URL#458654</url>
+</hit>
+<hit score="1" id="458655">
+<info><authors><author pid="145/8541">Zehua Guo 0001</author><author pid="276/2394">Songshi Dou</author><author pid="91/3699-2">Sen Liu 0002</author><author pid="222/5921">Wendi Feng</author><author pid="55/7618">Wenchao Jiang</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>Maintaining Control Resiliency and Flow Programmability in Software-Defined WANs During Controller Failures.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>969-984</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/GuoDLFJXZ22</key><doi>10.1109/TNET.2021.3128771</doi><ee>https://doi.org/10.1109/TNET.2021.3128771</ee><url>https://dblp.org/rec/journals/ton/GuoDLFJXZ22</url></info>
+<url>URL#458655</url>
+</hit>
+<hit score="1" id="458656">
+<info><authors><author pid="188/8787">Xiuzhen Guo</author><author pid="91/10470">Longfei Shangguan</author><author pid="11/1735-4">Yuan He 0004</author><author pid="80/2266">Jia Zhang</author><author pid="180/0691">Haotian Jiang</author><author pid="279/2791">Awais Ahmad Siddiqi</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>Efficient Ambient LoRa Backscatter With On-Off Keying Modulation.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>641-654</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/GuoSHZJSL22</key><doi>10.1109/TNET.2021.3121787</doi><ee>https://doi.org/10.1109/TNET.2021.3121787</ee><url>https://dblp.org/rec/journals/ton/GuoSHZJSL22</url></info>
+<url>URL#458656</url>
+</hit>
+<hit score="1" id="458657">
+<info><authors><author pid="147/1606">Zhenhua Han</author><author pid="02/3687">Haisheng Tan</author><author pid="w/RuiWang7">Rui Wang 0007</author><author pid="255/5660">Yuncong Hong</author><author pid="l/FrancisChiMoonLau">Francis C. M. Lau 0001</author></authors><title>Efficient Online Learning Based Cross-Tier Uplink Scheduling in HetNets.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2389-2402</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HanTWHL22</key><doi>10.1109/TNET.2022.3173432</doi><ee>https://doi.org/10.1109/TNET.2022.3173432</ee><url>https://dblp.org/rec/journals/ton/HanTWHL22</url></info>
+<url>URL#458657</url>
+</hit>
+<hit score="1" id="458658">
+<info><authors><author pid="22/9805">Yanyan Han</author><author pid="78/1033">Hongyi Wu</author></authors><title>Privacy-Aware Participant Recruitment in Opportunistic Device to Device Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1340-1351</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HanW22</key><doi>10.1109/TNET.2022.3141069</doi><ee>https://doi.org/10.1109/TNET.2022.3141069</ee><url>https://dblp.org/rec/journals/ton/HanW22</url></info>
+<url>URL#458658</url>
+</hit>
+<hit score="1" id="458659">
+<info><authors><author pid="69/1798">Xin He</author><author pid="162/1613">Jiaqi Zheng</author><author pid="124/6911">Haipeng Dai</author><author pid="74/3128">Chong Zhang</author><author pid="23/3761">Geng Li</author><author pid="57/5595">Wanchun Dou</author><author pid="206/6738">Wajid Rafique</author><author pid="87/3074">Qiang Ni</author><author pid="51/1742">Guihai Chen</author></authors><title>Continuous Network Update With Consistency Guaranteed in Software-Defined Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1424-1438</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HeZDZLDRNC22</key><doi>10.1109/TNET.2022.3143700</doi><ee>https://doi.org/10.1109/TNET.2022.3143700</ee><url>https://dblp.org/rec/journals/ton/HeZDZLDRNC22</url></info>
+<url>URL#458659</url>
+</hit>
+<hit score="1" id="458660">
+<info><authors><author pid="201/9601">Tim Hellemans</author><author pid="h/BennyVanHoudt">Benny Van Houdt</author></authors><title>Improved Load Balancing in Large Scale Systems Using Attained Service Time Reporting.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>341-353</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HellemansH22</key><doi>10.1109/TNET.2021.3110186</doi><ee>https://doi.org/10.1109/TNET.2021.3110186</ee><url>https://dblp.org/rec/journals/ton/HellemansH22</url></info>
+<url>URL#458660</url>
+</hit>
+<hit score="1" id="458661">
+<info><authors><author pid="277/0392">Alden Hilton</author><author pid="326/8348">Joel Hirschmann</author><author pid="69/6101">Casey T. Deccio</author></authors><title>Beware of IPs in Sheep&apos;s Clothing: Measurement and Disclosure of IP Spoofing Vulnerabilities.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1659-1673</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HiltonHD22</key><doi>10.1109/TNET.2022.3149011</doi><ee>https://doi.org/10.1109/TNET.2022.3149011</ee><url>https://dblp.org/rec/journals/ton/HiltonHD22</url></info>
+<url>URL#458661</url>
+</hit>
+<hit score="1" id="458662">
+<info><authors><author pid="203/9726">Seyyedali Hosseinalipour</author><author pid="218/6739">Sheikh Shams Azam</author><author pid="139/0747">Christopher G. Brinton</author><author pid="45/11437">Nicolò Michelusi</author><author pid="91/6560">Vaneet Aggarwal</author><author pid="34/4085">David J. Love</author><author pid="09/5360">Huaiyu Dai</author></authors><title>Multi-Stage Hybrid Federated Learning Over Large-Scale D2D-Enabled Fog Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1569-1584</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HosseinalipourA22</key><doi>10.1109/TNET.2022.3143495</doi><ee>https://doi.org/10.1109/TNET.2022.3143495</ee><url>https://dblp.org/rec/journals/ton/HosseinalipourA22</url></info>
+<url>URL#458662</url>
+</hit>
+<hit score="1" id="458663">
+<info><authors><author pid="143/8245">Shuihai Hu</author><author pid="204/5313">Gaoxiong Zeng</author><author pid="45/661-1">Wei Bai 0001</author><author pid="42/898">Zilong Wang</author><author pid="223/0216">Baochen Qiao</author><author pid="c/KaiChen5">Kai Chen 0005</author><author pid="42/5784">Kun Tan</author><author pid="67/6649-4">Yi Wang 0004</author></authors><title>Aeolus: A Building Block for Proactive Transport in Datacenter Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>542-556</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HuZBWQCTW22</key><doi>10.1109/TNET.2021.3119986</doi><ee>https://doi.org/10.1109/TNET.2021.3119986</ee><url>https://dblp.org/rec/journals/ton/HuZBWQCTW22</url></info>
+<url>URL#458663</url>
+</hit>
+<hit score="1" id="458664">
+<info><authors><author pid="62/6816">Yuchong Hu</author><author pid="61/10371">Xiaoyang Zhang</author><author pid="25/4018">Patrick P. C. Lee</author><author pid="84/6614">Pan Zhou</author></authors><title>NCScale: Toward Optimal Storage Scaling via Network Coding.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>271-284</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HuZLZ22</key><doi>10.1109/TNET.2021.3106394</doi><ee>https://doi.org/10.1109/TNET.2021.3106394</ee><url>https://dblp.org/rec/journals/ton/HuZLZ22</url></info>
+<url>URL#458664</url>
+</hit>
+<hit score="1" id="458665">
+<info><authors><author pid="75/6434-25">Yan Huang 0025</author><author pid="227/8050">Shaoran Li</author><author pid="h/YTHou">Y. Thomas Hou 0001</author><author pid="73/3673">Wenjing Lou</author></authors><title>GPF+: A Novel Ultrafast GPU-Based Proportional Fair Scheduler for 5G NR.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>601-615</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HuangLHL22</key><doi>10.1109/TNET.2021.3118005</doi><ee>https://doi.org/10.1109/TNET.2021.3118005</ee><url>https://dblp.org/rec/journals/ton/HuangLHL22</url></info>
+<url>URL#458665</url>
+</hit>
+<hit score="1" id="458666">
+<info><authors><author pid="245/6116">Sijiang Huang</author><author pid="206/6742">Mowei Wang</author><author pid="91/2346-1">Yong Cui 0001</author></authors><title>Traffic-Aware Buffer Management in Shared Memory Switches.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2559-2573</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HuangWC22</key><doi>10.1109/TNET.2022.3173930</doi><ee>https://doi.org/10.1109/TNET.2022.3173930</ee><url>https://dblp.org/rec/journals/ton/HuangWC22</url></info>
+<url>URL#458666</url>
+</hit>
+<hit score="1" id="458667">
+<info><authors><author pid="322/6606">Abdalla Hussein</author><author pid="83/2673">Catherine Rosenberg</author><author pid="27/5270">Patrick Mitran</author></authors><title>Hybrid NOMA in Multi-Cell Networks: From a Centralized Analysis to Practical Schemes.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1268-1282</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/HusseinRM22</key><doi>10.1109/TNET.2021.3135599</doi><ee>https://doi.org/10.1109/TNET.2021.3135599</ee><url>https://dblp.org/rec/journals/ton/HusseinRM22</url></info>
+<url>URL#458667</url>
+</hit>
+<hit score="1" id="458668">
+<info><authors><author pid="146/7150">Hassan Iqbal</author><author pid="89/7434">Anand Singh</author><author pid="14/5514-1">Muhammad Shahzad 0001</author></authors><title>Characterizing the Availability and Latency in AWS Network From the Perspective of Tenants.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1554-1568</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/IqbalSS22</key><doi>10.1109/TNET.2022.3148701</doi><ee>https://doi.org/10.1109/TNET.2022.3148701</ee><url>https://dblp.org/rec/journals/ton/IqbalSS22</url></info>
+<url>URL#458668</url>
+</hit>
+<hit score="1" id="458669">
+<info><authors><author pid="203/0130">Mohammad Jahanian</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author></authors><title>CoNICE: Consensus in Intermittently-Connected Environments by Exploiting Naming With Application to Emergency Response.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>1926-1939</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/JahanianR22</key><doi>10.1109/TNET.2022.3156101</doi><ee>https://doi.org/10.1109/TNET.2022.3156101</ee><url>https://dblp.org/rec/journals/ton/JahanianR22</url></info>
+<url>URL#458669</url>
+</hit>
+<hit score="1" id="458670">
+<info><authors><author pid="82/5820">Akshay Jajoo</author><author pid="93/89">Y. Charlie Hu</author><author pid="38/5957-1">Xiaojun Lin 0001</author></authors><title>A Case for Sampling-Based Learning Techniques in Coflow Scheduling.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1494-1508</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/JajooHL22</key><doi>10.1109/TNET.2021.3138923</doi><ee>https://doi.org/10.1109/TNET.2021.3138923</ee><url>https://dblp.org/rec/journals/ton/JajooHL22</url></info>
+<url>URL#458670</url>
+</hit>
+<hit score="1" id="458671">
+<info><authors><author pid="119/2616">Hyeryung Jang</author><author pid="218/6465">HyungSeok Song</author><author pid="01/66">Yung Yi</author></authors><title>On Cost-Efficient Learning of Data Dependency.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1382-1394</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/JangSY22</key><doi>10.1109/TNET.2022.3141128</doi><ee>https://doi.org/10.1109/TNET.2022.3141128</ee><url>https://dblp.org/rec/journals/ton/JangSY22</url></info>
+<url>URL#458671</url>
+</hit>
+<hit score="1" id="458672">
+<info><authors><author pid="188/5904">Theo Jepsen</author><author pid="157/0160">Ali Fattaholmanan</author><author pid="134/3932">Masoud Moshref</author><author pid="15/3253">Nate Foster</author><author pid="53/4439">Antonio Carzaniga</author><author pid="49/6828">Robert Soulé</author></authors><title>Forwarding and Routing With Packet Subscriptions.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2464-2479</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/JepsenFMFCS22</key><doi>10.1109/TNET.2022.3172066</doi><ee>https://doi.org/10.1109/TNET.2022.3172066</ee><url>https://dblp.org/rec/journals/ton/JepsenFMFCS22</url></info>
+<url>URL#458672</url>
+</hit>
+<hit score="1" id="458673">
+<info><authors><author pid="243/0189">Prakirt Raj Jhunjhunwala</author><author pid="40/11045">Siva Theja Maguluri</author></authors><title>Low-Complexity Switch Scheduling Algorithms: Delay Optimality in Heavy Traffic.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>464-473</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/JhunjhunwalaM22</key><doi>10.1109/TNET.2021.3116606</doi><ee>https://doi.org/10.1109/TNET.2021.3116606</ee><url>https://dblp.org/rec/journals/ton/JhunjhunwalaM22</url></info>
+<url>URL#458673</url>
+</hit>
+<hit score="1" id="458674">
+<info><authors><author pid="143/5123">Sladana Josilo</author><author pid="12/2336">György Dán</author></authors><title>Joint Wireless and Edge Computing Resource Management With Dynamic Network Slice Selection.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1865-1878</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/JosiloD22</key><doi>10.1109/TNET.2022.3156178</doi><ee>https://doi.org/10.1109/TNET.2022.3156178</ee><url>https://dblp.org/rec/journals/ton/JosiloD22</url></info>
+<url>URL#458674</url>
+</hit>
+<hit score="1" id="458675">
+<info><authors><author pid="183/6286">Khashayar Kamran</author><author pid="72/5346">Edmund Yeh</author><author pid="49/3103-2">Qian Ma 0002</author></authors><title>DECO: Joint Computation Scheduling, Caching, and Communication in Data-Intensive Computing Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1058-1072</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/KamranYM22</key><doi>10.1109/TNET.2021.3136157</doi><ee>https://doi.org/10.1109/TNET.2021.3136157</ee><url>https://dblp.org/rec/journals/ton/KamranYM22</url></info>
+<url>URL#458675</url>
+</hit>
+<hit score="1" id="458676">
+<info><authors><author pid="213/0812">Nurullah Karakoç</author><author pid="61/1706">Anna Scaglione</author><author pid="54/3577">Martin Reisslein</author><author pid="150/8726">Ruiyuan Wu</author></authors><title>Federated Edge Network Utility Maximization for a Multi-Server System: Algorithm and Convergence.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2002-2017</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/KarakocSRW22</key><doi>10.1109/TNET.2022.3156530</doi><ee>https://doi.org/10.1109/TNET.2022.3156530</ee><url>https://dblp.org/rec/journals/ton/KarakocSRW22</url></info>
+<url>URL#458676</url>
+</hit>
+<hit score="1" id="458677">
+<info><authors><author pid="256/8556">Ibrahim Kettaneh</author><author pid="228/0283">Ahmed Alquraan</author><author pid="228/0293">Hatem Takruri</author><author pid="135/6767">Ali José Mashtizadeh</author><author pid="67/4560">Samer Al-Kiswany</author></authors><title>Accelerating Reads With In-Network Consistency-Aware Load Balancing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>954-968</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/KettanehATMA22</key><doi>10.1109/TNET.2021.3126203</doi><ee>https://doi.org/10.1109/TNET.2021.3126203</ee><url>https://dblp.org/rec/journals/ton/KettanehATMA22</url></info>
+<url>URL#458677</url>
+</hit>
+<hit score="1" id="458678">
+<info><authors><author pid="50/5995">Junghoon Kim</author><author pid="22/3483">Taejoon Kim</author><author pid="143/0717">Morteza Hashemi</author><author pid="34/4085">David J. Love</author><author pid="139/0747">Christopher G. Brinton</author></authors><title>Minimum Overhead Beamforming and Resource Allocation in D2D Edge Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1454-1468</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/KimKHLB22</key><doi>10.1109/TNET.2021.3133022</doi><ee>https://doi.org/10.1109/TNET.2021.3133022</ee><url>https://dblp.org/rec/journals/ton/KimKHLB22</url></info>
+<url>URL#458678</url>
+</hit>
+<hit score="1" id="458679">
+<info><authors><author pid="139/7902">Pan Lai</author><author pid="03/1805-4">Rui Fan 0004</author><author pid="49/4478-6">Xiao Zhang 0006</author><author pid="10/4661-82">Wei Zhang 0082</author><author pid="67/5807-9">Fang Liu 0009</author><author pid="123/5110">Joey Tianyi Zhou</author></authors><title>Utility Optimal Thread Assignment and Resource Allocation in Multi-Server Systems.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>735-748</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LaiFZZLZ22</key><doi>10.1109/TNET.2021.3123817</doi><ee>https://doi.org/10.1109/TNET.2021.3123817</ee><url>https://dblp.org/rec/journals/ton/LaiFZZLZ22</url></info>
+<url>URL#458679</url>
+</hit>
+<hit score="1" id="458680">
+<info><authors><author pid="31/7882">Leonardo Lanante</author><author pid="57/3191-1">Sumit Roy 0001</author></authors><title>Performance Analysis of the IEEE 802.11ax OBSS_PD-Based Spatial Reuse.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>616-628</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LananteR22</key><doi>10.1109/TNET.2021.3117816</doi><ee>https://doi.org/10.1109/TNET.2021.3117816</ee><url>https://dblp.org/rec/journals/ton/LananteR22</url></info>
+<url>URL#458680</url>
+</hit>
+<hit score="1" id="458681">
+<info><authors><author pid="75/3639">Seungsoo Lee</author><author pid="242/0569">Seungwon Woo</author><author pid="85/1809">Jinwoo Kim</author><author pid="162/5227">Jaehyun Nam</author><author pid="75/3570">Vinod Yegneswaran</author><author pid="48/3729">Phillip A. Porras</author><author pid="84/3319">Seungwon Shin</author></authors><title>A Framework for Policy Inconsistency Detection in Software-Defined Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1410-1423</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LeeWKNYPS22</key><doi>10.1109/TNET.2022.3140824</doi><ee>https://doi.org/10.1109/TNET.2022.3140824</ee><url>https://dblp.org/rec/journals/ton/LeeWKNYPS22</url></info>
+<url>URL#458681</url>
+</hit>
+<hit score="1" id="458682">
+<info><authors><author pid="58/6900">Xiao-Yan Li</author><author pid="293/8322">Wanling Lin</author><author pid="08/4586">Jou-Ming Chang</author><author pid="j/XiaohuaJia">Xiaohua Jia</author></authors><title>Transmission Failure Analysis of Multi-Protection Routing in Data Center Networks With Heterogeneous Edge-Core Servers.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1689-1702</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiLCJ22</key><doi>10.1109/TNET.2022.3147320</doi><ee>https://doi.org/10.1109/TNET.2022.3147320</ee><url>https://dblp.org/rec/journals/ton/LiLCJ22</url></info>
+<url>URL#458682</url>
+</hit>
+<hit score="1" id="458683">
+<info><authors><author pid="35/9090">Chengzhang Li</author><author pid="141/5830">Qingyu Liu</author><author pid="227/8050">Shaoran Li</author><author pid="161/8672">Yongce Chen</author><author pid="h/YTHou">Y. Thomas Hou 0001</author><author pid="73/3673">Wenjing Lou</author><author pid="07/790">Sastry Kompella</author></authors><title>Scheduling With Age of Information Guarantee.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2046-2059</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiLLCHLK22</key><doi>10.1109/TNET.2022.3156866</doi><ee>https://doi.org/10.1109/TNET.2022.3156866</ee><url>https://dblp.org/rec/journals/ton/LiLLCHLK22</url></info>
+<url>URL#458683</url>
+</hit>
+<hit score="1" id="458684">
+<info><authors><author pid="49/1389">Bingyu Li</author><author pid="57/4208">Jingqiang Lin</author><author pid="66/6000">Fengjun Li</author><author pid="52/8379">Qiongxiao Wang</author><author pid="35/7092-314">Wei Wang 0314</author><author pid="181/2688-2">Qi Li 0002</author><author pid="318/8092">Guangshen Cheng</author><author pid="70/3282">Jiwu Jing</author><author pid="124/3577">Congli Wang</author></authors><title>The Invisible Side of Certificate Transparency: Exploring the Reliability of Monitors in the Wild.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>749-765</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiLLWWLCJW22</key><doi>10.1109/TNET.2021.3123507</doi><ee>https://doi.org/10.1109/TNET.2021.3123507</ee><url>https://dblp.org/rec/journals/ton/LiLLWWLCJW22</url></info>
+<url>URL#458684</url>
+</hit>
+<hit score="1" id="458685">
+<info><authors><author pid="51/4015-9">Zhuo Li 0009</author><author pid="292/4138">Jindian Liu</author><author pid="59/6909">Liu Yan</author><author pid="81/3293-1">Beichuan Zhang 0001</author><author pid="16/9912">Peng Luo</author><author pid="87/10014">Kaihua Liu</author></authors><title>Smart Name Lookup for NDN Forwarding Plane via Neural Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>529-541</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiLYZLL22</key><doi>10.1109/TNET.2021.3119769</doi><ee>https://doi.org/10.1109/TNET.2021.3119769</ee><url>https://dblp.org/rec/journals/ton/LiLYZLL22</url></info>
+<url>URL#458685</url>
+</hit>
+<hit score="1" id="458686">
+<info><authors><author pid="148/1926">Zhuozhao Li</author><author pid="15/5579">Haiying Shen</author></authors><title>Co-Scheduler: A Coflow-Aware Data-Parallel Job Scheduler in Hybrid Electrical/Optical Datacenter Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1599-1612</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiS22</key><doi>10.1109/TNET.2022.3143232</doi><ee>https://doi.org/10.1109/TNET.2022.3143232</ee><url>https://dblp.org/rec/journals/ton/LiS22</url></info>
+<url>URL#458686</url>
+</hit>
+<hit score="1" id="458687">
+<info><authors><author pid="148/1926">Zhuozhao Li</author><author pid="129/5726">Tanmoy Sen</author><author pid="15/5579">Haiying Shen</author><author pid="23/5033">Mooi Choo Chuah</author></authors><title>A Study on the Impact of Memory DoS Attacks on Cloud Applications and Exploring Real-Time Detection Schemes.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1644-1658</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiSSC22</key><doi>10.1109/TNET.2022.3144895</doi><ee>https://doi.org/10.1109/TNET.2022.3144895</ee><url>https://dblp.org/rec/journals/ton/LiSSC22</url></info>
+<url>URL#458687</url>
+</hit>
+<hit score="1" id="458688">
+<info><authors><author pid="25/3528-12">Xu Li 0012</author><author pid="59/2249">Feilong Tang</author><author pid="02/6595">Yanmin Zhu</author><author pid="44/7207">Luoyi Fu</author><author pid="85/3615">Jiadi Yu</author><author pid="64/5725-25">Long Chen 0025</author><author pid="202/3902-1">Jiacheng Liu 0001</author></authors><title>Processing-While-Transmitting: Cost-Minimized Transmission in SDN-Based STINs.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>243-256</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiTZFYCL22</key><doi>10.1109/TNET.2021.3107413</doi><ee>https://doi.org/10.1109/TNET.2021.3107413</ee><url>https://dblp.org/rec/journals/ton/LiTZFYCL22</url></info>
+<url>URL#458688</url>
+</hit>
+<hit score="1" id="458689">
+<info><authors><author pid="50/3011">Chong Li</author><author pid="52/10300">Sisu Xi</author><author pid="88/683">Chenyang Lu 0001</author><author pid="15/745">Roch Guérin</author><author pid="51/3192">Christopher D. Gill</author></authors><title>Virtualization-Aware Traffic Control for Soft Real-Time Network Traffic on Xen.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>257-270</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiXLGG22</key><doi>10.1109/TNET.2021.3114055</doi><ee>https://doi.org/10.1109/TNET.2021.3114055</ee><url>https://dblp.org/rec/journals/ton/LiXLGG22</url></info>
+<url>URL#458689</url>
+</hit>
+<hit score="1" id="458690">
+<info><authors><author pid="01/5809">Chun Li</author><author pid="24/8739">Yunyun Yang</author><author pid="16/6501">Hui Liang</author><author pid="93/2608">Boying Wu</author></authors><title>Learning Quantum Drift-Diffusion Phenomenon by Physics-Constraint Machine Learning.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2090-2101</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiYLW22</key><doi>10.1109/TNET.2022.3158987</doi><ee>https://doi.org/10.1109/TNET.2022.3158987</ee><url>https://dblp.org/rec/journals/ton/LiYLW22</url></info>
+<url>URL#458690</url>
+</hit>
+<hit score="1" id="458691">
+<info><authors><author pid="08/8174">Yuanpeng Li</author><author pid="19/2453">Xiang Yu</author><author pid="264/9367">Yilong Yang 0004</author><author pid="07/4580-8">Yang Zhou 0008</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="91/7448">Zhuo Ma</author><author pid="c/ShigangChen">Shigang Chen</author></authors><title>Pyramid Family: Generic Frameworks for Accurate and Fast Flow Size Measurement.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>586-600</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiYYZYMC22</key><doi>10.1109/TNET.2021.3120085</doi><ee>https://doi.org/10.1109/TNET.2021.3120085</ee><url>https://dblp.org/rec/journals/ton/LiYYZYMC22</url></info>
+<url>URL#458691</url>
+</hit>
+<hit score="1" id="458692">
+<info><authors><author pid="17/5705-11">Hao Li 0011</author><author pid="21/1048-11">Peng Zhang 0011</author><author pid="279/5550">Guangda Sun</author><author pid="302/5661">Wanyue Cao</author><author pid="62/921">Chengchen Hu</author><author pid="137/3349">Danfeng Shan</author><author pid="26/11343">Tian Pan 0001</author><author pid="17/1352-11">Qiang Fu 0011</author></authors><title>Compiling Cross-Language Network Programs Into Hybrid Data Plane.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1088-1103</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiZSCHSPF22</key><doi>10.1109/TNET.2021.3132303</doi><ee>https://doi.org/10.1109/TNET.2021.3132303</ee><url>https://dblp.org/rec/journals/ton/LiZSCHSPF22</url></info>
+<url>URL#458692</url>
+</hit>
+<hit score="1" id="458693">
+<info><authors><author pid="92/2954-2">Feng Li 0002</author><author pid="87/5278">Jichao Zhao</author><author pid="44/7265">Dongxiao Yu</author><author pid="c/XiuzhenCheng">Xiuzhen Cheng 0001</author><author pid="15/2736">Weifeng Lv</author></authors><title>Harnessing Context for Budget-Limited Crowdsensing With Massive Uncertain Workers.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2231-2245</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiZYCL22</key><doi>10.1109/TNET.2022.3169180</doi><ee>https://doi.org/10.1109/TNET.2022.3169180</ee><url>https://dblp.org/rec/journals/ton/LiZYCL22</url></info>
+<url>URL#458693</url>
+</hit>
+<hit score="1" id="458694">
+<info><authors><author pid="70/1726-6">Meng Li 0006</author><author pid="26/2546">Liehuang Zhu</author><author pid="43/6524-1">Zijian Zhang 0001</author><author pid="98/10124">Chhagan Lal</author><author pid="82/4386">Mauro Conti</author><author pid="16/7566">Mamoun Alazab</author></authors><title>User-Defined Privacy-Preserving Traffic Monitoring Against n-by-1 Jamming Attack.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2060-2073</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiZZLCA22</key><doi>10.1109/TNET.2022.3157654</doi><ee>https://doi.org/10.1109/TNET.2022.3157654</ee><url>https://dblp.org/rec/journals/ton/LiZZLCA22</url></info>
+<url>URL#458694</url>
+</hit>
+<hit score="1" id="458695">
+<info><authors><author pid="213/0876">Guocheng Liao</author><author pid="83/6331-4">Xu Chen 0004</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>Privacy-Aware Online Social Networking With Targeted Advertisement.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1312-1327</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiaoCH22</key><doi>10.1109/TNET.2021.3137513</doi><ee>https://doi.org/10.1109/TNET.2021.3137513</ee><url>https://dblp.org/rec/journals/ton/LiaoCH22</url></info>
+<url>URL#458695</url>
+</hit>
+<hit score="1" id="458696">
+<info><authors><author pid="174/9779">Dianxiong Liu</author><author pid="13/5161">Zhiyong Du</author><author pid="240/6614">Xiaodu Liu</author><author pid="273/2001">Heyu Luan</author><author pid="123/0905">Yitao Xu</author><author pid="62/1662-3">Yifan Xu 0003</author></authors><title>Task-Based Network Reconfiguration in Distributed UAV Swarms: A Bilateral Matching Approach.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2688-2700</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/LiuDLLXX22</key><doi>10.1109/TNET.2022.3181036</doi><ee>https://doi.org/10.1109/TNET.2022.3181036</ee><url>https://dblp.org/rec/journals/ton/LiuDLLXX22</url></info>
+<url>URL#458696</url>
+</hit>
+<hit score="1" id="458697">
+<info><authors><author pid="155/1176">Yunshu Liu</author><author pid="179/2243">Zhixuan Fang</author><author pid="41/7881">Man Hon Cheung</author><author pid="52/2830-2">Wei Cai 0002</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>An Incentive Mechanism for Sustainable Blockchain Storage.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2131-2144</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuFCCH22</key><doi>10.1109/TNET.2022.3166459</doi><ee>https://doi.org/10.1109/TNET.2022.3166459</ee><url>https://dblp.org/rec/journals/ton/LiuFCCH22</url></info>
+<url>URL#458697</url>
+</hit>
+<hit score="1" id="458698">
+<info><authors><author pid="160/7597">Jingling Liu</author><author pid="13/4208-1">Jiawei Huang 0001</author><author pid="78/2545">Zhaoyi Li</author><author pid="52/6049">Yijun Li</author><author pid="75/2669-1">Jianxin Wang 0001</author><author pid="h/TianHe">Tian He 0001</author></authors><title>Achieving Per-Flow Fairness and High Utilization With Limited Priority Queues in Data Center.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2374-2387</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuHLLWH22</key><doi>10.1109/TNET.2022.3172749</doi><ee>https://doi.org/10.1109/TNET.2022.3172749</ee><url>https://dblp.org/rec/journals/ton/LiuHLLWH22</url></info>
+<url>URL#458698</url>
+</hit>
+<hit score="1" id="458699">
+<info><authors><author pid="69/10440-1">Yuchen Liu 0001</author><author pid="43/9768">Yubing Jian</author><author pid="36/5013">Raghupathy Sivakumar</author><author pid="b/DMBlough">Douglas M. Blough</author></authors><title>Maximizing Line-of-Sight Coverage for mmWave Wireless LANs With Multiple Access Points.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>698-716</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuJSB22</key><doi>10.1109/TNET.2021.3122378</doi><ee>https://doi.org/10.1109/TNET.2021.3122378</ee><url>https://dblp.org/rec/journals/ton/LiuJSB22</url></info>
+<url>URL#458699</url>
+</hit>
+<hit score="1" id="458700">
+<info><authors><author pid="83/4877">Kaiyang Liu</author><author pid="87/6982-1">Jun Peng 0001</author><author pid="209/1568">Jingrong Wang</author><author pid="p/JianpingPan">Jianping Pan 0001</author></authors><title>Optimal Caching for Low Latency in Distributed Coded Storage Systems.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1132-1145</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuPWP22</key><doi>10.1109/TNET.2021.3133215</doi><ee>https://doi.org/10.1109/TNET.2021.3133215</ee><url>https://dblp.org/rec/journals/ton/LiuPWP22</url></info>
+<url>URL#458700</url>
+</hit>
+<hit score="1" id="458701">
+<info><authors><author pid="52/5716">Chang Liu</author><author pid="33/879">Jean Tourrilhes</author><author pid="47/4465">Chen-Nee Chuah</author><author pid="13/5262">Puneet Sharma</author></authors><title>Voyager: Revisiting Available Bandwidth Estimation With a New Class of Methods - Decreasing- Chirp-Train Methods.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1717-1732</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuTCS22</key><doi>10.1109/TNET.2022.3152175</doi><ee>https://doi.org/10.1109/TNET.2022.3152175</ee><url>https://dblp.org/rec/journals/ton/LiuTCS22</url></info>
+<url>URL#458701</url>
+</hit>
+<hit score="1" id="458702">
+<info><authors><author pid="243/3118">Xilai Liu</author><author pid="03/4702">Yan Xu</author><author pid="21/6121">Peng Liu</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="87/10695">Jiaqi Xu</author><author pid="130/1339">Lun Wang</author><author pid="01/2888">Gaogang Xie</author><author pid="36/3071-1">Xiaoming Li 0001</author><author pid="87/6218">Steve Uhlig</author></authors><title>SEAD Counter: Self-Adaptive Counters With Different Counting Ranges.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>90-106</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuXLYXWXLU22</key><doi>10.1109/TNET.2021.3107418</doi><ee>https://doi.org/10.1109/TNET.2021.3107418</ee><url>https://dblp.org/rec/journals/ton/LiuXLYXWXLU22</url></info>
+<url>URL#458702</url>
+</hit>
+<hit score="1" id="458703">
+<info><authors><author pid="76/1820-49">Xin Liu 0049</author><author pid="27/4818">Lei Ying</author></authors><title>Universal Scaling of Distributed Queues Under Load Balancing in the Super-Halfin-Whitt Regime.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>190-201</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuY22</key><doi>10.1109/TNET.2021.3105480</doi><ee>https://doi.org/10.1109/TNET.2021.3105480</ee><url>https://dblp.org/rec/journals/ton/LiuY22</url></info>
+<url>URL#458703</url>
+</hit>
+<hit score="1" id="458704">
+<info><authors><author pid="211/9049">Tzu-Hsuan Liu</author><author pid="272/9276">Che-Hao Yu</author><author pid="141/5592">Yi-Jheng Lin</author><author pid="77/6881">Chia-Ming Chang</author><author pid="58/2564">Cheng-Shang Chang</author><author pid="63/4845">Duan-Shin Lee</author></authors><title>ALOHA Receivers: A Network Calculus Approach for Analyzing Coded Multiple Access With SIC.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>840-854</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuYLCCL22</key><doi>10.1109/TNET.2021.3123685</doi><ee>https://doi.org/10.1109/TNET.2021.3123685</ee><url>https://dblp.org/rec/journals/ton/LiuYLCCL22</url></info>
+<url>URL#458704</url>
+</hit>
+<hit score="1" id="458705">
+<info><authors><author pid="49/1245-8">Jia Liu 0008</author><author pid="22/1147">Xi Yu</author><author pid="13/5407-1">Xuan Liu 0001</author><author pid="59/7651">Xingyu Chen</author><author pid="24/146">Haisong Liu</author><author pid="62/6975">Yanyan Wang</author><author pid="c/LijunChen6">Lijun Chen 0006</author></authors><title>Time-Efficient Range Detection in Commodity RFID Systems.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1118-1131</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuYLCLWC22</key><doi>10.1109/TNET.2021.3138083</doi><ee>https://doi.org/10.1109/TNET.2021.3138083</ee><url>https://dblp.org/rec/journals/ton/LiuYLCLWC22</url></info>
+<url>URL#458705</url>
+</hit>
+<hit score="1" id="458706">
+<info><authors><author pid="141/5830">Qingyu Liu</author><author pid="63/2279-1">Haibo Zeng 0001</author><author pid="12/4395-1">Minghua Chen 0001</author></authors><title>Minimizing AoI With Throughput Requirements in Multi-Path Network Communication.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1203-1216</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuZC22</key><doi>10.1109/TNET.2021.3135494</doi><ee>https://doi.org/10.1109/TNET.2021.3135494</ee><url>https://dblp.org/rec/journals/ton/LiuZC22</url></info>
+<url>URL#458706</url>
+</hit>
+<hit score="1" id="458707">
+<info><authors><author pid="85/6600">Xuezheng Liu</author><author pid="270/2248">Zhicong Zhong</author><author pid="78/6594">Yipeng Zhou</author><author pid="52/328-1">Di Wu 0001</author><author pid="83/6331-4">Xu Chen 0004</author><author pid="50/6996-3">Min Chen 0003</author><author pid="s/QuanZSheng">Quan Z. Sheng</author></authors><title>Accelerating Federated Learning via Parallel Servers: A Theoretically Guaranteed Approach.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2201-2215</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiuZZWCCS22</key><doi>10.1109/TNET.2022.3168939</doi><ee>https://doi.org/10.1109/TNET.2022.3168939</ee><url>https://dblp.org/rec/journals/ton/LiuZZWCCS22</url></info>
+<url>URL#458707</url>
+</hit>
+<hit score="1" id="458708">
+<info><authors><author pid="149/0004">Minghui Liwang</author><author pid="87/6482-1">Xianbin Wang 0001</author></authors><title>Overbooking-Empowered Computing Resource Provisioning in Cloud-Aided Mobile Edge Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2289-2303</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/LiwangW22</key><doi>10.1109/TNET.2022.3167396</doi><ee>https://doi.org/10.1109/TNET.2022.3167396</ee><url>https://dblp.org/rec/journals/ton/LiwangW22</url></info>
+<url>URL#458708</url>
+</hit>
+<hit score="1" id="458709">
+<info><authors><author pid="219/6220">Chaoyi Ma</author><author pid="c/ShigangChen">Shigang Chen</author><author pid="41/10435">Youlin Zhang</author><author pid="51/452">Qingjun Xiao</author><author pid="222/5461">Olufemi O. Odegbile</author></authors><title>Super Spreader Identification Using Geometric-Min Filter.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>299-312</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/MaCZXO22</key><doi>10.1109/TNET.2021.3108033</doi><ee>https://doi.org/10.1109/TNET.2021.3108033</ee><url>https://dblp.org/rec/journals/ton/MaCZXO22</url></info>
+<url>URL#458709</url>
+</hit>
+<hit score="1" id="458710">
+<info><authors><author pid="18/10062">Xiaobo Ma</author><author pid="67/10326">Jian Qu</author><author pid="10/3844">Jianfeng Li</author><author pid="l/JohnCSLui">John C. S. Lui</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="62/9032">Wenmao Liu</author><author pid="45/503">Xiaohong Guan</author></authors><title>Inferring Hidden IoT Devices and User Interactions via Spatial-Temporal Traffic Fingerprinting.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>394-408</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/MaQLLLLG22</key><doi>10.1109/TNET.2021.3112480</doi><ee>https://doi.org/10.1109/TNET.2021.3112480</ee><url>https://dblp.org/rec/journals/ton/MaQLLLLG22</url></info>
+<url>URL#458710</url>
+</hit>
+<hit score="1" id="458711">
+<info><authors><author pid="219/6220">Chaoyi Ma</author><author pid="71/3583-4">Haibo Wang 0004</author><author pid="222/5461">Olufemi O. Odegbile</author><author pid="c/ShigangChen">Shigang Chen</author><author pid="272/5449">Dimitrios Melissourgos</author></authors><title>Virtual Filter for Non-Duplicate Sampling With Network Applications.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2818-2833</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/MaWOCM22</key><doi>10.1109/TNET.2022.3182694</doi><ee>https://doi.org/10.1109/TNET.2022.3182694</ee><url>https://dblp.org/rec/journals/ton/MaWOCM22</url></info>
+<url>URL#458711</url>
+</hit>
+<hit score="1" id="458712">
+<info><authors><author pid="224/0326">Jorge Martín-Pérez</author><author pid="67/7179">Francesco Malandrino</author><author pid="c/CFChiasserini">Carla-Fabiana Chiasserini</author><author pid="274/3358">Milan Groshev</author><author pid="94/4416">Carlos J. Bernardos</author></authors><title>KPI Guarantees in Network Slicing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>655-668</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/Martin-PerezMCG22</key><doi>10.1109/TNET.2021.3120318</doi><ee>https://doi.org/10.1109/TNET.2021.3120318</ee><url>https://dblp.org/rec/journals/ton/Martin-PerezMCG22</url></info>
+<url>URL#458712</url>
+</hit>
+<hit score="1" id="458713">
+<info><authors><author pid="m/JiriMatousek-2">Jirí Matousek 0002</author><author pid="275/1407">Adam Lucanský</author><author pid="181/6878">David Janecek</author><author pid="331/3980">Jozef Sabo</author><author pid="19/640">Jan Korenek</author><author pid="00/4948">Gianni Antichi</author></authors><title>ClassBench-ng: Benchmarking Packet Classification Algorithms in the OpenFlow Era.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>1912-1925</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/MatousekLJSKA22</key><doi>10.1109/TNET.2022.3155708</doi><ee>https://doi.org/10.1109/TNET.2022.3155708</ee><url>https://dblp.org/rec/journals/ton/MatousekLJSKA22</url></info>
+<url>URL#458713</url>
+</hit>
+<hit score="1" id="458714">
+<info><authors><author pid="191/4329">Ehsan Mohammadpour</author><author pid="l/JYLeBoudec">Jean-Yves Le Boudec</author></authors><title>On Packet Reordering in Time-Sensitive Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1045-1057</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/MohammadpourB22</key><doi>10.1109/TNET.2021.3129590</doi><ee>https://doi.org/10.1109/TNET.2021.3129590</ee><url>https://dblp.org/rec/journals/ton/MohammadpourB22</url></info>
+<url>URL#458714</url>
+</hit>
+<hit score="1" id="458715">
+<info><authors><author pid="191/4329">Ehsan Mohammadpour</author><author pid="l/JYLeBoudec">Jean-Yves Le Boudec</author></authors><title>Analysis of Dampers in Time-Sensitive Networks With Non-Ideal Clocks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1780-1794</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/MohammadpourB22a</key><doi>10.1109/TNET.2022.3152178</doi><ee>https://doi.org/10.1109/TNET.2022.3152178</ee><url>https://dblp.org/rec/journals/ton/MohammadpourB22a</url></info>
+<url>URL#458715</url>
+</hit>
+<hit score="1" id="458716">
+<info><authors><author pid="272/6217">Sabarish Krishna Moorthy</author><author pid="297/6600">Maxwell McManus</author><author pid="24/5237">Zhangyu Guan</author></authors><title>ESN Reinforcement Learning for Spectrum and Flight Control in THz-Enabled Drone Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>782-795</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/MoorthyMG22</key><doi>10.1109/TNET.2021.3128836</doi><ee>https://doi.org/10.1109/TNET.2021.3128836</ee><url>https://dblp.org/rec/journals/ton/MoorthyMG22</url></info>
+<url>URL#458716</url>
+</hit>
+<hit score="1" id="458717">
+<info><authors><author pid="198/8758">Deepak Nadig</author><author pid="65/5635">Byrav Ramamurthy</author><author pid="68/1391">Brian Bockelman</author></authors><title>SNAG: SDN-Managed Network Architecture for GridFTP Transfers Using Application-Awareness.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1585-1598</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/NadigRB22</key><doi>10.1109/TNET.2022.3150000</doi><ee>https://doi.org/10.1109/TNET.2022.3150000</ee><url>https://dblp.org/rec/journals/ton/NadigRB22</url></info>
+<url>URL#458717</url>
+</hit>
+<hit score="1" id="458718">
+<info><authors><author pid="174/2916">Zaid H. Nasralla</author><author pid="01/7614">Taisir E. H. El-Gorashi</author><author pid="141/3949">Ali Hammadi</author><author pid="174/3037">Mohamed O. I. Musa</author><author pid="82/5029">Jaafar M. H. Elmirghani</author></authors><title>Blackout Resilient Optical Core Network.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1795-1806</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/NasrallaEHME22</key><doi>10.1109/TNET.2022.3156529</doi><ee>https://doi.org/10.1109/TNET.2022.3156529</ee><url>https://dblp.org/rec/journals/ton/NasrallaEHME22</url></info>
+<url>URL#458718</url>
+</hit>
+<hit score="1" id="458719">
+<info><authors><author pid="n/MichaelJNeely">Michael J. Neely</author></authors><title>A Converse Result on Convergence Time for Opportunistic Wireless Scheduling.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1540-1553</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/Neely22</key><doi>10.1109/TNET.2022.3146126</doi><ee>https://doi.org/10.1109/TNET.2022.3146126</ee><url>https://dblp.org/rec/journals/ton/Neely22</url></info>
+<url>URL#458719</url>
+</hit>
+<hit score="1" id="458720">
+<info><authors><author pid="65/3868">Giovanni Neglia</author><author pid="94/2172">Michele Garetto</author><author pid="19/4748">Emilio Leonardi</author></authors><title>Similarity Caching: Theory and Algorithms.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>475-486</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/NegliaGL22</key><doi>10.1109/TNET.2021.3126368</doi><ee>https://doi.org/10.1109/TNET.2021.3126368</ee><url>https://dblp.org/rec/journals/ton/NegliaGL22</url></info>
+<url>URL#458720</url>
+</hit>
+<hit score="1" id="458721">
+<info><authors><author pid="180/5804">Zhixiong Niu</author><author pid="57/2711">Qiang Su</author><author pid="76/185-5">Peng Cheng 0005</author><author pid="57/4569">Yongqiang Xiong</author><author pid="12/5388">Dongsu Han</author><author pid="38/11404">Keith Winstein</author><author pid="x/ChunJasonXue">Chun Jason Xue</author><author pid="01/5265-1">Hong Xu 0001</author></authors><title>NetKernel: Making Network Stack Part of the Virtualized Infrastructure.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>999-1013</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/NiuSCXHWXX22</key><doi>10.1109/TNET.2021.3129806</doi><ee>https://doi.org/10.1109/TNET.2021.3129806</ee><url>https://dblp.org/rec/journals/ton/NiuSCXHWXX22</url></info>
+<url>URL#458721</url>
+</hit>
+<hit score="1" id="458722">
+<info><authors><author pid="240/8960">Xiaoyi Pang</author><author pid="31/5772-1">Zhibo Wang 0001</author><author pid="99/7776">Defang Liu</author><author pid="l/JohnCSLui">John C. S. Lui</author><author pid="75/5723-2">Qian Wang 0002</author><author pid="00/468">Ju Ren</author></authors><title>Towards Personalized Privacy-Preserving Truth Discovery Over Crowdsourced Data Streams.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>327-340</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/PangWLLWR22</key><doi>10.1109/TNET.2021.3110052</doi><ee>https://doi.org/10.1109/TNET.2021.3110052</ee><url>https://dblp.org/rec/journals/ton/PangWLLWR22</url></info>
+<url>URL#458722</url>
+</hit>
+<hit score="1" id="458723">
+<info><authors><author pid="163/7414">Jeman Park 0001</author><author pid="202/9093">Rhongho Jang</author><author pid="34/867">Manar Mohaisen</author><author pid="70/2832">David Mohaisen</author></authors><title>A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>76-89</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ParkJMM22</key><doi>10.1109/TNET.2021.3105599</doi><ee>https://doi.org/10.1109/TNET.2021.3105599</ee><url>https://dblp.org/rec/journals/ton/ParkJMM22</url></info>
+<url>URL#458723</url>
+</hit>
+<hit score="1" id="458724">
+<info><authors><author pid="263/1353">Fernando Pérez-Bueno</author><author pid="10/1116">Luz García 0001</author><author pid="65/5024">Gabriel Maciá-Fernández</author><author pid="30/4210-1">Rafael Molina 0001</author></authors><title>Leveraging a Probabilistic PCA Model to Understand the Multivariate Statistical Network Monitoring Framework for Network Security Anomaly Detection.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1217-1229</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/Perez-BuenoGMM22</key><doi>10.1109/TNET.2021.3138536</doi><ee>https://doi.org/10.1109/TNET.2021.3138536</ee><url>https://dblp.org/rec/journals/ton/Perez-BuenoGMM22</url></info>
+<url>URL#458724</url>
+</hit>
+<hit score="1" id="458725">
+<info><authors><author pid="210/0346">Kurian Polachan</author><author pid="251/3237">Joydeep Pal</author><author pid="127/7227">Chandramani Singh</author><author pid="90/6732">Prabhakar Venkata Tamma</author><author pid="55/2512">Fernando A. Kuipers</author></authors><title>TCPSbed: A Modular Testbed for Tactile Internet-Based Cyber-Physical Systems.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>796-811</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/PolachanPSTK22</key><doi>10.1109/TNET.2021.3124767</doi><ee>https://doi.org/10.1109/TNET.2021.3124767</ee><url>https://dblp.org/rec/journals/ton/PolachanPSTK22</url></info>
+<url>URL#458725</url>
+</hit>
+<hit score="1" id="458726">
+<info><authors><author pid="174/1434">Yiwen Qi</author><author pid="187/3936">Wenke Yu</author><author pid="02/735-1">Xudong Zhao 0001</author><author pid="265/3493">Xindi Xu</author></authors><title>Event-Triggered Control for Network-Based Switched Systems With Switching Signals Subject to Dual-Terminal DoS Attacks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1283-1293</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/QiYZX22</key><doi>10.1109/TNET.2021.3135963</doi><ee>https://doi.org/10.1109/TNET.2021.3135963</ee><url>https://dblp.org/rec/journals/ton/QiYZX22</url></info>
+<url>URL#458726</url>
+</hit>
+<hit score="1" id="458727">
+<info><authors><author pid="53/9359">Tie Qiu 0001</author><author pid="321/4820">Lidi Zhang</author><author pid="56/1670-8">Ning Chen 0008</author><author pid="213/4732">Songwei Zhang</author><author pid="44/4260">Wenyuan Liu</author><author pid="88/1600">Dapeng Oliver Wu</author></authors><title>Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2644-2657</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/QiuZCZLW22</key><doi>10.1109/TNET.2022.3178408</doi><ee>https://doi.org/10.1109/TNET.2022.3178408</ee><url>https://dblp.org/rec/journals/ton/QiuZCZLW22</url></info>
+<url>URL#458727</url>
+</hit>
+<hit score="1" id="458728">
+<info><authors><author pid="35/7775">Dapeng Qu</author><author pid="318/8835">Guoxin Lv</author><author pid="275/7558">Shijun Qu</author><author pid="15/5579">Haiying Shen</author><author pid="54/6179">Yue Yang</author><author pid="318/8880">Zhaoyang Heng</author></authors><title>An Effective and Lightweight Countermeasure Scheme to Multiple Network Attacks in NDN.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>515-528</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/QuLQSYH22</key><doi>10.1109/TNET.2021.3121001</doi><ee>https://doi.org/10.1109/TNET.2021.3121001</ee><url>https://dblp.org/rec/journals/ton/QuLQSYH22</url></info>
+<url>URL#458728</url>
+</hit>
+<hit score="1" id="458729">
+<info><authors><author pid="259/1225">Alon Rashelbach</author><author pid="48/2092">Ori Rottenstreich</author><author pid="94/2996">Mark Silberstein</author></authors><title>A Computational Approach to Packet Classification.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1073-1087</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/RashelbachRS22</key><doi>10.1109/TNET.2021.3131879</doi><ee>https://doi.org/10.1109/TNET.2021.3131879</ee><url>https://dblp.org/rec/journals/ton/RashelbachRS22</url></info>
+<url>URL#458729</url>
+</hit>
+<hit score="1" id="458730">
+<info><authors><author pid="169/2021">Amirhossein Reisizadeh</author><author pid="194/2710">Saurav Prakash</author><author pid="96/11153">Ramtin Pedarsani</author><author pid="63/1946">Amir Salman Avestimehr</author></authors><title>CodedReduce: A Fast and Robust Framework for Gradient Aggregation in Distributed Learning.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>148-161</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ReisizadehPPA22</key><doi>10.1109/TNET.2021.3109097</doi><ee>https://doi.org/10.1109/TNET.2021.3109097</ee><url>https://dblp.org/rec/journals/ton/ReisizadehPPA22</url></info>
+<url>URL#458730</url>
+</hit>
+<hit score="1" id="458731">
+<info><authors><author pid="187/6963">Bangbang Ren</author><author pid="74/6501">Deke Guo</author><author pid="188/9655">Yali Yuan</author><author pid="15/9707">Guoming Tang</author><author pid="42/512">Weijun Wang</author><author pid="33/4231">Xiaoming Fu 0001</author></authors><title>Optimal Deployment of SRv6 to Enable Network Interconnection Service.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>120-133</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/RenGYTWF22</key><doi>10.1109/TNET.2021.3105959</doi><ee>https://doi.org/10.1109/TNET.2021.3105959</ee><url>https://dblp.org/rec/journals/ton/RenGYTWF22</url></info>
+<url>URL#458731</url>
+</hit>
+<hit score="1" id="458732">
+<info><authors><author pid="32/6424">Sergi Rene</author><author pid="62/7401">Onur Ascigil</author><author pid="71/1406">Ioannis Psaras</author><author pid="p/GeorgePavlou">George Pavlou</author></authors><title>A Congestion Control Framework Based on In-Network Resource Pooling.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>683-697</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ReneAPP22</key><doi>10.1109/TNET.2021.3128384</doi><ee>https://doi.org/10.1109/TNET.2021.3128384</ee><url>https://dblp.org/rec/journals/ton/ReneAPP22</url></info>
+<url>URL#458732</url>
+</hit>
+<hit score="1" id="458733">
+<info><authors><author pid="205/8881">Chenghao Rong</author><author pid="79/2151">Jessie Hui Wang</author><author pid="304/3355">Juncai Liu</author><author pid="18/6008-1">Jilong Wang 0001</author><author pid="20/8277">Fenghua Li</author><author pid="293/8974">Xiaolei Huang 0001</author></authors><title>Scheduling Massive Camera Streams to Optimize Large-Scale Live Video Analytics.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>867-880</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/RongWLWLH22</key><doi>10.1109/TNET.2021.3125359</doi><ee>https://doi.org/10.1109/TNET.2021.3125359</ee><url>https://dblp.org/rec/journals/ton/RongWLWLH22</url></info>
+<url>URL#458733</url>
+</hit>
+<hit score="1" id="458734">
+<info><authors><author pid="181/5807-1">Muhammad Saad 0001</author><author pid="236/5134">Victor Cook</author><author pid="88/6318">Lan N. Nguyen</author><author pid="63/4711">My T. Thai</author><author pid="70/2832">David Mohaisen</author></authors><title>Exploring Partitioning Attacks on the Bitcoin Network.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>202-214</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SaadCNTM22</key><doi>10.1109/TNET.2021.3105604</doi><ee>https://doi.org/10.1109/TNET.2021.3105604</ee><url>https://dblp.org/rec/journals/ton/SaadCNTM22</url></info>
+<url>URL#458734</url>
+</hit>
+<hit score="1" id="458735">
+<info><authors><author pid="215/3531">Yaniv Sadeh</author><author pid="48/2092">Ori Rottenstreich</author><author pid="48/3950">Haim Kaplan</author></authors><title>Optimal Weighted Load Balancing in TCAMs.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>985-998</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SadehRK22</key><doi>10.1109/TNET.2021.3140124</doi><ee>https://doi.org/10.1109/TNET.2021.3140124</ee><url>https://dblp.org/rec/journals/ton/SadehRK22</url></info>
+<url>URL#458735</url>
+</hit>
+<hit score="1" id="458736">
+<info><authors><author pid="183/6769">Mehrnoosh Shafiee</author><author pid="70/1367">Javad Ghaderi</author></authors><title>Scheduling Coflows With Dependency Graph.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>450-463</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShafieeG22</key><doi>10.1109/TNET.2021.3116133</doi><ee>https://doi.org/10.1109/TNET.2021.3116133</ee><url>https://dblp.org/rec/journals/ton/ShafieeG22</url></info>
+<url>URL#458736</url>
+</hit>
+<hit score="1" id="458737">
+<info><authors><author pid="215/3634">Nishant Shakya</author><author pid="73/237-12">Fan Li 0012</author><author pid="72/3414">Jinyuan Chen</author></authors><title>On Distributed Computing With Heterogeneous Communication Constraints.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2776-2787</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShakyaLC22</key><doi>10.1109/TNET.2022.3181234</doi><ee>https://doi.org/10.1109/TNET.2022.3181234</ee><url>https://dblp.org/rec/journals/ton/ShakyaLC22</url></info>
+<url>URL#458737</url>
+</hit>
+<hit score="1" id="458738">
+<info><authors><author pid="01/6377">Feng Shan</author><author pid="336/7797">Haodong Huo</author><author pid="196/0976">Jiaxin Zeng</author><author pid="298/4225">Zengbao Li</author><author pid="10/2312-1">Weiwei Wu 0001</author><author pid="l/JunzhouLuo">Junzhou Luo</author></authors><title>Ultra-Wideband Swarm Ranging Protocol for Dynamic and Dense Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2834-2848</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/ShanHZLWL22</key><doi>10.1109/TNET.2022.3186071</doi><ee>https://doi.org/10.1109/TNET.2022.3186071</ee><url>https://dblp.org/rec/journals/ton/ShanHZLWL22</url></info>
+<url>URL#458738</url>
+</hit>
+<hit score="1" id="458739">
+<info><authors><author pid="75/10119">Xiaozhe Shao</author><author pid="214/2471">Zibin Chen</author><author pid="67/7583">Daniel E. Holcomb</author><author pid="69/3480-1">Lixin Gao 0001</author></authors><title>Accelerating BGP Configuration Verification Through Reducing Cycles in SMT Constraints.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2493-2504</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShaoCHG22</key><doi>10.1109/TNET.2022.3176267</doi><ee>https://doi.org/10.1109/TNET.2022.3176267</ee><url>https://dblp.org/rec/journals/ton/ShaoCHG22</url></info>
+<url>URL#458739</url>
+</hit>
+<hit score="1" id="458740">
+<info><authors><author pid="221/2216">Tal Shapira</author><author pid="83/1922">Yuval Shavitt</author></authors><title>SASA: Source-Aware Self-Attention for IP Hijack Detection.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>437-449</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShapiraS22</key><doi>10.1109/TNET.2021.3115935</doi><ee>https://doi.org/10.1109/TNET.2021.3115935</ee><url>https://dblp.org/rec/journals/ton/ShapiraS22</url></info>
+<url>URL#458740</url>
+</hit>
+<hit score="1" id="458741">
+<info><authors><author pid="20/2488">Zhirong Shen</author><author pid="04/8707">Guanglin Zhang</author></authors><title>Competitive Online Stay-or-Switch Algorithms With Minimum Commitment and Switching Cost.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2804-2817</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShenZ22</key><doi>10.1109/TNET.2022.3183142</doi><ee>https://doi.org/10.1109/TNET.2022.3183142</ee><url>https://dblp.org/rec/journals/ton/ShenZ22</url></info>
+<url>URL#458741</url>
+</hit>
+<hit score="1" id="458742">
+<info><authors><author pid="293/4310">Hehuan Shi</author><author pid="13/3479-2">Lin Chen 0002</author></authors><title>Downlink Transmission Scheduling With Data Sharing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1193-1202</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShiC22</key><doi>10.1109/TNET.2021.3138940</doi><ee>https://doi.org/10.1109/TNET.2021.3138940</ee><url>https://dblp.org/rec/journals/ton/ShiC22</url></info>
+<url>URL#458742</url>
+</hit>
+<hit score="1" id="458743">
+<info><authors><author pid="293/4310">Hehuan Shi</author><author pid="13/3479-2">Lin Chen 0002</author></authors><title>From Spectrum Bonding to Contiguous-Resource Batching Task Scheduling.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1245-1254</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShiC22a</key><doi>10.1109/TNET.2021.3138991</doi><ee>https://doi.org/10.1109/TNET.2021.3138991</ee><url>https://dblp.org/rec/journals/ton/ShiC22a</url></info>
+<url>URL#458743</url>
+</hit>
+<hit score="1" id="458744">
+<info><authors><author pid="29/563-12">Lei Shi 0012</author><author pid="87/3880-1">Yuhua Cheng 0001</author><author pid="58/2277">Jinliang Shao</author><author pid="192/3192">Qingchen Liu</author><author pid="73/2273">Wei Xing Zheng 0001</author></authors><title>Locating Link Failures in WSNs via Cluster Consensus and Graph Decomposition.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2304-2314</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShiCSLZ22</key><doi>10.1109/TNET.2022.3171272</doi><ee>https://doi.org/10.1109/TNET.2022.3171272</ee><url>https://dblp.org/rec/journals/ton/ShiCSLZ22</url></info>
+<url>URL#458744</url>
+</hit>
+<hit score="1" id="458745">
+<info><authors><author pid="63/4724">Bin Shi</author><author pid="15/5579">Haiying Shen</author><author pid="45/5631-1">Bo Dong 0001</author><author pid="32/1858">Qinghua Zheng</author></authors><title>Memory/Disk Operation Aware Lightweight VM Live Migration.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1895-1910</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShiSDZ22</key><doi>10.1109/TNET.2022.3155935</doi><ee>https://doi.org/10.1109/TNET.2022.3155935</ee><url>https://dblp.org/rec/journals/ton/ShiSDZ22</url></info>
+<url>URL#458745</url>
+</hit>
+<hit score="1" id="458746">
+<info><authors><author pid="34/520-1">Zhiguo Shi 0001</author><author pid="25/5712">Guang Yang</author><author pid="69/691">Xiaowen Gong</author><author pid="07/7178">Shibo He</author><author pid="55/2484-1">Jiming Chen 0001</author></authors><title>Quality-Aware Incentive Mechanisms Under Social Influences in Data Crowdsourcing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>176-189</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShiYGHC22</key><doi>10.1109/TNET.2021.3105427</doi><ee>https://doi.org/10.1109/TNET.2021.3105427</ee><url>https://dblp.org/rec/journals/ton/ShiYGHC22</url></info>
+<url>URL#458746</url>
+</hit>
+<hit score="1" id="458747">
+<info><authors><author pid="322/6956">Zhengkai Shi</author><author pid="78/6594">Yipeng Zhou</author><author pid="52/328-1">Di Wu 0001</author><author pid="82/4206">Chen Wang</author></authors><title>PPVC: Online Learning Toward Optimized Video Content Caching.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1029-1044</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ShiZWW22</key><doi>10.1109/TNET.2021.3132038</doi><ee>https://doi.org/10.1109/TNET.2021.3132038</ee><url>https://dblp.org/rec/journals/ton/ShiZWW22</url></info>
+<url>URL#458747</url>
+</hit>
+<hit score="1" id="458748">
+<info><authors><author pid="190/8327">Kevin D. Smith</author><author pid="158/5194">Saber Jafarpour</author><author pid="89/5072">Ananthram Swami</author><author pid="39/6707">Francesco Bullo</author></authors><title>Topology Inference With Multivariate Cumulants: The Möbius Inference Algorithm.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2102-2116</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SmithJSB22</key><doi>10.1109/TNET.2022.3164336</doi><ee>https://doi.org/10.1109/TNET.2022.3164336</ee><url>https://dblp.org/rec/journals/ton/SmithJSB22</url></info>
+<url>URL#458748</url>
+</hit>
+<hit score="1" id="458749">
+<info><authors><author pid="220/3440">Jianhan Song</author><author pid="v/GustavodeVeciana">Gustavo de Veciana</author><author pid="61/4596">Sanjay Shakkottai</author></authors><title>Meta-Scheduling for the Wireless Downlink Through Learning With Bandit Feedback.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>487-500</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SongVS22</key><doi>10.1109/TNET.2021.3117783</doi><ee>https://doi.org/10.1109/TNET.2021.3117783</ee><url>https://dblp.org/rec/journals/ton/SongVS22</url></info>
+<url>URL#458749</url>
+</hit>
+<hit score="1" id="458750">
+<info><authors><author pid="75/9109">Guanglei Song</author><author pid="62/2814-1">Jiahai Yang 0001</author><author pid="58/5311">Zhiliang Wang</author><author pid="73/2845-4">Lin He 0004</author><author pid="295/5881">Jinlei Lin</author><author pid="14/3383">Long Pan</author><author pid="280/2169">Chenxin Duan</author><author pid="326/8994">Xiaowen Quan</author></authors><title>DET: Enabling Efficient Probing of IPv6 Active Addresses.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1629-1643</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SongYWHLPDQ22</key><doi>10.1109/TNET.2022.3145040</doi><ee>https://doi.org/10.1109/TNET.2022.3145040</ee><url>https://dblp.org/rec/journals/ton/SongYWHLPDQ22</url></info>
+<url>URL#458750</url>
+</hit>
+<hit score="1" id="458751">
+<info><authors><author pid="212/0672">Artur Sterz</author><author pid="218/8817">Patrick Felka</author><author pid="s/BerndSimon">Bernd Simon</author><author pid="167/5965">Sabrina Klos</author><author pid="71/2773">Anja Klein 0002</author><author pid="96/1285">Oliver Hinz</author><author pid="f/BerndFreisleben">Bernd Freisleben</author></authors><title>Multi-Stakeholder Service Placement via Iterative Bargaining With Incomplete Information.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1822-1837</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SterzFSKKHF22</key><doi>10.1109/TNET.2022.3157040</doi><ee>https://doi.org/10.1109/TNET.2022.3157040</ee><url>https://dblp.org/rec/journals/ton/SterzFSKKHF22</url></info>
+<url>URL#458751</url>
+</hit>
+<hit score="1" id="458752">
+<info><authors><author pid="189/2278">Penghao Sun</author><author pid="145/8541">Zehua Guo 0001</author><author pid="23/5119">Junfei Li</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="70/6523">Julong Lan</author><author pid="10/2773">Yuxiang Hu</author></authors><title>Enabling Scalable Routing in Software-Defined Networks With Deep Reinforcement Learning on Critical Nodes.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>629-640</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SunGLXLH22</key><doi>10.1109/TNET.2021.3126933</doi><ee>https://doi.org/10.1109/TNET.2021.3126933</ee><url>https://dblp.org/rec/journals/ton/SunGLXLH22</url></info>
+<url>URL#458752</url>
+</hit>
+<hit score="1" id="458753">
+<info><authors><author pid="62/3689">Yu Sun</author><author pid="24/8037">Chi Lin</author><author pid="124/6911">Haipeng Dai</author><author pid="90/4693">Pengfei Wang</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author><author pid="72/3527-8">Qiang Zhang 0008</author></authors><title>Trading off Charging and Sensing for Stochastic Events Monitoring in WRSNs.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>557-571</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/SunLDWWWZ22</key><doi>10.1109/TNET.2021.3122130</doi><ee>https://doi.org/10.1109/TNET.2021.3122130</ee><url>https://dblp.org/rec/journals/ton/SunLDWWWZ22</url></info>
+<url>URL#458753</url>
+</hit>
+<hit score="1" id="458754">
+<info><authors><author pid="261/3542">Seyed Mohammadhossein Tabatabaee</author><author pid="l/JYLeBoudec">Jean-Yves Le Boudec</author></authors><title>Deficit Round-Robin: A Second Network Calculus Analysis.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2216-2230</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/TabatabaeeB22</key><doi>10.1109/TNET.2022.3164772</doi><ee>https://doi.org/10.1109/TNET.2022.3164772</ee><url>https://dblp.org/rec/journals/ton/TabatabaeeB22</url></info>
+<url>URL#458754</url>
+</hit>
+<hit score="1" id="458755">
+<info><authors><author pid="91/10661">Qingfeng Tan</author><author pid="46/7821">Xuebin Wang</author><author pid="44/4066-1">Wei Shi 0001</author><author pid="181/2667-8">Jian Tang 0008</author><author pid="73/5444">Zhihong Tian</author></authors><title>An Anonymity Vulnerability in Tor.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2574-2587</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/TanWSTT22</key><doi>10.1109/TNET.2022.3174003</doi><ee>https://doi.org/10.1109/TNET.2022.3174003</ee><url>https://dblp.org/rec/journals/ton/TanWSTT22</url></info>
+<url>URL#458755</url>
+</hit>
+<hit score="1" id="458756">
+<info><authors><author pid="228/7856">Ludovic Thomas</author><author pid="09/105">Ahlem Mifdaoui</author><author pid="l/JYLeBoudec">Jean-Yves Le Boudec</author></authors><title>Worst-Case Delay Bounds in Time-Sensitive Networks With Packet Replication and Elimination.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2701-2715</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ThomasMB22</key><doi>10.1109/TNET.2022.3180763</doi><ee>https://doi.org/10.1109/TNET.2022.3180763</ee><url>https://dblp.org/rec/journals/ton/ThomasMB22</url></info>
+<url>URL#458756</url>
+</hit>
+<hit score="1" id="458757">
+<info><authors><author pid="220/9672">Shuai Tong</author><author pid="75/3699">Jiliang Wang</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>Combating Packet Collisions Using Non-Stationary Signal Scaling in LPWANs.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1104-1117</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/TongWL22</key><doi>10.1109/TNET.2021.3131704</doi><ee>https://doi.org/10.1109/TNET.2021.3131704</ee><url>https://dblp.org/rec/journals/ton/TongWL22</url></info>
+<url>URL#458757</url>
+</hit>
+<hit score="1" id="458758">
+<info><authors><author pid="52/8082">Hai Anh Tran</author><author pid="79/5710">Duc Tran</author><author pid="03/6403">Abdelhamid Mellouk</author></authors><title>State-Dependent Multi-Constraint Topology Configuration for Software-Defined Service Overlay Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>1986-2001</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/TranTM22</key><doi>10.1109/TNET.2022.3155475</doi><ee>https://doi.org/10.1109/TNET.2022.3155475</ee><url>https://dblp.org/rec/journals/ton/TranTM22</url></info>
+<url>URL#458758</url>
+</hit>
+<hit score="1" id="458759">
+<info><authors><author pid="193/7393">Cho-Hsin Tsai</author><author pid="40/2614">Chih-Chun Wang</author></authors><title>Unifying AoI Minimization and Remote Estimation - Optimal Sensor/Controller Coordination With Random Two-Way Delay.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>229-242</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/TsaiW22</key><doi>10.1109/TNET.2021.3111495</doi><ee>https://doi.org/10.1109/TNET.2021.3111495</ee><url>https://dblp.org/rec/journals/ton/TsaiW22</url></info>
+<url>URL#458759</url>
+</hit>
+<hit score="1" id="458760">
+<info><authors><author pid="273/8256">Huaqing Tu</author><author pid="201/1240">Gongming Zhao</author><author pid="22/1748">Hongli Xu</author><author pid="99/8966">Yangming Zhao</author><author pid="228/8271">Yutong Zhai</author></authors><title>A Robustness-Aware Real-Time SFC Routing Update Scheme in Multi-Tenant Clouds.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1230-1244</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/TuZXZZ22</key><doi>10.1109/TNET.2021.3137418</doi><ee>https://doi.org/10.1109/TNET.2021.3137418</ee><url>https://dblp.org/rec/journals/ton/TuZXZZ22</url></info>
+<url>URL#458760</url>
+</hit>
+<hit score="1" id="458761">
+<info><authors><author pid="80/5048">Rahul Vaze</author><author pid="32/4677">Jayakrishnan Nair 0001</author></authors><title>Speed Scaling on Parallel Servers With MapReduce Type Precedence Constraints.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1509-1524</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/VazeN22</key><doi>10.1109/TNET.2022.3142091</doi><ee>https://doi.org/10.1109/TNET.2022.3142091</ee><url>https://dblp.org/rec/journals/ton/VazeN22</url></info>
+<url>URL#458761</url>
+</hit>
+<hit score="1" id="458762">
+<info><authors><author pid="05/226">Darryl Veitch</author><author pid="172/9136">Sathiya Kumaran Mani</author><author pid="00/3090">Yi Cao</author><author pid="b/PaulBarford">Paul Barford</author></authors><title>iHorology: Lowering the Barrier to Microsecond-Level Internet Time.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2544-2558</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/VeitchMCB22</key><doi>10.1109/TNET.2022.3174189</doi><ee>https://doi.org/10.1109/TNET.2022.3174189</ee><url>https://dblp.org/rec/journals/ton/VeitchMCB22</url></info>
+<url>URL#458762</url>
+</hit>
+<hit score="1" id="458763">
+<info><authors><author pid="120/7532">Pooja Vyavahare</author><author pid="32/4677">Jayakrishnan Nair 0001</author><author pid="71/5073">D. Manjunath</author></authors><title>Sponsored Data: On the Effect of ISP Competition on Pricing Dynamics and Content Provider Market Structures.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2018-2031</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/VyavahareNM22</key><doi>10.1109/TNET.2022.3162856</doi><ee>https://doi.org/10.1109/TNET.2022.3162856</ee><url>https://dblp.org/rec/journals/ton/VyavahareNM22</url></info>
+<url>URL#458763</url>
+</hit>
+<hit score="1" id="458764">
+<info><authors><author pid="160/2171-2">Ziyi Wang 0002</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="00/5502">Xiaoyu Hu</author><author pid="10/5630-1">Xin Wang 0001</author><author pid="93/347">Wei Tsang Ooi</author><author pid="98/6208">Zhen Cao</author><author pid="59/871-15">Yi Li 0015</author></authors><title>MultiLive: Adaptive Bitrate Control for Low-Delay Multi-Party Interactive Live Streaming.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>923-938</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangCHWOCL22</key><doi>10.1109/TNET.2021.3129481</doi><ee>https://doi.org/10.1109/TNET.2021.3129481</ee><url>https://dblp.org/rec/journals/ton/WangCHWOCL22</url></info>
+<url>URL#458764</url>
+</hit>
+<hit score="1" id="458765">
+<info><authors><author pid="52/4107-4">Yuntao Wang 0004</author><author pid="68/925-7">Weiwei Chen 0007</author><author pid="31/8333">Tom H. Luan</author><author pid="67/4307">Zhou Su</author><author pid="159/4497">Qichao Xu</author><author pid="06/7035">Ruidong Li</author><author pid="57/6104-6">Nan Chen 0006</author></authors><title>Task Offloading for Post-Disaster Rescue in Unmanned Aerial Vehicles Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1525-1539</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangCLSXLC22</key><doi>10.1109/TNET.2022.3140796</doi><ee>https://doi.org/10.1109/TNET.2022.3140796</ee><url>https://dblp.org/rec/journals/ton/WangCLSXLC22</url></info>
+<url>URL#458765</url>
+</hit>
+<hit score="1" id="458766">
+<info><authors><author pid="133/3344">Xuehe Wang</author><author pid="65/7661">Lingjie Duan</author></authors><title>Dynamic Pricing and Mean Field Analysis for Controlling Age of Information.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2588-2600</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangD22</key><doi>10.1109/TNET.2022.3174114</doi><ee>https://doi.org/10.1109/TNET.2022.3174114</ee><url>https://dblp.org/rec/journals/ton/WangD22</url></info>
+<url>URL#458766</url>
+</hit>
+<hit score="1" id="458767">
+<info><authors><author pid="42/1503-28">Shuai Wang 0028</author><author pid="171/1013">Jinkun Geng</author><author pid="48/4185-1">Dan Li 0001</author></authors><title>Impact of Synchronization Topology on DML Performance: Both Logical Topology and Physical Topology.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>572-585</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangGL22</key><doi>10.1109/TNET.2021.3117042</doi><ee>https://doi.org/10.1109/TNET.2021.3117042</ee><url>https://dblp.org/rec/journals/ton/WangGL22</url></info>
+<url>URL#458767</url>
+</hit>
+<hit score="1" id="458768">
+<info><authors><author pid="71/3583-4">Haibo Wang 0004</author><author pid="219/6220">Chaoyi Ma</author><author pid="c/ShigangChen">Shigang Chen</author><author pid="190/9715">Yuanda Wang</author></authors><title>Fast and Accurate Cardinality Estimation by Self-Morphing Bitmaps.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1674-1688</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangMCW22</key><doi>10.1109/TNET.2022.3147204</doi><ee>https://doi.org/10.1109/TNET.2022.3147204</ee><url>https://dblp.org/rec/journals/ton/WangMCW22</url></info>
+<url>URL#458768</url>
+</hit>
+<hit score="1" id="458769">
+<info><authors><author pid="35/1338">Tianjiao Wang</author><author pid="22/5156">Zengfu Wang</author><author pid="73/1162-1">William Moran 0001</author><author pid="01/4750">Moshe Zukerman</author></authors><title>Submarine Cable Network Design for Regional Connectivity.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2480-2492</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangWMZ22</key><doi>10.1109/TNET.2022.3171832</doi><ee>https://doi.org/10.1109/TNET.2022.3171832</ee><url>https://dblp.org/rec/journals/ton/WangWMZ22</url></info>
+<url>URL#458769</url>
+</hit>
+<hit score="1" id="458770">
+<info><authors><author pid="32/3351">Zhiyuan Wang</author><author pid="43/10799">Jiancheng Ye</author><author pid="54/208">Dong Lin</author><author pid="270/9898">Yipei Chen 0001</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Approximate and Deployable Shortest Remaining Processing Time Scheduler.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1368-1381</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangYLCL22</key><doi>10.1109/TNET.2022.3142148</doi><ee>https://doi.org/10.1109/TNET.2022.3142148</ee><url>https://dblp.org/rec/journals/ton/WangYLCL22</url></info>
+<url>URL#458770</url>
+</hit>
+<hit score="1" id="458771">
+<info><authors><author pid="09/8269">Yuting Wang</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>PolarTracker: Attitude-Aware Channel Access for Floating Low Power Wide Area Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1807-1821</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangZLM22</key><doi>10.1109/TNET.2022.3154937</doi><ee>https://doi.org/10.1109/TNET.2022.3154937</ee><url>https://dblp.org/rec/journals/ton/WangZLM22</url></info>
+<url>URL#458771</url>
+</hit>
+<hit score="1" id="458772">
+<info><authors><author pid="13/2548">Jingzhou Wang</author><author pid="201/1240">Gongming Zhao</author><author pid="22/1748">Hongli Xu</author><author pid="228/8271">Yutong Zhai</author><author pid="139/5941">Qianyu Zhang</author><author pid="75/4947-1">He Huang 0001</author><author pid="23/10161">Yongqiang Yang</author></authors><title>A Robust Service Mapping Scheme for Multi-Tenant Clouds.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1146-1161</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WangZXZZHY22</key><doi>10.1109/TNET.2021.3133293</doi><ee>https://doi.org/10.1109/TNET.2021.3133293</ee><url>https://dblp.org/rec/journals/ton/WangZXZZHY22</url></info>
+<url>URL#458772</url>
+</hit>
+<hit score="1" id="458773">
+<info><authors><author pid="217/2475">Yordanos Tibebu Woldeyohannes</author><author pid="167/5254">Besmir Tola</author><author pid="52/146">Yuming Jiang 0001</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author></authors><title>CoShare: An Efficient Approach for Redundancy Allocation in NFV.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1014-1028</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WoldeyohannesTJ22</key><doi>10.1109/TNET.2021.3132279</doi><ee>https://doi.org/10.1109/TNET.2021.3132279</ee><url>https://dblp.org/rec/journals/ton/WoldeyohannesTJ22</url></info>
+<url>URL#458773</url>
+</hit>
+<hit score="1" id="458774">
+<info><authors><author pid="54/4158-9">Qiong Wu 0009</author><author pid="259/2456">Kaiwen He</author><author pid="83/6331-4">Xu Chen 0004</author><author pid="120/8707">Shuai Yu</author><author pid="59/1232">Junshan Zhang</author></authors><title>Deep Transfer Learning Across Cities for Mobile Traffic Prediction.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1255-1267</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WuHCYZ22</key><doi>10.1109/TNET.2021.3136707</doi><ee>https://doi.org/10.1109/TNET.2021.3136707</ee><url>https://dblp.org/rec/journals/ton/WuHCYZ22</url></info>
+<url>URL#458774</url>
+</hit>
+<hit score="1" id="458775">
+<info><authors><author pid="87/1414">Renyong Wu</author><author pid="130/9839">Jieming Ma</author><author pid="246/8363">Zhixiang Tang</author><author pid="67/3472">Xiehua Li</author><author pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</author></authors><title>A Generic Secure Transmission Scheme Based on Random Linear Network Coding.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>855-866</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/WuMTLC22</key><doi>10.1109/TNET.2021.3124890</doi><ee>https://doi.org/10.1109/TNET.2021.3124890</ee><url>https://dblp.org/rec/journals/ton/WuMTLC22</url></info>
+<url>URL#458775</url>
+</hit>
+<hit score="1" id="458776">
+<info><authors><author pid="243/0209">Zhaowei Xi</author><author pid="36/2728-8">Yu Zhou 0008</author><author pid="03/10352">Dai Zhang</author><author pid="12/4000-1">Kai Gao 0001</author><author pid="01/6072-5">Chen Sun 0005</author><author pid="224/2165">Jiamin Cao</author><author pid="20/8967-1">Yangyang Wang 0001</author><author pid="18/6055">Mingwei Xu</author><author pid="82/4905">Jianping Wu</author></authors><title>Newton: Intent-Driven Network Traffic Monitoring.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>939-952</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XiZZGSCWXW22</key><doi>10.1109/TNET.2021.3128557</doi><ee>https://doi.org/10.1109/TNET.2021.3128557</ee><url>https://dblp.org/rec/journals/ton/XiZZGSCWXW22</url></info>
+<url>URL#458776</url>
+</hit>
+<hit score="1" id="458777">
+<info><authors><author pid="249/5388">Xuedou Xiao</author><author pid="35/7092-50">Wei Wang 0050</author><author pid="j/TaoJiang-2">Tao Jiang 0002</author></authors><title>Sensor-Assisted Rate Adaptation for UAV MU-MIMO Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1481-1493</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XiaoWJ22</key><doi>10.1109/TNET.2021.3136911</doi><ee>https://doi.org/10.1109/TNET.2021.3136911</ee><url>https://dblp.org/rec/journals/ton/XiaoWJ22</url></info>
+<url>URL#458777</url>
+</hit>
+<hit score="1" id="458778">
+<info><authors><author pid="191/1022">Renjie Xie</author><author pid="218/8811">Jiahao Cao</author><author pid="181/2688-2">Qi Li 0002</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="64/1147">Guofei Gu</author><author pid="18/6055">Mingwei Xu</author><author pid="25/1439-1">Yuan Yang 0001</author></authors><title>Disrupting the SDN Control Channel via Shared Links: Attacks and Countermeasures.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2158-2172</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XieCLSGXY22</key><doi>10.1109/TNET.2022.3169136</doi><ee>https://doi.org/10.1109/TNET.2022.3169136</ee><url>https://dblp.org/rec/journals/ton/XieCLSGXY22</url></info>
+<url>URL#458778</url>
+</hit>
+<hit score="1" id="458779">
+<info><authors><author pid="18/4584">Tian Xie</author><author pid="298/4021">Namitha Nambiar</author><author pid="52/854-1">Ting He 0001</author><author pid="m/PatrickDrewMcDaniel">Patrick D. McDaniel</author></authors><title>Attack Resilience of Cache Replacement Policies: A Study Based on TTL Approximation.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2433-2447</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XieNHM22</key><doi>10.1109/TNET.2022.3171720</doi><ee>https://doi.org/10.1109/TNET.2022.3171720</ee><url>https://dblp.org/rec/journals/ton/XieNHM22</url></info>
+<url>URL#458779</url>
+</hit>
+<hit score="1" id="458780">
+<info><authors><author pid="138/4337">Junjie Xie</author><author pid="70/3604-1">Chen Qian 0001</author><author pid="74/6501">Deke Guo</author><author pid="186/6880">Minmei Wang</author><author pid="34/5591-3">Ge Wang 0003</author><author pid="15/4365">Honghui Chen</author></authors><title>COIN: An Efficient Indexing Mechanism for Unstructured Data Sharing Systems.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>313-326</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XieQGWWC22</key><doi>10.1109/TNET.2021.3110782</doi><ee>https://doi.org/10.1109/TNET.2021.3110782</ee><url>https://dblp.org/rec/journals/ton/XieQGWWC22</url></info>
+<url>URL#458780</url>
+</hit>
+<hit score="1" id="458781">
+<info><authors><author pid="98/476-1">Kun Xie 0001</author><author pid="243/3198">Jiazheng Tian</author><author pid="10/5630-1">Xin Wang 0001</author><author pid="01/2888">Gaogang Xie</author><author pid="c/JiannongCao">Jiannong Cao 0001</author><author pid="25/4108-1">Hongbo Jiang 0001</author><author pid="92/1480">Jigang Wen</author></authors><title>Fast Retrieval of Large Entries With Incomplete Measurement Data.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>1955-1969</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XieTWXCJW22</key><doi>10.1109/TNET.2022.3160233</doi><ee>https://doi.org/10.1109/TNET.2022.3160233</ee><url>https://dblp.org/rec/journals/ton/XieTWXCJW22</url></info>
+<url>URL#458781</url>
+</hit>
+<hit score="1" id="458782">
+<info><authors><author pid="132/2735">Yao Xin</author><author pid="75/5928">Wenjun Li</author><author pid="15/9707">Guoming Tang</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="154/2753">Xiaohe Hu</author><author pid="67/6649-4">Yi Wang 0004</author></authors><title>FPGA-Based Updatable Packet Classification Using TSS-Combined Bit-Selecting Tree.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2760-2775</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XinLTYHW22</key><doi>10.1109/TNET.2022.3181295</doi><ee>https://doi.org/10.1109/TNET.2022.3181295</ee><url>https://dblp.org/rec/journals/ton/XinLTYHW22</url></info>
+<url>URL#458782</url>
+</hit>
+<hit score="1" id="458783">
+<info><authors><author pid="180/2858">Sijie Xiong</author><author pid="32/4477">Anand D. Sarwate</author><author pid="11/2657">Narayan B. Mandayam</author></authors><title>Network Traffic Shaping for Enhancing Privacy in IoT Systems.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1162-1177</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XiongSM22</key><doi>10.1109/TNET.2021.3140174</doi><ee>https://doi.org/10.1109/TNET.2021.3140174</ee><url>https://dblp.org/rec/journals/ton/XiongSM22</url></info>
+<url>URL#458783</url>
+</hit>
+<hit score="1" id="458784">
+<info><authors><author pid="05/8410">Zichuan Xu</author><author pid="267/0632">Haozhe Ren</author><author pid="31/1277">Weifa Liang</author><author pid="68/10839">Qiufen Xia</author><author pid="92/2939">Wanlei Zhou 0001</author><author pid="84/6614">Pan Zhou</author><author pid="00/9492">Wenzheng Xu</author><author pid="51/1027">Guowei Wu</author><author pid="83/3175">Mingchu Li</author></authors><title>Near Optimal Learning-Driven Mechanisms for Stable NFV Markets in Multitier Cloud Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2601-2615</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XuRLXZZXWL22</key><doi>10.1109/TNET.2022.3179295</doi><ee>https://doi.org/10.1109/TNET.2022.3179295</ee><url>https://dblp.org/rec/journals/ton/XuRLXZZXWL22</url></info>
+<url>URL#458784</url>
+</hit>
+<hit score="1" id="458785">
+<info><authors><author pid="00/9492">Wenzheng Xu</author><author pid="297/4599">Yueying Sun</author><author pid="90/8487">Rui Zou</author><author pid="31/1277">Weifa Liang</author><author pid="68/10839">Qiufen Xia</author><author pid="01/6377">Feng Shan</author><author pid="25/3246-1">Tian Wang 0001</author><author pid="j/XiaohuaJia">Xiaohua Jia</author><author pid="10/1143">Zheng Li</author></authors><title>Throughput Maximization of UAV Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>881-895</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XuSZLXSWJL22</key><doi>10.1109/TNET.2021.3125982</doi><ee>https://doi.org/10.1109/TNET.2021.3125982</ee><url>https://dblp.org/rec/journals/ton/XuSZLXSWJL22</url></info>
+<url>URL#458785</url>
+</hit>
+<hit score="1" id="458786">
+<info><authors><author pid="22/1748">Hongli Xu</author><author pid="50/10578">Peng Xi</author><author pid="201/1240">Gongming Zhao</author><author pid="250/0421">Jianchun Liu</author><author pid="70/3604-1">Chen Qian 0001</author><author pid="51/769">Liusheng Huang</author></authors><title>SAFE-ME: Scalable and Flexible Policy Enforcement in Middlebox Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2246-2261</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XuXZLQH22</key><doi>10.1109/TNET.2022.3167169</doi><ee>https://doi.org/10.1109/TNET.2022.3167169</ee><url>https://dblp.org/rec/journals/ton/XuXZLQH22</url></info>
+<url>URL#458786</url>
+</hit>
+<hit score="1" id="458787">
+<info><authors><author pid="00/9492">Wenzheng Xu</author><author pid="49/6441">Tao Xiao</author><author pid="46/1746">Junqi Zhang</author><author pid="31/1277">Weifa Liang</author><author pid="05/8410">Zichuan Xu</author><author pid="120/1631-1">Xuxun Liu 0001</author><author pid="j/XiaohuaJia">Xiaohua Jia</author><author pid="d/SajalKDas">Sajal K. Das 0001</author></authors><title>Minimizing the Deployment Cost of UAVs for Delay-Sensitive Data Collection in IoT Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>812-825</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XuXZLXLJD22</key><doi>10.1109/TNET.2021.3123606</doi><ee>https://doi.org/10.1109/TNET.2021.3123606</ee><url>https://dblp.org/rec/journals/ton/XuXZLXLJD22</url></info>
+<url>URL#458787</url>
+</hit>
+<hit score="1" id="458788">
+<info><authors><author pid="94/5600">Kaiping Xue</author><author pid="224/0885">Peixuan He</author><author pid="244/8337">Jiayu Yang</author><author pid="224/0937">Qiudong Xia</author><author pid="65/4599">David S. L. Wei</author></authors><title>SCD2: Secure Content Delivery and Deduplication With Multiple Content Providers in Information Centric Networking.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1849-1864</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/XueHYXW22</key><doi>10.1109/TNET.2022.3155110</doi><ee>https://doi.org/10.1109/TNET.2022.3155110</ee><url>https://dblp.org/rec/journals/ton/XueHYXW22</url></info>
+<url>URL#458788</url>
+</hit>
+<hit score="1" id="458789">
+<info><authors><author pid="286/7946">Edwin Yang</author><author pid="150/3139">Song Fang</author><author pid="180/8226">Ian D. Markwood</author><author pid="64/424-7">Yao Liu 0007</author><author pid="144/6539">Shangqing Zhao</author><author pid="41/4718">Zhuo Lu</author><author pid="22/5702">Haojin Zhu</author></authors><title>Wireless Training-Free Keystroke Inference Attack and Defense.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1733-1748</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/YangFMLZLZ22</key><doi>10.1109/TNET.2022.3147721</doi><ee>https://doi.org/10.1109/TNET.2022.3147721</ee><url>https://dblp.org/rec/journals/ton/YangFMLZLZ22</url></info>
+<url>URL#458789</url>
+</hit>
+<hit score="1" id="458790">
+<info><authors><author pid="04/999-6">Hui Yang 0006</author><author pid="146/1371">Qiuyan Yao</author><author pid="229/8091">Bowen Bao</author><author pid="203/3526">Ao Yu</author><author pid="84/6889-6">Jie Zhang 0006</author><author pid="40/4747">Athanasios V. Vasilakos</author></authors><title>Multi-Associated Parameters Aggregation-Based Routing and Resources Allocation in Multi-Core Elastic Optical Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2145-2157</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/YangYBYZV22</key><doi>10.1109/TNET.2022.3164869</doi><ee>https://doi.org/10.1109/TNET.2022.3164869</ee><url>https://dblp.org/rec/journals/ton/YangYBYZV22</url></info>
+<url>URL#458790</url>
+</hit>
+<hit score="1" id="458791">
+<info><authors><author pid="05/8235">Zhiyuan Yao</author><author pid="203/0827">Yoann Desmouceaux</author><author pid="56/8831">Juan Antonio Cordero Fuertes</author><author pid="203/0789">Mark Townsley</author><author pid="65/6165">Thomas H. Clausen</author></authors><title>HLB: Toward Load-Aware Load Balancing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2658-2673</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/YaoDFTC22</key><doi>10.1109/TNET.2022.3177163</doi><ee>https://doi.org/10.1109/TNET.2022.3177163</ee><url>https://dblp.org/rec/journals/ton/YaoDFTC22</url></info>
+<url>URL#458791</url>
+</hit>
+<hit score="1" id="458792">
+<info><authors><author pid="90/10237">Lizhao You</author><author pid="66/8999-5">Jiahua Zhang 0005</author><author pid="60/10595">Yili Jin</author><author pid="07/5751">Hao Tang</author><author pid="66/2069">Xiao Li</author></authors><title>Fast Configuration Change Impact Analysis for Network Overlay Data Center Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>423-436</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/YouZJTL22</key><doi>10.1109/TNET.2021.3114448</doi><ee>https://doi.org/10.1109/TNET.2021.3114448</ee><url>https://dblp.org/rec/journals/ton/YouZJTL22</url></info>
+<url>URL#458792</url>
+</hit>
+<hit score="1" id="458793">
+<info><authors><author pid="204/5313">Gaoxiong Zeng</author><author pid="45/661-1">Wei Bai 0001</author><author pid="84/3162">Ge Chen</author><author pid="c/KaiChen5">Kai Chen 0005</author><author pid="12/5388">Dongsu Han</author><author pid="65/8854">Yibo Zhu</author><author pid="47/5523">Lei Cui</author></authors><title>Congestion Control for Cross-Datacenter Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2074-2089</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZengBCCHZC22</key><doi>10.1109/TNET.2022.3161580</doi><ee>https://doi.org/10.1109/TNET.2022.3161580</ee><url>https://dblp.org/rec/journals/ton/ZengBCCHZC22</url></info>
+<url>URL#458793</url>
+</hit>
+<hit score="1" id="458794">
+<info><authors><author pid="235/5592">Guangyang Zeng</author><author pid="254/2886">Biqiang Mu</author><author pid="143/5741">Jieqiang Wei</author><author pid="63/956">Wing Shing Wong</author><author pid="06/5271-1">Junfeng Wu 0001</author></authors><title>Localizability With Range-Difference Measurements: Numerical Computation and Error Bound Analysis.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2117-2130</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZengMWWW22</key><doi>10.1109/TNET.2022.3162930</doi><ee>https://doi.org/10.1109/TNET.2022.3162930</ee><url>https://dblp.org/rec/journals/ton/ZengMWWW22</url></info>
+<url>URL#458794</url>
+</hit>
+<hit score="1" id="458795">
+<info><authors><author pid="227/7355">Qiaolun Zhang</author><author pid="174/9648">Omran Ayoub</author><author pid="20/3894-1">Jun Wu 0001</author><author pid="78/10585">Francesco Musumeci 0001</author><author pid="176/5848">Gaolei Li</author><author pid="11/6844">Massimo Tornatore</author></authors><title>Progressive Slice Recovery With Guaranteed Slice Connectivity After Massive Failures.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>2</number><pages>826-839</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangAWMLT22</key><doi>10.1109/TNET.2021.3130576</doi><ee>https://doi.org/10.1109/TNET.2021.3130576</ee><url>https://dblp.org/rec/journals/ton/ZhangAWMLT22</url></info>
+<url>URL#458795</url>
+</hit>
+<hit score="1" id="458796">
+<info><authors><author pid="174/1652">Chaoyun Zhang</author><author pid="42/2579">Xavier Costa-Pérez</author><author pid="03/7603">Paul Patras</author></authors><title>Adversarial Attacks Against Deep Learning-Based Network Intrusion Detection Systems and Defense Mechanisms.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1294-1311</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangCP22</key><doi>10.1109/TNET.2021.3137084</doi><ee>https://doi.org/10.1109/TNET.2021.3137084</ee><url>https://dblp.org/rec/journals/ton/ZhangCP22</url></info>
+<url>URL#458796</url>
+</hit>
+<hit score="1" id="458797">
+<info><authors><author pid="97/8704-157">Lei Zhang 0157</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="206/6742">Mowei Wang</author><author pid="59/7422">Kewei Zhu</author><author pid="65/8854">Yibo Zhu</author><author pid="74/1552-1">Yong Jiang 0001</author></authors><title>DeepCC: Bridging the Gap Between Congestion Control and Applications via Multiobjective Optimization.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2274-2288</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangCWZZJ22</key><doi>10.1109/TNET.2022.3167713</doi><ee>https://doi.org/10.1109/TNET.2022.3167713</ee><url>https://dblp.org/rec/journals/ton/ZhangCWZZJ22</url></info>
+<url>URL#458797</url>
+</hit>
+<hit score="1" id="458798">
+<info><authors><author pid="50/671-93">Yu Zhang 0093</author><author pid="65/4916">Tao Gu</author><author pid="87/1222">Xi Zhang</author></authors><title>MDLdroid: A ChainSGD-Reduce Approach to Mobile Deep Learning for Personal Mobile Sensing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>134-147</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangGZ22</key><doi>10.1109/TNET.2021.3103846</doi><ee>https://doi.org/10.1109/TNET.2021.3103846</ee><url>https://dblp.org/rec/journals/ton/ZhangGZ22</url></info>
+<url>URL#458798</url>
+</hit>
+<hit score="1" id="458799">
+<info><authors><author pid="84/3637">Zhenghao Zhang</author><author pid="244/8910">Raghav Rathi</author><author pid="331/4212">Steven Perez</author><author pid="331/3970">Jumana Bukhari</author><author pid="193/9322">Yaoguang Zhong</author></authors><title>ZCNET: Achieving High Capacity in Low Power Wide Area Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>5</number><pages>2032-2045</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/ton/ZhangRPBZ22</key><doi>10.1109/TNET.2022.3158482</doi><ee>https://doi.org/10.1109/TNET.2022.3158482</ee><url>https://dblp.org/rec/journals/ton/ZhangRPBZ22</url></info>
+<url>URL#458799</url>
+</hit>
+<hit score="1" id="458800">
+<info><authors><author pid="69/6137-1">Sheng Zhang 0001</author><author pid="71/4716">Can Wang</author><author pid="184/7591-1">Yibo Jin 0001</author><author pid="w/JieWu1">Jie Wu 0001</author><author pid="96/2572">Zhuzhong Qian</author><author pid="94/3601">Mingjun Xiao</author><author pid="24/3318">Sanglu Lu</author></authors><title>Adaptive Configuration Selection and Bandwidth Allocation for Edge-Based Video Analytics.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>285-298</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangWJWQXL22</key><doi>10.1109/TNET.2021.3106937</doi><ee>https://doi.org/10.1109/TNET.2021.3106937</ee><url>https://dblp.org/rec/journals/ton/ZhangWJWQXL22</url></info>
+<url>URL#458800</url>
+</hit>
+<hit score="1" id="458801">
+<info><authors><author pid="62/5337">Xiaoxi Zhang</author><author pid="98/6805">Jianyu Wang</author><author pid="314/2829">Li-Feng Lee</author><author pid="314/2828">Tom Yang</author><author pid="314/2757">Akansha Kalra</author><author pid="119/3872">Gauri Joshi</author><author pid="40/9937">Carlee Joe-Wong</author></authors><title>Machine Learning on Volatile Instances: Convergence, Runtime, and Cost Tradeoffs.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>1</number><pages>215-228</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangWLYKJJ22</key><doi>10.1109/TNET.2021.3112082</doi><ee>https://doi.org/10.1109/TNET.2021.3112082</ee><url>https://dblp.org/rec/journals/ton/ZhangWLYKJJ22</url></info>
+<url>URL#458801</url>
+</hit>
+<hit score="1" id="458802">
+<info><authors><author pid="60/7041">Miao Zhang</author><author pid="174/2169">Yifei Zhu</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author><author pid="90/4225-1">Feng Wang 0001</author><author pid="142/0351">Fangxin Wang 0001</author></authors><title>CharmSeeker: Automated Pipeline Configuration for Serverless Video Processing.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2730-2743</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangZLWW22</key><doi>10.1109/TNET.2022.3183231</doi><ee>https://doi.org/10.1109/TNET.2022.3183231</ee><url>https://dblp.org/rec/journals/ton/ZhangZLWW22</url></info>
+<url>URL#458802</url>
+</hit>
+<hit score="1" id="458803">
+<info><authors><author pid="50/6759">Liang Zhang</author><author pid="34/3569">Guangdeng Zong</author><author pid="02/735-1">Xudong Zhao 0001</author><author pid="42/653-2">Ning Zhao 0002</author></authors><title>Output Reachable Set Synthesis of Event-Triggered Control for Singular Markov Jump Systems Under Multiple Cyber-Attacks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2849-2857</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhangZZZ22</key><doi>10.1109/TNET.2022.3183862</doi><ee>https://doi.org/10.1109/TNET.2022.3183862</ee><url>https://dblp.org/rec/journals/ton/ZhangZZZ22</url></info>
+<url>URL#458803</url>
+</hit>
+<hit score="1" id="458804">
+<info><authors><author pid="89/887">Zhiwei Zhao</author><author pid="238/9447">Wenliang Mao</author><author pid="96/3727">Geyong Min</author><author pid="76/9788">Weifeng Gao</author></authors><title>Joint Multichannel-Spatial Diversity for Efficient Opportunistic Routing in Low-Power Wireless Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>6</number><pages>2716-2729</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhaoMMG22</key><doi>10.1109/TNET.2022.3181581</doi><ee>https://doi.org/10.1109/TNET.2022.3181581</ee><url>https://dblp.org/rec/journals/ton/ZhaoMMG22</url></info>
+<url>URL#458804</url>
+</hit>
+<hit score="1" id="458805">
+<info><authors><author pid="23/3168-4">Jie Zhao 0004</author><author pid="10/5630-1">Xin Wang 0001</author></authors><title>On the Efficiency of Multi-Beam Medium Access for Millimeter-Wave Networks.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>4</number><pages>1469-1480</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhaoW22</key><doi>10.1109/TNET.2021.3137562</doi><ee>https://doi.org/10.1109/TNET.2021.3137562</ee><url>https://dblp.org/rec/journals/ton/ZhaoW22</url></info>
+<url>URL#458805</url>
+</hit>
+<hit score="1" id="458806">
+<info><authors><author pid="01/6273">Hongyi Zhou</author><author pid="245/7410">Kefan Lv</author><author pid="79/7077">Longbo Huang</author><author pid="31/8035">Xiongfeng Ma</author></authors><title>Quantum Network: Security Assessment and Key Management.</title><venue>IEEE/ACM Trans. Netw.</venue><volume>30</volume><number>3</number><pages>1328-1339</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/ton/ZhouLHM22</key><doi>10.1109/TNET.2021.3136943</doi><ee>https://doi.org/10.1109/TNET.2021.3136943</ee><url>https://dblp.org/rec/journals/ton/ZhouLHM22</url></info>
+<url>URL#458806</url>
+</hit>
+</hits>
+</result>

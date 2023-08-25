@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239237">:facetid:toc:\"db/journals/joc/joc36.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">176.34</time>
+<completions total="1" computed="1" sent="1">
+<c sc="36" dc="36" oc="36" id="41096529">:facetid:toc:db/journals/joc/joc36.bht</c>
+</completions>
+<hits total="36" computed="36" sent="36" first="0">
+<hit score="1" id="64963">
+<info><authors><author pid="86/4713">Masayuki Abe</author><author pid="74/3914">Dennis Hofheinz</author><author pid="85/2415">Ryo Nishimaki</author><author pid="25/6383">Miyako Ohkubo</author><author pid="02/8828">Jiaxin Pan</author></authors><title>Compact Structure-Preserving Signatures with Almost Tight Security.</title><venue>J. Cryptol.</venue><volume>36</volume><number>4</number><pages>37</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AbeHNOP23</key><doi>10.1007/S00145-023-09477-Z</doi><ee>https://doi.org/10.1007/s00145-023-09477-z</ee><url>https://dblp.org/rec/journals/joc/AbeHNOP23</url></info>
+<url>URL#64963</url>
+</hit>
+<hit score="1" id="64964">
+<info><authors><author pid="177/2272">Navid Alamati</author><author pid="44/8733">Hart Montgomery</author><author pid="163/2345">Sikhar Patranabis</author><author pid="88/4138-1">Arnab Roy 0001</author></authors><title>Minicrypt Primitives with Algebraic Structure and Applications.</title><venue>J. Cryptol.</venue><volume>36</volume><number>1</number><pages>2</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AlamatiMPR23</key><doi>10.1007/S00145-022-09442-2</doi><ee>https://doi.org/10.1007/s00145-022-09442-2</ee><url>https://dblp.org/rec/journals/joc/AlamatiMPR23</url></info>
+<url>URL#64964</url>
+</hit>
+<hit score="1" id="64965">
+<info><authors><author pid="187/5662">Bar Alon</author><author pid="150/9418">Ran Cohen</author><author pid="65/2027">Eran Omri</author><author pid="275/3446">Tom Suad</author></authors><title>On the Power of an Honest Majority in Three-Party Computation Without Broadcast.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>25</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AlonCOS23</key><doi>10.1007/S00145-023-09456-4</doi><ee>https://doi.org/10.1007/s00145-023-09456-4</ee><url>https://dblp.org/rec/journals/joc/AlonCOS23</url></info>
+<url>URL#64965</url>
+</hit>
+<hit score="1" id="64966">
+<info><authors><author pid="187/5662">Bar Alon</author><author pid="65/2027">Eran Omri</author></authors><title>Almost-Optimally Fair Multiparty Coin-Tossing with Nearly Three-Quarters Malicious.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>24</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AlonO23</key><doi>10.1007/S00145-023-09466-2</doi><ee>https://doi.org/10.1007/s00145-023-09466-2</ee><url>https://dblp.org/rec/journals/joc/AlonO23</url></info>
+<url>URL#64966</url>
+</hit>
+<hit score="1" id="64967">
+<info><authors><author pid="312/6801">Ananya Appan</author><author pid="290/5015">Anirudh Chandramouli</author><author pid="40/8319">Ashish Choudhury</author></authors><title>Revisiting the Efficiency of Asynchronous MPC with Optimal Resilience Against General Adversaries.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>16</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AppanCC23</key><doi>10.1007/S00145-023-09457-3</doi><ee>https://doi.org/10.1007/s00145-023-09457-3</ee><url>https://dblp.org/rec/journals/joc/AppanCC23</url></info>
+<url>URL#64967</url>
+</hit>
+<hit score="1" id="64968">
+<info><authors><author pid="46/1698">Benny Applebaum</author><author pid="129/8973">Yoni Moses</author></authors><title>Correction: Locally Computable UOWHF with Linear Shrinkage.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>5</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/ApplebaumM23</key><doi>10.1007/S00145-023-09443-9</doi><ee>https://doi.org/10.1007/s00145-023-09443-9</ee><url>https://dblp.org/rec/journals/joc/ApplebaumM23</url></info>
+<url>URL#64968</url>
+</hit>
+<hit score="1" id="64969">
+<info><authors><author pid="25/7423">Gilad Asharov</author><author pid="49/11433">Ilan Komargodski</author><author pid="03/1108">Wei-Kai Lin</author><author pid="80/4580">Elaine Shi</author></authors><title>Oblivious RAM with Worst-Case Logarithmic Overhead.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>7</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AsharovKLS23</key><doi>10.1007/S00145-023-09447-5</doi><ee>https://doi.org/10.1007/s00145-023-09447-5</ee><url>https://dblp.org/rec/journals/joc/AsharovKLS23</url></info>
+<url>URL#64969</url>
+</hit>
+<hit score="1" id="64970">
+<info><authors><author pid="171/2268">Thomas Attema</author><author pid="84/3662">Serge Fehr</author><author pid="207/6587">Michael Klooß</author></authors><title>Fiat-Shamir Transformation of Multi-Round Interactive Proofs (Extended Version).</title><venue>J. Cryptol.</venue><volume>36</volume><number>4</number><pages>36</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AttemaFK23</key><doi>10.1007/S00145-023-09478-Y</doi><ee>https://doi.org/10.1007/s00145-023-09478-y</ee><url>https://dblp.org/rec/journals/joc/AttemaFK23</url></info>
+<url>URL#64970</url>
+</hit>
+<hit score="1" id="64971">
+<info><authors><author pid="161/6297">Mariya Georgieva Belorgey</author><author pid="57/8724">Sergiu Carpov</author><author pid="286/6340">Kevin Deforth</author><author pid="11/3871">Dimitar Jetchev</author><author pid="286/6184">Abson Sae-Tang</author><author pid="286/6190">Marius Vuille</author><author pid="49/4575">Nicolas Gama</author><author pid="k/JonathanKatz">Jonathan Katz</author><author pid="138/9027">Iraklis Leontiadis</author><author pid="38/10387">Mohsen Mohammadi</author></authors><title>Manticore: A Framework for Efficient Multiparty Computation Supporting Real Number and Boolean Arithmetic.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>31</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BelorgeyCDJSVGKLM23</key><doi>10.1007/S00145-023-09464-4</doi><ee>https://doi.org/10.1007/s00145-023-09464-4</ee><url>https://dblp.org/rec/journals/joc/BelorgeyCDJSVGKLM23</url></info>
+<url>URL#64971</url>
+</hit>
+<hit score="1" id="64972">
+<info><authors><author pid="322/3493">Loris Bergerat</author><author pid="322/3529">Anas Boudi</author><author pid="322/3471">Quentin Bourgerie</author><author pid="175/5881">Ilaria Chillotti</author><author pid="199/9665">Damien Ligier</author><author pid="154/6414">Jean-Baptiste Orfila</author><author pid="294/0685">Samuel Tap</author></authors><title>Parameter Optimization and Larger Precision for (T)FHE.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>28</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BergeratBBCLOT23</key><doi>10.1007/S00145-023-09463-5</doi><ee>https://doi.org/10.1007/s00145-023-09463-5</ee><url>https://dblp.org/rec/journals/joc/BergeratBBCLOT23</url></info>
+<url>URL#64972</url>
+</hit>
+<hit score="1" id="64973">
+<info><authors><author pid="249/0506">Katharina Boudgoust</author><author pid="275/3570">Corentin Jeudy</author><author pid="04/11043">Adeline Roux-Langlois</author><author pid="140/5403">Weiqiang Wen</author></authors><title>On the Hardness of Module Learning with Errors with Short Distributions.</title><venue>J. Cryptol.</venue><volume>36</volume><number>1</number><pages>1</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BoudgoustJRW23</key><doi>10.1007/S00145-022-09441-3</doi><ee>https://doi.org/10.1007/s00145-022-09441-3</ee><url>https://dblp.org/rec/journals/joc/BoudgoustJRW23</url></info>
+<url>URL#64973</url>
+</hit>
+<hit score="1" id="64974">
+<info><authors><author pid="44/10962">Cyril Bouvier</author><author pid="42/6955">Guilhem Castagnos</author><author pid="57/4865">Laurent Imbert</author><author pid="51/5010">Fabien Laguillaumie</author></authors><title>I Want to Ride My BICYCL : BICYCL Implements CryptographY in CLass Groups.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>17</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BouvierCIL23</key><doi>10.1007/S00145-023-09459-1</doi><ee>https://doi.org/10.1007/s00145-023-09459-1</ee><url>https://dblp.org/rec/journals/joc/BouvierCIL23</url></info>
+<url>URL#64974</url>
+</hit>
+<hit score="1" id="64975">
+<info><authors><author pid="12/9528">Elette Boyle</author><author pid="150/9418">Ran Cohen</author><author pid="137/8017">Deepesh Data</author><author pid="133/2211">Pavel Hubácek</author></authors><title>Must the Communication Graph of MPC Protocols be an Expander?</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>20</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BoyleCDH23</key><doi>10.1007/S00145-023-09460-8</doi><ee>https://doi.org/10.1007/s00145-023-09460-8</ee><url>https://dblp.org/rec/journals/joc/BoyleCDH23</url></info>
+<url>URL#64975</url>
+</hit>
+<hit score="1" id="64976">
+<info><authors><author pid="53/1085">Zvika Brakerski</author><author pid="95/9050">Nico Döttling</author><author pid="33/5817">Sanjam Garg</author><author pid="148/1304">Giulio Malavolta</author></authors><title>Candidate iO from Homomorphic Encryption Schemes.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>27</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BrakerskiDGM23</key><doi>10.1007/S00145-023-09471-5</doi><ee>https://doi.org/10.1007/s00145-023-09471-5</ee><url>https://dblp.org/rec/journals/joc/BrakerskiDGM23</url></info>
+<url>URL#64976</url>
+</hit>
+<hit score="1" id="64977">
+<info><authors><author pid="57/5802">Koji Chida</author><author pid="44/4131">Koki Hamada</author><author pid="90/9091">Dai Ikarashi</author><author pid="79/8627">Ryo Kikuchi</author><author pid="98/8283">Daniel Genkin</author><author pid="l/YehudaLindell">Yehuda Lindell</author><author pid="167/3062">Ariel Nof</author></authors><title>Fast Large-Scale Honest-Majority MPC for Malicious Adversaries.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>15</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/ChidaHIKGLN23</key><doi>10.1007/S00145-023-09453-7</doi><ee>https://doi.org/10.1007/s00145-023-09453-7</ee><url>https://dblp.org/rec/journals/joc/ChidaHIKGLN23</url></info>
+<url>URL#64977</url>
+</hit>
+<hit score="1" id="64978">
+<info><authors><author pid="40/8319">Ashish Choudhury</author><author pid="64/3169">Arpita Patra</author></authors><title>On the Communication Efficiency of Statistically Secure Asynchronous MPC with Optimal Resilience.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>13</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/ChoudhuryP23</key><doi>10.1007/S00145-023-09451-9</doi><ee>https://doi.org/10.1007/s00145-023-09451-9</ee><url>https://dblp.org/rec/journals/joc/ChoudhuryP23</url></info>
+<url>URL#64978</url>
+</hit>
+<hit score="1" id="64979">
+<info><authors><author pid="150/9418">Ran Cohen</author><author pid="s/AShelat">Abhi Shelat</author><author pid="24/2359">Daniel Wichs</author></authors><title>Adaptively Secure MPC with Sublinear Communication Complexity.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>11</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/CohenSW23</key><doi>10.1007/S00145-023-09446-6</doi><ee>https://doi.org/10.1007/s00145-023-09446-6</ee><url>https://dblp.org/rec/journals/joc/CohenSW23</url></info>
+<url>URL#64979</url>
+</hit>
+<hit score="1" id="64980">
+<info><authors><author pid="13/3781">Murilo Coutinho</author><author pid="339/1929">Iago Passos</author><author pid="339/2502">Juan C. Grados Vásquez</author><author pid="86/5306">Santanu Sarkar 0001</author><author pid="124/2039">Fábio L. L. Mendonça</author><author pid="s/RTdeSousaJ">Rafael Timóteo de Sousa Jr.</author><author pid="60/10839">Fábio Borges</author></authors><title>Latin Dances Reloaded: Improved Cryptanalysis Against Salsa and ChaCha, and the Proposal of Forró.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>18</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/CoutinhoPVSMSB23</key><doi>10.1007/S00145-023-09455-5</doi><ee>https://doi.org/10.1007/s00145-023-09455-5</ee><url>https://dblp.org/rec/journals/joc/CoutinhoPVSMSB23</url></info>
+<url>URL#64980</url>
+</hit>
+<hit score="1" id="64981">
+<info><authors><author pid="141/0797">Pratish Datta</author><author pid="49/11433">Ilan Komargodski</author><author pid="w/BrentWaters">Brent Waters</author></authors><title>Decentralized Multi-authority ABE for sfNC1 from BDH.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>6</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/DattaKW23</key><doi>10.1007/S00145-023-09445-7</doi><ee>https://doi.org/10.1007/s00145-023-09445-7</ee><url>https://dblp.org/rec/journals/joc/DattaKW23</url></info>
+<url>URL#64981</url>
+</hit>
+<hit score="1" id="64982">
+<info><authors><author pid="32/1399">Marten van Dijk</author><author pid="148/1500">Chenglu Jin</author></authors><title>A Theoretical Framework for the Analysis of Physical Unclonable Function Interfaces and Its Relation to the Random Oracle Model.</title><venue>J. Cryptol.</venue><volume>36</volume><number>4</number><pages>35</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/DijkJ23</key><doi>10.1007/S00145-023-09475-1</doi><ee>https://doi.org/10.1007/s00145-023-09475-1</ee><url>https://dblp.org/rec/journals/joc/DijkJ23</url></info>
+<url>URL#64982</url>
+</hit>
+<hit score="1" id="64983">
+<info><authors><author pid="236/4927">Uddipana Dowerah</author><author pid="305/4367">Subhranil Dutta</author><author pid="22/417">Aikaterini Mitrokotsa</author><author pid="150/8065">Sayantan Mukherjee</author><author pid="222/6843">Tapas Pal</author></authors><title>Unbounded Predicate Inner Product Functional Encryption from Pairings.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>29</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/DowerahDMMP23</key><doi>10.1007/S00145-023-09458-2</doi><ee>https://doi.org/10.1007/s00145-023-09458-2</ee><url>https://dblp.org/rec/journals/joc/DowerahDMMP23</url></info>
+<url>URL#64983</url>
+</hit>
+<hit score="1" id="64984">
+<info><authors><author pid="74/3729">Jun Furukawa 0001</author><author pid="l/YehudaLindell">Yehuda Lindell</author><author pid="167/3062">Ariel Nof</author><author pid="187/5510">Or Weinstein</author></authors><title>High-Throughput Secure Three-Party Computation with an Honest Majority.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>21</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/FurukawaLNW23</key><doi>10.1007/S00145-023-09461-7</doi><ee>https://doi.org/10.1007/s00145-023-09461-7</ee><url>https://dblp.org/rec/journals/joc/FurukawaLNW23</url></info>
+<url>URL#64984</url>
+</hit>
+<hit score="1" id="64985">
+<info><authors><author pid="321/1778">Robin Geelen</author><author pid="31/5019">Frederik Vercauteren</author></authors><title>Bootstrapping for BGV and BFV Revisited.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>12</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/GeelenV23</key><doi>10.1007/S00145-023-09454-6</doi><ee>https://doi.org/10.1007/s00145-023-09454-6</ee><url>https://dblp.org/rec/journals/joc/GeelenV23</url></info>
+<url>URL#64985</url>
+</hit>
+<hit score="1" id="64986">
+<info><authors><author pid="95/1548">Carmit Hazay</author><author pid="05/667">Yuval Ishai</author><author pid="64/4755">Muthuramakrishnan Venkitasubramaniam</author></authors><title>Actively Secure Garbled Circuits with Constant Communication Overhead in the Plain Model.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>26</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/HazayIV23</key><doi>10.1007/S00145-023-09465-3</doi><ee>https://doi.org/10.1007/s00145-023-09465-3</ee><url>https://dblp.org/rec/journals/joc/HazayIV23</url></info>
+<url>URL#64986</url>
+</hit>
+<hit score="1" id="64987">
+<info><authors><author pid="160/2120">Fuyuki Kitagawa</author><author pid="m/TakahiroMatsuda2">Takahiro Matsuda 0002</author><author pid="136/6660">Takashi Yamakawa</author></authors><title>NIZK from SNARGs.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>14</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/KitagawaMY23</key><doi>10.1007/S00145-023-09449-3</doi><ee>https://doi.org/10.1007/s00145-023-09449-3</ee><url>https://dblp.org/rec/journals/joc/KitagawaMY23</url></info>
+<url>URL#64987</url>
+</hit>
+<hit score="1" id="64988">
+<info><authors><author pid="11/11286">Susumu Kiyoshima</author></authors><title>No-Signaling Linear PCPs.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>9</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/Kiyoshima23</key><doi>10.1007/S00145-023-09448-4</doi><ee>https://doi.org/10.1007/s00145-023-09448-4</ee><url>https://dblp.org/rec/journals/joc/Kiyoshima23</url></info>
+<url>URL#64988</url>
+</hit>
+<hit score="1" id="64989">
+<info><authors><author pid="160/3825">Nishat Koti</author><author pid="232/9236">Shravani Mahesh Patil</author><author pid="64/3169">Arpita Patra</author><author pid="187/5691">Ajith Suresh</author></authors><title>MPClan: Protocol Suite for Privacy-Conscious Computations.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>22</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/KotiPPS23</key><doi>10.1007/S00145-023-09469-Z</doi><ee>https://doi.org/10.1007/s00145-023-09469-z</ee><url>https://dblp.org/rec/journals/joc/KotiPPS23</url></info>
+<url>URL#64989</url>
+</hit>
+<hit score="1" id="64990">
+<info><authors><author pid="62/1759">Benoît Libert</author><author pid="83/3827">San Ling</author><author pid="51/4678-2">Khoa Nguyen 0002</author><author pid="52/4513">Huaxiong Wang</author></authors><title>Zero-Knowledge Arguments for Lattice-Based Accumulators: Logarithmic-Size Ring Signatures and Group Signatures Without Trapdoors.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>23</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/LibertLNW23</key><doi>10.1007/S00145-023-09470-6</doi><ee>https://doi.org/10.1007/s00145-023-09470-6</ee><url>https://dblp.org/rec/journals/joc/LibertLNW23</url></info>
+<url>URL#64990</url>
+</hit>
+<hit score="1" id="64991">
+<info><authors><author pid="162/8949">Yunwen Liu</author><author pid="244/3186">Zhongfeng Niu</author><author pid="94/10123">Siwei Sun</author><author pid="66/190-2">Chao Li 0002</author><author pid="09/6501">Lei Hu</author></authors><title>Rotational Differential-Linear Cryptanalysis Revisited.</title><venue>J. Cryptol.</venue><volume>36</volume><number>1</number><pages>3</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/joc/LiuNSLH23</key><doi>10.1007/S00145-022-09440-4</doi><ee>https://doi.org/10.1007/s00145-022-09440-4</ee><url>https://dblp.org/rec/journals/joc/LiuNSLH23</url></info>
+<url>URL#64991</url>
+</hit>
+<hit score="1" id="64992">
+<info><authors><author pid="213/2774">Christian Mouchet</author><author pid="329/5116">Elliott Bertrand</author><author pid="h/JPHubaux">Jean-Pierre Hubaux</author></authors><title>An Efficient Threshold Access-Structure for RLWE-Based Multiparty Homomorphic Encryption.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>10</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/joc/MouchetBH23</key><doi>10.1007/S00145-023-09452-8</doi><ee>https://doi.org/10.1007/s00145-023-09452-8</ee><url>https://dblp.org/rec/journals/joc/MouchetBH23</url></info>
+<url>URL#64992</url>
+</hit>
+<hit score="1" id="64993">
+<info><authors><author pid="299/0033">Raine Nieminen</author><author pid="06/3872-3">Thomas Schneider 0003</author></authors><title>Breaking and Fixing Garbled Circuits When a Gate has Duplicate Input Wires.</title><venue>J. Cryptol.</venue><volume>36</volume><number>4</number><pages>34</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/NieminenS23</key><doi>10.1007/S00145-023-09472-4</doi><ee>https://doi.org/10.1007/s00145-023-09472-4</ee><url>https://dblp.org/rec/journals/joc/NieminenS23</url></info>
+<url>URL#64993</url>
+</hit>
+<hit score="1" id="64994">
+<info><authors><author pid="p/DPointcheval">David Pointcheval</author><author pid="s/NigelPSmart">Nigel P. Smart</author></authors><title>Topical Collection on Computing on Encrypted Data.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>4</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/PointchevalS23</key><doi>10.1007/S00145-023-09444-8</doi><ee>https://doi.org/10.1007/s00145-023-09444-8</ee><url>https://dblp.org/rec/journals/joc/PointchevalS23</url></info>
+<url>URL#64994</url>
+</hit>
+<hit score="1" id="64995">
+<info><authors><author pid="148/6886">Sayandeep Saha</author><author pid="192/5163">Manaar Alam</author><author pid="215/3479">Arnab Bag</author><author pid="85/3079">Debdeep Mukhopadhyay</author><author pid="39/2452">Pallab Dasgupta</author></authors><title>Learn from Your Faults: Leakage Assessment in Fault Attacks Using Deep Learning.</title><venue>J. Cryptol.</venue><volume>36</volume><number>3</number><pages>19</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/SahaABMD23</key><doi>10.1007/S00145-023-09462-6</doi><ee>https://doi.org/10.1007/s00145-023-09462-6</ee><url>https://dblp.org/rec/journals/joc/SahaABMD23</url></info>
+<url>URL#64995</url>
+</hit>
+<hit score="1" id="64996">
+<info><authors><author pid="240/8286">Jonathan Takeshita</author><author pid="240/8203">Ryan Karl</author><author pid="89/6838">Ting Gong</author><author pid="12/11514">Taeho Jung</author></authors><title>SLAP: Simpler, Improved Private Stream Aggregation from Ring Learning with Errors.</title><venue>J. Cryptol.</venue><volume>36</volume><number>2</number><pages>8</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/TakeshitaKGJ23</key><doi>10.1007/S00145-023-09450-W</doi><ee>https://doi.org/10.1007/s00145-023-09450-w</ee><url>https://dblp.org/rec/journals/joc/TakeshitaKGJ23</url></info>
+<url>URL#64996</url>
+</hit>
+<hit score="1" id="64997">
+<info><authors><author pid="20/10644">Song Tian</author></authors><title>Cover Attacks for Elliptic Curves over Cubic Extension Fields.</title><venue>J. Cryptol.</venue><volume>36</volume><number>4</number><pages>32</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/Tian23</key><doi>10.1007/S00145-023-09474-2</doi><ee>https://doi.org/10.1007/s00145-023-09474-2</ee><url>https://dblp.org/rec/journals/joc/Tian23</url></info>
+<url>URL#64997</url>
+</hit>
+<hit score="1" id="64998">
+<info><authors><author pid="48/10099-1">Yuyu Wang 0001</author><author pid="02/8828">Jiaxin Pan</author><author pid="87/1254-3">Yu Chen 0003</author></authors><title>Fine-Grained Secure Attribute-Based Encryption.</title><venue>J. Cryptol.</venue><volume>36</volume><number>4</number><pages>33</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/joc/WangPC23</key><doi>10.1007/S00145-023-09479-X</doi><ee>https://doi.org/10.1007/s00145-023-09479-x</ee><url>https://dblp.org/rec/journals/joc/WangPC23</url></info>
+<url>URL#64998</url>
+</hit>
+</hits>
+</result>

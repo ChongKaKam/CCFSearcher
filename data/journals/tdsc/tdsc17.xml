@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239122">:facetid:toc:\"db/journals/tdsc/tdsc17.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">192.24</time>
+<completions total="1" computed="1" sent="1">
+<c sc="98" dc="98" oc="98" id="41112649">:facetid:toc:db/journals/tdsc/tdsc17.bht</c>
+</completions>
+<hits total="98" computed="98" sent="98" first="0">
+<hit score="1" id="1345113">
+<info><authors><author pid="35/2837-1">Zheng Zheng 0001</author><author pid="t/KishorSTrivedi">Kishor S. Trivedi</author><author pid="84/864">Nan Wang</author><author pid="78/953">Kun Qiu</author></authors><title>Markov Regenerative Models of WebServers for Their User-Perceived Availability and Bottlenecks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>92-105</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/0001TWQ20</key><doi>10.1109/TDSC.2017.2753803</doi><ee>https://doi.org/10.1109/TDSC.2017.2753803</ee><url>https://dblp.org/rec/journals/tdsc/0001TWQ20</url></info>
+<url>URL#1345113</url>
+</hit>
+<hit score="1" id="1345114">
+<info><authors><author pid="48/2168-4">Yuan Zhang 0004</author><author pid="243/4419">Boyu Zhu</author><author pid="24/4508">Yixin Fang</author><author pid="134/8260">Suxin Guo</author><author pid="z/AidongZhang">Aidong Zhang</author><author pid="53/4506-2">Sheng Zhong 0002</author></authors><title>Secure Inter-Domain Forwarding Loop Test in Software Defined Networks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>162-178</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/0004ZFGZZ20</key><doi>10.1109/TDSC.2017.2731773</doi><ee>https://doi.org/10.1109/TDSC.2017.2731773</ee><url>https://dblp.org/rec/journals/tdsc/0004ZFGZZ20</url></info>
+<url>URL#1345114</url>
+</hit>
+<hit score="1" id="1345115">
+<info><authors><author pid="48/450-26">Yang Yang 0026</author><author pid="134/3945">Ximeng Liu</author><author pid="d/RobertHDeng">Robert H. Deng</author><author pid="15/2506">Yingjiu Li</author></authors><title>Lightweight Sharable and Traceable Secure Mobile Health System.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>78-91</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/0026LDL20</key><doi>10.1109/TDSC.2017.2729556</doi><ee>https://doi.org/10.1109/TDSC.2017.2729556</ee><url>https://dblp.org/rec/journals/tdsc/0026LDL20</url></info>
+<url>URL#1345115</url>
+</hit>
+<hit score="1" id="1345116">
+<info><authors><author pid="166/5835">Bert Abrath</author><author pid="93/7397">Bart Coppens 0001</author><author pid="170/1880">Mohit Mishra</author><author pid="200/8149">Jens Van den Broeck</author><author pid="80/5111">Bjorn De Sutter</author></authors><title>$\Delta$ΔBreakpad: Diversified Binary Crash Reporting.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>841-856</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/AbrathCMBS20</key><doi>10.1109/TDSC.2018.2823751</doi><ee>https://doi.org/10.1109/TDSC.2018.2823751</ee><url>https://dblp.org/rec/journals/tdsc/AbrathCMBS20</url></info>
+<url>URL#1345116</url>
+</hit>
+<hit score="1" id="1345117">
+<info><authors><author pid="83/10004">Jose Ignacio Aizpurua</author><author pid="47/6727">Yiannis Papadopoulos</author><author pid="27/9101">Guillaume Merle</author></authors><title>Explicit Modelling and Treatment of Repair in Prediction of Dependability.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1147-1162</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/AizpuruaPM20</key><doi>10.1109/TDSC.2018.2857810</doi><ee>https://doi.org/10.1109/TDSC.2018.2857810</ee><url>https://dblp.org/rec/journals/tdsc/AizpuruaPM20</url></info>
+<url>URL#1345117</url>
+</hit>
+<hit score="1" id="1345118">
+<info><authors><author pid="118/0026">Rouzbeh Behnia</author><author pid="202/6743">Muslum Ozgur Ozmen</author><author pid="73/4897">Attila Altay Yavuz</author></authors><title>Lattice-Based Public Key Searchable Encryption from Experimental Perspectives.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1269-1282</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/BehniaOY20</key><doi>10.1109/TDSC.2018.2867462</doi><ee>https://doi.org/10.1109/TDSC.2018.2867462</ee><url>https://dblp.org/rec/journals/tdsc/BehniaOY20</url></info>
+<url>URL#1345118</url>
+</hit>
+<hit score="1" id="1345119">
+<info><authors><author pid="183/9173">Pierre Bergé</author><author pid="c/JasonCrampton">Jason Crampton</author><author pid="74/2412">Gregory Z. Gutin</author><author pid="116/7602">Rémi Watrigant</author></authors><title>The Authorization Policy Existence Problem.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1333-1344</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/BergeCGW20</key><doi>10.1109/TDSC.2018.2883416</doi><ee>https://doi.org/10.1109/TDSC.2018.2883416</ee><url>https://dblp.org/rec/journals/tdsc/BergeCGW20</url></info>
+<url>URL#1345119</url>
+</hit>
+<hit score="1" id="1345120">
+<info><authors><author pid="04/3524">Luigi Catuogno</author><author pid="64/6932">Clemente Galdi</author><author pid="p/GiuseppePersiano">Giuseppe Persiano</author></authors><title>Secure Dependency Enforcement in Package Management Systems.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>377-390</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/CatuognoGP20</key><doi>10.1109/TDSC.2017.2777991</doi><ee>https://doi.org/10.1109/TDSC.2017.2777991</ee><url>https://dblp.org/rec/journals/tdsc/CatuognoGP20</url></info>
+<url>URL#1345120</url>
+</hit>
+<hit score="1" id="1345121">
+<info><authors><author pid="65/2136-2">Tanmoy Chakraborty 0002</author><author pid="149/1452">Fabio Pierazzi</author><author pid="s/VSSubrahmanian">V. S. Subrahmanian</author></authors><title>EC2: Ensemble Clustering and Classification for Predicting Android Malware Families.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>262-277</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ChakrabortyPS20</key><doi>10.1109/TDSC.2017.2739145</doi><ee>https://doi.org/10.1109/TDSC.2017.2739145</ee><url>https://dblp.org/rec/journals/tdsc/ChakrabortyPS20</url></info>
+<url>URL#1345121</url>
+</hit>
+<hit score="1" id="1345122">
+<info><authors><author pid="42/1159-1">Jiayi Chen 0001</author><author pid="47/3877">Jianping He 0001</author><author pid="20/8688-1">Lin Cai 0001</author><author pid="p/JianpingPan">Jianping Pan 0001</author></authors><title>Disclose More and Risk Less: Privacy Preserving Online Social Network Data Sharing.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1173-1187</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ChenHCP20</key><doi>10.1109/TDSC.2018.2861403</doi><ee>https://doi.org/10.1109/TDSC.2018.2861403</ee><url>https://dblp.org/rec/journals/tdsc/ChenHCP20</url></info>
+<url>URL#1345122</url>
+</hit>
+<hit score="1" id="1345123">
+<info><authors><author pid="136/5825">Dajiang Chen</author><author pid="181/2597-7">Ning Zhang 0007</author><author pid="73/8540">Nan Cheng</author><author pid="50/7188">Kuan Zhang</author><author pid="52/1374">Zhiguang Qin</author><author pid="s/XueminShen">Xuemin Shen</author></authors><title>Physical Layer based Message Authentication with Secure Channel Codes.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1079-1093</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ChenZCZQS20</key><doi>10.1109/TDSC.2018.2846258</doi><ee>https://doi.org/10.1109/TDSC.2018.2846258</ee><url>https://dblp.org/rec/journals/tdsc/ChenZCZQS20</url></info>
+<url>URL#1345123</url>
+</hit>
+<hit score="1" id="1345124">
+<info><authors><author pid="174/2225">Javier Álvarez Cid-Fuentes</author><author pid="11/1325">Claudia Szabo</author><author pid="f/KatrinaFalkner">Katrina Falkner</author></authors><title>Adaptive Performance Anomaly Detection in Distributed Systems Using Online SVMs.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>928-941</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/Cid-FuentesSF20</key><doi>10.1109/TDSC.2018.2821693</doi><ee>https://doi.org/10.1109/TDSC.2018.2821693</ee><url>https://dblp.org/rec/journals/tdsc/Cid-FuentesSF20</url></info>
+<url>URL#1345124</url>
+</hit>
+<hit score="1" id="1345125">
+<info><authors><author pid="88/10860">Jeroen Van Cleemput</author><author pid="80/5111">Bjorn De Sutter</author><author pid="b/KoenraadDeBosschere">Koen De Bosschere</author></authors><title>Adaptive Compiler Strategies for Mitigating Timing Side Channel Attacks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>35-49</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/CleemputSB20</key><doi>10.1109/TDSC.2017.2729549</doi><ee>https://doi.org/10.1109/TDSC.2017.2729549</ee><url>https://dblp.org/rec/journals/tdsc/CleemputSB20</url></info>
+<url>URL#1345125</url>
+</hit>
+<hit score="1" id="1345126">
+<info><authors><author pid="144/6258">Shujie Cui</author><author pid="82/10434">Muhammad Rizwan Asghar</author><author pid="43/4123">Giovanni Russello</author></authors><title>Multi-CDN: Towards Privacy in Content Delivery Networks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>984-999</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/CuiAR20</key><doi>10.1109/TDSC.2018.2833110</doi><ee>https://doi.org/10.1109/TDSC.2018.2833110</ee><url>https://dblp.org/rec/journals/tdsc/CuiAR20</url></info>
+<url>URL#1345126</url>
+</hit>
+<hit score="1" id="1345127">
+<info><authors><author pid="162/5813">Wenxiu Ding</author><author pid="43/180-2">Zheng Yan 0002</author><author pid="d/RobertHDeng">Robert H. Deng</author></authors><title>Privacy-Preserving Data Processing with Flexible Access Control.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>363-376</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/tdsc/DingYD20</key><doi>10.1109/TDSC.2017.2786247</doi><ee>https://doi.org/10.1109/TDSC.2017.2786247</ee><url>https://dblp.org/rec/journals/tdsc/DingYD20</url></info>
+<url>URL#1345127</url>
+</hit>
+<hit score="1" id="1345128">
+<info><authors><author pid="11/9085">Boxiang Dong</author><author pid="52/4725">Hui Wang 0013</author><author pid="40/1533">Anna Monreale</author><author pid="p/DPedreschi">Dino Pedreschi</author><author pid="g/FoscaGiannotti">Fosca Giannotti</author><author pid="39/6558">Wenge Guo</author></authors><title>Authenticated Outlier Mining for Outsourced Databases.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>222-235</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/DongWMPGG20</key><doi>10.1109/TDSC.2017.2754493</doi><ee>https://doi.org/10.1109/TDSC.2017.2754493</ee><url>https://dblp.org/rec/journals/tdsc/DongWMPGG20</url></info>
+<url>URL#1345128</url>
+</hit>
+<hit score="1" id="1345129">
+<info><authors><author pid="273/2570">Mikhail Dorojevets</author></authors><title>Energy-Efficient Superconductor Bloom Filters for Streaming Data Inspection.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1015-1025</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/Dorojevets20</key><doi>10.1109/TDSC.2018.2843318</doi><ee>https://doi.org/10.1109/TDSC.2018.2843318</ee><url>https://dblp.org/rec/journals/tdsc/Dorojevets20</url></info>
+<url>URL#1345129</url>
+</hit>
+<hit score="1" id="1345130">
+<info><authors><author pid="68/1281">Keita Emura</author><author pid="76/8178-1">Takuya Hayashi 0001</author><author pid="22/778">Ai Ishida</author></authors><title>Group Signatures with Time-Bound Keys Revisited: A New Model, an Efficient Construction, and its Implementation.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>292-305</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/EmuraHI20</key><doi>10.1109/TDSC.2017.2754247</doi><ee>https://doi.org/10.1109/TDSC.2017.2754247</ee><url>https://dblp.org/rec/journals/tdsc/EmuraHI20</url></info>
+<url>URL#1345130</url>
+</hit>
+<hit score="1" id="1345131">
+<info><authors><author pid="194/7011">Sai Mounika Errapotu</author><author pid="61/1651">Hongning Li</author><author pid="91/1334">Rong Yu</author><author pid="60/4548">Shaolei Ren</author><author pid="06/4559">Qingqi Pei</author><author pid="16/1033">Miao Pan</author><author pid="83/514">Zhu Han 0001</author></authors><title>Clock Auction Inspired Privacy Preserving Emergency Demand Response in Colocation Data Centers.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>691-702</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ErrapotuLYRPPH20</key><doi>10.1109/TDSC.2018.2875732</doi><ee>https://doi.org/10.1109/TDSC.2018.2875732</ee><url>https://dblp.org/rec/journals/tdsc/ErrapotuLYRPPH20</url></info>
+<url>URL#1345131</url>
+</hit>
+<hit score="1" id="1345132">
+<info><authors><author pid="89/6036">Christian Esposito 0001</author><author pid="49/1311">Massimo Ficco</author><author pid="46/295">Aniello Castiglione</author><author pid="86/2508-2">Francesco Palmieri 0002</author><author pid="19/4614">Alfredo De Santis</author></authors><title>Distributed Group Key Management for Event Notification Confidentiality Among Sensors.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>566-580</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/EspositoFCPS20</key><doi>10.1109/TDSC.2018.2799227</doi><ee>https://doi.org/10.1109/TDSC.2018.2799227</ee><url>https://dblp.org/rec/journals/tdsc/EspositoFCPS20</url></info>
+<url>URL#1345132</url>
+</hit>
+<hit score="1" id="1345133">
+<info><authors><author pid="00/4883-7">Jun Feng 0007</author><author pid="y/LaurenceTianruoYang">Laurence T. Yang</author><author pid="74/963">Qing Zhu</author><author pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</author></authors><title>Privacy-Preserving Tensor Decomposition Over Encrypted Data in a Federated Cloud Environment.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>857-868</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/FengYZC20</key><doi>10.1109/TDSC.2018.2881452</doi><ee>https://doi.org/10.1109/TDSC.2018.2881452</ee><url>https://dblp.org/rec/journals/tdsc/FengYZC20</url></info>
+<url>URL#1345133</url>
+</hit>
+<hit score="1" id="1345134">
+<info><authors><author pid="116/4792">Rekha Govindaraj</author><author pid="91/2072">Swaroop Ghosh</author><author pid="01/4012">Srinivas Katkoori</author></authors><title>Design, Analysis and Application of Embedded Resistive RAM Based Strong Arbiter PUF.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1232-1242</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/GovindarajGK20</key><doi>10.1109/TDSC.2018.2866425</doi><ee>https://doi.org/10.1109/TDSC.2018.2866425</ee><url>https://dblp.org/rec/journals/tdsc/GovindarajGK20</url></info>
+<url>URL#1345134</url>
+</hit>
+<hit score="1" id="1345135">
+<info><authors><author pid="g/RachidGuerraoui">Rachid Guerraoui</author><author pid="01/10825">Alexandre Maurer</author></authors><title>The Cost of Scaling a Reliable Interconnection Topology.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1039-1050</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/GuerraouiM20</key><doi>10.1109/TDSC.2018.2845402</doi><ee>https://doi.org/10.1109/TDSC.2018.2845402</ee><url>https://dblp.org/rec/journals/tdsc/GuerraouiM20</url></info>
+<url>URL#1345135</url>
+</hit>
+<hit score="1" id="1345136">
+<info><authors><author pid="42/179">Weili Han</author><author pid="41/10801">Chang Cao</author><author pid="86/475-3">Hao Chen 0003</author><author pid="47/4826-24">Dong Li 0024</author><author pid="55/10782">Zheran Fang</author><author pid="10/3878-1">Wenyuan Xu 0001</author><author pid="w/XiaoyangSeanWang">X. Sean Wang</author></authors><title>senDroid: Auditing Sensor Access in Android System-Wide.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>407-421</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HanCCLFXW20</key><doi>10.1109/TDSC.2017.2768536</doi><ee>https://doi.org/10.1109/TDSC.2017.2768536</ee><url>https://dblp.org/rec/journals/tdsc/HanCCLFXW20</url></info>
+<url>URL#1345136</url>
+</hit>
+<hit score="1" id="1345137">
+<info><authors><author pid="12/5913">Kai He</author><author pid="73/273-1">Jun Guo 0001</author><author pid="81/1232-1">Jian Weng 0001</author><author pid="223/9686">Jia-Si Weng</author><author pid="51/5361">Joseph K. Liu</author><author pid="94/4423">Xun Yi</author></authors><title>Attribute-Based Hybrid Boolean Keyword Search over Outsourced Encrypted Data.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1207-1217</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HeGWWLY20</key><doi>10.1109/TDSC.2018.2864186</doi><ee>https://doi.org/10.1109/TDSC.2018.2864186</ee><url>https://dblp.org/rec/journals/tdsc/HeGWWLY20</url></info>
+<url>URL#1345137</url>
+</hit>
+<hit score="1" id="1345138">
+<info><authors><author pid="87/7765">Debiao He</author><author pid="202/8656-1">Yudi Zhang 0001</author><author pid="99/4292-2">Ding Wang 0002</author><author pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</author></authors><title>Secure and Efficient Two-Party Signing Protocol for the Identity-Based Signature Scheme in the IEEE P1363 Standard for Public Key Cryptography.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1124-1132</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HeZWC20</key><doi>10.1109/TDSC.2018.2857775</doi><ee>https://doi.org/10.1109/TDSC.2018.2857775</ee><url>https://dblp.org/rec/journals/tdsc/HeZWC20</url></info>
+<url>URL#1345138</url>
+</hit>
+<hit score="1" id="1345139">
+<info><authors><author pid="12/9064">Pilar Holgado</author><author pid="17/854">Víctor A. Villagrá</author><author pid="18/194">Luis Vázquez</author></authors><title>Real-Time Multistep Attack Prediction Based on Hidden Markov Models.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>134-147</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HolgadoVV20</key><doi>10.1109/TDSC.2017.2751478</doi><ee>https://doi.org/10.1109/TDSC.2017.2751478</ee><url>https://dblp.org/rec/journals/tdsc/HolgadoVV20</url></info>
+<url>URL#1345139</url>
+</hit>
+<hit score="1" id="1345140">
+<info><authors><author pid="178/4910">Jianan Hong</author><author pid="94/5600">Kaiping Xue</author><author pid="244/6074">Na Gai</author><author pid="65/4599">David S. L. Wei</author><author pid="15/2421">Peilin Hong</author></authors><title>Service Outsourcing in F2C Architecture with Attribute-based Anonymous Access Control and Bounded Service Number.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1051-1062</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HongXGWH20</key><doi>10.1109/TDSC.2018.2845381</doi><ee>https://doi.org/10.1109/TDSC.2018.2845381</ee><url>https://dblp.org/rec/journals/tdsc/HongXGWH20</url></info>
+<url>URL#1345140</url>
+</hit>
+<hit score="1" id="1345141">
+<info><authors><author pid="219/8864">Ziyuan Hu</author><author pid="22/2080-1">Shengli Liu 0001</author><author pid="66/5496">Kefei Chen</author></authors><title>Privacy-Preserving Location-Based Services Query Scheme Against Quantum Attacks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>972-983</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HuLC20</key><doi>10.1109/TDSC.2018.2831199</doi><ee>https://doi.org/10.1109/TDSC.2018.2831199</ee><url>https://dblp.org/rec/journals/tdsc/HuLC20</url></info>
+<url>URL#1345141</url>
+</hit>
+<hit score="1" id="1345142">
+<info><authors><author pid="89/331">Chin-Tser Huang</author><author pid="129/1059">Muhammad N. Sakib</author><author pid="45/9386">Charles A. Kamhoua</author><author pid="86/3876">Kevin A. Kwiat</author><author pid="194/3916">Laurent Njilla</author></authors><title>A Bayesian Game Theoretic Approach for Inspecting Web-Based Malvertising.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1257-1268</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HuangSKKN20</key><doi>10.1109/TDSC.2018.2866821</doi><ee>https://doi.org/10.1109/TDSC.2018.2866821</ee><url>https://dblp.org/rec/journals/tdsc/HuangSKKN20</url></info>
+<url>URL#1345142</url>
+</hit>
+<hit score="1" id="1345143">
+<info><authors><author pid="56/3807">Yonggang Huang</author><author pid="z/JunZhang10">Jun Zhang 0010</author><author pid="33/1366-2">Lei Pan 0002</author><author pid="50/2192-1">Yang Xiang 0001</author></authors><title>Privacy Protection in Interactive Content Based Image Retrieval.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>595-607</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/HuangZPX20</key><doi>10.1109/TDSC.2018.2793923</doi><ee>https://doi.org/10.1109/TDSC.2018.2793923</ee><url>https://dblp.org/rec/journals/tdsc/HuangZPX20</url></info>
+<url>URL#1345143</url>
+</hit>
+<hit score="1" id="1345144">
+<info><authors><author pid="00/3310">Ali Inan</author><author pid="165/5531">Mehmet Emre Gursoy</author><author pid="48/5154">Yücel Saygin</author></authors><title>Sensitivity Analysis for Non-Interactive Differential Privacy: Bounds and Efficient Algorithms.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>194-207</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/InanGS20</key><doi>10.1109/TDSC.2017.2734664</doi><ee>https://doi.org/10.1109/TDSC.2017.2734664</ee><url>https://dblp.org/rec/journals/tdsc/InanGS20</url></info>
+<url>URL#1345144</url>
+</hit>
+<hit score="1" id="1345145">
+<info><authors><author pid="177/9211">Eyal Itkin</author><author pid="w/AvishaiWool">Avishai Wool</author></authors><title>A Security Analysis and Revised Security Extension for the Precision Time Protocol.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>22-34</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ItkinW20</key><doi>10.1109/TDSC.2017.2748583</doi><ee>https://doi.org/10.1109/TDSC.2017.2748583</ee><url>https://dblp.org/rec/journals/tdsc/ItkinW20</url></info>
+<url>URL#1345145</url>
+</hit>
+<hit score="1" id="1345146">
+<info><authors><author pid="43/6896">Jinsoo Jang</author><author pid="17/6702">Brent ByungHoon Kang</author></authors><title>Retrofitting the Partially Privileged Mode for TEE Communication Channel Protection.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1000-1014</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/JangK20</key><doi>10.1109/TDSC.2018.2840709</doi><ee>https://doi.org/10.1109/TDSC.2018.2840709</ee><url>https://dblp.org/rec/journals/tdsc/JangK20</url></info>
+<url>URL#1345146</url>
+</hit>
+<hit score="1" id="1345147">
+<info><authors><author pid="172/2798">Linzhi Jiang</author><author pid="15/49">Chunxiang Xu</author><author pid="58/2390">Xiaofang Wang</author><author pid="71/2890">Bo Luo</author><author pid="73/4432">Huaqun Wang</author></authors><title>Secure outsourcing SIFT: Efficient and Privacy-Preserving Image Feature Extraction in the Encrypted Domain.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>179-193</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/JiangXWLW20</key><doi>10.1109/TDSC.2017.2751476</doi><ee>https://doi.org/10.1109/TDSC.2017.2751476</ee><url>https://dblp.org/rec/journals/tdsc/JiangXWLW20</url></info>
+<url>URL#1345147</url>
+</hit>
+<hit score="1" id="1345148">
+<info><authors><author pid="195/6089">Tara Merin John</author><author pid="156/0451">Syed Kamran Haider</author><author pid="195/5858">Hamza Omar</author><author pid="32/1399">Marten van Dijk</author></authors><title>Connecting the Dots: Privacy Leakage via Write-Access Patterns to the Main Memory.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>436-442</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/JohnHOD20</key><doi>10.1109/TDSC.2017.2779780</doi><ee>https://doi.org/10.1109/TDSC.2017.2779780</ee><url>https://dblp.org/rec/journals/tdsc/JohnHOD20</url></info>
+<url>URL#1345148</url>
+</hit>
+<hit score="1" id="1345149">
+<info><authors><author pid="260/8442">Nahid Juma</author><author pid="163/3667">Jonathan Shahen</author><author pid="39/8664">Khalid Zaman Bijon</author><author pid="32/4329">Mahesh Tripunitara</author></authors><title>The Overhead from Combating Side-Channels in Cloud Systems Using VM-Scheduling.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>422-435</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/JumaSBT20</key><doi>10.1109/TDSC.2018.2790932</doi><ee>https://doi.org/10.1109/TDSC.2018.2790932</ee><url>https://dblp.org/rec/journals/tdsc/JumaSBT20</url></info>
+<url>URL#1345149</url>
+</hit>
+<hit score="1" id="1345150">
+<info><authors><author pid="16/7906">Igor Kaitovic</author><author pid="m/MiroslawMalek">Miroslaw Malek</author></authors><title>Impact of Failure Prediction on Availability: Modeling and Comparative Analysis of Predictive and Reactive Methods.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>493-505</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/KaitovicM20</key><doi>10.1109/TDSC.2018.2806448</doi><ee>https://doi.org/10.1109/TDSC.2018.2806448</ee><url>https://dblp.org/rec/journals/tdsc/KaitovicM20</url></info>
+<url>URL#1345150</url>
+</hit>
+<hit score="1" id="1345151">
+<info><authors><author pid="13/7551">Dina Kamel</author><author pid="38/2138">François-Xavier Standaert</author><author pid="82/10310">Alexandre Duc</author><author pid="13/6542">Denis Flandre</author><author pid="189/1685">Francesco Berti</author></authors><title>Learning with Physical Noise or Errors.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>957-971</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/KamelSDFB20</key><doi>10.1109/TDSC.2018.2830763</doi><ee>https://doi.org/10.1109/TDSC.2018.2830763</ee><url>https://dblp.org/rec/journals/tdsc/KamelSDFB20</url></info>
+<url>URL#1345151</url>
+</hit>
+<hit score="1" id="1345152">
+<info><authors><author pid="88/3481">Emre Kaplan</author><author pid="165/5531">Mehmet Emre Gursoy</author><author pid="81/5926">Mehmet Ercan Nergiz</author><author pid="48/5154">Yücel Saygin</author></authors><title>Known Sample Attacks on Relation Preserving Data Transformations.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>443-450</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/KaplanGNS20</key><doi>10.1109/TDSC.2017.2759732</doi><ee>https://doi.org/10.1109/TDSC.2017.2759732</ee><url>https://dblp.org/rec/journals/tdsc/KaplanGNS20</url></info>
+<url>URL#1345152</url>
+</hit>
+<hit score="1" id="1345153">
+<info><authors><author pid="169/7381">Khaled N. Khasawneh</author><author pid="29/9639">Meltem Ozsoy</author><author pid="160/0667">Caleb Donovick</author><author pid="86/2654">Nael B. Abu-Ghazaleh</author><author pid="p/DmitryVPonomarev">Dmitry Ponomarev 0001</author></authors><title>EnsembleHMD: Accurate Hardware Malware Detectors with Specialized Ensemble Classifiers.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>620-633</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/KhasawnehODAP20</key><doi>10.1109/TDSC.2018.2801858</doi><ee>https://doi.org/10.1109/TDSC.2018.2801858</ee><url>https://dblp.org/rec/journals/tdsc/KhasawnehODAP20</url></info>
+<url>URL#1345153</url>
+</hit>
+<hit score="1" id="1345154">
+<info><authors><author pid="28/7984">Peter F. Klemperer</author><author pid="265/0044">Hye Yoon Jeon</author><author pid="65/4864">Bryan D. Payne</author><author pid="33/3960">James C. Hoe</author></authors><title>High-Performance Memory Snapshotting for Real-Time, Consistent, Hypervisor-Based Monitors.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>518-535</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/KlempererJPH20</key><doi>10.1109/TDSC.2018.2805904</doi><ee>https://doi.org/10.1109/TDSC.2018.2805904</ee><url>https://dblp.org/rec/journals/tdsc/KlempererJPH20</url></info>
+<url>URL#1345154</url>
+</hit>
+<hit score="1" id="1345155">
+<info><authors><author pid="153/5725">Huaxin Li</author><author pid="199/3661">Qingrong Chen</author><author pid="22/5702">Haojin Zhu</author><author pid="60/6791">Di Ma</author><author pid="94/5572-1">Hong Wen 0001</author><author pid="s/XueminShen">Xuemin Sherman Shen</author></authors><title>Privacy Leakage via De-Anonymization and Aggregation in Heterogeneous Social Networks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>350-362</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiCZMWS20</key><doi>10.1109/TDSC.2017.2754249</doi><ee>https://doi.org/10.1109/TDSC.2017.2754249</ee><url>https://dblp.org/rec/journals/tdsc/LiCZMWS20</url></info>
+<url>URL#1345155</url>
+</hit>
+<hit score="1" id="1345156">
+<info><authors><author pid="l/JingLi36">Jing Li 0036</author><author pid="83/6353-26">Peng Li 0026</author><author pid="146/5896">Rebecca J. Stones</author><author pid="71/4292-1">Gang Wang 0001</author><author pid="70/313">Zhongwei Li</author><author pid="25/1221-1">Xiaoguang Liu 0001</author></authors><title>Reliability Equations for Cloud Storage Systems with Proactive Fault Tolerance.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>782-794</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiLSWLL20</key><doi>10.1109/TDSC.2018.2882512</doi><ee>https://doi.org/10.1109/TDSC.2018.2882512</ee><url>https://dblp.org/rec/journals/tdsc/LiLSWLL20</url></info>
+<url>URL#1345156</url>
+</hit>
+<hit score="1" id="1345157">
+<info><authors><author pid="23/3439-6">Sheng Li 0006</author><author pid="01/3442-1">Xinpeng Zhang 0001</author><author pid="43/8279">Zhenxing Qian</author><author pid="44/2296">Guorui Feng</author><author pid="34/2753">Yanli Ren</author></authors><title>Key Based Artificial Fingerprint Generation for Privacy Protection.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>828-840</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiZQFR20</key><doi>10.1109/TDSC.2018.2812192</doi><ee>https://doi.org/10.1109/TDSC.2018.2812192</ee><url>https://dblp.org/rec/journals/tdsc/LiZQFR20</url></info>
+<url>URL#1345157</url>
+</hit>
+<hit score="1" id="1345158">
+<info><authors><author pid="92/3528">Xiaohui Liang</author><author pid="00/13">Ronald A. Peterson</author><author pid="k/DavidKotz">David Kotz</author></authors><title>Securely Connecting Wearables to Ambient Displays with User Intent.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>676-690</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiangPK20</key><doi>10.1109/TDSC.2018.2840979</doi><ee>https://doi.org/10.1109/TDSC.2018.2840979</ee><url>https://dblp.org/rec/journals/tdsc/LiangPK20</url></info>
+<url>URL#1345158</url>
+</hit>
+<hit score="1" id="1345159">
+<info><authors><author pid="134/3945">Ximeng Liu</author><author pid="d/RobertHDeng">Robert H. Deng</author><author pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</author><author pid="48/450-26">Yang Yang 0026</author><author pid="p/HweeHwaPang">HweeHwa Pang</author></authors><title>Privacy-Preserving Outsourced Calculation Toolkit in the Cloud.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>898-911</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiuDCYP20</key><doi>10.1109/TDSC.2018.2816656</doi><ee>https://doi.org/10.1109/TDSC.2018.2816656</ee><url>https://dblp.org/rec/journals/tdsc/LiuDCYP20</url></info>
+<url>URL#1345159</url>
+</hit>
+<hit score="1" id="1345160">
+<info><authors><author pid="70/1220-1">Zhe Liu 0001</author><author pid="32/2736">Patrick Longa</author><author pid="68/9385">Geovandro C. C. F. Pereira</author><author pid="118/3345">Oscar Reparaz</author><author pid="121/4554">Hwajeong Seo</author></authors><title>Four$\mathbb {Q}$Q on Embedded Devices with Strong Countermeasures Against Side-Channel Attacks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>536-549</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiuLPRS20</key><doi>10.1109/TDSC.2018.2799844</doi><ee>https://doi.org/10.1109/TDSC.2018.2799844</ee><url>https://dblp.org/rec/journals/tdsc/LiuLPRS20</url></info>
+<url>URL#1345160</url>
+</hit>
+<hit score="1" id="1345161">
+<info><authors><author pid="140/7769">Zishan Liu</author><author pid="74/4038-2">Zhenyu Liu 0002</author><author pid="37/1629-13">Lin Zhang 0013</author><author pid="59/554">Xiaodong Lin 0001</author></authors><title>MARP: A Distributed MAC Layer Attack Resistant Pseudonym Scheme for VANET.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>869-882</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiuLZL20</key><doi>10.1109/TDSC.2018.2838136</doi><ee>https://doi.org/10.1109/TDSC.2018.2838136</ee><url>https://dblp.org/rec/journals/tdsc/LiuLZL20</url></info>
+<url>URL#1345161</url>
+</hit>
+<hit score="1" id="1345162">
+<info><authors><author pid="210/4935">Xueqiao Liu</author><author pid="78/2235">Guomin Yang</author><author pid="m/YiMu">Yi Mu 0001</author><author pid="d/RobertHDeng">Robert H. Deng</author></authors><title>Multi-User Verifiable Searchable Symmetric Encryption for Cloud Storage.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1322-1332</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LiuYMD20</key><doi>10.1109/TDSC.2018.2876831</doi><ee>https://doi.org/10.1109/TDSC.2018.2876831</ee><url>https://dblp.org/rec/journals/tdsc/LiuYMD20</url></info>
+<url>URL#1345162</url>
+</hit>
+<hit score="1" id="1345163">
+<info><authors><author pid="49/2793-1">Li Lu 0001</author><author pid="152/8000">Lingshuang Liu</author><author pid="162/0938">Muhammad Jawad Hussain</author><author pid="156/7868">Yongshuai Liu</author></authors><title>I Sense You by Breath: Speaker Recognition via Breath Biometrics.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>306-319</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/LuLHL20</key><doi>10.1109/TDSC.2017.2767587</doi><ee>https://doi.org/10.1109/TDSC.2017.2767587</ee><url>https://dblp.org/rec/journals/tdsc/LuLHL20</url></info>
+<url>URL#1345163</url>
+</hit>
+<hit score="1" id="1345164">
+<info><authors><author pid="18/10062">Xiaobo Ma</author><author pid="42/6178-1">Bo An 0001</author><author pid="178/8719">Mengchen Zhao</author><author pid="53/1565">Xiapu Luo</author><author pid="68/2052-1">Lei Xue 0001</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="270/6367">Tony T. N. Miu</author><author pid="45/503">Xiaohong Guan</author></authors><title>Randomized Security Patrolling for Link Flooding Attack Detection.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>795-812</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/MaAZLXLMG20</key><doi>10.1109/TDSC.2019.2892370</doi><ee>https://doi.org/10.1109/TDSC.2019.2892370</ee><url>https://dblp.org/rec/journals/tdsc/MaAZLXLMG20</url></info>
+<url>URL#1345164</url>
+</hit>
+<hit score="1" id="1345165">
+<info><authors><author pid="46/5778-2">Hui Ma 0002</author><author pid="z/RuiZhang2">Rui Zhang 0002</author><author pid="78/2235">Guomin Yang</author><author pid="224/1041">Zishuai Song</author><author pid="12/5913">Kai He</author><author pid="209/6328">Yuting Xiao</author></authors><title>Efficient Fine-Grained Data Sharing Mechanism for Electronic Medical Record Systems with Mobile Devices.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1026-1038</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/MaZYSHX20</key><doi>10.1109/TDSC.2018.2844814</doi><ee>https://doi.org/10.1109/TDSC.2018.2844814</ee><url>https://dblp.org/rec/journals/tdsc/MaZYSHX20</url></info>
+<url>URL#1345165</url>
+</hit>
+<hit score="1" id="1345166">
+<info><authors><author pid="142/8260">Mihai Maruseac</author><author pid="80/6521">Gabriel Ghinita</author></authors><title>Precision-Enhanced Differentially-Private Mining of High-Confidence Association Rules.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1297-1309</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/MaruseacG20</key><doi>10.1109/TDSC.2018.2868190</doi><ee>https://doi.org/10.1109/TDSC.2018.2868190</ee><url>https://dblp.org/rec/journals/tdsc/MaruseacG20</url></info>
+<url>URL#1345166</url>
+</hit>
+<hit score="1" id="1345167">
+<info><authors><author pid="219/5889">Zeyu Mi</author><author pid="31/6601-1">Haibo Chen 0001</author><author pid="77/3503">Yinqian Zhang</author><author pid="235/1527">ShuangHe Peng</author><author pid="06/6268">Xiaofeng Wang 0006</author><author pid="r/MichaelKReiter">Michael K. Reiter</author></authors><title>CPU Elasticity to Mitigate Cross-VM Runtime Monitoring.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1094-1108</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/MiCZPWR20</key><doi>10.1109/TDSC.2018.2846742</doi><ee>https://doi.org/10.1109/TDSC.2018.2846742</ee><url>https://dblp.org/rec/journals/tdsc/MiCZPWR20</url></info>
+<url>URL#1345167</url>
+</hit>
+<hit score="1" id="1345168">
+<info><authors><author pid="70/2832">Aziz Mohaisen</author><author pid="76/10471">Zhongshu Gu</author><author pid="20/6179-1">Kui Ren 0001</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="45/9386">Charles A. Kamhoua</author><author pid="194/3916">Laurent L. Njilla</author><author pid="13/3903">DaeHun Nyang</author></authors><title>Look-Aside at Your Own Risk: Privacy Implications of DNSSEC Look-Aside Validation.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>745-759</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/MohaisenGRLKNN20</key><doi>10.1109/TDSC.2018.2816026</doi><ee>https://doi.org/10.1109/TDSC.2018.2816026</ee><url>https://dblp.org/rec/journals/tdsc/MohaisenGRLKNN20</url></info>
+<url>URL#1345168</url>
+</hit>
+<hit score="1" id="1345169">
+<info><authors><author pid="184/6182">Antonio Montieri</author><author pid="18/6490">Domenico Ciuonzo</author><author pid="64/9720">Giuseppe Aceto</author><author pid="58/1789">Antonio Pescapè</author></authors><title>Anonymity Services Tor, I2P, JonDonym: Classifying in the Dark (Web).</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>662-675</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/MontieriCAP20</key><doi>10.1109/TDSC.2018.2804394</doi><ee>https://doi.org/10.1109/TDSC.2018.2804394</ee><url>https://dblp.org/rec/journals/tdsc/MontieriCAP20</url></info>
+<url>URL#1345169</url>
+</hit>
+<hit score="1" id="1345170">
+<info><authors><author pid="47/710">Arslan Munir</author><author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author></authors><title>Design and Analysis of Secure and Dependable Automotive CPS: A Steer-by-Wire Case Study.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>813-827</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/MunirK20</key><doi>10.1109/TDSC.2018.2846741</doi><ee>https://doi.org/10.1109/TDSC.2018.2846741</ee><url>https://dblp.org/rec/journals/tdsc/MunirK20</url></info>
+<url>URL#1345170</url>
+</hit>
+<hit score="1" id="1345171">
+<info><authors><author pid="161/1769">Masoud Narouei</author><author pid="23/2357">Hassan Takabi</author><author pid="58/2526">Rodney Nielsen</author></authors><title>Automatic Extraction of Access Control Policies from Natural Language Documents.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>506-517</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/NaroueiTN20</key><doi>10.1109/TDSC.2018.2818708</doi><ee>https://doi.org/10.1109/TDSC.2018.2818708</ee><url>https://dblp.org/rec/journals/tdsc/NaroueiTN20</url></info>
+<url>URL#1345171</url>
+</hit>
+<hit score="1" id="1345172">
+<info><authors><author pid="121/2421">Jianbing Ni</author><author pid="50/7188">Kuan Zhang</author><author pid="43/5685-2">Yong Yu 0002</author><author pid="59/554">Xiaodong Lin 0001</author><author pid="s/XueminShen">Xuemin Sherman Shen</author></authors><title>Providing Task Allocation and Secure Deduplication for Mobile Crowdsensing via Fog Computing.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>581-594</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/NiZYLS20</key><doi>10.1109/TDSC.2018.2791432</doi><ee>https://doi.org/10.1109/TDSC.2018.2791432</ee><url>https://dblp.org/rec/journals/tdsc/NiZYLS20</url></info>
+<url>URL#1345172</url>
+</hit>
+<hit score="1" id="1345173">
+<info><authors><author pid="56/10137">Lu Ou</author><author pid="95/6861-1">Zheng Qin 0001</author><author pid="27/10700">Shaolin Liao</author><author pid="79/5433">Yuan Hong</author><author pid="j/XiaohuaJia">Xiaohua Jia</author></authors><title>Releasing Correlated Trajectories: Towards High Utility and Optimal Differential Privacy.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1109-1123</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/OuQLHJ20</key><doi>10.1109/TDSC.2018.2853105</doi><ee>https://doi.org/10.1109/TDSC.2018.2853105</ee><url>https://dblp.org/rec/journals/tdsc/OuQLHJ20</url></info>
+<url>URL#1345173</url>
+</hit>
+<hit score="1" id="1345174">
+<info><authors><author pid="192/9996">Yanjun Pan</author><author pid="31/10644">Yantian Hou</author><author pid="l/MingLi3">Ming Li 0003</author><author pid="73/1832">Ryan M. Gerdes</author><author pid="80/1651-1">Kai Zeng 0001</author><author pid="234/1155">Md. Asaduzzaman Towfiq</author><author pid="85/2510">Bedri A. Cetiner</author></authors><title>Message Integrity Protection Over Wireless Channel: Countering Signal Cancellation via Channel Randomization.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>106-120</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/PanH0G0TC20</key><doi>10.1109/TDSC.2017.2751600</doi><ee>https://doi.org/10.1109/TDSC.2017.2751600</ee><url>https://dblp.org/rec/journals/tdsc/PanH0G0TC20</url></info>
+<url>URL#1345174</url>
+</hit>
+<hit score="1" id="1345175">
+<info><authors><author pid="76/6987-1">Sungjin Park 0001</author><author pid="122/2010">Chung Hwan Kim</author><author pid="27/5932">Junghwan Rhee</author><author pid="89/1993">Jong-Jin Won</author><author pid="09/5247">Taisook Han</author><author pid="59/5539">Dongyan Xu</author></authors><title>CAFE: A Virtualization-Based Approach to Protecting Sensitive Cloud Application Logic Confidentiality.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>883-897</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ParkKRWHX20</key><doi>10.1109/TDSC.2018.2817545</doi><ee>https://doi.org/10.1109/TDSC.2018.2817545</ee><url>https://dblp.org/rec/journals/tdsc/ParkKRWHX20</url></info>
+<url>URL#1345175</url>
+</hit>
+<hit score="1" id="1345176">
+<info><authors><author pid="18/6200">Mohammad Ashiqur Rahman</author><author pid="195/7439">Amarjit Datta</author></authors><title>Impact of Stealthy Attacks on Optimal Power Flow: A Simulink-Driven Formal Analysis.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>451-464</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/RahmanD20</key><doi>10.1109/TDSC.2018.2806969</doi><ee>https://doi.org/10.1109/TDSC.2018.2806969</ee><url>https://dblp.org/rec/journals/tdsc/RahmanD20</url></info>
+<url>URL#1345176</url>
+</hit>
+<hit score="1" id="1345177">
+<info><authors><author pid="85/9568">P. V. Rajkumar</author><author pid="s/RaviSSandhu">Ravi S. Sandhu</author></authors><title>Safety Decidability for Pre-Authorization Usage Control with Identifier Attribute Domains.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>465-478</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/RajkumarS20</key><doi>10.1109/TDSC.2018.2839745</doi><ee>https://doi.org/10.1109/TDSC.2018.2839745</ee><url>https://dblp.org/rec/journals/tdsc/RajkumarS20</url></info>
+<url>URL#1345177</url>
+</hit>
+<hit score="1" id="1345178">
+<info><authors><author pid="152/8064">Andrea De Salve</author><author pid="73/6934">Roberto Di Pietro</author><author pid="05/2313">Paolo Mori</author><author pid="84/14">Laura Ricci</author></authors><title>A Logical Key Hierarchy Based Approach to Preserve Content Privacy in Decentralized Online Social Networks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>2-21</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/SalvePMR20</key><doi>10.1109/TDSC.2017.2729553</doi><ee>https://doi.org/10.1109/TDSC.2017.2729553</ee><url>https://dblp.org/rec/journals/tdsc/SalvePMR20</url></info>
+<url>URL#1345178</url>
+</hit>
+<hit score="1" id="1345179">
+<info><authors><author pid="173/8996">Suhrid Satyal</author><author pid="59/1213">Ingo Weber</author><author pid="b/LeonardJBass">Len Bass</author><author pid="43/8387-1">Min Fu 0001</author></authors><title>Rollback Mechanisms for Cloud Management APIs Using AI Planning.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>148-161</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/SatyalWB020</key><doi>10.1109/TDSC.2017.2729543</doi><ee>https://doi.org/10.1109/TDSC.2017.2729543</ee><url>https://dblp.org/rec/journals/tdsc/SatyalWB020</url></info>
+<url>URL#1345179</url>
+</hit>
+<hit score="1" id="1345180">
+<info><authors><author pid="122/2037">Neetesh Saxena</author><author pid="74/3247-1">Hong Shen 0001</author><author pid="66/6736">Nikos Komninos</author><author pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</author><author pid="76/624">Narendra S. Chaudhari</author></authors><title>BVPSMS: A Batch Verification Protocol for End-to-End Secure SMS for Mobile Users.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>550-565</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/SaxenaSKCC20</key><doi>10.1109/TDSC.2018.2799223</doi><ee>https://doi.org/10.1109/TDSC.2018.2799223</ee><url>https://dblp.org/rec/journals/tdsc/SaxenaSKCC20</url></info>
+<url>URL#1345180</url>
+</hit>
+<hit score="1" id="1345181">
+<info><authors><author pid="14/5514-1">Muhammad Shahzad 0001</author><author pid="83/9528">M. Zubair Shafiq</author><author pid="l/AlexXLiu">Alex X. Liu</author></authors><title>Large Scale Characterization of Software Vulnerability Life Cycles.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>730-744</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ShahzadSL20</key><doi>10.1109/TDSC.2019.2893950</doi><ee>https://doi.org/10.1109/TDSC.2019.2893950</ee><url>https://dblp.org/rec/journals/tdsc/ShahzadSL20</url></info>
+<url>URL#1345181</url>
+</hit>
+<hit score="1" id="1345182">
+<info><authors><author pid="48/4825-1">Chao Shen 0001</author><author pid="79/4489-1">Yufei Chen 0001</author><author pid="45/503">Xiaohong Guan</author><author pid="27/7005">Roy A. Maxion</author></authors><title>Pattern-Growth Based Mining Mouse-Interaction Behavior for an Active User Authentication System.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>335-349</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ShenCGM20</key><doi>10.1109/TDSC.2017.2771295</doi><ee>https://doi.org/10.1109/TDSC.2017.2771295</ee><url>https://dblp.org/rec/journals/tdsc/ShenCGM20</url></info>
+<url>URL#1345182</url>
+</hit>
+<hit score="1" id="1345183">
+<info><authors><author pid="20/2488">Zhirong Shen</author><author pid="25/4018">Patrick P. C. Lee</author><author pid="60/3690">Jiwu Shu</author><author pid="10/2272">Wenzhong Guo</author></authors><title>Cross-Rack-Aware Single Failure Recovery for Clustered File Systems.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>248-261</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ShenLSG20</key><doi>10.1109/TDSC.2017.2774299</doi><ee>https://doi.org/10.1109/TDSC.2017.2774299</ee><url>https://dblp.org/rec/journals/tdsc/ShenLSG20</url></info>
+<url>URL#1345183</url>
+</hit>
+<hit score="1" id="1345184">
+<info><authors><author pid="207/8079">Xiangfu Song</author><author pid="34/5882">Changyu Dong</author><author pid="162/8879">Dandan Yuan</author><author pid="07/63">Qiuliang Xu</author><author pid="44/9546-1">Minghao Zhao 0001</author></authors><title>Forward Private Searchable Symmetric Encryption with Optimized I/O Efficiency.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>912-927</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/SongDYXZ20</key><doi>10.1109/TDSC.2018.2822294</doi><ee>https://doi.org/10.1109/TDSC.2018.2822294</ee><url>https://dblp.org/rec/journals/tdsc/SongDYXZ20</url></info>
+<url>URL#1345184</url>
+</hit>
+<hit score="1" id="1345185">
+<info><authors><author pid="62/1539-3">Wei Song 0003</author><author pid="87/7763">Qingqing Huang</author><author pid="68/4706-1">Jeff Huang 0001</author></authors><title>Understanding JavaScript Vulnerabilities in Large Real-World Android Applications.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>1063-1078</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/SongHH20</key><doi>10.1109/TDSC.2018.2845851</doi><ee>https://doi.org/10.1109/TDSC.2018.2845851</ee><url>https://dblp.org/rec/journals/tdsc/SongHH20</url></info>
+<url>URL#1345185</url>
+</hit>
+<hit score="1" id="1345186">
+<info><authors><author pid="150/2292">Jangirala Srinivas</author><author pid="39/871">Ashok Kumar Das</author><author pid="04/8395">Neeraj Kumar 0001</author><author pid="25/3419">Joel J. P. C. Rodrigues</author></authors><title>Cloud Centric Authentication for Wearable Healthcare Monitoring System.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>5</number><pages>942-956</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/SrinivasDKR20</key><doi>10.1109/TDSC.2018.2828306</doi><ee>https://doi.org/10.1109/TDSC.2018.2828306</ee><url>https://dblp.org/rec/journals/tdsc/SrinivasDKR20</url></info>
+<url>URL#1345186</url>
+</hit>
+<hit score="1" id="1345187">
+<info><authors><author pid="150/2292">Jangirala Srinivas</author><author pid="39/871">Ashok Kumar Das</author><author pid="122/2287">Mohammad Wazid</author><author pid="04/8395">Neeraj Kumar 0001</author></authors><title>Anonymous Lightweight Chaotic Map-Based Authenticated Key Agreement Protocol for Industrial Internet of Things.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1133-1146</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/SrinivasDWK20</key><doi>10.1109/TDSC.2018.2857811</doi><ee>https://doi.org/10.1109/TDSC.2018.2857811</ee><url>https://dblp.org/rec/journals/tdsc/SrinivasDWK20</url></info>
+<url>URL#1345187</url>
+</hit>
+<hit score="1" id="1345188">
+<info><authors><author pid="71/6037">Ke Tian</author><author pid="y/DanfengYao">Danfeng Yao</author><author pid="r/BarbaraGRyder">Barbara G. Ryder</author><author pid="91/6206">Gang Tan</author><author pid="30/4066">Guojun Peng</author></authors><title>Detection of Repackaged Android Malware with Code-Heterogeneity Features.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>64-77</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/TianYRTP20</key><doi>10.1109/TDSC.2017.2745575</doi><ee>https://doi.org/10.1109/TDSC.2017.2745575</ee><url>https://dblp.org/rec/journals/tdsc/TianYRTP20</url></info>
+<url>URL#1345188</url>
+</hit>
+<hit score="1" id="1345189">
+<info><authors><author pid="61/3091">Jaideep Vaidya</author></authors><title>Editorial.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>1</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/Vaidya20</key><doi>10.1109/TDSC.2019.2958396</doi><ee>https://doi.org/10.1109/TDSC.2019.2958396</ee><url>https://dblp.org/rec/journals/tdsc/Vaidya20</url></info>
+<url>URL#1345189</url>
+</hit>
+<hit score="1" id="1345190">
+<info><authors><author pid="71/4979">Andrea Visconti</author><author pid="216/6547">Federico Gorla</author></authors><title>Exploiting an HMAC-SHA-1 Optimization to Speed up PBKDF2.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>775-781</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ViscontiG20</key><doi>10.1109/TDSC.2018.2878697</doi><ee>https://doi.org/10.1109/TDSC.2018.2878697</ee><url>https://dblp.org/rec/journals/tdsc/ViscontiG20</url></info>
+<url>URL#1345190</url>
+</hit>
+<hit score="1" id="1345191">
+<info><authors><author pid="208/8281">Andreas Walz</author><author pid="67/6275">Axel Sikora</author></authors><title>Exploiting Dissent: Towards Fuzzing-Based Differential Black-Box Testing of TLS Implementations.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>278-291</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/WalzS20</key><doi>10.1109/TDSC.2017.2763947</doi><ee>https://doi.org/10.1109/TDSC.2017.2763947</ee><url>https://dblp.org/rec/journals/tdsc/WalzS20</url></info>
+<url>URL#1345191</url>
+</hit>
+<hit score="1" id="1345192">
+<info><authors><author pid="06/4924-2">An Wang 0002</author><author pid="22/3855">Wentao Chang</author><author pid="47/3276">Songqing Chen</author><author pid="70/2832">Aziz Mohaisen</author></authors><title>A Data-Driven Study of DDoS Attacks and Their Dynamics.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>648-661</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/WangCCM20</key><doi>10.1109/TDSC.2018.2808344</doi><ee>https://doi.org/10.1109/TDSC.2018.2808344</ee><url>https://dblp.org/rec/journals/tdsc/WangCCM20</url></info>
+<url>URL#1345192</url>
+</hit>
+<hit score="1" id="1345193">
+<info><authors><author pid="122/2287">Mohammad Wazid</author><author pid="39/871">Ashok Kumar Das</author><author pid="121/3893">Vanga Odelu</author><author pid="04/8395">Neeraj Kumar 0001</author><author pid="12/3447">Willy Susilo</author></authors><title>Secure Remote User Authenticated Key Establishment Protocol for Smart Home Environment.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>391-406</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/WazidDOKS20</key><doi>10.1109/TDSC.2017.2764083</doi><ee>https://doi.org/10.1109/TDSC.2017.2764083</ee><url>https://dblp.org/rec/journals/tdsc/WazidDOKS20</url></info>
+<url>URL#1345193</url>
+</hit>
+<hit score="1" id="1345194">
+<info><authors><author pid="69/6471">Yulai Xie</author><author pid="48/5939-1">Dan Feng 0001</author><author pid="62/6816">Yuchong Hu</author><author pid="87/660-6">Yan Li 0006</author><author pid="248/1670">Staunton Sample</author><author pid="49/4298">Darrell D. E. Long</author></authors><title>Pagoda: A Hybrid Approach to Enable Efficient Real-Time Provenance Based Intrusion Detection in Big Data Environments.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1283-1296</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/XieFHLSL20</key><doi>10.1109/TDSC.2018.2867595</doi><ee>https://doi.org/10.1109/TDSC.2018.2867595</ee><url>https://dblp.org/rec/journals/tdsc/XieFHLSL20</url></info>
+<url>URL#1345194</url>
+</hit>
+<hit score="1" id="1345195">
+<info><authors><author pid="10/3878-1">Wenyuan Xu 0001</author><author pid="69/4394">Jing Tian</author><author pid="68/6563-3">Yu Cao 0003</author><author pid="62/3151-2">Song Wang 0002</author></authors><title>Challenge-Response Authentication Using In-Air Handwriting Style Verification.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>51-64</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/XuTCW20</key><doi>10.1109/TDSC.2017.2752164</doi><ee>https://doi.org/10.1109/TDSC.2017.2752164</ee><url>https://dblp.org/rec/journals/tdsc/XuTCW20</url></info>
+<url>URL#1345195</url>
+</hit>
+<hit score="1" id="1345196">
+<info><authors><author pid="90/3055-9">Hui Xu 0009</author><author pid="211/7197">Zirui Zhao</author><author pid="27/6390">Yangfan Zhou</author><author pid="l/MichaelRLyu">Michael R. Lyu</author></authors><title>Benchmarking the Capability of Symbolic Execution Tools with Logic Bombs.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1243-1256</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/XuZZL20</key><doi>10.1109/TDSC.2018.2866469</doi><ee>https://doi.org/10.1109/TDSC.2018.2866469</ee><url>https://dblp.org/rec/journals/tdsc/XuZZL20</url></info>
+<url>URL#1345196</url>
+</hit>
+<hit score="1" id="1345197">
+<info><authors><author pid="48/450-26">Yang Yang 0026</author><author pid="134/3945">Ximeng Liu</author><author pid="d/RobertHDeng">Robert H. Deng</author></authors><title>Multi-User Multi-Keyword Rank Search Over Encrypted Data in Arbitrary Language.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>320-334</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/YangLD20</key><doi>10.1109/TDSC.2017.2787588</doi><ee>https://doi.org/10.1109/TDSC.2017.2787588</ee><url>https://dblp.org/rec/journals/tdsc/YangLD20</url></info>
+<url>URL#1345197</url>
+</hit>
+<hit score="1" id="1345198">
+<info><authors><author pid="59/10736">Lu-Xing Yang</author><author pid="199/2319">Pengdeng Li</author><author pid="74/2319">Xiaofan Yang</author><author pid="t/YuanYanTang">Yuan Yan Tang</author></authors><title>A Risk Management Approach to Defending Against the Advanced Persistent Threat.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1163-1172</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/YangLYT20</key><doi>10.1109/TDSC.2018.2858786</doi><ee>https://doi.org/10.1109/TDSC.2018.2858786</ee><url>https://dblp.org/rec/journals/tdsc/YangLYT20</url></info>
+<url>URL#1345198</url>
+</hit>
+<hit score="1" id="1345199">
+<info><authors><author pid="37/752-1">Lin Yao 0001</author><author pid="170/7270">Zhenzhen Fan</author><author pid="06/6599-1">Jing Deng 0001</author><author pid="87/3021-1">Xin Fan 0001</author><author pid="51/1027">Guowei Wu</author></authors><title>Detection and Defense of Cache Pollution Attacks Using Clustering in Named Data Networks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1310-1321</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/YaoFDFW20</key><doi>10.1109/TDSC.2018.2876257</doi><ee>https://doi.org/10.1109/TDSC.2018.2876257</ee><url>https://dblp.org/rec/journals/tdsc/YaoFDFW20</url></info>
+<url>URL#1345199</url>
+</hit>
+<hit score="1" id="1345200">
+<info><authors><author pid="87/6465">Wei You</author><author pid="71/6053-2">Bin Liang 0002</author><author pid="74/2181">Wenchang Shi</author><author pid="95/4442">Peng Wang</author><author pid="95/3760-1">Xiangyu Zhang 0001</author></authors><title>TaintMan: An ART-Compatible Dynamic Taint Analysis Framework on Unmodified and Non-Rooted Android Devices.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>209-222</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/YouLSWZ20</key><doi>10.1109/TDSC.2017.2740169</doi><ee>https://doi.org/10.1109/TDSC.2017.2740169</ee><url>https://dblp.org/rec/journals/tdsc/YouLSWZ20</url></info>
+<url>URL#1345200</url>
+</hit>
+<hit score="1" id="1345201">
+<info><authors><author pid="04/3348-19">Yan Zhang 0019</author><author pid="15/3615">Loukas Lazos</author></authors><title>Misbehavior in Multi-Channel MAC Protocols.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>760-774</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhangL20</key><doi>10.1109/TDSC.2018.2819170</doi><ee>https://doi.org/10.1109/TDSC.2018.2819170</ee><url>https://dblp.org/rec/journals/tdsc/ZhangL20</url></info>
+<url>URL#1345201</url>
+</hit>
+<hit score="1" id="1345202">
+<info><authors><author pid="64/5666-9">Lei Zhang 0009</author><author pid="207/0024">Xinyu Meng</author><author pid="c/KimKwangRaymondChoo">Kim-Kwang Raymond Choo</author><author pid="143/0477">Yuanfei Zhang</author><author pid="206/9926">Feifei Dai</author></authors><title>Privacy-Preserving Cloud Establishment and Data Dissemination Scheme for Vehicular Cloud.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>634-647</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhangMCZD20</key><doi>10.1109/TDSC.2018.2797190</doi><ee>https://doi.org/10.1109/TDSC.2018.2797190</ee><url>https://dblp.org/rec/journals/tdsc/ZhangMCZD20</url></info>
+<url>URL#1345202</url>
+</hit>
+<hit score="1" id="1345203">
+<info><authors><author pid="47/722-35">Yue Zhang 0035</author><author pid="86/3457-5">Jia Yu 0005</author><author pid="95/69">Rong Hao</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>Enabling Efficient User Revocation in Identity-Based Cloud Storage Auditing for Shared Big Data.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>608-619</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhangYHWR20</key><doi>10.1109/TDSC.2018.2829880</doi><ee>https://doi.org/10.1109/TDSC.2018.2829880</ee><url>https://dblp.org/rec/journals/tdsc/ZhangYHWR20</url></info>
+<url>URL#1345203</url>
+</hit>
+<hit score="1" id="1345204">
+<info><authors><author pid="90/545-1">Zhikun Zhang 0001</author><author pid="55/826-1">Heng Zhang 0001</author><author pid="07/7178">Shibo He</author><author pid="76/185-1">Peng Cheng 0001</author></authors><title>Bilateral Privacy-Preserving Utility Maximization Protocol in Database-Driven Cognitive Radio Networks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>2</number><pages>236-247</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhangZHC20</key><doi>10.1109/TDSC.2017.2781248</doi><ee>https://doi.org/10.1109/TDSC.2017.2781248</ee><url>https://dblp.org/rec/journals/tdsc/ZhangZHC20</url></info>
+<url>URL#1345204</url>
+</hit>
+<hit score="1" id="1345205">
+<info><authors><author pid="117/3526">Leo Yu Zhang</author><author pid="60/3312">Yifeng Zheng</author><author pid="81/1232-1">Jian Weng 0001</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="212/1222">Zihao Shan</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>You Can Access but You Cannot Leak: Defending Against Illegal Content Redistribution in Encrypted Cloud Media Center.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1218-1231</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhangZWWSR20</key><doi>10.1109/TDSC.2018.2864748</doi><ee>https://doi.org/10.1109/TDSC.2018.2864748</ee><url>https://dblp.org/rec/journals/tdsc/ZhangZWWSR20</url></info>
+<url>URL#1345205</url>
+</hit>
+<hit score="1" id="1345206">
+<info><authors><author pid="63/5422-20">Liang Zhao 0020</author><author pid="22/150-2">Liqun Chen 0002</author></authors><title>Sparse Matrix Masking-Based Non-Interactive Verifiable (Outsourced) Computation, Revisited.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>6</number><pages>1188-1206</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhaoC20</key><doi>10.1109/TDSC.2018.2861699</doi><ee>https://doi.org/10.1109/TDSC.2018.2861699</ee><url>https://dblp.org/rec/journals/tdsc/ZhaoC20</url></info>
+<url>URL#1345206</url>
+</hit>
+<hit score="1" id="1345207">
+<info><authors><author pid="72/4751">Hong Zhao</author><author pid="155/7164">Luke Kwiat</author><author pid="86/3876">Kevin A. Kwiat</author><author pid="45/9386">Charles A. Kamhoua</author><author pid="194/3916">Laurent Njilla</author></authors><title>Applying Chaos Theory for Runtime Hardware Trojan Monitoring and Detection.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>716-729</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhaoKKKN20</key><doi>10.1109/TDSC.2018.2864733</doi><ee>https://doi.org/10.1109/TDSC.2018.2864733</ee><url>https://dblp.org/rec/journals/tdsc/ZhaoKKKN20</url></info>
+<url>URL#1345207</url>
+</hit>
+<hit score="1" id="1345208">
+<info><authors><author pid="60/3312">Yifeng Zheng</author><author pid="191/7808">Huayi Duan</author><author pid="21/8884">Xingliang Yuan</author><author pid="18/2771-1">Cong Wang 0001</author></authors><title>Privacy-Aware and Efficient Mobile Crowdsensing with Truth Discovery.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>1</number><pages>121-133</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhengDY020</key><doi>10.1109/TDSC.2017.2753245</doi><ee>https://doi.org/10.1109/TDSC.2017.2753245</ee><url>https://dblp.org/rec/journals/tdsc/ZhengDY020</url></info>
+<url>URL#1345208</url>
+</hit>
+<hit score="1" id="1345209">
+<info><authors><author pid="212/6972">Xiaonan Zhu</author><author pid="06/8291">Jinku Li</author><author pid="15/7381">Yajin Zhou</author><author pid="12/6604-1">Jianfeng Ma 0001</author></authors><title>AdCapsule: Practical Confinement of Advertisements in Android Applications.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>3</number><pages>479-492</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhuLZM20</key><doi>10.1109/TDSC.2018.2814999</doi><ee>https://doi.org/10.1109/TDSC.2018.2814999</ee><url>https://dblp.org/rec/journals/tdsc/ZhuLZM20</url></info>
+<url>URL#1345209</url>
+</hit>
+<hit score="1" id="1345210">
+<info><authors><author pid="26/2546">Liehuang Zhu</author><author pid="70/1726-6">Meng Li 0006</author><author pid="43/6524-1">Zijian Zhang 0001</author><author pid="148/4477">Zhan Qin</author></authors><title>ASAP: An Anonymous Smart-Parking and Payment Scheme in Vehicular Networks.</title><venue>IEEE Trans. Dependable Secur. Comput.</venue><volume>17</volume><number>4</number><pages>703-715</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tdsc/ZhuLZQ20</key><doi>10.1109/TDSC.2018.2850780</doi><ee>https://doi.org/10.1109/TDSC.2018.2850780</ee><url>https://dblp.org/rec/journals/tdsc/ZhuLZQ20</url></info>
+<url>URL#1345210</url>
+</hit>
+</hits>
+</result>

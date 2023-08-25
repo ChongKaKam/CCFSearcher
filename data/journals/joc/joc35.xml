@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239227">:facetid:toc:\"db/journals/joc/joc35.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">174.45</time>
+<completions total="1" computed="1" sent="1">
+<c sc="29" dc="29" oc="29" id="41096528">:facetid:toc:db/journals/joc/joc35.bht</c>
+</completions>
+<hits total="29" computed="29" sent="29" first="0">
+<hit score="1" id="366530">
+<info><authors><author pid="36/5720">Ittai Abraham</author><author pid="25/7423">Gilad Asharov</author><author pid="164/3366">Avishay Yanai</author></authors><title>Efficient Perfectly Secure Computation with Optimal Resilience.</title><venue>J. Cryptol.</venue><volume>35</volume><number>4</number><pages>27</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AbrahamAY22</key><doi>10.1007/S00145-022-09434-2</doi><ee>https://doi.org/10.1007/s00145-022-09434-2</ee><url>https://dblp.org/rec/journals/joc/AbrahamAY22</url></info>
+<url>URL#366530</url>
+</hit>
+<hit score="1" id="366531">
+<info><authors><author pid="25/7423">Gilad Asharov</author><author pid="c/THHubertChan">T.-H. Hubert Chan</author><author pid="143/4459">Kartik Nayak</author><author pid="p/RPass">Rafael Pass</author><author pid="30/10661">Ling Ren 0001</author><author pid="80/4580">Elaine Shi</author></authors><title>Locality-Preserving Oblivious RAM.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>6</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AsharovCNPRS22</key><doi>10.1007/S00145-022-09419-1</doi><ee>https://doi.org/10.1007/s00145-022-09419-1</ee><url>https://dblp.org/rec/journals/joc/AsharovCNPRS22</url></info>
+<url>URL#366531</url>
+</hit>
+<hit score="1" id="366532">
+<info><authors><author pid="25/7423">Gilad Asharov</author><author pid="49/11433">Ilan Komargodski</author><author pid="p/RPass">Rafael Pass</author><author pid="195/6282">Naomi Sirkin</author></authors><title>On the Complexity of Compressing Obfuscation.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>21</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/AsharovKPS22</key><doi>10.1007/S00145-022-09431-5</doi><ee>https://doi.org/10.1007/s00145-022-09431-5</ee><url>https://dblp.org/rec/journals/joc/AsharovKPS22</url></info>
+<url>URL#366532</url>
+</hit>
+<hit score="1" id="366533">
+<info><authors><author pid="160/3831">Christof Beierle</author><author pid="296/2635">Marek Broll</author><author pid="296/3181">Federico Canale</author><author pid="142/6214">Nicolas David</author><author pid="264/0606">Antonio Flórez-Gutiérrez</author><author pid="90/4585">Gregor Leander</author><author pid="24/1241">María Naya-Plasencia</author><author pid="44/10381">Yosuke Todo</author></authors><title>Improved Differential-Linear Attacks with Applications to ARX Ciphers.</title><venue>J. Cryptol.</venue><volume>35</volume><number>4</number><pages>29</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BeierleBCDFLNT22</key><doi>10.1007/S00145-022-09437-Z</doi><ee>https://doi.org/10.1007/s00145-022-09437-z</ee><url>https://dblp.org/rec/journals/joc/BeierleBCDFLNT22</url></info>
+<url>URL#366533</url>
+</hit>
+<hit score="1" id="366534">
+<info><authors><author pid="125/3488">Fabrice Benhamouda</author><author pid="08/11136">Tancrède Lepoint</author><author pid="184/3870">Julian Loss</author><author pid="153/1129">Michele Orrù</author><author pid="07/5590-1">Mariana Raykova 0001</author></authors><title>On the (in)Security of ROS.</title><venue>J. Cryptol.</venue><volume>35</volume><number>4</number><pages>25</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BenhamoudaLLOR22</key><doi>10.1007/S00145-022-09436-0</doi><ee>https://doi.org/10.1007/s00145-022-09436-0</ee><url>https://dblp.org/rec/journals/joc/BenhamoudaLLOR22</url></info>
+<url>URL#366534</url>
+</hit>
+<hit score="1" id="366535">
+<info><authors><author pid="53/8341">Nir Bitansky</author><author pid="27/8534">Alessandro Chiesa</author><author pid="05/667">Yuval Ishai</author><author pid="o/RafailOstrovsky">Rafail Ostrovsky</author><author pid="14/10308">Omer Paneth</author></authors><title>Succinct Non-Interactive Arguments via Linear Interactive Proofs.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>15</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/joc/BitanskyCIOP22</key><doi>10.1007/S00145-022-09424-4</doi><ee>https://doi.org/10.1007/s00145-022-09424-4</ee><url>https://dblp.org/rec/journals/joc/BitanskyCIOP22</url></info>
+<url>URL#366535</url>
+</hit>
+<hit score="1" id="366536">
+<info><authors><author pid="53/8341">Nir Bitansky</author><author pid="v/VinodVaikuntanathan">Vinod Vaikuntanathan</author></authors><title>A Note on Perfect Correctness by Derandomization.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>18</pages><year>2022</year><type>Journal Articles</type><access>open</access><key>journals/joc/BitanskyV22</key><doi>10.1007/S00145-022-09428-0</doi><ee>https://doi.org/10.1007/s00145-022-09428-0</ee><url>https://dblp.org/rec/journals/joc/BitanskyV22</url></info>
+<url>URL#366536</url>
+</hit>
+<hit score="1" id="366537">
+<info><authors><author pid="06/5074">Andrej Bogdanov</author><author pid="05/667">Yuval Ishai</author><author pid="153/9906">Akshayaram Srinivasan</author></authors><title>Correction to: Unconditionally Secure Computation Against Low-Complexity Leakage.</title><venue>J. Cryptol.</venue><volume>35</volume><number>1</number><pages>2</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BogdanovIS22</key><doi>10.1007/S00145-021-09412-0</doi><ee>https://doi.org/10.1007/s00145-021-09412-0</ee><url>https://dblp.org/rec/journals/joc/BogdanovIS22</url></info>
+<url>URL#366537</url>
+</hit>
+<hit score="1" id="366538">
+<info><authors><author pid="06/5074">Andrej Bogdanov</author><author pid="05/667">Yuval Ishai</author><author pid="153/9906">Akshayaram Srinivasan</author></authors><title>Correction to: Unconditionally Secure Computation Against Low-Complexity Leakage.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>7</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/BogdanovIS22a</key><doi>10.1007/S00145-021-09417-9</doi><ee>https://doi.org/10.1007/s00145-021-09417-9</ee><url>https://dblp.org/rec/journals/joc/BogdanovIS22a</url></info>
+<url>URL#366538</url>
+</hit>
+<hit score="1" id="366539">
+<info><authors><author pid="64/5019">Wouter Castryck</author><author pid="251/1549">Jana Sotáková</author><author pid="31/5019">Frederik Vercauteren</author></authors><title>Breaking the Decisional Diffie-Hellman Problem for Class Group Actions Using Genus Theory: Extended Version.</title><venue>J. Cryptol.</venue><volume>35</volume><number>4</number><pages>24</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/CastryckSV22</key><doi>10.1007/S00145-022-09435-1</doi><ee>https://doi.org/10.1007/s00145-022-09435-1</ee><url>https://dblp.org/rec/journals/joc/CastryckSV22</url></info>
+<url>URL#366539</url>
+</hit>
+<hit score="1" id="366540">
+<info><authors><author pid="263/6620">Megan Chen</author><author pid="184/6169">Jack Doerner</author><author pid="201/6467">Yashvanth Kondi</author><author pid="202/3137">Eysa Lee</author><author pid="263/6688">Schuyler Rosefield</author><author pid="s/AShelat">Abhi Shelat</author><author pid="150/9418">Ran Cohen</author></authors><title>Multiparty Generation of an RSA Modulus.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>12</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/ChenDKLRSC22</key><doi>10.1007/S00145-021-09395-Y</doi><ee>https://doi.org/10.1007/s00145-021-09395-y</ee><url>https://dblp.org/rec/journals/joc/ChenDKLRSC22</url></info>
+<url>URL#366540</url>
+</hit>
+<hit score="1" id="366541">
+<info><authors><author pid="87/1254-3">Yu Chen 0003</author><author pid="94/6901">Baodong Qin</author><author pid="94/2739-1">Jiang Zhang 0001</author><author pid="181/2826-2">Yi Deng 0002</author><author pid="c/ShermanSMChow">Sherman S. M. Chow</author></authors><title>Non-Malleable Functions and their Applications.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>11</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/ChenQZDC22</key><doi>10.1007/S00145-022-09422-6</doi><ee>https://doi.org/10.1007/s00145-022-09422-6</ee><url>https://dblp.org/rec/journals/joc/ChenQZDC22</url></info>
+<url>URL#366541</url>
+</hit>
+<hit score="1" id="366542">
+<info><authors><author pid="150/9418">Ran Cohen</author><author pid="26/2723">Iftach Haitner</author><author pid="87/11152">Nikolaos Makriyannis</author><author pid="245/9000">Matan Orland</author><author pid="08/2121">Alex Samorodnitsky</author></authors><title>On the Round Complexity of Randomized Byzantine Agreement.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>10</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/CohenHMOS22</key><doi>10.1007/S00145-022-09421-7</doi><ee>https://doi.org/10.1007/s00145-022-09421-7</ee><url>https://dblp.org/rec/journals/joc/CohenHMOS22</url></info>
+<url>URL#366542</url>
+</hit>
+<hit score="1" id="366543">
+<info><authors><author pid="150/9418">Ran Cohen</author><author pid="26/2723">Iftach Haitner</author><author pid="65/2027">Eran Omri</author><author pid="168/7887">Lior Rotem</author></authors><title>From Fairness to Full Security in Multiparty Computation.</title><venue>J. Cryptol.</venue><volume>35</volume><number>1</number><pages>4</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/CohenHOR22</key><doi>10.1007/S00145-021-09415-X</doi><ee>https://doi.org/10.1007/s00145-021-09415-x</ee><url>https://dblp.org/rec/journals/joc/CohenHOR22</url></info>
+<url>URL#366543</url>
+</hit>
+<hit score="1" id="366544">
+<info><authors><author pid="d/IvanDamgaard">Ivan Damgård</author><author pid="o/ClaudioOrlandi">Claudio Orlandi</author><author pid="21/4240-2">Akira Takahashi 0002</author><author pid="65/7423">Mehdi Tibouchi</author></authors><title>Two-Round n-out-of-n and Multi-Signatures and Trapdoor Commitment from Lattices.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>14</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/DamgardOTT22</key><doi>10.1007/S00145-022-09425-3</doi><ee>https://doi.org/10.1007/s00145-022-09425-3</ee><url>https://dblp.org/rec/journals/joc/DamgardOTT22</url></info>
+<url>URL#366544</url>
+</hit>
+<hit score="1" id="366545">
+<info><authors><author pid="243/0453">Charles Grover</author><author pid="132/9416">Andrew Mendelsohn</author><author pid="11/916">Cong Ling 0001</author><author pid="40/5125">Roope Vehkalahti</author></authors><title>Non-commutative Ring Learning with Errors from Cyclic Algebras.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>22</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/GroverMLV22</key><doi>10.1007/S00145-022-09430-6</doi><ee>https://doi.org/10.1007/s00145-022-09430-6</ee><url>https://dblp.org/rec/journals/joc/GroverMLV22</url></info>
+<url>URL#366545</url>
+</hit>
+<hit score="1" id="366546">
+<info><authors><author pid="117/3863">Siyao Guo</author><author pid="83/10084">Pritish Kamath</author><author pid="r/AlonRosen">Alon Rosen</author><author pid="129/1428">Katerina Sotiraki</author></authors><title>Limits on the Efficiency of (Ring) LWE-Based Non-interactive Key Exchange.</title><venue>J. Cryptol.</venue><volume>35</volume><number>1</number><pages>1</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/GuoKRS22</key><doi>10.1007/S00145-021-09406-Y</doi><ee>https://doi.org/10.1007/s00145-021-09406-y</ee><url>https://dblp.org/rec/journals/joc/GuoKRS22</url></info>
+<url>URL#366546</url>
+</hit>
+<hit score="1" id="366547">
+<info><authors><author pid="238/2661">Keitaro Hashimoto</author><author pid="151/6926">Shuichi Katsumata</author><author pid="275/3894">Kris Kwiatkowski</author><author pid="50/11102">Thomas Prest</author></authors><title>An Efficient and Generic Construction for Signal&apos;s Handshake (X3DH): Post-quantum, State Leakage Secure, and Deniable.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>17</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/HashimotoKKP22</key><doi>10.1007/S00145-022-09427-1</doi><ee>https://doi.org/10.1007/s00145-022-09427-1</ee><url>https://dblp.org/rec/journals/joc/HashimotoKKP22</url></info>
+<url>URL#366547</url>
+</hit>
+<hit score="1" id="366548">
+<info><authors><author pid="95/1548">Carmit Hazay</author><author pid="38/2316">Emmanuela Orsini</author><author pid="00/10576">Peter Scholl</author><author pid="173/8427">Eduardo Soria-Vazquez</author></authors><title>TinyKeys: A New Approach to Efficient Multi-Party Computation.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>13</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/HazayOSS22</key><doi>10.1007/S00145-022-09423-5</doi><ee>https://doi.org/10.1007/s00145-022-09423-5</ee><url>https://dblp.org/rec/journals/joc/HazayOSS22</url></info>
+<url>URL#366548</url>
+</hit>
+<hit score="1" id="366549">
+<info><authors><author pid="95/1548">Carmit Hazay</author><author pid="64/4755">Muthuramakrishnan Venkitasubramaniam</author><author pid="133/2198">Mor Weiss</author></authors><title>ZK-PCPs from Leakage-Resilient Secret Sharing.</title><venue>J. Cryptol.</venue><volume>35</volume><number>4</number><pages>23</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/HazayVW22</key><doi>10.1007/S00145-022-09433-3</doi><ee>https://doi.org/10.1007/s00145-022-09433-3</ee><url>https://dblp.org/rec/journals/joc/HazayVW22</url></info>
+<url>URL#366549</url>
+</hit>
+<hit score="1" id="366550">
+<info><authors><author pid="160/2120">Fuyuki Kitagawa</author><author pid="m/TakahiroMatsuda2">Takahiro Matsuda 0002</author><author pid="62/6540">Keisuke Tanaka</author></authors><title>CCA Security and Trapdoor Functions via Key-Dependent-Message Security.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>9</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/KitagawaMT22</key><doi>10.1007/S00145-022-09420-8</doi><ee>https://doi.org/10.1007/s00145-022-09420-8</ee><url>https://dblp.org/rec/journals/joc/KitagawaMT22</url></info>
+<url>URL#366550</url>
+</hit>
+<hit score="1" id="366551">
+<info><authors><author pid="160/2120">Fuyuki Kitagawa</author><author pid="85/2415">Ryo Nishimaki</author><author pid="62/6540">Keisuke Tanaka</author></authors><title>Obfustopia Built on Secret-Key Functional Encryption.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>19</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/KitagawaNT22</key><doi>10.1007/S00145-022-09429-Z</doi><ee>https://doi.org/10.1007/s00145-022-09429-z</ee><url>https://dblp.org/rec/journals/joc/KitagawaNT22</url></info>
+<url>URL#366551</url>
+</hit>
+<hit score="1" id="366552">
+<info><authors><author pid="11/11286">Susumu Kiyoshima</author></authors><title>Constant-Round Leakage-Resilient Zero-Knowledge from Collision Resistance.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>16</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/Kiyoshima22</key><doi>10.1007/S00145-022-09426-2</doi><ee>https://doi.org/10.1007/s00145-022-09426-2</ee><url>https://dblp.org/rec/journals/joc/Kiyoshima22</url></info>
+<url>URL#366552</url>
+</hit>
+<hit score="1" id="366553">
+<info><authors><author pid="205/7593">Fukang Liu</author><author pid="86/5306">Santanu Sarkar 0001</author><author pid="47/6600">Willi Meier</author><author pid="38/7170-1">Takanori Isobe 0001</author></authors><title>The Inverse of χ and Its Applications to Rasta-Like Ciphers.</title><venue>J. Cryptol.</venue><volume>35</volume><number>4</number><pages>28</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/LiuSMI22</key><doi>10.1007/S00145-022-09439-X</doi><ee>https://doi.org/10.1007/s00145-022-09439-x</ee><url>https://dblp.org/rec/journals/joc/LiuSMI22</url></info>
+<url>URL#366553</url>
+</hit>
+<hit score="1" id="366554">
+<info><authors><author pid="142/1669">Bernardo Magri</author><author pid="148/1304">Giulio Malavolta</author><author pid="52/6199">Dominique Schröder</author><author pid="u/DominiqueUnruh">Dominique Unruh</author></authors><title>Everlasting UC Commitments from Fully Malicious PUFs.</title><venue>J. Cryptol.</venue><volume>35</volume><number>3</number><pages>20</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/MagriMSU22</key><doi>10.1007/S00145-022-09432-4</doi><ee>https://doi.org/10.1007/s00145-022-09432-4</ee><url>https://dblp.org/rec/journals/joc/MagriMSU22</url></info>
+<url>URL#366554</url>
+</hit>
+<hit score="1" id="366555">
+<info><authors><author pid="02/8828">Jiaxin Pan</author><author pid="70/3604-2">Chen Qian 0002</author><author pid="273/9539">Magnus Ringerud</author></authors><title>Signed (Group) Diffie-Hellman Key Exchange with Tight Security.</title><venue>J. Cryptol.</venue><volume>35</volume><number>4</number><pages>26</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/PanQR22</key><doi>10.1007/S00145-022-09438-Y</doi><ee>https://doi.org/10.1007/s00145-022-09438-y</ee><url>https://dblp.org/rec/journals/joc/PanQR22</url></info>
+<url>URL#366555</url>
+</hit>
+<hit score="1" id="366556">
+<info><authors><author pid="247/6012">Roy Radian</author><author pid="21/7589">Or Sattath</author></authors><title>Semi-quantum Money.</title><venue>J. Cryptol.</venue><volume>35</volume><number>2</number><pages>8</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/RadianS22</key><doi>10.1007/S00145-021-09418-8</doi><ee>https://doi.org/10.1007/s00145-021-09418-8</ee><url>https://dblp.org/rec/journals/joc/RadianS22</url></info>
+<url>URL#366556</url>
+</hit>
+<hit score="1" id="366557">
+<info><authors><author pid="181/1581">Dragos Rotaru</author><author pid="s/NigelPSmart">Nigel P. Smart</author><author pid="242/1121">Titouan Tanguy</author><author pid="31/5019">Frederik Vercauteren</author><author pid="29/2221-3">Tim Wood 0003</author></authors><title>Actively Secure Setup for SPDZ.</title><venue>J. Cryptol.</venue><volume>35</volume><number>1</number><pages>5</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/RotaruSTVW22</key><doi>10.1007/S00145-021-09416-W</doi><ee>https://doi.org/10.1007/s00145-021-09416-w</ee><url>https://dblp.org/rec/journals/joc/RotaruSTVW22</url></info>
+<url>URL#366557</url>
+</hit>
+<hit score="1" id="366558">
+<info><authors><author pid="125/3004">Marek Sýs</author><author pid="307/4779">Lubomír Obrátil</author><author pid="97/3759">Vashek Matyás</author><author pid="155/4199">Dusan Klinec</author></authors><title>A Bad Day to Die Hard: Correcting the Dieharder Battery.</title><venue>J. Cryptol.</venue><volume>35</volume><number>1</number><pages>3</pages><year>2022</year><type>Journal Articles</type><access>closed</access><key>journals/joc/SysOMK22</key><doi>10.1007/S00145-021-09414-Y</doi><ee>https://doi.org/10.1007/s00145-021-09414-y</ee><url>https://dblp.org/rec/journals/joc/SysOMK22</url></info>
+<url>URL#366558</url>
+</hit>
+</hits>
+</result>

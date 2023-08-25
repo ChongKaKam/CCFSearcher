@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="251027">:facetid:toc:\"db/conf/icde/icde2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">186.53</time>
+<completions total="1" computed="1" sent="1">
+<c sc="242" dc="242" oc="242" id="41029669">:facetid:toc:db/conf/icde/icde2020.bht</c>
+</completions>
+<hits total="242" computed="242" sent="242" first="0">
+<hit score="1" id="1444786">
+<info><authors><author pid="83/2389-1">Shantanu Sharma 0001</author><author pid="28/7551">Anton Burtsev</author><author pid="m/SharadMehrotra">Sharad Mehrotra</author></authors><title>Advances in Cryptography and Secure Hardware for Data Outsourcing.</title><venue>ICDE</venue><pages>1798-1801</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0001BM20</key><doi>10.1109/ICDE48307.2020.00173</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00173</ee><url>https://dblp.org/rec/conf/icde/0001BM20</url></info>
+<url>URL#1444786</url>
+</hit>
+<hit score="1" id="1444787">
+<info><authors><author pid="81/9436-1">Da Yan 0001</author><author pid="235/2508">Guimu Guo</author><author pid="235/2616">Md Mashiur Rahman Chowdhury</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author><author pid="21/1694">Wei-Shinn Ku</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph.</title><venue>ICDE</venue><pages>1369-1380</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0001GCOKL20</key><doi>10.1109/ICDE48307.2020.00122</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00122</ee><url>https://dblp.org/rec/conf/icde/0001GCOKL20</url></info>
+<url>URL#1444787</url>
+</hit>
+<hit score="1" id="1444788">
+<info><authors><author pid="62/1637-1">Yuxiang Wang 0001</author><author pid="67/2933">Arijit Khan 0001</author><author pid="152/2473-1">Tianxing Wu 0001</author><author pid="06/8559">Jiahui Jin</author><author pid="250/9353">Haijiang Yan</author></authors><title>Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs.</title><venue>ICDE</venue><pages>445-456</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0001KWJY20</key><doi>10.1109/ICDE48307.2020.00045</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00045</ee><url>https://dblp.org/rec/conf/icde/0001KWJY20</url></info>
+<url>URL#1444788</url>
+</hit>
+<hit score="1" id="1444789">
+<info><authors><author pid="81/9436-1">Da Yan 0001</author><author pid="79/8347">Wenwen Qu</author><author pid="235/2508">Guimu Guo</author><author pid="92/6206">Xiaoling Wang</author></authors><title>PrefixFPM: A Parallel Framework for General-Purpose Frequent Pattern Mining.</title><venue>ICDE</venue><pages>1938-1941</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0001QGW20</key><doi>10.1109/ICDE48307.2020.00208</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00208</ee><url>https://dblp.org/rec/conf/icde/0001QGW20</url></info>
+<url>URL#1444789</url>
+</hit>
+<hit score="1" id="1444790">
+<info><authors><author pid="86/3457-1">Jia Yu 0001</author><author pid="95/9990">Mohamed Sarwat</author></authors><title>Turbocharging Geospatial Visualization Dashboards via a Materialized Sampling Cube Approach.</title><venue>ICDE</venue><pages>1165-1176</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0001S20</key><doi>10.1109/ICDE48307.2020.00105</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00105</ee><url>https://dblp.org/rec/conf/icde/0001S20</url></info>
+<url>URL#1444790</url>
+</hit>
+<hit score="1" id="1444791">
+<info><authors><author pid="195/4399-2">Zhining Liu 0002</author><author pid="54/6265">Wei Cao</author><author pid="71/6161">Zhifeng Gao</author><author pid="09/851-2">Jiang Bian 0002</author><author pid="145/1142">Hechang Chen</author><author pid="02/5438">Yi Chang 0001</author><author pid="l/TieYanLiu">Tie-Yan Liu</author></authors><title>Self-paced Ensemble for Highly Imbalanced Massive Data Classification.</title><venue>ICDE</venue><pages>841-852</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0002CG0CCL20</key><doi>10.1109/ICDE48307.2020.00078</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00078</ee><url>https://dblp.org/rec/conf/icde/0002CG0CCL20</url></info>
+<url>URL#1444791</url>
+</hit>
+<hit score="1" id="1444792">
+<info><authors><author pid="27/10487-2">Zijian Li 0002</author><author pid="135/7215-1">Wenhao Zheng 0001</author><author pid="83/1479">Xueling Lin</author><author pid="147/1229">Ziyuan Zhao</author><author pid="75/3158">Zhe Wang</author><author pid="33/4822-12">Yue Wang 0012</author><author pid="130/7707-1">Xun Jian 0001</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="79/6531">Qiang Yan</author><author pid="266/6186">Tiezheng Mao</author></authors><title>TransN: Heterogeneous Network Representation Learning by Translating Node Embeddings.</title><venue>ICDE</venue><pages>589-600</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0002ZLZWWJ0YM20</key><doi>10.1109/ICDE48307.2020.00057</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00057</ee><url>https://dblp.org/rec/conf/icde/0002ZLZWWJ0YM20</url></info>
+<url>URL#1444792</url>
+</hit>
+<hit score="1" id="1444793">
+<info><authors><author pid="55/2893-3">Huan Li 0003</author><author pid="l/HuaLu">Hua Lu 0001</author><author pid="55/5690">Muhammad Aamir Cheema</author><author pid="21/5967">Lidan Shou</author><author pid="67/6383-1">Gang Chen 0001</author></authors><title>Indoor Mobility Semantics Annotation Using Coupled Conditional Markov Networks.</title><venue>ICDE</venue><pages>1441-1452</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/00030CS020</key><doi>10.1109/ICDE48307.2020.00128</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00128</ee><url>https://dblp.org/rec/conf/icde/00030CS020</url></info>
+<url>URL#1444793</url>
+</hit>
+<hit score="1" id="1444794">
+<info><authors><author pid="13/7007-3">Lei Li 0003</author><author pid="185/1009-1">Mengxuan Zhang 0001</author><author pid="68/11145">Wen Hua</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author></authors><title>Fast Query Decomposition for Batch Shortest Path Processing in Road Networks.</title><venue>ICDE</venue><pages>1189-1200</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0003ZH020</key><doi>10.1109/ICDE48307.2020.00107</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00107</ee><url>https://dblp.org/rec/conf/icde/0003ZH020</url></info>
+<url>URL#1444794</url>
+</hit>
+<hit score="1" id="1444795">
+<info><authors><author pid="87/4982-4">Mo Li 0004</author><author pid="115/9072">Farhana Murtaza Choudhury</author><author pid="36/10568">Renata Borovica-Gajic</author><author pid="140/6525">Zhiqiong Wang</author><author pid="35/3175">Junchang Xin</author><author pid="l/JianxinLi">Jianxin Li 0001</author></authors><title>CrashSim: An Efficient Algorithm for Computing SimRank over Static and Temporal Graphs.</title><venue>ICDE</venue><pages>1141-1152</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0004CBWX020</key><doi>10.1109/ICDE48307.2020.00103</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00103</ee><url>https://dblp.org/rec/conf/icde/0004CBWX020</url></info>
+<url>URL#1444795</url>
+</hit>
+<hit score="1" id="1444796">
+<info><authors><author pid="48/1294-7">Feng Zhang 0007</author><author pid="72/7413">Jidong Zhai</author><author pid="36/4172">Xipeng Shen</author><author pid="m/OnurMutlu">Onur Mutlu</author><author pid="47/3542-1">Xiaoyong Du 0001</author></authors><title>Enabling Efficient Random Access to Hierarchically-Compressed Data.</title><venue>ICDE</venue><pages>1069-1080</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0007ZSM020</key><doi>10.1109/ICDE48307.2020.00097</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00097</ee><url>https://dblp.org/rec/conf/icde/0007ZSM020</url></info>
+<url>URL#1444796</url>
+</hit>
+<hit score="1" id="1444797">
+<info><authors><author pid="88/5320-8">Yan Zhao 0008</author><author pid="73/3928-1">Kai Zheng 0001</author><author pid="12/3412-1">Yue Cui 0001</author><author pid="23/3419">Han Su</author><author pid="77/1985">Feida Zhu 0001</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author></authors><title>Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach.</title><venue>ICDE</venue><pages>13-24</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/00080CSZ020</key><doi>10.1109/ICDE48307.2020.00009</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00009</ee><url>https://dblp.org/rec/conf/icde/00080CSZ020</url></info>
+<url>URL#1444797</url>
+</hit>
+<hit score="1" id="1444798">
+<info><authors><author pid="94/4084-13">Chen Zhang 0013</author><author pid="21/3626-36">Fan Zhang 0036</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="205/9505">Boge Liu</author><author pid="13/6769-1">Ying Zhang 0001</author><author pid="51/5585">Lu Qin 0001</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>Exploring Finer Granularity within the Cores: Efficient (k, p)-Core Computation.</title><venue>ICDE</venue><pages>181-192</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/001300LZQ020</key><doi>10.1109/ICDE48307.2020.00023</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00023</ee><url>https://dblp.org/rec/conf/icde/001300LZQ020</url></info>
+<url>URL#1444798</url>
+</hit>
+<hit score="1" id="1444799">
+<info><authors><author pid="82/3167-14">Yan Zhu 0014</author><author pid="117/5435">Chin-Chia Michael Yeh</author><author pid="74/9203">Zachary Zimmerman</author><author pid="k/EamonnJKeogh">Eamonn J. Keogh</author></authors><title>Matrix Profile XVII: Indexing the Matrix Profile to Allow Arbitrary Range Queries.</title><venue>ICDE</venue><pages>1846-1849</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/0014YZK20</key><doi>10.1109/ICDE48307.2020.00185</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00185</ee><url>https://dblp.org/rec/conf/icde/0014YZK20</url></info>
+<url>URL#1444799</url>
+</hit>
+<hit score="1" id="1444800">
+<info><authors><author pid="216/4991-1">Michael Abebe 0001</author><author pid="216/5130">Brad Glasbergen</author><author pid="d/KhuzaimaDaudjee">Khuzaima Daudjee</author></authors><title>DynaMast: Adaptive Dynamic Mastering for Replicated Systems.</title><venue>ICDE</venue><pages>1381-1392</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AbebeGD20</key><doi>10.1109/ICDE48307.2020.00123</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00123</ee><url>https://dblp.org/rec/conf/icde/AbebeGD20</url></info>
+<url>URL#1444800</url>
+</hit>
+<hit score="1" id="1444801">
+<info><authors><author pid="175/1253">Tenindra Abeywickrama</author><author pid="55/5690">Muhammad Aamir Cheema</author><author pid="67/2933">Arijit Khan 0001</author></authors><title>K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks : (Extended Abstract).</title><venue>ICDE</venue><pages>2036-2037</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AbeywickramaCK20</key><doi>10.1109/ICDE48307.2020.00237</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00237</ee><url>https://dblp.org/rec/conf/icde/AbeywickramaCK20</url></info>
+<url>URL#1444801</url>
+</hit>
+<hit score="1" id="1444802">
+<info><authors><author pid="257/2227">Deleli Mesay Adinew</author><author pid="06/3625">Zhou Shijie</author><author pid="12/7834">Yongjian Liao</author></authors><title>Spark Performance Optimization Analysis In Memory Management with Deploy Mode In Standalone Cluster Computing.</title><venue>ICDE</venue><pages>2049-2053</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AdinewSL20</key><doi>10.1109/ICDE48307.2020.00242</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00242</ee><url>https://dblp.org/rec/conf/icde/AdinewSL20</url></info>
+<url>URL#1444802</url>
+</hit>
+<hit score="1" id="1444803">
+<info><authors><author pid="222/4807">Omar AlOmeir</author><author pid="266/6141">Eugenie Yujing Lai</author><author pid="139/0871">Mostafa Milani</author><author pid="68/1297">Rachel Pottinger</author></authors><title>The Pastwatch: On the usability of provenance data in relational databases.</title><venue>ICDE</venue><pages>1882-1885</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AlOmeirLMP20</key><doi>10.1109/ICDE48307.2020.00194</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00194</ee><url>https://dblp.org/rec/conf/icde/AlOmeirLMP20</url></info>
+<url>URL#1444803</url>
+</hit>
+<hit score="1" id="1444804">
+<info><authors><author pid="127/4129">Abdullah Alfarrarjeh</author><author pid="61/6896">Seon Ho Kim</author><author pid="255/0132">Vinuta Hegde</author><author pid="255/0220">Akshansh</author><author pid="s/CyrusShahabi">Cyrus Shahabi</author><author pid="266/6139">Qingyun Xie</author><author pid="11/1051">Siva Ravada</author></authors><title>A Class of R*-tree Indexes for Spatial-Visual Search of Geo-tagged Street Images.</title><venue>ICDE</venue><pages>1990-1993</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AlfarrarjehKHAS20</key><doi>10.1109/ICDE48307.2020.00221</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00221</ee><url>https://dblp.org/rec/conf/icde/AlfarrarjehKHAS20</url></info>
+<url>URL#1444804</url>
+</hit>
+<hit score="1" id="1444805">
+<info><authors><author pid="242/5131">Noura Alghamdi</author><author pid="50/6759">Liang Zhang</author><author pid="70/1027">Huayi Zhang</author><author pid="r/EARundensteiner">Elke A. Rundensteiner</author><author pid="49/6395">Mohamed Y. Eltabakh</author></authors><title>ChainLink: Indexing Big Time Series Data For Long Subsequence Matching.</title><venue>ICDE</venue><pages>529-540</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AlghamdiZZRE20</key><doi>10.1109/ICDE48307.2020.00052</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00052</ee><url>https://dblp.org/rec/conf/icde/AlghamdiZZRE20</url></info>
+<url>URL#1444805</url>
+</hit>
+<hit score="1" id="1444806">
+<info><authors><author pid="229/8688">Abdulaziz Almaslukh</author><author pid="257/4612">Laila Abdelhafeez</author><author pid="05/8073-1">Amr Magdy 0001</author></authors><title>DLEEL: Multi-Predicate Spatial Queries on User-generated Streaming Data.</title><venue>ICDE</venue><pages>1770-1773</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AlmaslukhA020</key><doi>10.1109/ICDE48307.2020.00166</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00166</ee><url>https://dblp.org/rec/conf/icde/AlmaslukhA020</url></info>
+<url>URL#1444806</url>
+</hit>
+<hit score="1" id="1444807">
+<info><authors><author pid="134/4026">Muzaffer Can Altinigneli</author><author pid="262/6652">Lukas Miklautz</author><author pid="b/ChBohm">Christian Böhm</author><author pid="65/3446">Claudia Plant</author></authors><title>Hierarchical Quick Shift Guided Recurrent Clustering.</title><venue>ICDE</venue><pages>1842-1845</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AltinigneliMBP20</key><doi>10.1109/ICDE48307.2020.00184</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00184</ee><url>https://dblp.org/rec/conf/icde/AltinigneliMBP20</url></info>
+<url>URL#1444807</url>
+</hit>
+<hit score="1" id="1444808">
+<info><authors><author pid="183/8663">Mohammad Javad Amiri</author><author pid="a/DivyakantAgrawal">Divyakant Agrawal</author><author pid="a/AmrElAbbadi">Amr El Abbadi</author></authors><title>Modern Large-Scale Data Management Systems after 40 Years of Consensus.</title><venue>ICDE</venue><pages>1794-1797</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AmiriAA20</key><doi>10.1109/ICDE48307.2020.00172</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00172</ee><url>https://dblp.org/rec/conf/icde/AmiriAA20</url></info>
+<url>URL#1444808</url>
+</hit>
+<hit score="1" id="1444809">
+<info><authors><author pid="183/8663">Mohammad Javad Amiri</author><author pid="224/6467">Sujaya Maiyya</author><author pid="a/DivyakantAgrawal">Divyakant Agrawal</author><author pid="a/AmrElAbbadi">Amr El Abbadi</author></authors><title>SeeMoRe: A Fault-Tolerant Protocol for Hybrid Cloud Environments.</title><venue>ICDE</venue><pages>1345-1356</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/AmiriMAA20</key><doi>10.1109/ICDE48307.2020.00120</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00120</ee><url>https://dblp.org/rec/conf/icde/AmiriMAA20</url></info>
+<url>URL#1444809</url>
+</hit>
+<hit score="1" id="1444812">
+<info><authors><author pid="17/3178">André Bauer 0001</author><author pid="246/9549">Marwin Züfle</author><author pid="130/4084">Nikolas Herbst</author><author pid="k/SamuelKounev">Samuel Kounev</author><author pid="249/2539">Valentin Curtef</author></authors><title>Telescope: An Automatic Feature Extraction and Transformation Approach for Time Series Forecasting on a Level-Playing Field.</title><venue>ICDE</venue><pages>1902-1905</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BauerZHKC20</key><doi>10.1109/ICDE48307.2020.00199</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00199</ee><url>https://dblp.org/rec/conf/icde/BauerZHKC20</url></info>
+<url>URL#1444812</url>
+</hit>
+<hit score="1" id="1444815">
+<info><authors><author pid="202/0373">Alex Bogatu</author><author pid="f/AAAFernandes">Alvaro A. A. Fernandes</author><author pid="p/NWPaton">Norman W. Paton</author><author pid="53/6696-1">Nikolaos Konstantinou 0001</author></authors><title>Dataset Discovery in Data Lakes.</title><venue>ICDE</venue><pages>709-720</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BogatuFP020</key><doi>10.1109/ICDE48307.2020.00067</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00067</ee><url>https://dblp.org/rec/conf/icde/BogatuFP020</url></info>
+<url>URL#1444815</url>
+</hit>
+<hit score="1" id="1444816">
+<info><authors><author pid="215/5392">Harald Bögeholz</author><author pid="41/8860">Michael Brand</author><author pid="215/4907">Radu-Alexandru Todor</author></authors><title>In-database connected component analysis.</title><venue>ICDE</venue><pages>1525-1536</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BogeholzBT20</key><doi>10.1109/ICDE48307.2020.00135</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00135</ee><url>https://dblp.org/rec/conf/icde/BogeholzBT20</url></info>
+<url>URL#1444816</url>
+</hit>
+<hit score="1" id="1444817">
+<info><authors><author pid="266/6112">Paul Boniol</author><author pid="176/5473">Michele Linardi</author><author pid="266/6119">Federico Roncallo</author><author pid="p/ThemisPalpanas">Themis Palpanas</author></authors><title>SAD: An Unsupervised System for Subsequence Anomaly Detection.</title><venue>ICDE</venue><pages>1778-1781</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BoniolLRP20</key><doi>10.1109/ICDE48307.2020.00168</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00168</ee><url>https://dblp.org/rec/conf/icde/BoniolLRP20</url></info>
+<url>URL#1444817</url>
+</hit>
+<hit score="1" id="1444818">
+<info><authors><author pid="266/6112">Paul Boniol</author><author pid="176/5473">Michele Linardi</author><author pid="266/6119">Federico Roncallo</author><author pid="p/ThemisPalpanas">Themis Palpanas</author></authors><title>Automated Anomaly Detection in Large Sequences.</title><venue>ICDE</venue><pages>1834-1837</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/BoniolLRP20a</key><doi>10.1109/ICDE48307.2020.00182</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00182</ee><url>https://dblp.org/rec/conf/icde/BoniolLRP20a</url></info>
+<url>URL#1444818</url>
+</hit>
+<hit score="1" id="1444819">
+<info><authors><author pid="152/9477">Jaewook Byun</author><author pid="173/0638">Sungpil Woo</author><author pid="29/986-1">Daeyoung Kim 0001</author></authors><title>ChronoGraph: Enabling temporal graph traversals for efficient information diffusion analysis over time.</title><venue>ICDE</venue><pages>2026-2027</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ByunW020</key><doi>10.1109/ICDE48307.2020.00232</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00232</ee><url>https://dblp.org/rec/conf/icde/ByunW020</url></info>
+<url>URL#1444819</url>
+</hit>
+<hit score="1" id="1444820">
+<info><authors><author pid="168/4683">Taotao Cai</author><author pid="l/JianxinLi">Jianxin Li 0001</author><author pid="124/3439">Nur Al Hasan Haldar</author><author pid="63/807">Ajmal Mian</author><author pid="62/4606">John Yearwood</author><author pid="s/TimosKSellis">Timos Sellis</author></authors><title>Anchored Vertex Exploration for Community Engagement in Social Networks.</title><venue>ICDE</venue><pages>409-420</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CaiLHMYS20</key><doi>10.1109/ICDE48307.2020.00042</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00042</ee><url>https://dblp.org/rec/conf/icde/CaiLHMYS20</url></info>
+<url>URL#1444820</url>
+</hit>
+<hit score="1" id="1444822">
+<info><authors><author pid="181/5689">Chengliang Chai</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="78/4413">Ju Fan</author><author pid="185/9921">Yuyu Luo</author></authors><title>Crowdsourcing-based Data Extraction from Visualization Charts.</title><venue>ICDE</venue><pages>1814-1817</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChaiLFL20</key><doi>10.1109/ICDE48307.2020.00177</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00177</ee><url>https://dblp.org/rec/conf/icde/ChaiLFL20</url></info>
+<url>URL#1444822</url>
+</hit>
+<hit score="1" id="1444823">
+<info><authors><author pid="166/7652">Tsz Nam Chan</author><author pid="23/282">Man Lung Yiu</author><author pid="38/4996">Leong Hou U</author></authors><title>The Power of Bounds: Answering Approximate Earth Mover&apos;s Distance with Parametric Bounds (Extended abstract).</title><venue>ICDE</venue><pages>2022-2023</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChanYU20</key><doi>10.1109/ICDE48307.2020.00230</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00230</ee><url>https://dblp.org/rec/conf/icde/ChanYU20</url></info>
+<url>URL#1444823</url>
+</hit>
+<hit score="1" id="1444824">
+<info><authors><author pid="47/179">Lijun Chang</author><author pid="121/5751">Xing Feng</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="51/5585">Lu Qin 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="219/5745">Dian Ouyang</author></authors><title>Speeding Up GED Verification for Graph Similarity Search.</title><venue>ICDE</venue><pages>793-804</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChangF0QZO20</key><doi>10.1109/ICDE48307.2020.00074</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00074</ee><url>https://dblp.org/rec/conf/icde/ChangF0QZO20</url></info>
+<url>URL#1444824</url>
+</hit>
+<hit score="1" id="1444825">
+<info><authors><author pid="203/6380">Leshang Chen</author><author pid="d/SBDavidson">Susan B. Davidson</author></authors><title>Automating Software Citation using GitCite.</title><venue>ICDE</venue><pages>1754-1757</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChenD20</key><doi>10.1109/ICDE48307.2020.00162</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00162</ee><url>https://dblp.org/rec/conf/icde/ChenD20</url></info>
+<url>URL#1444825</url>
+</hit>
+<hit score="1" id="1444826">
+<info><authors><author pid="69/8230">Hongmei Chen</author><author pid="76/1735">Yixiang Fang</author><author pid="13/6769-1">Ying Zhang 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="38/2512">Lizhen Wang</author></authors><title>ESPM: Efficient Spatial Pattern Matching (Extended Abstract).</title><venue>ICDE</venue><pages>2038-2039</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChenFZZW20</key><doi>10.1109/ICDE48307.2020.00238</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00238</ee><url>https://dblp.org/rec/conf/icde/ChenFZZW20</url></info>
+<url>URL#1444826</url>
+</hit>
+<hit score="1" id="1444827">
+<info><authors><author pid="51/4896">Xiaoshuang Chen</author><author pid="90/11212">Longbin Lai</author><author pid="51/5585">Lu Qin 0001</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>StructSim: Querying Structural Node Similarity at Billion Scale.</title><venue>ICDE</venue><pages>1950-1953</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChenLQ020</key><doi>10.1109/ICDE48307.2020.00211</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00211</ee><url>https://dblp.org/rec/conf/icde/ChenLQ020</url></info>
+<url>URL#1444827</url>
+</hit>
+<hit score="1" id="1444828">
+<info><authors><author pid="37/10606">Lisi Chen</author><author pid="29/8750">Shuo Shang</author><author pid="j/ChristianSJensen">Christian S. Jensen</author><author pid="86/508-2">Bin Yao 0002</author><author pid="97/3036">Panos Kalnis</author></authors><title>Parallel Semantic Trajectory Similarity Join.</title><venue>ICDE</venue><pages>997-1008</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChenSJ0K20</key><doi>10.1109/ICDE48307.2020.00091</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00091</ee><url>https://dblp.org/rec/conf/icde/ChenSJ0K20</url></info>
+<url>URL#1444828</url>
+</hit>
+<hit score="1" id="1444829">
+<info><authors><author pid="22/1512-5">Tong Chen 0005</author><author pid="04/10606">Hongzhi Yin</author><author pid="88/302">Quoc Viet Hung Nguyen</author><author pid="92/1623">Wen-Chih Peng</author><author pid="l/XueLi">Xue Li 0001</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author></authors><title>Sequence-Aware Factorization Machines for Temporal Predictive Analytics.</title><venue>ICDE</venue><pages>1405-1416</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChenYNP0020</key><doi>10.1109/ICDE48307.2020.00125</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00125</ee><url>https://dblp.org/rec/conf/icde/ChenYNP0020</url></info>
+<url>URL#1444829</url>
+</hit>
+<hit score="1" id="1444830">
+<info><authors><author pid="09/10704">Yurong Cheng</author><author pid="70/1211-6">Boyang Li 0006</author><author pid="29/4724">Xiangmin Zhou</author><author pid="33/6315-1">Ye Yuan 0001</author><author pid="64/146">Guoren Wang</author><author pid="c/LeiChen0002">Lei Chen 0002</author></authors><title>Real-Time Cross Online Matching in Spatial Crowdsourcing.</title><venue>ICDE</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChengLZ0W020</key><doi>10.1109/ICDE48307.2020.00008</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00008</ee><url>https://dblp.org/rec/conf/icde/ChengLZ0W020</url></info>
+<url>URL#1444830</url>
+</hit>
+<hit score="1" id="1444831">
+<info><authors><author pid="200/9070">Jiajia Chu</author><author pid="266/6219">Yunshan Tu</author><author pid="57/3892">Yao Zhang</author><author pid="81/6809">Chuliang Weng</author></authors><title>Latte: A Native Table Engine On Nvme Storage.</title><venue>ICDE</venue><pages>1225-1236</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChuTZW20</key><doi>10.1109/ICDE48307.2020.00110</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00110</ee><url>https://dblp.org/rec/conf/icde/ChuTZW20</url></info>
+<url>URL#1444831</url>
+</hit>
+<hit score="1" id="1444832">
+<info><authors><author pid="206/0537">Deming Chu</author><author pid="21/3626-36">Fan Zhang 0036</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="13/6769-1">Ying Zhang 0001</author><author pid="61/3251">Yinglong Xia</author><author pid="78/918">Chenyi Zhang</author></authors><title>Finding the Best k in Core Decomposition: A Time and Space Optimal Solution.</title><venue>ICDE</venue><pages>685-696</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ChuZ00ZXZ20</key><doi>10.1109/ICDE48307.2020.00065</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00065</ee><url>https://dblp.org/rec/conf/icde/ChuZ00ZXZ20</url></info>
+<url>URL#1444832</url>
+</hit>
+<hit score="1" id="1444833">
+<info><authors><author pid="c/SaraCohen">Sara Cohen</author><author pid="160/3477">Adam Rosenthal</author><author pid="92/4269">Aviv Zohar</author></authors><title>Reasoning about the Future in Blockchain Databases.</title><venue>ICDE</venue><pages>1930-1933</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CohenRZ20</key><doi>10.1109/ICDE48307.2020.00206</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00206</ee><url>https://dblp.org/rec/conf/icde/CohenRZ20</url></info>
+<url>URL#1444833</url>
+</hit>
+<hit score="1" id="1444834">
+<info><authors><author pid="243/2733">Zicun Cong</author><author pid="21/10575">Lingyang Chu</author><author pid="79/10976">Lanjun Wang</author><author pid="24/7536">Xia Hu</author><author pid="p/JianPei">Jian Pei</author></authors><title>Exact and Consistent Interpretation of Piecewise Linear Models Hidden behind APIs: A Closed Form Solution.</title><venue>ICDE</venue><pages>613-624</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CongCWHP20</key><doi>10.1109/ICDE48307.2020.00059</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00059</ee><url>https://dblp.org/rec/conf/icde/CongCWHP20</url></info>
+<url>URL#1444834</url>
+</hit>
+<hit score="1" id="1444835">
+<info><authors><author pid="147/4971">Andrew Crotty</author><author pid="147/4899">Alex Galakatos</author><author pid="26/6037">Tim Kraska</author></authors><title>Getting Swole: Generating Access-Aware Code with Predicate Pullups.</title><venue>ICDE</venue><pages>1273-1284</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/CrottyGK20</key><doi>10.1109/ICDE48307.2020.00114</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00114</ee><url>https://dblp.org/rec/conf/icde/CrottyGK20</url></info>
+<url>URL#1444835</url>
+</hit>
+<hit score="1" id="1444836">
+<info><authors><author pid="180/6142">Ningning Cui</author><author pid="86/2859-1">Xiaochun Yang 0001</author><author pid="13/1898-15">Bin Wang 0015</author><author pid="l/JianxinLi">Jianxin Li 0001</author><author pid="64/146">Guoren Wang</author></authors><title>SVkNN: Efficient Secure and Verifiable k-Nearest Neighbor Query on the Cloud Platform*.</title><venue>ICDE</venue><pages>253-264</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Cui0WLW20</key><doi>10.1109/ICDE48307.2020.00029</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00029</ee><url>https://dblp.org/rec/conf/icde/Cui0WLW20</url></info>
+<url>URL#1444836</url>
+</hit>
+<hit score="1" id="1444837">
+<info><authors><author pid="19/2205">Ting Deng</author><author pid="32/5685">Lei Hou</author><author pid="266/6158">Ziyan Han</author></authors><title>Keys as Features for Graph Entity Matching.</title><venue>ICDE</venue><pages>1974-1977</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DengHH20</key><doi>10.1109/ICDE48307.2020.00217</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00217</ee><url>https://dblp.org/rec/conf/icde/DengHH20</url></info>
+<url>URL#1444837</url>
+</hit>
+<hit score="1" id="1444839">
+<info><authors><author pid="262/6401">Oksana Dolmatova</author><author pid="76/3961">Nikolaus Augsten</author><author pid="b/MichaelHBohlen">Michael H. Böhlen</author></authors><title>Preserving Contextual Information in Relational Matrix Operations.</title><venue>ICDE</venue><pages>1894-1897</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DolmatovaAB20</key><doi>10.1109/ICDE48307.2020.00197</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00197</ee><url>https://dblp.org/rec/conf/icde/DolmatovaAB20</url></info>
+<url>URL#1444839</url>
+</hit>
+<hit score="1" id="1444840">
+<info><authors><author pid="181/0475">Quang-Huy Duong</author><author pid="r/HeriRamampiaro">Heri Ramampiaro</author><author pid="n/KjetilNorvag">Kjetil Nørvåg</author></authors><title>Multiple Dense Subtensor Estimation with High Density Guarantee.</title><venue>ICDE</venue><pages>637-648</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DuongRN20</key><doi>10.1109/ICDE48307.2020.00061</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00061</ee><url>https://dblp.org/rec/conf/icde/DuongRN20</url></info>
+<url>URL#1444840</url>
+</hit>
+<hit score="1" id="1444841">
+<info><authors><author pid="159/7387">Chi Thang Duong</author><author pid="04/10606">Hongzhi Yin</author><author pid="266/6194">Dung Hoang</author><author pid="266/6140">Minn Hung Nguyen</author><author pid="61/267">Matthias Weidlich 0001</author><author pid="88/302">Quoc Viet Hung Nguyen</author><author pid="a/KarlAberer">Karl Aberer</author></authors><title>Graph Embeddings for One-pass Processing of Heterogeneous Queries.</title><venue>ICDE</venue><pages>1994-1997</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/DuongYHNWNA20</key><doi>10.1109/ICDE48307.2020.00222</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00222</ee><url>https://dblp.org/rec/conf/icde/DuongYHNWNA20</url></info>
+<url>URL#1444841</url>
+</hit>
+<hit score="1" id="1444842">
+<info><authors><author pid="177/2905">Daren Fadolalkarim</author><author pid="b/ElisaBertino">Elisa Bertino</author><author pid="116/5199">Asmaa Sallam</author></authors><title>An Anomaly Detection System for the Protection of Relational Database Systems against Data Leakage by Application Programs.</title><venue>ICDE</venue><pages>265-276</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FadolalkarimBS20</key><doi>10.1109/ICDE48307.2020.00030</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00030</ee><url>https://dblp.org/rec/conf/icde/FadolalkarimBS20</url></info>
+<url>URL#1444842</url>
+</hit>
+<hit score="1" id="1444843">
+<info><authors><author pid="228/6063">Zijin Feng</author><author pid="85/7672-3">Tiantian Liu 0003</author><author pid="55/2893-3">Huan Li 0003</author><author pid="l/HuaLu">Hua Lu 0001</author><author pid="21/5967">Lidan Shou</author><author pid="x/JianliangXu">Jianliang Xu</author></authors><title>Indoor Top-k Keyword-aware Routing Query.</title><venue>ICDE</venue><pages>1213-1224</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FengL0LSX20</key><doi>10.1109/ICDE48307.2020.00109</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00109</ee><url>https://dblp.org/rec/conf/icde/FengL0LSX20</url></info>
+<url>URL#1444843</url>
+</hit>
+<hit score="1" id="1444845">
+<info><authors><author pid="265/9606">Philipp Fent</author><author pid="219/9679">Alexander van Renen</author><author pid="167/6469">Andreas Kipf</author><author pid="10/11150">Viktor Leis</author><author pid="n/ThomasNeumann">Thomas Neumann 0001</author><author pid="k/AlfonsKemper">Alfons Kemper</author></authors><title>Low-Latency Communication for Fast DBMS Using RDMA and Shared Memory.</title><venue>ICDE</venue><pages>1477-1488</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FentRKL0K20</key><doi>10.1109/ICDE48307.2020.00131</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00131</ee><url>https://dblp.org/rec/conf/icde/FentRKL0K20</url></info>
+<url>URL#1444845</url>
+</hit>
+<hit score="1" id="1444846">
+<info><authors><author pid="94/3075">James R. Foulds</author><author pid="202/5805">Rashidul Islam</author><author pid="230/4173">Kamrun Naher Keya</author><author pid="p/ShimeiPan">Shimei Pan</author></authors><title>An Intersectional Definition of Fairness.</title><venue>ICDE</venue><pages>1918-1921</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/FouldsIKP20</key><doi>10.1109/ICDE48307.2020.00203</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00203</ee><url>https://dblp.org/rec/conf/icde/FouldsIKP20</url></info>
+<url>URL#1444846</url>
+</hit>
+<hit score="1" id="1444847">
+<info><authors><author pid="266/6150">Wenxiao Fu</author></authors><title>Picube for Fast Exploration of Large Datasets.</title><venue>ICDE</venue><pages>2069-2073</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Fu20</key><doi>10.1109/ICDE48307.2020.00246</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00246</ee><url>https://dblp.org/rec/conf/icde/Fu20</url></info>
+<url>URL#1444847</url>
+</hit>
+<hit score="1" id="1444848">
+<info><authors><author pid="266/6109">Swapnil Gandhi</author><author pid="s/YogeshSimmhan">Yogesh Simmhan</author></authors><title>An Interval-centric Model for Distributed Computing over Temporal Graphs.</title><venue>ICDE</venue><pages>1129-1140</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GandhiS20</key><doi>10.1109/ICDE48307.2020.00102</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00102</ee><url>https://dblp.org/rec/conf/icde/GandhiS20</url></info>
+<url>URL#1444848</url>
+</hit>
+<hit score="1" id="1444849">
+<info><authors><author pid="29/5999-8">Peng Gao 0008</author><author pid="13/9656">Xusheng Xiao</author><author pid="95/7132-1">Ding Li 0001</author><author pid="36/10085">Kangkook Jee</author><author pid="08/57">Haifeng Chen</author><author pid="52/6276">Sanjeev R. Kulkarni</author><author pid="39/6266">Prateek Mittal</author></authors><title>Querying Streaming System Monitoring Data for Enterprise System Anomaly Detection.</title><venue>ICDE</venue><pages>1774-1777</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GaoXLJCKM20</key><doi>10.1109/ICDE48307.2020.00167</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00167</ee><url>https://dblp.org/rec/conf/icde/GaoXLJCKM20</url></info>
+<url>URL#1444849</url>
+</hit>
+<hit score="1" id="1444850">
+<info><authors><author pid="186/6693">Yash Garg</author><author pid="c/KSelcukCandan">K. Selçuk Candan</author><author pid="s/MariaLuisaSapino">Maria Luisa Sapino</author></authors><title>SAN : Scale-Space Attention Networks.</title><venue>ICDE</venue><pages>853-864</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GargCS20</key><doi>10.1109/ICDE48307.2020.00079</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00079</ee><url>https://dblp.org/rec/conf/icde/GargCS20</url></info>
+<url>URL#1444850</url>
+</hit>
+<hit score="1" id="1444851">
+<info><authors><author pid="171/1013">Jinkun Geng</author><author pid="48/4185-1">Dan Li 0001</author><author pid="42/1503-28">Shuai Wang 0028</author></authors><title>Fela: Incorporating Flexible Parallelism and Elastic Tuning to Accelerate Large-Scale DML.</title><venue>ICDE</venue><pages>1393-1404</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GengLW20</key><doi>10.1109/ICDE48307.2020.00124</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00124</ee><url>https://dblp.org/rec/conf/icde/GengLW20</url></info>
+<url>URL#1444851</url>
+</hit>
+<hit score="1" id="1444852">
+<info><authors><author pid="132/4920">Stella Giannakopoulou</author><author pid="41/9728">Manos Karpathiotakis</author><author pid="a/AnastassiaAilamaki">Anastasia Ailamaki</author></authors><title>Query-driven Repair of Functional Dependency Violations.</title><venue>ICDE</venue><pages>1886-1889</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GiannakopoulouK20</key><doi>10.1109/ICDE48307.2020.00195</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00195</ee><url>https://dblp.org/rec/conf/icde/GiannakopoulouK20</url></info>
+<url>URL#1444852</url>
+</hit>
+<hit score="1" id="1444853">
+<info><authors><author pid="68/7056">Fabian Gieseke</author><author pid="222/8155">Sabina Rosca</author><author pid="149/9278">Troels Henriksen</author><author pid="46/9618">Jan Verbesselt</author><author pid="69/2092">Cosmin E. Oancea</author></authors><title>Massively-Parallel Change Detection for Satellite Time Series Data with Missing Values.</title><venue>ICDE</venue><pages>385-396</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GiesekeRHVO20</key><doi>10.1109/ICDE48307.2020.00040</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00040</ee><url>https://dblp.org/rec/conf/icde/GiesekeRHVO20</url></info>
+<url>URL#1444853</url>
+</hit>
+<hit score="1" id="1444855">
+<info><authors><author pid="266/6160">Damjan Gjurovski</author><author pid="m/SebastianMichel">Sebastian Michel 0001</author></authors><title>Scaling Out Schema-free Stream Joins.</title><venue>ICDE</venue><pages>805-816</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Gjurovski020</key><doi>10.1109/ICDE48307.2020.00075</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00075</ee><url>https://dblp.org/rec/conf/icde/Gjurovski020</url></info>
+<url>URL#1444855</url>
+</hit>
+<hit score="1" id="1444856">
+<info><authors><author pid="144/0959">Qixu Gong</author><author pid="266/6124">Jiefei Liu</author><author pid="04/492">Huiping Cao</author></authors><title>CSQ System: A System to Support Constrained Skyline Queries on Transportation Networks.</title><venue>ICDE</venue><pages>1746-1749</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GongLC20</key><doi>10.1109/ICDE48307.2020.00160</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00160</ee><url>https://dblp.org/rec/conf/icde/GongLC20</url></info>
+<url>URL#1444856</url>
+</hit>
+<hit score="1" id="1444857">
+<info><authors><author pid="207/7446">Shufeng Gong</author><author pid="66/2444">Yanfeng Zhang</author><author pid="49/6363">Ge Yu 0001</author></authors><title>HBP: Hotness Balanced Partition for Prioritized Iterative Graph Computations.</title><venue>ICDE</venue><pages>1942-1945</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GongZ020</key><doi>10.1109/ICDE48307.2020.00209</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00209</ee><url>https://dblp.org/rec/conf/icde/GongZ020</url></info>
+<url>URL#1444857</url>
+</hit>
+<hit score="1" id="1444859">
+<info><authors><author pid="195/4752">Xiaolan Gu</author><author pid="l/MingLi3">Ming Li 0003</author><author pid="39/3530-1">Li Xiong 0001</author><author pid="25/7045-11">Yang Cao 0011</author></authors><title>Providing Input-Discriminative Protection for Local Differential Privacy.</title><venue>ICDE</venue><pages>505-516</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Gu0XC20</key><doi>10.1109/ICDE48307.2020.00050</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00050</ee><url>https://dblp.org/rec/conf/icde/Gu0XC20</url></info>
+<url>URL#1444859</url>
+</hit>
+<hit score="1" id="1444860">
+<info><authors><author pid="220/2576">Tim Gubner</author><author pid="10/11150">Viktor Leis</author><author pid="b/PeterABoncz">Peter A. Boncz</author></authors><title>Efficient Query Processing with Optimistically Compressed Hash Tables &amp; Strings in the USSR.</title><venue>ICDE</venue><pages>301-312</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GubnerLB20</key><doi>10.1109/ICDE48307.2020.00033</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00033</ee><url>https://dblp.org/rec/conf/icde/GubnerLB20</url></info>
+<url>URL#1444860</url>
+</hit>
+<hit score="1" id="1444861">
+<info><authors><author pid="119/1083">Jiaping Gui</author><author pid="95/7132-1">Ding Li 0001</author><author pid="14/3744">Zhengzhang Chen</author><author pid="27/5932">Junghwan Rhee</author><author pid="13/9656">Xusheng Xiao</author><author pid="28/3341-1">Mu Zhang 0001</author><author pid="36/10085">Kangkook Jee</author><author pid="55/4022">Zhichun Li</author><author pid="08/57">Haifeng Chen</author></authors><title>APTrace: A Responsive System for Agile Enterprise Level Causality Analysis.</title><venue>ICDE</venue><pages>1701-1712</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GuiLCRX0JLC20</key><doi>10.1109/ICDE48307.2020.00151</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00151</ee><url>https://dblp.org/rec/conf/icde/GuiLCRX0JLC20</url></info>
+<url>URL#1444861</url>
+</hit>
+<hit score="1" id="1444862">
+<info><authors><author pid="176/6479">Shangwei Guo</author><author pid="72/1056">Yang Ji</author><author pid="97/919-7">Ce Zhang 0007</author><author pid="74/5952-4">Cheng Xu 0004</author><author pid="x/JianliangXu">Jianliang Xu</author></authors><title>vCBIR: A Verifiable Search Engine for Content-Based Image Retrieval.</title><venue>ICDE</venue><pages>1730-1733</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GuoJZ0X20</key><doi>10.1109/ICDE48307.2020.00156</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00156</ee><url>https://dblp.org/rec/conf/icde/GuoJZ0X20</url></info>
+<url>URL#1444862</url>
+</hit>
+<hit score="1" id="1444863">
+<info><authors><author pid="64/1967-8">Lei Guo 0008</author><author pid="04/10606">Hongzhi Yin</author><author pid="160/5974">Qinyong Wang</author><author pid="55/5031">Bin Cui 0001</author><author pid="70/6862">Zi Huang</author><author pid="82/5713">Lizhen Cui</author></authors><title>Group Recommendation with Latent Voting Mechanism.</title><venue>ICDE</venue><pages>121-132</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/GuoYW0HC20</key><doi>10.1109/ICDE48307.2020.00018</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00018</ee><url>https://dblp.org/rec/conf/icde/GuoYW0HC20</url></info>
+<url>URL#1444863</url>
+</hit>
+<hit score="1" id="1444864">
+<info><authors><author pid="57/10423">Xiaolin Han</author><author pid="183/0983">Tobias Grubenmann</author><author pid="89/2619">Reynold Cheng</author><author pid="52/7279">Sze Chun Wong</author><author pid="50/3993-9">Xiaodong Li 0009</author><author pid="218/7310">Wenya Sun</author></authors><title>Traffic Incident Detection: A Trajectory-based Approach.</title><venue>ICDE</venue><pages>1866-1869</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HanGCWLS20</key><doi>10.1109/ICDE48307.2020.00190</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00190</ee><url>https://dblp.org/rec/conf/icde/HanGCWLS20</url></info>
+<url>URL#1444864</url>
+</hit>
+<hit score="1" id="1444865">
+<info><authors><author pid="266/6204">Keqi Han</author><author pid="39/5423">Yuan Tian</author><author pid="163/1809">Yunjia Zhang</author><author pid="83/10626">Ling Han</author><author pid="04/5616-1">Hao Huang 0001</author><author pid="80/2651">Yunjun Gao</author></authors><title>Statistical Estimation of Diffusion Network Topologies.</title><venue>ICDE</venue><pages>625-636</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HanTZHHG20</key><doi>10.1109/ICDE48307.2020.00060</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00060</ee><url>https://dblp.org/rec/conf/icde/HanTZHHG20</url></info>
+<url>URL#1444865</url>
+</hit>
+<hit score="1" id="1444866">
+<info><authors><author pid="07/6713">Shuang Hao</author><author pid="181/5689">Chengliang Chai</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="27/104-1">Nan Tang 0001</author><author pid="46/2005">Ning Wang</author><author pid="19/2453">Xiang Yu</author></authors><title>Outdated Fact Detection in Knowledge Bases.</title><venue>ICDE</venue><pages>1890-1893</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HaoC00WY20</key><doi>10.1109/ICDE48307.2020.00196</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00196</ee><url>https://dblp.org/rec/conf/icde/HaoC00WY20</url></info>
+<url>URL#1444866</url>
+</hit>
+<hit score="1" id="1444867">
+<info><authors><author pid="151/5258">Yuanduo He</author><author pid="131/4767">Xu Chu</author><author pid="70/2725">Yasha Wang</author></authors><title>Neighbor Profile: Bagging Nearest Neighbors for Unsupervised Time Series Mining.</title><venue>ICDE</venue><pages>373-384</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HeCW20</key><doi>10.1109/ICDE48307.2020.00039</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00039</ee><url>https://dblp.org/rec/conf/icde/HeCW20</url></info>
+<url>URL#1444867</url>
+</hit>
+<hit score="1" id="1444868">
+<info><authors><author pid="190/4509">Shahab Helmi</author><author pid="34/508">Farnoush Banaei Kashani</author></authors><title>Multiscale Frequent Co-movement Pattern Mining.</title><venue>ICDE</venue><pages>829-840</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HelmiK20</key><doi>10.1109/ICDE48307.2020.00077</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00077</ee><url>https://dblp.org/rec/conf/icde/HelmiK20</url></info>
+<url>URL#1444868</url>
+</hit>
+<hit score="1" id="1444871">
+<info><authors><author pid="236/6482">Olha Horlova</author><author pid="139/7905">Abdulrahman Kaitoua</author><author pid="c/StefanoCeri">Stefano Ceri</author></authors><title>Array-based Data Management for Genomics.</title><venue>ICDE</venue><pages>109-120</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HorlovaKC20</key><doi>10.1109/ICDE48307.2020.00017</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00017</ee><url>https://dblp.org/rec/conf/icde/HorlovaKC20</url></info>
+<url>URL#1444871</url>
+</hit>
+<hit score="1" id="1444872">
+<info><authors><author pid="189/6195">Jilin Hu</author><author pid="77/377-2">Bin Yang 0002</author><author pid="49/7979">Chenjuan Guo</author><author pid="j/ChristianSJensen">Christian S. Jensen</author><author pid="262/1686">Hui Xiong</author></authors><title>Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks.</title><venue>ICDE</venue><pages>1417-1428</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Hu0GJX20</key><doi>10.1109/ICDE48307.2020.00126</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00126</ee><url>https://dblp.org/rec/conf/icde/Hu0GJX20</url></info>
+<url>URL#1444872</url>
+</hit>
+<hit score="1" id="1444873">
+<info><authors><author pid="168/9593">Keke Huang</author><author pid="83/663-4">Jing Tang 0004</author><author pid="33/1903">Xiaokui Xiao</author><author pid="78/5155">Aixin Sun</author><author pid="92/972">Andrew Lim 0001</author></authors><title>Efficient Approximation Algorithms for Adaptive Target Profit Maximization.</title><venue>ICDE</venue><pages>649-660</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Huang0XSL20</key><doi>10.1109/ICDE48307.2020.00062</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00062</ee><url>https://dblp.org/rec/conf/icde/Huang0XSL20</url></info>
+<url>URL#1444873</url>
+</hit>
+<hit score="1" id="1444874">
+<info><authors><author pid="213/9136">Shixun Huang</author><author pid="20/3716">Zhifeng Bao</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="227/8249">Yanghao Zhou</author><author pid="03/489">J. Shane Culpepper</author></authors><title>Temporal Network Representation Learning via Historical Neighborhoods Aggregation.</title><venue>ICDE</venue><pages>1117-1128</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuangB0ZC20</key><doi>10.1109/ICDE48307.2020.00101</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00101</ee><url>https://dblp.org/rec/conf/icde/HuangB0ZC20</url></info>
+<url>URL#1444874</url>
+</hit>
+<hit score="1" id="1444875">
+<info><authors><author pid="234/5444">Chenhao Huang</author><author pid="39/4287">Michael J. Cahill</author><author pid="f/AlanDavidFekete">Alan D. Fekete</author><author pid="r/UweRohm">Uwe Röhm</author></authors><title>Deciding When to Trade Data Freshness for Performance in MongoDB-as-a-Service.</title><venue>ICDE</venue><pages>1934-1937</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuangCFR20</key><doi>10.1109/ICDE48307.2020.00207</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00207</ee><url>https://dblp.org/rec/conf/icde/HuangCFR20</url></info>
+<url>URL#1444875</url>
+</hit>
+<hit score="1" id="1444876">
+<info><authors><author pid="243/0219">Jiacheng Huang</author><author pid="52/173-7">Wei Hu 0007</author><author pid="20/3716">Zhifeng Bao</author><author pid="05/1694">Yuzhong Qu</author></authors><title>Crowdsourced Collective Entity Resolution with Relational Match Propagation.</title><venue>ICDE</venue><pages>37-48</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuangHBQ20</key><doi>10.1109/ICDE48307.2020.00011</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00011</ee><url>https://dblp.org/rec/conf/icde/HuangHBQ20</url></info>
+<url>URL#1444876</url>
+</hit>
+<hit score="1" id="1444877">
+<info><authors><author pid="247/6475">Thanh Trung Huynh</author><author pid="247/6530">Van Vinh Tong</author><author pid="176/9222">Thanh Tam Nguyen</author><author pid="04/10606">Hongzhi Yin</author><author pid="61/267">Matthias Weidlich 0001</author><author pid="88/302">Nguyen Quoc Viet Hung</author></authors><title>Adaptive Network Alignment with Unsupervised and Multi-order Convolutional Networks.</title><venue>ICDE</venue><pages>85-96</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/HuynhTNYWH20</key><doi>10.1109/ICDE48307.2020.00015</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00015</ee><url>https://dblp.org/rec/conf/icde/HuynhTNYWH20</url></info>
+<url>URL#1444877</url>
+</hit>
+<hit score="1" id="1444878">
+<info><authors><author pid="205/2607">Jun-Gi Jang</author><author pid="13/7122">U Kang</author></authors><title>D-Tucker: Fast and Memory-Efficient Tucker Decomposition for Dense Tensors.</title><venue>ICDE</venue><pages>1850-1853</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JangK20</key><doi>10.1109/ICDE48307.2020.00186</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00186</ee><url>https://dblp.org/rec/conf/icde/JangK20</url></info>
+<url>URL#1444878</url>
+</hit>
+<hit score="1" id="1444879">
+<info><authors><author pid="07/8388">Shouling Ji</author><author pid="218/8800">Qinchen Gu</author><author pid="169/7167">Haiqin Weng</author><author pid="204/7806">Qianjun Liu</author><author pid="84/6614">Pan Zhou</author><author pid="27/4364-3">Jing Chen 0003</author><author pid="l/ZhaoLi-7">Zhao Li 0007</author><author pid="12/6354">Raheem Beyah</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>De-Health: All Your Online Health Information Are Belong to Us.</title><venue>ICDE</venue><pages>1609-1620</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JiGWLZCLBW20</key><doi>10.1109/ICDE48307.2020.00143</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00143</ee><url>https://dblp.org/rec/conf/icde/JiGWLZCLBW20</url></info>
+<url>URL#1444879</url>
+</hit>
+<hit score="1" id="1444880">
+<info><authors><author pid="90/8494">Jiaxin Jiang</author><author pid="98/5766-1">Xin Huang 0001</author><author pid="07/1560">Byron Choi</author><author pid="x/JianliangXu">Jianliang Xu</author><author pid="b/SSBhowmick">Sourav S. Bhowmick</author><author pid="266/6127">Lyu Xu</author></authors><title>PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.</title><venue>ICDE</venue><pages>457-468</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Jiang0CXBX20</key><doi>10.1109/ICDE48307.2020.00046</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00046</ee><url>https://dblp.org/rec/conf/icde/Jiang0CXBX20</url></info>
+<url>URL#1444880</url>
+</hit>
+<hit score="1" id="1444881">
+<info><authors><author pid="186/8193">Ruochen Jiang</author><author pid="142/6496">Changbo Qu</author><author pid="39/7183">Jiannan Wang</author><author pid="09/404-1">Chi Wang 0001</author><author pid="160/1053">Yudian Zheng</author></authors><title>Towards Extracting Highlights From Recorded Live Videos: An Implicit Crowdsourcing Approach.</title><venue>ICDE</venue><pages>1810-1813</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JiangQWWZ20</key><doi>10.1109/ICDE48307.2020.00176</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00176</ee><url>https://dblp.org/rec/conf/icde/JiangQWWZ20</url></info>
+<url>URL#1444881</url>
+</hit>
+<hit score="1" id="1444882">
+<info><authors><author pid="178/3086">Zhongyuan Jiang</author><author pid="121/0780-1">Lichao Sun 0001</author><author pid="y/PhilipSYu">Philip S. Yu</author><author pid="l/HuiLi5">Hui Li 0005</author><author pid="12/6604-1">Jianfeng Ma 0001</author><author pid="74/2768">Yulong Shen</author></authors><title>Target Privacy Preserving for Social Networks.</title><venue>ICDE</venue><pages>1862-1865</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JiangSY0MS20</key><doi>10.1109/ICDE48307.2020.00189</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00189</ee><url>https://dblp.org/rec/conf/icde/JiangSY0MS20</url></info>
+<url>URL#1444882</url>
+</hit>
+<hit score="1" id="1444883">
+<info><authors><author pid="185/1521">Jiawei Jiang</author><author pid="205/8397">Pin Xiao</author><author pid="135/5193">Lele Yu</author><author pid="266/6200">Xiaosen Li</author><author pid="60/3935">Jiefeng Cheng</author><author pid="243/2364">Xupeng Miao</author><author pid="49/4941">Zhipeng Zhang</author><author pid="55/5031">Bin Cui 0001</author></authors><title>PSGraph: How Tencent trains extremely large-scale graphs with Spark?</title><venue>ICDE</venue><pages>1549-1557</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JiangXYLCMZ020</key><doi>10.1109/ICDE48307.2020.00137</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00137</ee><url>https://dblp.org/rec/conf/icde/JiangXYLCMZ020</url></info>
+<url>URL#1444883</url>
+</hit>
+<hit score="1" id="1444885">
+<info><authors><author pid="93/478">Yuanyuan Jin</author><author pid="10/4661-56">Wei Zhang 0056</author><author pid="59/1007">Xiangnan He 0001</author><author pid="68/1277-17">Xinyu Wang 0017</author><author pid="92/6206">Xiaoling Wang</author></authors><title>Syndrome-aware Herb Recommendation with Multi-Graph Convolution Network.</title><venue>ICDE</venue><pages>145-156</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JinZ00W20</key><doi>10.1109/ICDE48307.2020.00020</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00020</ee><url>https://dblp.org/rec/conf/icde/JinZ00W20</url></info>
+<url>URL#1444885</url>
+</hit>
+<hit score="1" id="1444886">
+<info><authors><author pid="241/3021">Yifeng Jin</author><author pid="181/2882">Lin Zhu</author><author pid="39/5306">Zijing Tan</author></authors><title>Efficient Bidirectional Order Dependency Discovery.</title><venue>ICDE</venue><pages>61-72</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JinZT20</key><doi>10.1109/ICDE48307.2020.00013</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00013</ee><url>https://dblp.org/rec/conf/icde/JinZT20</url></info>
+<url>URL#1444886</url>
+</hit>
+<hit score="1" id="1444887">
+<info><authors><author pid="272/1822">Cynthia Joesph</author><author pid="28/8235">A. Rajeswari</author><author pid="264/3415">B. Premalatha</author><author pid="272/1797">C. Balapriya</author></authors><title>Implementation of physiological signal based emotion recognition algorithm.</title><venue>ICDE</venue><pages>2075-2079</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JoesphRPB20</key><doi>10.1109/ICDE48307.2020.9153878</doi><ee>https://doi.org/10.1109/ICDE48307.2020.9153878</ee><url>https://dblp.org/rec/conf/icde/JoesphRPB20</url></info>
+<url>URL#1444887</url>
+</hit>
+<hit score="1" id="1444888">
+<info><authors><author pid="193/7295">Woohwan Jung</author><author pid="266/6114">Suyong Kwon</author><author pid="s/KyuseokShim">Kyuseok Shim</author></authors><title>TIDY: Publishing a Time Interval Dataset with Differential Privacy (Extended abstract).</title><venue>ICDE</venue><pages>2020-2021</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/JungKS20</key><doi>10.1109/ICDE48307.2020.00229</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00229</ee><url>https://dblp.org/rec/conf/icde/JungKS20</url></info>
+<url>URL#1444888</url>
+</hit>
+<hit score="1" id="1444893">
+<info><authors><author pid="65/1457">Zoi Kaoudi</author><author pid="09/6353">Jorge-Arnulfo Quiané-Ruiz</author><author pid="220/3419">Bertty Contreras-Rojas</author><author pid="266/6218">Rodrigo Pardo-Meza</author><author pid="224/6752">Anis Troudi</author><author pid="22/5463">Sanjay Chawla</author></authors><title>ML-based Cross-Platform Query Optimization.</title><venue>ICDE</venue><pages>1489-1500</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KaoudiQCPTC20</key><doi>10.1109/ICDE48307.2020.00132</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00132</ee><url>https://dblp.org/rec/conf/icde/KaoudiQCPTC20</url></info>
+<url>URL#1444893</url>
+</hit>
+<hit score="1" id="1444894">
+<info><authors><author pid="142/7802">Nikos R. Katsipoulakis</author><author pid="l/ALabrinidis">Alexandros Labrinidis</author><author pid="c/PKChrysanthis">Panos K. Chrysanthis</author></authors><title>SPEAr: Expediting Stream Processing with Accuracy Guarantees.</title><venue>ICDE</venue><pages>1105-1116</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KatsipoulakisLC20</key><doi>10.1109/ICDE48307.2020.00100</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00100</ee><url>https://dblp.org/rec/conf/icde/KatsipoulakisLC20</url></info>
+<url>URL#1444894</url>
+</hit>
+<hit score="1" id="1444895">
+<info><authors><author pid="266/6181">Basit Khurram</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>SFour: A Protocol for Cryptographically Secure Record Linkage at Scale.</title><venue>ICDE</venue><pages>277-288</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KhurramK20</key><doi>10.1109/ICDE48307.2020.00031</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00031</ee><url>https://dblp.org/rec/conf/icde/KhurramK20</url></info>
+<url>URL#1444895</url>
+</hit>
+<hit score="1" id="1444896">
+<info><authors><author pid="203/8898">Alexandra Kim</author><author pid="l/LVSLakshmanan">Laks V. S. Lakshmanan</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Summarizing Hierarchical Multidimensional Data.</title><venue>ICDE</venue><pages>877-888</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KimLS20</key><doi>10.1109/ICDE48307.2020.00081</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00081</ee><url>https://dblp.org/rec/conf/icde/KimLS20</url></info>
+<url>URL#1444896</url>
+</hit>
+<hit score="1" id="1444898">
+<info><authors><author pid="194/3967">Ios Kotsogiannis</author><author pid="211/7631">Stelios Doudalis</author><author pid="144/7700">Samuel Haney</author><author pid="m/AMachanavajjhala">Ashwin Machanavajjhala</author><author pid="m/SharadMehrotra">Sharad Mehrotra</author></authors><title>One-sided Differential Privacy.</title><venue>ICDE</venue><pages>493-504</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KotsogiannisDHM20</key><doi>10.1109/ICDE48307.2020.00049</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00049</ee><url>https://dblp.org/rec/conf/icde/KotsogiannisDHM20</url></info>
+<url>URL#1444898</url>
+</hit>
+<hit score="1" id="1444899">
+<info><authors><author pid="31/1140">Yue Kou</author><author pid="42/3190">Derong Shen</author><author pid="94/6315">Quinn Snell</author><author pid="47/4826-23">Dong Li 0023</author><author pid="60/3469">Tiezheng Nie</author><author pid="49/6363">Ge Yu 0001</author><author pid="35/6569">Shuai Ma 0001</author></authors><title>Efficient Team Formation in Social Networks based on Constrained Pattern Graph.</title><venue>ICDE</venue><pages>889-900</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KouSSLN0M20</key><doi>10.1109/ICDE48307.2020.00082</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00082</ee><url>https://dblp.org/rec/conf/icde/KouSSLN0M20</url></info>
+<url>URL#1444899</url>
+</hit>
+<hit score="1" id="1444900">
+<info><authors><author pid="k/NickKoudas">Nick Koudas</author><author pid="21/7025">Raymond Li</author><author pid="243/2451">Ioannis Xarchakos</author></authors><title>Video Monitoring Queries.</title><venue>ICDE</venue><pages>1285-1296</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KoudasLX20</key><doi>10.1109/ICDE48307.2020.00115</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00115</ee><url>https://dblp.org/rec/conf/icde/KoudasLX20</url></info>
+<url>URL#1444900</url>
+</hit>
+<hit score="1" id="1444901">
+<info><authors><author pid="164/5555">Maria Krommyda</author><author pid="k/VerenaKantere">Verena Kantere</author></authors><title>Visualization Systems for Linked Datasets.</title><venue>ICDE</venue><pages>1790-1793</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/KrommydaK20</key><doi>10.1109/ICDE48307.2020.00171</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00171</ee><url>https://dblp.org/rec/conf/icde/KrommydaK20</url></info>
+<url>URL#1444901</url>
+</hit>
+<hit score="1" id="1444902">
+<info><authors><author pid="89/10104">Jun Kuang</author><author pid="20/8038-2">Yixin Cao 0002</author><author pid="58/2566-1">Jianbing Zheng 0001</author><author pid="59/1007">Xiangnan He 0001</author><author pid="71/4173-1">Ming Gao 0001</author><author pid="z/AoyingZhou">Aoying Zhou</author></authors><title>Improving Neural Relation Extraction with Implicit Mutual Relations.</title><venue>ICDE</venue><pages>1021-1032</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Kuang0Z00Z20</key><doi>10.1109/ICDE48307.2020.00093</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00093</ee><url>https://dblp.org/rec/conf/icde/Kuang0Z00Z20</url></info>
+<url>URL#1444902</url>
+</hit>
+<hit score="1" id="1444903">
+<info><authors><author pid="189/7851">Kim-Hung Le</author><author pid="p/PaoloPapotti">Paolo Papotti</author></authors><title>User-driven Error Detection for Time Series with Events.</title><venue>ICDE</venue><pages>745-757</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LeP20</key><doi>10.1109/ICDE48307.2020.00070</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00070</ee><url>https://dblp.org/rec/conf/icde/LeP20</url></info>
+<url>URL#1444903</url>
+</hit>
+<hit score="1" id="1444904">
+<info><authors><author pid="55/948">Jong-Ryul Lee</author><author pid="c/ChinWanChung">Chin-Wan Chung</author></authors><title>Efficient Distance Sensitivity Oracles for Real-World Graph Data.</title><venue>ICDE</venue><pages>2028-2029</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LeeC20</key><doi>10.1109/ICDE48307.2020.00233</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00233</ee><url>https://dblp.org/rec/conf/icde/LeeC20</url></info>
+<url>URL#1444904</url>
+</hit>
+<hit score="1" id="1444905">
+<info><authors><author pid="266/6159">Jeongmyung Lee</author><author pid="241/4321">Seokwon Kang</author><author pid="241/4327">Yongseung Yu</author><author pid="161/9363">Yong-Yeon Jo</author><author pid="64/5810">Sang-Wook Kim</author><author pid="23/7453-1">Yongjun Park 0001</author></authors><title>Optimization of GPU-based Sparse Matrix Multiplication for Large Sparse Networks.</title><venue>ICDE</venue><pages>925-936</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LeeKYJKP20</key><doi>10.1109/ICDE48307.2020.00085</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00085</ee><url>https://dblp.org/rec/conf/icde/LeeKYJKP20</url></info>
+<url>URL#1444905</url>
+</hit>
+<hit score="1" id="1444906">
+<info><authors><author pid="203/9099">François Lévesque</author><author pid="266/6174">Marielle St-Germain</author><author pid="266/6169">Dominique Piché</author><author pid="245/5494">Jean-François Gauvin</author><author pid="71/4351">Michel Gagnon</author><author pid="17/4180">Thomas Hurtut</author></authors><title>MusX: Online Exploring and Visualizing Graph-Based Musical Adaptations.</title><venue>ICDE</venue><pages>1734-1737</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LevesqueSPGGH20</key><doi>10.1109/ICDE48307.2020.00157</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00157</ee><url>https://dblp.org/rec/conf/icde/LevesqueSPGGH20</url></info>
+<url>URL#1444906</url>
+</hit>
+<hit score="1" id="1444907">
+<info><authors><author pid="10/1749-5">Pengfei Li 0005</author><author pid="l/HuaLu">Hua Lu 0001</author><author pid="28/8138">Qian Zheng</author><author pid="11/2908">Shijian Li</author><author pid="86/4183-1">Gang Pan 0001</author></authors><title>HisRect: Features from Historical Visits and Recent Tweet for Co-Location Judgement.</title><venue>ICDE</venue><pages>2034-2035</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Li0ZL020</key><doi>10.1109/ICDE48307.2020.00236</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00236</ee><url>https://dblp.org/rec/conf/icde/Li0ZL020</url></info>
+<url>URL#1444907</url>
+</hit>
+<hit score="1" id="1444908">
+<info><authors><author pid="152/8201">Xiucheng Li</author><author pid="33/3180">Gao Cong</author><author pid="58/4223">Yun Cheng</author></authors><title>Spatial Transition Learning on Road Networks with Deep Probabilistic Models.</title><venue>ICDE</venue><pages>349-360</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiCC20</key><doi>10.1109/ICDE48307.2020.00037</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00037</ee><url>https://dblp.org/rec/conf/icde/LiCC20</url></info>
+<url>URL#1444908</url>
+</hit>
+<hit score="1" id="1444909">
+<info><authors><author pid="185/7953">Yeting Li</author><author pid="224/1601">Jialun Cao</author><author pid="75/248">Haiming Chen</author><author pid="25/2228">Tingjian Ge</author><author pid="25/9771">Zhiwu Xu 0001</author><author pid="266/6164">Qiancheng Peng</author></authors><title>FlashSchema: Achieving High Quality XML Schemas with Powerful Inference Algorithms and Large-scale Schema Data.</title><venue>ICDE</venue><pages>1962-1965</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiCCGXP20</key><doi>10.1109/ICDE48307.2020.00214</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00214</ee><url>https://dblp.org/rec/conf/icde/LiCCGXP20</url></info>
+<url>URL#1444909</url>
+</hit>
+<hit score="1" id="1444910">
+<info><authors><author pid="217/3887">Boxuan Li</author><author pid="89/2619">Reynold Cheng</author><author pid="120/1593">Jiafeng Hu</author><author pid="76/1735">Yixiang Fang</author><author pid="173/1958">Min Ou</author><author pid="55/11133">Ruibang Luo</author><author pid="c/KCCChang">Kevin Chen-Chuan Chang</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>MC-Explorer: Analyzing and Visualizing Motif-Cliques on Large Networks.</title><venue>ICDE</venue><pages>1722-1725</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiCHFOLC020</key><doi>10.1109/ICDE48307.2020.00154</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00154</ee><url>https://dblp.org/rec/conf/icde/LiCHFOLC020</url></info>
+<url>URL#1444910</url>
+</hit>
+<hit score="1" id="1444911">
+<info><authors><author pid="87/660">Yan Li</author><author pid="25/2228">Tingjian Ge</author><author pid="c/CindyXChen">Cindy X. Chen</author></authors><title>Online Indices for Predictive Top-k Entity and Aggregate Queries on Knowledge Graphs.</title><venue>ICDE</venue><pages>1057-1068</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiGC20</key><doi>10.1109/ICDE48307.2020.00096</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00096</ee><url>https://dblp.org/rec/conf/icde/LiGC20</url></info>
+<url>URL#1444911</url>
+</hit>
+<hit score="1" id="1444912">
+<info><authors><author pid="266/6211">Qifei Li</author><author pid="128/9270">Zhicong Huang</author><author pid="231/4234">Wen-jie Lu</author><author pid="78/10002">Cheng Hong</author><author pid="252/3884">Hunter Qu</author><author pid="53/1151">Hui He</author><author pid="z/WeizheZhang">Weizhe Zhang</author></authors><title>HomoPAI: A Secure Collaborative Machine Learning Platform based on Homomorphic Encryption.</title><venue>ICDE</venue><pages>1713-1717</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiHLHQHZ20</key><doi>10.1109/ICDE48307.2020.00152</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00152</ee><url>https://dblp.org/rec/conf/icde/LiHLHQHZ20</url></info>
+<url>URL#1444912</url>
+</hit>
+<hit score="1" id="1444913">
+<info><authors><author pid="157/4235">Ruiyuan Li</author><author pid="173/5864">Huajun He</author><author pid="83/6466">Rubin Wang</author><author pid="266/6138">Yuchuan Huang</author><author pid="49/9600">Junwen Liu</author><author pid="204/3375">Sijie Ruan</author><author pid="204/3378">Tianfu He</author><author pid="b/JieBao3">Jie Bao 0003</author><author pid="87/1585-4">Yu Zheng 0004</author></authors><title>JUST: JD Urban Spatio-Temporal Data Engine.</title><venue>ICDE</venue><pages>1558-1569</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiHWHLRH0020</key><doi>10.1109/ICDE48307.2020.00138</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00138</ee><url>https://dblp.org/rec/conf/icde/LiHWHLRH0020</url></info>
+<url>URL#1444913</url>
+</hit>
+<hit score="1" id="1444914">
+<info><authors><author pid="157/4235">Ruiyuan Li</author><author pid="173/5864">Huajun He</author><author pid="83/6466">Rubin Wang</author><author pid="204/3375">Sijie Ruan</author><author pid="161/7324">Yuan Sui</author><author pid="b/JieBao3">Jie Bao 0003</author><author pid="87/1585-4">Yu Zheng 0004</author></authors><title>TrajMesa: A Distributed NoSQL Storage Engine for Big Trajectory Data.</title><venue>ICDE</venue><pages>2002-2005</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiHWRSBZ20</key><doi>10.1109/ICDE48307.2020.00224</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00224</ee><url>https://dblp.org/rec/conf/icde/LiHWRSBZ20</url></info>
+<url>URL#1444914</url>
+</hit>
+<hit score="1" id="1444915">
+<info><authors><author pid="37/4190-90">Yang Li 0090</author><author pid="37/2109-3">Gang Liu 0003</author></authors><title>Area Queries Based on Voronoi Diagrams.</title><venue>ICDE</venue><pages>2064-2068</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiL20</key><doi>10.1109/ICDE48307.2020.00245</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00245</ee><url>https://dblp.org/rec/conf/icde/LiL20</url></info>
+<url>URL#1444915</url>
+</hit>
+<hit score="1" id="1444916">
+<info><authors><author pid="155/6538">Mao-Lin Li</author><author pid="155/8056">Francesco Di Mauro</author><author pid="c/KSelcukCandan">K. Selçuk Candan</author><author pid="s/MariaLuisaSapino">Maria Luisa Sapino</author></authors><title>Matrix Factorization with Interval-Valued Data.</title><venue>ICDE</venue><pages>2042-2043</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiMCS20</key><doi>10.1109/ICDE48307.2020.00240</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00240</ee><url>https://dblp.org/rec/conf/icde/LiMCS20</url></info>
+<url>URL#1444916</url>
+</hit>
+<hit score="1" id="1444917">
+<info><authors><author pid="87/3555">Pei Li</author><author pid="06/9379">Jaroslaw Szlichta</author><author pid="b/MichaelHBohlen">Michael H. Böhlen</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author></authors><title>Discovering Band Order Dependencies.</title><venue>ICDE</venue><pages>1878-1881</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiSBS20</key><doi>10.1109/ICDE48307.2020.00193</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00193</ee><url>https://dblp.org/rec/conf/icde/LiSBS20</url></info>
+<url>URL#1444917</url>
+</hit>
+<hit score="1" id="1444918">
+<info><authors><author pid="l/ZhaoLi-7">Zhao Li 0007</author><author pid="75/6206">Xin Shen</author><author pid="199/5814-1">Yuhang Jiao 0001</author><author pid="239/4399">Xuming Pan</author><author pid="64/6679">Pengcheng Zou</author><author pid="210/0500">Xianling Meng</author><author pid="90/10581">Chengwei Yao</author><author pid="50/3147">Jiajun Bu</author></authors><title>Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications.</title><venue>ICDE</venue><pages>1677-1688</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiSJPZMYB20</key><doi>10.1109/ICDE48307.2020.00149</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00149</ee><url>https://dblp.org/rec/conf/icde/LiSJPZMYB20</url></info>
+<url>URL#1444918</url>
+</hit>
+<hit score="1" id="1444919">
+<info><authors><author pid="48/10103-4">Mingjie Li 0004</author><author pid="13/6769-1">Ying Zhang 0001</author><author pid="127/6126">Yifang Sun</author><author pid="w/WeiWang11">Wei Wang 0011</author><author pid="35/5873">Ivor W. Tsang</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>I/O Efficient Approximate Nearest Neighbour Search based on Learned Functions.</title><venue>ICDE</venue><pages>289-300</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiZSWT020</key><doi>10.1109/ICDE48307.2020.00032</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00032</ee><url>https://dblp.org/rec/conf/icde/LiZSWT020</url></info>
+<url>URL#1444919</url>
+</hit>
+<hit score="1" id="1444920">
+<info><authors><author pid="20/3090-2">Qiyan Li 0002</author><author pid="14/10147">Yuanyuan Zhu</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>Skyline Cohesive Group Queries in Large Road-social Networks.</title><venue>ICDE</venue><pages>397-408</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiZY20</key><doi>10.1109/ICDE48307.2020.00041</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00041</ee><url>https://dblp.org/rec/conf/icde/LiZY20</url></info>
+<url>URL#1444920</url>
+</hit>
+<hit score="1" id="1444921">
+<info><authors><author pid="77/4552">Junli Li</author><author pid="188/1352">Chaowei Zhang</author><author pid="34/6923">Jifu Zhang</author><author pid="q/XiaoQin">Xiao Qin 0001</author></authors><title>Computing Mutual Information of Big Categorical Data and Its Application to Feature Grouping.</title><venue>ICDE</venue><pages>1946-1949</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiZZ020</key><doi>10.1109/ICDE48307.2020.00210</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00210</ee><url>https://dblp.org/rec/conf/icde/LiZZ020</url></info>
+<url>URL#1444921</url>
+</hit>
+<hit score="1" id="1444922">
+<info><authors><author pid="163/7927">Yongjiang Liang</author><author pid="87/10612">Tingting Hu</author><author pid="18/4350">Peixiang Zhao</author></authors><title>Efficient Structural Clustering in Large Uncertain Graphs.</title><venue>ICDE</venue><pages>1966-1969</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiangHZ20</key><doi>10.1109/ICDE48307.2020.00215</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00215</ee><url>https://dblp.org/rec/conf/icde/LiangHZ20</url></info>
+<url>URL#1444922</url>
+</hit>
+<hit score="1" id="1444923">
+<info><authors><author pid="45/8123">Shen Liang</author><author pid="32/2837">Yanchun Zhang</author><author pid="59/6281">Jiangang Ma</author></authors><title>Active Model Selection for Positive Unlabeled Time Series Classification.</title><venue>ICDE</venue><pages>361-372</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiangZM20</key><doi>10.1109/ICDE48307.2020.00038</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00038</ee><url>https://dblp.org/rec/conf/icde/LiangZM20</url></info>
+<url>URL#1444923</url>
+</hit>
+<hit score="1" id="1444924">
+<info><authors><author pid="242/8135">Gangmuk Lim</author><author pid="166/8411">Mohamed S. Hassan</author><author pid="169/4634">Ze Jin</author><author pid="77/11029">Stavros Volos</author><author pid="09/2790">Myeongjae Jeon</author></authors><title>Approximate Quantiles for Datacenter Telemetry Monitoring.</title><venue>ICDE</venue><pages>1914-1917</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LimHJVJ20</key><doi>10.1109/ICDE48307.2020.00202</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00202</ee><url>https://dblp.org/rec/conf/icde/LimHJVJ20</url></info>
+<url>URL#1444924</url>
+</hit>
+<hit score="1" id="1444925">
+<info><authors><author pid="43/5433">Peng Lin</author><author pid="82/5132">Qi Song</author><author pid="32/6122">Yinghui Wu</author><author pid="138/8544">Jiaxing Pi</author></authors><title>Repairing Entities using Star Constraints in Multirelational Graphs.</title><venue>ICDE</venue><pages>229-240</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LinSWP20</key><doi>10.1109/ICDE48307.2020.00027</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00027</ee><url>https://dblp.org/rec/conf/icde/LinSWP20</url></info>
+<url>URL#1444925</url>
+</hit>
+<hit score="1" id="1444926">
+<info><authors><author pid="02/10552">Yiming Lin</author><author pid="81/940">Hongzhi Wang 0001</author><author pid="18/6870-1">Jianzhong Li 0001</author><author pid="32/1438-1">Hong Gao 0001</author></authors><title>Efficient Entity Resolution on Heterogeneous Records (Extended abstract).</title><venue>ICDE</venue><pages>2074-2075</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LinW0020</key><doi>10.1109/ICDE48307.2020.9238348</doi><ee>https://doi.org/10.1109/ICDE48307.2020.9238348</ee><url>https://dblp.org/rec/conf/icde/LinW0020</url></info>
+<url>URL#1444926</url>
+</hit>
+<hit score="1" id="1444927">
+<info><authors><author pid="149/8713">Dandan Lin</author><author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author><author pid="36/844">Min Xie</author><author pid="199/6298">Victor Junqiu Wei</author></authors><title>Index-Free Approach with Theoretical Guarantee for Efficient Random Walk with Restart Query.</title><venue>ICDE</venue><pages>913-924</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LinWXW20</key><doi>10.1109/ICDE48307.2020.00084</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00084</ee><url>https://dblp.org/rec/conf/icde/LinWXW20</url></info>
+<url>URL#1444927</url>
+</hit>
+<hit score="1" id="1444928">
+<info><authors><author pid="79/3108-2">Qian Lin 0002</author><author pid="81/11242-3">Kaiyuan Yang 0003</author><author pid="24/1541">Tien Tuan Anh Dinh</author><author pid="25/5210">Qingchao Cai</author><author pid="67/6383-1">Gang Chen 0001</author><author pid="o/BengChinOoi">Beng Chin Ooi</author><author pid="194/4648">Pingcheng Ruan</author><author pid="85/1868-11">Sheng Wang 0011</author><author pid="169/3419">Zhongle Xie</author><author pid="08/7259">Meihui Zhang 0001</author><author pid="263/1945">Olafs Vandans</author></authors><title>ForkBase: Immutable, Tamper-evident Storage Substrate for Branchable Applications.</title><venue>ICDE</venue><pages>1718-1721</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LinYDCCORWXZV20</key><doi>10.1109/ICDE48307.2020.00153</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00153</ee><url>https://dblp.org/rec/conf/icde/LinYDCCORWXZV20</url></info>
+<url>URL#1444928</url>
+</hit>
+<hit score="1" id="1444930">
+<info><authors><author pid="155/1107">Yiding Liu</author><author pid="127/6172-1">Kaiqi Zhao 0001</author><author pid="33/3180">Gao Cong</author><author pid="20/3716">Zhifeng Bao</author></authors><title>Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling.</title><venue>ICDE</venue><pages>949-960</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Liu0CB20</key><doi>10.1109/ICDE48307.2020.00087</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00087</ee><url>https://dblp.org/rec/conf/icde/Liu0CB20</url></info>
+<url>URL#1444930</url>
+</hit>
+<hit score="1" id="1444931">
+<info><authors><author pid="85/7672-3">Tiantian Liu 0003</author><author pid="228/6063">Zijin Feng</author><author pid="55/2893-3">Huan Li 0003</author><author pid="l/HuaLu">Hua Lu 0001</author><author pid="55/5690">Muhammad Aamir Cheema</author><author pid="85/5637-1">Hong Cheng 0001</author><author pid="x/JianliangXu">Jianliang Xu</author></authors><title>Shortest Path Queries for Indoor Venues with Temporal Variations.</title><venue>ICDE</venue><pages>2014-2017</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuFLLCCX20</key><doi>10.1109/ICDE48307.2020.00227</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00227</ee><url>https://dblp.org/rec/conf/icde/LiuFLLCCX20</url></info>
+<url>URL#1444931</url>
+</hit>
+<hit score="1" id="1444932">
+<info><authors><author pid="124/2048">Zhidan Liu 0001</author><author pid="266/6203">Zengyang Gong</author><author pid="205/8034">Jiangzhou Li</author><author pid="34/4445">Kaishun Wu</author></authors><title>Mobility-Aware Dynamic Taxi Ridesharing.</title><venue>ICDE</venue><pages>961-972</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuGLW20</key><doi>10.1109/ICDE48307.2020.00088</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00088</ee><url>https://dblp.org/rec/conf/icde/LiuGLW20</url></info>
+<url>URL#1444932</url>
+</hit>
+<hit score="1" id="1444933">
+<info><authors><author pid="239/4479">Jiaye Liu</author><author pid="04/7600">Jiali Mao</author><author pid="266/6208">Jiajun Liao</author><author pid="137/1395">Huiqi Hu</author><author pid="00/952">Ye Guo</author><author pid="z/AoyingZhou">Aoying Zhou</author></authors><title>SCLPD: Smart Cargo Loading Plan Decision Framework.</title><venue>ICDE</venue><pages>1758-1761</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuMLHGZ20</key><doi>10.1109/ICDE48307.2020.00163</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00163</ee><url>https://dblp.org/rec/conf/icde/LiuMLHGZ20</url></info>
+<url>URL#1444933</url>
+</hit>
+<hit score="1" id="1444934">
+<info><authors><author pid="209/2298">Qiyu Liu</author><author pid="200/2467">Libin Zheng</author><author pid="c/LeiChen0002">Lei Chen 0002</author></authors><title>RIDE: A System for Generalized Region of Interest Discovery and Exploration.</title><venue>ICDE</venue><pages>1738-1741</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuZC20</key><doi>10.1109/ICDE48307.2020.00158</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00158</ee><url>https://dblp.org/rec/conf/icde/LiuZC20</url></info>
+<url>URL#1444934</url>
+</hit>
+<hit score="1" id="1444935">
+<info><authors><author pid="45/4723">Chi Harold Liu</author><author pid="266/6179">Yinuo Zhao</author><author pid="266/6184">Zipeng Dai</author><author pid="33/6315-1">Ye Yuan 0001</author><author pid="64/146">Guoren Wang</author><author pid="88/1600">Dapeng Wu 0001</author><author pid="04/2707">Kin K. Leung</author></authors><title>Curiosity-Driven Energy-Efficient Worker Scheduling in Vehicular Crowdsourcing: A Deep Reinforcement Learning Approach.</title><venue>ICDE</venue><pages>25-36</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuZDYW0L20</key><doi>10.1109/ICDE48307.2020.00010</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00010</ee><url>https://dblp.org/rec/conf/icde/LiuZDYW0L20</url></info>
+<url>URL#1444935</url>
+</hit>
+<hit score="1" id="1444936">
+<info><authors><author pid="236/6028">Jingping Liu</author><author pid="266/6135">Yuanfu Zhou</author><author pid="19/5635">Dan Wu</author><author pid="188/7759-95">Chao Wang 0095</author><author pid="225/7003">Haiyun Jiang</author><author pid="69/6137-27">Sheng Zhang 0027</author><author pid="26/1194-23">Bo Xu 0023</author><author pid="96/999">Yanghua Xiao</author></authors><title>Mining Verb-Oriented Commonsense Knowledge.</title><venue>ICDE</venue><pages>1830-1833</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuZWWJZXX20</key><doi>10.1109/ICDE48307.2020.00181</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00181</ee><url>https://dblp.org/rec/conf/icde/LiuZWWJZXX20</url></info>
+<url>URL#1444936</url>
+</hit>
+<hit score="1" id="1444937">
+<info><authors><author pid="53/4481-8">Qing Liu 0008</author><author pid="94/1593">Yifan Zhu</author><author pid="226/3716">Minjun Zhao</author><author pid="98/5766-1">Xin Huang 0001</author><author pid="x/JianliangXu">Jianliang Xu</author><author pid="80/2651">Yunjun Gao</author></authors><title>VAC: Vertex-Centric Attributed Community Search.</title><venue>ICDE</venue><pages>937-948</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LiuZZHXG20</key><doi>10.1109/ICDE48307.2020.00086</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00086</ee><url>https://dblp.org/rec/conf/icde/LiuZZHXG20</url></info>
+<url>URL#1444937</url>
+</hit>
+<hit score="1" id="1444938">
+<info><authors><author pid="223/5242">Kejing Lu</author><author pid="36/1300">Mineichi Kudo</author></authors><title>R2LSH: A Nearest Neighbor Search Scheme Based on Two-dimensional Projected Spaces.</title><venue>ICDE</venue><pages>1045-1056</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LuK20</key><doi>10.1109/ICDE48307.2020.00095</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00095</ee><url>https://dblp.org/rec/conf/icde/LuK20</url></info>
+<url>URL#1444938</url>
+</hit>
+<hit score="1" id="1444940">
+<info><authors><author pid="60/10805">Petr Lukás</author><author pid="05/5698">Radim Baca</author><author pid="37/1317">Michal Krátký</author><author pid="l/TokWangLing">Tok Wang Ling</author></authors><title>Demythization of Structural XML Query Processing: Comparison of Holistic and Binary Approaches (Extended Abstract).</title><venue>ICDE</venue><pages>2030-2031</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LukasBKL20</key><doi>10.1109/ICDE48307.2020.00234</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00234</ee><url>https://dblp.org/rec/conf/icde/LukasBKL20</url></info>
+<url>URL#1444940</url>
+</hit>
+<hit score="1" id="1444941">
+<info><authors><author pid="239/4421">Jiehuan Luo</author><author pid="77/2970-1">Xin Cao 0001</author><author pid="64/1308">Xike Xie</author><author pid="92/5150">Qiang Qu</author><author pid="72/51">Zhiqiang Xu</author><author pid="j/ChristianSJensen">Christian S. Jensen</author></authors><title>Efficient Attribute-Constrained Co-Located Community Search.</title><venue>ICDE</venue><pages>1201-1212</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Luo0XQXJ20</key><doi>10.1109/ICDE48307.2020.00108</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00108</ee><url>https://dblp.org/rec/conf/icde/Luo0XQXJ20</url></info>
+<url>URL#1444941</url>
+</hit>
+<hit score="1" id="1444942">
+<info><authors><author pid="185/9921">Yuyu Luo</author><author pid="181/5689">Chengliang Chai</author><author pid="216/4931">Xuedi Qin</author><author pid="27/104-1">Nan Tang 0001</author><author pid="l/GuoliangLi">Guoliang Li 0001</author></authors><title>Interactive Cleaning for Progressive Visualization through Composite Questions.</title><venue>ICDE</venue><pages>733-744</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LuoCQ0020</key><doi>10.1109/ICDE48307.2020.00069</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00069</ee><url>https://dblp.org/rec/conf/icde/LuoCQ0020</url></info>
+<url>URL#1444942</url>
+</hit>
+<hit score="1" id="1444943">
+<info><authors><author pid="228/4094">Khanh Luong</author><author pid="99/1071">Richi Nayak</author></authors><title>A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering.</title><venue>ICDE</venue><pages>865-876</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/LuongN20</key><doi>10.1109/ICDE48307.2020.00080</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00080</ee><url>https://dblp.org/rec/conf/icde/LuongN20</url></info>
+<url>URL#1444943</url>
+</hit>
+<hit score="1" id="1444944">
+<info><authors><author pid="196/8838">Shagufta Mehnaz</author><author pid="b/ElisaBertino">Elisa Bertino</author></authors><title>Privacy-preserving Real-time Anomaly Detection Using Edge Computing.</title><venue>ICDE</venue><pages>469-480</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MehnazB20</key><doi>10.1109/ICDE48307.2020.00047</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00047</ee><url>https://dblp.org/rec/conf/icde/MehnazB20</url></info>
+<url>URL#1444944</url>
+</hit>
+<hit score="1" id="1444945">
+<info><authors><author pid="192/2090">Parmita Mehta</author><author pid="259/2372">Stephen Portillo</author><author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author><author pid="117/4231">Andrew J. Connolly</author></authors><title>Toward Sampling for Deep Learning Model Diagnosis.</title><venue>ICDE</venue><pages>1910-1913</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MehtaPBC20</key><doi>10.1109/ICDE48307.2020.00201</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00201</ee><url>https://dblp.org/rec/conf/icde/MehtaPBC20</url></info>
+<url>URL#1444945</url>
+</hit>
+<hit score="1" id="1444946">
+<info><authors><author pid="67/797">Yuan Mei</author><author pid="43/10334">Luwei Cheng</author><author pid="59/3510">Vanish Talwar</author><author pid="17/6092">Michael Y. Levin</author><author pid="j/GabrielaJacquesSilva">Gabriela Jacques-Silva</author><author pid="181/5701">Nikhil Simha</author><author pid="68/5005">Anirban Banerjee</author><author pid="98/5275">Brian Smith</author><author pid="181/5778">Tim Williamson</author><author pid="25/7428">Serhat Yilmaz</author><author pid="76/6121">Weitao Chen</author><author pid="116/2698">Guoqiang Jerry Chen</author></authors><title>Turbine: Facebook&apos;s Service Management Platform for Stream Processing.</title><venue>ICDE</venue><pages>1591-1602</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MeiCTLJSBSWYCC20</key><doi>10.1109/ICDE48307.2020.00141</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00141</ee><url>https://dblp.org/rec/conf/icde/MeiCTLJSBSWYCC20</url></info>
+<url>URL#1444946</url>
+</hit>
+<hit score="1" id="1444947">
+<info><authors><author pid="222/8133">Puya Memarzia</author><author pid="19/5099">Suprio Ray</author><author pid="24/5532">Virendra C. Bhavsar</author></authors><title>The Art of Efficient In-memory Query Processing on NUMA Systems: a Systematic Approach.</title><venue>ICDE</venue><pages>781-792</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MemarziaRB20</key><doi>10.1109/ICDE48307.2020.00073</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00073</ee><url>https://dblp.org/rec/conf/icde/MemarziaRB20</url></info>
+<url>URL#1444947</url>
+</hit>
+<hit score="1" id="1444948">
+<info><authors><author pid="127/6120">Xiaoye Miao</author><author pid="80/2651">Yunjun Gao</author><author pid="51/6331">Su Guo</author><author pid="69/157-1">Lu Chen 0001</author><author pid="74/3786">Jianwei Yin</author><author pid="181/2689-1">Qing Li 0001</author></authors><title>Answering Skyline Queries over Incomplete Data with Crowdsourcing(Extended Abstract).</title><venue>ICDE</venue><pages>2032-2033</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MiaoGGCYL20</key><doi>10.1109/ICDE48307.2020.00235</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00235</ee><url>https://dblp.org/rec/conf/icde/MiaoGGCYL20</url></info>
+<url>URL#1444948</url>
+</hit>
+<hit score="1" id="1444949">
+<info><authors><author pid="m/TovaMilo">Tova Milo</author><author pid="135/4661">Yuval Moskovitch</author><author pid="185/4349">Brit Youngmann</author></authors><title>Contribution Maximization in Probabilistic Datalog.</title><venue>ICDE</venue><pages>817-828</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MiloMY20</key><doi>10.1109/ICDE48307.2020.00076</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00076</ee><url>https://dblp.org/rec/conf/icde/MiloMY20</url></info>
+<url>URL#1444949</url>
+</hit>
+<hit score="1" id="1444950">
+<info><authors><author pid="117/8839">Yvonne Mülle</author><author pid="b/MichaelHBohlen">Michael H. Böhlen</author></authors><title>Query Results over Ongoing Databases that Remain Valid as Time Passes By.</title><venue>ICDE</venue><pages>1429-1440</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/MulleB20</key><doi>10.1109/ICDE48307.2020.00127</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00127</ee><url>https://dblp.org/rec/conf/icde/MulleB20</url></info>
+<url>URL#1444950</url>
+</hit>
+<hit score="1" id="1444951">
+<info><authors><author pid="137/8618">Mohammad Hossein Namaki</author><author pid="76/1584">Xin Zhang</author><author pid="266/6163">Sukhjinder Singh</author><author pid="266/6111">Arman Ahmed</author><author pid="266/6110">Armina Foroutan</author><author pid="32/6122">Yinghui Wu</author><author pid="122/9959">Anurag K. Srivastava 0001</author><author pid="191/6758">Anton Kocheturov</author></authors><title>Kronos: Lightweight Knowledge-based Event Analysis in Cyber-Physical Data Streams.</title><venue>ICDE</venue><pages>1766-1769</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/NamakiZSAFWSK20</key><doi>10.1109/ICDE48307.2020.00165</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00165</ee><url>https://dblp.org/rec/conf/icde/NamakiZSAFWSK20</url></info>
+<url>URL#1444951</url>
+</hit>
+<hit score="1" id="1444953">
+<info><authors><author pid="179/8635">Trong Duc Nguyen</author><author pid="26/7472">Ming-Hung Shih</author><author pid="248/7616">Sai Sree Parvathaneni</author><author pid="51/516">Bojian Xu</author><author pid="s/DiveshSrivastava">Divesh Srivastava</author><author pid="40/3710">Srikanta Tirthapura</author></authors><title>Random Sampling for Group-By Queries.</title><venue>ICDE</venue><pages>541-552</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/NguyenSPXST20</key><doi>10.1109/ICDE48307.2020.00053</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00053</ee><url>https://dblp.org/rec/conf/icde/NguyenSPXST20</url></info>
+<url>URL#1444953</url>
+</hit>
+<hit score="1" id="1444954">
+<info><authors><author pid="260/6910">Wangze Ni</author><author pid="76/185-3">Peng Cheng 0003</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>Task Allocation in Dependency-aware Spatial Crowdsourcing.</title><venue>ICDE</venue><pages>985-996</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/NiCC020</key><doi>10.1109/ICDE48307.2020.00090</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00090</ee><url>https://dblp.org/rec/conf/icde/NiCC020</url></info>
+<url>URL#1444954</url>
+</hit>
+<hit score="1" id="1444955">
+<info><authors><author pid="176/5779">Chaoyue Niu</author><author pid="132/8083">Zhenzhe Zheng</author><author pid="07/6378-6">Fan Wu 0006</author><author pid="68/3428">Shaojie Tang</author><author pid="51/1742">Guihai Chen</author></authors><title>Online Pricing with Reserve Price Constraint for Personal Data Markets.</title><venue>ICDE</venue><pages>1978-1981</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/NiuZWTC20</key><doi>10.1109/ICDE48307.2020.00218</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00218</ee><url>https://dblp.org/rec/conf/icde/NiuZWTC20</url></info>
+<url>URL#1444955</url>
+</hit>
+<hit score="1" id="1444956">
+<info><authors><author pid="266/6102">Sehyeon Oh</author><author pid="144/6293">Wook-Hee Kim</author><author pid="198/2446">Jihye Seo</author><author pid="146/1664">Hyeonho Song</author><author pid="81/970">Sam H. Noh</author><author pid="39/6491">Beomseok Nam</author></authors><title>Doubleheader Logging: Eliminating Journal Write Overhead for Mobile DBMS.</title><venue>ICDE</venue><pages>1237-1248</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/OhKSSNN20</key><doi>10.1109/ICDE48307.2020.00111</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00111</ee><url>https://dblp.org/rec/conf/icde/OhKSSNN20</url></info>
+<url>URL#1444956</url>
+</hit>
+<hit score="1" id="1444959">
+<info><authors><author pid="266/6154">Simon Aagaard Pedersen</author><author pid="77/377-2">Bin Yang 0002</author><author pid="j/ChristianSJensen">Christian S. Jensen</author></authors><title>A Hybrid Learning Approach to Stochastic Routing.</title><venue>ICDE</venue><pages>1910-1913</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Pedersen0J20</key><doi>10.1109/ICDE48307.2020.00226</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00226</ee><url>https://dblp.org/rec/conf/icde/Pedersen0J20</url></info>
+<url>URL#1444959</url>
+</hit>
+<hit score="1" id="1444960">
+<info><authors><author pid="266/6165">Sukhada Pendse</author><author pid="185/0763">Vasudha Krishnaswamy</author><author pid="156/5458">Kartik Kulkarni</author><author pid="93/1581">Yunrui Li</author><author pid="46/49">Tirthankar Lahiri</author><author pid="163/4000">Vivekanandhan Raja</author><author pid="15/2171">Jing Zheng</author><author pid="58/1306">Mahesh Girkar</author><author pid="238/2295">Akshay Kulkarni</author></authors><title>Oracle Database In-Memory on Active Data Guard: Real-time Analytics on a Standby Database.</title><venue>ICDE</venue><pages>1570-1578</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PendseKKLLRZGK20</key><doi>10.1109/ICDE48307.2020.00139</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00139</ee><url>https://dblp.org/rec/conf/icde/PendseKKLLRZGK20</url></info>
+<url>URL#1444960</url>
+</hit>
+<hit score="1" id="1444961">
+<info><authors><author pid="234/3016">Botao Peng</author></authors><title>Data Series Indexing Gone Parallel.</title><venue>ICDE</venue><pages>2059-2063</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Peng20</key><doi>10.1109/ICDE48307.2020.00244</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00244</ee><url>https://dblp.org/rec/conf/icde/Peng20</url></info>
+<url>URL#1444961</url>
+</hit>
+<hit score="1" id="1444962">
+<info><authors><author pid="234/3016">Botao Peng</author><author pid="44/61">Panagiota Fatourou</author><author pid="p/ThemisPalpanas">Themis Palpanas</author></authors><title>MESSI: In-Memory Data Series Indexing.</title><venue>ICDE</venue><pages>337-348</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PengFP20</key><doi>10.1109/ICDE48307.2020.00036</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00036</ee><url>https://dblp.org/rec/conf/icde/PengFP20</url></info>
+<url>URL#1444962</url>
+</hit>
+<hit score="1" id="1444963">
+<info><authors><author pid="86/8030">Andreas Pfadler</author><author pid="15/3548">Huan Zhao</author><author pid="59/6882">Jizhe Wang</author><author pid="82/6720">Lifeng Wang</author><author pid="24/8460">Pipei Huang</author><author pid="l/DikLunLee">Dik Lun Lee</author></authors><title>Billion-scale Recommendation with Heterogeneous Side Information at Taobao.</title><venue>ICDE</venue><pages>1667-1676</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/PfadlerZWWHL20</key><doi>10.1109/ICDE48307.2020.00148</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00148</ee><url>https://dblp.org/rec/conf/icde/PfadlerZWWHL20</url></info>
+<url>URL#1444963</url>
+</hit>
+<hit score="1" id="1444964">
+<info><authors><author pid="24/4160">Xiaodong Qi</author><author pid="87/6853-9">Zhao Zhang 0009</author><author pid="41/2511">Cheqing Jin</author><author pid="z/AoyingZhou">Aoying Zhou</author></authors><title>BFT-Store: Storage Partition for Permissioned Blockchain via Erasure Coding.</title><venue>ICDE</venue><pages>1926-1929</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/QiZJZ20</key><doi>10.1109/ICDE48307.2020.00205</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00205</ee><url>https://dblp.org/rec/conf/icde/QiZJZ20</url></info>
+<url>URL#1444964</url>
+</hit>
+<hit score="1" id="1444965">
+<info><authors><author pid="200/8215">Yifan Qiao</author></authors><title>Design of Database Systems with DRAM-only Heterogeneous Memory Architecture.</title><venue>ICDE</venue><pages>2054-2058</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Qiao20</key><doi>10.1109/ICDE48307.2020.00243</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00243</ee><url>https://dblp.org/rec/conf/icde/Qiao20</url></info>
+<url>URL#1444965</url>
+</hit>
+<hit score="1" id="1444967">
+<info><authors><author pid="16/8981">Ibrahim Sabek</author><author pid="94/5893">Mohamed F. Mokbel</author></authors><title>Sya: Enabling Spatial Awareness inside Probabilistic Knowledge Base Construction.</title><venue>ICDE</venue><pages>1177-1188</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SabekM20</key><doi>10.1109/ICDE48307.2020.00106</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00106</ee><url>https://dblp.org/rec/conf/icde/SabekM20</url></info>
+<url>URL#1444967</url>
+</hit>
+<hit score="1" id="1444968">
+<info><authors><author pid="16/8981">Ibrahim Sabek</author><author pid="94/5893">Mohamed F. Mokbel</author></authors><title>Machine Learning Meets Big Spatial Data.</title><venue>ICDE</venue><pages>1782-1785</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SabekM20a</key><doi>10.1109/ICDE48307.2020.00169</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00169</ee><url>https://dblp.org/rec/conf/icde/SabekM20a</url></info>
+<url>URL#1444968</url>
+</hit>
+<hit score="1" id="1444970">
+<info><authors><author pid="224/7470">Fotis Savva</author><author pid="07/5736">Christos Anagnostopoulos</author><author pid="t/PeterTriantafillou">Peter Triantafillou</author></authors><title>SuRF: Identification of Interesting Data Regions with Surrogate Models.</title><venue>ICDE</venue><pages>1321-1332</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SavvaAT20</key><doi>10.1109/ICDE48307.2020.00118</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00118</ee><url>https://dblp.org/rec/conf/icde/SavvaAT20</url></info>
+<url>URL#1444970</url>
+</hit>
+<hit score="1" id="1444971">
+<info><authors><author pid="261/1970">Nico Schäfer</author><author pid="m/SebastianMichel">Sebastian Michel 0001</author></authors><title>JODA: A Vertically Scalable, Lightweight JSON Processor for Big Data Transformations.</title><venue>ICDE</venue><pages>1726-1729</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Schafer020</key><doi>10.1109/ICDE48307.2020.00155</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00155</ee><url>https://dblp.org/rec/conf/icde/Schafer020</url></info>
+<url>URL#1444971</url>
+</hit>
+<hit score="1" id="1444972">
+<info><authors><author pid="193/1652">Caihua Shan</author><author pid="34/6253">Nikos Mamoulis</author><author pid="89/2619">Reynold Cheng</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="40/1491-67">Xiang Li 0067</author><author pid="147/1552">Yuqiu Qian</author></authors><title>An End-to-End Deep RL Framework for Task Arrangement in Crowdsourcing Platforms.</title><venue>ICDE</venue><pages>49-60</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ShanMC0LQ20</key><doi>10.1109/ICDE48307.2020.00012</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00012</ee><url>https://dblp.org/rec/conf/icde/ShanMC0LQ20</url></info>
+<url>URL#1444972</url>
+</hit>
+<hit score="1" id="1444975">
+<info><authors><author pid="187/3029">Hongzhi Shi</author><author pid="158/1014">Quanming Yao</author><author pid="67/398">Qi Guo</author><author pid="123/7416">Yaguang Li</author><author pid="35/10185-1">Lingyu Zhang 0001</author><author pid="03/5454">Jieping Ye</author><author pid="93/2334-8">Yong Li 0008</author><author pid="l/YanLiu2">Yan Liu 0002</author></authors><title>Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network.</title><venue>ICDE</venue><pages>1818-1821</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ShiYGLZYLL20</key><doi>10.1109/ICDE48307.2020.00178</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00178</ee><url>https://dblp.org/rec/conf/icde/ShiYGLZYLL20</url></info>
+<url>URL#1444975</url>
+</hit>
+<hit score="1" id="1444976">
+<info><authors><author pid="85/5317">Xuanhua Shi</author><author pid="155/6855">Yipeng Zhang</author><author pid="74/3859-1">Hong Huang 0001</author><author pid="30/8493">Zhenyu Hu</author><author pid="98/4156">Hai Jin 0001</author><author pid="88/7483">Huan Shen</author><author pid="z/YongluanZhou">Yongluan Zhou</author><author pid="h/BingshengHe">Bingsheng He</author><author pid="189/3260">Ruibo Li</author><author pid="11/11470">Keyong Zhou</author></authors><title>Maxson: Reduce Duplicate Parsing Overhead on Raw Data.</title><venue>ICDE</venue><pages>1621-1632</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ShiZHH0SZHLZ20</key><doi>10.1109/ICDE48307.2020.00144</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00144</ee><url>https://dblp.org/rec/conf/icde/ShiZHH0SZHLZ20</url></info>
+<url>URL#1444976</url>
+</hit>
+<hit score="1" id="1444977">
+<info><authors><author pid="260/0031">Qitao Shi</author><author pid="204/2994">Ya-Lin Zhang</author><author pid="139/8073">Longfei Li</author><author pid="89/3450">Xinxing Yang</author><author pid="70/1726">Meng Li</author><author pid="99/3847-11">Jun Zhou 0011</author></authors><title>SAFE: Scalable Automatic Feature Engineering Framework for Industrial Tasks.</title><venue>ICDE</venue><pages>1645-1656</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ShiZLYLZ20</key><doi>10.1109/ICDE48307.2020.00146</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00146</ee><url>https://dblp.org/rec/conf/icde/ShiZLYLZ20</url></info>
+<url>URL#1444977</url>
+</hit>
+<hit score="1" id="1444978">
+<info><authors><author pid="210/0935">Junshuai Song</author><author pid="l/ZhaoLi-7">Zhao Li 0007</author><author pid="178/8609">Zehong Hu</author><author pid="81/10674">Yucheng Wu</author><author pid="54/10066">Zhenpeng Li</author><author pid="33/5448">Jian Li</author><author pid="82/4977-3">Jun Gao 0003</author></authors><title>PoisonRec: An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems.</title><venue>ICDE</venue><pages>157-168</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SongLHWLLG20</key><doi>10.1109/ICDE48307.2020.00021</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00021</ee><url>https://dblp.org/rec/conf/icde/SongLHWLLG20</url></info>
+<url>URL#1444978</url>
+</hit>
+<hit score="1" id="1444979">
+<info><authors><author pid="169/1750">Chonggang Song</author><author pid="79/3108-2">Qian Lin 0002</author><author pid="196/4279">Guohui Ling</author><author pid="120/2057">Zongyi Zhang</author><author pid="178/0514">Hongzhao Chen</author><author pid="88/3619">Jun Liao</author><author pid="03/1359">Chuan Chen</author></authors><title>LoCEC: Local Community-based Edge Classification in Large Online Social Networks.</title><venue>ICDE</venue><pages>1689-1700</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SongLLZCLC20</key><doi>10.1109/ICDE48307.2020.00150</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00150</ee><url>https://dblp.org/rec/conf/icde/SongLLZCLC20</url></info>
+<url>URL#1444979</url>
+</hit>
+<hit score="1" id="1444980">
+<info><authors><author pid="150/3864">Guohao Sun</author><author pid="01/1235-1">Guanfeng Liu 0001</author><author pid="59/2227-2">Yan Wang 0002</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author></authors><title>Updates-Aware Graph Pattern based Node Matching.</title><venue>ICDE</venue><pages>697-708</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Sun0W020</key><doi>10.1109/ICDE48307.2020.00066</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00066</ee><url>https://dblp.org/rec/conf/icde/Sun0W020</url></info>
+<url>URL#1444980</url>
+</hit>
+<hit score="1" id="1444981">
+<info><authors><author pid="62/3689">Yu Sun</author><author pid="20/3883">Shaoxu Song</author><author pid="82/4206-18">Chen Wang 0018</author><author pid="06/3456-1">Jianmin Wang 0001</author></authors><title>Swapping Repair for Misplaced Attribute Values.</title><venue>ICDE</venue><pages>721-732</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SunSW020</key><doi>10.1109/ICDE48307.2020.00068</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00068</ee><url>https://dblp.org/rec/conf/icde/SunSW020</url></info>
+<url>URL#1444981</url>
+</hit>
+<hit score="1" id="1444982">
+<info><authors><author pid="117/5602-3">Xuan Sun 0003</author><author pid="229/3006">Jinghuan Yu</author><author pid="160/1659">Zimeng Zhou</author><author pid="x/ChunJasonXue">Chun Jason Xue</author></authors><title>FPGA-based Compaction Engine for Accelerating LSM-tree Key-Value Stores.</title><venue>ICDE</venue><pages>1261-1272</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SunYZX20</key><doi>10.1109/ICDE48307.2020.00113</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00113</ee><url>https://dblp.org/rec/conf/icde/SunYZX20</url></info>
+<url>URL#1444982</url>
+</hit>
+<hit score="1" id="1444983">
+<info><authors><author pid="182/0517">Arun Swami</author><author pid="179/3177">Sriram Vasudevan</author><author pid="210/3392">Joojay Huyn</author></authors><title>Data Sentinel: A Declarative Production-Scale Data Validation Platform.</title><venue>ICDE</venue><pages>1579-1590</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/SwamiVH20</key><doi>10.1109/ICDE48307.2020.00140</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00140</ee><url>https://dblp.org/rec/conf/icde/SwamiVH20</url></info>
+<url>URL#1444983</url>
+</hit>
+<hit score="1" id="1444984">
+<info><authors><author pid="172/2738">Yuechen Tao</author><author pid="50/3402-1">Bo Li 0001</author><author pid="127/2907">Jingjie Jiang</author><author pid="266/6215">Hok Chu Ng</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="l/BaochunLi">Baochun Li</author></authors><title>On Sharding Open Blockchains with Smart Contracts.</title><venue>ICDE</venue><pages>1357-1368</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TaoLJNWL20</key><doi>10.1109/ICDE48307.2020.00121</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00121</ee><url>https://dblp.org/rec/conf/icde/TaoLJNWL20</url></info>
+<url>URL#1444984</url>
+</hit>
+<hit score="1" id="1444985">
+<info><authors><author pid="18/665">Qian Tao</author><author pid="83/2548">Yongxin Tong</author><author pid="133/3824">Zimu Zhou</author><author pid="242/5177">Yexuan Shi</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="x/KeXu">Ke Xu 0001</author></authors><title>Differentially Private Online Task Assignment in Spatial Crowdsourcing: A Tree-based Approach.</title><venue>ICDE</venue><pages>517-528</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TaoTZSC020</key><doi>10.1109/ICDE48307.2020.00051</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00051</ee><url>https://dblp.org/rec/conf/icde/TaoTZSC020</url></info>
+<url>URL#1444985</url>
+</hit>
+<hit score="1" id="1444986">
+<info><authors><author pid="71/11239">Sin G. Teo</author><author pid="13/2139">Jianneng Cao</author><author pid="50/10222">Vincent C. S. Lee</author></authors><title>DAG: A General Model for Privacy-Preserving Data Mining : (Extended Abstract).</title><venue>ICDE</venue><pages>2018-2019</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TeoCL20</key><doi>10.1109/ICDE48307.2020.00228</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00228</ee><url>https://dblp.org/rec/conf/icde/TeoCL20</url></info>
+<url>URL#1444986</url>
+</hit>
+<hit score="1" id="1444987">
+<info><authors><author pid="57/10514">Saravanan Thirumuruganathan</author><author pid="204/3637">Shohedul Hasan</author><author pid="k/NickKoudas">Nick Koudas</author><author pid="07/1181">Gautam Das 0001</author></authors><title>Approximate Query Processing for Data Exploration using Deep Generative Models.</title><venue>ICDE</venue><pages>1309-1320</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Thirumuruganathan20</key><doi>10.1109/ICDE48307.2020.00117</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00117</ee><url>https://dblp.org/rec/conf/icde/Thirumuruganathan20</url></info>
+<url>URL#1444987</url>
+</hit>
+<hit score="1" id="1444989">
+<info><authors><author pid="48/6542">Joana M. F. da Trindade</author><author pid="59/7992">Konstantinos Karanasos</author><author pid="c/CarloCurino">Carlo Curino</author><author pid="m/SamuelMadden">Samuel Madden 0001</author><author pid="82/9876">Julian Shun</author></authors><title>Kaskade: Graph Views for Efficient Graph Analytics.</title><venue>ICDE</venue><pages>193-204</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/TrindadeKCMS20</key><doi>10.1109/ICDE48307.2020.00024</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00024</ee><url>https://dblp.org/rec/conf/icde/TrindadeKCMS20</url></info>
+<url>URL#1444989</url>
+</hit>
+<hit score="1" id="1444990">
+<info><authors><author pid="43/11499">Kazutoshi Umemoto</author><author pid="m/TovaMilo">Tova Milo</author><author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author></authors><title>Toward Recommendation for Upskilling: Modeling Skill Improvement and Item Difficulty in Action Sequences.</title><venue>ICDE</venue><pages>169-180</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/UmemotoMK20</key><doi>10.1109/ICDE48307.2020.00022</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00022</ee><url>https://dblp.org/rec/conf/icde/UmemotoMK20</url></info>
+<url>URL#1444990</url>
+</hit>
+<hit score="1" id="1444991">
+<info><authors><author pid="13/7048">Sebastián Villarroya</author><author pid="b/PBaumann">Peter Baumann 0001</author></authors><title>On the Integration of Machine Learning and Array Databases.</title><venue>ICDE</venue><pages>1786-1789</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Villarroya020</key><doi>10.1109/ICDE48307.2020.00170</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00170</ee><url>https://dblp.org/rec/conf/icde/Villarroya020</url></info>
+<url>URL#1444991</url>
+</hit>
+<hit score="1" id="1444993">
+<info><authors><author pid="78/2022-37">Kai Wang 0037</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="51/5585">Lu Qin 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="13/6769-1">Ying Zhang 0001</author></authors><title>Efficient Bitruss Decomposition for Large-scale Bipartite Graphs.</title><venue>ICDE</venue><pages>661-672</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Wang0Q0020</key><doi>10.1109/ICDE48307.2020.00063</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00063</ee><url>https://dblp.org/rec/conf/icde/Wang0Q0020</url></info>
+<url>URL#1444993</url>
+</hit>
+<hit score="1" id="1444994">
+<info><authors><author pid="219/9698">TaiNing Wang</author><author pid="c/CheeYongChan">Chee-Yong Chan</author></authors><title>Improved Correlated Sampling for Join Size Estimation.</title><venue>ICDE</venue><pages>325-336</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangC20</key><doi>10.1109/ICDE48307.2020.00035</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00035</ee><url>https://dblp.org/rec/conf/icde/WangC20</url></info>
+<url>URL#1444994</url>
+</hit>
+<hit score="1" id="1444995">
+<info><authors><author pid="92/1375-7">Jin Wang 0007</author><author pid="82/11411">Chunbin Lin</author></authors><title>Fast Error-tolerant Location-aware Query Autocompletion.</title><venue>ICDE</venue><pages>1998-2001</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangL20</key><doi>10.1109/ICDE48307.2020.00223</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00223</ee><url>https://dblp.org/rec/conf/icde/WangL20</url></info>
+<url>URL#1444995</url>
+</hit>
+<hit score="1" id="1444996">
+<info><authors><author pid="196/1399">Wenlu Wang</author><author pid="180/5335">Yingtao Tian</author><author pid="w/HaixunWang">Haixun Wang</author><author pid="21/1694">Wei-Shinn Ku</author></authors><title>A Natural Language Interface for Database: Achieving Transfer-learnability Using Adversarial Method for Question Understanding.</title><venue>ICDE</venue><pages>97-108</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangTWK20</key><doi>10.1109/ICDE48307.2020.00016</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00016</ee><url>https://dblp.org/rec/conf/icde/WangTWK20</url></info>
+<url>URL#1444996</url>
+</hit>
+<hit score="1" id="1444997">
+<info><authors><author pid="01/7039">Zhuo Wang</author><author pid="13/1672">Chaokun Wang</author><author pid="72/4134-5">Weiping Wang 0005</author><author pid="74/8908">Xiaoyan Gu</author><author pid="50/3402-63">Bo Li 0063</author><author pid="01/2538">Dan Meng</author></authors><title>Adaptive Relation Discovery from Focusing Seeds on Large Networks.</title><venue>ICDE</venue><pages>217-228</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangW0GLM20</key><doi>10.1109/ICDE48307.2020.00026</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00026</ee><url>https://dblp.org/rec/conf/icde/WangW0GLM20</url></info>
+<url>URL#1444997</url>
+</hit>
+<hit score="1" id="1444998">
+<info><authors><author pid="211/8925">Chunnan Wang</author><author pid="81/940">Hongzhi Wang 0001</author><author pid="251/5553">Tianyu Mu</author><author pid="18/6870-1">Jianzhong Li 0001</author><author pid="32/1438-1">Hong Gao 0001</author></authors><title>Auto-Model: Utilizing Research Papers and HPO Techniques to Deal with the CASH problem.</title><venue>ICDE</venue><pages>1906-1909</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangWMLG20</key><doi>10.1109/ICDE48307.2020.00200</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00200</ee><url>https://dblp.org/rec/conf/icde/WangWMLG20</url></info>
+<url>URL#1444998</url>
+</hit>
+<hit score="1" id="1444999">
+<info><authors><author pid="33/4822-12">Yue Wang 0012</author><author pid="75/3158">Zhe Wang</author><author pid="147/1229">Ziyuan Zhao</author><author pid="27/10487-2">Zijian Li 0002</author><author pid="130/7707-1">Xun Jian 0001</author><author pid="c/LeiChen0002">Lei Chen 0002</author><author pid="266/6213">Jianchun Song</author></authors><title>HowSim: A General and Effective Similarity Measure on Heterogeneous Information Networks.</title><venue>ICDE</venue><pages>1954-1957</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangWZ0JCS20</key><doi>10.1109/ICDE48307.2020.00212</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00212</ee><url>https://dblp.org/rec/conf/icde/WangWZ0JCS20</url></info>
+<url>URL#1444999</url>
+</hit>
+<hit score="1" id="1445000">
+<info><authors><author pid="65/2907">Zhenggang Wang</author><author pid="35/10144">Liu Zhong</author></authors><title>Neighborhood density correlation clustering.</title><venue>ICDE</venue><pages>2044-2048</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangZ20</key><doi>10.1109/ICDE48307.2020.00241</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00241</ee><url>https://dblp.org/rec/conf/icde/WangZ20</url></info>
+<url>URL#1445000</url>
+</hit>
+<hit score="1" id="1445001">
+<info><authors><author pid="58/6810">Li Wang</author><author pid="122/3833">Zining Zhang 0001</author><author pid="h/BingshengHe">Bingsheng He</author><author pid="93/4085">Zhenjie Zhang</author></authors><title>PA-Tree: Polled-Mode Asynchronous B+ Tree for NVMe.</title><venue>ICDE</venue><pages>553-564</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WangZHZ20</key><doi>10.1109/ICDE48307.2020.00054</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00054</ee><url>https://dblp.org/rec/conf/icde/WangZHZ20</url></info>
+<url>URL#1445001</url>
+</hit>
+<hit score="1" id="1445002">
+<info><authors><author pid="34/4292-1">Dong Wei 0001</author><author pid="97/3301">Senjuti Basu Roy</author><author pid="a/SihemAmerYahia">Sihem Amer-Yahia</author></authors><title>Task Deployment Recommendation with Worker Availability.</title><venue>ICDE</venue><pages>1806-1809</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WeiRA20</key><doi>10.1109/ICDE48307.2020.00175</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00175</ee><url>https://dblp.org/rec/conf/icde/WeiRA20</url></info>
+<url>URL#1445002</url>
+</hit>
+<hit score="1" id="1445003">
+<info><authors><author pid="199/6298">Victor Junqiu Wei</author><author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author><author pid="58/10813">Cheng Long</author><author pid="62/1272-1">Pan Hui 0001</author></authors><title>On Nearby-Fit Spatial Keyword Queries (Extended Abstract).</title><venue>ICDE</venue><pages>2024-2025</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WeiWLH20</key><doi>10.1109/ICDE48307.2020.00231</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00231</ee><url>https://dblp.org/rec/conf/icde/WeiWLH20</url></info>
+<url>URL#1445003</url>
+</hit>
+<hit score="1" id="1445004">
+<info><authors><author pid="92/8453">Dong Wen</author><author pid="87/11351-1">Yilun Huang 0001</author><author pid="13/6769-1">Ying Zhang 0001</author><author pid="51/5585">Lu Qin 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>Efficiently Answering Span-Reachability Queries in Large Temporal Graphs.</title><venue>ICDE</venue><pages>1153-1164</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WenHZQZ020</key><doi>10.1109/ICDE48307.2020.00104</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00104</ee><url>https://dblp.org/rec/conf/icde/WenHZQZ020</url></info>
+<url>URL#1445004</url>
+</hit>
+<hit score="1" id="1445005">
+<info><authors><author pid="146/6282">Wolfram Wingerath</author><author pid="150/7054">Felix Gessert</author><author pid="r/NRitter">Norbert Ritter</author></authors><title>InvaliDB: Scalable Push-Based Real-Time Queries on Top of Pull-Based Databases.</title><venue>ICDE</venue><pages>1874-1877</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WingerathGR20</key><doi>10.1109/ICDE48307.2020.00192</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00192</ee><url>https://dblp.org/rec/conf/icde/WingerathGR20</url></info>
+<url>URL#1445005</url>
+</hit>
+<hit score="1" id="1445006">
+<info><authors><author pid="146/6282">Wolfram Wingerath</author><author pid="150/7054">Felix Gessert</author><author pid="195/7889">Erik Witt</author><author pid="266/6198">Hannes Kuhlmann</author><author pid="150/7079">Florian Bücklers</author><author pid="266/6168">Benjamin Wollmer</author><author pid="r/NRitter">Norbert Ritter</author></authors><title>Speed Kit: A Polyglot &amp; GDPR-Compliant Approach For Caching Personalized Content.</title><venue>ICDE</venue><pages>1603-1608</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/WingerathGWKBWR20</key><doi>10.1109/ICDE48307.2020.00142</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00142</ee><url>https://dblp.org/rec/conf/icde/WingerathGWKBWR20</url></info>
+<url>URL#1445006</url>
+</hit>
+<hit score="1" id="1445007">
+<info><authors><author pid="204/2326">Yihai Xi</author><author pid="46/2005">Ning Wang</author><author pid="07/6713">Shuang Hao</author><author pid="266/6193">Wenyang Yang</author><author pid="53/2189">Li Li</author></authors><title>PocketView: A Concise and Informative Data Summarizer.</title><venue>ICDE</venue><pages>1742-1745</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XiWHYL20</key><doi>10.1109/ICDE48307.2020.00159</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00159</ee><url>https://dblp.org/rec/conf/icde/XiWHYL20</url></info>
+<url>URL#1445007</url>
+</hit>
+<hit score="1" id="1445008">
+<info><authors><author pid="36/844">Min Xie</author><author pid="w/RaymondChiWingWong">Raymond Chi-Wing Wong</author><author pid="49/683-2">Peng Peng 0002</author><author pid="t/VassilisJTsotras">Vassilis J. Tsotras</author></authors><title>Being Happy with the Least: Achieving α-happiness with Minimum Number of Tuples.</title><venue>ICDE</venue><pages>1009-1020</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XieW0T20</key><doi>10.1109/ICDE48307.2020.00092</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00092</ee><url>https://dblp.org/rec/conf/icde/XieW0T20</url></info>
+<url>URL#1445008</url>
+</hit>
+<hit score="1" id="1445009">
+<info><authors><author pid="169/3419">Zhongle Xie</author><author pid="266/6206">Hongbin Ying</author><author pid="119/1227">Cong Yue</author><author pid="08/7259">Meihui Zhang 0001</author><author pid="67/6383-1">Gang Chen 0001</author><author pid="o/BengChinOoi">Beng Chin Ooi</author></authors><title>Cool, a COhort OnLine analytical processing system.</title><venue>ICDE</venue><pages>577-588</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XieYYZCO20</key><doi>10.1109/ICDE48307.2020.00056</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00056</ee><url>https://dblp.org/rec/conf/icde/XieYYZCO20</url></info>
+<url>URL#1445009</url>
+</hit>
+<hit score="1" id="1445010">
+<info><authors><author pid="246/3315">Feiyang Xu</author><author pid="39/10049">Yue Ding</author><author pid="70/5210">Zhenhua Ling</author><author pid="09/1365-64">Xin Li 0064</author><author pid="87/3853">Yunxia Li</author><author pid="74/5750-1">Shijin Wang 0001</author></authors><title>DCDT: A Digital Clock Drawing Test System for Cognitive Impairment Screening.</title><venue>ICDE</venue><pages>1762-1765</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XuDLLLW20</key><doi>10.1109/ICDE48307.2020.00164</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00164</ee><url>https://dblp.org/rec/conf/icde/XuDLLLW20</url></info>
+<url>URL#1445010</url>
+</hit>
+<hit score="1" id="1445011">
+<info><authors><author pid="139/3530">Lily Xu</author><author pid="180/1416">Shahrzad Gholami</author><author pid="223/0165">Sara Mc Carthy</author><author pid="30/5718">Bistra Dilkina</author><author pid="170/5576">Andrew J. Plumptre</author><author pid="67/2667">Milind Tambe</author><author pid="177/9993">Rohit Singh</author><author pid="266/6146">Mustapha Nsabuga</author><author pid="199/6677">Joshua Mabonga</author><author pid="170/5674">Margaret Driciru</author><author pid="170/5591">Fred Wanyama</author><author pid="170/5632">Aggrey Rwetsiba</author><author pid="223/0162">Tom Okello</author><author pid="223/0146">Eric Enyel</author></authors><title>Stay Ahead of Poachers: Illegal Wildlife Poaching Prediction and Patrol Planning Under Uncertainty with Field Test Evaluations (Short Version).</title><venue>ICDE</venue><pages>1898-1901</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XuGCDPTSNMDWROE20</key><doi>10.1109/ICDE48307.2020.00198</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00198</ee><url>https://dblp.org/rec/conf/icde/XuGCDPTSNMDWROE20</url></info>
+<url>URL#1445011</url>
+</hit>
+<hit score="1" id="1445012">
+<info><authors><author pid="97/3265-10">Jin Xu 0010</author><author pid="82/8538">Jingbo Zhou</author><author pid="174/9258">Yongpo Jia</author><author pid="33/5448-15">Jian Li 0015</author><author pid="x/HuiXiong">Hui Xiong 0001</author></authors><title>An Adaptive Master-Slave Regularized Model for Unexpected Revenue Prediction Enhanced with Alternative Data.</title><venue>ICDE</venue><pages>601-612</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/XuZJL020</key><doi>10.1109/ICDE48307.2020.00058</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00058</ee><url>https://dblp.org/rec/conf/icde/XuZJL020</url></info>
+<url>URL#1445012</url>
+</hit>
+<hit score="1" id="1445013">
+<info><authors><author pid="254/9279">Bencheng Yan</author><author pid="13/1672">Chaokun Wang</author></authors><title>GraphAE: Adaptive Embedding across Graphs.</title><venue>ICDE</venue><pages>1958-1961</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YanW20</key><doi>10.1109/ICDE48307.2020.00213</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00213</ee><url>https://dblp.org/rec/conf/icde/YanW20</url></info>
+<url>URL#1445013</url>
+</hit>
+<hit score="1" id="1445014">
+<info><authors><author pid="80/6697-4">Chao Yan 0004</author><author pid="04/1895">Haifeng Xu</author><author pid="70/2217">Yevgeniy Vorobeychik</author><author pid="50/3402-26">Bo Li 0026</author><author pid="17/7449">Daniel Fabbri</author><author pid="m/BradleyMalin">Bradley A. Malin</author></authors><title>To Warn or Not to Warn: Online Signaling in Audit Games.</title><venue>ICDE</venue><pages>481-492</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YanXVLFM20</key><doi>10.1109/ICDE48307.2020.00048</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00048</ee><url>https://dblp.org/rec/conf/icde/YanXVLFM20</url></info>
+<url>URL#1445014</url>
+</hit>
+<hit score="1" id="1445015">
+<info><authors><author pid="245/0117">Sean Bin Yang</author><author pid="77/377-2">Bin Yang 0002</author></authors><title>Learning to Rank Paths in Spatial Networks.</title><venue>ICDE</venue><pages>2006-2009</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Yang020</key><doi>10.1109/ICDE48307.2020.00225</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00225</ee><url>https://dblp.org/rec/conf/icde/Yang020</url></info>
+<url>URL#1445015</url>
+</hit>
+<hit score="1" id="1445016">
+<info><authors><author pid="74/10221">Chengcheng Yang</author><author pid="71/8700-1">Dong Deng 0001</author><author pid="29/8750">Shuo Shang</author><author pid="75/1281">Ling Shao 0001</author></authors><title>Efficient Locality-Sensitive Hashing Over High-Dimensional Data Streams.</title><venue>ICDE</venue><pages>1986-1989</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangDS020</key><doi>10.1109/ICDE48307.2020.00220</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00220</ee><url>https://dblp.org/rec/conf/icde/YangDS020</url></info>
+<url>URL#1445016</url>
+</hit>
+<hit score="1" id="1445017">
+<info><authors><author pid="136/5454">Yixing Yang</author><author pid="76/1735">Yixiang Fang</author><author pid="l/LinXuemin">Xuemin Lin 0001</author><author pid="98/5684-1">Wenjie Zhang 0001</author></authors><title>Effective and Efficient Truss Computation over Large Heterogeneous Information Networks.</title><venue>ICDE</venue><pages>901-912</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangF00F20</key><doi>10.1109/ICDE48307.2020.00083</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00083</ee><url>https://dblp.org/rec/conf/icde/YangF00F20</url></info>
+<url>URL#1445017</url>
+</hit>
+<hit score="1" id="1445018">
+<info><authors><author pid="194/6731">Keyu Yang</author><author pid="80/2651">Yunjun Gao</author><author pid="24/1476">Lei Liang</author><author pid="86/508-2">Bin Yao 0002</author><author pid="89/9078">Shiting Wen</author><author pid="67/6383-1">Gang Chen 0001</author></authors><title>Towards Factorized SVM with Gaussian Kernels over Normalized Data.</title><venue>ICDE</venue><pages>1453-1464</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangGL0W020</key><doi>10.1109/ICDE48307.2020.00129</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00129</ee><url>https://dblp.org/rec/conf/icde/YangGL0W020</url></info>
+<url>URL#1445018</url>
+</hit>
+<hit score="1" id="1445019">
+<info><authors><author pid="263/1157">Ruida Yang</author><author pid="50/3323">Xin Lin</author><author pid="x/JianliangXu">Jianliang Xu</author><author pid="37/1091-8">Yan Yang 0008</author><author pid="42/963-1">Liang He 0001</author></authors><title>Optimizing Knowledge Graphs through Voting-based User Feedback.</title><venue>ICDE</venue><pages>421-432</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangLXYH20</key><doi>10.1109/ICDE48307.2020.00043</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00043</ee><url>https://dblp.org/rec/conf/icde/YangLXYH20</url></info>
+<url>URL#1445019</url>
+</hit>
+<hit score="1" id="1445020">
+<info><authors><author pid="46/2248">Zhong Yang</author><author pid="152/4895">Bolong Zheng</author><author pid="05/10612-1">GuoHui Li 0001</author><author pid="95/6322">Xi Zhao</author><author pid="z/XiaofangZhou">Xiaofang Zhou 0001</author><author pid="j/ChristianSJensen">Christian S. Jensen</author></authors><title>Adaptive Top-k Overlap Set Similarity Joins.</title><venue>ICDE</venue><pages>1081-1092</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangZLZ0J20</key><doi>10.1109/ICDE48307.2020.00098</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00098</ee><url>https://dblp.org/rec/conf/icde/YangZLZ0J20</url></info>
+<url>URL#1445020</url>
+</hit>
+<hit score="1" id="1445021">
+<info><authors><author pid="181/9099">Jianye Yang</author><author pid="98/5684-1">Wenjie Zhang 0001</author><author pid="31/2864-7">Xiang Wang 0007</author><author pid="13/6769-1">Ying Zhang 0001</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>Distributed Streaming Set Similarity Join.</title><venue>ICDE</venue><pages>565-576</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YangZWZ020</key><doi>10.1109/ICDE48307.2020.00055</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00055</ee><url>https://dblp.org/rec/conf/icde/YangZWZ020</url></info>
+<url>URL#1445021</url>
+</hit>
+<hit score="1" id="1445022">
+<info><authors><author pid="194/0001-1">Qingqing Ye 0001</author><author pid="90/5236-1">Haibo Hu 0001</author><author pid="55/24">Man Ho Au</author><author pid="m/XiaofengMeng-1">Xiaofeng Meng 0001</author><author pid="33/1903">Xiaokui Xiao</author></authors><title>Towards Locally Differentially Private Generic Graph Metric Estimation.</title><venue>ICDE</venue><pages>1922-1925</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Ye0A0X20</key><doi>10.1109/ICDE48307.2020.00204</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00204</ee><url>https://dblp.org/rec/conf/icde/Ye0A0X20</url></info>
+<url>URL#1445022</url>
+</hit>
+<hit score="1" id="1445023">
+<info><authors><author pid="94/4423">Xun Yi</author><author pid="49/10309">Russell Paulet</author><author pid="b/ElisaBertino">Elisa Bertino</author><author pid="03/10736">Fang-Yu Rao</author></authors><title>Practical Anonymous Subscription with Revocation Based on Broadcast Encryption.</title><venue>ICDE</venue><pages>241-252</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YiPBR20</key><doi>10.1109/ICDE48307.2020.00028</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00028</ee><url>https://dblp.org/rec/conf/icde/YiPBR20</url></info>
+<url>URL#1445023</url>
+</hit>
+<hit score="1" id="1445024">
+<info><authors><author pid="19/2453">Xiang Yu</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="181/5689">Chengliang Chai</author><author pid="27/104-1">Nan Tang 0001</author></authors><title>Reinforcement Learning with Tree-LSTM for Join Order Selection.</title><venue>ICDE</venue><pages>1297-1308</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Yu0C020</key><doi>10.1109/ICDE48307.2020.00116</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00116</ee><url>https://dblp.org/rec/conf/icde/Yu0C020</url></info>
+<url>URL#1445024</url>
+</hit>
+<hit score="1" id="1445025">
+<info><authors><author pid="266/6173">Xinyang Yu</author><author pid="16/10885">Yanqing Peng</author><author pid="l/FeifeiLi">Feifei Li 0001</author><author pid="85/1868-11">Sheng Wang 0011</author><author pid="14/6811">Xiaowei Shen</author><author pid="172/9380">Huijun Mai</author><author pid="22/3309">Yue Xie</author></authors><title>Two-Level Data Compression using Machine Learning in Time Series Database.</title><venue>ICDE</venue><pages>1333-1344</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YuP0WSMX20</key><doi>10.1109/ICDE48307.2020.00119</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00119</ee><url>https://dblp.org/rec/conf/icde/YuP0WSMX20</url></info>
+<url>URL#1445025</url>
+</hit>
+<hit score="1" id="1445026">
+<info><authors><author pid="126/6015">Xiangyao Yu</author><author pid="259/1265">Matt Youill</author><author pid="222/7847">Matthew E. Woicik</author><author pid="178/3717">Abdurrahman Ghanem</author><author pid="02/6087">Marco Serafini</author><author pid="01/3996">Ashraf Aboulnaga</author><author pid="s/MichaelStonebraker">Michael Stonebraker</author></authors><title>PushdownDB: Accelerating a DBMS Using S3 Computation.</title><venue>ICDE</venue><pages>1802-1805</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YuYWGSAS20</key><doi>10.1109/ICDE48307.2020.00174</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00174</ee><url>https://dblp.org/rec/conf/icde/YuYWGSAS20</url></info>
+<url>URL#1445026</url>
+</hit>
+<hit score="1" id="1445027">
+<info><authors><author pid="267/9406-2">Haitao Yuan 0002</author><author pid="l/GuoliangLi">Guoliang Li 0001</author><author pid="58/4464">Ling Feng</author><author pid="01/3254">Ji Sun</author><author pid="38/8279">Yue Han</author></authors><title>Automatic View Generation with Deep Learning and Reinforcement Learning.</title><venue>ICDE</venue><pages>1501-1512</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Yuan0FSH20</key><doi>10.1109/ICDE48307.2020.00133</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00133</ee><url>https://dblp.org/rec/conf/icde/Yuan0FSH20</url></info>
+<url>URL#1445027</url>
+</hit>
+<hit score="1" id="1445028">
+<info><authors><author pid="08/9064">Mu Yuan</author><author pid="54/2752-2">Lan Zhang 0002</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="x/HuiXiong">Hui Xiong 0001</author></authors><title>Comprehensive and Efficient Data Labeling via Adaptive Model Scheduling.</title><venue>ICDE</venue><pages>1858-1861</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/YuanZLX20</key><doi>10.1109/ICDE48307.2020.00188</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00188</ee><url>https://dblp.org/rec/conf/icde/YuanZLX20</url></info>
+<url>URL#1445028</url>
+</hit>
+<hit score="1" id="1445029">
+<info><authors><author pid="217/4735">Weixin Zeng</author><author pid="07/668-2">Xiang Zhao 0002</author><author pid="69/5457">Jiuyang Tang</author><author pid="l/LinXuemin">Xuemin Lin 0001</author></authors><title>Collective Entity Alignment via Adaptive Features.</title><venue>ICDE</venue><pages>1870-1873</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Zeng0T020</key><doi>10.1109/ICDE48307.2020.00191</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00191</ee><url>https://dblp.org/rec/conf/icde/Zeng0T020</url></info>
+<url>URL#1445029</url>
+</hit>
+<hit score="1" id="1445030">
+<info><authors><author pid="77/1808">Li Zeng</author><author pid="81/3390-1">Lei Zou 0001</author><author pid="o/MTamerOzsu">M. Tamer Özsu</author><author pid="19/4803">Lin Hu</author><author pid="21/3626-50">Fan Zhang 0050</author></authors><title>GSI: GPU-friendly Subgraph Isomorphism.</title><venue>ICDE</venue><pages>1249-1260</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZengZOHZ20</key><doi>10.1109/ICDE48307.2020.00112</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00112</ee><url>https://dblp.org/rec/conf/icde/ZengZOHZ20</url></info>
+<url>URL#1445030</url>
+</hit>
+<hit score="1" id="1445031">
+<info><authors><author pid="49/4941">Zhipeng Zhang</author><author pid="29/85">Wentao Wu 0001</author><author pid="185/1521">Jiawei Jiang</author><author pid="135/5193">Lele Yu</author><author pid="55/5031">Bin Cui 0001</author><author pid="97/919-1">Ce Zhang 0001</author></authors><title>C olumnSGD: A Column-oriented Framework for Distributed Stochastic Gradient Descent.</title><venue>ICDE</venue><pages>1513-1524</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/Zhang0JY0Z20</key><doi>10.1109/ICDE48307.2020.00134</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00134</ee><url>https://dblp.org/rec/conf/icde/Zhang0JY0Z20</url></info>
+<url>URL#1445031</url>
+</hit>
+<hit score="1" id="1445032">
+<info><authors><author pid="07/4227-21">Tong Zhang 0021</author><author pid="24/8678">Baoliang Cui</author><author pid="59/8491-1">Zhen Cui 0001</author><author pid="241/9737">Haikuan Huang</author><author pid="y/JianYang3">Jian Yang 0003</author><author pid="09/43">Hongbo Deng</author><author pid="33/1610-7">Bo Zheng 0007</author></authors><title>Cross-Graph Convolution Learning for Large-Scale Text-Picture Shopping Guide in E-Commerce Search.</title><venue>ICDE</venue><pages>1657-1666</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangCCHYDZ20</key><doi>10.1109/ICDE48307.2020.00147</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00147</ee><url>https://dblp.org/rec/conf/icde/ZhangCCHYDZ20</url></info>
+<url>URL#1445032</url>
+</hit>
+<hit score="1" id="1445033">
+<info><authors><author pid="10/239-1">Jiawei Zhang 0001</author><author pid="173/4607">Bowen Dong</author><author pid="y/PhilipSYu">Philip S. Yu</author></authors><title>FakeDetector: Effective Fake News Detection with Deep Diffusive Neural Network.</title><venue>ICDE</venue><pages>1826-1829</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangDY20</key><doi>10.1109/ICDE48307.2020.00180</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00180</ee><url>https://dblp.org/rec/conf/icde/ZhangDY20</url></info>
+<url>URL#1445033</url>
+</hit>
+<hit score="1" id="1445034">
+<info><authors><author pid="197/7379">Shuxiang Zhang</author><author pid="122/2730">David Tse Jung Huang</author><author pid="d/GDobbie">Gillian Dobbie</author><author pid="23/1879">Yun Sing Koh</author></authors><title>SLED: Semi-supervised Locally-weighted Ensemble Detector.</title><venue>ICDE</venue><pages>1838-1841</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangHDK20</key><doi>10.1109/ICDE48307.2020.00183</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00183</ee><url>https://dblp.org/rec/conf/icde/ZhangHDK20</url></info>
+<url>URL#1445034</url>
+</hit>
+<hit score="1" id="1445035">
+<info><authors><author pid="41/3249">Wentao Zhang</author><author pid="185/1521">Jiawei Jiang</author><author pid="131/2926">Yingxia Shao</author><author pid="55/5031">Bin Cui 0001</author></authors><title>Efficient Diversity-Driven Ensemble for Deep Neural Networks.</title><venue>ICDE</venue><pages>73-84</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangJS020</key><doi>10.1109/ICDE48307.2020.00014</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00014</ee><url>https://dblp.org/rec/conf/icde/ZhangJS020</url></info>
+<url>URL#1445035</url>
+</hit>
+<hit score="1" id="1445036">
+<info><authors><author pid="72/3527">Qiang Zhang</author><author pid="89/6978-1">Yongkun Li 0001</author><author pid="25/4018">Patrick P. C. Lee</author><author pid="40/689">Yinlong Xu</author><author pid="58/4655">Qiu Cui</author><author pid="05/4996">Liu Tang</author></authors><title>UniKV: Toward High-Performance and Scalable KV Storage in Mixed Workloads via Unified Indexing.</title><venue>ICDE</venue><pages>313-324</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangLLXCT20</key><doi>10.1109/ICDE48307.2020.00034</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00034</ee><url>https://dblp.org/rec/conf/icde/ZhangLLXCT20</url></info>
+<url>URL#1445036</url>
+</hit>
+<hit score="1" id="1445037">
+<info><authors><author pid="93/7807-2">Jiyuan Zhang 0002</author><author pid="67/1328-10">Yi Lu 0010</author><author pid="91/7434">Daniele G. Spampinato</author><author pid="53/6455">Franz Franchetti</author></authors><title>FESIA: A Fast and SIMD-Efficient Set Intersection Approach on Modern CPUs.</title><venue>ICDE</venue><pages>1465-1476</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangLSF20</key><doi>10.1109/ICDE48307.2020.00130</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00130</ee><url>https://dblp.org/rec/conf/icde/ZhangLSF20</url></info>
+<url>URL#1445037</url>
+</hit>
+<hit score="1" id="1445038">
+<info><authors><author pid="52/323-10">Qi Zhang 0010</author><author pid="37/548">Rong-Hua Li</author><author pid="235/2053">Qixuan Yang</author><author pid="64/146">Guoren Wang</author><author pid="51/5585">Lu Qin 0001</author></authors><title>Efficient Top-k Edge Structural Diversity Search.</title><venue>ICDE</venue><pages>205-216</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangLYWQ20</key><doi>10.1109/ICDE48307.2020.00025</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00025</ee><url>https://dblp.org/rec/conf/icde/ZhangLYWQ20</url></info>
+<url>URL#1445038</url>
+</hit>
+<hit score="1" id="1445039">
+<info><authors><author pid="124/6700">Wangda Zhang</author><author pid="r/KARoss">Kenneth A. Ross</author></authors><title>Permutation Index: Exploiting Data Skew for Improved Query Performance.</title><venue>ICDE</venue><pages>1982-1985</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangR20</key><doi>10.1109/ICDE48307.2020.00219</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00219</ee><url>https://dblp.org/rec/conf/icde/ZhangR20</url></info>
+<url>URL#1445039</url>
+</hit>
+<hit score="1" id="1445040">
+<info><authors><author pid="94/3019-45">Chao Zhang 0045</author><author pid="t/FaroukToumani">Farouk Toumani</author><author pid="266/6103">Bastien Doreau</author></authors><title>SUDAF: Sharing User-Defined Aggregate Functions.</title><venue>ICDE</venue><pages>1750-1553</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangTD20</key><doi>10.1109/ICDE48307.2020.00161</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00161</ee><url>https://dblp.org/rec/conf/icde/ZhangTD20</url></info>
+<url>URL#1445040</url>
+</hit>
+<hit score="1" id="1445041">
+<info><authors><author pid="135/4657">Shuhao Zhang 0001</author><author pid="07/11533">Yingjun Wu</author><author pid="48/1294-7">Feng Zhang 0007</author><author pid="h/BingshengHe">Bingsheng He</author></authors><title>Towards Concurrent Stateful Stream Processing on Multicore Processors.</title><venue>ICDE</venue><pages>1537-1548</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangW0H20</key><doi>10.1109/ICDE48307.2020.00136</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00136</ee><url>https://dblp.org/rec/conf/icde/ZhangW0H20</url></info>
+<url>URL#1445041</url>
+</hit>
+<hit score="1" id="1445042">
+<info><authors><author pid="66/4615-2">Yong Zhang 0002</author><author pid="141/3659">Jiacheng Wu</author><author pid="92/1375-7">Jin Wang 0007</author><author pid="x/ChunxiaoXing">Chunxiao Xing</author></authors><title>A Transformation-based Framework for KNN Set Similarity Search(Extended Abstract).</title><venue>ICDE</venue><pages>2040-2041</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangWWX20</key><doi>10.1109/ICDE48307.2020.00239</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00239</ee><url>https://dblp.org/rec/conf/icde/ZhangWWX20</url></info>
+<url>URL#1445042</url>
+</hit>
+<hit score="1" id="1445043">
+<info><authors><author pid="220/3961">Yongqi Zhang</author><author pid="158/1014">Quanming Yao</author><author pid="24/6075">Wenyuan Dai</author><author pid="c/LeiChen0002">Lei Chen 0002</author></authors><title>AutoSF: Searching Scoring Functions for Knowledge Graph Embedding.</title><venue>ICDE</venue><pages>433-444</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangYDC20</key><doi>10.1109/ICDE48307.2020.00044</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00044</ee><url>https://dblp.org/rec/conf/icde/ZhangYDC20</url></info>
+<url>URL#1445043</url>
+</hit>
+<hit score="1" id="1445044">
+<info><authors><author pid="194/4593">Hanbing Zhang</author><author pid="122/2697">Yazhong Zhang</author><author pid="23/6341">Zhenying He</author><author pid="35/3128">Yinan Jing</author><author pid="55/957-6">Kai Zhang 0006</author><author pid="w/XiaoyangSeanWang">X. Sean Wang</author></authors><title>An Agile Sample Maintenance Approach for Agile Analytics.</title><venue>ICDE</venue><pages>757-768</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhangZHJZW20</key><doi>10.1109/ICDE48307.2020.00071</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00071</ee><url>https://dblp.org/rec/conf/icde/ZhangZHJZW20</url></info>
+<url>URL#1445044</url>
+</hit>
+<hit score="1" id="1445045">
+<info><authors><author pid="94/4810-19">Bo Zhao 0019</author><author pid="88/302">Nguyen Quoc Viet Hung</author><author pid="61/267">Matthias Weidlich 0001</author></authors><title>Load Shedding for Complex Event Processing: Input-based and State-based Techniques.</title><venue>ICDE</venue><pages>1093-1104</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhaoHW20</key><doi>10.1109/ICDE48307.2020.00099</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00099</ee><url>https://dblp.org/rec/conf/icde/ZhaoHW20</url></info>
+<url>URL#1445045</url>
+</hit>
+<hit score="1" id="1445046">
+<info><authors><author pid="266/6117">Lisheng Zhao</author><author pid="04/7600">Jiali Mao</author><author pid="242/1279">Min Pu</author><author pid="84/1023">Guoping Liu</author><author pid="41/2511">Cheqing Jin</author><author pid="55/3364">Weining Qian</author><author pid="z/AoyingZhou">Aoying Zhou</author><author pid="73/10075">Xiang Wen</author><author pid="245/9084">Runbo Hu</author><author pid="05/2209">Hua Chai</author></authors><title>Automatic Calibration of Road Intersection Topology using Trajectories.</title><venue>ICDE</venue><pages>1633-1644</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhaoMPLJQZWHC20</key><doi>10.1109/ICDE48307.2020.00145</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00145</ee><url>https://dblp.org/rec/conf/icde/ZhaoMPLJQZWHC20</url></info>
+<url>URL#1445046</url>
+</hit>
+<hit score="1" id="1445047">
+<info><authors><author pid="135/6597-1">Weijie Zhao 0001</author><author pid="97/8692">Shulong Tan</author><author pid="62/5860-1">Ping Li 0001</author></authors><title>SONG: Approximate Nearest Neighbor Search on GPU.</title><venue>ICDE</venue><pages>1033-1044</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhaoTL20</key><doi>10.1109/ICDE48307.2020.00094</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00094</ee><url>https://dblp.org/rec/conf/icde/ZhaoTL20</url></info>
+<url>URL#1445047</url>
+</hit>
+<hit score="1" id="1445048">
+<info><authors><author pid="130/3810">Junzhou Zhao</author><author pid="84/7882">Pinghui Wang</author><author pid="71/6308">Jing Tao</author><author pid="83/3714">Shuo Zhang</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Continuously Tracking Core Items in Data Streams with Probabilistic Decays.</title><venue>ICDE</venue><pages>769-780</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhaoWTZL20</key><doi>10.1109/ICDE48307.2020.00072</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00072</ee><url>https://dblp.org/rec/conf/icde/ZhaoWTZL20</url></info>
+<url>URL#1445048</url>
+</hit>
+<hit score="1" id="1445049">
+<info><authors><author pid="93/3598">Cheng Zhao</author><author pid="85/1218">Zhibin Zhang</author><author pid="84/586">Peng Xu</author><author pid="191/5282">Tianqi Zheng</author><author pid="02/146">Jiafeng Guo</author></authors><title>Kaleido: An Efficient Out-of-core Graph Mining System on A Single Machine.</title><venue>ICDE</venue><pages>673-684</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhaoZXZG20</key><doi>10.1109/ICDE48307.2020.00064</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00064</ee><url>https://dblp.org/rec/conf/icde/ZhaoZXZG20</url></info>
+<url>URL#1445049</url>
+</hit>
+<hit score="1" id="1445050">
+<info><authors><author pid="87/1585-10">Yu Zheng 0010</author><author pid="76/5013">Chen Gao</author><author pid="59/1007">Xiangnan He 0001</author><author pid="93/2334-8">Yong Li 0008</author><author pid="46/5770">Depeng Jin</author></authors><title>Price-aware Recommendation with Graph Convolutional Networks.</title><venue>ICDE</venue><pages>133-144</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhengG00J20</key><doi>10.1109/ICDE48307.2020.00019</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00019</ee><url>https://dblp.org/rec/conf/icde/ZhengG00J20</url></info>
+<url>URL#1445050</url>
+</hit>
+<hit score="1" id="1445051">
+<info><authors><author pid="10/5927">Weiguo Zheng</author><author pid="231/8562">Jiewei Gu</author><author pid="49/683-1">Peng Peng 0001</author><author pid="y/JXuYu">Jeffrey Xu Yu</author></authors><title>Efficient Weighted Independent Set Computation over Large Graphs.</title><venue>ICDE</venue><pages>1970-1973</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhengGPY20</key><doi>10.1109/ICDE48307.2020.00216</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00216</ee><url>https://dblp.org/rec/conf/icde/ZhengGPY20</url></info>
+<url>URL#1445051</url>
+</hit>
+<hit score="1" id="1445052">
+<info><authors><author pid="152/4895">Bolong Zheng</author><author pid="266/6197">Chenze Huang</author><author pid="j/ChristianSJensen">Christian S. Jensen</author><author pid="69/157-1">Lu Chen 0001</author><author pid="88/302">Nguyen Quoc Viet Hung</author><author pid="01/1235-1">Guanfeng Liu 0001</author><author pid="05/10612-1">GuoHui Li 0001</author><author pid="73/3928-1">Kai Zheng 0001</author></authors><title>Online Trichromatic Pickup and Delivery Scheduling in Spatial Crowdsourcing.</title><venue>ICDE</venue><pages>973-984</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhengHJCHLLZ20</key><doi>10.1109/ICDE48307.2020.00089</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00089</ee><url>https://dblp.org/rec/conf/icde/ZhengHJCHLLZ20</url></info>
+<url>URL#1445052</url>
+</hit>
+<hit score="1" id="1445053">
+<info><authors><author pid="204/3356">Guanjie Zheng</author><author pid="195/8234">Hanyang Liu</author><author pid="30/495">Kai Xu</author><author pid="27/178">Zhenhui Li</author></authors><title>Learning to Simulate Vehicle Trajectories from Demonstrations.</title><venue>ICDE</venue><pages>1822-1825</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhengLXL20</key><doi>10.1109/ICDE48307.2020.00179</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00179</ee><url>https://dblp.org/rec/conf/icde/ZhengLXL20</url></info>
+<url>URL#1445053</url>
+</hit>
+<hit score="1" id="1445054">
+<info><authors><author pid="258/9048">Guo Zhong</author><author pid="p/ChiManPun">Chi-Man Pun</author></authors><title>A Unified Framework for Multi-view Spectral Clustering.</title><venue>ICDE</venue><pages>1854-1857</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icde/ZhongP20</key><doi>10.1109/ICDE48307.2020.00187</doi><ee>https://doi.org/10.1109/ICDE48307.2020.00187</ee><url>https://dblp.org/rec/conf/icde/ZhongP20</url></info>
+<url>URL#1445054</url>
+</hit>
+<hit score="1" id="1537754">
+<info><title>36th IEEE International Conference on Data Engineering, ICDE 2020, Dallas, TX, USA, April 20-24, 2020</title><venue>ICDE</venue><publisher>IEEE</publisher><year>2020</year><type>Editorship</type><key>conf/icde/2020</key><ee>https://ieeexplore.ieee.org/xpl/conhome/9093725/proceeding</ee><url>https://dblp.org/rec/conf/icde/2020</url></info>
+<url>URL#1537754</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239241">:facetid:toc:\"db/conf/ccs/ccs2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">188.72</time>
+<completions total="1" computed="1" sent="1">
+<c sc="149" dc="149" oc="149" id="41012991">:facetid:toc:db/conf/ccs/ccs2020.bht</c>
+</completions>
+<hits total="149" computed="149" sent="149" first="0">
+<hit score="1" id="1388926">
+<info><authors><author pid="138/2586-2">Marco Romanelli 0002</author><author pid="32/858">Konstantinos Chatzikokolakis 0001</author><author pid="p/CPalamidessi">Catuscia Palamidessi</author><author pid="44/1416">Pablo Piantanida</author></authors><title>Estimating g-Leakage via Machine Learning.</title><venue>CCS</venue><pages>697-716</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0002CPP20</key><doi>10.1145/3372297.3423363</doi><ee>https://doi.org/10.1145/3372297.3423363</ee><url>https://dblp.org/rec/conf/ccs/0002CPP20</url></info>
+<url>URL#1388926</url>
+</hit>
+<hit score="1" id="1388927">
+<info><authors><author pid="42/1870-2">Wen Xu 0002</author><author pid="03/6317">Soyeon Park</author><author pid="38/8882">Taesoo Kim</author></authors><title>FREEDOM: Engineering a State-of-the-Art DOM Fuzzer.</title><venue>CCS</venue><pages>971-986</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0002PK20</key><doi>10.1145/3372297.3423340</doi><ee>https://doi.org/10.1145/3372297.3423340</ee><url>https://dblp.org/rec/conf/ccs/0002PK20</url></info>
+<url>URL#1388927</url>
+</hit>
+<hit score="1" id="1388928">
+<info><authors><author pid="34/2997-7">Yu Li 0007</author><author pid="82/0-19">Min Li 0019</author><author pid="71/2890">Bo Luo</author><author pid="32/5495-10">Ye Tian 0010</author><author pid="43/1230-1">Qiang Xu 0001</author></authors><title>DeepDyve: Dynamic Verification for Deep Neural Networks.</title><venue>CCS</venue><pages>101-112</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/00070L0020</key><doi>10.1145/3372297.3423338</doi><ee>https://doi.org/10.1145/3372297.3423338</ee><url>https://dblp.org/rec/conf/ccs/00070L0020</url></info>
+<url>URL#1388928</url>
+</hit>
+<hit score="1" id="1388929">
+<info><authors><author pid="76/5416-9">Yiming Zhang 0009</author><author pid="89/10754">Baojun Liu</author><author pid="223/6794">Chaoyi Lu</author><author pid="62/4119-1">Zhou Li 0001</author><author pid="36/5143">Haixin Duan</author><author pid="07/6713">Shuang Hao</author><author pid="253/7461">Mingxuan Liu</author><author pid="91/112-24">Ying Liu 0024</author><author pid="40/3934">Dong Wang</author><author pid="72/872">Qiang Li</author></authors><title>Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China.</title><venue>CCS</venue><pages>521-534</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0009LL0DHLLWL20</key><doi>10.1145/3372297.3417257</doi><ee>https://doi.org/10.1145/3372297.3417257</ee><url>https://dblp.org/rec/conf/ccs/0009LL0DHLLWL20</url></info>
+<url>URL#1388929</url>
+</hit>
+<hit score="1" id="1388930">
+<info><authors><author pid="209/9535">Jackson Abascal</author><author pid="162/8961">Mohammad Hossein Faghihi Sereshgi</author><author pid="95/1548">Carmit Hazay</author><author pid="05/667">Yuval Ishai</author><author pid="64/4755">Muthuramakrishnan Venkitasubramaniam</author></authors><title>Is the Classical GMW Paradigm Practical? The Case of Non-Interactive Actively Secure 2PC.</title><venue>CCS</venue><pages>1591-1605</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AbascalSHIV20</key><doi>10.1145/3372297.3423366</doi><ee>https://doi.org/10.1145/3372297.3423366</ee><url>https://dblp.org/rec/conf/ccs/AbascalSHIV20</url></info>
+<url>URL#1388930</url>
+</hit>
+<hit score="1" id="1388931">
+<info><authors><author pid="248/7979">Sahar Abdelnabi</author><author pid="128/4803">Katharina Krombholz</author><author pid="07/5701">Mario Fritz</author></authors><title>VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity.</title><venue>CCS</venue><pages>1681-1698</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AbdelnabiKF20</key><doi>10.1145/3372297.3417233</doi><ee>https://doi.org/10.1145/3372297.3417233</ee><url>https://dblp.org/rec/conf/ccs/AbdelnabiKF20</url></info>
+<url>URL#1388931</url>
+</hit>
+<hit score="1" id="1388932">
+<info><authors><author pid="165/0256">Behzad Abdolmaleki</author><author pid="191/5895">Sebastian Ramacher</author><author pid="72/5883">Daniel Slamanig</author></authors><title>Lift-and-Shift: Obtaining Simulation Extractable Subversion and Updatable SNARKs Generically.</title><venue>CCS</venue><pages>1987-2005</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AbdolmalekiRS20</key><doi>10.1145/3372297.3417228</doi><ee>https://doi.org/10.1145/3372297.3417228</ee><url>https://dblp.org/rec/conf/ccs/AbdolmalekiRS20</url></info>
+<url>URL#1388932</url>
+</hit>
+<hit score="1" id="1388933">
+<info><authors><author pid="36/5720">Ittai Abraham</author><author pid="31/1735">Benny Pinkas</author><author pid="164/3366">Avishay Yanai</author></authors><title>Blinder - Scalable, Robust Anonymous Committed Broadcast.</title><venue>CCS</venue><pages>1233-1252</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AbrahamPY20</key><doi>10.1145/3372297.3417261</doi><ee>https://doi.org/10.1145/3372297.3417261</ee><url>https://dblp.org/rec/conf/ccs/AbrahamPY20</url></info>
+<url>URL#1388933</url>
+</hit>
+<hit score="1" id="1388936">
+<info><authors><author pid="29/7562-1">Sadia Afroz 0001</author><author pid="145/1806">Nicholas Carlini</author><author pid="167/0815">Ambra Demontis</author></authors><title>AISec&apos;20: 13th Workshop on Artificial Intelligence and Security.</title><venue>CCS</venue><pages>2143-2144</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AfrozCD20</key><doi>10.1145/3372297.3416247</doi><ee>https://doi.org/10.1145/3372297.3416247</ee><url>https://dblp.org/rec/conf/ccs/AfrozCD20</url></info>
+<url>URL#1388936</url>
+</hit>
+<hit score="1" id="1388937">
+<info><authors><author pid="56/8372">Shashank Agrawal</author><author pid="138/8997">Saikrishna Badrinarayanan</author><author pid="128/5167">Pratyay Mukherjee</author><author pid="183/5983">Peter Rindal</author></authors><title>Game-Set-MATCH: Using Mobile Devices for Seamless External-Facing Biometric Matching.</title><venue>CCS</venue><pages>1351-1370</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AgrawalBMR20</key><doi>10.1145/3372297.3417287</doi><ee>https://doi.org/10.1145/3372297.3417287</ee><url>https://dblp.org/rec/conf/ccs/AgrawalBMR20</url></info>
+<url>URL#1388937</url>
+</hit>
+<hit score="1" id="1388940">
+<info><authors><author pid="80/6689-1">Salman Ahmed 0001</author><author pid="221/7662">Ya Xiao</author><author pid="29/8732">Kevin Z. Snow</author><author pid="91/6206">Gang Tan</author><author pid="50/6700">Fabian Monrose</author><author pid="y/DanfengYao">Danfeng (Daphne) Yao</author></authors><title>Methodologies for Quantifying (Re-)randomization Security and Timing under JIT-ROP.</title><venue>CCS</venue><pages>1803-1820</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AhmedXSTMY20</key><doi>10.1145/3372297.3417248</doi><ee>https://doi.org/10.1145/3372297.3417248</ee><url>https://dblp.org/rec/conf/ccs/AhmedXSTMY20</url></info>
+<url>URL#1388940</url>
+</hit>
+<hit score="1" id="1388944">
+<info><authors><author pid="203/4344">Nabil Alkeilani Alkadri</author><author pid="30/1250-3">Poulami Das 0003</author><author pid="200/7340">Andreas Erwig</author><author pid="71/4369">Sebastian Faust</author><author pid="39/8933">Juliane Krämer</author><author pid="44/10914-2">Siavash Riahi 0002</author><author pid="196/0679">Patrick Struck</author></authors><title>Deterministic Wallets in a Quantum World.</title><venue>CCS</venue><pages>1017-1031</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Alkadri0EFK0S20</key><doi>10.1145/3372297.3423361</doi><ee>https://doi.org/10.1145/3372297.3423361</ee><url>https://dblp.org/rec/conf/ccs/Alkadri0EFK0S20</url></info>
+<url>URL#1388944</url>
+</hit>
+<hit score="1" id="1388945">
+<info><authors><author pid="224/9407">Joey Allen</author><author pid="59/5806">Zheng Yang</author><author pid="231/1936">Matthew Landen</author><author pid="277/7993">Raghav Bhat</author><author pid="277/8250">Harsh Grover</author><author pid="36/6156">Andrew Chang</author><author pid="72/1056-2">Yang Ji 0002</author><author pid="60/6768">Roberto Perdisci</author><author pid="29/5976">Wenke Lee</author></authors><title>Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System.</title><venue>CCS</venue><pages>787-802</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AllenYLBGC0PL20</key><doi>10.1145/3372297.3423355</doi><ee>https://doi.org/10.1145/3372297.3423355</ee><url>https://dblp.org/rec/conf/ccs/AllenYLBGC0PL20</url></info>
+<url>URL#1388945</url>
+</hit>
+<hit score="1" id="1388946">
+<info><authors><author pid="150/5254">Eihal Alowaisheq</author><author pid="44/10369">Siyuan Tang</author><author pid="52/253">Zhihao Wang</author><author pid="243/2808">Fatemah Alharbi</author><author pid="129/1113">Xiaojing Liao</author><author pid="06/6268">XiaoFeng Wang 0001</author></authors><title>Zombie Awakening: Stealthy Hijacking of Active Domains through DNS Hosting Referral.</title><venue>CCS</venue><pages>1307-1322</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AlowaisheqTWAL020</key><doi>10.1145/3372297.3417864</doi><ee>https://doi.org/10.1145/3372297.3417864</ee><url>https://dblp.org/rec/conf/ccs/AlowaisheqTWAL020</url></info>
+<url>URL#1388946</url>
+</hit>
+<hit score="1" id="1388948">
+<info><authors><author pid="75/5361">Diego F. Aranha</author><author pid="268/5113">Felipe Rodrigues Novaes</author><author pid="21/4240-2">Akira Takahashi 0002</author><author pid="65/7423">Mehdi Tibouchi</author><author pid="90/10901">Yuval Yarom</author></authors><title>LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage.</title><venue>CCS</venue><pages>225-242</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AranhaN0TY20</key><doi>10.1145/3372297.3417268</doi><ee>https://doi.org/10.1145/3372297.3417268</ee><url>https://dblp.org/rec/conf/ccs/AranhaN0TY20</url></info>
+<url>URL#1388948</url>
+</hit>
+<hit score="1" id="1388949">
+<info><authors><author pid="65/6856">Frederik Armknecht</author><author pid="220/6895">Paul Walther</author><author pid="08/1183">Gene Tsudik</author><author pid="70/2640">Martin Beck</author><author pid="69/2809">Thorsten Strufe</author></authors><title>ProMACs: Progressive and Resynchronizing MACs for Continuous Efficient Authentication of Message Streams.</title><venue>CCS</venue><pages>211-223</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ArmknechtWTBS20</key><doi>10.1145/3372297.3423349</doi><ee>https://doi.org/10.1145/3372297.3423349</ee><url>https://dblp.org/rec/conf/ccs/ArmknechtWTBS20</url></info>
+<url>URL#1388949</url>
+</hit>
+<hit score="1" id="1388952">
+<info><authors><author pid="20/10240">Xiaolong Bai</author><author pid="34/8412">Luyi Xing</author><author pid="23/328">Min Zheng</author><author pid="277/7886">Fuping Qu</author></authors><title>iDEA: Static Analysis on the Security of Apple Kernel Drivers.</title><venue>CCS</venue><pages>1185-1202</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BaiXZQ20</key><doi>10.1145/3372297.3423357</doi><ee>https://doi.org/10.1145/3372297.3423357</ee><url>https://dblp.org/rec/conf/ccs/BaiXZQ20</url></info>
+<url>URL#1388952</url>
+</hit>
+<hit score="1" id="1388954">
+<info><authors><author pid="06/8421">Borja Balle</author><author pid="238/0043">James Bell 0001</author><author pid="90/3256">Adrià Gascón</author><author pid="65/801">Kobbi Nissim</author></authors><title>Private Summation in the Multi-Message Shuffle Model.</title><venue>CCS</venue><pages>657-676</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BalleBGN20</key><doi>10.1145/3372297.3417242</doi><ee>https://doi.org/10.1145/3372297.3417242</ee><url>https://dblp.org/rec/conf/ccs/BalleBGN20</url></info>
+<url>URL#1388954</url>
+</hit>
+<hit score="1" id="1388955">
+<info><authors><author pid="204/5176">Diogo Barradas</author><author pid="07/967-1">Nuno Santos 0001</author><author pid="r/LRodrigues">Luís E. T. Rodrigues</author><author pid="277/8055">Vítor Nunes</author></authors><title>Poking a Hole in the Wall: Efficient Censorship-Resistant Internet Communications by Parasitizing on WebRTC.</title><venue>CCS</venue><pages>35-48</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Barradas0RN20</key><doi>10.1145/3372297.3417874</doi><ee>https://doi.org/10.1145/3372297.3417874</ee><url>https://dblp.org/rec/conf/ccs/Barradas0RN20</url></info>
+<url>URL#1388955</url>
+</hit>
+<hit score="1" id="1388956">
+<info><authors><author pid="259/0732">Rakesh Rajan Beck</author><author pid="232/7346">Abhishek Vijeev</author><author pid="46/1879">Vinod Ganapathy</author></authors><title>Privaros: A Framework for Privacy-Compliant Delivery Drones.</title><venue>CCS</venue><pages>181-194</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BeckVG20</key><doi>10.1145/3372297.3417858</doi><ee>https://doi.org/10.1145/3372297.3417858</ee><url>https://dblp.org/rec/conf/ccs/BeckVG20</url></info>
+<url>URL#1388956</url>
+</hit>
+<hit score="1" id="1388957">
+<info><authors><author pid="70/2200">Santiago Zanella Béguelin</author><author pid="263/8844">Lukas Wutschitz</author><author pid="136/8442">Shruti Tople</author><author pid="277/8100">Victor Rühle</author><author pid="30/9784">Andrew Paverd</author><author pid="70/4765">Olga Ohrimenko</author><author pid="10/3908">Boris Köpf</author><author pid="80/8292">Marc Brockschmidt</author></authors><title>Analyzing Information Leakage of Updates to Natural Language Models.</title><venue>CCS</venue><pages>363-375</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BeguelinWTRPOKB20</key><doi>10.1145/3372297.3417880</doi><ee>https://doi.org/10.1145/3372297.3417880</ee><url>https://dblp.org/rec/conf/ccs/BeguelinWTRPOKB20</url></info>
+<url>URL#1388957</url>
+</hit>
+<hit score="1" id="1388958">
+<info><authors><author pid="238/0043">James Henry Bell</author><author pid="29/4152">Kallista A. Bonawitz</author><author pid="90/3256">Adrià Gascón</author><author pid="08/11136">Tancrède Lepoint</author><author pid="07/5590-1">Mariana Raykova 0001</author></authors><title>Secure Single-Server Aggregation with (Poly)Logarithmic Overhead.</title><venue>CCS</venue><pages>1253-1269</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BellBGL020</key><doi>10.1145/3372297.3417885</doi><ee>https://doi.org/10.1145/3372297.3417885</ee><url>https://dblp.org/rec/conf/ccs/BellBGL020</url></info>
+<url>URL#1388958</url>
+</hit>
+<hit score="1" id="1388961">
+<info><authors><author pid="223/9651">Rishabh Bhadauria</author><author pid="277/7933">Zhiyong Fang</author><author pid="95/1548">Carmit Hazay</author><author pid="64/4755">Muthuramakrishnan Venkitasubramaniam</author><author pid="216/6422">Tiancheng Xie</author><author pid="82/4816-1">Yupeng Zhang 0001</author></authors><title>Ligero++: A New Optimized Sublinear IOP.</title><venue>CCS</venue><pages>2025-2038</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BhadauriaFHVXZ20</key><doi>10.1145/3372297.3417893</doi><ee>https://doi.org/10.1145/3372297.3417893</ee><url>https://dblp.org/rec/conf/ccs/BhadauriaFHVXZ20</url></info>
+<url>URL#1388961</url>
+</hit>
+<hit score="1" id="1388968">
+<info><authors><author pid="12/4955">Ioana Boureanu</author><author pid="30/3919">Tom Chothia</author><author pid="231/1869">Alexandre Debant</author><author pid="67/5099">Stéphanie Delaune</author></authors><title>Security Analysis and Implementation of Relay-Resistant Contactless Payments.</title><venue>CCS</venue><pages>879-898</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BoureanuCDD20</key><doi>10.1145/3372297.3417235</doi><ee>https://doi.org/10.1145/3372297.3417235</ee><url>https://dblp.org/rec/conf/ccs/BoureanuCDD20</url></info>
+<url>URL#1388968</url>
+</hit>
+<hit score="1" id="1388972">
+<info><authors><author pid="277/8094">Julian Brost</author><author pid="33/6847-1">Christoph Egger 0001</author><author pid="160/8004">Russell W. F. Lai</author><author pid="277/8172">Fritz Schmid</author><author pid="52/6199">Dominique Schröder</author><author pid="236/1973">Markus Zoppelt</author></authors><title>Threshold Password-Hardened Encryption Services.</title><venue>CCS</venue><pages>409-424</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Brost0LSSZ20</key><doi>10.1145/3372297.3417266</doi><ee>https://doi.org/10.1145/3372297.3417266</ee><url>https://dblp.org/rec/conf/ccs/Brost0LSSZ20</url></info>
+<url>URL#1388972</url>
+</hit>
+<hit score="1" id="1388977">
+<info><authors><author pid="244/0592">Wladimir De la Cadena</author><author pid="140/7588">Asya Mitseva</author><author pid="128/2860">Jens Hiller</author><author pid="182/4743">Jan Pennekamp</author><author pid="128/0472">Sebastian Reuter</author><author pid="277/7967">Julian Filter</author><author pid="e/ThomasEngel">Thomas Engel 0001</author><author pid="w/KlausWehrle">Klaus Wehrle</author><author pid="82/5164-1">Andriy Panchenko 0001</author></authors><title>TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting.</title><venue>CCS</venue><pages>1971-1985</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CadenaMHPRFEWP20</key><doi>10.1145/3372297.3423351</doi><ee>https://doi.org/10.1145/3372297.3423351</ee><url>https://dblp.org/rec/conf/ccs/CadenaMHPRFEWP20</url></info>
+<url>URL#1388977</url>
+</hit>
+<hit score="1" id="1388979">
+<info><authors><author pid="249/1159">Michele Campobasso</author><author pid="37/9766">Luca Allodi</author></authors><title>Impersonation-as-a-Service: Characterizing the Emerging Criminal Infrastructure for User Impersonation at Scale.</title><venue>CCS</venue><pages>1665-1680</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CampobassoA20</key><doi>10.1145/3372297.3417892</doi><ee>https://doi.org/10.1145/3372297.3417892</ee><url>https://dblp.org/rec/conf/ccs/CampobassoA20</url></info>
+<url>URL#1388979</url>
+</hit>
+<hit score="1" id="1388981">
+<info><authors><author pid="c/RanCanetti">Ran Canetti</author><author pid="r/RosarioGennaro">Rosario Gennaro</author><author pid="151/5205">Steven Goldfeder</author><author pid="87/11152">Nikolaos Makriyannis</author><author pid="265/8779">Udi Peled</author></authors><title>UC Non-Interactive, Proactive, Threshold ECDSA with Identifiable Aborts.</title><venue>CCS</venue><pages>1769-1787</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CanettiGGMP20</key><doi>10.1145/3372297.3423367</doi><ee>https://doi.org/10.1145/3372297.3423367</ee><url>https://dblp.org/rec/conf/ccs/CanettiGGMP20</url></info>
+<url>URL#1388981</url>
+</hit>
+<hit score="1" id="1388984">
+<info><authors><author pid="95/137">Chip-Hong Chang</author><author pid="66/3585-1">Stefan Katzenbeisser 0001</author><author pid="50/7968">Ulrich Rührmair</author><author pid="39/1269">Patrick Schaumont</author></authors><title>ASHES 2020: 4th Workshop on Attacks and Solutions in Hardware Security.</title><venue>CCS</venue><pages>2145-2146</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Chang0RS20</key><doi>10.1145/3372297.3416249</doi><ee>https://doi.org/10.1145/3372297.3416249</ee><url>https://dblp.org/rec/conf/ccs/Chang0RS20</url></info>
+<url>URL#1388984</url>
+</hit>
+<hit score="1" id="1388986">
+<info><authors><author pid="06/1661">Melissa Chase</author><author pid="88/1594">Trevor Perrin</author><author pid="64/5417">Greg Zaverucha</author></authors><title>The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption.</title><venue>CCS</venue><pages>1445-1459</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChasePZ20</key><doi>10.1145/3372297.3417887</doi><ee>https://doi.org/10.1145/3372297.3417887</ee><url>https://dblp.org/rec/conf/ccs/ChasePZ20</url></info>
+<url>URL#1388986</url>
+</hit>
+<hit score="1" id="1388988">
+<info><authors><author pid="16/6884">Yueqi Chen</author><author pid="277/7909">Zhenpeng Lin</author><author pid="40/6431">Xinyu Xing</author></authors><title>A Systematic Study of Elastic Objects in Kernel Exploitation.</title><venue>CCS</venue><pages>1165-1184</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChenLX20</key><doi>10.1145/3372297.3423353</doi><ee>https://doi.org/10.1145/3372297.3423353</ee><url>https://dblp.org/rec/conf/ccs/ChenLX20</url></info>
+<url>URL#1388988</url>
+</hit>
+<hit score="1" id="1388990">
+<info><authors><author pid="248/8198">Dingfan Chen</author><author pid="24/3024">Ning Yu</author><author pid="06/6785-16">Yang Zhang 0016</author><author pid="07/5701">Mario Fritz</author></authors><title>GAN-Leaks: A Taxonomy of Membership Inference Attacks against Generative Models.</title><venue>CCS</venue><pages>343-362</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChenYZF20</key><doi>10.1145/3372297.3417238</doi><ee>https://doi.org/10.1145/3372297.3417238</ee><url>https://dblp.org/rec/conf/ccs/ChenYZF20</url></info>
+<url>URL#1388990</url>
+</hit>
+<hit score="1" id="1388991">
+<info><authors><author pid="49/225-5">Long Cheng 0005</author><author pid="271/4344">Christin Wilson</author><author pid="271/4608">Song Liao</author><author pid="69/5196">Jeffrey Young</author><author pid="277/8063">Daniel Dong</author><author pid="02/2870">Hongxin Hu</author></authors><title>Dangerous Skills Got Certified: Measuring the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms.</title><venue>CCS</venue><pages>1699-1716</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChengWLYDH20</key><doi>10.1145/3372297.3423339</doi><ee>https://doi.org/10.1145/3372297.3423339</ee><url>https://dblp.org/rec/conf/ccs/ChengWLYDH20</url></info>
+<url>URL#1388991</url>
+</hit>
+<hit score="1" id="1388992">
+<info><authors><author pid="185/1609">Hongjun Choi</author><author pid="228/5728">Sayali Kate</author><author pid="138/6356">Yousra Aafer</author><author pid="95/3760-1">Xiangyu Zhang 0001</author><author pid="59/5539">Dongyan Xu</author></authors><title>Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles.</title><venue>CCS</venue><pages>263-278</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChoiKA0X20</key><doi>10.1145/3372297.3417249</doi><ee>https://doi.org/10.1145/3372297.3417249</ee><url>https://dblp.org/rec/conf/ccs/ChoiKA0X20</url></info>
+<url>URL#1388992</url>
+</hit>
+<hit score="1" id="1388993">
+<info><authors><author pid="60/8198">Jieun Choi</author><author pid="10/1487">Hae-Yong Yang</author><author pid="64/4152">Dong-Ho Cho</author></authors><title>TEMPEST Comeback: A Realistic Audio Eavesdropping Threat on Mixed-signal SoCs.</title><venue>CCS</venue><pages>1085-1101</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChoiYC20</key><doi>10.1145/3372297.3417241</doi><ee>https://doi.org/10.1145/3372297.3417241</ee><url>https://dblp.org/rec/conf/ccs/ChoiYC20</url></info>
+<url>URL#1388993</url>
+</hit>
+<hit score="1" id="1388996">
+<info><authors><author pid="c/HComonL">Hubert Comon</author><author pid="195/3195">Charlie Jacomme</author><author pid="88/10848">Guillaume Scerri</author></authors><title>Oracle Simulation: A Technique for Protocol Composition with Long Term Shared Secrets.</title><venue>CCS</venue><pages>1427-1444</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ComonJS20</key><doi>10.1145/3372297.3417229</doi><ee>https://doi.org/10.1145/3372297.3417229</ee><url>https://dblp.org/rec/conf/ccs/ComonJS20</url></info>
+<url>URL#1388996</url>
+</hit>
+<hit score="1" id="1388997">
+<info><authors><author pid="146/6045">Kovila P. L. Coopamootoo</author></authors><title>Usage Patterns of Privacy-Enhancing Technologies.</title><venue>CCS</venue><pages>1371-1390</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Coopamootoo20</key><doi>10.1145/3372297.3423347</doi><ee>https://doi.org/10.1145/3372297.3423347</ee><url>https://dblp.org/rec/conf/ccs/Coopamootoo20</url></info>
+<url>URL#1388997</url>
+</hit>
+<hit score="1" id="1388998">
+<info><authors><author pid="17/2282">Cas Cremers</author><author pid="277/8240">Jaiden Fairoze</author><author pid="167/5022">Benjamin Kiesl</author><author pid="277/8030">Aurora Naska</author></authors><title>Clone Detection in Secure Messaging: Improving Post-Compromise Security in Practice.</title><venue>CCS</venue><pages>1481-1495</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CremersFKN20</key><doi>10.1145/3372297.3423354</doi><ee>https://doi.org/10.1145/3372297.3423354</ee><url>https://dblp.org/rec/conf/ccs/CremersFKN20</url></info>
+<url>URL#1388998</url>
+</hit>
+<hit score="1" id="1388999">
+<info><authors><author pid="56/9841">Rachel Cummings</author><author pid="44/906">Michael Hay</author></authors><title>TPDP&apos;20: 6th Workshop on Theory and Practice of Differential Privacy.</title><venue>CCS</venue><pages>2153-2154</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CummingsH20</key><doi>10.1145/3372297.3416253</doi><ee>https://doi.org/10.1145/3372297.3416253</ee><url>https://dblp.org/rec/conf/ccs/CummingsH20</url></info>
+<url>URL#1388999</url>
+</hit>
+<hit score="1" id="1389000">
+<info><authors><author pid="87/5796">Amir Dembo</author><author pid="61/8774">Sreeram Kannan</author><author pid="265/5746">Ertem Nusret Tas</author><author pid="t/DavidNCTse">David Tse</author><author pid="56/2613">Pramod Viswanath</author><author pid="223/8062">Xuechao Wang</author><author pid="07/5353">Ofer Zeitouni</author></authors><title>Everything is a Race and Nakamoto Always Wins.</title><venue>CCS</venue><pages>859-878</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DemboKTTVWZ20</key><doi>10.1145/3372297.3417290</doi><ee>https://doi.org/10.1145/3372297.3417290</ee><url>https://dblp.org/rec/conf/ccs/DemboKTTVWZ20</url></info>
+<url>URL#1389000</url>
+</hit>
+<hit score="1" id="1389003">
+<info><authors><author pid="234/6067">Kostas Drakonakis</author><author pid="33/2939">Sotiris Ioannidis</author><author pid="47/8412">Jason Polakis</author></authors><title>The Cookie Hunter: Automated Black-box Auditing for Web Authentication and Authorization Flaws.</title><venue>CCS</venue><pages>1953-1970</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DrakonakisIP20</key><doi>10.1145/3372297.3417869</doi><ee>https://doi.org/10.1145/3372297.3417869</ee><url>https://dblp.org/rec/conf/ccs/DrakonakisIP20</url></info>
+<url>URL#1389003</url>
+</hit>
+<hit score="1" id="1389009">
+<info><authors><author pid="219/8147">Rukayat Ayomide Erinfolami</author><author pid="127/9208">Aravind Prakash</author></authors><title>Devil is Virtual: Reversing Virtual Inheritance in C++ Binaries.</title><venue>CCS</venue><pages>133-148</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ErinfolamiP20</key><doi>10.1145/3372297.3417251</doi><ee>https://doi.org/10.1145/3372297.3417251</ee><url>https://dblp.org/rec/conf/ccs/ErinfolamiP20</url></info>
+<url>URL#1389009</url>
+</hit>
+<hit score="1" id="1389010">
+<info><authors><author pid="261/5148">Francesca Falzon</author><author pid="203/2740">Evangelia Anna Markatou</author><author pid="172/0049">Akshima</author><author pid="68/158">David Cash</author><author pid="261/5114">Adam Rivkin</author><author pid="33/10358">Jesse Stern</author><author pid="t/RobertoTamassia">Roberto Tamassia</author></authors><title>Full Database Reconstruction in Two Dimensions.</title><venue>CCS</venue><pages>443-460</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FalzonMACRST20</key><doi>10.1145/3372297.3417275</doi><ee>https://doi.org/10.1145/3372297.3417275</ee><url>https://dblp.org/rec/conf/ccs/FalzonMACRST20</url></info>
+<url>URL#1389010</url>
+</hit>
+<hit score="1" id="1389012">
+<info><authors><author pid="53/8376">Xuewei Feng</author><author pid="274/0756">Chuanpu Fu</author><author pid="181/2688-2">Qi Li 0002</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="181/2626-2">Ke Xu 0002</author></authors><title>Off-Path TCP Exploits of the Mixed IPID Assignment.</title><venue>CCS</venue><pages>1323-1335</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FengFLS020</key><doi>10.1145/3372297.3417884</doi><ee>https://doi.org/10.1145/3372297.3417884</ee><url>https://dblp.org/rec/conf/ccs/FengFLS020</url></info>
+<url>URL#1389012</url>
+</hit>
+<hit score="1" id="1389014">
+<info><authors><author pid="255/5329">Nick Frymann</author><author pid="222/6614">Daniel Gardham</author><author pid="12/10661">Franziskus Kiefer</author><author pid="273/4642">Emil Lundberg</author><author pid="62/484">Mark Manulis</author><author pid="273/4790">Dain Nilsson</author></authors><title>Asynchronous Remote Key Generation: An Analysis of Yubico&apos;s Proposal for W3C WebAuthn.</title><venue>CCS</venue><pages>939-954</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FrymannGKLMN20</key><doi>10.1145/3372297.3417292</doi><ee>https://doi.org/10.1145/3372297.3417292</ee><url>https://dblp.org/rec/conf/ccs/FrymannGKLMN20</url></info>
+<url>URL#1389014</url>
+</hit>
+<hit score="1" id="1389015">
+<info><authors><author pid="34/3456">Shota Fujii</author><author pid="95/4676">Takayuki Sato</author><author pid="128/4000">Sho Aoki</author><author pid="215/7237">Yu Tsuda</author><author pid="57/10949">Yusuke Okano</author><author pid="57/7628">Tomohiro Shigemoto</author><author pid="91/4091">Nobutaka Kawaguchi</author><author pid="33/1195">Masato Terada</author></authors><title>Continuous and Multiregional Monitoring of Malicious Hosts.</title><venue>CCS</venue><pages>2101-2103</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FujiiSATOSKT20</key><doi>10.1145/3372297.3420018</doi><ee>https://doi.org/10.1145/3372297.3420018</ee><url>https://dblp.org/rec/conf/ccs/FujiiSATOSKT20</url></info>
+<url>URL#1389015</url>
+</hit>
+<hit score="1" id="1389019">
+<info><authors><author pid="06/701">Peter Gazi</author><author pid="47/3682">Aggelos Kiayias</author><author pid="r/AlexanderRussell">Alexander Russell</author></authors><title>Tight Consistency Bounds for Bitcoin.</title><venue>CCS</venue><pages>819-838</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GaziKR20</key><doi>10.1145/3372297.3423365</doi><ee>https://doi.org/10.1145/3372297.3423365</ee><url>https://dblp.org/rec/conf/ccs/GaziKR20</url></info>
+<url>URL#1389019</url>
+</hit>
+<hit score="1" id="1389020">
+<info><authors><author pid="96/1667">Thanassis Giannetsos</author><author pid="92/413">Daniele Sgandurra</author></authors><title>2nd Workshop on Cyber-Security Arms Race (CYSARM 2020).</title><venue>CCS</venue><pages>2147-2148</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GiannetsosS20</key><doi>10.1145/3372297.3416250</doi><ee>https://doi.org/10.1145/3372297.3416250</ee><url>https://dblp.org/rec/conf/ccs/GiannetsosS20</url></info>
+<url>URL#1389020</url>
+</hit>
+<hit score="1" id="1389023">
+<info><authors><author pid="150/5208">Enes Göktas</author><author pid="121/2685">Kaveh Razavi</author><author pid="44/3319">Georgios Portokalidis</author><author pid="91/800">Herbert Bos</author><author pid="75/8194">Cristiano Giuffrida</author></authors><title>Speculative Probing: Hacking Blind in the Spectre Era.</title><venue>CCS</venue><pages>1871-1885</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GoktasRPBG20</key><doi>10.1145/3372297.3417289</doi><ee>https://doi.org/10.1145/3372297.3417289</ee><url>https://dblp.org/rec/conf/ccs/GoktasRPBG20</url></info>
+<url>URL#1389023</url>
+</hit>
+<hit score="1" id="1389025">
+<info><authors><author pid="117/3299-1">Sergey Gorbunov 0001</author><author pid="r/LeonidReyzin">Leonid Reyzin</author><author pid="81/5927">Hoeteck Wee</author><author pid="55/7298">Zhenfei Zhang</author></authors><title>Pointproofs: Aggregating Proofs for Multiple Vector Commitments.</title><venue>CCS</venue><pages>2007-2023</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GorbunovRWZ20</key><doi>10.1145/3372297.3417244</doi><ee>https://doi.org/10.1145/3372297.3417244</ee><url>https://dblp.org/rec/conf/ccs/GorbunovRWZ20</url></info>
+<url>URL#1389025</url>
+</hit>
+<hit score="1" id="1389026">
+<info><authors><author pid="245/4471">Harm Griffioen</author><author pid="d/ChristianDoerr">Christian Doerr</author></authors><title>Examining Mirai&apos;s Battle over the Internet of Things.</title><venue>CCS</venue><pages>743-756</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GriffioenD20</key><doi>10.1145/3372297.3417277</doi><ee>https://doi.org/10.1145/3372297.3417277</ee><url>https://dblp.org/rec/conf/ccs/GriffioenD20</url></info>
+<url>URL#1389026</url>
+</hit>
+<hit score="1" id="1389027">
+<info><authors><author pid="12/5314">Roberto Guanciale</author><author pid="25/7796">Musard Balliu</author><author pid="d/MadsDam">Mads Dam</author></authors><title>InSpectre: Breaking and Fixing Microarchitectural Vulnerabilities by Formal Analysis.</title><venue>CCS</venue><pages>1853-1869</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GuancialeBD20</key><doi>10.1145/3372297.3417246</doi><ee>https://doi.org/10.1145/3372297.3417246</ee><url>https://dblp.org/rec/conf/ccs/GuancialeBD20</url></info>
+<url>URL#1389027</url>
+</hit>
+<hit score="1" id="1389029">
+<info><authors><author pid="251/1504">Bingyong Guo</author><author pid="169/9986">Zhenliang Lu</author><author pid="17/2212-5">Qiang Tang 0005</author><author pid="07/1951-2">Jing Xu 0002</author><author pid="43/4074">Zhenfeng Zhang</author></authors><title>Dumbo: Faster Asynchronous BFT Protocols.</title><venue>CCS</venue><pages>803-818</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GuoL0XZ20</key><doi>10.1145/3372297.3417262</doi><ee>https://doi.org/10.1145/3372297.3417262</ee><url>https://dblp.org/rec/conf/ccs/GuoL0XZ20</url></info>
+<url>URL#1389029</url>
+</hit>
+<hit score="1" id="1389031">
+<info><authors><author pid="60/1400">Kevin W. Hamlen</author><author pid="81/7428">Long Lu</author></authors><title>FEAST&apos;20: Fifth Workshop on Forming an Ecosystem Around Software Transformation.</title><venue>CCS</venue><pages>2149-2150</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HamlenL20</key><doi>10.1145/3372297.3416251</doi><ee>https://doi.org/10.1145/3372297.3416251</ee><url>https://dblp.org/rec/conf/ccs/HamlenL20</url></info>
+<url>URL#1389031</url>
+</hit>
+<hit score="1" id="1389034">
+<info><authors><author pid="263/2013">Yaowei Han</author><author pid="25/7045-11">Yang Cao 0011</author><author pid="23/3439-10">Sheng Li 0010</author><author pid="m/QiangMa1">Qiang Ma 0001</author><author pid="y/MasatoshiYoshikawa">Masatoshi Yoshikawa</author></authors><title>Voice-Indistinguishability - Protecting Voiceprint with Differential Privacy under an Untrusted Server.</title><venue>CCS</venue><pages>2125-2127</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HanCLMY20</key><doi>10.1145/3372297.3420025</doi><ee>https://doi.org/10.1145/3372297.3420025</ee><url>https://dblp.org/rec/conf/ccs/HanCLMY20</url></info>
+<url>URL#1389034</url>
+</hit>
+<hit score="1" id="1389037">
+<info><authors><author pid="223/9675">Sohaib ul Hassan</author><author pid="238/9967">Iaroslav Gridin</author><author pid="272/5288">Ignacio M. Delgado-Lozano</author><author pid="181/1564">Cesar Pereida García</author><author pid="218/7283">Jesús-Javier Chi-Domínguez</author><author pid="180/3056">Alejandro Cabrera Aldaya</author><author pid="25/1876">Billy Bob Brumley</author></authors><title>Déjà Vu: Side-Channel Analysis of Mozilla&apos;s NSS.</title><venue>CCS</venue><pages>1887-1902</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HassanGDGCAB20</key><doi>10.1145/3372297.3421761</doi><ee>https://doi.org/10.1145/3372297.3421761</ee><url>https://dblp.org/rec/conf/ccs/HassanGDGCAB20</url></info>
+<url>URL#1389037</url>
+</hit>
+<hit score="1" id="1389040">
+<info><authors><author pid="19/72">David Heath</author><author pid="65/6001">Vladimir Kolesnikov</author></authors><title>A 2.1 KHz Zero-Knowledge Processor with BubbleRAM.</title><venue>CCS</venue><pages>2055-2074</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HeathK20</key><doi>10.1145/3372297.3417283</doi><ee>https://doi.org/10.1145/3372297.3417283</ee><url>https://dblp.org/rec/conf/ccs/HeathK20</url></info>
+<url>URL#1389040</url>
+</hit>
+<hit score="1" id="1389042">
+<info><authors><author pid="126/0576">Martin Henze</author><author pid="236/3403">Lennart Bader</author><author pid="277/7967">Julian Filter</author><author pid="277/8067">Olav Lamberts</author><author pid="174/1906">Simon Ofner</author><author pid="260/6404">Dennis van der Velde</author></authors><title>Cybersecurity Research and Training for Power Distribution Grids - A Blueprint.</title><venue>CCS</venue><pages>2097-2099</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HenzeBFLOV20</key><doi>10.1145/3372297.3420016</doi><ee>https://doi.org/10.1145/3372297.3420016</ee><url>https://dblp.org/rec/conf/ccs/HenzeBFLOV20</url></info>
+<url>URL#1389042</url>
+</hit>
+<hit score="1" id="1389043">
+<info><authors><author pid="128/2860">Jens Hiller</author><author pid="150/8002">Johanna Amann</author><author pid="75/6403">Oliver Hohlfeld</author></authors><title>The Boon and Bane of Cross-Signing: Shedding Light on a Common Practice in Public Key Infrastructures.</title><venue>CCS</venue><pages>1289-1306</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HillerAH20</key><doi>10.1145/3372297.3423345</doi><ee>https://doi.org/10.1145/3372297.3423345</ee><url>https://dblp.org/rec/conf/ccs/HillerAH20</url></info>
+<url>URL#1389043</url>
+</hit>
+<hit score="1" id="1389045">
+<info><authors><author pid="12/1662">Viet Tung Hoang</author><author pid="220/2593">Yaobin Shen</author></authors><title>Security of Streaming Encryption in Google&apos;s Tink Library.</title><venue>CCS</venue><pages>243-262</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HoangS20</key><doi>10.1145/3372297.3417273</doi><ee>https://doi.org/10.1145/3372297.3417273</ee><url>https://dblp.org/rec/conf/ccs/HoangS20</url></info>
+<url>URL#1389045</url>
+</hit>
+<hit score="1" id="1389046">
+<info><authors><author pid="81/1241">Susan Hohenberger</author><author pid="192/8295">Satyanarayana Vusirikala</author><author pid="w/BrentWaters">Brent Waters</author></authors><title>PPE Circuits: Formal Definition to Software Automation.</title><venue>CCS</venue><pages>391-408</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HohenbergerVW20</key><doi>10.1145/3372297.3417230</doi><ee>https://doi.org/10.1145/3372297.3417230</ee><url>https://dblp.org/rec/conf/ccs/HohenbergerVW20</url></info>
+<url>URL#1389046</url>
+</hit>
+<hit score="1" id="1389049">
+<info><authors><author pid="46/5068">Can Huang</author><author pid="38/2577">Xinhui Han</author><author pid="277/8109">Guorui Yu</author></authors><title>LPET - Mining MS-Windows Software Privilege Escalation Vulnerabilities by Monitoring Interactive Behavior.</title><venue>CCS</venue><pages>2089-2091</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HuangHY20</key><doi>10.1145/3372297.3420014</doi><ee>https://doi.org/10.1145/3372297.3420014</ee><url>https://dblp.org/rec/conf/ccs/HuangHY20</url></info>
+<url>URL#1389049</url>
+</hit>
+<hit score="1" id="1389054">
+<info><authors><author pid="222/2725">Christina Ilvento</author></authors><title>Implementing the Exponential Mechanism with Base-2 Differential Privacy.</title><venue>CCS</venue><pages>717-742</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Ilvento20</key><doi>10.1145/3372297.3417269</doi><ee>https://doi.org/10.1145/3372297.3417269</ee><url>https://dblp.org/rec/conf/ccs/Ilvento20</url></info>
+<url>URL#1389054</url>
+</hit>
+<hit score="1" id="1389060">
+<info><authors><author pid="272/7066">Zheyue Jiang</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="90/514-24">Jun Xu 0024</author><author pid="34/3151">Qi Wen</author><author pid="123/8255">Zhenghe Wang</author><author pid="96/6053-1">Xiaohan Zhang 0001</author><author pid="40/6431">Xinyu Xing</author><author pid="02/1640-2">Min Yang 0002</author><author pid="55/11040">Zhemin Yang</author></authors><title>PDiff: Semantic-based Patch Presence Testing for Downstream Kernels.</title><venue>CCS</venue><pages>1149-1163</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JiangZXWWZXYY20</key><doi>10.1145/3372297.3417240</doi><ee>https://doi.org/10.1145/3372297.3417240</ee><url>https://dblp.org/rec/conf/ccs/JiangZXWWZXYY20</url></info>
+<url>URL#1389060</url>
+</hit>
+<hit score="1" id="1389062">
+<info><authors><author pid="196/7070">Wenqiang Jin</author><author pid="l/MingLi6">Ming Li 0006</author><author pid="43/6289">Srinivasan Murali</author><author pid="00/10800">Linke Guo</author></authors><title>Harnessing the Ambient Radio Frequency Noise for Wearable Device Pairing.</title><venue>CCS</venue><pages>1135-1148</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JinLMG20</key><doi>10.1145/3372297.3417288</doi><ee>https://doi.org/10.1145/3372297.3417288</ee><url>https://dblp.org/rec/conf/ccs/JinLMG20</url></info>
+<url>URL#1389062</url>
+</hit>
+<hit score="1" id="1389064">
+<info><authors><author pid="275/2899">Kailani R. Jones</author><author pid="51/4826">Ting-Fang Yen</author><author pid="121/2805">Sathya Chandran Sundaramurthy</author><author pid="145/6877">Alexandru G. Bardas</author></authors><title>Deploying Android Security Updates: an Extensive Study Involving Manufacturers, Carriers, and End Users.</title><venue>CCS</venue><pages>551-567</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JonesYSB20</key><doi>10.1145/3372297.3423346</doi><ee>https://doi.org/10.1145/3372297.3423346</ee><url>https://dblp.org/rec/conf/ccs/JonesYSB20</url></info>
+<url>URL#1389064</url>
+</hit>
+<hit score="1" id="1389066">
+<info><authors><author pid="260/8442">Nahid Juma</author><author pid="26/955">Xiaowei Huang</author><author pid="32/4329">Mahesh Tripunitara</author></authors><title>Forensic Analysis in Access Control: Foundations and a Case-Study from Practice.</title><venue>CCS</venue><pages>1533-1550</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JumaHT20</key><doi>10.1145/3372297.3417860</doi><ee>https://doi.org/10.1145/3372297.3417860</ee><url>https://dblp.org/rec/conf/ccs/JumaHT20</url></info>
+<url>URL#1389066</url>
+</hit>
+<hit score="1" id="1389068">
+<info><authors><author pid="69/8323">Marcel Keller</author></authors><title>MP-SPDZ: A Versatile Framework for Multi-Party Computation.</title><venue>CCS</venue><pages>1575-1590</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Keller20</key><doi>10.1145/3372297.3417872</doi><ee>https://doi.org/10.1145/3372297.3417872</ee><url>https://dblp.org/rec/conf/ccs/Keller20</url></info>
+<url>URL#1389068</url>
+</hit>
+<hit score="1" id="1389073">
+<info><authors><author pid="176/5301">Eleftherios Kokoris-Kogias</author><author pid="m/DahliaMalkhi">Dahlia Malkhi</author><author pid="166/1563">Alexander Spiegelman</author></authors><title>Asynchronous Distributed Key Generation for Computationally-Secure Randomness, Consensus, and Threshold Signatures.</title><venue>CCS</venue><pages>1751-1767</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Kokoris-KogiasM20</key><doi>10.1145/3372297.3423364</doi><ee>https://doi.org/10.1145/3372297.3423364</ee><url>https://dblp.org/rec/conf/ccs/Kokoris-KogiasM20</url></info>
+<url>URL#1389073</url>
+</hit>
+<hit score="1" id="1389079">
+<info><authors><author pid="29/5976">Wenke Lee</author></authors><title>Machine Learning and Security: The Good, The Bad, and The Ugly.</title><venue>CCS</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Lee20</key><doi>10.1145/3372297.3424552</doi><ee>https://doi.org/10.1145/3372297.3424552</ee><url>https://dblp.org/rec/conf/ccs/Lee20</url></info>
+<url>URL#1389079</url>
+</hit>
+<hit score="1" id="1389080">
+<info><authors><author pid="l/BrianNeilLevine">Brian Neil Levine</author><author pid="52/6230">Marc Liberatore</author><author pid="50/4918">Brian Lynn</author><author pid="41/4822">Matthew Wright 0001</author></authors><title>A Forensically Sound Method of Identifying Downloaders and Uploaders in Freenet.</title><venue>CCS</venue><pages>1497-1512</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LevineLL020</key><doi>10.1145/3372297.3417876</doi><ee>https://doi.org/10.1145/3372297.3417876</ee><url>https://dblp.org/rec/conf/ccs/LevineLL020</url></info>
+<url>URL#1389080</url>
+</hit>
+<hit score="1" id="1389081">
+<info><authors><author pid="45/1827-1">Xiaopeng Li 0001</author><author pid="81/583-1">Qiang Zeng 0001</author><author pid="153/5297">Lannan Luo</author><author pid="35/7986">Tongbo Luo</author></authors><title>T2Pair: Secure and Usable Pairing for Heterogeneous IoT Devices.</title><venue>CCS</venue><pages>309-323</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Li0LL20</key><doi>10.1145/3372297.3417286</doi><ee>https://doi.org/10.1145/3372297.3417286</ee><url>https://dblp.org/rec/conf/ccs/Li0LL20</url></info>
+<url>URL#1389081</url>
+</hit>
+<hit score="1" id="1389082">
+<info><authors><author pid="253/9727">Zhuohang Li</author><author pid="44/3684">Yi Wu</author><author pid="35/295-1">Jian Liu 0001</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="41/1662-1">Bo Yuan 0001</author></authors><title>AdvPulse: Universal, Synchronization-free, and Targeted Audio Adversarial Attacks via Subsecond Perturbations.</title><venue>CCS</venue><pages>1121-1134</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiW00020</key><doi>10.1145/3372297.3423348</doi><ee>https://doi.org/10.1145/3372297.3423348</ee><url>https://dblp.org/rec/conf/ccs/LiW00020</url></info>
+<url>URL#1389082</url>
+</hit>
+<hit score="1" id="1389083">
+<info><authors><author pid="86/6196">Yuan Li</author><author pid="64/9796">Mingzhe Wang</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="277/8177">Xingman Chen</author><author pid="150/3809">Songtao Yang</author><author pid="91/112-24">Ying Liu 0024</author></authors><title>Finding Cracks in Shields: On the Security of Control Flow Integrity Mechanisms.</title><venue>CCS</venue><pages>1821-1835</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiWZCYL20</key><doi>10.1145/3372297.3417867</doi><ee>https://doi.org/10.1145/3372297.3417867</ee><url>https://dblp.org/rec/conf/ccs/LiWZCYL20</url></info>
+<url>URL#1389083</url>
+</hit>
+<hit score="1" id="1389084">
+<info><authors><author pid="277/8159">Jiashuo Liang</author><author pid="168/9579">Guancheng Li</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="37/449">Ming Yuan</author><author pid="277/8177">Xingman Chen</author><author pid="38/2577">Xinhui Han</author></authors><title>RIPT - An Efficient Multi-Core Record-Replay System.</title><venue>CCS</venue><pages>2113-2115</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiangLZYCH20</key><doi>10.1145/3372297.3420021</doi><ee>https://doi.org/10.1145/3372297.3420021</ee><url>https://dblp.org/rec/conf/ccs/LiangLZYCH20</url></info>
+<url>URL#1389084</url>
+</hit>
+<hit score="1" id="1389087">
+<info><authors><author pid="33/3328-3">Xu Lin 0003</author><author pid="129/9582">Panagiotis Ilia</author><author pid="47/8412">Jason Polakis</author></authors><title>Fill in the Blanks: Empirical Analysis of the Privacy Threats of Browser Form Autofill.</title><venue>CCS</venue><pages>507-519</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LinIP20</key><doi>10.1145/3372297.3417271</doi><ee>https://doi.org/10.1145/3372297.3417271</ee><url>https://dblp.org/rec/conf/ccs/LinIP20</url></info>
+<url>URL#1389087</url>
+</hit>
+<hit score="1" id="1389089">
+<info><authors><author pid="151/5007">Junyu Lin</author><author pid="19/360-3">Lei Xu 0003</author><author pid="92/10048">Yingqi Liu</author><author pid="95/3760-1">Xiangyu Zhang 0001</author></authors><title>Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features.</title><venue>CCS</venue><pages>113-131</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LinXL020</key><doi>10.1145/3372297.3423362</doi><ee>https://doi.org/10.1145/3372297.3423362</ee><url>https://dblp.org/rec/conf/ccs/LinXL020</url></info>
+<url>URL#1389089</url>
+</hit>
+<hit score="1" id="1389093">
+<info><authors><author pid="277/7996">Efrén López-Morales</author><author pid="11/3908">Carlos E. Rubio-Medrano</author><author pid="28/8280">Adam Doupé</author><author pid="119/7712">Yan Shoshitaishvili</author><author pid="127/9829">Ruoyu Wang 0001</author><author pid="150/5198">Tiffany Bao</author><author pid="a/GailJoonAhn">Gail-Joon Ahn</author></authors><title>HoneyPLC: A Next-Generation Honeypot for Industrial Control Systems.</title><venue>CCS</venue><pages>279-291</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Lopez-MoralesRD20</key><doi>10.1145/3372297.3423356</doi><ee>https://doi.org/10.1145/3372297.3423356</ee><url>https://dblp.org/rec/conf/ccs/Lopez-MoralesRD20</url></info>
+<url>URL#1389093</url>
+</hit>
+<hit score="1" id="1389095">
+<info><authors><author pid="122/4355">Haoran Lu</author><author pid="34/8412">Luyi Xing</author><author pid="80/6791">Yue Xiao</author><author pid="57/4707-10">Yifan Zhang 0010</author><author pid="129/1113">Xiaojing Liao</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="60/8494">Xueqiang Wang</author></authors><title>Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems.</title><venue>CCS</venue><pages>569-585</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LuXXZL0W20</key><doi>10.1145/3372297.3417255</doi><ee>https://doi.org/10.1145/3372297.3417255</ee><url>https://dblp.org/rec/conf/ccs/LuXXZL0W20</url></info>
+<url>URL#1389095</url>
+</hit>
+<hit score="1" id="1389096">
+<info><authors><author pid="35/9846">Wouter Lueks</author><author pid="81/5221">Paul Syverson</author></authors><title>19th Workshop on Privacy in the Electronic Society (WPES 2020).</title><venue>CCS</venue><pages>2141-2142</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LueksS20</key><doi>10.1145/3372297.3416246</doi><ee>https://doi.org/10.1145/3372297.3416246</ee><url>https://dblp.org/rec/conf/ccs/LueksS20</url></info>
+<url>URL#1389096</url>
+</hit>
+<hit score="1" id="1389097">
+<info><authors><author pid="69/5034">Tao Lv</author><author pid="277/8174">Ruishi Li</author><author pid="33/4854">Yi Yang</author><author pid="c/KaiChen12">Kai Chen 0012</author><author pid="129/1113">Xiaojing Liao</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="277/8277">Peiwei Hu</author><author pid="34/8412">Luyi Xing</author></authors><title>RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection.</title><venue>CCS</venue><pages>1837-1852</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LvLYCLWHX20</key><doi>10.1145/3372297.3423360</doi><ee>https://doi.org/10.1145/3372297.3423360</ee><url>https://dblp.org/rec/conf/ccs/LvLYCLWHX20</url></info>
+<url>URL#1389097</url>
+</hit>
+<hit score="1" id="1389098">
+<info><authors><author pid="25/2540">Vadim Lyubashevsky</author><author pid="75/9806-1">Ngoc Khanh Nguyen 0001</author><author pid="184/3795">Gregor Seiler</author></authors><title>Practical Lattice-Based Zero-Knowledge Proofs for Integer Relations.</title><venue>CCS</venue><pages>1051-1070</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Lyubashevsky0S20</key><doi>10.1145/3372297.3417894</doi><ee>https://doi.org/10.1145/3372297.3417894</ee><url>https://dblp.org/rec/conf/ccs/Lyubashevsky0S20</url></info>
+<url>URL#1389098</url>
+</hit>
+<hit score="1" id="1389102">
+<info><authors><author pid="267/1308">Keyu Man</author><author pid="31/8302">Zhiyun Qian</author><author pid="88/845-2">Zhongjie Wang 0002</author><author pid="11/11005">Xiaofeng Zheng</author><author pid="182/9192">Youjun Huang</author><author pid="36/5143">Haixin Duan</author></authors><title>DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels.</title><venue>CCS</venue><pages>1337-1350</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ManQ0ZHD20</key><doi>10.1145/3372297.3417280</doi><ee>https://doi.org/10.1145/3372297.3417280</ee><url>https://dblp.org/rec/conf/ccs/ManQ0ZHD20</url></info>
+<url>URL#1389102</url>
+</hit>
+<hit score="1" id="1389103">
+<info><authors><author pid="56/1494">Michail Maniatakos</author><author pid="83/6530-1">Yuqing Zhang 0001</author></authors><title>CPSIOTSEC&apos;20: 2020 Joint Workshop on CPS&amp;IoT Security and Privacy.</title><venue>CCS</venue><pages>2135-2136</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ManiatakosZ20</key><doi>10.1145/3372297.3416243</doi><ee>https://doi.org/10.1145/3372297.3416243</ee><url>https://dblp.org/rec/conf/ccs/ManiatakosZ20</url></info>
+<url>URL#1389103</url>
+</hit>
+<hit score="1" id="1389104">
+<info><authors><author pid="225/9781">Jake Massimo</author><author pid="39/780">Kenneth G. Paterson</author></authors><title>A Performant, Misuse-Resistant API for Primality Testing.</title><venue>CCS</venue><pages>195-210</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MassimoP20</key><doi>10.1145/3372297.3417264</doi><ee>https://doi.org/10.1145/3372297.3417264</ee><url>https://dblp.org/rec/conf/ccs/MassimoP20</url></info>
+<url>URL#1389104</url>
+</hit>
+<hit score="1" id="1389106">
+<info><authors><author pid="220/2935">Ian McQuoid</author><author pid="r/MikeRosulek">Mike Rosulek</author><author pid="195/7997">Lawrence Roy</author></authors><title>Minimal Symmetric PAKE and 1-out-of-N OT from Programmable-Once Public Functions.</title><venue>CCS</venue><pages>425-442</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/McQuoidRR20</key><doi>10.1145/3372297.3417870</doi><ee>https://doi.org/10.1145/3372297.3417870</ee><url>https://dblp.org/rec/conf/ccs/McQuoidRR20</url></info>
+<url>URL#1389106</url>
+</hit>
+<hit score="1" id="1389107">
+<info><authors><author pid="244/9573">Michael Mirkin</author><author pid="08/3672-1">Yan Ji 0001</author><author pid="255/5836">Jonathan Pang</author><author pid="167/1759">Ariah Klages-Mundt</author><author pid="86/8318">Ittay Eyal</author><author pid="j/AriJuels">Ari Juels</author></authors><title>BDoS: Blockchain Denial-of-Service.</title><venue>CCS</venue><pages>601-619</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MirkinJPKEJ20</key><doi>10.1145/3372297.3417247</doi><ee>https://doi.org/10.1145/3372297.3417247</ee><url>https://dblp.org/rec/conf/ccs/MirkinJPKEJ20</url></info>
+<url>URL#1389107</url>
+</hit>
+<hit score="1" id="1389109">
+<info><authors><author pid="149/2441">Meisam Mohammady</author><author pid="152/1633">Shangyu Xie</author><author pid="79/5433">Yuan Hong</author><author pid="150/5462-1">Mengyuan Zhang 0001</author><author pid="w/LingyuWang">Lingyu Wang 0001</author><author pid="22/3167">Makan Pourzandi</author><author pid="d/MDebbabi">Mourad Debbabi</author></authors><title>R2DP: A Universal and Automated Approach to Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions.</title><venue>CCS</venue><pages>677-696</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MohammadyXHZ0PD20</key><doi>10.1145/3372297.3417259</doi><ee>https://doi.org/10.1145/3372297.3417259</ee><url>https://dblp.org/rec/conf/ccs/MohammadyXHZ0PD20</url></info>
+<url>URL#1389109</url>
+</hit>
+<hit score="1" id="1389110">
+<info><authors><author pid="67/6496">Payman Mohassel</author><author pid="183/5983">Peter Rindal</author><author pid="r/MikeRosulek">Mike Rosulek</author></authors><title>Fast Database Joins and PSI for Secret Shared Data.</title><venue>CCS</venue><pages>1271-1287</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MohasselRR20</key><doi>10.1145/3372297.3423358</doi><ee>https://doi.org/10.1145/3372297.3423358</ee><url>https://dblp.org/rec/conf/ccs/MohasselRR20</url></info>
+<url>URL#1389110</url>
+</hit>
+<hit score="1" id="1389112">
+<info><authors><author pid="191/5864">Koksal Mus</author><author pid="23/7549">Saad Islam</author><author pid="91/465">Berk Sunar</author></authors><title>QuantumHammer: A Practical Hybrid Attack on the LUOV Signature Scheme.</title><venue>CCS</venue><pages>1071-1084</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MusIS20</key><doi>10.1145/3372297.3417272</doi><ee>https://doi.org/10.1145/3372297.3417272</ee><url>https://dblp.org/rec/conf/ccs/MusIS20</url></info>
+<url>URL#1389112</url>
+</hit>
+<hit score="1" id="1389113">
+<info><authors><author pid="277/8167">Muhammad Nouman Nafees</author><author pid="122/2037">Neetesh Saxena</author><author pid="80/305">Pete Burnap</author><author pid="12/7884">Bong Jun Choi 0001</author></authors><title>Impact of Energy Consumption Attacks on LoRaWAN-Enabled Devices in Industrial Context.</title><venue>CCS</venue><pages>2117-2119</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NafeesSBC20</key><doi>10.1145/3372297.3420022</doi><ee>https://doi.org/10.1145/3372297.3420022</ee><url>https://dblp.org/rec/conf/ccs/NafeesSBC20</url></info>
+<url>URL#1389113</url>
+</hit>
+<hit score="1" id="1389115">
+<info><authors><author pid="192/2096">Ben Nassi</author><author pid="160/6851">Yisroel Mirsky</author><author pid="243/5709">Dudi Nassi</author><author pid="213/7615">Raz Ben-Netanel</author><author pid="89/7436">Oleg Drokin</author><author pid="38/4086">Yuval Elovici</author></authors><title>Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks.</title><venue>CCS</venue><pages>293-308</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NassiMNBDE20</key><doi>10.1145/3372297.3423359</doi><ee>https://doi.org/10.1145/3372297.3423359</ee><url>https://dblp.org/rec/conf/ccs/NassiMNBDE20</url></info>
+<url>URL#1389115</url>
+</hit>
+<hit score="1" id="1389116">
+<info><authors><author pid="200/4696">Ky Nguyen</author><author pid="178/5234">Miguel Ambrona</author><author pid="86/4713">Masayuki Abe</author></authors><title>WI is Almost Enough: Contingent Payment All Over Again.</title><venue>CCS</venue><pages>641-656</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NguyenAA20</key><doi>10.1145/3372297.3417888</doi><ee>https://doi.org/10.1145/3372297.3417888</ee><url>https://dblp.org/rec/conf/ccs/NguyenAA20</url></info>
+<url>URL#1389116</url>
+</hit>
+<hit score="1" id="1389118">
+<info><authors><author pid="275/3038">Jonas Nick</author><author pid="136/8340">Tim Ruffing</author><author pid="25/3463">Yannick Seurin</author><author pid="55/7278">Pieter Wuille</author></authors><title>MuSig-DN: Schnorr Multi-Signatures with Verifiably Deterministic Nonces.</title><venue>CCS</venue><pages>1717-1731</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NickRSW20</key><doi>10.1145/3372297.3417236</doi><ee>https://doi.org/10.1145/3372297.3417236</ee><url>https://dblp.org/rec/conf/ccs/NickRSW20</url></info>
+<url>URL#1389118</url>
+</hit>
+<hit score="1" id="1389121">
+<info><authors><author pid="236/7050">Hyunyoung Oh</author><author pid="205/3202">Adil Ahmad</author><author pid="170/2074-1">Seonghyun Park 0001</author><author pid="45/7986">Byoungyoung Lee</author><author pid="65/3751">Yunheung Paek</author></authors><title>TRUSTORE: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA.</title><venue>CCS</venue><pages>1903-1918</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/OhAPLP20</key><doi>10.1145/3372297.3417265</doi><ee>https://doi.org/10.1145/3372297.3417265</ee><url>https://dblp.org/rec/conf/ccs/OhAPLP20</url></info>
+<url>URL#1389121</url>
+</hit>
+<hit score="1" id="1389122">
+<info><authors><author pid="14/5114">Hamed Okhravi</author><author pid="81/3700">Cliff Wang</author></authors><title>MTD&apos;20: 7th ACM Workshop on Moving Target Defense.</title><venue>CCS</venue><pages>2137-2138</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/OkhraviW20</key><doi>10.1145/3372297.3416244</doi><ee>https://doi.org/10.1145/3372297.3416244</ee><url>https://dblp.org/rec/conf/ccs/OkhraviW20</url></info>
+<url>URL#1389122</url>
+</hit>
+<hit score="1" id="1389124">
+<info><authors><author pid="224/9301">Riccardo Paccagnella</author><author pid="181/3654">Kevin Liao</author><author pid="159/0537">Dave Tian</author><author pid="126/3601">Adam Bates 0001</author></authors><title>Logging to the Danger Zone: Race Condition Attacks and Defenses on System Audit Frameworks.</title><venue>CCS</venue><pages>1551-1574</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PaccagnellaLT020</key><doi>10.1145/3372297.3417862</doi><ee>https://doi.org/10.1145/3372297.3417862</ee><url>https://dblp.org/rec/conf/ccs/PaccagnellaLT020</url></info>
+<url>URL#1389124</url>
+</hit>
+<hit score="1" id="1389125">
+<info><authors><author pid="248/1695">Aditya Pakki</author><author pid="67/10639">Kangjie Lu</author></authors><title>Exaggerated Error Handling Hurts! An In-Depth Study and Context-Aware Detection.</title><venue>CCS</venue><pages>1203-1218</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PakkiL20</key><doi>10.1145/3372297.3417256</doi><ee>https://doi.org/10.1145/3372297.3417256</ee><url>https://dblp.org/rec/conf/ccs/PakkiL20</url></info>
+<url>URL#1389125</url>
+</hit>
+<hit score="1" id="1389126">
+<info><authors><author pid="252/5223">Ren Pang</author><author pid="09/3220">Hua Shen</author><author pid="29/2669-1">Xinyang Zhang 0001</author><author pid="07/8388">Shouling Ji</author><author pid="70/2217">Yevgeniy Vorobeychik</author><author pid="53/1565">Xiapu Luo</author><author pid="l/AlexXLiu">Alex X. Liu</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models.</title><venue>CCS</venue><pages>85-99</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PangSZJVLLW20</key><doi>10.1145/3372297.3417253</doi><ee>https://doi.org/10.1145/3372297.3417253</ee><url>https://dblp.org/rec/conf/ccs/PangSZJVLLW20</url></info>
+<url>URL#1389126</url>
+</hit>
+<hit score="1" id="1389128">
+<info><authors><author pid="277/8303">Nikolaos Pantelaios</author><author pid="04/8280">Nick Nikiforakis</author><author pid="22/1459">Alexandros Kapravelos</author></authors><title>You&apos;ve Changed: Detecting Malicious Browser Extensions through their Update Deltas.</title><venue>CCS</venue><pages>477-491</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PantelaiosNK20</key><doi>10.1145/3372297.3423343</doi><ee>https://doi.org/10.1145/3372297.3423343</ee><url>https://dblp.org/rec/conf/ccs/PantelaiosNK20</url></info>
+<url>URL#1389128</url>
+</hit>
+<hit score="1" id="1389129">
+<info><authors><author pid="170/2074-1">Seonghyun Park 0001</author><author pid="205/3202">Adil Ahmad</author><author pid="45/7986">Byoungyoung Lee</author></authors><title>BlackMirror: Preventing Wallhacks in 3D Online FPS Games.</title><venue>CCS</venue><pages>987-1000</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ParkAL20</key><doi>10.1145/3372297.3417890</doi><ee>https://doi.org/10.1145/3372297.3417890</ee><url>https://dblp.org/rec/conf/ccs/ParkAL20</url></info>
+<url>URL#1389129</url>
+</hit>
+<hit score="1" id="1389130">
+<info><authors><author pid="204/3588">Ivan Pashchenko</author><author pid="249/2278">Duc Ly Vu</author><author pid="59/6145">Fabio Massacci</author></authors><title>A Qualitative Study of Dependency Management and Its Security Implications.</title><venue>CCS</venue><pages>1513-1531</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PashchenkoVM20</key><doi>10.1145/3372297.3417232</doi><ee>https://doi.org/10.1145/3372297.3417232</ee><url>https://dblp.org/rec/conf/ccs/PashchenkoVM20</url></info>
+<url>URL#1389130</url>
+</hit>
+<hit score="1" id="1389134">
+<info><authors><author pid="244/8751">Marina Polubelova</author><author pid="80/3503">Karthikeyan Bhargavan</author><author pid="132/3972">Jonathan Protzenko</author><author pid="165/5515">Benjamin Beurdouche</author><author pid="193/3445">Aymeric Fromherz</author><author pid="219/9026">Natalia Kulatova</author><author pid="70/2200">Santiago Zanella Béguelin</author></authors><title>HACLxN: Verified Generic SIMD Crypto (for all your favourite platforms).</title><venue>CCS</venue><pages>899-918</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PolubelovaBPBFK20</key><doi>10.1145/3372297.3423352</doi><ee>https://doi.org/10.1145/3372297.3423352</ee><url>https://dblp.org/rec/conf/ccs/PolubelovaBPBFK20</url></info>
+<url>URL#1389134</url>
+</hit>
+<hit score="1" id="1389137">
+<info><authors><author pid="147/2276">Chenxiong Qian</author><author pid="169/8810">Hyungjoon Koo</author><author pid="277/7918">ChangSeok Oh</author><author pid="38/8882">Taesoo Kim</author><author pid="29/5976">Wenke Lee</author></authors><title>Slimium: Debloating the Chromium Browser with Feature Subsetting.</title><venue>CCS</venue><pages>461-476</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/QianKOKL20</key><doi>10.1145/3372297.3417866</doi><ee>https://doi.org/10.1145/3372297.3417866</ee><url>https://dblp.org/rec/conf/ccs/QianKOKL20</url></info>
+<url>URL#1389137</url>
+</hit>
+<hit score="1" id="1389142">
+<info><authors><author pid="270/2488">Ram Sundara Raman</author><author pid="277/8274">Prerana Shenoy</author><author pid="155/5132">Katharina Kohls</author><author pid="24/973">Roya Ensafi</author></authors><title>Censored Planet: An Internet-wide, Longitudinal Censorship Observatory.</title><venue>CCS</venue><pages>49-66</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/RamanSKE20</key><doi>10.1145/3372297.3417883</doi><ee>https://doi.org/10.1145/3372297.3417883</ee><url>https://dblp.org/rec/conf/ccs/RamanSKE20</url></info>
+<url>URL#1389142</url>
+</hit>
+<hit score="1" id="1389143">
+<info><authors><author pid="223/6113">Deevashwer Rathee</author><author pid="33/2105-2">Mayank Rathee</author><author pid="92/5367-1">Nishant Kumar 0001</author><author pid="77/5616">Nishanth Chandran</author><author pid="66/11477-1">Divya Gupta 0001</author><author pid="81/10809">Aseem Rastogi</author><author pid="22/846-1">Rahul Sharma 0001</author></authors><title>CrypTFlow2: Practical 2-Party Secure Inference.</title><venue>CCS</venue><pages>325-342</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/RatheeR0CGR020</key><doi>10.1145/3372297.3417274</doi><ee>https://doi.org/10.1145/3372297.3417274</ee><url>https://dblp.org/rec/conf/ccs/RatheeR0CGR020</url></info>
+<url>URL#1389143</url>
+</hit>
+<hit score="1" id="1389144">
+<info><authors><author pid="241/2496">Michael Reininger</author><author pid="226/0631">Arushi Arora</author><author pid="205/2182">Stephen Herwig</author><author pid="277/8058">Nicholas Francino</author><author pid="129/9491">Christina Garman</author><author pid="03/6428">Dave Levin</author></authors><title>Bento: Bringing Network Function Virtualization to Tor.</title><venue>CCS</venue><pages>2109-2111</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ReiningerAHFGL20</key><doi>10.1145/3372297.3420020</doi><ee>https://doi.org/10.1145/3372297.3420020</ee><url>https://dblp.org/rec/conf/ccs/ReiningerAHFGL20</url></info>
+<url>URL#1389144</url>
+</hit>
+<hit score="1" id="1389146">
+<info><authors><author pid="186/8215">Florentin Rochet</author><author pid="213/7598">Ryan Wails</author><author pid="24/3059-1">Aaron Johnson 0001</author><author pid="39/6266">Prateek Mittal</author><author pid="78/1061">Olivier Pereira</author></authors><title>CLAPS: Client-Location-Aware Path Selection in Tor.</title><venue>CCS</venue><pages>17-34</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/RochetWJMP20</key><doi>10.1145/3372297.3417279</doi><ee>https://doi.org/10.1145/3372297.3417279</ee><url>https://dblp.org/rec/conf/ccs/RochetWJMP20</url></info>
+<url>URL#1389146</url>
+</hit>
+<hit score="1" id="1389156">
+<info><authors><author pid="215/5466">Clara Schneidewind</author><author pid="180/7263">Ilya Grishchenko</author><author pid="264/9986">Markus Scherer</author><author pid="25/3571">Matteo Maffei</author></authors><title>eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts.</title><venue>CCS</venue><pages>621-640</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SchneidewindGSM20</key><doi>10.1145/3372297.3417250</doi><ee>https://doi.org/10.1145/3372297.3417250</ee><url>https://dblp.org/rec/conf/ccs/SchneidewindGSM20</url></info>
+<url>URL#1389156</url>
+</hit>
+<hit score="1" id="1389157">
+<info><authors><author pid="30/1431">Peter Schwabe</author><author pid="67/675">Douglas Stebila</author><author pid="227/7861">Thom Wiggers</author></authors><title>Post-Quantum TLS Without Handshake Signatures.</title><venue>CCS</venue><pages>1461-1480</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SchwabeSW20</key><doi>10.1145/3372297.3423350</doi><ee>https://doi.org/10.1145/3372297.3423350</ee><url>https://dblp.org/rec/conf/ccs/SchwabeSW20</url></info>
+<url>URL#1389157</url>
+</hit>
+<hit score="1" id="1389158">
+<info><authors><author pid="21/8302">Edward J. Schwartz</author><author pid="67/4125">Cory F. Cohen</author><author pid="59/6677">Jeffrey Gennari</author><author pid="97/2344">Stephanie Schwartz</author></authors><title>A Generic Technique for Automatically Finding Defense-Aware Code Reuse Attacks.</title><venue>CCS</venue><pages>1789-1801</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SchwartzCGS20</key><doi>10.1145/3372297.3417234</doi><ee>https://doi.org/10.1145/3372297.3417234</ee><url>https://dblp.org/rec/conf/ccs/SchwartzCGS20</url></info>
+<url>URL#1389158</url>
+</hit>
+<hit score="1" id="1389159">
+<info><authors><author pid="58/5730">Jörg Schwenk</author><author pid="76/6564">Marcus Brinkmann</author><author pid="216/6088">Damian Poddebniak</author><author pid="80/1239-7">Jens Müller 0007</author><author pid="27/8331">Juraj Somorovsky</author><author pid="43/11495">Sebastian Schinzel</author></authors><title>Mitigation of Attacks on Email End-to-End Encryption.</title><venue>CCS</venue><pages>1647-1664</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SchwenkBP0SS20</key><doi>10.1145/3372297.3417878</doi><ee>https://doi.org/10.1145/3372297.3417878</ee><url>https://dblp.org/rec/conf/ccs/SchwenkBP0SS20</url></info>
+<url>URL#1389159</url>
+</hit>
+<hit score="1" id="1389160">
+<info><authors><author pid="267/9676">Silvia Sebastián</author><author pid="35/3587">Juan Caballero</author></authors><title>Towards Attribution in Mobile Markets: Identifying Developer Account Polymorphism.</title><venue>CCS</venue><pages>771-785</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SebastianC20</key><doi>10.1145/3372297.3417281</doi><ee>https://doi.org/10.1145/3372297.3417281</ee><url>https://dblp.org/rec/conf/ccs/SebastianC20</url></info>
+<url>URL#1389160</url>
+</hit>
+<hit score="1" id="1389161">
+<info><authors><author pid="198/8307">Okan Seker</author><author pid="154/6431">Sebastian Berndt 0001</author><author pid="263/7337">Luca Wilke</author><author pid="72/817">Thomas Eisenbarth 0001</author></authors><title>SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis.</title><venue>CCS</venue><pages>1033-1049</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SekerBW020</key><doi>10.1145/3372297.3417889</doi><ee>https://doi.org/10.1145/3372297.3417889</ee><url>https://dblp.org/rec/conf/ccs/SekerBW020</url></info>
+<url>URL#1389161</url>
+</hit>
+<hit score="1" id="1389162">
+<info><authors><author pid="217/9308">Shawn Shan</author><author pid="259/1518">Emily Wenger</author><author pid="147/5236">Bolun Wang</author><author pid="50/3402-26">Bo Li 0026</author><author pid="43/4261">Haitao Zheng 0001</author><author pid="z/BenYZhao">Ben Y. Zhao</author></authors><title>Gotta Catch&apos;Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks.</title><venue>CCS</venue><pages>67-83</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShanWW00Z20</key><doi>10.1145/3372297.3417231</doi><ee>https://doi.org/10.1145/3372297.3417231</ee><url>https://dblp.org/rec/conf/ccs/ShanWW00Z20</url></info>
+<url>URL#1389162</url>
+</hit>
+<hit score="1" id="1389164">
+<info><authors><author pid="243/0114">Luman Shi</author><author pid="09/6585-2">Jiang Ming 0002</author><author pid="44/2489">Jianming Fu</author><author pid="30/4066">Guojun Peng</author><author pid="158/2764">Dongpeng Xu 0001</author><author pid="46/2802">Kun Gao</author><author pid="00/2301">Xuanchen Pan</author></authors><title>VAHunt: Warding Off New Repackaged Android Malware in App-Virtualization&apos;s Clothing.</title><venue>CCS</venue><pages>535-549</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Shi0FPXGP20</key><doi>10.1145/3372297.3423341</doi><ee>https://doi.org/10.1145/3372297.3423341</ee><url>https://dblp.org/rec/conf/ccs/Shi0FPXGP20</url></info>
+<url>URL#1389164</url>
+</hit>
+<hit score="1" id="1389165">
+<info><authors><author pid="234/6178">Chenghui Shi</author><author pid="07/8388">Shouling Ji</author><author pid="204/7806">Qianjun Liu</author><author pid="120/7060">Changchang Liu</author><author pid="52/8180">Yuefeng Chen</author><author pid="11/1735-11">Yuan He 0011</author><author pid="70/1220-1">Zhe Liu 0001</author><author pid="12/6354">Raheem Beyah</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Text Captcha Is Dead? A Large Scale Deployment and Empirical Study.</title><venue>CCS</venue><pages>1391-1406</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShiJLLCHLBW20</key><doi>10.1145/3372297.3417258</doi><ee>https://doi.org/10.1145/3372297.3417258</ee><url>https://dblp.org/rec/conf/ccs/ShiJLLCHLBW20</url></info>
+<url>URL#1389165</url>
+</hit>
+<hit score="1" id="1389168">
+<info><authors><author pid="236/5741">Nibesh Shrestha</author><author pid="36/5720">Ittai Abraham</author><author pid="30/10661">Ling Ren 0001</author><author pid="143/4459">Kartik Nayak</author></authors><title>On the Optimality of Optimistic Responsiveness.</title><venue>CCS</venue><pages>839-857</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShresthaA0N20</key><doi>10.1145/3372297.3417284</doi><ee>https://doi.org/10.1145/3372297.3417284</ee><url>https://dblp.org/rec/conf/ccs/ShresthaA0N20</url></info>
+<url>URL#1389168</url>
+</hit>
+<hit score="1" id="1389169">
+<info><authors><author pid="133/7191-1">Manish Shukla 0001</author><author pid="14/6843">Sachin Lodha</author></authors><title>rProfiler - Assessing Insider Influence on Enterprise Assets.</title><venue>CCS</venue><pages>2129-2131</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShuklaL20</key><doi>10.1145/3372297.3420026</doi><ee>https://doi.org/10.1145/3372297.3420026</ee><url>https://dblp.org/rec/conf/ccs/ShuklaL20</url></info>
+<url>URL#1389169</url>
+</hit>
+<hit score="1" id="1389172">
+<info><authors><author pid="s/RaduSion">Radu Sion</author><author pid="77/3503">Yinqian Zhang</author></authors><title>CCSW&apos;20: 2020 Cloud Computing Security Workshop.</title><venue>CCS</venue><pages>2133-2134</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SionZ20</key><doi>10.1145/3372297.3416242</doi><ee>https://doi.org/10.1145/3372297.3416242</ee><url>https://dblp.org/rec/conf/ccs/SionZ20</url></info>
+<url>URL#1389172</url>
+</hit>
+<hit score="1" id="1389178">
+<info><authors><author pid="186/8335">Congzheng Song</author><author pid="15/7563">Ananth Raghunathan</author></authors><title>Information Leakage in Embedding Models.</title><venue>CCS</venue><pages>377-390</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SongR20</key><doi>10.1145/3372297.3417270</doi><ee>https://doi.org/10.1145/3372297.3417270</ee><url>https://dblp.org/rec/conf/ccs/SongR20</url></info>
+<url>URL#1389178</url>
+</hit>
+<hit score="1" id="1389180">
+<info><authors><author pid="277/8003">Alex Stamos</author></authors><title>Realistic Threats and Realistic Users: Lessons from the Election.</title><venue>CCS</venue><pages>2075</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Stamos20</key><doi>10.1145/3372297.3424553</doi><ee>https://doi.org/10.1145/3372297.3424553</ee><url>https://dblp.org/rec/conf/ccs/Stamos20</url></info>
+<url>URL#1389180</url>
+</hit>
+<hit score="1" id="1389181">
+<info><authors><author pid="205/2051">Marius Steffens</author><author pid="136/8343">Ben Stock</author></authors><title>PMForce: Systematically Analyzing postMessage Handlers at Scale.</title><venue>CCS</venue><pages>493-505</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SteffensS20</key><doi>10.1145/3372297.3417267</doi><ee>https://doi.org/10.1145/3372297.3417267</ee><url>https://dblp.org/rec/conf/ccs/SteffensS20</url></info>
+<url>URL#1389181</url>
+</hit>
+<hit score="1" id="1389182">
+<info><authors><author pid="37/402">Alley Stoughton</author><author pid="185/6272">Marco Vassena</author></authors><title>PLAS&apos;20: 15th Workshop on Programming Languages and Analysis for Security.</title><venue>CCS</venue><pages>2151-2152</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/StoughtonV20</key><doi>10.1145/3372297.3416252</doi><ee>https://doi.org/10.1145/3372297.3416252</ee><url>https://dblp.org/rec/conf/ccs/StoughtonV20</url></info>
+<url>URL#1389182</url>
+</hit>
+<hit score="1" id="1389184">
+<info><authors><author pid="260/0310">Armin Ziaie Tabari</author><author pid="41/4686">Xinming Ou</author></authors><title>A Multi-phased Multi-faceted IoT Honeypot Ecosystem.</title><venue>CCS</venue><pages>2121-2123</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/TabariO20</key><doi>10.1145/3372297.3420023</doi><ee>https://doi.org/10.1145/3372297.3420023</ee><url>https://dblp.org/rec/conf/ccs/TabariO20</url></info>
+<url>URL#1389184</url>
+</hit>
+<hit score="1" id="1389187">
+<info><authors><author pid="175/8268">Joshua Tan</author><author pid="32/3440">Lujo Bauer</author><author pid="c/NicolasChristin">Nicolas Christin</author><author pid="03/1595">Lorrie Faith Cranor</author></authors><title>Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements.</title><venue>CCS</venue><pages>1407-1426</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/TanBCC20</key><doi>10.1145/3372297.3417882</doi><ee>https://doi.org/10.1145/3372297.3417882</ee><url>https://dblp.org/rec/conf/ccs/TanBCC20</url></info>
+<url>URL#1389187</url>
+</hit>
+<hit score="1" id="1389190">
+<info><authors><author pid="164/5298">Sri Aravinda Krishnan Thyagarajan</author><author pid="174/9588">Adithya Bhat</author><author pid="148/1304">Giulio Malavolta</author><author pid="95/9050">Nico Döttling</author><author pid="12/3394">Aniket Kate</author><author pid="52/6199">Dominique Schröder</author></authors><title>Verifiable Timed Signatures Made Practical.</title><venue>CCS</venue><pages>1733-1750</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ThyagarajanBMDK20</key><doi>10.1145/3372297.3417263</doi><ee>https://doi.org/10.1145/3372297.3417263</ee><url>https://dblp.org/rec/conf/ccs/ThyagarajanBMDK20</url></info>
+<url>URL#1389190</url>
+</hit>
+<hit score="1" id="1389202">
+<info><authors><author pid="249/2278">Duc Ly Vu</author><author pid="204/3588">Ivan Pashchenko</author><author pid="59/6145">Fabio Massacci</author><author pid="64/1932">Henrik Plate</author><author pid="05/4081">Antonino Sabetta</author></authors><title>Towards Using Source Code Repositories to Identify Software Supply Chain Attacks.</title><venue>CCS</venue><pages>2093-2095</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/VuPMPS20</key><doi>10.1145/3372297.3420015</doi><ee>https://doi.org/10.1145/3372297.3420015</ee><url>https://dblp.org/rec/conf/ccs/VuPMPS20</url></info>
+<url>URL#1389202</url>
+</hit>
+<hit score="1" id="1389203">
+<info><authors><author pid="29/5259">Jie Wang</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="127/6101">Lingguang Lei</author><author pid="203/9729">Shengye Wan</author><author pid="01/3425">Yuewu Wang</author><author pid="70/3282">Jiwu Jing</author></authors><title>Cache-in-the-Middle (CITM) Attacks: Manipulating Sensitive Data in Isolated Execution Environments.</title><venue>CCS</venue><pages>1001-1015</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Wang0LWWJ20</key><doi>10.1145/3372297.3417886</doi><ee>https://doi.org/10.1145/3372297.3417886</ee><url>https://dblp.org/rec/conf/ccs/Wang0LWWJ20</url></info>
+<url>URL#1389203</url>
+</hit>
+<hit score="1" id="1389205">
+<info><authors><author pid="32/5536">Shu Wang</author><author pid="218/8811">Jiahao Cao</author><author pid="89/3991">Xu He</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="181/2688-2">Qi Li 0002</author></authors><title>When the Differences in Frequency Domain are Compensated: Understanding and Defeating Modulated Replay Attacks on Automatic Speech Recognition.</title><venue>CCS</venue><pages>1103-1119</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WangCH0020</key><doi>10.1145/3372297.3417254</doi><ee>https://doi.org/10.1145/3372297.3417254</ee><url>https://dblp.org/rec/conf/ccs/WangCH0020</url></info>
+<url>URL#1389205</url>
+</hit>
+<hit score="1" id="1389207">
+<info><authors><author pid="68/1041">Yuxin Wang</author><author pid="227/8862-1">Zeyu Ding 0001</author><author pid="84/114">Daniel Kifer</author><author pid="23/3719">Danfeng Zhang</author></authors><title>CheckDP: An Automated and Integrated Approach for Proving Differential Privacy or Finding Precise Counterexamples.</title><venue>CCS</venue><pages>919-938</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WangDKZ20</key><doi>10.1145/3372297.3417282</doi><ee>https://doi.org/10.1145/3372297.3417282</ee><url>https://dblp.org/rec/conf/ccs/WangDKZ20</url></info>
+<url>URL#1389207</url>
+</hit>
+<hit score="1" id="1389210">
+<info><authors><author pid="215/0123">Haohuang Wen</author><author pid="49/4102">Zhiqiang Lin</author><author pid="77/3503">Yinqian Zhang</author></authors><title>FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities From Bare-Metal Firmware.</title><venue>CCS</venue><pages>167-180</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WenLZ20</key><doi>10.1145/3372297.3423344</doi><ee>https://doi.org/10.1145/3372297.3423344</ee><url>https://dblp.org/rec/conf/ccs/WenLZ20</url></info>
+<url>URL#1389210</url>
+</hit>
+<hit score="1" id="1389211">
+<info><authors><author pid="63/10765-2">Rui Wen 0002</author><author pid="33/0-1">Yu Yu 0001</author><author pid="17/1712">Xiang Xie</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction.</title><venue>CCS</venue><pages>1219-1232</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WenYXZ20</key><doi>10.1145/3372297.3417237</doi><ee>https://doi.org/10.1145/3372297.3417237</ee><url>https://dblp.org/rec/conf/ccs/WenYXZ20</url></info>
+<url>URL#1389211</url>
+</hit>
+<hit score="1" id="1389213">
+<info><authors><author pid="215/5849">Konrad Wolsing</author><author pid="27/918-3">Eric Wagner 0003</author><author pid="126/0576">Martin Henze</author></authors><title>Facilitating Protocol-independent Industrial Intrusion Detection Systems.</title><venue>CCS</venue><pages>2105-2107</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WolsingWH20</key><doi>10.1145/3372297.3420019</doi><ee>https://doi.org/10.1145/3372297.3420019</ee><url>https://dblp.org/rec/conf/ccs/WolsingWH20</url></info>
+<url>URL#1389213</url>
+</hit>
+<hit score="1" id="1389216">
+<info><authors><author pid="181/1565">Karl Wüst</author><author pid="120/1940">Sinisa Matetic</author><author pid="247/1468">Silvan Egli</author><author pid="42/2366">Kari Kostiainen</author><author pid="51/1639">Srdjan Capkun</author></authors><title>ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts.</title><venue>CCS</venue><pages>587-600</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WustMEKC20</key><doi>10.1145/3372297.3417243</doi><ee>https://doi.org/10.1145/3372297.3417243</ee><url>https://dblp.org/rec/conf/ccs/WustMEKC20</url></info>
+<url>URL#1389216</url>
+</hit>
+<hit score="1" id="1389226">
+<info><authors><author pid="86/8501-2">Kang Yang 0002</author><author pid="251/1580">Chenkai Weng</author><author pid="195/7137">Xiao Lan</author><author pid="94/2739-1">Jiang Zhang 0001</author><author pid="150/9413">Xiao Wang 0012</author></authors><title>Ferret: Fast Extension for Correlated OT with Small Communication.</title><venue>CCS</venue><pages>1607-1626</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YangWLZW20</key><doi>10.1145/3372297.3417276</doi><ee>https://doi.org/10.1145/3372297.3417276</ee><url>https://dblp.org/rec/conf/ccs/YangWLZW20</url></info>
+<url>URL#1389226</url>
+</hit>
+<hit score="1" id="1389227">
+<info><authors><author pid="86/8501-2">Kang Yang 0002</author><author pid="150/9413">Xiao Wang 0012</author><author pid="94/2739-1">Jiang Zhang 0001</author></authors><title>More Efficient MPC from Improved Triple Generation and Authenticated Garbling.</title><venue>CCS</venue><pages>1627-1646</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YangWZ20</key><doi>10.1145/3372297.3417285</doi><ee>https://doi.org/10.1145/3372297.3417285</ee><url>https://dblp.org/rec/conf/ccs/YangWZ20</url></info>
+<url>URL#1389227</url>
+</hit>
+<hit score="1" id="1389234">
+<info><authors><author pid="146/3078">Victor Zeng</author><author pid="05/3403">Xin Zhou</author><author pid="181/5898">Shahryar Baki</author><author pid="v/RakeshMVerma">Rakesh M. Verma</author></authors><title>PhishBench 2.0: A Versatile and Extendable Benchmarking Framework for Phishing.</title><venue>CCS</venue><pages>2077-2079</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZengZBV20</key><doi>10.1145/3372297.3420017</doi><ee>https://doi.org/10.1145/3372297.3420017</ee><url>https://dblp.org/rec/conf/ccs/ZengZBV20</url></info>
+<url>URL#1389234</url>
+</hit>
+<hit score="1" id="1389236">
+<info><authors><author pid="203/8611">Jiaheng Zhang</author><author pid="277/7933">Zhiyong Fang</author><author pid="82/4816-1">Yupeng Zhang 0001</author><author pid="s/DXSong">Dawn Song</author></authors><title>Zero Knowledge Proofs for Decision Tree Predictions and Accuracy.</title><venue>CCS</venue><pages>2039-2053</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangFZS20</key><doi>10.1145/3372297.3417278</doi><ee>https://doi.org/10.1145/3372297.3417278</ee><url>https://dblp.org/rec/conf/ccs/ZhangFZS20</url></info>
+<url>URL#1389236</url>
+</hit>
+<hit score="1" id="1389238">
+<info><authors><author pid="21/3626-22">Fan Zhang 0022</author><author pid="235/4793">Deepak Maram</author><author pid="248/7911">Harjasleen Malvai</author><author pid="151/5205">Steven Goldfeder</author><author pid="j/AriJuels">Ari Juels</author></authors><title>DECO: Liberating Web Data Using Decentralized Oracles for TLS.</title><venue>CCS</venue><pages>1919-1938</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangMMGJ20</key><doi>10.1145/3372297.3417239</doi><ee>https://doi.org/10.1145/3372297.3417239</ee><url>https://dblp.org/rec/conf/ccs/ZhangMMGJ20</url></info>
+<url>URL#1389238</url>
+</hit>
+<hit score="1" id="1389239">
+<info><authors><author pid="40/9956">Ziyi Zhang</author><author pid="256/7750">Boqin Qin</author><author pid="86/2531">Yilun Chen</author><author pid="55/7502">Linhai Song</author><author pid="64/3770-5">Yiying Zhang 0005</author></authors><title>VRLifeTime - An IDE Tool to Avoid Concurrency and Memory Bugs in Rust.</title><venue>CCS</venue><pages>2085-2087</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangQCSZ20</key><doi>10.1145/3372297.3420024</doi><ee>https://doi.org/10.1145/3372297.3420024</ee><url>https://dblp.org/rec/conf/ccs/ZhangQCSZ20</url></info>
+<url>URL#1389239</url>
+</hit>
+<hit score="1" id="1389241">
+<info><authors><author pid="z/BenyuZhang">Benyu Zhang</author><author pid="36/2133">Matei Zaharia</author><author pid="07/8388">Shouling Ji</author><author pid="91/275">Raluca Ada Popa</author><author pid="64/1147">Guofei Gu</author></authors><title>PPMLP 2020: Workshop on Privacy-Preserving Machine Learning In Practice.</title><venue>CCS</venue><pages>2139-2140</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangZJPG20</key><doi>10.1145/3372297.3416245</doi><ee>https://doi.org/10.1145/3372297.3416245</ee><url>https://dblp.org/rec/conf/ccs/ZhangZJPG20</url></info>
+<url>URL#1389241</url>
+</hit>
+<hit score="1" id="1389242">
+<info><authors><author pid="87/6853">Zhao Zhang</author><author pid="72/1077">Wenchao Zhou</author><author pid="57/3752">Micah Sherr</author></authors><title>Bypassing Tor Exit Blocking with Exit Bridge Onion Services.</title><venue>CCS</venue><pages>3-16</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangZS20</key><doi>10.1145/3372297.3417245</doi><ee>https://doi.org/10.1145/3372297.3417245</ee><url>https://dblp.org/rec/conf/ccs/ZhangZS20</url></info>
+<url>URL#1389242</url>
+</hit>
+<hit score="1" id="1389243">
+<info><authors><author pid="29/3959">Mingming Zhang</author><author pid="11/11005">Xiaofeng Zheng</author><author pid="245/2568">Kaiwen Shen</author><author pid="277/8130">Ziqiao Kong</author><author pid="223/6794">Chaoyi Lu</author><author pid="02/5889">Yu Wang</author><author pid="36/5143">Haixin Duan</author><author pid="07/6713">Shuang Hao</author><author pid="89/10754">Baojun Liu</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Talking with Familiar Strangers: An Empirical Study on HTTPS Context Confusion Attacks.</title><venue>CCS</venue><pages>1939-1952</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangZSKLWDHLY20</key><doi>10.1145/3372297.3417252</doi><ee>https://doi.org/10.1145/3372297.3417252</ee><url>https://dblp.org/rec/conf/ccs/ZhangZSKLWDHLY20</url></info>
+<url>URL#1389243</url>
+</hit>
+<hit score="1" id="1389244">
+<info><authors><author pid="96/6053-1">Xiaohan Zhang 0001</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="92/2292">Ming Zhong</author><author pid="207/9949">Daizong Ding</author><author pid="28/8733">Yinzhi Cao</author><author pid="184/6378">Yukun Zhang</author><author pid="84/2519-1">Mi Zhang 0001</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Enhancing State-of-the-art Classifiers with API Semantics to Detect Evolved Android Malware.</title><venue>CCS</venue><pages>757-770</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangZZDCZZY20</key><doi>10.1145/3372297.3417291</doi><ee>https://doi.org/10.1145/3372297.3417291</ee><url>https://dblp.org/rec/conf/ccs/ZhangZZDCZZY20</url></info>
+<url>URL#1389244</url>
+</hit>
+<hit score="1" id="1389245">
+<info><authors><author pid="87/734">Lei Zhao</author><author pid="277/8004">Yuncong Zhu</author><author pid="09/6585-2">Jiang Ming 0002</author><author pid="36/1838">Yichen Zhang</author><author pid="83/4184">Haotian Zhang</author><author pid="77/6178-1">Heng Yin 0001</author></authors><title>PatchScope: Memory Object Centric Patch Diffing.</title><venue>CCS</venue><pages>149-165</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhaoZ0ZZY20</key><doi>10.1145/3372297.3423342</doi><ee>https://doi.org/10.1145/3372297.3423342</ee><url>https://dblp.org/rec/conf/ccs/ZhaoZ0ZZY20</url></info>
+<url>URL#1389245</url>
+</hit>
+<hit score="1" id="1389246">
+<info><authors><author pid="95/305">Rui Zhong</author><author pid="44/9048">Yongheng Chen</author><author pid="70/2543-4">Hong Hu 0004</author><author pid="266/8368">Hangfan Zhang</author><author pid="29/5976">Wenke Lee</author><author pid="54/2696">Dinghao Wu</author></authors><title>SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback.</title><venue>CCS</venue><pages>955-970</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhongC0ZLW20</key><doi>10.1145/3372297.3417260</doi><ee>https://doi.org/10.1145/3372297.3417260</ee><url>https://dblp.org/rec/conf/ccs/ZhongC0ZLW20</url></info>
+<url>URL#1389246</url>
+</hit>
+<hit score="1" id="1389247">
+<info><authors><author pid="189/8669">Shuofei Zhu</author><author pid="40/9956">Ziyi Zhang</author><author pid="06/6358">Limin Yang</author><author pid="55/7502">Linhai Song</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>Benchmarking Label Dynamics of VirusTotal Engines.</title><venue>CCS</venue><pages>2081-2083</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhuZYSW20</key><doi>10.1145/3372297.3420013</doi><ee>https://doi.org/10.1145/3372297.3420013</ee><url>https://dblp.org/rec/conf/ccs/ZhuZYSW20</url></info>
+<url>URL#1389247</url>
+</hit>
+<hit score="1" id="1536893">
+<info><authors><author pid="l/JayLigatti">Jay Ligatti</author><author pid="41/4686">Xinming Ou</author><author pid="k/JonathanKatz">Jonathan Katz</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>CCS &apos;20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020</title><venue>CCS</venue><publisher>ACM</publisher><year>2020</year><type>Editorship</type><key>conf/ccs/2020</key><doi>10.1145/3372297</doi><ee>https://doi.org/10.1145/3372297</ee><url>https://dblp.org/rec/conf/ccs/2020</url></info>
+<url>URL#1536893</url>
+</hit>
+</hits>
+</result>

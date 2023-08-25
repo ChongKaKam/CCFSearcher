@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239253">:facetid:toc:\"db/conf/ccs/ccs2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">194.70</time>
+<completions total="1" computed="1" sent="1">
+<c sc="226" dc="226" oc="226" id="41012992">:facetid:toc:db/conf/ccs/ccs2021.bht</c>
+</completions>
+<hits total="226" computed="226" sent="226" first="0">
+<hit score="1" id="950571">
+<info><authors><author pid="42/3781-1">Mike Graf 0001</author><author pid="157/2805-1">Daniel Rausch 0001</author><author pid="222/6751">Viktoria Ronge</author><author pid="33/6847-1">Christoph Egger 0001</author><author pid="k/RKusters">Ralf Küsters</author><author pid="52/6199">Dominique Schröder</author></authors><title>A Security Framework for Distributed Ledgers.</title><venue>CCS</venue><pages>1043-1064</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/00010R0KS21</key><doi>10.1145/3460120.3485362</doi><ee>https://doi.org/10.1145/3460120.3485362</ee><url>https://dblp.org/rec/conf/ccs/00010R0KS21</url></info>
+<url>URL#950571</url>
+</hit>
+<hit score="1" id="950572">
+<info><authors><author pid="145/3288-1">Tianhao Wang 0001</author><author pid="266/1555">Joann Qiongna Chen</author><author pid="90/545-1">Zhikun Zhang 0001</author><author pid="86/2167">Dong Su</author><author pid="15/8296">Yueqiang Cheng</author><author pid="62/4119-1">Zhou Li 0001</author><author pid="l/NinghuiLi">Ninghui Li</author><author pid="j/SomeshJha">Somesh Jha</author></authors><title>Continuous Release of Data Streams under both Centralized and Local Differential Privacy.</title><venue>CCS</venue><pages>1237-1253</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0001C0SC0LJ21</key><doi>10.1145/3460120.3484750</doi><ee>https://doi.org/10.1145/3460120.3484750</ee><url>https://dblp.org/rec/conf/ccs/0001C0SC0LJ21</url></info>
+<url>URL#950572</url>
+</hit>
+<hit score="1" id="950573">
+<info><authors><author pid="19/2685-1">Ren Ding 0001</author><author pid="237/0166">Yonghae Kim</author><author pid="249/5653">Fan Sang</author><author pid="42/1870-2">Wen Xu 0002</author><author pid="196/6747">Gururaj Saileshwar</author><author pid="38/8882">Taesoo Kim</author></authors><title>Hardware Support to Improve Fuzzing Performance and Precision.</title><venue>CCS</venue><pages>2214-2228</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0001KS0SK21</key><doi>10.1145/3460120.3484573</doi><ee>https://doi.org/10.1145/3460120.3484573</ee><url>https://dblp.org/rec/conf/ccs/0001KS0SK21</url></info>
+<url>URL#950573</url>
+</hit>
+<hit score="1" id="950574">
+<info><authors><author pid="26/2051">Martin Aumüller 0001</author><author pid="295/8641">Christian Janos Lebeda</author><author pid="p/RasmusPagh">Rasmus Pagh</author></authors><title>Differentially Private Sparse Vectors with Low Error, Optimal Space, and Fast Access.</title><venue>CCS</venue><pages>1223-1236</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0001LP21</key><doi>10.1145/3460120.3484735</doi><ee>https://doi.org/10.1145/3460120.3484735</ee><url>https://dblp.org/rec/conf/ccs/0001LP21</url></info>
+<url>URL#950574</url>
+</hit>
+<hit score="1" id="950575">
+<info><authors><author pid="133/5336-1">Chong Xiang 0001</author><author pid="39/6266">Prateek Mittal</author></authors><title>DetectorGuard: Provably Securing Object Detectors against Localized Patch Hiding Attacks.</title><venue>CCS</venue><pages>3177-3196</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0001M21</key><doi>10.1145/3460120.3484757</doi><ee>https://doi.org/10.1145/3460120.3484757</ee><url>https://dblp.org/rec/conf/ccs/0001M21</url></info>
+<url>URL#950575</url>
+</hit>
+<hit score="1" id="950576">
+<info><authors><author pid="f/FelixFischer-1">Felix Fischer 0001</author><author pid="248/1633">Yannick Stachelscheid</author><author pid="28/3855">Jens Grossklags</author></authors><title>The Effect of Google Search on Software Security: Unobtrusive Security Interventions via Content Re-ranking.</title><venue>CCS</venue><pages>3070-3084</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0001SG21</key><doi>10.1145/3460120.3484763</doi><ee>https://doi.org/10.1145/3460120.3484763</ee><url>https://dblp.org/rec/conf/ccs/0001SG21</url></info>
+<url>URL#950576</url>
+</hit>
+<hit score="1" id="950577">
+<info><authors><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="220/2463">Juchuan Zhang</author><author pid="72/2238">Shui Jiang</author><author pid="142/2239">Jishen Li</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>CapSpeaker: Injecting Voices to Microphones via Capacitors.</title><venue>CCS</venue><pages>1915-1929</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0001ZJLX21</key><doi>10.1145/3460120.3485389</doi><ee>https://doi.org/10.1145/3460120.3485389</ee><url>https://dblp.org/rec/conf/ccs/0001ZJLX21</url></info>
+<url>URL#950577</url>
+</hit>
+<hit score="1" id="950578">
+<info><authors><author pid="a/NitinAgrawal2">Nitin Agrawal 0002</author><author pid="238/0043">James Bell 0001</author><author pid="90/3256">Adrià Gascón</author><author pid="120/7700">Matt J. Kusner</author></authors><title>MPC-Friendly Commitments for Publicly Verifiable Covert Security.</title><venue>CCS</venue><pages>2685-2704</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/00020GK21</key><doi>10.1145/3460120.3485375</doi><ee>https://doi.org/10.1145/3460120.3485375</ee><url>https://dblp.org/rec/conf/ccs/00020GK21</url></info>
+<url>URL#950578</url>
+</hit>
+<hit score="1" id="950580">
+<info><authors><author pid="88/845-2">Zhongjie Wang 0002</author><author pid="155/8420">Shitong Zhu</author><author pid="267/1308">Keyu Man</author><author pid="267/1327">Pengxiong Zhu</author><author pid="33/3270-6">Yu Hao 0006</author><author pid="31/8302">Zhiyun Qian</author><author pid="k/SrikanthVKrishnamurthy">Srikanth V. Krishnamurthy</author><author pid="l/TomLaPorta">Tom La Porta</author><author pid="241/6145">Michael J. De Lucia</author></authors><title>Themis: Ambiguity-Aware Network Intrusion Detection based on Symbolic Model Comparison.</title><venue>CCS</venue><pages>3384-3399</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0002ZMZHQKPL21a</key><doi>10.1145/3460120.3484762</doi><ee>https://doi.org/10.1145/3460120.3484762</ee><url>https://dblp.org/rec/conf/ccs/0002ZMZHQKPL21a</url></info>
+<url>URL#950580</url>
+</hit>
+<hit score="1" id="950581">
+<info><authors><author pid="30/1250-3">Poulami Das 0003</author><author pid="200/7340">Andreas Erwig</author><author pid="71/4369">Sebastian Faust</author><author pid="184/3870">Julian Loss</author><author pid="44/10914-2">Siavash Riahi 0002</author></authors><title>The Exact Security of BIP32 Wallets.</title><venue>CCS</venue><pages>1020-1042</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0003EFL021</key><doi>10.1145/3460120.3484807</doi><ee>https://doi.org/10.1145/3460120.3484807</ee><url>https://dblp.org/rec/conf/ccs/0003EFL021</url></info>
+<url>URL#950581</url>
+</hit>
+<hit score="1" id="950582">
+<info><authors><author pid="53/8484-4">Daniel Günther 0004</author><author pid="06/3872-3">Thomas Schneider 0003</author><author pid="306/1386">Felix Wiegand</author></authors><title>Revisiting Hybrid Private Information Retrieval.</title><venue>CCS</venue><pages>2408-2410</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/00040W21</key><doi>10.1145/3460120.3485346</doi><ee>https://doi.org/10.1145/3460120.3485346</ee><url>https://dblp.org/rec/conf/ccs/00040W21</url></info>
+<url>URL#950582</url>
+</hit>
+<hit score="1" id="950583">
+<info><authors><author pid="76/5416-9">Yiming Zhang 0009</author><author pid="89/10754">Baojun Liu</author><author pid="223/6794">Chaoyi Lu</author><author pid="62/4119-1">Zhou Li 0001</author><author pid="36/5143">Haixin Duan</author><author pid="137/8316">Jiachen Li</author><author pid="49/4797">Zaifeng Zhang</author></authors><title>Rusted Anchors: A National Client-Side View of Hidden Root CAs in the Web PKI Ecosystem.</title><venue>CCS</venue><pages>1373-1387</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0009LL0DLZ21</key><doi>10.1145/3460120.3484768</doi><ee>https://doi.org/10.1145/3460120.3484768</ee><url>https://dblp.org/rec/conf/ccs/0009LL0DLZ21</url></info>
+<url>URL#950583</url>
+</hit>
+<hit score="1" id="950585">
+<info><authors><author pid="48/76-18">Yue Zhao 0018</author><author pid="55/521">Hong Zhu</author><author pid="c/KaiChen12">Kai Chen 0012</author><author pid="65/3618">Shengzhi Zhang</author></authors><title>AI-Lancet: Locating Error-inducing Neurons to Optimize Neural Networks.</title><venue>CCS</venue><pages>141-158</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/0018Z0Z21</key><doi>10.1145/3460120.3484818</doi><ee>https://doi.org/10.1145/3460120.3484818</ee><url>https://dblp.org/rec/conf/ccs/0018Z0Z21</url></info>
+<url>URL#950585</url>
+</hit>
+<hit score="1" id="950586">
+<info><authors><author pid="35/7092-190">Wei Wang 0190</author><author pid="07/4410-9">Yao Yao 0009</author><author pid="76/1820-45">Xin Liu 0045</author><author pid="40/1491">Xiang Li</author><author pid="68/3462">Pei Hao</author><author pid="42/5105-1">Ting Zhu 0001</author></authors><title>I Can See the Light: Attacks on Autonomous Vehicles Using Invisible Lights.</title><venue>CCS</venue><pages>1930-1944</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/01900LLHZ21</key><doi>10.1145/3460120.3484766</doi><ee>https://doi.org/10.1145/3460120.3484766</ee><url>https://dblp.org/rec/conf/ccs/01900LLHZ21</url></info>
+<url>URL#950586</url>
+</hit>
+<hit score="1" id="950589">
+<info><authors><author pid="289/0389">Abdulrahman Alabduljabbar</author><author pid="236/5184">Ahmed Abusnaina</author><author pid="236/4774">Ülkü Meteriz-Yildiran</author><author pid="70/2832">David Mohaisen</author></authors><title>Automated Privacy Policy Annotation with Information Highlighting Made Practical Using Deep Representations.</title><venue>CCS</venue><pages>2378-2380</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AlabduljabbarAM21</key><doi>10.1145/3460120.3485335</doi><ee>https://doi.org/10.1145/3460120.3485335</ee><url>https://dblp.org/rec/conf/ccs/AlabduljabbarAM21</url></info>
+<url>URL#950589</url>
+</hit>
+<hit score="1" id="950590">
+<info><authors><author pid="217/3027">Fritz Alder</author><author pid="167/1573">Jo Van Bulck</author><author pid="85/6647">Frank Piessens</author><author pid="84/4044">Jan Tobias Mühlberg</author></authors><title>Aion: Enabling Open Systems through Strong Availability Guarantees for Enclaves.</title><venue>CCS</venue><pages>1357-1372</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AlderBPM21</key><doi>10.1145/3460120.3484782</doi><ee>https://doi.org/10.1145/3460120.3484782</ee><url>https://dblp.org/rec/conf/ccs/AlderBPM21</url></info>
+<url>URL#950590</url>
+</hit>
+<hit score="1" id="950591">
+<info><authors><author pid="66/3456">José Bacelar Almeida</author><author pid="06/5631">Manuel Barbosa</author><author pid="303/4715">Manuel L. Correia</author><author pid="01/4656">Karim Eldefrawy</author><author pid="03/6304">Stéphane Graham-Lengrand</author><author pid="10/3783">Hugo Pacheco 0001</author><author pid="120/2530-2">Vitor Pereira 0002</author></authors><title>Machine-checked ZKP for NP relations: Formally Verified Security Proofs and Implementations of MPC-in-the-Head.</title><venue>CCS</venue><pages>2587-2600</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AlmeidaBCEG0P21</key><doi>10.1145/3460120.3484771</doi><ee>https://doi.org/10.1145/3460120.3484771</ee><url>https://dblp.org/rec/conf/ccs/AlmeidaBCEG0P21</url></info>
+<url>URL#950591</url>
+</hit>
+<hit score="1" id="950592">
+<info><authors><author pid="75/3014">Joël Alwen</author><author pid="134/7643">Sandro Coretti</author><author pid="d/YevgeniyDodis">Yevgeniy Dodis</author><author pid="138/3126">Yiannis Tselekounis</author></authors><title>Modular Design of Secure Group Messaging Protocols and the Security of MLS.</title><venue>CCS</venue><pages>1463-1483</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AlwenCDT21</key><doi>10.1145/3460120.3484820</doi><ee>https://doi.org/10.1145/3460120.3484820</ee><url>https://dblp.org/rec/conf/ccs/AlwenCDT21</url></info>
+<url>URL#950592</url>
+</hit>
+<hit score="1" id="950594">
+<info><authors><author pid="281/7758">Md. Monowar Anjum</author><author pid="94/1458">Noman Mohammed</author><author pid="43/3924">Xiaoqian Jiang</author></authors><title>De-identification of Unstructured Clinical Texts from Sequence to Sequence Perspective.</title><venue>CCS</venue><pages>2438-2440</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AnjumMJ21</key><doi>10.1145/3460120.3485354</doi><ee>https://doi.org/10.1145/3460120.3485354</ee><url>https://dblp.org/rec/conf/ccs/AnjumMJ21</url></info>
+<url>URL#950594</url>
+</hit>
+<hit score="1" id="950595">
+<info><authors><author pid="71/5678">Toshinori Araki</author><author pid="74/3729">Jun Furukawa 0001</author><author pid="130/3617">Kazuma Ohara</author><author pid="31/1735">Benny Pinkas</author><author pid="202/1885">Hanan Rosemarin</author><author pid="189/3865">Hikaru Tsuchida</author></authors><title>Secure Graph Analysis at Scale.</title><venue>CCS</venue><pages>610-629</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Araki0OPRT21</key><doi>10.1145/3460120.3484560</doi><ee>https://doi.org/10.1145/3460120.3484560</ee><url>https://dblp.org/rec/conf/ccs/Araki0OPRT21</url></info>
+<url>URL#950595</url>
+</hit>
+<hit score="1" id="950596">
+<info><authors><author pid="23/1509">Nuttapong Attrapadung</author><author pid="88/1238">Goichiro Hanaoka</author><author pid="m/TakahiroMatsuda2">Takahiro Matsuda 0002</author><author pid="01/2713">Hiraku Morita</author><author pid="130/3617">Kazuma Ohara</author><author pid="06/2688">Jacob C. N. Schuldt</author><author pid="11/8731">Tadanori Teruya</author><author pid="306/1046">Kazunari Tozawa</author></authors><title>Oblivious Linear Group Actions and Applications.</title><venue>CCS</venue><pages>630-650</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/AttrapadungH0MO21</key><doi>10.1145/3460120.3484584</doi><ee>https://doi.org/10.1145/3460120.3484584</ee><url>https://dblp.org/rec/conf/ccs/AttrapadungH0MO21</url></info>
+<url>URL#950596</url>
+</hit>
+<hit score="1" id="950597">
+<info><authors><author pid="225/5499">Alireza Bahramali</author><author pid="187/8997">Milad Nasr</author><author pid="22/1797">Amir Houmansadr</author><author pid="77/910">Dennis Goeckel</author><author pid="t/DonaldFTowsley">Don Towsley</author></authors><title>Robust Adversarial Attacks Against DNN-Based Wireless Communication Systems.</title><venue>CCS</venue><pages>126-140</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BahramaliNHGT21</key><doi>10.1145/3460120.3484777</doi><ee>https://doi.org/10.1145/3460120.3484777</ee><url>https://dblp.org/rec/conf/ccs/BahramaliNHGT21</url></info>
+<url>URL#950597</url>
+</hit>
+<hit score="1" id="950598">
+<info><authors><author pid="279/0069">Vinuri Bandara</author><author pid="279/0132">Thisura Rathnayake</author><author pid="278/9849">Nipuna Weerasekara</author><author pid="205/7762">Charitha Elvitigala</author><author pid="10/8850">Kenneth Thilakarathna</author><author pid="162/0214">Primal Wijesekera</author><author pid="22/2540">Kasun De Zoysa</author><author pid="01/3590">Chamath Keppitiyagama</author></authors><title>Demo: Large Scale Analysis on Vulnerability Remediation in Open-source JavaScript Projects.</title><venue>CCS</venue><pages>2447-2449</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BandaraRWETWZK21</key><doi>10.1145/3460120.3485357</doi><ee>https://doi.org/10.1145/3460120.3485357</ee><url>https://dblp.org/rec/conf/ccs/BandaraRWETWZK21</url></info>
+<url>URL#950598</url>
+</hit>
+<hit score="1" id="950599">
+<info><authors><author pid="06/5631">Manuel Barbosa</author><author pid="b/GBarthe">Gilles Barthe</author><author pid="143/4451">Xiong Fan</author><author pid="28/2414">Benjamin Grégoire</author><author pid="168/8818">Shih-Han Hung</author><author pid="k/JonathanKatz">Jonathan Katz</author><author pid="35/5080">Pierre-Yves Strub</author><author pid="66/8037">Xiaodi Wu</author><author pid="54/40">Li Zhou</author></authors><title>EasyPQC: Verifying Post-Quantum Cryptography.</title><venue>CCS</venue><pages>2564-2586</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BarbosaBFGHKSWZ21</key><doi>10.1145/3460120.3484567</doi><ee>https://doi.org/10.1145/3460120.3484567</ee><url>https://dblp.org/rec/conf/ccs/BarbosaBFGHKSWZ21</url></info>
+<url>URL#950599</url>
+</hit>
+<hit score="1" id="950600">
+<info><authors><author pid="06/5631">Manuel Barbosa</author><author pid="b/GBarthe">Gilles Barthe</author><author pid="28/2414">Benjamin Grégoire</author><author pid="160/4605">Adrien Koutsos</author><author pid="35/5080">Pierre-Yves Strub</author></authors><title>Mechanized Proofs of Adversarial Complexity and Application to Universal Composability.</title><venue>CCS</venue><pages>2541-2563</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BarbosaBGKS21</key><doi>10.1145/3460120.3484548</doi><ee>https://doi.org/10.1145/3460120.3484548</ee><url>https://dblp.org/rec/conf/ccs/BarbosaBGKS21</url></info>
+<url>URL#950600</url>
+</hit>
+<hit score="1" id="950601">
+<info><authors><author pid="b/GBarthe">Gilles Barthe</author><author pid="28/2414">Benjamin Grégoire</author><author pid="66/8883">Vincent Laporte</author><author pid="251/2053">Swarn Priya</author></authors><title>Structured Leakage and Applications to Cryptographic Constant-Time and Cost.</title><venue>CCS</venue><pages>462-476</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BartheGLP21</key><doi>10.1145/3460120.3484761</doi><ee>https://doi.org/10.1145/3460120.3484761</ee><url>https://dblp.org/rec/conf/ccs/BartheGLP21</url></info>
+<url>URL#950601</url>
+</hit>
+<hit score="1" id="950602">
+<info><authors><author pid="b/DavidABasin">David A. Basin</author><author pid="52/10310">Jannik Dreier</author><author pid="306/0974">Sofia Giampietro</author><author pid="36/1937">Sasa Radomirovic</author></authors><title>Verifying Table-Based Elections.</title><venue>CCS</venue><pages>2632-2652</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BasinDGR21</key><doi>10.1145/3460120.3484555</doi><ee>https://doi.org/10.1145/3460120.3484555</ee><url>https://dblp.org/rec/conf/ccs/BasinDGR21</url></info>
+<url>URL#950602</url>
+</hit>
+<hit score="1" id="950603">
+<info><authors><author pid="142/1667">Carsten Baum</author><author pid="275/3023">Lennart Braun</author><author pid="268/5202">Alexander Munch-Hansen</author><author pid="40/6297">Benoît Razet</author><author pid="00/10576">Peter Scholl</author></authors><title>Appenzeller to Brie: Efficient Zero-Knowledge Proofs for Mixed-Mode Arithmetic and Z2k.</title><venue>CCS</venue><pages>192-211</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BaumBMRS21</key><doi>10.1145/3460120.3484812</doi><ee>https://doi.org/10.1145/3460120.3484812</ee><url>https://dblp.org/rec/conf/ccs/BaumBMRS21</url></info>
+<url>URL#950603</url>
+</hit>
+<hit score="1" id="950604">
+<info><authors><author pid="306/1014">Andrew Beams</author><author pid="86/5425">Sampath Kannan</author><author pid="132/8480">Sebastian Angel</author></authors><title>Packet Scheduling with Optional Client Privacy.</title><venue>CCS</venue><pages>3415-3430</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BeamsKA21</key><doi>10.1145/3460120.3485371</doi><ee>https://doi.org/10.1145/3460120.3485371</ee><url>https://dblp.org/rec/conf/ccs/BeamsKA21</url></info>
+<url>URL#950604</url>
+</hit>
+<hit score="1" id="950605">
+<info><authors><author pid="224/2397">Gabrielle Beck</author><author pid="207/6590">Julia Len</author><author pid="129/9500">Ian Miers</author><author pid="74/4531-1">Matthew Green 0001</author></authors><title>Fuzzy Message Detection.</title><venue>CCS</venue><pages>1507-1528</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BeckLM021</key><doi>10.1145/3460120.3484545</doi><ee>https://doi.org/10.1145/3460120.3484545</ee><url>https://dblp.org/rec/conf/ccs/BeckLM021</url></info>
+<url>URL#950605</url>
+</hit>
+<hit score="1" id="950606">
+<info><authors><author pid="80/3503">Karthikeyan Bhargavan</author><author pid="61/10308">Abhishek Bichhawat</author><author pid="52/9967-1">Quoc Huy Do 0001</author><author pid="234/9064">Pedram Hosseyni</author><author pid="k/RKusters">Ralf Küsters</author><author pid="143/7311">Guido Schmitz</author><author pid="181/8352">Tim Würtele</author></authors><title>An In-Depth Symbolic Security Analysis of the ACME Standard.</title><venue>CCS</venue><pages>2601-2617</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BhargavanB0HKSW21</key><doi>10.1145/3460120.3484588</doi><ee>https://doi.org/10.1145/3460120.3484588</ee><url>https://dblp.org/rec/conf/ccs/BhargavanB0HKSW21</url></info>
+<url>URL#950606</url>
+</hit>
+<hit score="1" id="950607">
+<info><authors><author pid="174/9588">Adithya Bhat</author><author pid="236/5741">Nibesh Shrestha</author><author pid="306/1508">Zhongtang Luo</author><author pid="12/3394">Aniket Kate</author><author pid="143/4459">Kartik Nayak</author></authors><title>RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication.</title><venue>CCS</venue><pages>3502-3524</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BhatSLKN21</key><doi>10.1145/3460120.3484574</doi><ee>https://doi.org/10.1145/3460120.3484574</ee><url>https://dblp.org/rec/conf/ccs/BhatSLKN21</url></info>
+<url>URL#950607</url>
+</hit>
+<hit score="1" id="950609">
+<info><authors><author pid="215/3375">Franziska Boenisch</author><author pid="207/3395">Reinhard Munz</author><author pid="239/0034">Marcel Tiepelt</author><author pid="203/9951">Simon Hanisch</author><author pid="232/1891">Christiane Kuhn</author><author pid="f/PaulFrancis">Paul Francis</author></authors><title>Side-Channel Attacks on Query-Based Data Anonymization.</title><venue>CCS</venue><pages>1254-1265</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BoenischMTHKF21</key><doi>10.1145/3460120.3484751</doi><ee>https://doi.org/10.1145/3460120.3484751</ee><url>https://dblp.org/rec/conf/ccs/BoenischMTHKF21</url></info>
+<url>URL#950609</url>
+</hit>
+<hit score="1" id="950610">
+<info><authors><author pid="229/4830">Dmytro Bogatov</author><author pid="29/7128">Georgios Kellaris</author><author pid="k/GeorgeKollios">George Kollios</author><author pid="65/801">Kobbi Nissim</author><author pid="55/3477">Adam O&apos;Neill</author></authors><title>εpsolute: Efficiently Querying Databases While Providing Differential Privacy.</title><venue>CCS</venue><pages>2262-2276</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BogatovKKNO21</key><doi>10.1145/3460120.3484786</doi><ee>https://doi.org/10.1145/3460120.3484786</ee><url>https://dblp.org/rec/conf/ccs/BogatovKKNO21</url></info>
+<url>URL#950610</url>
+</hit>
+<hit score="1" id="950611">
+<info><authors><author pid="202/6734">Jonas Böhler</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>Secure Multi-party Computation of Differentially Private Heavy Hitters.</title><venue>CCS</venue><pages>2361-2377</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BohlerK21</key><doi>10.1145/3460120.3484557</doi><ee>https://doi.org/10.1145/3460120.3484557</ee><url>https://dblp.org/rec/conf/ccs/BohlerK21</url></info>
+<url>URL#950611</url>
+</hit>
+<hit score="1" id="950612">
+<info><authors><author pid="239/8466">Pietro Borrello</author><author pid="32/9698">Daniele Cono D&apos;Elia</author><author pid="24/2123">Leonardo Querzoni</author><author pid="75/8194">Cristiano Giuffrida</author></authors><title>Constantine: Automatic Side-Channel Resistance Using Efficient Control and Data Flow Linearization.</title><venue>CCS</venue><pages>715-733</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BorrelloDQG21</key><doi>10.1145/3460120.3484583</doi><ee>https://doi.org/10.1145/3460120.3484583</ee><url>https://dblp.org/rec/conf/ccs/BorrelloDQG21</url></info>
+<url>URL#950612</url>
+</hit>
+<hit score="1" id="950614">
+<info><authors><author pid="268/6572">Daniel De Almeida Braga</author><author pid="76/6163">Pierre-Alain Fouque</author><author pid="162/4179">Mohamed Sabt</author></authors><title>PARASITE: PAssword Recovery Attack against Srp Implementations in ThE wild.</title><venue>CCS</venue><pages>2497-2512</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BragaFS21</key><doi>10.1145/3460120.3484563</doi><ee>https://doi.org/10.1145/3460120.3484563</ee><url>https://dblp.org/rec/conf/ccs/BragaFS21</url></info>
+<url>URL#950614</url>
+</hit>
+<hit score="1" id="950615">
+<info><authors><author pid="207/6893">Markus Brandt</author><author pid="94/7397">Haya Shulman</author><author pid="90/308">Michael Waidner</author></authors><title>Evaluating Resilience of Domains in PKI.</title><venue>CCS</venue><pages>2444-2446</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BrandtSW21</key><doi>10.1145/3460120.3485356</doi><ee>https://doi.org/10.1145/3460120.3485356</ee><url>https://dblp.org/rec/conf/ccs/BrandtSW21</url></info>
+<url>URL#950615</url>
+</hit>
+<hit score="1" id="950616">
+<info><authors><author pid="190/2844">Robert Buhren</author><author pid="299/1545">Hans Niklas Jacob</author><author pid="170/0453">Thilo Krachenfels</author><author pid="98/117">Jean-Pierre Seifert</author></authors><title>One Glitch to Rule Them All: Fault Injection Attacks Against AMD&apos;s Secure Encrypted Virtualization.</title><venue>CCS</venue><pages>2875-2889</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BuhrenJKS21</key><doi>10.1145/3460120.3484779</doi><ee>https://doi.org/10.1145/3460120.3484779</ee><url>https://dblp.org/rec/conf/ccs/BuhrenJKS21</url></info>
+<url>URL#950616</url>
+</hit>
+<hit score="1" id="950617">
+<info><authors><author pid="90/9994">Duc Bui</author><author pid="25/4120">Yuan Yao</author><author pid="s/KangGShin">Kang G. Shin</author><author pid="290/5068">Jong-Min Choi</author><author pid="70/5871">Junbum Shin</author></authors><title>Consistency Analysis of Data-Usage Purposes in Mobile Apps.</title><venue>CCS</venue><pages>2824-2843</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/BuiYSCS21</key><doi>10.1145/3460120.3484536</doi><ee>https://doi.org/10.1145/3460120.3484536</ee><url>https://dblp.org/rec/conf/ccs/BuiYSCS21</url></info>
+<url>URL#950617</url>
+</hit>
+<hit score="1" id="950622">
+<info><authors><author pid="77/5616">Nishanth Chandran</author><author pid="286/6510">Nishka Dasgupta</author><author pid="66/11477-1">Divya Gupta 0001</author><author pid="208/0827">Sai Lakshmi Bhavana Obbattu</author><author pid="208/0806">Sruthi Sekar</author><author pid="179/9900">Akash Shah</author></authors><title>Efficient Linear Multiparty PSI and Extensions to Circuit/Quorum PSI.</title><venue>CCS</venue><pages>1182-1204</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChandranD0OSS21</key><doi>10.1145/3460120.3484591</doi><ee>https://doi.org/10.1145/3460120.3484591</ee><url>https://dblp.org/rec/conf/ccs/ChandranD0OSS21</url></info>
+<url>URL#950622</url>
+</hit>
+<hit score="1" id="950623">
+<info><authors><author pid="50/6996-32">Min Chen 0032</author><author pid="90/545-1">Zhikun Zhang 0001</author><author pid="145/3288-1">Tianhao Wang 0001</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="83/8816">Mathias Humbert</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>When Machine Unlearning Jeopardizes Privacy.</title><venue>CCS</venue><pages>896-911</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Chen000HZ21</key><doi>10.1145/3460120.3484756</doi><ee>https://doi.org/10.1145/3460120.3484756</ee><url>https://dblp.org/rec/conf/ccs/Chen000HZ21</url></info>
+<url>URL#950623</url>
+</hit>
+<hit score="1" id="950624">
+<info><authors><author pid="09/7487-1">Yizheng Chen 0001</author><author pid="58/9145-2">Shiqi Wang 0002</author><author pid="142/1169">Yue Qin</author><author pid="129/1113">Xiaojing Liao</author><author pid="74/28">Suman Jana</author><author pid="42/5626">David A. Wagner 0001</author></authors><title>Learning Security Classifiers with Verified Global Robustness Properties.</title><venue>CCS</venue><pages>477-494</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Chen0QLJW21</key><doi>10.1145/3460120.3484776</doi><ee>https://doi.org/10.1145/3460120.3484776</ee><url>https://dblp.org/rec/conf/ccs/Chen0QLJW21</url></info>
+<url>URL#950624</url>
+</hit>
+<hit score="1" id="950626">
+<info><authors><author pid="50/10586">Yanjiao Chen</author><author pid="298/2788">Yijie Bai</author><author pid="244/4957">Richard Mitev</author><author pid="53/2141">Kaibo Wang</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>FakeWake: Understanding and Mitigating Fake Wake-up Words of Voice Assistants.</title><venue>CCS</venue><pages>1861-1883</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChenBMWSX21</key><doi>10.1145/3460120.3485365</doi><ee>https://doi.org/10.1145/3460120.3485365</ee><url>https://dblp.org/rec/conf/ccs/ChenBMWSX21</url></info>
+<url>URL#950626</url>
+</hit>
+<hit score="1" id="950627">
+<info><authors><author pid="306/1638">Hsin Yi Chen</author><author pid="155/9775">Siddharth Prakash Rao</author></authors><title>On Adoptability and Use Case Exploration of Threat Modeling for Mobile Communication Systems.</title><venue>CCS</venue><pages>2417-2419</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChenR21</key><doi>10.1145/3460120.3485348</doi><ee>https://doi.org/10.1145/3460120.3485348</ee><url>https://dblp.org/rec/conf/ccs/ChenR21</url></info>
+<url>URL#950627</url>
+</hit>
+<hit score="1" id="950628">
+<info><authors><author pid="49/7998">Chien-Ying Chen</author><author pid="278/7387">Debopam Sanyal</author><author pid="60/5790">Sibin Mohan</author></authors><title>Indistinguishability Prevents Scheduler Side Channels in Real-Time Systems.</title><venue>CCS</venue><pages>666-684</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChenSM21</key><doi>10.1145/3460120.3484769</doi><ee>https://doi.org/10.1145/3460120.3484769</ee><url>https://dblp.org/rec/conf/ccs/ChenSM21</url></info>
+<url>URL#950628</url>
+</hit>
+<hit score="1" id="950629">
+<info><authors><author pid="224/9379">Weiteng Chen</author><author pid="02/5889">Yu Wang</author><author pid="181/2621">Zheng Zhang</author><author pid="31/8302">Zhiyun Qian</author></authors><title>SyzGen: Automated Generation of Syscall Specification of Closed-Source macOS Drivers.</title><venue>CCS</venue><pages>749-763</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChenWZQ21</key><doi>10.1145/3460120.3484564</doi><ee>https://doi.org/10.1145/3460120.3484564</ee><url>https://dblp.org/rec/conf/ccs/ChenWZQ21</url></info>
+<url>URL#950629</url>
+</hit>
+<hit score="1" id="950632">
+<info><authors><author pid="83/5841">Seung Geol Choi</author><author pid="38/6981">Dana Dachman-Soled</author><author pid="73/2739">S. Dov Gordon</author><author pid="72/9051">Linsheng Liu</author><author pid="05/4233">Arkady Yerukhimovich</author></authors><title>Compressed Oblivious Encoding for Homomorphically Encrypted Search.</title><venue>CCS</venue><pages>2277-2291</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChoiDGLY21</key><doi>10.1145/3460120.3484792</doi><ee>https://doi.org/10.1145/3460120.3484792</ee><url>https://dblp.org/rec/conf/ccs/ChoiDGLY21</url></info>
+<url>URL#950632</url>
+</hit>
+<hit score="1" id="950635">
+<info><authors><author pid="64/4993">Mihai Christodorescu</author><author pid="237/1642">Sivanarayana Gaddam</author><author pid="128/5167">Pratyay Mukherjee</author><author pid="04/4646-1">Rohit Sinha 0001</author></authors><title>Amortized Threshold Symmetric-key Encryption.</title><venue>CCS</venue><pages>2758-2779</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ChristodorescuG21</key><doi>10.1145/3460120.3485256</doi><ee>https://doi.org/10.1145/3460120.3485256</ee><url>https://dblp.org/rec/conf/ccs/ChristodorescuG21</url></info>
+<url>URL#950635</url>
+</hit>
+<hit score="1" id="950636">
+<info><authors><author pid="217/2220">Benjamin Coleman</author><author pid="63/9828">Anshumali Shrivastava</author></authors><title>A One-Pass Distributed and Private Sketch for Kernel Sums with Applications to Machine Learning at Scale.</title><venue>CCS</venue><pages>3252-3265</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ColemanS21</key><doi>10.1145/3460120.3485255</doi><ee>https://doi.org/10.1145/3460120.3485255</ee><url>https://dblp.org/rec/conf/ccs/ColemanS21</url></info>
+<url>URL#950636</url>
+</hit>
+<hit score="1" id="950637">
+<info><authors><author pid="168/2895">Kelong Cong</author><author pid="300/9872">Radames Cruz Moreno</author><author pid="300/9873">Mariana Botelho da Gama</author><author pid="76/2897">Wei Dai</author><author pid="177/2258">Ilia Iliashenko</author><author pid="146/7941">Kim Laine</author><author pid="122/5145">Michael Rosenberg</author></authors><title>Labeled PSI from Homomorphic Encryption with Reduced Computation and Communication.</title><venue>CCS</venue><pages>1135-1150</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CongMGDILR21</key><doi>10.1145/3460120.3484760</doi><ee>https://doi.org/10.1145/3460120.3484760</ee><url>https://dblp.org/rec/conf/ccs/CongMGDILR21</url></info>
+<url>URL#950637</url>
+</hit>
+<hit score="1" id="950639">
+<info><authors><author pid="293/9344">Alexander S. La Cour</author><author pid="130/0926">Khurram K. Afridi</author><author pid="09/5657">G. Edward Suh</author></authors><title>Wireless Charging Power Side-Channel Attacks.</title><venue>CCS</venue><pages>651-665</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CourAS21</key><doi>10.1145/3460120.3484733</doi><ee>https://doi.org/10.1145/3460120.3484733</ee><url>https://dblp.org/rec/conf/ccs/CourAS21</url></info>
+<url>URL#950639</url>
+</hit>
+<hit score="1" id="950640">
+<info><authors><author pid="156/2428-2">Jinhua Cui 0002</author><author pid="276/6842">Jason Zhijingcheng Yu</author><author pid="136/8404">Shweta Shinde</author><author pid="90/105">Prateek Saxena</author><author pid="64/2739">Zhiping Cai</author></authors><title>SmashEx: Smashing SGX Enclaves Using Exceptions.</title><venue>CCS</venue><pages>779-793</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CuiYSSC21</key><doi>10.1145/3460120.3484821</doi><ee>https://doi.org/10.1145/3460120.3484821</ee><url>https://dblp.org/rec/conf/ccs/CuiYSSC21</url></info>
+<url>URL#950640</url>
+</hit>
+<hit score="1" id="950641">
+<info><authors><author pid="56/9841">Rachel Cummings</author><author pid="185/1661">Gabriel Kaptchuk</author><author pid="141/9244">Elissa M. Redmiles</author></authors><title>&quot;I need a better description&quot;: An Investigation Into User Expectations For Differential Privacy.</title><venue>CCS</venue><pages>3037-3052</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/CummingsKR21</key><doi>10.1145/3460120.3485252</doi><ee>https://doi.org/10.1145/3460120.3485252</ee><url>https://dblp.org/rec/conf/ccs/CummingsKR21</url></info>
+<url>URL#950641</url>
+</hit>
+<hit score="1" id="950644">
+<info><authors><author pid="188/4885">Tianxiang Dai</author><author pid="94/7397">Haya Shulman</author><author pid="90/308">Michael Waidner</author></authors><title>Let&apos;s Downgrade Let&apos;s Encrypt.</title><venue>CCS</venue><pages>1421-1440</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DaiSW21</key><doi>10.1145/3460120.3484815</doi><ee>https://doi.org/10.1145/3460120.3484815</ee><url>https://dblp.org/rec/conf/ccs/DaiSW21</url></info>
+<url>URL#950644</url>
+</hit>
+<hit score="1" id="950645">
+<info><authors><author pid="217/3746">Jiarun Dai</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="186/5768">Hailong Xu</author><author pid="306/1589">Haiming Lyu</author><author pid="306/1084">Zicheng Wu</author><author pid="40/6431">Xinyu Xing</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Facilitating Vulnerability Assessment through PoC Migration.</title><venue>CCS</venue><pages>3300-3317</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DaiZXLWXY21</key><doi>10.1145/3460120.3484594</doi><ee>https://doi.org/10.1145/3460120.3484594</ee><url>https://dblp.org/rec/conf/ccs/DaiZXLWXY21</url></info>
+<url>URL#950645</url>
+</hit>
+<hit score="1" id="950646">
+<info><authors><author pid="31/6808">Sourav Das</author><author pid="175/1673">Zhuolun Xiang</author><author pid="30/10661">Ling Ren 0001</author></authors><title>Asynchronous Data Dissemination and its Applications.</title><venue>CCS</venue><pages>2705-2721</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DasX021</key><doi>10.1145/3460120.3484808</doi><ee>https://doi.org/10.1145/3460120.3484808</ee><url>https://dblp.org/rec/conf/ccs/DasX021</url></info>
+<url>URL#950646</url>
+</hit>
+<hit score="1" id="950647">
+<info><authors><author pid="274/9935">Joyanta Debnath</author><author pid="201/9242">Sze Yiu Chau</author><author pid="53/7986">Omar Chowdhury</author></authors><title>On Re-engineering the X.509 PKI with Executable Specification for Better Implementation Guarantees.</title><venue>CCS</venue><pages>1388-1404</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DebnathCC21</key><doi>10.1145/3460120.3484793</doi><ee>https://doi.org/10.1145/3460120.3484793</ee><url>https://dblp.org/rec/conf/ccs/DebnathCC21</url></info>
+<url>URL#950647</url>
+</hit>
+<hit score="1" id="950648">
+<info><authors><author pid="35/2600">Jean Paul Degabriele</author></authors><title>Hiding the Lengths of Encrypted Messages via Gaussian Padding.</title><venue>CCS</venue><pages>1549-1565</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Degabriele21</key><doi>10.1145/3460120.3484590</doi><ee>https://doi.org/10.1145/3460120.3484590</ee><url>https://dblp.org/rec/conf/ccs/Degabriele21</url></info>
+<url>URL#950648</url>
+</hit>
+<hit score="1" id="950649">
+<info><authors><author pid="35/2600">Jean Paul Degabriele</author><author pid="306/1631">Jérôme Govinden</author><author pid="34/10042">Felix Günther 0001</author><author pid="39/780">Kenneth G. Paterson</author></authors><title>The Security of ChaCha20-Poly1305 in the Multi-User Setting.</title><venue>CCS</venue><pages>1981-2003</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DegabrieleG0P21</key><doi>10.1145/3460120.3484814</doi><ee>https://doi.org/10.1145/3460120.3484814</ee><url>https://dblp.org/rec/conf/ccs/DegabrieleG0P21</url></info>
+<url>URL#950649</url>
+</hit>
+<hit score="1" id="950651">
+<info><authors><author pid="32/2363">Lihi Dery</author><author pid="04/2852">Tamir Tassa</author><author pid="164/3366">Avishay Yanai</author><author pid="306/1318">Arthur Zamarin</author></authors><title>DEMO: A Secure Voting System for Score Based Elections.</title><venue>CCS</venue><pages>2399-2401</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DeryTYZ21</key><doi>10.1145/3460120.3485343</doi><ee>https://doi.org/10.1145/3460120.3485343</ee><url>https://dblp.org/rec/conf/ccs/DeryTYZ21</url></info>
+<url>URL#950651</url>
+</hit>
+<hit score="1" id="950654">
+<info><authors><author pid="163/9888">Michalis Diamantaris</author><author pid="306/1268">Serafeim Moustakas</author><author pid="121/0780-1">Lichao Sun 0001</author><author pid="33/2939">Sotiris Ioannidis</author><author pid="47/8412">Jason Polakis</author></authors><title>This Sneaky Piggy Went to the Android Ad Market: Misusing Mobile Sensors for Stealthy Data Exfiltration.</title><venue>CCS</venue><pages>1065-1081</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DiamantarisMSIP21</key><doi>10.1145/3460120.3485366</doi><ee>https://doi.org/10.1145/3460120.3485366</ee><url>https://dblp.org/rec/conf/ccs/DiamantarisMSIP21</url></info>
+<url>URL#950654</url>
+</hit>
+<hit score="1" id="950656">
+<info><authors><author pid="41/924">Sean Dougherty</author><author pid="144/4933">Reza Tourani</author><author pid="177/9237">Gaurav Panwar</author><author pid="81/7169">Roopa Vishwanathan</author><author pid="79/2206">Satyajayant Misra</author><author pid="00/4190">Srikathyayani Srikanteswara</author></authors><title>APECS: A Distributed Access Control Framework for Pervasive Edge Computing Services.</title><venue>CCS</venue><pages>1405-1420</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DoughertyTPVMS21</key><doi>10.1145/3460120.3484804</doi><ee>https://doi.org/10.1145/3460120.3484804</ee><url>https://dblp.org/rec/conf/ccs/DoughertyTPVMS21</url></info>
+<url>URL#950656</url>
+</hit>
+<hit score="1" id="950659">
+<info><authors><author pid="246/4947">Linkang Du</author><author pid="90/545-1">Zhikun Zhang 0001</author><author pid="217/1742">Shaojie Bai</author><author pid="120/7060">Changchang Liu</author><author pid="07/8388">Shouling Ji</author><author pid="76/185-1">Peng Cheng 0001</author><author pid="55/2484-1">Jiming Chen 0001</author></authors><title>AHEAD: Adaptive Hierarchical Decomposition for Range Query under Local Differential Privacy.</title><venue>CCS</venue><pages>1266-1288</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Du0BLJ0021</key><doi>10.1145/3460120.3485668</doi><ee>https://doi.org/10.1145/3460120.3485668</ee><url>https://dblp.org/rec/conf/ccs/Du0BLJ0021</url></info>
+<url>URL#950659</url>
+</hit>
+<hit score="1" id="950660">
+<info><authors><author pid="128/2982">Tianyu Du</author><author pid="07/8388">Shouling Ji</author><author pid="253/8366">Lujia Shen</author><author pid="57/3892">Yao Zhang</author><author pid="76/7842">Jinfeng Li</author><author pid="38/5467">Jie Shi</author><author pid="48/254">Chengfang Fang</author><author pid="74/3786">Jianwei Yin</author><author pid="12/6354">Raheem Beyah</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Cert-RNN: Towards Certifying the Robustness of Recurrent Neural Networks.</title><venue>CCS</venue><pages>516-534</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DuJSZLSFYB021</key><doi>10.1145/3460120.3484538</doi><ee>https://doi.org/10.1145/3460120.3484538</ee><url>https://dblp.org/rec/conf/ccs/DuJSZLSFYB021</url></info>
+<url>URL#950660</url>
+</hit>
+<hit score="1" id="950661">
+<info><authors><author pid="305/8981">Julien Duman</author><author pid="203/4219">Kathrin Hövelmanns</author><author pid="k/EikeKiltz">Eike Kiltz</author><author pid="25/2540">Vadim Lyubashevsky</author><author pid="184/3795">Gregor Seiler</author></authors><title>Faster Lattice-Based KEMs via a Generic Fujisaki-Okamoto Transform Using Prefix Hashing.</title><venue>CCS</venue><pages>2722-2737</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/DumanHKLS21</key><doi>10.1145/3460120.3484819</doi><ee>https://doi.org/10.1145/3460120.3484819</ee><url>https://dblp.org/rec/conf/ccs/DumanHKLS21</url></info>
+<url>URL#950661</url>
+</hit>
+<hit score="1" id="950663">
+<info><authors><author pid="83/6616">Cynthia Dwork</author></authors><title>Pseudo-Randomness and the Crystal Ball.</title><venue>CCS</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Dwork21</key><doi>10.1145/3460120.3482790</doi><ee>https://doi.org/10.1145/3460120.3482790</ee><url>https://dblp.org/rec/conf/ccs/Dwork21</url></info>
+<url>URL#950663</url>
+</hit>
+<hit score="1" id="950665">
+<info><authors><author pid="264/6101">Zeinab El-Rewini</author><author pid="138/6356">Yousra Aafer</author></authors><title>Dissecting Residual APIs in Custom Android ROMs.</title><venue>CCS</venue><pages>1598-1611</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/El-RewiniA21</key><doi>10.1145/3460120.3485374</doi><ee>https://doi.org/10.1145/3460120.3485374</ee><url>https://dblp.org/rec/conf/ccs/El-RewiniA21</url></info>
+<url>URL#950665</url>
+</hit>
+<hit score="1" id="950669">
+<info><authors><author pid="271/9716">Brandon Falk</author><author pid="43/1032">Yan Meng</author><author pid="306/1688">Yuxia Zhan</author><author pid="22/5702">Haojin Zhu</author></authors><title>POSTER: ReAvatar: Virtual Reality De-anonymization Attack Through Correlating Movement Signatures.</title><venue>CCS</venue><pages>2405-2407</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FalkMZZ21</key><doi>10.1145/3460120.3485345</doi><ee>https://doi.org/10.1145/3460120.3485345</ee><url>https://dblp.org/rec/conf/ccs/FalkMZZ21</url></info>
+<url>URL#950669</url>
+</hit>
+<hit score="1" id="950671">
+<info><authors><author pid="277/7933">Zhiyong Fang</author><author pid="10/8656">David Darais</author><author pid="39/5361">Joseph P. Near</author><author pid="82/4816-1">Yupeng Zhang 0001</author></authors><title>Zero Knowledge Static Program Analysis.</title><venue>CCS</venue><pages>2951-2967</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FangDNZ21</key><doi>10.1145/3460120.3484795</doi><ee>https://doi.org/10.1145/3460120.3484795</ee><url>https://dblp.org/rec/conf/ccs/FangDNZ21</url></info>
+<url>URL#950671</url>
+</hit>
+<hit score="1" id="950672">
+<info><authors><author pid="221/4157">Aurore Fass</author><author pid="190/7601">Dolière Francis Somé</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="136/8343">Ben Stock</author></authors><title>DoubleX: Statically Detecting Vulnerable Data Flows in Browser Extensions at Scale.</title><venue>CCS</venue><pages>1789-1804</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FassS0S21</key><doi>10.1145/3460120.3484745</doi><ee>https://doi.org/10.1145/3460120.3484745</ee><url>https://dblp.org/rec/conf/ccs/FassS0S21</url></info>
+<url>URL#950672</url>
+</hit>
+<hit score="1" id="950673">
+<info><authors><author pid="171/4028">Xiaotao Feng</author><author pid="72/7683">Ruoxi Sun</author><author pid="171/2501">Xiaogang Zhu</author><author pid="166/1912">Minhui Xue</author><author pid="41/3095">Sheng Wen</author><author pid="18/477">Dongxi Liu</author><author pid="22/3939">Surya Nepal</author><author pid="50/2192-1">Yang Xiang 0001</author></authors><title>Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference.</title><venue>CCS</venue><pages>337-350</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FengSZXWLN021</key><doi>10.1145/3460120.3484543</doi><ee>https://doi.org/10.1145/3460120.3484543</ee><url>https://dblp.org/rec/conf/ccs/FengSZXWLN021</url></info>
+<url>URL#950673</url>
+</hit>
+<hit score="1" id="950674">
+<info><authors><author pid="43/7551">Luca De Feo</author><author pid="48/8243">Bertram Poettering</author><author pid="66/2753">Alessandro Sorniotti</author></authors><title>On the (In)Security of ElGamal in OpenPGP.</title><venue>CCS</venue><pages>2066-2080</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FeoPS21</key><doi>10.1145/3460120.3485257</doi><ee>https://doi.org/10.1145/3460120.3485257</ee><url>https://dblp.org/rec/conf/ccs/FeoPS21</url></info>
+<url>URL#950674</url>
+</hit>
+<hit score="1" id="950675">
+<info><authors><author pid="f/RiccardoFocardi">Riccardo Focardi</author><author pid="l/FLLuccio">Flaminia L. Luccio</author></authors><title>A Formally Verified Configuration for Hardware Security Modules in the Cloud.</title><venue>CCS</venue><pages>412-428</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FocardiL21</key><doi>10.1145/3460120.3484785</doi><ee>https://doi.org/10.1145/3460120.3484785</ee><url>https://dblp.org/rec/conf/ccs/FocardiL21</url></info>
+<url>URL#950675</url>
+</hit>
+<hit score="1" id="950676">
+<info><authors><author pid="222/4653">Nicholas Franzese</author><author pid="k/JonathanKatz">Jonathan Katz</author><author pid="98/5599-1">Steve Lu 0001</author><author pid="o/RafailOstrovsky">Rafail Ostrovsky</author><author pid="150/9413">Xiao Wang 0012</author><author pid="251/1580">Chenkai Weng</author></authors><title>Constant-Overhead Zero-Knowledge for RAM Programs.</title><venue>CCS</venue><pages>178-191</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FranzeseKLO0W21</key><doi>10.1145/3460120.3484800</doi><ee>https://doi.org/10.1145/3460120.3484800</ee><url>https://dblp.org/rec/conf/ccs/FranzeseKLO0W21</url></info>
+<url>URL#950676</url>
+</hit>
+<hit score="1" id="950679">
+<info><authors><author pid="246/8180">Lirong Fu</author><author pid="07/8388">Shouling Ji</author><author pid="67/10639">Kangjie Lu</author><author pid="85/670-3">Peiyu Liu 0003</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="306/1326">Yuxuan Duan</author><author pid="133/7227">Zihui Zhang</author><author pid="70/2079">Wenzhi Chen</author><author pid="01/3269">Yanjun Wu</author></authors><title>CPscan: Detecting Bugs Caused by Code Pruning in IoT Kernels.</title><venue>CCS</venue><pages>794-810</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FuJLL0DZCW21</key><doi>10.1145/3460120.3484738</doi><ee>https://doi.org/10.1145/3460120.3484738</ee><url>https://dblp.org/rec/conf/ccs/FuJLL0DZCW21</url></info>
+<url>URL#950679</url>
+</hit>
+<hit score="1" id="950680">
+<info><authors><author pid="274/0756">Chuanpu Fu</author><author pid="181/2688-2">Qi Li 0002</author><author pid="03/8774-1">Meng Shen 0001</author><author pid="181/2626-2">Ke Xu 0002</author></authors><title>Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis.</title><venue>CCS</venue><pages>3431-3446</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FuLSX21</key><doi>10.1145/3460120.3484585</doi><ee>https://doi.org/10.1145/3460120.3484585</ee><url>https://dblp.org/rec/conf/ccs/FuLSX21</url></info>
+<url>URL#950680</url>
+</hit>
+<hit score="1" id="950681">
+<info><authors><author pid="151/1951">Jonathan Fuller</author><author pid="248/1646">Ranjita Pai Kasturi</author><author pid="202/9503">Amit Kumar Sikder</author><author pid="268/6595">Haichuan Xu</author><author pid="248/7118">Berat Arik</author><author pid="04/1461">Vivek Verma</author><author pid="272/8301">Ehsan Asdar</author><author pid="150/5240">Brendan Saltaformaggio</author></authors><title>C3PO: Large-Scale Study Of Covert Monitoring of C&amp;C Servers via Over-Permissioned Protocol Infiltration.</title><venue>CCS</venue><pages>3352-3365</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/FullerKSXAVAS21</key><doi>10.1145/3460120.3484537</doi><ee>https://doi.org/10.1145/3460120.3484537</ee><url>https://dblp.org/rec/conf/ccs/FullerKSXAVAS21</url></info>
+<url>URL#950681</url>
+</hit>
+<hit score="1" id="950684">
+<info><authors><author pid="59/10134">Xinyang Ge</author><author pid="90/4149">Ben Niu</author><author pid="249/3164">Robert Brotzman</author><author pid="89/8201">Yaohui Chen</author><author pid="207/6588">HyungSeok Han</author><author pid="20/1639">Patrice Godefroid</author><author pid="50/549">Weidong Cui</author></authors><title>HyperFuzzer: An Efficient Hybrid Fuzzer for Virtual CPUs.</title><venue>CCS</venue><pages>366-378</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GeNBCHGC21</key><doi>10.1145/3460120.3484748</doi><ee>https://doi.org/10.1145/3460120.3484748</ee><url>https://dblp.org/rec/conf/ccs/GeNBCHGC21</url></info>
+<url>URL#950684</url>
+</hit>
+<hit score="1" id="950685">
+<info><authors><author pid="183/6262">Antonious M. Girgis</author><author pid="137/8017">Deepesh Data</author><author pid="d/SNDiggavi">Suhas N. Diggavi</author><author pid="119/3884">Ananda Theertha Suresh</author><author pid="129/1254">Peter Kairouz</author></authors><title>On the Rényi Differential Privacy of the Shuffle Model.</title><venue>CCS</venue><pages>2321-2341</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GirgisDDSK21</key><doi>10.1145/3460120.3484794</doi><ee>https://doi.org/10.1145/3460120.3484794</ee><url>https://dblp.org/rec/conf/ccs/GirgisDDSK21</url></info>
+<url>URL#950685</url>
+</hit>
+<hit score="1" id="950686">
+<info><authors><author pid="86/10265">Klaus von Gleissenthall</author><author pid="182/4711">Rami Gökhan Kici</author><author pid="91/6118">Deian Stefan</author><author pid="47/4244">Ranjit Jhala</author></authors><title>Solver-Aided Constant-Time Hardware Verification.</title><venue>CCS</venue><pages>429-444</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GleissenthallKS21</key><doi>10.1145/3460120.3484810</doi><ee>https://doi.org/10.1145/3460120.3484810</ee><url>https://dblp.org/rec/conf/ccs/GleissenthallKS21</url></info>
+<url>URL#950686</url>
+</hit>
+<hit score="1" id="950687">
+<info><authors><author pid="67/3825">Jian Gong</author><author pid="58/4582-3">Xinyu Zhang 0003</author><author pid="00/468">Ju Ren</author><author pid="99/4094">Yaoxue Zhang</author></authors><title>The Invisible Shadow: How Security Cameras Leak Private Activities.</title><venue>CCS</venue><pages>2780-2793</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GongZRZ21</key><doi>10.1145/3460120.3484741</doi><ee>https://doi.org/10.1145/3460120.3484741</ee><url>https://dblp.org/rec/conf/ccs/GongZRZ21</url></info>
+<url>URL#950687</url>
+</hit>
+<hit score="1" id="950688">
+<info><authors><author pid="245/4471">Harm Griffioen</author><author pid="259/7912">Kris Oosthoek</author><author pid="306/1106">Paul van der Knaap</author><author pid="d/ChristianDoerr">Christian Doerr</author></authors><title>Scan, Test, Execute: Adversarial Tactics in Amplification DDoS Attacks.</title><venue>CCS</venue><pages>940-954</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GriffioenOKD21</key><doi>10.1145/3460120.3484747</doi><ee>https://doi.org/10.1145/3460120.3484747</ee><url>https://dblp.org/rec/conf/ccs/GriffioenOKD21</url></info>
+<url>URL#950688</url>
+</hit>
+<hit score="1" id="950689">
+<info><authors><author pid="208/4128">Cyprien Delpech de Saint Guilhem</author><author pid="24/10528">Eleftheria Makri</author><author pid="181/1581">Dragos Rotaru</author><author pid="242/1121">Titouan Tanguy</author></authors><title>The Return of Eratosthenes: Secure Generation of RSA Moduli using Distributed Sieving.</title><venue>CCS</venue><pages>594-609</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GuilhemMRT21</key><doi>10.1145/3460120.3484754</doi><ee>https://doi.org/10.1145/3460120.3484754</ee><url>https://dblp.org/rec/conf/ccs/GuilhemMRT21</url></info>
+<url>URL#950689</url>
+</hit>
+<hit score="1" id="950690">
+<info><authors><author pid="208/4128">Cyprien Delpech de Saint Guilhem</author><author pid="38/2316">Emmanuela Orsini</author><author pid="242/1121">Titouan Tanguy</author></authors><title>Limbo: Efficient Zero-knowledge MPCitH-based Arguments.</title><venue>CCS</venue><pages>3022-3036</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/GuilhemOT21</key><doi>10.1145/3460120.3484595</doi><ee>https://doi.org/10.1145/3460120.3484595</ee><url>https://dblp.org/rec/conf/ccs/GuilhemOT21</url></info>
+<url>URL#950690</url>
+</hit>
+<hit score="1" id="950692">
+<info><authors><author pid="227/8113">Dianqi Han</author><author pid="33/2805">Ang Li</author><author pid="12/3242">Jiawei Li</author><author pid="04/3348-91">Yan Zhang 0091</author><author pid="75/4601">Tao Li</author><author pid="83/888">Yanchao Zhang</author></authors><title>DroneKey: A Drone-Aided Group-Key Generation Scheme for Large-Scale IoT Networks.</title><venue>CCS</venue><pages>1306-1319</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HanLLZLZ21</key><doi>10.1145/3460120.3484789</doi><ee>https://doi.org/10.1145/3460120.3484789</ee><url>https://dblp.org/rec/conf/ccs/HanLLZLZ21</url></info>
+<url>URL#950692</url>
+</hit>
+<hit score="1" id="950693">
+<info><authors><author pid="234/8769">Dongqi Han</author><author pid="58/5311">Zhiliang Wang</author><author pid="43/8167">Wenqi Chen</author><author pid="07/6658">Ying Zhong</author><author pid="37/5976">Su Wang</author><author pid="26/4189-9">Han Zhang 0009</author><author pid="62/2814-1">Jiahai Yang 0001</author><author pid="93/5648">Xingang Shi</author><author pid="77/5776">Xia Yin</author></authors><title>DeepAID: Interpreting and Improving Deep Learning-based Anomaly Detection in Security Applications.</title><venue>CCS</venue><pages>3197-3217</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HanWCZWZYSY21</key><doi>10.1145/3460120.3484589</doi><ee>https://doi.org/10.1145/3460120.3484589</ee><url>https://dblp.org/rec/conf/ccs/HanWCZWZYSY21</url></info>
+<url>URL#950693</url>
+</hit>
+<hit score="1" id="950694">
+<info><authors><author pid="119/3581">Lucjan Hanzlik</author><author pid="72/5883">Daniel Slamanig</author></authors><title>With a Little Help from My Friends: Constructing Practical Anonymous Credentials.</title><venue>CCS</venue><pages>2004-2023</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HanzlikS21</key><doi>10.1145/3460120.3484582</doi><ee>https://doi.org/10.1145/3460120.3484582</ee><url>https://dblp.org/rec/conf/ccs/HanzlikS21</url></info>
+<url>URL#950694</url>
+</hit>
+<hit score="1" id="950695">
+<info><authors><author pid="254/0865">Qingying Hao</author><author pid="286/6495">Licheng Luo</author><author pid="175/5282">Steve T. K. Jan</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>It&apos;s Not What It Looks Like: Manipulating Perceptual Hashing based Applications.</title><venue>CCS</venue><pages>69-85</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HaoLJ021</key><doi>10.1145/3460120.3484559</doi><ee>https://doi.org/10.1145/3460120.3484559</ee><url>https://dblp.org/rec/conf/ccs/HaoLJ021</url></info>
+<url>URL#950695</url>
+</hit>
+<hit score="1" id="950697">
+<info><authors><author pid="238/2661">Keitaro Hashimoto</author><author pid="151/6926">Shuichi Katsumata</author><author pid="218/7300">Eamonn W. Postlethwaite</author><author pid="50/11102">Thomas Prest</author><author pid="155/9742">Bas Westerbaan</author></authors><title>A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs.</title><venue>CCS</venue><pages>1441-1462</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HashimotoKPPW21</key><doi>10.1145/3460120.3484817</doi><ee>https://doi.org/10.1145/3460120.3484817</ee><url>https://dblp.org/rec/conf/ccs/HashimotoKPPW21</url></info>
+<url>URL#950697</url>
+</hit>
+<hit score="1" id="950698">
+<info><authors><author pid="180/8452">Jingxuan He</author><author pid="306/1609">Gishor Sivanrupan</author><author pid="40/9612">Petar Tsankov</author><author pid="93/2189">Martin T. Vechev</author></authors><title>Learning to Explore Paths for Symbolic Execution.</title><venue>CCS</venue><pages>2526-2540</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HeSTV21</key><doi>10.1145/3460120.3484813</doi><ee>https://doi.org/10.1145/3460120.3484813</ee><url>https://dblp.org/rec/conf/ccs/HeSTV21</url></info>
+<url>URL#950698</url>
+</hit>
+<hit score="1" id="950699">
+<info><authors><author pid="128/8291">Xiaoyu He</author><author pid="127/0713">Xiaofei Xie</author><author pid="204/3729">Yuekang Li</author><author pid="20/11086">Jianwen Sun</author><author pid="92/2954">Feng Li</author><author pid="10/328">Wei Zou</author><author pid="51/3710-3">Yang Liu 0003</author><author pid="01/2775">Lei Yu</author><author pid="94/1856">Jianhua Zhou</author><author pid="74/2181">Wenchang Shi</author><author pid="24/679">Wei Huo</author></authors><title>SoFi: Reflection-Augmented Fuzzing for JavaScript Engines.</title><venue>CCS</venue><pages>2229-2242</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HeXLSLZLYZSH21</key><doi>10.1145/3460120.3484823</doi><ee>https://doi.org/10.1145/3460120.3484823</ee><url>https://dblp.org/rec/conf/ccs/HeXLSLZLYZSH21</url></info>
+<url>URL#950699</url>
+</hit>
+<hit score="1" id="950700">
+<info><authors><author pid="227/7262">Xinlei He</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Quantifying and Mitigating Privacy Risks of Contrastive Learning.</title><venue>CCS</venue><pages>845-863</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HeZ21</key><doi>10.1145/3460120.3484571</doi><ee>https://doi.org/10.1145/3460120.3484571</ee><url>https://dblp.org/rec/conf/ccs/HeZ21</url></info>
+<url>URL#950700</url>
+</hit>
+<hit score="1" id="950701">
+<info><authors><author pid="306/1330">Chaoxiang He</author><author pid="85/5693">Bin Benjamin Zhu</author><author pid="45/7549">Xiaojing Ma 0002</author><author pid="98/4156">Hai Jin 0001</author><author pid="169/2268">Shengshan Hu</author></authors><title>Feature-Indistinguishable Attack to Circumvent Trapdoor-Enabled Defense.</title><venue>CCS</venue><pages>3159-3176</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HeZM0H21</key><doi>10.1145/3460120.3485378</doi><ee>https://doi.org/10.1145/3460120.3485378</ee><url>https://dblp.org/rec/conf/ccs/HeZM0H21</url></info>
+<url>URL#950701</url>
+</hit>
+<hit score="1" id="950702">
+<info><authors><author pid="19/72">David Heath</author><author pid="65/6001">Vladimir Kolesnikov</author></authors><title>One Hot Garbling.</title><venue>CCS</venue><pages>574-593</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HeathK21</key><doi>10.1145/3460120.3484764</doi><ee>https://doi.org/10.1145/3460120.3484764</ee><url>https://dblp.org/rec/conf/ccs/HeathK21</url></info>
+<url>URL#950702</url>
+</hit>
+<hit score="1" id="950703">
+<info><authors><author pid="279/5630">Elias Heftrig</author><author pid="98/117">Jean-Pierre Seifert</author><author pid="94/7397">Haya Shulman</author><author pid="90/308">Michael Waidner</author><author pid="156/5531">Nils Wisiol</author></authors><title>Predictive Cipher-Suite Negotiation for Boosting Deployment of New Ciphers.</title><venue>CCS</venue><pages>2423-2425</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HeftrigSSWW21</key><doi>10.1145/3460120.3485349</doi><ee>https://doi.org/10.1145/3460120.3485349</ee><url>https://dblp.org/rec/conf/ccs/HeftrigSSWW21</url></info>
+<url>URL#950703</url>
+</hit>
+<hit score="1" id="950705">
+<info><authors><author pid="81/1241">Susan Hohenberger</author><author pid="192/8295">Satyanarayana Vusirikala</author></authors><title>PPE Circuits for Rational Polynomials.</title><venue>CCS</venue><pages>2738-2757</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HohenbergerV21</key><doi>10.1145/3460120.3484562</doi><ee>https://doi.org/10.1145/3460120.3484562</ee><url>https://dblp.org/rec/conf/ccs/HohenbergerV21</url></info>
+<url>URL#950705</url>
+</hit>
+<hit score="1" id="950706">
+<info><authors><author pid="207/6570">Jordan Holland</author><author pid="138/0965">Paul Schmitt</author><author pid="87/840">Nick Feamster</author><author pid="39/6266">Prateek Mittal</author></authors><title>New Directions in Automated Traffic Analysis.</title><venue>CCS</venue><pages>3366-3383</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HollandSFM21</key><doi>10.1145/3460120.3484758</doi><ee>https://doi.org/10.1145/3460120.3484758</ee><url>https://dblp.org/rec/conf/ccs/HollandSFM21</url></info>
+<url>URL#950706</url>
+</hit>
+<hit score="1" id="950707">
+<info><authors><author pid="259/3533">Naureen Hoque</author><author pid="133/3880">Hanif Rahbari</author></authors><title>POSTER: A Tough Nut to Crack: Attempting to Break Modulation Obfuscation.</title><venue>CCS</venue><pages>2402-2404</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HoqueR21</key><doi>10.1145/3460120.3485344</doi><ee>https://doi.org/10.1145/3460120.3485344</ee><url>https://dblp.org/rec/conf/ccs/HoqueR21</url></info>
+<url>URL#950707</url>
+</hit>
+<hit score="1" id="950708">
+<info><authors><author pid="26/8498">Hailong Hu</author><author pid="p/JunPang">Jun Pang 0001</author></authors><title>Membership Inference Attacks against GANs by Leveraging Over-representation Regions.</title><venue>CCS</venue><pages>2387-2389</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Hu021</key><doi>10.1145/3460120.3485338</doi><ee>https://doi.org/10.1145/3460120.3485338</ee><url>https://dblp.org/rec/conf/ccs/Hu021</url></info>
+<url>URL#950708</url>
+</hit>
+<hit score="1" id="950709">
+<info><authors><author pid="293/5527">Aoting Hu</author><author pid="191/1022">Renjie Xie</author><author pid="91/7802">Zhigang Lu</author><author pid="55/4757">Aiqun Hu</author><author pid="166/1912">Minhui Xue</author></authors><title>TableGAN-MCA: Evaluating Membership Collisions of GAN-Synthesized Tabular Data Releasing.</title><venue>CCS</venue><pages>2096-2112</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HuXLHX21</key><doi>10.1145/3460120.3485251</doi><ee>https://doi.org/10.1145/3460120.3485251</ee><url>https://dblp.org/rec/conf/ccs/HuXLHX21</url></info>
+<url>URL#950709</url>
+</hit>
+<hit score="1" id="950710">
+<info><authors><author pid="306/0915">Man Hong Hue</author><author pid="274/9935">Joyanta Debnath</author><author pid="306/0778">Kin Man Leung</author><author pid="53/2189">Li Li</author><author pid="139/2505">Mohsen Minaei</author><author pid="227/7185">M. Hammad Mazhar</author><author pid="306/1682">Kailiang Xian</author><author pid="31/1431">Md. Endadul Hoque</author><author pid="53/7986">Omar Chowdhury</author><author pid="201/9242">Sze Yiu Chau</author></authors><title>All your Credentials are Belong to Us: On Insecure WPA2-Enterprise Configurations.</title><venue>CCS</venue><pages>1100-1117</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HueDLLMMXHCC21</key><doi>10.1145/3460120.3484569</doi><ee>https://doi.org/10.1145/3460120.3484569</ee><url>https://dblp.org/rec/conf/ccs/HueDLLMMXHCC21</url></info>
+<url>URL#950710</url>
+</hit>
+<hit score="1" id="950711">
+<info><authors><author pid="154/2953">Siam Umar Hussain</author><author pid="229/4177">Mojan Javaheripi</author><author pid="199/8745">Mohammad Samragh</author><author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author></authors><title>COINN: Crypto/ML Codesign for Oblivious Inference via Neural Networks.</title><venue>CCS</venue><pages>3266-3281</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HussainJSK21</key><doi>10.1145/3460120.3484797</doi><ee>https://doi.org/10.1145/3460120.3484797</ee><url>https://dblp.org/rec/conf/ccs/HussainJSK21</url></info>
+<url>URL#950711</url>
+</hit>
+<hit score="1" id="950712">
+<info><authors><author pid="83/7270">Syed Rafiul Hussain</author><author pid="229/5471">Imtiaz Karim</author><author pid="290/1874">Abdullah Al Ishtiaq</author><author pid="53/7986">Omar Chowdhury</author><author pid="b/ElisaBertino">Elisa Bertino</author></authors><title>Noncompliance as Deviant Behavior: An Automated Black-box Noncompliance Checker for 4G LTE Cellular Devices.</title><venue>CCS</venue><pages>1082-1099</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/HussainKICB21</key><doi>10.1145/3460120.3485388</doi><ee>https://doi.org/10.1145/3460120.3485388</ee><url>https://dblp.org/rec/conf/ccs/HussainKICB21</url></info>
+<url>URL#950712</url>
+</hit>
+<hit score="1" id="950716">
+<info><authors><author pid="05/667">Yuval Ishai</author><author pid="26/5371">Hang Su</author><author pid="32/10400-1">David J. Wu 0001</author></authors><title>Shorter and Faster Post-Quantum Designated-Verifier zkSNARKs from Lattices.</title><venue>CCS</venue><pages>212-234</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/IshaiSW21</key><doi>10.1145/3460120.3484572</doi><ee>https://doi.org/10.1145/3460120.3484572</ee><url>https://dblp.org/rec/conf/ccs/IshaiSW21</url></info>
+<url>URL#950716</url>
+</hit>
+<hit score="1" id="950717">
+<info><authors><author pid="280/7922">Mohannad Ismail</author><author pid="249/2783">Jinwoo Yom</author><author pid="161/0183">Christopher Jelesnianski</author><author pid="150/5222">Yeongjin Jang</author><author pid="19/10203">Changwoo Min</author></authors><title>VIP: Safeguard Value Invariant Property for Thwarting Critical Memory Corruption Attacks.</title><venue>CCS</venue><pages>1612-1626</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/IsmailYJJM21</key><doi>10.1145/3460120.3485376</doi><ee>https://doi.org/10.1145/3460120.3485376</ee><url>https://dblp.org/rec/conf/ccs/IsmailYJJM21</url></info>
+<url>URL#950717</url>
+</hit>
+<hit score="1" id="950719">
+<info><authors><author pid="291/2820">Bahruz Jabiyev</author><author pid="270/2324">Steven Sprecher</author><author pid="77/8031">Kaan Onarlioglu</author><author pid="k/EnginKirda">Engin Kirda</author></authors><title>T-Reqs: HTTP Request Smuggling with Differential Fuzzing.</title><venue>CCS</venue><pages>1805-1820</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JabiyevSOK21</key><doi>10.1145/3460120.3485384</doi><ee>https://doi.org/10.1145/3460120.3485384</ee><url>https://dblp.org/rec/conf/ccs/JabiyevSOK21</url></info>
+<url>URL#950719</url>
+</hit>
+<hit score="1" id="950721">
+<info><authors><author pid="218/5156">Matthew Jagielski</author><author pid="221/4233">Giorgio Severi</author><author pid="268/5382">Niklas Pousette Harger</author><author pid="35/3425">Alina Oprea</author></authors><title>Subpopulation Data Poisoning Attacks.</title><venue>CCS</venue><pages>3104-3122</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JagielskiSHO21</key><doi>10.1145/3460120.3485368</doi><ee>https://doi.org/10.1145/3460120.3485368</ee><url>https://dblp.org/rec/conf/ccs/JagielskiSHO21</url></info>
+<url>URL#950721</url>
+</hit>
+<hit score="1" id="950722">
+<info><authors><author pid="08/3672-1">Yan Ji 0001</author><author pid="09/2637">Konstantinos Chalkias</author></authors><title>Generalized Proof of Liabilities.</title><venue>CCS</venue><pages>3465-3486</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JiC21</key><doi>10.1145/3460120.3484802</doi><ee>https://doi.org/10.1145/3460120.3484802</ee><url>https://dblp.org/rec/conf/ccs/JiC21</url></info>
+<url>URL#950722</url>
+</hit>
+<hit score="1" id="950723">
+<info><authors><author pid="230/3262">Yan Jia</author><author pid="64/1812">Bin Yuan</author><author pid="34/8412">Luyi Xing</author><author pid="272/7105">Dongfang Zhao 0010</author><author pid="57/4707-10">Yifan Zhang 0010</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="55/6956">Yijing Liu</author><author pid="250/4097">Kaimin Zheng</author><author pid="306/1414">Peyton Crnjak</author><author pid="83/6530-1">Yuqing Zhang 0001</author><author pid="z/DeqingZou">Deqing Zou</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Who&apos;s In Control? On Security Risks of Disjointed IoT Device Management Channels.</title><venue>CCS</venue><pages>1289-1305</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JiaYX000LZCZZ021</key><doi>10.1145/3460120.3484592</doi><ee>https://doi.org/10.1145/3460120.3484592</ee><url>https://dblp.org/rec/conf/ccs/JiaYX000LZCZZ021</url></info>
+<url>URL#950723</url>
+</hit>
+<hit score="1" id="950724">
+<info><authors><author pid="129/1178">Zhiyuan Jiang</author><author pid="306/1540">Xiyue Jiang</author><author pid="274/1539">Ahmad Hazimeh</author><author pid="57/1674">Chaojing Tang</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="31/1273">Mathias Payer</author></authors><title>Igor: Crash Deduplication Through Root-Cause Clustering.</title><venue>CCS</venue><pages>3318-3336</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JiangJHTZP21</key><doi>10.1145/3460120.3485364</doi><ee>https://doi.org/10.1145/3460120.3485364</ee><url>https://dblp.org/rec/conf/ccs/JiangJHTZP21</url></info>
+<url>URL#950724</url>
+</hit>
+<hit score="1" id="950725">
+<info><authors><author pid="203/0794">Muhui Jiang</author><author pid="74/3608">Lin Ma</author><author pid="15/7381">Yajin Zhou</author><author pid="61/3234">Qiang Liu</author><author pid="200/7275">Cen Zhang</author><author pid="95/6543-4">Zhi Wang 0004</author><author pid="53/1565">Xiapu Luo</author><author pid="68/5597-12">Lei Wu 0012</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels.</title><venue>CCS</venue><pages>734-748</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JiangMZLZWLW021</key><doi>10.1145/3460120.3484753</doi><ee>https://doi.org/10.1145/3460120.3484753</ee><url>https://dblp.org/rec/conf/ccs/JiangMZLZWLW021</url></info>
+<url>URL#950725</url>
+</hit>
+<hit score="1" id="950726">
+<info><authors><author pid="196/7070">Wenqiang Jin</author><author pid="43/6289">Srinivasan Murali</author><author pid="282/6169">Huadi Zhu</author><author pid="l/MingLi6">Ming Li 0006</author></authors><title>Periscope: A Keystroke Inference Attack Using Human Coupled Electromagnetic Emanations.</title><venue>CCS</venue><pages>700-714</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JinMZL21</key><doi>10.1145/3460120.3484549</doi><ee>https://doi.org/10.1145/3460120.3484549</ee><url>https://dblp.org/rec/conf/ccs/JinMZL21</url></info>
+<url>URL#950726</url>
+</hit>
+<hit score="1" id="950727">
+<info><authors><author pid="306/1170">Skyler Johnson</author><author pid="306/1100">Katherine Ferro</author><author pid="72/4476">L. Jean Camp</author><author pid="271/9036">Hilda Hadan</author></authors><title>Human and Organizational Factors in Public Key Certificate Authority Failures.</title><venue>CCS</venue><pages>2414-2416</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/JohnsonFCH21</key><doi>10.1145/3460120.3485360</doi><ee>https://doi.org/10.1145/3460120.3485360</ee><url>https://dblp.org/rec/conf/ccs/JohnsonFCH21</url></info>
+<url>URL#950727</url>
+</hit>
+<hit score="1" id="950731">
+<info><authors><author pid="185/1661">Gabriel Kaptchuk</author><author pid="285/5429">Tushar M. Jois</author><author pid="74/4531-1">Matthew Green 0001</author><author pid="r/ADRubin">Aviel D. Rubin</author></authors><title>Meteor: Cryptographically Secure Steganography for Realistic Distributions.</title><venue>CCS</venue><pages>1529-1548</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/KaptchukJ0R21</key><doi>10.1145/3460120.3484550</doi><ee>https://doi.org/10.1145/3460120.3484550</ee><url>https://dblp.org/rec/conf/ccs/KaptchukJ0R21</url></info>
+<url>URL#950731</url>
+</hit>
+<hit score="1" id="950732">
+<info><authors><author pid="151/6926">Shuichi Katsumata</author><author pid="m/TakahiroMatsuda2">Takahiro Matsuda 0002</author><author pid="186/1256">Wataru Nakamura</author><author pid="130/3617">Kazuma Ohara</author><author pid="98/4503">Kenta Takahashi</author></authors><title>Revisiting Fuzzy Signatures: Towards a More Risk-Free Cryptographic Authentication System based on Biometrics.</title><venue>CCS</venue><pages>2046-2065</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Katsumata0NOT21</key><doi>10.1145/3460120.3484586</doi><ee>https://doi.org/10.1145/3460120.3484586</ee><url>https://dblp.org/rec/conf/ccs/Katsumata0NOT21</url></info>
+<url>URL#950732</url>
+</hit>
+<hit score="1" id="950733">
+<info><authors><author pid="47/3682">Aggelos Kiayias</author><author pid="32/7657">Nikos Leonardos</author><author pid="197/1222">Dionysis Zindros</author></authors><title>Mining in Logarithmic Space.</title><venue>CCS</venue><pages>3487-3501</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/KiayiasLZ21</key><doi>10.1145/3460120.3484784</doi><ee>https://doi.org/10.1145/3460120.3484784</ee><url>https://dblp.org/rec/conf/ccs/KiayiasLZ21</url></info>
+<url>URL#950733</url>
+</hit>
+<hit score="1" id="950734">
+<info><authors><author pid="38/8882">Taesoo Kim</author></authors><title>Are we done yet? Our Journey to Fight against Memory-safety Bugs.</title><venue>CCS</venue><pages>4</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Kim21</key><doi>10.1145/3460120.3482788</doi><ee>https://doi.org/10.1145/3460120.3482788</ee><url>https://dblp.org/rec/conf/ccs/Kim21</url></info>
+<url>URL#950734</url>
+</hit>
+<hit score="1" id="950735">
+<info><authors><author pid="276/5072">Eujeanne Kim</author><author pid="40/9208">Sung-Jun Park</author><author pid="83/716">Seokwoo Choi</author><author pid="129/2357">Dong-Kyu Chae</author><author pid="64/5810">Sang-Wook Kim</author></authors><title>MANIAC: A Man-Machine Collaborative System for Classifying Malware Author Groups.</title><venue>CCS</venue><pages>2441-2443</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/KimPCCK21</key><doi>10.1145/3460120.3485355</doi><ee>https://doi.org/10.1145/3460120.3485355</ee><url>https://dblp.org/rec/conf/ccs/KimPCCK21</url></info>
+<url>URL#950735</url>
+</hit>
+<hit score="1" id="950736">
+<info><authors><author pid="306/0920">Lukas Knittel</author><author pid="57/11338">Christian Mainka</author><author pid="118/7486">Marcus Niemietz</author><author pid="306/1407">Dominik Trevor Noß</author><author pid="58/5730">Jörg Schwenk</author></authors><title>XSinator.com: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers.</title><venue>CCS</venue><pages>1771-1788</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/KnittelMNNS21</key><doi>10.1145/3460120.3484739</doi><ee>https://doi.org/10.1145/3460120.3484739</ee><url>https://dblp.org/rec/conf/ccs/KnittelMNNS21</url></info>
+<url>URL#950736</url>
+</hit>
+<hit score="1" id="950737">
+<info><authors><author pid="215/4278">Aashish Kolluri</author><author pid="212/5599">Teodora Baluta</author><author pid="90/105">Prateek Saxena</author></authors><title>Private Hierarchical Clustering in Federated Networks.</title><venue>CCS</venue><pages>2342-2360</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/KolluriBS21</key><doi>10.1145/3460120.3484822</doi><ee>https://doi.org/10.1145/3460120.3484822</ee><url>https://dblp.org/rec/conf/ccs/KolluriBS21</url></info>
+<url>URL#950737</url>
+</hit>
+<hit score="1" id="950739">
+<info><authors><author pid="272/8278">Brian Kondracki</author><author pid="248/1647">Babak Amin Azad</author><author pid="134/8950">Oleksii Starov</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>Catching Transparent Phish: Analyzing and Detecting MITM Phishing Toolkits.</title><venue>CCS</venue><pages>36-50</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/KondrackiASN21</key><doi>10.1145/3460120.3484765</doi><ee>https://doi.org/10.1145/3460120.3484765</ee><url>https://dblp.org/rec/conf/ccs/KondrackiASN21</url></info>
+<url>URL#950739</url>
+</hit>
+<hit score="1" id="950740">
+<info><authors><author pid="198/8297">Daniel Kopp</author><author pid="301/8890">Eric Strehle</author><author pid="75/6403">Oliver Hohlfeld</author></authors><title>CyberBunker 2.0 - A Domain and Traffic Perspective on a Bulletproof Hoster.</title><venue>CCS</venue><pages>2432-2434</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/KoppSH21</key><doi>10.1145/3460120.3485352</doi><ee>https://doi.org/10.1145/3460120.3485352</ee><url>https://dblp.org/rec/conf/ccs/KoppSH21</url></info>
+<url>URL#950740</url>
+</hit>
+<hit score="1" id="950748">
+<info><authors><author pid="56/7811">Sunwoo Lee</author><author pid="09/6032">Wonsuk Choi</author><author pid="l/DongHoonLee">Dong Hoon Lee 0001</author></authors><title>Usable User Authentication on a Smartwatch using Vibration.</title><venue>CCS</venue><pages>304-319</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LeeC021</key><doi>10.1145/3460120.3484553</doi><ee>https://doi.org/10.1145/3460120.3484553</ee><url>https://dblp.org/rec/conf/ccs/LeeC021</url></info>
+<url>URL#950748</url>
+</hit>
+<hit score="1" id="950749">
+<info><authors><author pid="126/5207">Andrew Lewis-Pye</author><author pid="r/TimRoughgarden">Tim Roughgarden</author></authors><title>How Does Blockchain Security Dictate Blockchain Implementation?</title><venue>CCS</venue><pages>1006-1019</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Lewis-PyeR21</key><doi>10.1145/3460120.3484752</doi><ee>https://doi.org/10.1145/3460120.3484752</ee><url>https://dblp.org/rec/conf/ccs/Lewis-PyeR21</url></info>
+<url>URL#950749</url>
+</hit>
+<hit score="1" id="950750">
+<info><authors><author pid="253/9727">Zhuohang Li</author><author pid="07/6946-4">Cong Shi 0004</author><author pid="231/7517">Tianfang Zhang</author><author pid="51/4462-1">Yi Xie 0001</author><author pid="35/295-1">Jian Liu 0001</author><author pid="41/1662-1">Bo Yuan 0001</author><author pid="18/2343-1">Yingying Chen 0001</author></authors><title>Robust Detection of Machine-induced Audio Attacks in Intelligent Audio Systems with Microphone Array.</title><venue>CCS</venue><pages>1884-1899</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Li0Z0L0021</key><doi>10.1145/3460120.3484755</doi><ee>https://doi.org/10.1145/3460120.3484755</ee><url>https://dblp.org/rec/conf/ccs/Li0Z0L0021</url></info>
+<url>URL#950750</url>
+</hit>
+<hit score="1" id="950751">
+<info><authors><author pid="15/8202">Shaofeng Li</author><author pid="93/4010">Hui Liu</author><author pid="25/8475">Tian Dong</author><author pid="188/6037">Benjamin Zi Hao Zhao</author><author pid="166/1912">Minhui Xue</author><author pid="22/5702">Haojin Zhu</author><author pid="32/4850">Jialiang Lu</author></authors><title>Hidden Backdoors in Human-Centric Language Models.</title><venue>CCS</venue><pages>3123-3140</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiLDZXZL21</key><doi>10.1145/3460120.3484576</doi><ee>https://doi.org/10.1145/3460120.3484576</ee><url>https://dblp.org/rec/conf/ccs/LiLDZXZL21</url></info>
+<url>URL#950751</url>
+</hit>
+<hit score="1" id="950752">
+<info><authors><author pid="75/10258">Yuanjie Li</author><author pid="51/8276">Hewu Li</author><author pid="259/0023">Zhizheng Lv</author><author pid="213/1004">Xingkun Yao</author><author pid="183/1876">Qianru Li</author><author pid="82/4905">Jianping Wu</author></authors><title>Deterrence of Intelligent DDoS via Multi-Hop Traffic Divergence.</title><venue>CCS</venue><pages>923-939</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiLLYLW21</key><doi>10.1145/3460120.3484737</doi><ee>https://doi.org/10.1145/3460120.3484737</ee><url>https://dblp.org/rec/conf/ccs/LiLLYLW21</url></info>
+<url>URL#950752</url>
+</hit>
+<hit score="1" id="950753">
+<info><authors><author pid="243/2006">Xuezixiang Li</author><author pid="70/7820">Yu Qu</author><author pid="77/6178-1">Heng Yin 0001</author></authors><title>PalmTree: Learning an Assembly Language Model for Instruction Embedding.</title><venue>CCS</venue><pages>3236-3251</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiQY21</key><doi>10.1145/3460120.3484587</doi><ee>https://doi.org/10.1145/3460120.3484587</ee><url>https://dblp.org/rec/conf/ccs/LiQY21</url></info>
+<url>URL#950753</url>
+</hit>
+<hit score="1" id="950754">
+<info><authors><author pid="246/5675">Zhuohua Li</author><author pid="85/5973">Jincheng Wang</author><author pid="126/5031">Mingshen Sun</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>MirChecker: Detecting Bugs in Rust Programs via Static Analysis.</title><venue>CCS</venue><pages>2183-2196</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiWSL21</key><doi>10.1145/3460120.3484541</doi><ee>https://doi.org/10.1145/3460120.3484541</ee><url>https://dblp.org/rec/conf/ccs/LiWSL21</url></info>
+<url>URL#950754</url>
+</hit>
+<hit score="1" id="950755">
+<info><authors><author pid="181/2853-17">Kai Li 0017</author><author pid="25/4764">Yibo Wang</author><author pid="09/1770">Yuzhe Tang</author></authors><title>DETER: Denial of Ethereum Txpool sERvices.</title><venue>CCS</venue><pages>1645-1667</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiWT21</key><doi>10.1145/3460120.3485369</doi><ee>https://doi.org/10.1145/3460120.3485369</ee><url>https://dblp.org/rec/conf/ccs/LiWT21</url></info>
+<url>URL#950755</url>
+</hit>
+<hit score="1" id="950756">
+<info><authors><author pid="99/4340">Linyi Li</author><author pid="250/2270">Maurice Weber</author><author pid="47/8617">Xiaojun Xu</author><author pid="264/1959">Luka Rimanic</author><author pid="132/8938">Bhavya Kailkhura</author><author pid="x/TaoXie">Tao Xie 0001</author><author pid="97/919-1">Ce Zhang 0001</author><author pid="50/3402-26">Bo Li 0026</author></authors><title>TSS: Transformation-Specific Smoothing for Robustness Certification.</title><venue>CCS</venue><pages>535-557</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiWXRK00021</key><doi>10.1145/3460120.3485258</doi><ee>https://doi.org/10.1145/3460120.3485258</ee><url>https://dblp.org/rec/conf/ccs/LiWXRK00021</url></info>
+<url>URL#950756</url>
+</hit>
+<hit score="1" id="950757">
+<info><authors><author pid="54/2788-6">Ao Li 0006</author><author pid="03/2885">Jinwen Wang</author><author pid="181/2597-17">Ning Zhang 0017</author></authors><title>Chronos: Timing Interference as a New Attack Vector on Autonomous Cyber-physical Systems.</title><venue>CCS</venue><pages>2426-2428</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiWZ21</key><doi>10.1145/3460120.3485350</doi><ee>https://doi.org/10.1145/3460120.3485350</ee><url>https://dblp.org/rec/conf/ccs/LiWZ21</url></info>
+<url>URL#950757</url>
+</hit>
+<hit score="1" id="950758">
+<info><authors><author pid="87/6284">Yun Li</author><author pid="306/1605">Cun Ye</author><author pid="306/1310">Yuguang Hu</author><author pid="306/1015">Ivring Morpheus</author><author pid="53/382">Yu Guo</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="82/4816-1">Yupeng Zhang 0001</author><author pid="57/8107">Zhipeng Sun</author><author pid="229/8110">Yiwen Lu</author><author pid="232/4688">Haodi Wang</author></authors><title>ZKCPlus: Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange.</title><venue>CCS</venue><pages>3002-3021</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiYHMGZZSLW21</key><doi>10.1145/3460120.3484558</doi><ee>https://doi.org/10.1145/3460120.3484558</ee><url>https://dblp.org/rec/conf/ccs/LiYHMGZZSLW21</url></info>
+<url>URL#950758</url>
+</hit>
+<hit score="1" id="950759">
+<info><authors><author pid="10/1143">Zheng Li</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Membership Leakage in Label-Only Exposures.</title><venue>CCS</venue><pages>880-895</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiZ21</key><doi>10.1145/3460120.3484575</doi><ee>https://doi.org/10.1145/3460120.3484575</ee><url>https://dblp.org/rec/conf/ccs/LiZ21</url></info>
+<url>URL#950759</url>
+</hit>
+<hit score="1" id="950760">
+<info><authors><author pid="157/4437">Mengyuan Li</author><author pid="77/3503">Yinqian Zhang</author><author pid="49/4102">Zhiqiang Lin</author></authors><title>CrossLine: Breaking &quot;Security-by-Crash&quot; based Memory Isolation in AMD SEV.</title><venue>CCS</venue><pages>2937-2950</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiZL21</key><doi>10.1145/3460120.3485253</doi><ee>https://doi.org/10.1145/3460120.3485253</ee><url>https://dblp.org/rec/conf/ccs/LiZL21</url></info>
+<url>URL#950760</url>
+</hit>
+<hit score="1" id="950763">
+<info><authors><author pid="82/6141-5">Hongbin Liu 0005</author><author pid="24/5124">Jinyuan Jia</author><author pid="216/6884-1">Wenjie Qu 0001</author><author pid="03/9437">Neil Zhenqiang Gong</author></authors><title>EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning.</title><venue>CCS</venue><pages>2081-2095</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiuJQG21</key><doi>10.1145/3460120.3484749</doi><ee>https://doi.org/10.1145/3460120.3484749</ee><url>https://dblp.org/rec/conf/ccs/LiuJQG21</url></info>
+<url>URL#950763</url>
+</hit>
+<hit score="1" id="950764">
+<info><authors><author pid="306/1136">Dinghao Liu</author><author pid="248/1662">Qiushi Wu</author><author pid="07/8388">Shouling Ji</author><author pid="67/10639">Kangjie Lu</author><author pid="145/1147">Zhenguang Liu</author><author pid="55/8437">Jianhai Chen</author><author pid="44/2784">Qinming He</author></authors><title>Detecting Missed Security Operations Through Differential Checking of Object-based Similar Paths.</title><venue>CCS</venue><pages>1627-1644</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiuWJLLCH21</key><doi>10.1145/3460120.3485373</doi><ee>https://doi.org/10.1145/3460120.3485373</ee><url>https://dblp.org/rec/conf/ccs/LiuWJLLCH21</url></info>
+<url>URL#950764</url>
+</hit>
+<hit score="1" id="950765">
+<info><authors><author pid="133/4132">Tianyi Liu</author><author pid="17/1712">Xiang Xie</author><author pid="82/4816-1">Yupeng Zhang 0001</author></authors><title>zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy.</title><venue>CCS</venue><pages>2968-2985</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/LiuXZ21</key><doi>10.1145/3460120.3485379</doi><ee>https://doi.org/10.1145/3460120.3485379</ee><url>https://dblp.org/rec/conf/ccs/LiuXZ21</url></info>
+<url>URL#950765</url>
+</hit>
+<hit score="1" id="950767">
+<info><authors><author pid="153/2838">Mohammad Malekzadeh</author><author pid="219/7927">Anastasia Borovykh</author><author pid="05/6552">Deniz Gündüz</author></authors><title>Honest-but-Curious Nets: Sensitive Attributes of Private Inputs Can Be Secretly Coded into the Classifiers&apos; Outputs.</title><venue>CCS</venue><pages>825-844</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MalekzadehBG21</key><doi>10.1145/3460120.3484533</doi><ee>https://doi.org/10.1145/3460120.3484533</ee><url>https://dblp.org/rec/conf/ccs/MalekzadehBG21</url></info>
+<url>URL#950767</url>
+</hit>
+<hit score="1" id="950768">
+<info><authors><author pid="267/1308">Keyu Man</author><author pid="306/1011">Xin&apos;an Zhou</author><author pid="31/8302">Zhiyun Qian</author></authors><title>DNS Cache Poisoning Attack: Resurrections with Side Channels.</title><venue>CCS</venue><pages>3400-3414</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ManZQ21</key><doi>10.1145/3460120.3486219</doi><ee>https://doi.org/10.1145/3460120.3486219</ee><url>https://dblp.org/rec/conf/ccs/ManZQ21</url></info>
+<url>URL#950768</url>
+</hit>
+<hit score="1" id="950769">
+<info><authors><author pid="203/2740">Evangelia Anna Markatou</author><author pid="261/5148">Francesca Falzon</author><author pid="t/RobertoTamassia">Roberto Tamassia</author><author pid="281/6061">William Schor</author></authors><title>Reconstructing with Less: Leakage Abuse Attacks in Two Dimensions.</title><venue>CCS</venue><pages>2243-2261</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MarkatouFTS21</key><doi>10.1145/3460120.3484552</doi><ee>https://doi.org/10.1145/3460120.3484552</ee><url>https://dblp.org/rec/conf/ccs/MarkatouFTS21</url></info>
+<url>URL#950769</url>
+</hit>
+<hit score="1" id="950770">
+<info><authors><author pid="126/5977">Daniel Masny</author><author pid="52/2914">Gaven J. Watson</author></authors><title>A PKI-based Framework for Establishing Efficient MPC Channels.</title><venue>CCS</venue><pages>1961-1980</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MasnyW21</key><doi>10.1145/3460120.3484806</doi><ee>https://doi.org/10.1145/3460120.3484806</ee><url>https://dblp.org/rec/conf/ccs/MasnyW21</url></info>
+<url>URL#950770</url>
+</hit>
+<hit score="1" id="950772">
+<info><authors><author pid="285/5129">Grégoire Menguy</author><author pid="b/SebastienBardin">Sébastien Bardin</author><author pid="75/3724">Richard Bonichon</author><author pid="285/5123">Cauim de Souza Lima</author></authors><title>Search-Based Local Black-Box Deobfuscation: Understand, Improve and Mitigate (Poster).</title><venue>CCS</venue><pages>2384-2386</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MenguyBBL21</key><doi>10.1145/3460120.3485337</doi><ee>https://doi.org/10.1145/3460120.3485337</ee><url>https://dblp.org/rec/conf/ccs/MenguyBBL21</url></info>
+<url>URL#950772</url>
+</hit>
+<hit score="1" id="950773">
+<info><authors><author pid="285/5129">Grégoire Menguy</author><author pid="b/SebastienBardin">Sébastien Bardin</author><author pid="75/3724">Richard Bonichon</author><author pid="285/5123">Cauim de Souza Lima</author></authors><title>Search-Based Local Black-Box Deobfuscation: Understand, Improve and Mitigate.</title><venue>CCS</venue><pages>2513-2525</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MenguyBBL21a</key><doi>10.1145/3460120.3485250</doi><ee>https://doi.org/10.1145/3460120.3485250</ee><url>https://dblp.org/rec/conf/ccs/MenguyBBL21a</url></info>
+<url>URL#950773</url>
+</hit>
+<hit score="1" id="950775">
+<info><authors><author pid="190/7193">Masanori Misono</author><author pid="76/125">Takahiro Shinagawa</author></authors><title>POSTER: OS Independent Fuzz Testing of I/O Boundary.</title><venue>CCS</venue><pages>2453-2455</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MisonoS21</key><doi>10.1145/3460120.3485359</doi><ee>https://doi.org/10.1145/3460120.3485359</ee><url>https://dblp.org/rec/conf/ccs/MisonoS21</url></info>
+<url>URL#950775</url>
+</hit>
+<hit score="1" id="950776">
+<info><authors><author pid="140/7588">Asya Mitseva</author><author pid="182/4743">Jan Pennekamp</author><author pid="277/0381">Johannes Lohmöller</author><author pid="305/3225">Torsten Ziemann</author><author pid="306/1127">Carl Hoerchner</author><author pid="w/KlausWehrle">Klaus Wehrle</author><author pid="82/5164-1">Andriy Panchenko 0001</author></authors><title>POSTER: How Dangerous is My Click? Boosting Website Fingerprinting By Considering Sequences of Webpages.</title><venue>CCS</venue><pages>2411-2413</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MitsevaPLZHW021</key><doi>10.1145/3460120.3485347</doi><ee>https://doi.org/10.1145/3460120.3485347</ee><url>https://dblp.org/rec/conf/ccs/MitsevaPLZHW021</url></info>
+<url>URL#950776</url>
+</hit>
+<hit score="1" id="950777">
+<info><authors><author pid="256/9085">Atsuki Momose</author><author pid="30/10661">Ling Ren 0001</author></authors><title>Multi-Threshold Byzantine Fault Tolerance.</title><venue>CCS</venue><pages>1686-1699</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Momose021</key><doi>10.1145/3460120.3484554</doi><ee>https://doi.org/10.1145/3460120.3484554</ee><url>https://dblp.org/rec/conf/ccs/Momose021</url></info>
+<url>URL#950777</url>
+</hit>
+<hit score="1" id="950778">
+<info><authors><author pid="283/4445">Jiaming Mu</author><author pid="123/7149">Binghui Wang</author><author pid="181/2688-2">Qi Li 0002</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="18/6055">Mingwei Xu</author><author pid="69/11514">Zhuotao Liu</author></authors><title>A Hard Label Black-box Adversarial Attack Against Graph Neural Networks.</title><venue>CCS</venue><pages>108-125</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MuWL0XL21</key><doi>10.1145/3460120.3484796</doi><ee>https://doi.org/10.1145/3460120.3484796</ee><url>https://dblp.org/rec/conf/ccs/MuWL0XL21</url></info>
+<url>URL#950778</url>
+</hit>
+<hit score="1" id="950779">
+<info><authors><author pid="180/5609">Muhammad Haris Mughees</author><author pid="175/3324-30">Hao Chen 0030</author><author pid="30/10661">Ling Ren 0001</author></authors><title>OnionPIR: Response Efficient Single-Server PIR.</title><venue>CCS</venue><pages>2292-2306</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/MugheesC021</key><doi>10.1145/3460120.3485381</doi><ee>https://doi.org/10.1145/3460120.3485381</ee><url>https://dblp.org/rec/conf/ccs/MugheesC021</url></info>
+<url>URL#950779</url>
+</hit>
+<hit score="1" id="950780">
+<info><authors><author pid="220/8479">Azqa Nadeem</author><author pid="81/5891">Sicco Verwer</author><author pid="126/6303">Stephen Moskal</author><author pid="26/2191">Shanchieh Jay Yang</author></authors><title>Enabling Visual Analytics via Alert-driven Attack Graphs.</title><venue>CCS</venue><pages>2420-2422</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NadeemVMY21</key><doi>10.1145/3460120.3485361</doi><ee>https://doi.org/10.1145/3460120.3485361</ee><url>https://dblp.org/rec/conf/ccs/NadeemVMY21</url></info>
+<url>URL#950780</url>
+</hit>
+<hit score="1" id="950781">
+<info><authors><author pid="277/8167">Muhammad Nouman Nafees</author><author pid="122/2037">Neetesh Saxena</author><author pid="80/305">Pete Burnap</author></authors><title>Optimized Predictive Control for AGC Cyber Resiliency.</title><venue>CCS</venue><pages>2450-2452</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NafeesSB21</key><doi>10.1145/3460120.3485358</doi><ee>https://doi.org/10.1145/3460120.3485358</ee><url>https://dblp.org/rec/conf/ccs/NafeesSB21</url></info>
+<url>URL#950781</url>
+</hit>
+<hit score="1" id="950782">
+<info><authors><author pid="168/9038">Stefan Nagy</author><author pid="06/6439">Anh Nguyen-Tuong</author><author pid="88/5011">Jason D. Hiser</author><author pid="d/JWDavidson">Jack W. Davidson</author><author pid="09/2334">Matthew Hicks</author></authors><title>Same Coverage, Less Bloat: Accelerating Binary-only Fuzzing with Coverage-preserving Coverage-guided Tracing.</title><venue>CCS</venue><pages>351-365</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NagyNHDH21</key><doi>10.1145/3460120.3484787</doi><ee>https://doi.org/10.1145/3460120.3484787</ee><url>https://dblp.org/rec/conf/ccs/NagyNHDH21</url></info>
+<url>URL#950782</url>
+</hit>
+<hit score="1" id="950783">
+<info><authors><author pid="192/2096">Ben Nassi</author><author pid="268/5147">Yaron Pirutin</author><author pid="300/9981">Tomer Cohen Galor</author><author pid="38/4086">Yuval Elovici</author><author pid="14/10501">Boris Zadov</author></authors><title>Glowworm Attack: Optical TEMPEST Sound Recovery via a Device&apos;s Power Indicator LED.</title><venue>CCS</venue><pages>1900-1914</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NassiPGEZ21</key><doi>10.1145/3460120.3484775</doi><ee>https://doi.org/10.1145/3460120.3484775</ee><url>https://dblp.org/rec/conf/ccs/NassiPGEZ21</url></info>
+<url>URL#950783</url>
+</hit>
+<hit score="1" id="950784">
+<info><authors><author pid="192/2096">Ben Nassi</author><author pid="268/5147">Yaron Pirutin</author><author pid="306/1419">Raz Swissa</author><author pid="s/AdiShamir">Adi Shamir</author><author pid="38/4086">Yuval Elovici</author><author pid="14/10501">Boris Zadov</author></authors><title>POSTER: Recovering Songs from a Hanging Light Bulb.</title><venue>CCS</venue><pages>2381-2383</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NassiPSSEZ21</key><doi>10.1145/3460120.3485336</doi><ee>https://doi.org/10.1145/3460120.3485336</ee><url>https://dblp.org/rec/conf/ccs/NassiPSSEZ21</url></info>
+<url>URL#950784</url>
+</hit>
+<hit score="1" id="950785">
+<info><authors><author pid="303/4921">Ofri Nevo</author><author pid="187/5706">Ni Trieu</author><author pid="164/3366">Avishay Yanai</author></authors><title>Simple, Fast Malicious Multiparty Private Set Intersection.</title><venue>CCS</venue><pages>1151-1165</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NevoTY21</key><doi>10.1145/3460120.3484772</doi><ee>https://doi.org/10.1145/3460120.3484772</ee><url>https://dblp.org/rec/conf/ccs/NevoTY21</url></info>
+<url>URL#950785</url>
+</hit>
+<hit score="1" id="950787">
+<info><authors><author pid="09/10764">Jianting Ning</author><author pid="82/4944-1">Xinyi Huang 0001</author><author pid="05/1698">Geong Sen Poh</author><author pid="260/6317">Jiaming Yuan</author><author pid="15/2506">Yingjiu Li</author><author pid="81/1232-1">Jian Weng 0001</author><author pid="d/RobertHDeng">Robert H. Deng</author></authors><title>LEAP: Leakage-Abuse Attack on Efficiently Deployable, Efficiently Searchable Encryption with Partially Known Dataset.</title><venue>CCS</venue><pages>2307-2320</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NingHPYL0D21</key><doi>10.1145/3460120.3484540</doi><ee>https://doi.org/10.1145/3460120.3484540</ee><url>https://dblp.org/rec/conf/ccs/NingHPYL0D21</url></info>
+<url>URL#950787</url>
+</hit>
+<hit score="1" id="950789">
+<info><authors><author pid="277/9156">Grigoris Ntousakis</author><author pid="33/2939">Sotiris Ioannidis</author><author pid="70/2619">Nikos Vasilakis</author></authors><title>Demo: Detecting Third-Party Library Problems with Combined Program Analysis.</title><venue>CCS</venue><pages>2429-2431</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NtousakisIV21</key><doi>10.1145/3460120.3485351</doi><ee>https://doi.org/10.1145/3460120.3485351</ee><url>https://dblp.org/rec/conf/ccs/NtousakisIV21</url></info>
+<url>URL#950789</url>
+</hit>
+<hit score="1" id="950790">
+<info><authors><author pid="173/5375">Ivan De Oliveira Nunes</author><author pid="264/9378">Sashidhar Jakkamsetti</author><author pid="198/1339">Norrathep Rattanavipanon</author><author pid="08/1183">Gene Tsudik</author></authors><title>On the TOCTOU Problem in Remote Attestation.</title><venue>CCS</venue><pages>2921-2936</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/NunesJRT21</key><doi>10.1145/3460120.3484532</doi><ee>https://doi.org/10.1145/3460120.3484532</ee><url>https://dblp.org/rec/conf/ccs/NunesJRT21</url></info>
+<url>URL#950790</url>
+</hit>
+<hit score="1" id="950792">
+<info><authors><author pid="269/2096">Gaoning Pan</author><author pid="227/9139">Xingwei Lin</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="10/10608">Yongkang Jia</author><author pid="07/8388">Shouling Ji</author><author pid="97/8329-1">Chunming Wu 0001</author><author pid="256/4514">Xinlei Ying</author><author pid="301/5814">Jiashui Wang</author><author pid="01/3269">Yanjun Wu</author></authors><title>V-Shuttle: Scalable and Semantics-Aware Hypervisor Virtual Device Fuzzing.</title><venue>CCS</venue><pages>2197-2213</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PanL0JJWYWW21</key><doi>10.1145/3460120.3484811</doi><ee>https://doi.org/10.1145/3460120.3484811</ee><url>https://dblp.org/rec/conf/ccs/PanL0JJWYWW21</url></info>
+<url>URL#950792</url>
+</hit>
+<hit score="1" id="950793">
+<info><authors><author pid="237/9883">Dario Pasquini</author><author pid="66/3575">Giuseppe Ateniese</author><author pid="81/1604">Massimo Bernaschi</author></authors><title>Unleashing the Tiger: Inference Attacks on Split Learning.</title><venue>CCS</venue><pages>2113-2129</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PasquiniAB21</key><doi>10.1145/3460120.3485259</doi><ee>https://doi.org/10.1145/3460120.3485259</ee><url>https://dblp.org/rec/conf/ccs/PasquiniAB21</url></info>
+<url>URL#950793</url>
+</hit>
+<hit score="1" id="950794">
+<info><authors><author pid="41/9729">Marco Patrignani</author><author pid="118/6449">Marco Guarnieri</author></authors><title>Exorcising Spectres with Secure Compilers.</title><venue>CCS</venue><pages>445-461</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PatrignaniG21</key><doi>10.1145/3460120.3484534</doi><ee>https://doi.org/10.1145/3460120.3484534</ee><url>https://dblp.org/rec/conf/ccs/PatrignaniG21</url></info>
+<url>URL#950794</url>
+</hit>
+<hit score="1" id="950795">
+<info><authors><author pid="265/3241">Charlotte Peale</author><author pid="198/0935">Saba Eskandarian</author><author pid="b/DanBoneh">Dan Boneh</author></authors><title>Secure Complaint-Enabled Source-Tracking for Encrypted Messaging.</title><venue>CCS</venue><pages>1484-1506</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PealeEB21</key><doi>10.1145/3460120.3484539</doi><ee>https://doi.org/10.1145/3460120.3484539</ee><url>https://dblp.org/rec/conf/ccs/PealeEB21</url></info>
+<url>URL#950795</url>
+</hit>
+<hit score="1" id="950797">
+<info><authors><author pid="224/7335">Stijn Pletinckx</author><author pid="136/8461">Kevin Borgolte</author><author pid="150/5174">Tobias Fiebig</author></authors><title>Out of Sight, Out of Mind: Detecting Orphaned Web Pages at Internet-Scale.</title><venue>CCS</venue><pages>21-35</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PletinckxBF21</key><doi>10.1145/3460120.3485367</doi><ee>https://doi.org/10.1145/3460120.3485367</ee><url>https://dblp.org/rec/conf/ccs/PletinckxBF21</url></info>
+<url>URL#950797</url>
+</hit>
+<hit score="1" id="950798">
+<info><authors><author pid="237/4710">Antoon Purnal</author><author pid="186/8758">Furkan Turan</author><author pid="92/16">Ingrid Verbauwhede</author></authors><title>Prime+Scope: Overcoming the Observer Effect for High-Precision Cache Contention Attacks.</title><venue>CCS</venue><pages>2906-2920</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/PurnalTV21</key><doi>10.1145/3460120.3484816</doi><ee>https://doi.org/10.1145/3460120.3484816</ee><url>https://dblp.org/rec/conf/ccs/PurnalTV21</url></info>
+<url>URL#950798</url>
+</hit>
+<hit score="1" id="950803">
+<info><authors><author pid="r/MikeRosulek">Mike Rosulek</author><author pid="187/5706">Ni Trieu</author></authors><title>Compact and Malicious Private Set Intersection for Small Sets.</title><venue>CCS</venue><pages>1166-1181</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/RosulekT21</key><doi>10.1145/3460120.3484778</doi><ee>https://doi.org/10.1145/3460120.3484778</ee><url>https://dblp.org/rec/conf/ccs/RosulekT21</url></info>
+<url>URL#950803</url>
+</hit>
+<hit score="1" id="950804">
+<info><authors><author pid="244/5274">Sebastian Roth</author><author pid="181/8259">Lea Gröber</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="128/4803">Katharina Krombholz</author><author pid="136/8343">Ben Stock</author></authors><title>12 Angry Developers - A Qualitative Study on Developers&apos; Struggles with CSP.</title><venue>CCS</venue><pages>3085-3103</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/RothG0KS21</key><doi>10.1145/3460120.3484780</doi><ee>https://doi.org/10.1145/3460120.3484780</ee><url>https://dblp.org/rec/conf/ccs/RothG0KS21</url></info>
+<url>URL#950804</url>
+</hit>
+<hit score="1" id="950805">
+<info><authors><author pid="233/7053">Christian Ryan</author><author pid="267/9855">Sharmishtha Dutta</author><author pid="65/6400">Youngja Park</author><author pid="160/7318">Nidhi Rastogi</author></authors><title>An Ontology-driven Knowledge Graph for Android Malware.</title><venue>CCS</venue><pages>2435-2437</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/RyanDPR21</key><doi>10.1145/3460120.3485353</doi><ee>https://doi.org/10.1145/3460120.3485353</ee><url>https://dblp.org/rec/conf/ccs/RyanDPR21</url></info>
+<url>URL#950805</url>
+</hit>
+<hit score="1" id="950806">
+<info><authors><author pid="181/5807-1">Muhammad Saad 0001</author><author pid="220/2422">Afsah Anwar</author><author pid="17/9098">Srivatsan Ravi</author><author pid="70/2832">David Mohaisen</author></authors><title>Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality.</title><venue>CCS</venue><pages>988-1005</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SaadARM21</key><doi>10.1145/3460120.3484561</doi><ee>https://doi.org/10.1145/3460120.3484561</ee><url>https://dblp.org/rec/conf/ccs/SaadARM21</url></info>
+<url>URL#950806</url>
+</hit>
+<hit score="1" id="950807">
+<info><authors><author pid="181/5807-1">Muhammad Saad 0001</author><author pid="47/3276">Songqing Chen</author><author pid="70/2832">David Mohaisen</author></authors><title>SyncAttack: Double-spending in Bitcoin Without Mining Power.</title><venue>CCS</venue><pages>1668-1685</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SaadCM21</key><doi>10.1145/3460120.3484568</doi><ee>https://doi.org/10.1145/3460120.3484568</ee><url>https://dblp.org/rec/conf/ccs/SaadCM21</url></info>
+<url>URL#950807</url>
+</hit>
+<hit score="1" id="950808">
+<info><authors><author pid="306/1347">Sena Sahin</author><author pid="53/10825">Frank Li 0001</author></authors><title>Don&apos;t Forget the Stuffing! Revisiting the Security Impact of Typo-Tolerant Password Authentication.</title><venue>CCS</venue><pages>252-270</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SahinL21</key><doi>10.1145/3460120.3484791</doi><ee>https://doi.org/10.1145/3460120.3484791</ee><url>https://dblp.org/rec/conf/ccs/SahinL21</url></info>
+<url>URL#950808</url>
+</hit>
+<hit score="1" id="950809">
+<info><authors><author pid="183/6253">Sina Sajadmanesh</author><author pid="55/1328">Daniel Gatica-Perez</author></authors><title>Locally Private Graph Neural Networks.</title><venue>CCS</venue><pages>2130-2145</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SajadmaneshG21</key><doi>10.1145/3460120.3484565</doi><ee>https://doi.org/10.1145/3460120.3484565</ee><url>https://dblp.org/rec/conf/ccs/SajadmaneshG21</url></info>
+<url>URL#950809</url>
+</hit>
+<hit score="1" id="950810">
+<info><authors><author pid="143/0518">Nazir Saleheen</author><author pid="202/5436">Md. Azim Ullah</author><author pid="14/7588">Supriyo Chakraborty</author><author pid="306/1105">Deniz S. Ones</author><author pid="s/ManiBSrivastava">Mani B. Srivastava</author><author pid="07/2616-1">Santosh Kumar 0001</author></authors><title>WristPrint: Characterizing User Re-identification Risks from Wrist-worn Accelerometry Data.</title><venue>CCS</venue><pages>2807-2823</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SaleheenUCOS021</key><doi>10.1145/3460120.3484799</doi><ee>https://doi.org/10.1145/3460120.3484799</ee><url>https://dblp.org/rec/conf/ccs/SaleheenUCOS021</url></info>
+<url>URL#950810</url>
+</hit>
+<hit score="1" id="950812">
+<info><authors><author pid="306/0783">Gianluca Scopelliti</author><author pid="271/4871">Sepideh Pouyanrad</author><author pid="119/6689">Job Noorman</author><author pid="217/3027">Fritz Alder</author><author pid="85/6647">Frank Piessens</author><author pid="84/4044">Jan Tobias Mühlberg</author></authors><title>POSTER: An Open-Source Framework for Developing Heterogeneous Distributed Enclave Applications.</title><venue>CCS</venue><pages>2393-2395</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ScopellitiPNAPM21</key><doi>10.1145/3460120.3485341</doi><ee>https://doi.org/10.1145/3460120.3485341</ee><url>https://dblp.org/rec/conf/ccs/ScopellitiPNAPM21</url></info>
+<url>URL#950812</url>
+</hit>
+<hit score="1" id="950816">
+<info><authors><author pid="195/5821">Ryan Sheatsley</author><author pid="293/7182">Blaine Hoak</author><author pid="227/2618">Eric Pauley</author><author pid="265/2278">Yohan Beugin</author><author pid="79/1900">Michael J. Weisman</author><author pid="m/PatrickDrewMcDaniel">Patrick D. McDaniel</author></authors><title>On the Robustness of Domain Constraints.</title><venue>CCS</venue><pages>495-515</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SheatsleyHPBWM21</key><doi>10.1145/3460120.3484570</doi><ee>https://doi.org/10.1145/3460120.3484570</ee><url>https://dblp.org/rec/conf/ccs/SheatsleyHPBWM21</url></info>
+<url>URL#950816</url>
+</hit>
+<hit score="1" id="950817">
+<info><authors><author pid="187/9868">Tohid Shekari</author><author pid="211/9574">Celine Irvene</author><author pid="48/6119">Alvaro A. Cárdenas</author><author pid="12/6354">Raheem Beyah</author></authors><title>MaMIoT: Manipulation of Energy Market Leveraging High Wattage IoT Botnets.</title><venue>CCS</venue><pages>1338-1356</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShekariICB21</key><doi>10.1145/3460120.3484581</doi><ee>https://doi.org/10.1145/3460120.3484581</ee><url>https://dblp.org/rec/conf/ccs/ShekariICB21</url></info>
+<url>URL#950817</url>
+</hit>
+<hit score="1" id="950818">
+<info><authors><author pid="255/5217">Madura A. Shelton</author><author pid="31/6262">Lukasz Chmielewski</author><author pid="201/1374">Niels Samwel</author><author pid="94/7030-7">Markus Wagner 0007</author><author pid="67/1939">Lejla Batina</author><author pid="90/10901">Yuval Yarom</author></authors><title>Rosita++: Automatic Higher-Order Leakage Elimination from Cryptographic Code.</title><venue>CCS</venue><pages>685-699</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SheltonCS0BY21</key><doi>10.1145/3460120.3485380</doi><ee>https://doi.org/10.1145/3460120.3485380</ee><url>https://dblp.org/rec/conf/ccs/SheltonCS0BY21</url></info>
+<url>URL#950818</url>
+</hit>
+<hit score="1" id="950819">
+<info><authors><author pid="253/8366">Lujia Shen</author><author pid="07/8388">Shouling Ji</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="76/7842">Jinfeng Li</author><author pid="27/4364-3">Jing Chen 0003</author><author pid="38/5467">Jie Shi</author><author pid="48/254">Chengfang Fang</author><author pid="74/3786">Jianwei Yin</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Backdoor Pre-trained Models Can Transfer to All.</title><venue>CCS</venue><pages>3141-3158</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShenJ0LCSFYW21</key><doi>10.1145/3460120.3485370</doi><ee>https://doi.org/10.1145/3460120.3485370</ee><url>https://dblp.org/rec/conf/ccs/ShenJ0LCSFYW21</url></info>
+<url>URL#950819</url>
+</hit>
+<hit score="1" id="950820">
+<info><authors><author pid="240/7816">Peiyao Sheng</author><author pid="217/4872">Gerui Wang</author><author pid="143/4459">Kartik Nayak</author><author pid="61/8774">Sreeram Kannan</author><author pid="56/2613">Pramod Viswanath</author></authors><title>BFT Protocol Forensics.</title><venue>CCS</venue><pages>1722-1743</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShengWNKV21</key><doi>10.1145/3460120.3484566</doi><ee>https://doi.org/10.1145/3460120.3484566</ee><url>https://dblp.org/rec/conf/ccs/ShengWNKV21</url></info>
+<url>URL#950820</url>
+</hit>
+<hit score="1" id="950821">
+<info><authors><author pid="06/5929">Xiaofeng Shi</author><author pid="237/7597">Shouqian Shi</author><author pid="186/6880">Minmei Wang</author><author pid="306/1369">Jonne Kaunisto</author><author pid="70/3604-1">Chen Qian 0001</author></authors><title>On-device IoT Certificate Revocation Checking with Small Memory and Low Latency.</title><venue>CCS</venue><pages>1118-1134</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ShiSWK021</key><doi>10.1145/3460120.3484580</doi><ee>https://doi.org/10.1145/3460120.3484580</ee><url>https://dblp.org/rec/conf/ccs/ShiSWK021</url></info>
+<url>URL#950821</url>
+</hit>
+<hit score="1" id="950823">
+<info><authors><author pid="296/1680">Florian Sieck</author><author pid="154/6431">Sebastian Berndt 0001</author><author pid="225/5356">Jan Wichelmann</author><author pid="72/817">Thomas Eisenbarth 0001</author></authors><title>Util: : Lookup: Exploiting Key Decoding in Cryptographic Libraries.</title><venue>CCS</venue><pages>2456-2473</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SieckBW021</key><doi>10.1145/3460120.3484783</doi><ee>https://doi.org/10.1145/3460120.3484783</ee><url>https://dblp.org/rec/conf/ccs/SieckBW021</url></info>
+<url>URL#950823</url>
+</hit>
+<hit score="1" id="950825">
+<info><authors><author pid="212/8081">Michael Smith</author><author pid="139/5540">Peter Snyder</author><author pid="46/2924">Benjamin Livshits</author><author pid="91/6118">Deian Stefan</author></authors><title>SugarCoat: Programmatically Generating Privacy-Preserving, Web-Compatible Resource Replacements for Content Blocking.</title><venue>CCS</venue><pages>2844-2857</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SmithSLS21</key><doi>10.1145/3460120.3484578</doi><ee>https://doi.org/10.1145/3460120.3484578</ee><url>https://dblp.org/rec/conf/ccs/SmithSLS21</url></info>
+<url>URL#950825</url>
+</hit>
+<hit score="1" id="950826">
+<info><authors><author pid="181/4787">Wenna Song</author><author pid="09/6585-2">Jiang Ming 0002</author><author pid="03/7067">Lin Jiang</author><author pid="40/9479">Yi Xiang</author><author pid="00/2301">Xuanchen Pan</author><author pid="44/2489">Jianming Fu</author><author pid="30/4066">Guojun Peng</author></authors><title>Towards Transparent and Stealthy Android OS Sandboxing via Customizable Container-Based Virtualization.</title><venue>CCS</venue><pages>2858-2874</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Song0JXPFP21</key><doi>10.1145/3460120.3484544</doi><ee>https://doi.org/10.1145/3460120.3484544</ee><url>https://dblp.org/rec/conf/ccs/Song0JXPFP21</url></info>
+<url>URL#950826</url>
+</hit>
+<hit score="1" id="950827">
+<info><authors><author pid="s/DXSong">Dawn Song</author></authors><title>Towards Building a Responsible Data Economy.</title><venue>CCS</venue><pages>3</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Song21</key><doi>10.1145/3460120.3482789</doi><ee>https://doi.org/10.1145/3460120.3482789</ee><url>https://dblp.org/rec/conf/ccs/Song21</url></info>
+<url>URL#950827</url>
+</hit>
+<hit score="1" id="950828">
+<info><authors><author pid="238/5548">Suibin Sun</author><author pid="23/7122">Le Yu</author><author pid="158/4724">Xiaokuan Zhang</author><author pid="166/1912">Minhui Xue</author><author pid="306/1118">Ren Zhou</author><author pid="22/5702">Haojin Zhu</author><author pid="07/6713">Shuang Hao</author><author pid="59/554">Xiaodong Lin 0001</author></authors><title>Understanding and Detecting Mobile Ad Fraud Through the Lens of Invalid Traffic.</title><venue>CCS</venue><pages>287-303</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SunYZXZZHL21</key><doi>10.1145/3460120.3484547</doi><ee>https://doi.org/10.1145/3460120.3484547</ee><url>https://dblp.org/rec/conf/ccs/SunYZXZZHL21</url></info>
+<url>URL#950828</url>
+</hit>
+<hit score="1" id="950829">
+<info><authors><author pid="202/5427">Sebastian Surminski</author><author pid="290/8354">Christian Niesler</author><author pid="117/5967">Ferdinand Brasser</author><author pid="73/7564">Lucas Davi</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author></authors><title>RealSWATT: Remote Software-based Attestation for Embedded Devices under Realtime Constraints.</title><venue>CCS</venue><pages>2890-2905</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/SurminskiNBDS21</key><doi>10.1145/3460120.3484788</doi><ee>https://doi.org/10.1145/3460120.3484788</ee><url>https://dblp.org/rec/conf/ccs/SurminskiNBDS21</url></info>
+<url>URL#950829</url>
+</hit>
+<hit score="1" id="950830">
+<info><authors><author pid="89/6413">Xin Tan</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="306/1552">Chenyuan Mi</author><author pid="139/0685">Jiajun Cao</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="229/6559">Yifan Lin</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Locating the Security Patches for Disclosed OSS Vulnerabilities with Vulnerability-Commit Correlation Ranking.</title><venue>CCS</venue><pages>3282-3299</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/TanZMCSLY21</key><doi>10.1145/3460120.3484593</doi><ee>https://doi.org/10.1145/3460120.3484593</ee><url>https://dblp.org/rec/conf/ccs/TanZMCSLY21</url></info>
+<url>URL#950830</url>
+</hit>
+<hit score="1" id="950831">
+<info><authors><author pid="164/5298">Sri Aravinda Krishnan Thyagarajan</author><author pid="42/6955">Guilhem Castagnos</author><author pid="51/5010">Fabien Laguillaumie</author><author pid="148/1304">Giulio Malavolta</author></authors><title>Efficient CCA Timed Commitments in Class Groups.</title><venue>CCS</venue><pages>2663-2684</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ThyagarajanCLM21</key><doi>10.1145/3460120.3484773</doi><ee>https://doi.org/10.1145/3460120.3484773</ee><url>https://dblp.org/rec/conf/ccs/ThyagarajanCLM21</url></info>
+<url>URL#950831</url>
+</hit>
+<hit score="1" id="950832">
+<info><authors><author pid="164/5298">Sri Aravinda Krishnan Thyagarajan</author><author pid="270/9951">Tiantian Gong</author><author pid="174/9588">Adithya Bhat</author><author pid="12/3394">Aniket Kate</author><author pid="52/6199">Dominique Schröder</author></authors><title>OpenSquare: Decentralized Repeated Modular Squaring Service.</title><venue>CCS</venue><pages>3447-3464</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ThyagarajanGBKS21</key><doi>10.1145/3460120.3484809</doi><ee>https://doi.org/10.1145/3460120.3484809</ee><url>https://dblp.org/rec/conf/ccs/ThyagarajanGBKS21</url></info>
+<url>URL#950832</url>
+</hit>
+<hit score="1" id="950836">
+<info><authors><author pid="33/2591">Brian Tung</author><author pid="172/4550">Zhiyuan Yu</author><author pid="181/2597-17">Ning Zhang 0017</author></authors><title>Towards Automated Computational Auditing of mHealth Security and Privacy Regulations.</title><venue>CCS</venue><pages>2396-2398</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/TungYZ21</key><doi>10.1145/3460120.3485342</doi><ee>https://doi.org/10.1145/3460120.3485342</ee><url>https://dblp.org/rec/conf/ccs/TungYZ21</url></info>
+<url>URL#950836</url>
+</hit>
+<hit score="1" id="950838">
+<info><authors><author pid="70/2619">Nikos Vasilakis</author><author pid="270/8064">Achilles Benetopoulos</author><author pid="220/9099">Shivam Handa</author><author pid="306/1348">Alizee Schoen</author><author pid="160/0554">Jiasi Shen 0001</author><author pid="r/MartinCRinard">Martin C. Rinard</author></authors><title>Supply-Chain Vulnerability Elimination via Active Learning and Regeneration.</title><venue>CCS</venue><pages>1755-1770</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/VasilakisBHS0R21</key><doi>10.1145/3460120.3484736</doi><ee>https://doi.org/10.1145/3460120.3484736</ee><url>https://dblp.org/rec/conf/ccs/VasilakisBHS0R21</url></info>
+<url>URL#950838</url>
+</hit>
+<hit score="1" id="950839">
+<info><authors><author pid="70/2619">Nikos Vasilakis</author><author pid="179/8624">Cristian-Alexandru Staicu</author><author pid="277/9156">Grigoris Ntousakis</author><author pid="238/2969">Konstantinos Kallas</author><author pid="131/5095">Ben Karel</author><author pid="d/ADeHon">André DeHon</author><author pid="25/2188">Michael Pradel</author></authors><title>Preventing Dynamic Library Compromise on Node.js via RWX-Based Privilege Reduction.</title><venue>CCS</venue><pages>1821-1838</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/VasilakisSNKKDP21</key><doi>10.1145/3460120.3484535</doi><ee>https://doi.org/10.1145/3460120.3484535</ee><url>https://dblp.org/rec/conf/ccs/VasilakisSNKKDP21</url></info>
+<url>URL#950839</url>
+</hit>
+<hit score="1" id="950843">
+<info><authors><author pid="65/6748">Daniel Wagner</author><author pid="198/8297">Daniel Kopp</author><author pid="120/4535">Matthias Wichtlhuber</author><author pid="177/6606">Christoph Dietzel</author><author pid="75/6403">Oliver Hohlfeld</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>United We Stand: Collaborative Detection and Mitigation of Amplification DDoS Attacks at Scale.</title><venue>CCS</venue><pages>970-987</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WagnerKWDHSF21</key><doi>10.1145/3460120.3485385</doi><ee>https://doi.org/10.1145/3460120.3485385</ee><url>https://dblp.org/rec/conf/ccs/WagnerKWDHSF21</url></info>
+<url>URL#950843</url>
+</hit>
+<hit score="1" id="950844">
+<info><authors><author pid="65/3367">Mei Wang</author><author pid="59/1028-8">Kun He 0008</author><author pid="27/4364-3">Jing Chen 0003</author><author pid="188/7735">Zengpeng Li</author><author pid="181/2852">Wei Zhao</author><author pid="37/7220">Ruiying Du</author></authors><title>Biometrics-Authenticated Key Exchange for Secure Messaging.</title><venue>CCS</venue><pages>2618-2631</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Wang00LZD21</key><doi>10.1145/3460120.3484746</doi><ee>https://doi.org/10.1145/3460120.3484746</ee><url>https://dblp.org/rec/conf/ccs/Wang00LZD21</url></info>
+<url>URL#950844</url>
+</hit>
+<hit score="1" id="950845">
+<info><authors><author pid="12/5838-12">Tao Wang 0012</author></authors><title>The One-Page Setting: A Higher Standard for Evaluating Website Fingerprinting Defenses.</title><venue>CCS</venue><pages>2794-2806</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/Wang21</key><doi>10.1145/3460120.3484790</doi><ee>https://doi.org/10.1145/3460120.3484790</ee><url>https://dblp.org/rec/conf/ccs/Wang21</url></info>
+<url>URL#950845</url>
+</hit>
+<hit score="1" id="950846">
+<info><authors><author pid="68/1041">Yuxin Wang</author><author pid="227/8862-1">Zeyu Ding 0001</author><author pid="244/1962">Yingtai Xiao</author><author pid="84/114">Daniel Kifer</author><author pid="23/3719">Danfeng Zhang</author></authors><title>DPGen: Automated Program Synthesis for Differential Privacy.</title><venue>CCS</venue><pages>393-411</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WangDXKZ21</key><doi>10.1145/3460120.3484781</doi><ee>https://doi.org/10.1145/3460120.3484781</ee><url>https://dblp.org/rec/conf/ccs/WangDXKZ21</url></info>
+<url>URL#950846</url>
+</hit>
+<hit score="1" id="950847">
+<info><authors><author pid="93/6765">Meng Wang</author><author pid="292/2920">Chijung Jung</author><author pid="292/2916">Ali Ahad</author><author pid="139/7034">Yonghwi Kwon 0001</author></authors><title>Spinner: Automated Dynamic Command Subsystem Perturbation.</title><venue>CCS</venue><pages>1839-1860</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WangJA021</key><doi>10.1145/3460120.3484577</doi><ee>https://doi.org/10.1145/3460120.3484577</ee><url>https://dblp.org/rec/conf/ccs/WangJA021</url></info>
+<url>URL#950847</url>
+</hit>
+<hit score="1" id="950848">
+<info><authors><author pid="223/8062">Xuechao Wang</author><author pid="292/4411">Viswa Virinchi Muppirala</author><author pid="50/2484-31">Lei Yang 0031</author><author pid="61/8774">Sreeram Kannan</author><author pid="56/2613">Pramod Viswanath</author></authors><title>Securing Parallel-chain Protocols under Variable Mining Power.</title><venue>CCS</venue><pages>1700-1721</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WangMYKV21</key><doi>10.1145/3460120.3485254</doi><ee>https://doi.org/10.1145/3460120.3485254</ee><url>https://dblp.org/rec/conf/ccs/WangMYKV21</url></info>
+<url>URL#950848</url>
+</hit>
+<hit score="1" id="950849">
+<info><authors><author pid="78/8711-3">Zi Wang 0003</author><author pid="28/9860">Yili Ren</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="12/1198-3">Jie Yang 0003</author></authors><title>Earable Authentication via Acoustic Toothprint.</title><venue>CCS</venue><pages>2390-2392</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WangR0Y21</key><doi>10.1145/3460120.3485340</doi><ee>https://doi.org/10.1145/3460120.3485340</ee><url>https://dblp.org/rec/conf/ccs/WangR0Y21</url></info>
+<url>URL#950849</url>
+</hit>
+<hit score="1" id="950850">
+<info><authors><author pid="236/6319">Boxin Wang</author><author pid="07/6378-11">Fan Wu 0011</author><author pid="135/7129">Yunhui Long</author><author pid="264/1959">Luka Rimanic</author><author pid="97/919-1">Ce Zhang 0001</author><author pid="50/3402-26">Bo Li 0026</author></authors><title>DataLens: Scalable Privacy Preserving Training via Gradient Compression and Aggregation.</title><venue>CCS</venue><pages>2146-2168</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WangWLR0L21</key><doi>10.1145/3460120.3484579</doi><ee>https://doi.org/10.1145/3460120.3484579</ee><url>https://dblp.org/rec/conf/ccs/WangWLR0L21</url></info>
+<url>URL#950850</url>
+</hit>
+<hit score="1" id="950851">
+<info><authors><author pid="175/1528">Benjamin Weggenmann</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>Differential Privacy for Directional Data.</title><venue>CCS</venue><pages>1205-1222</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WeggenmannK21</key><doi>10.1145/3460120.3484734</doi><ee>https://doi.org/10.1145/3460120.3484734</ee><url>https://dblp.org/rec/conf/ccs/WeggenmannK21</url></info>
+<url>URL#950851</url>
+</hit>
+<hit score="1" id="950853">
+<info><authors><author pid="211/7660">Matthew Weidner</author><author pid="148/2880">Martin Kleppmann</author><author pid="277/3612">Daniel Hugenroth</author><author pid="29/361">Alastair R. Beresford</author></authors><title>Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees.</title><venue>CCS</venue><pages>2024-2045</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WeidnerKHB21</key><doi>10.1145/3460120.3484542</doi><ee>https://doi.org/10.1145/3460120.3484542</ee><url>https://dblp.org/rec/conf/ccs/WeidnerKHB21</url></info>
+<url>URL#950853</url>
+</hit>
+<hit score="1" id="950854">
+<info><authors><author pid="259/1518">Emily Wenger</author><author pid="302/4489">Max Bronckers</author><author pid="227/5248">Christian Cianfarani</author><author pid="205/3170">Jenna Cryan</author><author pid="302/4392">Angela Sha</author><author pid="43/4261">Haitao Zheng 0001</author><author pid="z/BenYZhao">Ben Y. Zhao</author></authors><title>&quot;Hello, It&apos;s Me&quot;: Deep Learning-based Speech Synthesis Attacks in the Real World.</title><venue>CCS</venue><pages>235-251</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WengerBCCS0Z21</key><doi>10.1145/3460120.3484742</doi><ee>https://doi.org/10.1145/3460120.3484742</ee><url>https://dblp.org/rec/conf/ccs/WengerBCCS0Z21</url></info>
+<url>URL#950854</url>
+</hit>
+<hit score="1" id="950858">
+<info><authors><author pid="306/0806">Miuyin Yong Wong</author><author pid="231/1936">Matthew Landen</author><author pid="26/216">Manos Antonakakis</author><author pid="b/DMBlough">Douglas M. Blough</author><author pid="141/9244">Elissa M. Redmiles</author><author pid="73/3162">Mustaque Ahamad</author></authors><title>An Inside Look into the Practice of Malware Analysis.</title><venue>CCS</venue><pages>3053-3069</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/WongLABRA21</key><doi>10.1145/3460120.3484759</doi><ee>https://doi.org/10.1145/3460120.3484759</ee><url>https://dblp.org/rec/conf/ccs/WongLABRA21</url></info>
+<url>URL#950858</url>
+</hit>
+<hit score="1" id="950859">
+<info><authors><author pid="227/8898">Xiaobo Xiang</author><author pid="68/6577-3">Ren Zhang 0003</author><author pid="263/5162">Hanxiang Wen</author><author pid="33/10782">Xiaorui Gong</author><author pid="10/8471">Baoxu Liu</author></authors><title>Ghost in the Binder: Binder Transaction Redirection Attacks in Android System Services.</title><venue>CCS</venue><pages>1581-1597</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/XiangZWGL21</key><doi>10.1145/3460120.3484801</doi><ee>https://doi.org/10.1145/3460120.3484801</ee><url>https://dblp.org/rec/conf/ccs/XiangZWGL21</url></info>
+<url>URL#950859</url>
+</hit>
+<hit score="1" id="950860">
+<info><authors><author pid="55/6230">Junjie Xiong</author><author pid="146/8098">Mingkui Wei</author><author pid="41/4718">Zhuo Lu</author><author pid="64/424-7">Yao Liu 0007</author></authors><title>Warmonger: Inflicting Denial-of-Service via Serverless Functions in the Cloud.</title><venue>CCS</venue><pages>955-969</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/XiongWLL21</key><doi>10.1145/3460120.3485372</doi><ee>https://doi.org/10.1145/3460120.3485372</ee><url>https://dblp.org/rec/conf/ccs/XiongWLL21</url></info>
+<url>URL#950860</url>
+</hit>
+<hit score="1" id="950862">
+<info><authors><author pid="213/7633">Fenghao Xu</author><author pid="253/8629">Siyu Shen</author><author pid="149/2350">Wenrui Diao</author><author pid="62/4119-1">Zhou Li 0001</author><author pid="49/6574">Yi Chen</author><author pid="96/4282">Rui Li</author><author pid="66/6560">Kehuan Zhang</author></authors><title>Android on PC: On the Security of End-user Android Emulators.</title><venue>CCS</venue><pages>1566-1580</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/XuSDLCLZ21</key><doi>10.1145/3460120.3484774</doi><ee>https://doi.org/10.1145/3460120.3484774</ee><url>https://dblp.org/rec/conf/ccs/XuSDLCLZ21</url></info>
+<url>URL#950862</url>
+</hit>
+<hit score="1" id="950863">
+<info><authors><author pid="43/3362-6">Ming Xu 0006</author><author pid="275/3599">Chuanwang Wang</author><author pid="306/0786">Jitao Yu</author><author pid="99/6243">Junjie Zhang</author><author pid="55/957-6">Kai Zhang 0006</author><author pid="42/179">Weili Han</author></authors><title>Chunk-Level Password Guessing: Towards Modeling Refined Password Composition Representations.</title><venue>CCS</venue><pages>5-20</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/XuWYZZH21</key><doi>10.1145/3460120.3484743</doi><ee>https://doi.org/10.1145/3460120.3484743</ee><url>https://dblp.org/rec/conf/ccs/XuWYZZH21</url></info>
+<url>URL#950863</url>
+</hit>
+<hit score="1" id="950864">
+<info><authors><author pid="137/5280">Haiyang Xue</author><author pid="55/24">Man Ho Au</author><author pid="17/1712">Xiang Xie</author><author pid="10/6625">Tsz Hon Yuen</author><author pid="225/1422">Handong Cui</author></authors><title>Efficient Online-friendly Two-Party ECDSA Signature.</title><venue>CCS</venue><pages>558-573</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/XueAXYC21</key><doi>10.1145/3460120.3484803</doi><ee>https://doi.org/10.1145/3460120.3484803</ee><url>https://dblp.org/rec/conf/ccs/XueAXYC21</url></info>
+<url>URL#950864</url>
+</hit>
+<hit score="1" id="950865">
+<info><authors><author pid="185/6250">Carter Yagemann</author><author pid="38/860">Simon P. Chung</author><author pid="150/5240">Brendan Saltaformaggio</author><author pid="29/5976">Wenke Lee</author></authors><title>Automated Bug Hunting With Data-Driven Symbolic Root Cause Analysis.</title><venue>CCS</venue><pages>320-336</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YagemannCSL21</key><doi>10.1145/3460120.3485363</doi><ee>https://doi.org/10.1145/3460120.3485363</ee><url>https://dblp.org/rec/conf/ccs/YagemannCSL21</url></info>
+<url>URL#950865</url>
+</hit>
+<hit score="1" id="950866">
+<info><authors><author pid="185/6250">Carter Yagemann</author><author pid="184/3896">Mohammad A. Noureddine</author><author pid="184/8086">Wajih Ul Hassan</author><author pid="38/860">Simon P. Chung</author><author pid="126/3601">Adam Bates 0001</author><author pid="29/5976">Wenke Lee</author></authors><title>Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks.</title><venue>CCS</venue><pages>3337-3351</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YagemannNHC0L21</key><doi>10.1145/3460120.3484551</doi><ee>https://doi.org/10.1145/3460120.3484551</ee><url>https://dblp.org/rec/conf/ccs/YagemannNHC0L21</url></info>
+<url>URL#950866</url>
+</hit>
+<hit score="1" id="950867">
+<info><authors><author pid="162/6489">Moosa Yahyazadeh</author><author pid="201/9242">Sze Yiu Chau</author><author pid="53/2189">Li Li</author><author pid="306/0915">Man Hong Hue</author><author pid="274/9935">Joyanta Debnath</author><author pid="306/1531">Sheung Chiu Ip</author><author pid="306/1575">Chun Ngai Li</author><author pid="31/1431">Md. Endadul Hoque</author><author pid="53/7986">Omar Chowdhury</author></authors><title>Morpheus: Bringing The (PKCS) One To Meet the Oracle.</title><venue>CCS</venue><pages>2474-2496</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YahyazadehCLHDI21</key><doi>10.1145/3460120.3485382</doi><ee>https://doi.org/10.1145/3460120.3485382</ee><url>https://dblp.org/rec/conf/ccs/YahyazadehCLHDI21</url></info>
+<url>URL#950867</url>
+</hit>
+<hit score="1" id="950870">
+<info><authors><author pid="306/1261">Nanzi Yang</author><author pid="18/5040">Wenbo Shen</author><author pid="06/8291">Jinku Li</author><author pid="218/5245">Yutian Yang</author><author pid="67/10639">Kangjie Lu</author><author pid="306/1083">Jietao Xiao</author><author pid="139/8092">Tianyu Zhou</author><author pid="190/7165">Chenggang Qin</author><author pid="97/930">Wang Yu</author><author pid="12/6604-1">Jianfeng Ma 0001</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>Demons in the Shared Kernel: Abstract Resource Attacks Against OS-level Virtualization.</title><venue>CCS</venue><pages>764-778</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YangSLYLXZQY0021</key><doi>10.1145/3460120.3484744</doi><ee>https://doi.org/10.1145/3460120.3484744</ee><url>https://dblp.org/rec/conf/ccs/YangSLYLXZQY0021</url></info>
+<url>URL#950870</url>
+</hit>
+<hit score="1" id="950871">
+<info><authors><author pid="86/8501-2">Kang Yang 0002</author><author pid="140/5465">Pratik Sarkar</author><author pid="251/1580">Chenkai Weng</author><author pid="150/9413">Xiao Wang 0012</author></authors><title>QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field.</title><venue>CCS</venue><pages>2986-3001</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YangSWW21</key><doi>10.1145/3460120.3484556</doi><ee>https://doi.org/10.1145/3460120.3484556</ee><url>https://dblp.org/rec/conf/ccs/YangSWW21</url></info>
+<url>URL#950871</url>
+</hit>
+<hit score="1" id="950873">
+<info><authors><author pid="119/7670">Insu Yun</author><author pid="306/1684">Woosun Song</author><author pid="306/1297">Seunggi Min</author><author pid="38/8882">Taesoo Kim</author></authors><title>HardsHeap: A Universal and Extensible Framework for Evaluating Secure Allocators.</title><venue>CCS</venue><pages>379-392</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/YunSMK21</key><doi>10.1145/3460120.3484740</doi><ee>https://doi.org/10.1145/3460120.3484740</ee><url>https://dblp.org/rec/conf/ccs/YunSMK21</url></info>
+<url>URL#950873</url>
+</hit>
+<hit score="1" id="950874">
+<info><authors><author pid="306/0911">Abel Zambrano</author><author pid="306/1292">Alejandro Palacio Betancur</author><author pid="286/7762">Luis Burbano</author><author pid="306/0788">Andres Felipe Niño</author><author pid="13/9053">Luis Felipe Giraldo</author><author pid="172/4846">Mariantonieta Gutierrez Soto</author><author pid="47/10540">Jairo Giraldo</author><author pid="48/6119">Alvaro A. Cárdenas</author></authors><title>You Make Me Tremble: A First Look at Attacks Against Structural Control Systems.</title><venue>CCS</venue><pages>1320-1337</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZambranoBBNGSGC21</key><doi>10.1145/3460120.3485386</doi><ee>https://doi.org/10.1145/3460120.3485386</ee><url>https://dblp.org/rec/conf/ccs/ZambranoBBNGSGC21</url></info>
+<url>URL#950874</url>
+</hit>
+<hit score="1" id="950875">
+<info><authors><author pid="49/6156-12">Hang Zhang 0012</author><author pid="224/9379">Weiteng Chen</author><author pid="33/3270-6">Yu Hao 0006</author><author pid="272/7041">Guoren Li</author><author pid="278/0316">Yizhuo Zhai</author><author pid="210/0533">Xiaochen Zou</author><author pid="31/8302">Zhiyun Qian</author></authors><title>Statically Discovering High-Order Taint Style Vulnerabilities in OS Kernels.</title><venue>CCS</venue><pages>811-824</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangCHLZZQ21</key><doi>10.1145/3460120.3484798</doi><ee>https://doi.org/10.1145/3460120.3484798</ee><url>https://dblp.org/rec/conf/ccs/ZhangCHLZZQ21</url></info>
+<url>URL#950875</url>
+</hit>
+<hit score="1" id="950877">
+<info><authors><author pid="203/8611">Jiaheng Zhang</author><author pid="133/4132">Tianyi Liu</author><author pid="18/689">Weijie Wang</author><author pid="90/7422">Yinuo Zhang</author><author pid="s/DXSong">Dawn Song</author><author pid="17/1712">Xiang Xie</author><author pid="82/4816-1">Yupeng Zhang 0001</author></authors><title>Doubly Efficient Interactive Proofs for General Arithmetic Circuits with Linear Prover Time.</title><venue>CCS</venue><pages>159-177</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangLWZSXZ21</key><doi>10.1145/3460120.3484767</doi><ee>https://doi.org/10.1145/3460120.3484767</ee><url>https://dblp.org/rec/conf/ccs/ZhangLWZSXZ21</url></info>
+<url>URL#950877</url>
+</hit>
+<hit score="1" id="950878">
+<info><authors><author pid="302/0867">Minxing Zhang</author><author pid="58/10440">Zhaochun Ren</author><author pid="152/5077-2">Zihan Wang 0002</author><author pid="168/4596">Pengjie Ren</author><author pid="88/1081">Zhumin Chen</author><author pid="71/9969">Pengfei Hu</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Membership Inference Attacks Against Recommender Systems.</title><venue>CCS</venue><pages>864-879</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangRWRCHZ21</key><doi>10.1145/3460120.3484770</doi><ee>https://doi.org/10.1145/3460120.3484770</ee><url>https://dblp.org/rec/conf/ccs/ZhangRWRCHZ21</url></info>
+<url>URL#950878</url>
+</hit>
+<hit score="1" id="950879">
+<info><authors><author pid="237/7632">Yihe Zhang</author><author pid="24/6114">Xu Yuan</author><author pid="48/1097-2">Jin Li 0002</author><author pid="271/9833">Jiadong Lou</author><author pid="c/LiChen19">Li Chen 0019</author><author pid="82/4827">Nian-Feng Tzeng</author></authors><title>Reverse Attack: Black-box Attacks on Collaborative Recommendation.</title><venue>CCS</venue><pages>51-68</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhangYLLCT21</key><doi>10.1145/3460120.3484805</doi><ee>https://doi.org/10.1145/3460120.3484805</ee><url>https://dblp.org/rec/conf/ccs/ZhangYLLCT21</url></info>
+<url>URL#950879</url>
+</hit>
+<hit score="1" id="950880">
+<info><authors><author pid="201/9069">Kaifa Zhao</author><author pid="63/778">Hao Zhou</author><author pid="198/8309">Yulin Zhu</author><author pid="154/0904">Xian Zhan</author><author pid="82/1512">Kai Zhou</author><author pid="10/3844">Jianfeng Li</author><author pid="23/7122-2">Le Yu 0002</author><author pid="67/2268">Wei Yuan</author><author pid="53/1565">Xiapu Luo</author></authors><title>Structural Attack against Graph Based Android Malware Detection.</title><venue>CCS</venue><pages>3218-3235</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhaoZZZZLYYL21</key><doi>10.1145/3460120.3485387</doi><ee>https://doi.org/10.1145/3460120.3485387</ee><url>https://dblp.org/rec/conf/ccs/ZhaoZZZZLYYL21</url></info>
+<url>URL#950880</url>
+</hit>
+<hit score="1" id="950881">
+<info><authors><author pid="276/3969">Baolin Zheng</author><author pid="137/9780-2">Peipei Jiang 0002</author><author pid="75/5723-2">Qian Wang 0002</author><author pid="181/2688-2">Qi Li 0002</author><author pid="48/4825-1">Chao Shen 0001</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="255/9411">Yunjie Ge</author><author pid="304/4996">Qingyang Teng</author><author pid="52/10864">Shenyi Zhang</author></authors><title>Black-box Adversarial Attacks on Commercial Speech Platforms with Minimal Information.</title><venue>CCS</venue><pages>86-107</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhengJWLS0GTZ21</key><doi>10.1145/3460120.3485383</doi><ee>https://doi.org/10.1145/3460120.3485383</ee><url>https://dblp.org/rec/conf/ccs/ZhengJWLS0GTZ21</url></info>
+<url>URL#950881</url>
+</hit>
+<hit score="1" id="950882">
+<info><authors><author pid="171/2501">Xiaogang Zhu</author><author pid="91/7541">Marcel Böhme</author></authors><title>Regression Greybox Fuzzing.</title><venue>CCS</venue><pages>2169-2182</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhuB21</key><doi>10.1145/3460120.3484596</doi><ee>https://doi.org/10.1145/3460120.3484596</ee><url>https://dblp.org/rec/conf/ccs/ZhuB21</url></info>
+<url>URL#950882</url>
+</hit>
+<hit score="1" id="950883">
+<info><authors><author pid="36/1469">Tong Zhu</author><author pid="43/1032">Yan Meng</author><author pid="260/8615">Haotian Hu</author><author pid="158/4724">Xiaokuan Zhang</author><author pid="166/1912">Minhui Xue</author><author pid="22/5702">Haojin Zhu</author></authors><title>Dissecting Click Fraud Autonomy in the Wild.</title><venue>CCS</venue><pages>271-286</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhuMHZXZ21</key><doi>10.1145/3460120.3484546</doi><ee>https://doi.org/10.1145/3460120.3484546</ee><url>https://dblp.org/rec/conf/ccs/ZhuMHZXZ21</url></info>
+<url>URL#950883</url>
+</hit>
+<hit score="1" id="950884">
+<info><authors><author pid="67/4972">Yi Zhu</author><author pid="131/9582">Chenglin Miao</author><author pid="212/1269">Tianhang Zheng</author><author pid="178/3138">Foad Hajiaghajani</author><author pid="63/4152">Lu Su</author><author pid="60/6865">Chunming Qiao</author></authors><title>Can We Use Arbitrary Objects to Attack LiDAR Perception in Autonomous Driving?</title><venue>CCS</venue><pages>1945-1960</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ccs/ZhuMZHSQ21</key><doi>10.1145/3460120.3485377</doi><ee>https://doi.org/10.1145/3460120.3485377</ee><url>https://dblp.org/rec/conf/ccs/ZhuMZHSQ21</url></info>
+<url>URL#950884</url>
+</hit>
+<hit score="1" id="1097417">
+<info><authors><author pid="20/6892">Yongdae Kim</author><author pid="46/2217">Jong Kim 0001</author><author pid="v/GiovanniVigna">Giovanni Vigna</author><author pid="80/4580">Elaine Shi</author></authors><title>CCS &apos;21: 2021 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, Republic of Korea, November 15 - 19, 2021</title><venue>CCS</venue><publisher>ACM</publisher><year>2021</year><type>Editorship</type><key>conf/ccs/2021</key><doi>10.1145/3460120</doi><ee>https://doi.org/10.1145/3460120</ee><url>https://dblp.org/rec/conf/ccs/2021</url></info>
+<url>URL#1097417</url>
+</hit>
+</hits>
+</result>

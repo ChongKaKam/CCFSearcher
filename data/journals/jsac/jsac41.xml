@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="236570">:facetid:toc:\"db/journals/jsac/jsac41.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">187.77</time>
+<completions total="1" computed="1" sent="1">
+<c sc="191" dc="191" oc="191" id="41097785">:facetid:toc:db/journals/jsac/jsac41.bht</c>
+</completions>
+<hits total="191" computed="191" sent="191" first="0">
+<hit score="1" id="66638">
+<info><authors><author pid="217/2170">Mohamed Akrout</author><author pid="258/3320">Volodymyr Shyianov</author><author pid="75/7911">Faouzi Bellili</author><author pid="69/7822">Amine Mezghani</author><author pid="56/4851">Robert W. Heath Jr.</author></authors><title>Super-Wideband Massive MIMO.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2414-2430</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AkroutSBMH23</key><doi>10.1109/JSAC.2023.3288269</doi><ee>https://doi.org/10.1109/JSAC.2023.3288269</ee><url>https://dblp.org/rec/journals/jsac/AkroutSBMH23</url></info>
+<url>URL#66638</url>
+</hit>
+<hit score="1" id="66639">
+<info><authors><author pid="59/1890">Angeliki Alexiou</author><author pid="75/4085">Mérouane Debbah</author><author pid="88/609">Marco Di Renzo</author><author pid="27/2122">Emilio Calvanese Strinati</author><author pid="98/67">Harish Viswanathan</author></authors><title>Guest Editorial Beyond Shannon Communications - A Paradigm Shift to Catalyze 6G.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2299-2305</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AlexiouDRSV23</key><doi>10.1109/JSAC.2023.3288796</doi><ee>https://doi.org/10.1109/JSAC.2023.3288796</ee><url>https://dblp.org/rec/journals/jsac/AlexiouDRSV23</url></info>
+<url>URL#66639</url>
+</hit>
+<hit score="1" id="66640">
+<info><authors><author pid="286/4132">Yazeed Alkhrijah</author><author pid="33/10194">Joseph Camp</author><author pid="77/5735">Dinesh Rajan</author></authors><title>Multi-Band Full Duplex MAC Protocol (MB-FDMAC).</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2864-2878</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AlkhrijahCR23</key><doi>10.1109/JSAC.2023.3287546</doi><ee>https://doi.org/10.1109/JSAC.2023.3287546</ee><url>https://dblp.org/rec/journals/jsac/AlkhrijahCR23</url></info>
+<url>URL#66640</url>
+</hit>
+<hit score="1" id="66641">
+<info><authors><author pid="217/2328">Roohollah Amiri</author><author pid="10/8969">Srinivas Yerramalli</author><author pid="45/6783">Taesang Yoo</author><author pid="193/8573">Mohammed Hirzallah</author><author pid="169/2030">Marwen Zorgui</author><author pid="47/992">Rajat Prakash</author><author pid="98/2352">Xiaoxia Zhang</author></authors><title>Indoor Environment Learning via RF-Mapping.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1859-1872</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AmiriYYHZPZ23</key><doi>10.1109/JSAC.2023.3273702</doi><ee>https://doi.org/10.1109/JSAC.2023.3273702</ee><url>https://dblp.org/rec/journals/jsac/AmiriYYHZPZ23</url></info>
+<url>URL#66641</url>
+</hit>
+<hit score="1" id="66642">
+<info><authors><author pid="192/2015">Donia Ben Amor</author><author pid="53/5016">Michael Joham</author><author pid="34/5115">Wolfgang Utschick</author></authors><title>Rate Splitting in FDD Massive MIMO Systems Based on the Second Order Statistics of Transmission Channels.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1351-1365</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AmorJU23</key><doi>10.1109/JSAC.2023.3240703</doi><ee>https://doi.org/10.1109/JSAC.2023.3240703</ee><url>https://dblp.org/rec/journals/jsac/AmorJU23</url></info>
+<url>URL#66642</url>
+</hit>
+<hit score="1" id="66643">
+<info><authors><author pid="159/4444">Jiancheng An</author><author pid="79/1442-5">Chao Xu 0005</author><author pid="42/8146">Derrick Wing Kwan Ng</author><author pid="13/2648">George C. Alexandropoulos</author><author pid="183/6637">Chongwen Huang</author><author pid="01/753">Chau Yuen</author><author pid="92/5955">Lajos Hanzo</author></authors><title>Stacked Intelligent Metasurfaces for Efficient Holographic MIMO Communications in 6G.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2380-2396</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AnXNAHYH23</key><doi>10.1109/JSAC.2023.3288261</doi><ee>https://doi.org/10.1109/JSAC.2023.3288261</ee><url>https://dblp.org/rec/journals/jsac/AnXNAHYH23</url></info>
+<url>URL#66643</url>
+</hit>
+<hit score="1" id="66644">
+<info><authors><author pid="157/7886">Ramez Askar</author><author pid="30/322">Wilhelm Keusgen</author></authors><title>Lossless Decoupling Networks for RF Self-Interference Cancellation in MIMO Full-Duplex Transceivers.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2765-2779</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AskarK23</key><doi>10.1109/JSAC.2023.3287544</doi><ee>https://doi.org/10.1109/JSAC.2023.3287544</ee><url>https://dblp.org/rec/journals/jsac/AskarK23</url></info>
+<url>URL#66644</url>
+</hit>
+<hit score="1" id="66645">
+<info><authors><author pid="215/4463">Ghadir Ayache</author><author pid="173/5471">Venkat R. Dasari</author><author pid="122/2942">Salim El Rouayheb</author></authors><title>Walk for Learning: A Random Walk Approach for Federated Learning From Heterogeneous Data.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>929-940</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/AyacheDR23</key><doi>10.1109/JSAC.2023.3244250</doi><ee>https://doi.org/10.1109/JSAC.2023.3244250</ee><url>https://dblp.org/rec/journals/jsac/AyacheDR23</url></info>
+<url>URL#66645</url>
+</hit>
+<hit score="1" id="66646">
+<info><authors><author pid="188/0370">Yuval Ben-Hur</author><author pid="326/0693">Asaf Goren</author><author pid="326/0541">Da El Klang</author><author pid="124/3256">Yongjune Kim 0001</author><author pid="50/8860">Yuval Cassuto</author></authors><title>Ensemble Classification With Noisy Real-Valued Base Functions.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1067-1080</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/BenHurGKKC23</key><doi>10.1109/JSAC.2023.3242713</doi><ee>https://doi.org/10.1109/JSAC.2023.3242713</ee><url>https://dblp.org/rec/journals/jsac/BenHurGKKC23</url></info>
+<url>URL#66646</url>
+</hit>
+<hit score="1" id="66647">
+<info><authors><author pid="125/2057">Ali Bereyhi</author><author pid="199/1898">Saba Asaad</author><author pid="245/3164">Chongjun Ouyang</author><author pid="29/103">Ralf R. Müller</author><author pid="90/5247">Rafael F. Schaefer</author><author pid="p/HVincentPoor">H. Vincent Poor</author></authors><title>Channel Hardening of IRS-Aided Multi-Antenna Systems: How Should IRSs Scale?</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2321-2335</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/BereyhiAOMSP23</key><doi>10.1109/JSAC.2023.3288237</doi><ee>https://doi.org/10.1109/JSAC.2023.3288237</ee><url>https://dblp.org/rec/journals/jsac/BereyhiAOMSP23</url></info>
+<url>URL#66647</url>
+</hit>
+<hit score="1" id="66648">
+<info><authors><author pid="17/11052">Biljana Bojovic</author><author pid="27/9877">Sandra Lagén</author><author pid="164/6536">Katerina Koutlia</author><author pid="95/4776">Xiaodi Zhang</author><author pid="37/1304">Ping Wang</author><author pid="63/10061">Liwen Yu</author></authors><title>Enhancing 5G QoS Management for XR Traffic Through XR Loopback Mechanism.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1772-1786</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/BojovicLKZWY23</key><doi>10.1109/JSAC.2023.3273701</doi><ee>https://doi.org/10.1109/JSAC.2023.3273701</ee><url>https://dblp.org/rec/journals/jsac/BojovicLKZWY23</url></info>
+<url>URL#66648</url>
+</hit>
+<hit score="1" id="66649">
+<info><authors><author pid="37/1165">Marcello Caleffi</author><author pid="195/6102">Kyrylo Simonov</author><author pid="63/3512">Angela Sara Cacciapuoti</author></authors><title>Beyond Shannon Limits: Quantum Communications Through Quantum Paths.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2707-2724</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/CaleffiSC23</key><doi>10.1109/JSAC.2023.3288263</doi><ee>https://doi.org/10.1109/JSAC.2023.3288263</ee><url>https://dblp.org/rec/journals/jsac/CaleffiSC23</url></info>
+<url>URL#66649</url>
+</hit>
+<hit score="1" id="66650">
+<info><authors><author pid="117/3366">Xuanyu Cao</author><author pid="b/TamerBasar">Tamer Basar</author><author pid="d/SNDiggavi">Suhas N. Diggavi</author><author pid="e/YoninaCEldar">Yonina C. Eldar</author><author pid="95/5358">Khaled B. Letaief</author><author pid="p/HVincentPoor">H. Vincent Poor</author><author pid="59/1232">Junshan Zhang</author></authors><title>Guest Editorial Communication-Efficient Distributed Learning Over Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>845-850</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/CaoBDELPZ23</key><doi>10.1109/JSAC.2023.3241848</doi><ee>https://doi.org/10.1109/JSAC.2023.3241848</ee><url>https://dblp.org/rec/journals/jsac/CaoBDELPZ23</url></info>
+<url>URL#66650</url>
+</hit>
+<hit score="1" id="66651">
+<info><authors><author pid="117/3366">Xuanyu Cao</author><author pid="b/TamerBasar">Tamer Basar</author><author pid="d/SNDiggavi">Suhas N. Diggavi</author><author pid="e/YoninaCEldar">Yonina C. Eldar</author><author pid="95/5358">Khaled B. Letaief</author><author pid="p/HVincentPoor">H. Vincent Poor</author><author pid="59/1232">Junshan Zhang</author></authors><title>Communication-Efficient Distributed Learning: An Overview.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>851-873</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/CaoBDELPZ23a</key><doi>10.1109/JSAC.2023.3242710</doi><ee>https://doi.org/10.1109/JSAC.2023.3242710</ee><url>https://dblp.org/rec/journals/jsac/CaoBDELPZ23a</url></info>
+<url>URL#66651</url>
+</hit>
+<hit score="1" id="66652">
+<info><authors><author pid="25/7045">Yang Cao</author><author pid="36/3184">Pan Wang</author><author pid="150/4204">Kang Zheng</author><author pid="327/9467">Xianghu Liang</author><author pid="75/9482">Dongjie Liu</author><author pid="250/1046">Mengting Lou</author><author pid="00/34">Jing Jin</author><author pid="68/1754">Qixing Wang</author><author pid="66/5973-2">Dongming Wang 0002</author><author pid="62/1302">Yongming Huang</author><author pid="17/1464-1">Xiaohu You 0001</author><author pid="80/3885">Jiangzhou Wang</author></authors><title>Experimental Performance Evaluation of Cell-Free Massive MIMO Systems Using COTS RRU With OTA Reciprocity Calibration and Phase Synchronization.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1620-1634</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/CaoWZLLLJWWHYW23</key><doi>10.1109/JSAC.2023.3276057</doi><ee>https://doi.org/10.1109/JSAC.2023.3276057</ee><url>https://dblp.org/rec/journals/jsac/CaoWZLLLJWWHYW23</url></info>
+<url>URL#66652</url>
+</hit>
+<hit score="1" id="66653">
+<info><authors><author pid="209/6248">Xuelin Cao</author><author pid="46/999-35">Bo Yang 0035</author><author pid="74/2768">Yulong Shen</author><author pid="01/753">Chau Yuen</author><author pid="04/3348-2">Yan Zhang 0002</author><author pid="83/514">Zhu Han 0001</author><author pid="p/HVincentPoor">H. Vincent Poor</author><author pid="92/5955">Lajos Hanzo</author></authors><title>Edge-Assisted Multi-Layer Offloading Optimization of LEO Satellite-Terrestrial Integrated Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>381-398</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/CaoYSYZHPH23</key><doi>10.1109/JSAC.2022.3227032</doi><ee>https://doi.org/10.1109/JSAC.2022.3227032</ee><url>https://dblp.org/rec/journals/jsac/CaoYSYZHPH23</url></info>
+<url>URL#66653</url>
+</hit>
+<hit score="1" id="66654">
+<info><authors><author pid="34/1266">Wanshi Chen</author><author pid="21/9365">Xingqin Lin</author><author pid="55/3410">Juho Lee</author><author pid="02/6743">Antti Toskala</author><author pid="53/5282">Shu Sun</author><author pid="c/CFChiasserini">Carla-Fabiana Chiasserini</author><author pid="l/LingjiaLiu">Lingjia Liu 0001</author></authors><title>Guest Editorial Special Issue on 3GPP Technologies: 5G-Advanced and Beyond.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1587-1591</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenLLTSCL23</key><doi>10.1109/JSAC.2023.3274048</doi><ee>https://doi.org/10.1109/JSAC.2023.3274048</ee><url>https://dblp.org/rec/journals/jsac/ChenLLTSCL23</url></info>
+<url>URL#66654</url>
+</hit>
+<hit score="1" id="66655">
+<info><authors><author pid="34/1266">Wanshi Chen</author><author pid="21/9365">Xingqin Lin</author><author pid="55/3410">Juho Lee</author><author pid="02/6743">Antti Toskala</author><author pid="53/5282">Shu Sun</author><author pid="c/CFChiasserini">Carla-Fabiana Chiasserini</author><author pid="l/LingjiaLiu">Lingjia Liu 0001</author></authors><title>5G-Advanced Toward 6G: Past, Present, and Future.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1592-1619</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenLLTSCL23a</key><doi>10.1109/JSAC.2023.3274037</doi><ee>https://doi.org/10.1109/JSAC.2023.3274037</ee><url>https://dblp.org/rec/journals/jsac/ChenLLTSCL23a</url></info>
+<url>URL#66655</url>
+</hit>
+<hit score="1" id="66656">
+<info><authors><author pid="189/3406">Pengxu Chen</author><author pid="75/1219">Hongwu Liu</author><author pid="203/9417">Yinghui Ye</author><author pid="05/3933-1">Liang Yang 0001</author><author pid="48/1338">Kyeong Jin Kim</author><author pid="45/2826">Theodoros A. Tsiftsis</author></authors><title>Rate-Splitting Multiple Access Aided Mobile Edge Computing With Randomly Deployed Users.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1549-1565</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenLYYKT23</key><doi>10.1109/JSAC.2023.3240786</doi><ee>https://doi.org/10.1109/JSAC.2023.3240786</ee><url>https://dblp.org/rec/journals/jsac/ChenLYYKT23</url></info>
+<url>URL#66656</url>
+</hit>
+<hit score="1" id="66657">
+<info><authors><author pid="11/1394-12">Qian Chen 0012</author><author pid="11/7195-1">Weixiao Meng 0001</author><author pid="65/1128">Tony Q. S. Quek</author><author pid="21/4393">Shuyi Chen</author></authors><title>Multi-Tier Hybrid Offloading for Computation-Aware IoT Applications in Civil Aircraft-Augmented SAGIN.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>399-417</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenMQC23</key><doi>10.1109/JSAC.2022.3227031</doi><ee>https://doi.org/10.1109/JSAC.2022.3227031</ee><url>https://dblp.org/rec/journals/jsac/ChenMQC23</url></info>
+<url>URL#66657</url>
+</hit>
+<hit score="1" id="66658">
+<info><authors><author pid="02/1003-26">Rui Chen 0026</author><author pid="236/3133">Dian Shi</author><author pid="139/4002">Xiaoqi Qin</author><author pid="75/9482">Dongjie Liu</author><author pid="16/1033">Miao Pan</author><author pid="48/4914">Shuguang Cui</author></authors><title>Service Delay Minimization for Federated Learning Over Mobile Devices.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>990-1006</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenSQLPC23</key><doi>10.1109/JSAC.2023.3242711</doi><ee>https://doi.org/10.1109/JSAC.2023.3242711</ee><url>https://dblp.org/rec/journals/jsac/ChenSQLPC23</url></info>
+<url>URL#66658</url>
+</hit>
+<hit score="1" id="66659">
+<info><authors><author pid="243/4351">Yuanbin Chen</author><author pid="94/3104-2">Ying Wang 0002</author><author pid="67/8385">Xufeng Guo</author><author pid="83/514">Zhu Han 0001</author><author pid="77/2428-3">Ping Zhang 0003</author></authors><title>Location Tracking for Reconfigurable Intelligent Surfaces Aided Vehicle Platoons: Diverse Sparsities Inspired Approaches.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2476-2496</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenWGHZ23</key><doi>10.1109/JSAC.2023.3288262</doi><ee>https://doi.org/10.1109/JSAC.2023.3288262</ee><url>https://dblp.org/rec/journals/jsac/ChenWGHZ23</url></info>
+<url>URL#66659</url>
+</hit>
+<hit score="1" id="66660">
+<info><authors><author pid="194/1786">Weicong Chen</author><author pid="22/1444">Chao-Kai Wen</author><author pid="66/2069-1">Xiao Li 0001</author><author pid="49/5340-2">Shi Jin 0002</author></authors><title>Multi-Timescale Channel Customization for Transmission Design in RIS-Assisted MIMO Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2397-2413</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenWLJ23</key><doi>10.1109/JSAC.2023.3288267</doi><ee>https://doi.org/10.1109/JSAC.2023.3288267</ee><url>https://dblp.org/rec/journals/jsac/ChenWLJ23</url></info>
+<url>URL#66660</url>
+</hit>
+<hit score="1" id="66661">
+<info><authors><author pid="215/0038">Guangji Chen</author><author pid="150/9712">Qingqing Wu</author><author pid="167/4246">Ruiqi Liu</author><author pid="19/6608">Jingxian Wu 0001</author><author pid="74/2770-1">Chao Fang 0001</author></authors><title>IRS Aided MEC Systems With Binary Offloading: A Unified Framework for Dynamic IRS Beamforming.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>349-365</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenWLWF23</key><doi>10.1109/JSAC.2022.3228605</doi><ee>https://doi.org/10.1109/JSAC.2022.3228605</ee><url>https://dblp.org/rec/journals/jsac/ChenWLWF23</url></info>
+<url>URL#66661</url>
+</hit>
+<hit score="1" id="66662">
+<info><authors><author pid="65/4423-67">Chen Chen 0067</author><author pid="01/5265-1">Hong Xu 0001</author><author pid="35/7092-30">Wei Wang 0030</author><author pid="l/BaochunLi">Baochun Li</author><author pid="50/3402-1">Bo Li 0001</author><author pid="c/LiChen8">Li Chen 0008</author><author pid="77/6324">Gong Zhang</author></authors><title>GIFT: Toward Accurate and Efficient Federated Learning With Gradient-Instructed Frequency Tuning.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>902-914</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChenXWLLCZ23</key><doi>10.1109/JSAC.2023.3242721</doi><ee>https://doi.org/10.1109/JSAC.2023.3242721</ee><url>https://dblp.org/rec/journals/jsac/ChenXWLLCZ23</url></info>
+<url>URL#66662</url>
+</hit>
+<hit score="1" id="66663">
+<info><authors><author pid="59/9984">Jen-Hao Cheng</author><author pid="354/9380">Tien-Min Chang</author><author pid="05/8309">Chung-An Shen</author><author pid="141/0978">Mohammed E. Fouda</author><author pid="73/816">Ahmed M. Eltawil</author></authors><title>High-Throughput Independent Component Analysis Processor for Full Duplex Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2821-2832</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChengCSFE23</key><doi>10.1109/JSAC.2023.3287614</doi><ee>https://doi.org/10.1109/JSAC.2023.3287614</ee><url>https://dblp.org/rec/journals/jsac/ChengCSFE23</url></info>
+<url>URL#66663</url>
+</hit>
+<hit score="1" id="66664">
+<info><authors><author pid="218/5552">Cho-Chun Chiu</author><author pid="08/10576">Xusheng Zhang</author><author pid="52/854-1">Ting He 0001</author><author pid="87/5094-1">Shiqiang Wang 0001</author><author pid="89/5072">Ananthram Swami</author></authors><title>Laplacian Matrix Sampling for Communication- Efficient Decentralized Learning.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>887-901</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ChiuZHWS23</key><doi>10.1109/JSAC.2023.3242735</doi><ee>https://doi.org/10.1109/JSAC.2023.3242735</ee><url>https://dblp.org/rec/journals/jsac/ChiuZHWS23</url></info>
+<url>URL#66664</url>
+</hit>
+<hit score="1" id="66665">
+<info><authors><author pid="86/5737">Bruno Clerckx</author><author pid="194/1543">Yijie Mao</author><author pid="20/4825">Eduard A. Jorswieck</author><author pid="50/567">Jinhong Yuan</author><author pid="34/4085">David J. Love</author><author pid="15/5237">Elza Erkip</author><author pid="76/440">Dusit Niyato</author></authors><title>Guest Editorial Rate Splitting for Future Wireless Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1259-1264</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ClerckxMJYLEN23</key><doi>10.1109/JSAC.2023.3240013</doi><ee>https://doi.org/10.1109/JSAC.2023.3240013</ee><url>https://dblp.org/rec/journals/jsac/ClerckxMJYLEN23</url></info>
+<url>URL#66665</url>
+</hit>
+<hit score="1" id="66666">
+<info><authors><author pid="86/5737">Bruno Clerckx</author><author pid="194/1543">Yijie Mao</author><author pid="20/4825">Eduard A. Jorswieck</author><author pid="50/567">Jinhong Yuan</author><author pid="34/4085">David J. Love</author><author pid="15/5237">Elza Erkip</author><author pid="76/440">Dusit Niyato</author></authors><title>A Primer on Rate-Splitting Multiple Access: Tutorial, Myths, and Frequently Asked Questions.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1265-1308</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ClerckxMJYLEN23a</key><doi>10.1109/JSAC.2023.3242718</doi><ee>https://doi.org/10.1109/JSAC.2023.3242718</ee><url>https://dblp.org/rec/journals/jsac/ClerckxMJYLEN23a</url></info>
+<url>URL#66666</url>
+</hit>
+<hit score="1" id="66667">
+<info><authors><author pid="172/1238">Jincheng Dai</author><author pid="79/11218">Sixian Wang</author><author pid="80/4136">Ke Yang</author><author pid="284/9662">Kailin Tan</author><author pid="139/4002">Xiaoqi Qin</author><author pid="55/8332">Zhongwei Si</author><author pid="67/229">Kai Niu 0001</author><author pid="77/2428-3">Ping Zhang 0003</author></authors><title>Toward Adaptive Semantic Communications: Efficient Data Transmission via Online Learned Nonlinear Transform Source-Channel Coding.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2609-2627</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DaiWYTQSNZ23</key><doi>10.1109/JSAC.2023.3288246</doi><ee>https://doi.org/10.1109/JSAC.2023.3288246</ee><url>https://dblp.org/rec/journals/jsac/DaiWYTQSNZ23</url></info>
+<url>URL#66667</url>
+</hit>
+<hit score="1" id="66668">
+<info><authors><author pid="227/7373">Xiumei Deng</author><author pid="l/JunLi4">Jun Li 0004</author><author pid="87/5241">Chuan Ma</author><author pid="221/1612">Kang Wei</author><author pid="41/7999">Long Shi</author><author pid="48/3462-1">Ming Ding 0001</author><author pid="36/6699-1">Wen Chen 0001</author></authors><title>Low-Latency Federated Learning With DNN Partition in Distributed Industrial IoT Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>755-775</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DengLMWSDC23</key><doi>10.1109/JSAC.2022.3229436</doi><ee>https://doi.org/10.1109/JSAC.2022.3229436</ee><url>https://dblp.org/rec/journals/jsac/DengLMWSDC23</url></info>
+<url>URL#66668</url>
+</hit>
+<hit score="1" id="66669">
+<info><authors><author pid="236/3109">Ruoqi Deng</author><author pid="168/0665">Yutong Zhang</author><author pid="151/9860">Haobo Zhang</author><author pid="146/8046">Boya Di</author><author pid="77/10205">Hongliang Zhang</author><author pid="p/HVincentPoor">H. Vincent Poor</author><author pid="02/2683">Lingyang Song</author></authors><title>Reconfigurable Holographic Surfaces for Ultra-Massive MIMO in 6G: Practical Design, Optimization and Implementation.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2367-2379</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DengZZDZPS23</key><doi>10.1109/JSAC.2023.3288248</doi><ee>https://doi.org/10.1109/JSAC.2023.3288248</ee><url>https://dblp.org/rec/journals/jsac/DengZZDZPS23</url></info>
+<url>URL#66669</url>
+</hit>
+<hit score="1" id="66670">
+<info><authors><author pid="47/3821-1">Chen Dong 0001</author><author pid="336/8060">Haotai Liang</author><author pid="43/2085-1">Xiaodong Xu 0001</author><author pid="186/0747">Shujun Han</author><author pid="232/0853">Bizhu Wang</author><author pid="77/2428-3">Ping Zhang 0003</author></authors><title>Semantic Communication System Based on Semantic Slice Models Propagation.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>202-213</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DongLXHWZ23</key><doi>10.1109/JSAC.2022.3221948</doi><ee>https://doi.org/10.1109/JSAC.2022.3221948</ee><url>https://dblp.org/rec/journals/jsac/DongLXHWZ23</url></info>
+<url>URL#66670</url>
+</hit>
+<hit score="1" id="66671">
+<info><authors><author pid="81/1475">Jun Du</author><author pid="314/4834">Bingqing Jiang</author><author pid="00/8334">Chunxiao Jiang</author><author pid="129/1008">Yuanming Shi</author><author pid="83/514">Zhu Han 0001</author></authors><title>Gradient and Channel Aware Dynamic Scheduling for Over-the-Air Computation in Federated Edge Learning Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1035-1050</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DuJJSH23</key><doi>10.1109/JSAC.2023.3242727</doi><ee>https://doi.org/10.1109/JSAC.2023.3242727</ee><url>https://dblp.org/rec/journals/jsac/DuJJSH23</url></info>
+<url>URL#66671</url>
+</hit>
+<hit score="1" id="66672">
+<info><authors><author pid="174/9678">Hongyang Du</author><author pid="39/7764">Jiazhen Liu</author><author pid="76/440">Dusit Niyato</author><author pid="145/4239">Jiawen Kang</author><author pid="174/9863">Zehui Xiong</author><author pid="59/1232">Junshan Zhang</author><author pid="86/1369">Dong In Kim</author></authors><title>Attention-Aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2158-2175</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DuLNKXZK23</key><doi>10.1109/JSAC.2023.3280978</doi><ee>https://doi.org/10.1109/JSAC.2023.3280978</ee><url>https://dblp.org/rec/journals/jsac/DuLNKXZK23</url></info>
+<url>URL#66672</url>
+</hit>
+<hit score="1" id="66673">
+<info><authors><author pid="174/9678">Hongyang Du</author><author pid="115/7106-1">Jiacheng Wang 0001</author><author pid="76/440">Dusit Niyato</author><author pid="145/4239">Jiawen Kang</author><author pid="174/9863">Zehui Xiong</author><author pid="86/1369">Dong In Kim</author></authors><title>AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2981-2997</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DuWNKXK23</key><doi>10.1109/JSAC.2023.3287547</doi><ee>https://doi.org/10.1109/JSAC.2023.3287547</ee><url>https://dblp.org/rec/journals/jsac/DuWNKXK23</url></info>
+<url>URL#66673</url>
+</hit>
+<hit score="1" id="66674">
+<info><authors><author pid="174/9678">Hongyang Du</author><author pid="115/7106-1">Jiacheng Wang 0001</author><author pid="76/440">Dusit Niyato</author><author pid="145/4239">Jiawen Kang</author><author pid="174/9863">Zehui Xiong</author><author pid="59/1232">Junshan Zhang</author><author pid="s/XueminShen">Xuemin Shen</author></authors><title>Semantic Communications for Wireless Sensing: RIS-Aided Encoding and Self-Supervised Decoding.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2547-2562</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/DuWNKXZS23</key><doi>10.1109/JSAC.2023.3288231</doi><ee>https://doi.org/10.1109/JSAC.2023.3288231</ee><url>https://dblp.org/rec/journals/jsac/DuWNKXZS23</url></info>
+<url>URL#66674</url>
+</hit>
+<hit score="1" id="66675">
+<info><authors><author pid="202/7145">Ecenaz Erdemir</author><author pid="230/8299">Tze-Yang Tung</author><author pid="47/1135">Pier Luigi Dragotti</author><author pid="05/6552">Deniz Gündüz</author></authors><title>Generative Joint Source-Channel Coding for Semantic Image Transmission.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2645-2657</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ErdemirTDG23</key><doi>10.1109/JSAC.2023.3288243</doi><ee>https://doi.org/10.1109/JSAC.2023.3288243</ee><url>https://dblp.org/rec/journals/jsac/ErdemirTDG23</url></info>
+<url>URL#66675</url>
+</hit>
+<hit score="1" id="66676">
+<info><authors><author pid="205/5568">Hassan Fawaz</author><author pid="82/4450">Samer Lahoud</author><author pid="127/4749">Melhem El Helou</author><author pid="02/3994">Kinda Khawam</author></authors><title>Queue-Aware Resource Allocation in Full-Duplex Multi-Cellular Wireless Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2852-2863</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/FawazLHK23</key><doi>10.1109/JSAC.2023.3287541</doi><ee>https://doi.org/10.1109/JSAC.2023.3287541</ee><url>https://dblp.org/rec/journals/jsac/FawazLHK23</url></info>
+<url>URL#66676</url>
+</hit>
+<hit score="1" id="66677">
+<info><authors><author pid="285/9865">Weiyang Feng</author><author pid="95/8512">Siyu Lin</author><author pid="181/2597-7">Ning Zhang 0007</author><author pid="37/7910">Gongpu Wang</author><author pid="85/6463-1">Bo Ai 0001</author><author pid="20/8688-1">Lin Cai 0001</author></authors><title>Joint C-V2X Based Offloading and Resource Allocation in Multi-Tier Vehicular Edge Computing System.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>432-445</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/FengLZWAC23</key><doi>10.1109/JSAC.2022.3227081</doi><ee>https://doi.org/10.1109/JSAC.2022.3227081</ee><url>https://dblp.org/rec/journals/jsac/FengLZWAC23</url></info>
+<url>URL#66677</url>
+</hit>
+<hit score="1" id="66678">
+<info><authors><author pid="29/5999">Peng Gao</author><author pid="203/9687">Lixiang Lian</author><author pid="212/0373">Jinpei Yu</author></authors><title>Cooperative ISAC With Direct Localization and Rate-Splitting Multiple Access Communication: A Pareto Optimization Framework.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1496-1515</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GaoLY23</key><doi>10.1109/JSAC.2023.3240714</doi><ee>https://doi.org/10.1109/JSAC.2023.3240714</ee><url>https://dblp.org/rec/journals/jsac/GaoLY23</url></info>
+<url>URL#66678</url>
+</hit>
+<hit score="1" id="66679">
+<info><authors><author pid="322/7447">Kaixuan Gao</author><author pid="19/3380">Huiqiang Wang</author><author pid="87/8407">Hongwu Lv</author><author pid="147/0949">Pengfei Gao</author></authors><title>A DL-Based High-Precision Positioning Method in Challenging Urban Scenarios for B5G CCUAVs.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1670-1687</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GaoWLG23</key><doi>10.1109/JSAC.2023.3275621</doi><ee>https://doi.org/10.1109/JSAC.2023.3275621</ee><url>https://dblp.org/rec/journals/jsac/GaoWLG23</url></info>
+<url>URL#66679</url>
+</hit>
+<hit score="1" id="66680">
+<info><authors><author pid="204/0971">Keshi Ge</author><author pid="31/6932">Kai Lu</author><author pid="97/9300">Yongquan Fu</author><author pid="262/5000">Xiaoge Deng</author><author pid="143/4279">Zhiquan Lai</author><author pid="254/0830-1">Dongsheng Li 0001</author></authors><title>Compressed Collective Sparse-Sketch for Distributed Data-Parallel Training of Deep Learning Models.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>941-963</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GeLFDLL23</key><doi>10.1109/JSAC.2023.3242733</doi><ee>https://doi.org/10.1109/JSAC.2023.3242733</ee><url>https://dblp.org/rec/journals/jsac/GeLFDLL23</url></info>
+<url>URL#66680</url>
+</hit>
+<hit score="1" id="66681">
+<info><authors><author pid="05/6552">Deniz Gündüz</author><author pid="157/9149">Zhijin Qin</author><author pid="42/8968">Inaki Estella Aguerri</author><author pid="80/7909">Harpreet S. Dhillon</author><author pid="90/549-1">Zhaohui Yang 0001</author><author pid="y/AylinYener">Aylin Yener</author><author pid="35/5506">Kai-Kit Wong</author><author pid="68/1350">Chan-Byoung Chae</author></authors><title>Guest Editorial Special Issue on Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>1-4</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GunduzQADYYWC23</key><doi>10.1109/JSAC.2022.3221853</doi><ee>https://doi.org/10.1109/JSAC.2022.3221853</ee><url>https://dblp.org/rec/journals/jsac/GunduzQADYYWC23</url></info>
+<url>URL#66681</url>
+</hit>
+<hit score="1" id="66682">
+<info><authors><author pid="05/6552">Deniz Gündüz</author><author pid="157/9149">Zhijin Qin</author><author pid="42/8968">Inaki Estella Aguerri</author><author pid="80/7909">Harpreet S. Dhillon</author><author pid="90/549-1">Zhaohui Yang 0001</author><author pid="y/AylinYener">Aylin Yener</author><author pid="35/5506">Kai-Kit Wong</author><author pid="68/1350">Chan-Byoung Chae</author></authors><title>Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>5-41</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GunduzQADYYWC23a</key><doi>10.1109/JSAC.2022.3223408</doi><ee>https://doi.org/10.1109/JSAC.2022.3223408</ee><url>https://dblp.org/rec/journals/jsac/GunduzQADYYWC23a</url></info>
+<url>URL#66682</url>
+</hit>
+<hit score="1" id="66683">
+<info><authors><author pid="347/8651">Zi-Jun Guo</author><author pid="347/8686">Zhang-Cheng Hao</author><author pid="83/6153">Yi-Wen Wu</author><author pid="347/8120">Zhuo-Wei Miao</author></authors><title>A Planar Shared-Aperture Co-Polarized Array Antenna With a High Isolation for Millimeter-Wave Full Duplex Communication.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2751-2764</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GuoHWM23</key><doi>10.1109/JSAC.2023.3287545</doi><ee>https://doi.org/10.1109/JSAC.2023.3287545</ee><url>https://dblp.org/rec/journals/jsac/GuoHWM23</url></info>
+<url>URL#66683</url>
+</hit>
+<hit score="1" id="66684">
+<info><authors><author pid="167/0667">Huayan Guo</author><author pid="68/4401">Vincent K. N. Lau</author></authors><title>Robust Deep Learning for Uplink Channel Estimation in Cellular Network Under Inter-Cell Interference.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1873-1887</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GuoL23</key><doi>10.1109/JSAC.2023.3276765</doi><ee>https://doi.org/10.1109/JSAC.2023.3276765</ee><url>https://dblp.org/rec/journals/jsac/GuoL23</url></info>
+<url>URL#66684</url>
+</hit>
+<hit score="1" id="66685">
+<info><authors><author pid="78/1531">Chi Guo</author><author pid="18/2771">Cong Wang</author><author pid="27/1570">Lin Cui</author><author pid="186/1851">Qiuzhan Zhou</author><author pid="59/2144">Juan Li</author></authors><title>Radio Resource Management for C-V2X: From a Hybrid Centralized-Distributed Scheme to a Distributed Scheme.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1023-1034</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/GuoWCZL23</key><doi>10.1109/JSAC.2023.3242723</doi><ee>https://doi.org/10.1109/JSAC.2023.3242723</ee><url>https://dblp.org/rec/journals/jsac/GuoWCZL23</url></info>
+<url>URL#66685</url>
+</hit>
+<hit score="1" id="66686">
+<info><authors><author pid="308/0367">Tianxiao Han</author><author pid="10/9659-2">Qianqian Yang 0002</author><author pid="34/520-1">Zhiguo Shi 0001</author><author pid="07/7178">Shibo He</author><author pid="81/6236-1">Zhaoyang Zhang 0001</author></authors><title>Semantic-Preserved Communication System for Highly Efficient Speech Transmission.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>245-259</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HanYSHZ23</key><doi>10.1109/JSAC.2022.3221952</doi><ee>https://doi.org/10.1109/JSAC.2022.3221952</ee><url>https://dblp.org/rec/journals/jsac/HanYSHZ23</url></info>
+<url>URL#66686</url>
+</hit>
+<hit score="1" id="66687">
+<info><authors><author pid="61/3146">Prashanth Hande</author><author pid="17/782">Peerapol Tinnakornsrisuphap</author><author pid="77/5712">Jelena Damnjanovic</author><author pid="41/4264">Huilin Xu</author><author pid="350/0264">Mickael Mondet</author><author pid="334/5741">Hyun Yong Lee</author><author pid="213/5574">Iyab I. Sakhnini</author></authors><title>Extended Reality Over 5G - Standards Evolution.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1757-1771</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HandeTDXMLS23</key><doi>10.1109/JSAC.2023.3276056</doi><ee>https://doi.org/10.1109/JSAC.2023.3276056</ee><url>https://dblp.org/rec/journals/jsac/HandeTDXMLS23</url></info>
+<url>URL#66687</url>
+</hit>
+<hit score="1" id="66688">
+<info><authors><author pid="163/7333">Yixue Hao</author><author pid="130/4705">Long Hu</author><author pid="50/6996-3">Min Chen 0003</author></authors><title>Joint Sensing Adaptation and Model Placement in 6G Fabric Computing.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2013-2024</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HaoHC23</key><doi>10.1109/JSAC.2023.3280968</doi><ee>https://doi.org/10.1109/JSAC.2023.3280968</ee><url>https://dblp.org/rec/journals/jsac/HaoHC23</url></info>
+<url>URL#66688</url>
+</hit>
+<hit score="1" id="66689">
+<info><authors><author pid="241/7145">Zhenyao He</author><author pid="32/1213-1">Wei Xu 0001</author><author pid="74/3247-2">Hong Shen 0002</author><author pid="42/8146">Derrick Wing Kwan Ng</author><author pid="e/YoninaCEldar">Yonina C. Eldar</author><author pid="17/1464-1">Xiaohu You 0001</author></authors><title>Full-Duplex Communication for ISAC: Joint Beamforming and Power Optimization.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2920-2936</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HeXSNEY23</key><doi>10.1109/JSAC.2023.3287540</doi><ee>https://doi.org/10.1109/JSAC.2023.3287540</ee><url>https://dblp.org/rec/journals/jsac/HeXSNEY23</url></info>
+<url>URL#66689</url>
+</hit>
+<hit score="1" id="66690">
+<info><authors><author pid="262/6178">Nguyen Quang Hieu</author><author pid="95/10112">Diep N. Nguyen</author><author pid="37/8852">Dinh Thai Hoang</author><author pid="71/2764">Eryk Dutkiewicz</author></authors><title>When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1536-1548</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HieuNHD23</key><doi>10.1109/JSAC.2023.3240704</doi><ee>https://doi.org/10.1109/JSAC.2023.3240704</ee><url>https://dblp.org/rec/journals/jsac/HieuNHD23</url></info>
+<url>URL#66690</url>
+</hit>
+<hit score="1" id="66691">
+<info><authors><author pid="48/6336">Kari Hooli</author><author pid="129/4573">Pasi Kinnunen</author><author pid="83/8140">Esa Tiirola</author><author pid="03/8333">Sami Hakola</author><author pid="350/0475">Zsombor Kiss</author><author pid="66/8150">Jorma Kaikkonen</author><author pid="03/10933">Matthew Baker</author><author pid="27/2016">Ilkka Harjula</author></authors><title>Extending 5G to Narrow Spectrum Allocations.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1936-1944</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HooliKTHKKBH23</key><doi>10.1109/JSAC.2023.3273703</doi><ee>https://doi.org/10.1109/JSAC.2023.3273703</ee><url>https://dblp.org/rec/journals/jsac/HooliKTHKKBH23</url></info>
+<url>URL#66691</url>
+</hit>
+<hit score="1" id="66692">
+<info><authors><author pid="221/0424">Xiangwang Hou</author><author pid="62/2631-1">Jingjing Wang 0001</author><author pid="198/9834">Tong Bai</author><author pid="150/5546">Yansha Deng</author><author pid="00/440-1">Yong Ren 0001</author><author pid="92/5955">Lajos Hanzo</author></authors><title>Environment-Aware AUV Trajectory Design and Resource Management for Multi-Tier Underwater Computing.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>474-490</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HouWBDRH23</key><doi>10.1109/JSAC.2022.3227103</doi><ee>https://doi.org/10.1109/JSAC.2022.3227103</ee><url>https://dblp.org/rec/journals/jsac/HouWBDRH23</url></info>
+<url>URL#66692</url>
+</hit>
+<hit score="1" id="66693">
+<info><authors><author pid="127/1958">Chung-Hsuan Hu</author><author pid="33/2592-2">Zheng Chen 0002</author><author pid="76/3752">Erik G. Larsson</author></authors><title>Scheduling and Aggregation Design for Asynchronous Federated Learning Over Wireless Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>874-886</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HuCL23</key><doi>10.1109/JSAC.2023.3242719</doi><ee>https://doi.org/10.1109/JSAC.2023.3242719</ee><url>https://dblp.org/rec/journals/jsac/HuCL23</url></info>
+<url>URL#66693</url>
+</hit>
+<hit score="1" id="66694">
+<info><authors><author pid="198/9583">Danlan Huang</author><author pid="20/6898">Feifei Gao</author><author pid="16/1093">Xiaoming Tao</author><author pid="326/1302">Qiyuan Du</author><author pid="59/3894">Jianhua Lu</author></authors><title>Toward Semantic Communications: Deep Learning-Based Image Semantic Coding.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>55-71</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HuangGTDL23</key><doi>10.1109/JSAC.2022.3221999</doi><ee>https://doi.org/10.1109/JSAC.2022.3221999</ee><url>https://dblp.org/rec/journals/jsac/HuangGTDL23</url></info>
+<url>URL#66694</url>
+</hit>
+<hit score="1" id="66695">
+<info><authors><author pid="56/2875">Rui Huang</author><author pid="54/3080">Vincent W. S. Wong 0001</author><author pid="95/2265">Robert Schober</author></authors><title>Rate-Splitting for Intelligent Reflecting Surface-Aided Multiuser VR Streaming.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1516-1535</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HuangWS23</key><doi>10.1109/JSAC.2023.3240710</doi><ee>https://doi.org/10.1109/JSAC.2023.3240710</ee><url>https://dblp.org/rec/journals/jsac/HuangWS23</url></info>
+<url>URL#66695</url>
+</hit>
+<hit score="1" id="66696">
+<info><authors><author pid="18/4087-28">Chao Huang 0028</author><author pid="121/0376">Haoran Yu</author><author pid="77/623-1">Jianwei Huang 0001</author><author pid="b/RandallBerry">Randall Berry</author></authors><title>An Online Inference-Aided Incentive Framework for Information Elicitation Without Verification.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1167-1185</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/HuangYHB23</key><doi>10.1109/JSAC.2023.3242706</doi><ee>https://doi.org/10.1109/JSAC.2023.3242706</ee><url>https://dblp.org/rec/journals/jsac/HuangYHB23</url></info>
+<url>URL#66696</url>
+</hit>
+<hit score="1" id="66697">
+<info><authors><author pid="178/3901">Mostafa Ibrahim</author><author pid="67/1416">Huseyin Arslan</author><author pid="61/4526">Hakan Ali Çirpan</author><author pid="71/7908">Sabit Ekin</author></authors><title>Time-Frequency Warped Waveforms for Well-Contained Massive Machine Type Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1900-1917</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/IbrahimACE23</key><doi>10.1109/JSAC.2023.3275622</doi><ee>https://doi.org/10.1109/JSAC.2023.3275622</ee><url>https://dblp.org/rec/journals/jsac/IbrahimACE23</url></info>
+<url>URL#66697</url>
+</hit>
+<hit score="1" id="66698">
+<info><authors><author pid="75/8966">Toufiqul Islam</author><author pid="43/5538">Daewon Lee</author><author pid="350/1099">Seau Sian Lim</author></authors><title>Enabling Network Power Savings in 5G-Advanced and Beyond.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1888-1899</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/IslamLL23</key><doi>10.1109/JSAC.2023.3273706</doi><ee>https://doi.org/10.1109/JSAC.2023.3273706</ee><url>https://dblp.org/rec/journals/jsac/IslamLL23</url></info>
+<url>URL#66698</url>
+</hit>
+<hit score="1" id="66699">
+<info><authors><author pid="227/2931">Tayyebeh Jahani-Nezhad</author><author pid="18/3725">Mohammad Ali Maddah-Ali</author><author pid="119/2630">Songze Li</author><author pid="19/2492">Giuseppe Caire</author></authors><title>SwiftAgg+: Achieving Asymptotically Optimal Communication Loads in Secure Aggregation for Federated Learning.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>977-989</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/JahaniNezhadMLC23</key><doi>10.1109/JSAC.2023.3242702</doi><ee>https://doi.org/10.1109/JSAC.2023.3242702</ee><url>https://dblp.org/rec/journals/jsac/JahaniNezhadMLC23</url></info>
+<url>URL#66699</url>
+</hit>
+<hit score="1" id="66700">
+<info><authors><author pid="232/4024">Peiwen Jiang</author><author pid="22/1444">Chao-Kai Wen</author><author pid="49/5340-2">Shi Jin 0002</author><author pid="89/5914">Geoffrey Ye Li</author></authors><title>Wireless Semantic Communications for Video Conferencing.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>230-244</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/JiangWJL23</key><doi>10.1109/JSAC.2022.3221968</doi><ee>https://doi.org/10.1109/JSAC.2022.3221968</ee><url>https://dblp.org/rec/journals/jsac/JiangWJL23</url></info>
+<url>URL#66700</url>
+</hit>
+<hit score="1" id="66701">
+<info><authors><author pid="169/1040">Hanyu Jiang</author><author pid="02/8617">Li You</author><author pid="176/5880">Ahmed Elzanaty</author><author pid="69/393-6">Jue Wang 0006</author><author pid="61/4908-1">Wenjin Wang 0001</author><author pid="05/5369">Xiqi Gao 0001</author><author pid="64/6304">Mohamed-Slim Alouini</author></authors><title>Rate-Splitting Multiple Access for Uplink Massive MIMO With Electromagnetic Exposure Constraints.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1383-1397</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/JiangYEWWGA23</key><doi>10.1109/JSAC.2023.3240788</doi><ee>https://doi.org/10.1109/JSAC.2023.3240788</ee><url>https://dblp.org/rec/journals/jsac/JiangYEWWGA23</url></info>
+<url>URL#66701</url>
+</hit>
+<hit score="1" id="66702">
+<info><authors><author pid="133/7359">Huangping Jin</author><author pid="80/10061">Kunpeng Liu</author><author pid="83/5342">Min Zhang</author><author pid="51/8313">Leiming Zhang</author><author pid="21/11143">Gilwon Lee</author><author pid="88/310">Emad N. Farag</author><author pid="41/39">Dalin Zhu</author><author pid="94/8196">Eko N. Onggosanusi</author><author pid="54/554">Mansoor Shafi</author><author pid="158/6363">Harsh Tataria</author></authors><title>Massive MIMO Evolution Toward 3GPP Release 18.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1635-1654</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/JinLZZLFZOST23</key><doi>10.1109/JSAC.2023.3273768</doi><ee>https://doi.org/10.1109/JSAC.2023.3273768</ee><url>https://dblp.org/rec/journals/jsac/JinLZZLFZOST23</url></info>
+<url>URL#66702</url>
+</hit>
+<hit score="1" id="66703">
+<info><authors><author pid="282/4157">Mert Kalfa</author><author pid="336/7932">Sadik Yagiz Yetim</author><author pid="294/8504">Arda Atalik</author><author pid="307/4326">Mehmetcan Gok</author><author pid="56/1577">Yiqun Ge</author><author pid="00/3887-1">Rong Li 0001</author><author pid="37/5726">Wen Tong</author><author pid="d/TolgaMDuman">Tolga M. Duman</author><author pid="26/1489">Orhan Arikan</author></authors><title>Reliable Extraction of Semantic Information and Rate of Innovation Estimation for Graph Signals.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>119-140</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KalfaYAGGLTDA23</key><doi>10.1109/JSAC.2022.3221950</doi><ee>https://doi.org/10.1109/JSAC.2022.3221950</ee><url>https://dblp.org/rec/journals/jsac/KalfaYAGGLTDA23</url></info>
+<url>URL#66703</url>
+</hit>
+<hit score="1" id="66704">
+<info><authors><author pid="145/4239">Jiawen Kang</author><author pid="174/9678">Hongyang Du</author><author pid="218/5224">Zonghang Li</author><author pid="174/9863">Zehui Xiong</author><author pid="183/1810">Shiyao Ma</author><author pid="76/440">Dusit Niyato</author><author pid="86/6196">Yuan Li</author></authors><title>Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>186-201</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KangDLXMNL23</key><doi>10.1109/JSAC.2022.3221990</doi><ee>https://doi.org/10.1109/JSAC.2022.3221990</ee><url>https://dblp.org/rec/journals/jsac/KangDLXMNL23</url></info>
+<url>URL#66704</url>
+</hit>
+<hit score="1" id="66705">
+<info><authors><author pid="227/3160">Malong Ke</author><author pid="71/1107-1">Zhen Gao 0001</author><author pid="75/2963">Mingyu Zhou</author><author pid="155/4239">Dezhi Zheng</author><author pid="42/8146">Derrick Wing Kwan Ng</author><author pid="p/HVincentPoor">H. Vincent Poor</author></authors><title>Next-Generation URLLC With Massive Devices: A Unified Semi-Blind Detection Framework for Sourced and Unsourced Random Access.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2223-2244</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KeGZZNP23</key><doi>10.1109/JSAC.2023.3280981</doi><ee>https://doi.org/10.1109/JSAC.2023.3280981</ee><url>https://dblp.org/rec/journals/jsac/KeGZZNP23</url></info>
+<url>URL#66705</url>
+</hit>
+<hit score="1" id="66706">
+<info><authors><author pid="63/35">Taejin Kim</author><author pid="243/0059">Sandesh Dhawaskar Sathyanarayana</author><author pid="05/8743">Siqi Chen</author><author pid="117/4355">Youngbin Im</author><author pid="62/5337">Xiaoxi Zhang</author><author pid="30/4930">Sangtae Ha</author><author pid="40/9937">Carlee Joe-Wong</author></authors><title>MoDEMS: Optimizing Edge Computing Migrations for User Mobility.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>675-689</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KimSCIZHJ23</key><doi>10.1109/JSAC.2022.3229425</doi><ee>https://doi.org/10.1109/JSAC.2022.3229425</ee><url>https://dblp.org/rec/journals/jsac/KimSCIZHJ23</url></info>
+<url>URL#66706</url>
+</hit>
+<hit score="1" id="66707">
+<info><authors><author pid="124/3256">Yongjune Kim 0001</author><author pid="336/8090">Junyoung Shin</author><author pid="50/8860">Yuval Cassuto</author><author pid="36/4028">Lav R. Varshney</author></authors><title>Distributed Boosting Classification Over Noisy Communication Channels.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>141-154</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KimSCV23</key><doi>10.1109/JSAC.2022.3221972</doi><ee>https://doi.org/10.1109/JSAC.2022.3221972</ee><url>https://dblp.org/rec/journals/jsac/KimSCV23</url></info>
+<url>URL#66707</url>
+</hit>
+<hit score="1" id="66708">
+<info><authors><author pid="332/3412">A. Oguz Kislal</author><author pid="202/2591">Alejandro Lancho</author><author pid="12/3405">Giuseppe Durisi</author><author pid="01/4510">Erik G. Ström</author></authors><title>Efficient Evaluation of the Error Probability for Pilot-Assisted URLLC With Massive MIMO.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>1969-1981</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KislalLDS23</key><doi>10.1109/JSAC.2023.3280972</doi><ee>https://doi.org/10.1109/JSAC.2023.3280972</ee><url>https://dblp.org/rec/journals/jsac/KislalLDS23</url></info>
+<url>URL#66708</url>
+</hit>
+<hit score="1" id="66709">
+<info><authors><author pid="134/9856">Kenneth E. Kolodziej</author><author pid="354/9628">Brian A. Janice</author><author pid="354/9214">Adrienne I. Sands</author><author pid="178/0650">Bradley T. Perry</author></authors><title>Scalable In-Band Full-Duplex Phased Arrays: Complexity Reduction and Distributed Processing.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2808-2820</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KolodziejJSP23</key><doi>10.1109/JSAC.2023.3287543</doi><ee>https://doi.org/10.1109/JSAC.2023.3287543</ee><url>https://dblp.org/rec/journals/jsac/KolodziejJSP23</url></info>
+<url>URL#66709</url>
+</hit>
+<hit score="1" id="66710">
+<info><authors><author pid="246/7397">Huaicong Kong</author><author pid="73/1685-1">Min Lin 0001</author><author pid="285/9492">Lve Han</author><author pid="62/1102">Wei-Ping Zhu 0001</author><author pid="64/361-1">Zhiguo Ding 0001</author><author pid="64/6304">Mohamed-Slim Alouini</author></authors><title>Uplink Multiple Access With Semi-Grant-Free Transmission in Integrated Satellite-Aerial-Terrestrial Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1723-1736</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/KongLHZDA23</key><doi>10.1109/JSAC.2023.3273707</doi><ee>https://doi.org/10.1109/JSAC.2023.3273707</ee><url>https://dblp.org/rec/journals/jsac/KongLHZDA23</url></info>
+<url>URL#66710</url>
+</hit>
+<hit score="1" id="66711">
+<info><authors><author pid="336/8197">Zhongyue Lei</author><author pid="00/6879">Peng Duan</author><author pid="36/310">Xuemin Hong</author><author pid="42/8212">João F. C. Mota</author><author pid="35/8607">Jianghong Shi</author><author pid="75/2596">Cheng-Xiang Wang 0001</author></authors><title>Progressive Deep Image Compression for Hybrid Contexts of Image Classification and Reconstruction.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>72-89</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LeiDHMSW23</key><doi>10.1109/JSAC.2022.3221998</doi><ee>https://doi.org/10.1109/JSAC.2022.3221998</ee><url>https://dblp.org/rec/journals/jsac/LeiDHMSW23</url></info>
+<url>URL#66711</url>
+</hit>
+<hit score="1" id="66712">
+<info><authors><author pid="241/9871">Caspar von Lengerke</author><author pid="199/7389">Alexander Hefele</author><author pid="230/9980">Juan A. Cabrera 0002</author><author pid="54/3577">Martin Reisslein</author><author pid="f/FHPFitzek">Frank H. P. Fitzek</author></authors><title>Beyond the Bound: A New Performance Perspective for Identification via Channels.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2687-2706</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LengerkeHCRF23</key><doi>10.1109/JSAC.2023.3288239</doi><ee>https://doi.org/10.1109/JSAC.2023.3288239</ee><url>https://dblp.org/rec/journals/jsac/LengerkeHCRF23</url></info>
+<url>URL#66712</url>
+</hit>
+<hit score="1" id="66713">
+<info><authors><author pid="74/9809">Zhendong Li</author><author pid="36/6699-1">Wen Chen 0001</author><author pid="05/6300">Ziwei Liu</author><author pid="06/1960">Hongying Tang</author><author pid="50/6964">Jianmin Lu</author></authors><title>Joint Communication and Computation Design in Transmissive RMS Transceiver Enabled Multi-Tier Computing Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>334-348</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiCLTL23</key><doi>10.1109/JSAC.2022.3228553</doi><ee>https://doi.org/10.1109/JSAC.2022.3228553</ee><url>https://dblp.org/rec/journals/jsac/LiCLTL23</url></info>
+<url>URL#66713</url>
+</hit>
+<hit score="1" id="66714">
+<info><authors><author pid="284/2423">Changkun Li</author><author pid="c/WeiChen2">Wei Chen 0002</author><author pid="p/HVincentPoor">H. Vincent Poor</author></authors><title>Diversity Enabled Low-Latency Wireless Communications With Hard Delay Constraints.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2107-2122</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiCP23</key><doi>10.1109/JSAC.2023.3280969</doi><ee>https://doi.org/10.1109/JSAC.2023.3280969</ee><url>https://dblp.org/rec/journals/jsac/LiCP23</url></info>
+<url>URL#66714</url>
+</hit>
+<hit score="1" id="66715">
+<info><authors><author pid="227/8050">Shaoran Li</author><author pid="35/9090">Chengzhang Li</author><author pid="75/6434-25">Yan Huang 0025</author><author pid="152/5378">Brian A. Jalaian</author><author pid="h/YTHou">Y. Thomas Hou 0001</author><author pid="73/3673">Wenjing Lou</author></authors><title>Enhancing Resilience in Mobile Edge Computing Under Processing Uncertainty.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>659-674</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiLHJHL23</key><doi>10.1109/JSAC.2023.3234706</doi><ee>https://doi.org/10.1109/JSAC.2023.3234706</ee><url>https://dblp.org/rec/journals/jsac/LiLHJHL23</url></info>
+<url>URL#66715</url>
+</hit>
+<hit score="1" id="66716">
+<info><authors><author pid="72/2639">Hongyu Li</author><author pid="233/5228">Shanpu Shen</author><author pid="86/5737">Bruno Clerckx</author></authors><title>Beyond Diagonal Reconfigurable Intelligent Surfaces: A Multi-Sector Mode Enabling Highly Directional Full-Space Wireless Coverage.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2446-2460</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiSC23</key><doi>10.1109/JSAC.2023.3288251</doi><ee>https://doi.org/10.1109/JSAC.2023.3288251</ee><url>https://dblp.org/rec/journals/jsac/LiSC23</url></info>
+<url>URL#66716</url>
+</hit>
+<hit score="1" id="66717">
+<info><authors><author pid="133/5244">Qiaoyu Li</author><author pid="337/8274">Philip Sisk</author><author pid="37/3064">Arumugam Kannan</author><author pid="45/6783">Taesang Yoo</author><author pid="43/4720-9">Tao Luo 0009</author><author pid="30/3188">Gaurav Shah</author><author pid="350/0694">Badri Manjunath</author><author pid="350/0346">Chanaka Samarathungage</author><author pid="337/8311">Mahmoud Taherzadeh Boroujeni</author><author pid="120/7453">Hamed Pezeshki</author><author pid="42/3961">Himanshu Joshi</author></authors><title>Machine Learning Based Time Domain Millimeter-Wave Beam Prediction for 5G-Advanced and Beyond: Design, Analysis, and Over-The-Air Experiments.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1787-1809</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiSKYLSMSBPJ23</key><doi>10.1109/JSAC.2023.3275613</doi><ee>https://doi.org/10.1109/JSAC.2023.3275613</ee><url>https://dblp.org/rec/journals/jsac/LiSKYLSMSBPJ23</url></info>
+<url>URL#66717</url>
+</hit>
+<hit score="1" id="66718">
+<info><authors><author pid="181/2763">Kang Li</author><author pid="37/5521-1">Pengcheng Zhu 0001</author><author pid="59/2227-27">Yan Wang 0027</author><author pid="67/4433">Fu-Chun Zheng</author><author pid="17/1464-1">Xiaohu You 0001</author></authors><title>Joint Uplink and Downlink Resource Allocation Toward Energy-Efficient Transmission for URLLC.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2176-2192</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiZWZY23</key><doi>10.1109/JSAC.2023.3280967</doi><ee>https://doi.org/10.1109/JSAC.2023.3280967</ee><url>https://dblp.org/rec/journals/jsac/LiZWZY23</url></info>
+<url>URL#66718</url>
+</hit>
+<hit score="1" id="66719">
+<info><authors><author pid="211/2092">Zhenyi Lin</author><author pid="22/231-1">Yi Gong 0001</author><author pid="21/506">Kaibin Huang</author></authors><title>Distributed Over-the-Air Computing for Fast Distributed Optimization: Beamforming Design and Convergence Analysis.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>274-287</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LinGH23</key><doi>10.1109/JSAC.2022.3223661</doi><ee>https://doi.org/10.1109/JSAC.2022.3223661</ee><url>https://dblp.org/rec/journals/jsac/LinGH23</url></info>
+<url>URL#66719</url>
+</hit>
+<hit score="1" id="66720">
+<info><authors><author pid="65/434-1">Chuan Lin 0001</author><author pid="32/4821">Guangjie Han</author><author pid="54/10039">Jinfang Jiang</author><author pid="66/190-28">Chao Li 0028</author><author pid="198/8335">Syed Bilal Hussain Shah</author><author pid="33/85">Qian Liu</author></authors><title>Underwater Pollution Tracking Based on Software-Defined Multi-Tier Edge Computing in 6G-Based Underwater Wireless Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>491-503</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LinHJLSL23</key><doi>10.1109/JSAC.2022.3233625</doi><ee>https://doi.org/10.1109/JSAC.2022.3233625</ee><url>https://dblp.org/rec/journals/jsac/LinHJLSL23</url></info>
+<url>URL#66720</url>
+</hit>
+<hit score="1" id="66721">
+<info><authors><author pid="244/7499-10">Ziang Liu 0010</author><author pid="168/0575">Sundar Aditya</author><author pid="72/2639">Hongyu Li</author><author pid="86/5737">Bruno Clerckx</author></authors><title>Joint Transmit and Receive Beamforming Design in Full-Duplex Integrated Sensing and Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2907-2919</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuALC23</key><doi>10.1109/JSAC.2023.3287542</doi><ee>https://doi.org/10.1109/JSAC.2023.3287542</ee><url>https://dblp.org/rec/journals/jsac/LiuALC23</url></info>
+<url>URL#66721</url>
+</hit>
+<hit score="1" id="66722">
+<info><authors><author pid="74/4038-3">Zhenyu Liu 0003</author><author pid="51/2062">Andrea Conti 0001</author><author pid="54/5601">Sanjoy K. Mitter</author><author pid="21/4583">Moe Z. Win</author></authors><title>Communication-Efficient Distributed Learning Over Networks - Part I: Sufficient Conditions for Accuracy.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1081-1101</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuCMW23</key><doi>10.1109/JSAC.2023.3242731</doi><ee>https://doi.org/10.1109/JSAC.2023.3242731</ee><url>https://dblp.org/rec/journals/jsac/LiuCMW23</url></info>
+<url>URL#66722</url>
+</hit>
+<hit score="1" id="66723">
+<info><authors><author pid="74/4038-3">Zhenyu Liu 0003</author><author pid="51/2062">Andrea Conti 0001</author><author pid="54/5601">Sanjoy K. Mitter</author><author pid="21/4583">Moe Z. Win</author></authors><title>Communication-Efficient Distributed Learning Over Networks - Part II: Necessary Conditions for Accuracy.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1102-1119</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuCMW23a</key><doi>10.1109/JSAC.2023.3242738</doi><ee>https://doi.org/10.1109/JSAC.2023.3242738</ee><url>https://dblp.org/rec/journals/jsac/LiuCMW23a</url></info>
+<url>URL#66723</url>
+</hit>
+<hit score="1" id="66724">
+<info><authors><author pid="252/9967">Xingchi Liu</author><author pid="10/8605">Mahsa Derakhshani</author><author pid="m/LyudmilaMihaylova">Lyudmila Mihaylova</author><author pid="23/5264">Sangarapillai Lambotharan</author></authors><title>Risk-Aware Contextual Learning for Edge-Assisted Crowdsourced Live Streaming.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>740-754</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuDML23</key><doi>10.1109/JSAC.2022.3229423</doi><ee>https://doi.org/10.1109/JSAC.2022.3229423</ee><url>https://dblp.org/rec/journals/jsac/LiuDML23</url></info>
+<url>URL#66724</url>
+</hit>
+<hit score="1" id="66725">
+<info><authors><author pid="90/2829">Zhiyan Liu</author><author pid="255/5122">Qiao Lan</author><author pid="21/506">Kaibin Huang</author></authors><title>Resource Allocation for Multiuser Edge Inference With Batching and Early Exiting.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1186-1200</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuLH23</key><doi>10.1109/JSAC.2023.3242724</doi><ee>https://doi.org/10.1109/JSAC.2023.3242724</ee><url>https://dblp.org/rec/journals/jsac/LiuLH23</url></info>
+<url>URL#66725</url>
+</hit>
+<hit score="1" id="66726">
+<info><authors><author pid="52/5716-3">Chang Liu 0003</author><author pid="194/0845">Shuangyang Li</author><author pid="157/8946">Weijie Yuan</author><author pid="245/3128">Xuemeng Liu</author><author pid="42/8146">Derrick Wing Kwan Ng</author></authors><title>Predictive Precoder Design for OTFS-Enabled URLLC: A Deep Learning Approach.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2245-2260</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuLYLN23</key><doi>10.1109/JSAC.2023.3280984</doi><ee>https://doi.org/10.1109/JSAC.2023.3280984</ee><url>https://dblp.org/rec/journals/jsac/LiuLYLN23</url></info>
+<url>URL#66726</url>
+</hit>
+<hit score="1" id="66727">
+<info><authors><author pid="49/3283-12">Wei Liu 0012</author><author pid="163/2671">Huiting Yang</author><author pid="65/7582-1">Jiandong Li 0001</author></authors><title>Multi-Functional Time Expanded Graph: A Unified Graph Model for Communication, Storage, and Computation for Dynamic Networks Over Time.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>418-431</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuYL23</key><doi>10.1109/JSAC.2022.3233533</doi><ee>https://doi.org/10.1109/JSAC.2022.3233533</ee><url>https://dblp.org/rec/journals/jsac/LiuYL23</url></info>
+<url>URL#66727</url>
+</hit>
+<hit score="1" id="66728">
+<info><authors><author pid="63/4580">Shumei Liu</author><author pid="40/3778">Yao Yu</author><author pid="338/7290">Xiao Lian</author><author pid="323/5336">Yuze Feng</author><author pid="122/5700">Changyang She</author><author pid="43/7909">Phee Lep Yeoh</author><author pid="64/1967-5">Lei Guo 0005</author><author pid="84/3821">Branka Vucetic</author><author pid="59/6828-1">Yonghui Li 0001</author></authors><title>Dependent Task Scheduling and Offloading for Minimizing Deadline Violation Ratio in Mobile Edge Computing Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>538-554</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuYLFSYGVL23</key><doi>10.1109/JSAC.2022.3233532</doi><ee>https://doi.org/10.1109/JSAC.2022.3233532</ee><url>https://dblp.org/rec/journals/jsac/LiuYLFSYGVL23</url></info>
+<url>URL#66728</url>
+</hit>
+<hit score="1" id="66729">
+<info><authors><author pid="150/4295">Yan Liu</author><author pid="55/1832">Hui Zhou</author><author pid="150/5546">Yansha Deng</author><author pid="33/2397">Arumugam Nallanathan</author></authors><title>Channel Access Optimization in Unlicensed Spectrum for Downlink URLLC: Centralized and Federated DRL Approaches.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2208-2222</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LiuZDN23</key><doi>10.1109/JSAC.2023.3280982</doi><ee>https://doi.org/10.1109/JSAC.2023.3280982</ee><url>https://dblp.org/rec/journals/jsac/LiuZDN23</url></info>
+<url>URL#66729</url>
+</hit>
+<hit score="1" id="66730">
+<info><authors><author pid="59/7571">Haifeng Luo</author><author pid="127/0115-1">Navneet Garg 0001</author><author pid="69/6831">Tharmalingam Ratnarajah</author></authors><title>A Channel Frequency Response-Based Secret Key Generation Scheme in In-Band Full-Duplex MIMO-OFDM Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2951-2965</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LuoGR23</key><doi>10.1109/JSAC.2023.3287610</doi><ee>https://doi.org/10.1109/JSAC.2023.3287610</ee><url>https://dblp.org/rec/journals/jsac/LuoGR23</url></info>
+<url>URL#66730</url>
+</hit>
+<hit score="1" id="66731">
+<info><authors><author pid="192/3523">Quyuan Luo</author><author pid="31/8333">Tom H. Luan</author><author pid="s/WeisongShi">Weisong Shi</author><author pid="f/PingzhiFan">Pingzhi Fan</author></authors><title>Deep Reinforcement Learning Based Computation Offloading and Trajectory Planning for Multi-UAV Cooperative Target Search.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>504-520</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/LuoLSF23</key><doi>10.1109/JSAC.2022.3228558</doi><ee>https://doi.org/10.1109/JSAC.2022.3228558</ee><url>https://dblp.org/rec/journals/jsac/LuoLSF23</url></info>
+<url>URL#66731</url>
+</hit>
+<hit score="1" id="66732">
+<info><authors><author pid="276/1970">Jaakko Marin</author><author pid="188/0105">Micael Bernhardt</author><author pid="67/7532">Taneli Riihonen</author></authors><title>Full-Duplex Constant-Envelope Jamceiver and Self-Interference Suppression by Highpass Filter: Experimental Validation for Wi-Fi Security.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2937-2950</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MarinBR23</key><doi>10.1109/JSAC.2023.3287615</doi><ee>https://doi.org/10.1109/JSAC.2023.3287615</ee><url>https://dblp.org/rec/journals/jsac/MarinBR23</url></info>
+<url>URL#66732</url>
+</hit>
+<hit score="1" id="66733">
+<info><authors><author pid="26/10617">Zhen Meng</author><author pid="122/5700">Changyang She</author><author pid="25/5898-1">Guodong Zhao 0001</author><author pid="14/8216">Daniele De Martini</author></authors><title>Sampling, Communication, and Prediction Co-Design for Synchronizing the Real-World Device and Digital Model in Metaverse.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>288-300</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MengSZM23</key><doi>10.1109/JSAC.2022.3221993</doi><ee>https://doi.org/10.1109/JSAC.2022.3221993</ee><url>https://dblp.org/rec/journals/jsac/MengSZM23</url></info>
+<url>URL#66733</url>
+</hit>
+<hit score="1" id="66734">
+<info><authors><author pid="278/8673">Haiyang Miao</author><author pid="55/2363-1">Jianhua Zhang 0001</author><author pid="73/4491">Pan Tang</author><author pid="04/2026-4">Lei Tian 0004</author><author pid="27/7033">Xinyu Zhao</author><author pid="172/4512">Bolun Guo</author><author pid="98/2683">Guangyi Liu</author></authors><title>Sub-6 GHz to mmWave for 5G-Advanced and Beyond: Channel Measurements, Characteristics and Impact on System Performance.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1945-1960</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MiaoZTTZGL23</key><doi>10.1109/JSAC.2023.3274175</doi><ee>https://doi.org/10.1109/JSAC.2023.3274175</ee><url>https://dblp.org/rec/journals/jsac/MiaoZTTZGL23</url></info>
+<url>URL#66734</url>
+</hit>
+<hit score="1" id="66735">
+<info><authors><author pid="143/0886">Kyungsik Min</author><author pid="43/6806">Yunjoo Kim</author><author pid="175/2507">Hyun-Suk Lee</author></authors><title>Meta-Scheduling Framework With Cooperative Learning Toward Beyond 5G.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1810-1824</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MinKL23</key><doi>10.1109/JSAC.2023.3273698</doi><ee>https://doi.org/10.1109/JSAC.2023.3273698</ee><url>https://dblp.org/rec/journals/jsac/MinKL23</url></info>
+<url>URL#66735</url>
+</hit>
+<hit score="1" id="66736">
+<info><authors><author pid="53/8283">Mohammadali Mohammadi</author><author pid="172/1684">Tung Thanh Vu</author><author pid="60/4037">Hien Quoc Ngo</author><author pid="74/4742">Michail Matthaiou</author></authors><title>Network-Assisted Full-Duplex Cell-Free Massive MIMO: Spectral and Energy Efficiencies.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2833-2851</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MohammadiVNM23</key><doi>10.1109/JSAC.2023.3287613</doi><ee>https://doi.org/10.1109/JSAC.2023.3287613</ee><url>https://dblp.org/rec/journals/jsac/MohammadiVNM23</url></info>
+<url>URL#66736</url>
+</hit>
+<hit score="1" id="66737">
+<info><authors><author pid="325/6389">Carl W. Morgenstern</author><author pid="24/10036">Yu Rong</author><author pid="210/6724">Andrew Herschfelt</author><author pid="61/10277">Alyosha C. Molnar</author><author pid="a/AlyssaBApsel">Alyssa B. Apsel</author><author pid="264/3521">David G. Landon</author><author pid="25/2644">Daniel W. Bliss</author></authors><title>Analog-Domain Self-Interference Cancellation for Practical Multi-Tap Full-Duplex System: Theory, Modeling, and Algorithm.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2796-2807</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MorgensternRHMALB23</key><doi>10.1109/JSAC.2023.3287608</doi><ee>https://doi.org/10.1109/JSAC.2023.3287608</ee><url>https://dblp.org/rec/journals/jsac/MorgensternRHMALB23</url></info>
+<url>URL#66737</url>
+</hit>
+<hit score="1" id="66738">
+<info><authors><author pid="27/6048">Carlos Mosquera</author><author pid="118/9645">Felipe Gómez-Cuba</author></authors><title>Link Adaptation for Rate Splitting Systems With Partial CSIT.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1336-1350</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MosqueraG23</key><doi>10.1109/JSAC.2023.3240787</doi><ee>https://doi.org/10.1109/JSAC.2023.3240787</ee><url>https://dblp.org/rec/journals/jsac/MosqueraG23</url></info>
+<url>URL#66738</url>
+</hit>
+<hit score="1" id="66739">
+<info><authors><author pid="195/4935">Xidong Mu</author><author pid="93/8541">Yuanwei Liu</author></authors><title>Exploiting Semantic Communication for Non-Orthogonal Multiple Access.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2563-2576</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MuL23</key><doi>10.1109/JSAC.2023.3288242</doi><ee>https://doi.org/10.1109/JSAC.2023.3288242</ee><url>https://dblp.org/rec/journals/jsac/MuL23</url></info>
+<url>URL#66739</url>
+</hit>
+<hit score="1" id="66740">
+<info><authors><author pid="195/4935">Xidong Mu</author><author pid="93/8541">Yuanwei Liu</author><author pid="02/929-4">Li Guo 0004</author><author pid="a/NaofalAlDhahir">Naofal Al-Dhahir</author></authors><title>Heterogeneous Semantic and Bit Communications: A Semi-NOMA Scheme.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>155-169</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/MuLGA23</key><doi>10.1109/JSAC.2022.3222000</doi><ee>https://doi.org/10.1109/JSAC.2022.3222000</ee><url>https://dblp.org/rec/journals/jsac/MuLGA23</url></info>
+<url>URL#66740</url>
+</hit>
+<hit score="1" id="66741">
+<info><authors><author pid="154/9547">Guoshun Nan</author><author pid="55/4022">Zhichun Li</author><author pid="296/8405">Jinli Zhai</author><author pid="79/940">Qimei Cui</author><author pid="49/4553">Gong Chen</author><author pid="18/4833">Xin Du</author><author pid="76/7247">Xuefei Zhang</author><author pid="96/6496">Xiaofeng Tao</author><author pid="83/514">Zhu Han 0001</author><author pid="65/1128">Tony Q. S. Quek</author></authors><title>Physical-Layer Adversarial Robustness for Deep Learning-Based Semantic Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2592-2608</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/NanLZCCDZTHQ23</key><doi>10.1109/JSAC.2023.3288249</doi><ee>https://doi.org/10.1109/JSAC.2023.3288249</ee><url>https://dblp.org/rec/journals/jsac/NanLZCCDZTHQ23</url></info>
+<url>URL#66741</url>
+</hit>
+<hit score="1" id="66742">
+<info><authors><author pid="285/2478">Andreas Nicolaides</author><author pid="85/11470">Constantinos Psomas</author><author pid="24/3474">Ghassan M. Kraidy</author><author pid="69/4104-1">Sheng Yang 0001</author><author pid="79/5692">Ioannis Krikidis</author></authors><title>Outage and DMT Analysis of Partition-Based Schemes for RIS-Aided MIMO Fading Channels.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2336-2349</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/NicolaidesPKYK23</key><doi>10.1109/JSAC.2023.3288264</doi><ee>https://doi.org/10.1109/JSAC.2023.3288264</ee><url>https://dblp.org/rec/journals/jsac/NicolaidesPKYK23</url></info>
+<url>URL#66742</url>
+</hit>
+<hit score="1" id="66743">
+<info><authors><author pid="183/1366">Hehao Niu</author><author pid="06/6217">Zhi Lin</author><author pid="145/9338-1">Kang An 0001</author><author pid="80/3885">Jiangzhou Wang</author><author pid="74/6653">Gan Zheng</author><author pid="a/NaofalAlDhahir">Naofal Al-Dhahir</author><author pid="35/5506">Kai-Kit Wong</author></authors><title>Active RIS Assisted Rate-Splitting Multiple Access Network: Spectral and Energy Efficiency Tradeoff.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1452-1467</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/NiuLAWZAW23</key><doi>10.1109/JSAC.2023.3240718</doi><ee>https://doi.org/10.1109/JSAC.2023.3240718</ee><url>https://dblp.org/rec/journals/jsac/NiuLAWZAW23</url></info>
+<url>URL#66743</url>
+</hit>
+<hit score="1" id="66744">
+<info><authors><author pid="65/5995">Sangjun Park</author><author pid="91/4197">Wan Choi 0001</author></authors><title>Regulated Subspace Projection Based Local Model Update Compression for Communication-Efficient Federated Learning.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>964-976</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ParkC23</key><doi>10.1109/JSAC.2023.3242722</doi><ee>https://doi.org/10.1109/JSAC.2023.3242722</ee><url>https://dblp.org/rec/journals/jsac/ParkC23</url></info>
+<url>URL#66744</url>
+</hit>
+<hit score="1" id="66745">
+<info><authors><author pid="278/6391">Qihao Peng</author><author pid="61/1086">Hong Ren</author><author pid="62/6234">Mianxiong Dong</author><author pid="98/6377">Maged Elkashlan</author><author pid="35/5506">Kai-Kit Wong</author><author pid="92/5955">Lajos Hanzo</author></authors><title>Resource Allocation for Cell-Free Massive MIMO-Aided URLLC Systems Relying on Pilot Sharing.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2193-2207</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/PengRDEWH23</key><doi>10.1109/JSAC.2023.3280976</doi><ee>https://doi.org/10.1109/JSAC.2023.3280976</ee><url>https://dblp.org/rec/journals/jsac/PengRDEWH23</url></info>
+<url>URL#66745</url>
+</hit>
+<hit score="1" id="66746">
+<info><authors><author pid="259/2426">Md. Ferdous Pervej</author><author pid="194/6950">Richeng Jin</author><author pid="09/5360">Huaiyu Dai</author></authors><title>Resource Constrained Vehicular Edge Federated Learning With Highly Mobile Connected Vehicles.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1825-1844</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/PervejJD23</key><doi>10.1109/JSAC.2023.3273700</doi><ee>https://doi.org/10.1109/JSAC.2023.3273700</ee><url>https://dblp.org/rec/journals/jsac/PervejJD23</url></info>
+<url>URL#66746</url>
+</hit>
+<hit score="1" id="66747">
+<info><authors><author pid="304/8522">Anna Prado</author><author pid="342/7872">Franziska Stöckeler</author><author pid="137/0256">Fidan Mehmeti</author><author pid="192/9364">Patrick Krämer</author><author pid="32/3203">Wolfgang Kellerer</author></authors><title>Enabling Proportionally-Fair Mobility Management With Reinforcement Learning in 5G Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1845-1858</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/PradoSMKK23</key><doi>10.1109/JSAC.2023.3273705</doi><ee>https://doi.org/10.1109/JSAC.2023.3273705</ee><url>https://dblp.org/rec/journals/jsac/PradoSMKK23</url></info>
+<url>URL#66747</url>
+</hit>
+<hit score="1" id="66748">
+<info><authors><author pid="139/4002">Xiaoqi Qin</author><author pid="17/2369">Yanlin Li</author><author pid="241/9883">Xianxin Song</author><author pid="65/5367">Nan Ma</author><author pid="80/7804-1">Chuan Huang 0001</author><author pid="77/2428-3">Ping Zhang 0003</author></authors><title>Timeliness of Information for Computation-Intensive Status Updates in Task-Oriented Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>623-638</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/QinLSMHZ23</key><doi>10.1109/JSAC.2022.3229431</doi><ee>https://doi.org/10.1109/JSAC.2022.3229431</ee><url>https://dblp.org/rec/journals/jsac/QinLSMHZ23</url></info>
+<url>URL#66748</url>
+</hit>
+<hit score="1" id="66749">
+<info><authors><author pid="75/7742">Fei Qin</author><author pid="333/2288">Yucong Xiao</author><author pid="17/9617">Xian Sun</author><author pid="77/3562">Xuewu Dai</author><author pid="86/8332">Wuxiong Zhang</author><author pid="99/6100-1">Fei Shen 0001</author></authors><title>Inverse-GMM: A Latency Distribution Shaping Method for Industrial Cooperative Deep Learning Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>776-788</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/QinXSDZS23</key><doi>10.1109/JSAC.2022.3229448</doi><ee>https://doi.org/10.1109/JSAC.2022.3229448</ee><url>https://dblp.org/rec/journals/jsac/QinXSDZS23</url></info>
+<url>URL#66749</url>
+</hit>
+<hit score="1" id="66750">
+<info><authors><author pid="13/4737-1">Min Qiu 0001</author><author pid="77/68">Yu-Chih Huang</author><author pid="50/567">Jinhong Yuan</author></authors><title>Downlink Transmission With Heterogeneous URLLC Services: Discrete Signaling With Single-User Decoding.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2261-2277</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/QiuHY23</key><doi>10.1109/JSAC.2023.3280994</doi><ee>https://doi.org/10.1109/JSAC.2023.3280994</ee><url>https://dblp.org/rec/journals/jsac/QiuHY23</url></info>
+<url>URL#66750</url>
+</hit>
+<hit score="1" id="66751">
+<info><authors><author pid="273/2862">Kimmo Rasilainen</author><author pid="322/1374">Duy Tung Phan</author><author pid="159/8660">Markus Berg 0001</author><author pid="81/2585">Aarno Pärssinen</author><author pid="92/34">Ping Jack Soh</author></authors><title>Hardware Aspects of Sub-THz Antennas and Reconfigurable Intelligent Surfaces for 6G Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2530-2546</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/RasilainenPBPS23</key><doi>10.1109/JSAC.2023.3288250</doi><ee>https://doi.org/10.1109/JSAC.2023.3288250</ee><url>https://dblp.org/rec/journals/jsac/RasilainenPBPS23</url></info>
+<url>URL#66751</url>
+</hit>
+<hit score="1" id="66752">
+<info><authors><author pid="244/9030">Robert-Jeron Reifert</author><author pid="19/4604">Hayssam Dahrouj</author><author pid="183/6225">Alaa Alameer Ahmad</author><author pid="12/218">Aydin Sezgin</author><author pid="00/384">Tareq Y. Al-Naffouri</author><author pid="62/5430">Basem Shihada</author><author pid="64/6304">Mohamed-Slim Alouini</author></authors><title>Rate-Splitting and Common Message Decoding in Hybrid Cloud/Mobile Edge Computing Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1566-1583</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ReifertDASASA23</key><doi>10.1109/JSAC.2023.3240711</doi><ee>https://doi.org/10.1109/JSAC.2023.3240711</ee><url>https://dblp.org/rec/journals/jsac/ReifertDASASA23</url></info>
+<url>URL#66752</url>
+</hit>
+<hit score="1" id="66753">
+<info><authors><author pid="259/3868">Ian P. Roberts</author><author pid="58/5860">Aditya Chopra</author><author pid="14/8970">Thomas David Novlan</author><author pid="71/2804">Sriram Vishwanath</author><author pid="84/4900">Jeffrey G. Andrews</author></authors><title>Spatial and Statistical Modeling of Multi-Panel Millimeter Wave Self-Interference.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2780-2795</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/RobertsCNVA23</key><doi>10.1109/JSAC.2023.3292958</doi><ee>https://doi.org/10.1109/JSAC.2023.3292958</ee><url>https://dblp.org/rec/journals/jsac/RobertsCNVA23</url></info>
+<url>URL#66753</url>
+</hit>
+<hit score="1" id="66754">
+<info><authors><author pid="252/7463">Tiago Koketsu Rodrigues</author><author pid="19/3059">Nei Kato</author></authors><title>Hybrid Centralized and Distributed Learning for MEC-Equipped Satellite 6G Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1201-1211</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/RodriguesK23</key><doi>10.1109/JSAC.2023.3242700</doi><ee>https://doi.org/10.1109/JSAC.2023.3242700</ee><url>https://dblp.org/rec/journals/jsac/RodriguesK23</url></info>
+<url>URL#66754</url>
+</hit>
+<hit score="1" id="66755">
+<info><authors><author pid="248/7339">Lukas Schynol</author><author pid="74/8014">Marius Pesavento</author></authors><title>Coordinated Sum-Rate Maximization in Multicell MU-MIMO With Deep Unrolling.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1120-1134</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SchynolP23</key><doi>10.1109/JSAC.2023.3242716</doi><ee>https://doi.org/10.1109/JSAC.2023.3242716</ee><url>https://dblp.org/rec/journals/jsac/SchynolP23</url></info>
+<url>URL#66755</url>
+</hit>
+<hit score="1" id="66756">
+<info><authors><author pid="254/5740">Sejin Seo</author><author pid="136/5609">Jihong Park</author><author pid="11/721">Seung-Woo Ko</author><author pid="87/47-1">Jinho Choi 0001</author><author pid="09/3625">Mehdi Bennis</author><author pid="32/673">Seong-Lyun Kim</author></authors><title>Toward Semantic Communication Protocols: A Probabilistic Logic Perspective.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2670-2686</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SeoPKCBK23</key><doi>10.1109/JSAC.2023.3288268</doi><ee>https://doi.org/10.1109/JSAC.2023.3288268</ee><url>https://dblp.org/rec/journals/jsac/SeoPKCBK23</url></info>
+<url>URL#66756</url>
+</hit>
+<hit score="1" id="66757">
+<info><authors><author pid="194/2663">Yulin Shao</author><author pid="05/6552">Deniz Gündüz</author><author pid="l/SoungChangLiew">Soung Chang Liew</author></authors><title>Bayesian Over-the-Air Computation.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>589-606</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ShaoGL23</key><doi>10.1109/JSAC.2022.3229428</doi><ee>https://doi.org/10.1109/JSAC.2022.3229428</ee><url>https://dblp.org/rec/journals/jsac/ShaoGL23</url></info>
+<url>URL#66757</url>
+</hit>
+<hit score="1" id="66758">
+<info><authors><author pid="122/5700">Changyang She</author><author pid="132/8058">Cunhua Pan</author><author pid="129/9743">Trung Q. Duong</author><author pid="65/1128">Tony Q. S. Quek</author><author pid="95/2265">Robert Schober</author><author pid="14/10126">Meryem Simsek</author><author pid="123/9358">Peiying Zhu</author></authors><title>Guest Editorial xURLLC in 6G: Next Generation Ultra-Reliable and Low-Latency Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>1963-1968</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ShePDQSSZ23</key><doi>10.1109/JSAC.2023.3282543</doi><ee>https://doi.org/10.1109/JSAC.2023.3282543</ee><url>https://dblp.org/rec/journals/jsac/ShePDQSSZ23</url></info>
+<url>URL#66758</url>
+</hit>
+<hit score="1" id="66759">
+<info><authors><author pid="99/7970">Shihao Shen</author><author pid="317/0470">Yuanming Ren</author><author pid="317/0867">Yanli Ju</author><author pid="58/6576-1">Xiaofei Wang 0001</author><author pid="80/6234">Wenyu Wang</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>EdgeMatrix: A Resource-Redefined Scheduling Framework for SLA-Guaranteed Multi-Tier Edge-Cloud Computing Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>820-834</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ShenRJWWL23</key><doi>10.1109/JSAC.2022.3229444</doi><ee>https://doi.org/10.1109/JSAC.2022.3229444</ee><url>https://dblp.org/rec/journals/jsac/ShenRJWWL23</url></info>
+<url>URL#66759</url>
+</hit>
+<hit score="1" id="66760">
+<info><authors><author pid="18/5755">Hongjian Shi</author><author pid="351/7586">Weichu Zheng</author><author pid="351/8148">Zifei Liu</author><author pid="01/5518">Ruhui Ma</author><author pid="96/5680">Haibing Guan</author></authors><title>Automatic Pipeline Parallelism: A Parallel Inference Framework for Deep Learning Applications in 6G Mobile Communication Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2041-2056</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ShiZLMG23</key><doi>10.1109/JSAC.2023.3280970</doi><ee>https://doi.org/10.1109/JSAC.2023.3280970</ee><url>https://dblp.org/rec/journals/jsac/ShiZLMG23</url></info>
+<url>URL#66760</url>
+</hit>
+<hit score="1" id="66761">
+<info><authors><author pid="312/5155">Enyu Shi</author><author pid="23/8208-1">Jiayi Zhang 0001</author><author pid="42/8146">Derrick Wing Kwan Ng</author><author pid="85/6463-1">Bo Ai 0001</author></authors><title>Uplink Performance of RIS-Aided Cell-Free Massive MIMO System With Electromagnetic Interference.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2431-2445</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ShiZNA23</key><doi>10.1109/JSAC.2023.3288265</doi><ee>https://doi.org/10.1109/JSAC.2023.3288265</ee><url>https://dblp.org/rec/journals/jsac/ShiZNA23</url></info>
+<url>URL#66761</url>
+</hit>
+<hit score="1" id="66762">
+<info><authors><author pid="185/7006">Christodoulos Skouroumounis</author><author pid="79/5692">Ioannis Krikidis</author></authors><title>Fluid Antenna-Aided Full Duplex Communications: A Macroscopic Point-of-View.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2879-2892</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SkouroumounisK23</key><doi>10.1109/JSAC.2023.3292959</doi><ee>https://doi.org/10.1109/JSAC.2023.3292959</ee><url>https://dblp.org/rec/journals/jsac/SkouroumounisK23</url></info>
+<url>URL#66762</url>
+</hit>
+<hit score="1" id="66763">
+<info><authors><author pid="25/5691">Besma Smida</author><author pid="45/284">Ashutosh Sabharwal</author><author pid="14/5281">Gábor Fodor</author><author pid="13/2648">George C. Alexandropoulos</author><author pid="69/3561">Himal A. Suraweera</author><author pid="68/1350">Chan-Byoung Chae</author></authors><title>Guest Editorial Full Duplex and its Applications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2725-2728</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SmidaSFASC23</key><doi>10.1109/JSAC.2023.3292659</doi><ee>https://doi.org/10.1109/JSAC.2023.3292659</ee><url>https://dblp.org/rec/journals/jsac/SmidaSFASC23</url></info>
+<url>URL#66763</url>
+</hit>
+<hit score="1" id="66764">
+<info><authors><author pid="25/5691">Besma Smida</author><author pid="45/284">Ashutosh Sabharwal</author><author pid="14/5281">Gábor Fodor</author><author pid="13/2648">George C. Alexandropoulos</author><author pid="69/3561">Himal A. Suraweera</author><author pid="68/1350">Chan-Byoung Chae</author></authors><title>Full-Duplex Wireless for 6G: Progress Brings New Opportunities and Challenges.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2729-2750</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SmidaSFASC23a</key><doi>10.1109/JSAC.2023.3287612</doi><ee>https://doi.org/10.1109/JSAC.2023.3287612</ee><url>https://dblp.org/rec/journals/jsac/SmidaSFASC23a</url></info>
+<url>URL#66764</url>
+</hit>
+<hit score="1" id="66765">
+<info><authors><author pid="222/2735">Athira Subhash</author><author pid="52/6564">Abla Kammoun</author><author pid="176/5880">Ahmed Elzanaty</author><author pid="74/6121">Sheetal Kalyani</author><author pid="154/3620">Yazan H. Al-Badarneh</author><author pid="64/6304">Mohamed-Slim Alouini</author></authors><title>Optimal Phase Shift Design for Fair Allocation in RIS-Aided Uplink Network Using Statistical CSI.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2461-2475</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SubhashKEKAA23</key><doi>10.1109/JSAC.2023.3288266</doi><ee>https://doi.org/10.1109/JSAC.2023.3288266</ee><url>https://dblp.org/rec/journals/jsac/SubhashKEKAA23</url></info>
+<url>URL#66765</url>
+</hit>
+<hit score="1" id="66766">
+<info><authors><author pid="78/1295">Chuan Sun</author><author pid="116/1627">Xiuhua Li</author><author pid="46/3669">Junhao Wen</author><author pid="58/6576-1">Xiaofei Wang 0001</author><author pid="83/514">Zhu Han 0001</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>Federated Deep Reinforcement Learning for Recommendation-Enabled Edge Caching in Mobile Edge-Cloud Computing Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>690-705</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SunLWWHL23</key><doi>10.1109/JSAC.2023.3235443</doi><ee>https://doi.org/10.1109/JSAC.2023.3235443</ee><url>https://dblp.org/rec/journals/jsac/SunLWWHL23</url></info>
+<url>URL#66766</url>
+</hit>
+<hit score="1" id="66767">
+<info><authors><author pid="236/5760">Lunan Sun</author><author pid="48/450-57">Yang Yang 0057</author><author pid="172/4496">Mingzhe Chen</author><author pid="45/7794">Caili Guo</author><author pid="41/6237">Walid Saad</author><author pid="p/HVincentPoor">H. Vincent Poor</author></authors><title>Adaptive Information Bottleneck Guided Joint Source and Channel Coding for Image Transmission.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2628-2644</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/SunYCGSP23</key><doi>10.1109/JSAC.2023.3288238</doi><ee>https://doi.org/10.1109/JSAC.2023.3288238</ee><url>https://dblp.org/rec/journals/jsac/SunYCGSP23</url></info>
+<url>URL#66767</url>
+</hit>
+<hit score="1" id="66768">
+<info><authors><author pid="191/6675">Pulkit Tandon</author><author pid="196/1863">Shubham Chandak</author><author pid="205/7353">Pat Pataranutaporn</author><author pid="25/10213">Yimeng Liu</author><author pid="296/0182">Anesu M. Mapuranga</author><author pid="m/PattieMaes">Pattie Maes</author><author pid="34/2720">Tsachy Weissman</author><author pid="119/4545">Misha Sra</author></authors><title>Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>107-118</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/TandonCPLMMWS23</key><doi>10.1109/JSAC.2022.3221953</doi><ee>https://doi.org/10.1109/JSAC.2022.3221953</ee><url>https://dblp.org/rec/journals/jsac/TandonCPLMMWS23</url></info>
+<url>URL#66768</url>
+</hit>
+<hit score="1" id="66769">
+<info><authors><author pid="284/2767">Shunpu Tang</author><author pid="36/7775">Ke He</author><author pid="284/3058">Lunyuan Chen</author><author pid="85/2556">Lisheng Fan</author><author pid="49/7964">Xianfu Lei</author><author pid="43/3601">Rose Qingyang Hu</author></authors><title>Collaborative Cache-Aided Relaying Networks: Performance Evaluation and System Optimization.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>706-719</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/TangHCFLH23</key><doi>10.1109/JSAC.2023.3234693</doi><ee>https://doi.org/10.1109/JSAC.2023.3234693</ee><url>https://dblp.org/rec/journals/jsac/TangHCFLH23</url></info>
+<url>URL#66769</url>
+</hit>
+<hit score="1" id="66770">
+<info><authors><author pid="13/2049">Zhifeng Tang</author><author pid="72/10095">Nan Yang 0006</author><author pid="28/2887">Parastoo Sadeghi</author><author pid="36/2064">Xiangyun Zhou 0001</author></authors><title>Age of Information in Downlink Systems: Broadcast or Unicast Transmission?</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2057-2070</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/TangYSZ23</key><doi>10.1109/JSAC.2023.3280986</doi><ee>https://doi.org/10.1109/JSAC.2023.3280986</ee><url>https://dblp.org/rec/journals/jsac/TangYSZ23</url></info>
+<url>URL#66770</url>
+</hit>
+<hit score="1" id="66771">
+<info><authors><author pid="312/3980">Bernardo Camajori Tedeschini</author><author pid="71/1544">Monica Nicoli</author><author pid="21/4583">Moe Z. Win</author></authors><title>On the Latent Space of mmWave MIMO Channels for NLOS Identification in 5G-Advanced Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1655-1669</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/jsac/TedeschiniNW23</key><doi>10.1109/JSAC.2023.3273769</doi><ee>https://doi.org/10.1109/JSAC.2023.3273769</ee><url>https://dblp.org/rec/journals/jsac/TedeschiniNW23</url></info>
+<url>URL#66771</url>
+</hit>
+<hit score="1" id="66772">
+<info><authors><author pid="337/7981">Gianluca Torsoli</author><author pid="21/4583">Moe Z. Win</author><author pid="51/2062">Andrea Conti 0001</author></authors><title>Blockage Intelligence in Complex Environments for Beyond 5G Localization.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1688-1701</pages><year>2023</year><type>Journal Articles</type><access>open</access><key>journals/jsac/TorsoliWC23</key><doi>10.1109/JSAC.2023.3275612</doi><ee>https://doi.org/10.1109/JSAC.2023.3275612</ee><url>https://dblp.org/rec/journals/jsac/TorsoliWC23</url></info>
+<url>URL#66772</url>
+</hit>
+<hit score="1" id="66773">
+<info><authors><author pid="29/6900">Daniela Tuninetti</author><author pid="47/6354">Paul Sheldon</author><author pid="25/5691">Besma Smida</author><author pid="27/5905">Natasha Devroye</author></authors><title>On Second Order Rate Regions for the Static Scalar Gaussian Broadcast Channel.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>1982-1999</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/TuninettiSSD23</key><doi>10.1109/JSAC.2023.3280991</doi><ee>https://doi.org/10.1109/JSAC.2023.3280991</ee><url>https://dblp.org/rec/journals/jsac/TuninettiSSD23</url></info>
+<url>URL#66773</url>
+</hit>
+<hit score="1" id="66774">
+<info><authors><author pid="312/9269">Dang Van-Huynh</author><author pid="163/8774">Van-Dinh Nguyen</author><author pid="57/4418">Symeon Chatzinotas</author><author pid="131/9755">Saeed R. Khosravirad</author><author pid="p/HVincentPoor">H. Vincent Poor</author><author pid="129/9743">Trung Q. Duong</author></authors><title>Joint Communication and Computation Offloading for Ultra-Reliable and Low-Latency With Multi-Tier Computing.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>521-537</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/Van-HuynhNCKPD23</key><doi>10.1109/JSAC.2022.3227088</doi><ee>https://doi.org/10.1109/JSAC.2022.3227088</ee><url>https://dblp.org/rec/journals/jsac/Van-HuynhNCKPD23</url></info>
+<url>URL#66774</url>
+</hit>
+<hit score="1" id="66775">
+<info><authors><author pid="178/1847">Nguyen Thi Thanh Van</author><author pid="173/5360">Nguyen Cong Luong</author><author pid="199/1893">Shaohan Feng</author><author pid="163/8774">Van-Dinh Nguyen</author><author pid="86/1369">Dong In Kim</author></authors><title>Evolutionary Games for Dynamic Network Resource Selection in RSMA-Enabled 6G Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1320-1335</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/VanLFNK23</key><doi>10.1109/JSAC.2023.3240779</doi><ee>https://doi.org/10.1109/JSAC.2023.3240779</ee><url>https://dblp.org/rec/journals/jsac/VanLFNK23</url></info>
+<url>URL#66775</url>
+</hit>
+<hit score="1" id="66776">
+<info><authors><author pid="79/11218">Sixian Wang</author><author pid="172/1238">Jincheng Dai</author><author pid="291/9106">Zijian Liang</author><author pid="67/229">Kai Niu 0001</author><author pid="55/8332">Zhongwei Si</author><author pid="16/1278-2">Chao Dong 0002</author><author pid="139/4002">Xiaoqi Qin</author><author pid="77/2428-3">Ping Zhang 0003</author></authors><title>Wireless Deep Video Semantic Transmission.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>214-229</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangDLNSDQZ23</key><doi>10.1109/JSAC.2022.3221977</doi><ee>https://doi.org/10.1109/JSAC.2022.3221977</ee><url>https://dblp.org/rec/journals/jsac/WangDLNSDQZ23</url></info>
+<url>URL#66776</url>
+</hit>
+<hit score="1" id="66777">
+<info><authors><author pid="73/8637">Shangguang Wang</author><author pid="68/6846-4">Yan Guo 0004</author><author pid="82/1364-4">Xiao Liu 0004</author><author pid="123/6949-1">Ao Zhou 0001</author></authors><title>Service Routing in Multi-Tier Edge Computing: A Matching Game Approach.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>835-844</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangGLZ23</key><doi>10.1109/JSAC.2022.3229378</doi><ee>https://doi.org/10.1109/JSAC.2022.3229378</ee><url>https://dblp.org/rec/journals/jsac/WangGLZ23</url></info>
+<url>URL#66777</url>
+</hit>
+<hit score="1" id="66778">
+<info><authors><author pid="41/10132">Junge Wang</author><author pid="42/2660">Syed Ali Jafar</author></authors><title>Robust Sum-GDoF of Symmetric 2 × 2 × 2 Weak Interference Channel With Heterogeneous Hops.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1309-1319</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangJ23</key><doi>10.1109/JSAC.2023.3240780</doi><ee>https://doi.org/10.1109/JSAC.2023.3240780</ee><url>https://dblp.org/rec/journals/jsac/WangJ23</url></info>
+<url>URL#66778</url>
+</hit>
+<hit score="1" id="66779">
+<info><authors><author pid="37/11533">Kunlun Wang 0001</author><author pid="20/4460">Jiong Jin</author><author pid="48/450-1">Yang Yang 0001</author><author pid="15/4777-5">Tao Zhang 0005</author><author pid="33/2397">Arumugam Nallanathan</author><author pid="t/ChinthaTellambura">Chintha Tellambura</author><author pid="52/4297">Bijan Jabbari</author></authors><title>Task Offloading With Multi-Tier Computing Resources in Next Generation Wireless Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>306-319</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangJYZNTJ23</key><doi>10.1109/JSAC.2022.3227102</doi><ee>https://doi.org/10.1109/JSAC.2022.3227102</ee><url>https://dblp.org/rec/journals/jsac/WangJYZNTJ23</url></info>
+<url>URL#66779</url>
+</hit>
+<hit score="1" id="66780">
+<info><authors><author pid="189/7702">Hanling Wang</author><author pid="181/2689-6">Qing Li 0006</author><author pid="292/8592">Heyang Sun</author><author pid="43/4660">Zuozhou Chen</author><author pid="336/7917">Yingqian Hao</author><author pid="259/6237">Junkun Peng</author><author pid="02/7455">Zhenhui Yuan</author><author pid="136/1052">Junsheng Fu</author><author pid="74/1552-1">Yong Jiang 0001</author></authors><title>VaBUS: Edge-Cloud Real-Time Video Analytics via Background Understanding and Subtraction.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>90-106</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangLSCHPYFJ23</key><doi>10.1109/JSAC.2022.3221995</doi><ee>https://doi.org/10.1109/JSAC.2022.3221995</ee><url>https://dblp.org/rec/journals/jsac/WangLSCHPYFJ23</url></info>
+<url>URL#66780</url>
+</hit>
+<hit score="1" id="66781">
+<info><authors><author pid="32/4187">Zhaolin Wang</author><author pid="195/4935">Xidong Mu</author><author pid="93/8541">Yuanwei Liu</author><author pid="43/2085-1">Xiaodong Xu 0001</author><author pid="77/2428-3">Ping Zhang 0003</author></authors><title>NOMA-Aided Joint Communication, Sensing, and Multi-Tier Computing Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>574-588</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangMLXZ23</key><doi>10.1109/JSAC.2022.3229447</doi><ee>https://doi.org/10.1109/JSAC.2022.3229447</ee><url>https://dblp.org/rec/journals/jsac/WangMLXZ23</url></info>
+<url>URL#66781</url>
+</hit>
+<hit score="1" id="66782">
+<info><authors><author pid="37/11533">Kunlun Wang 0001</author><author pid="76/440">Dusit Niyato</author><author pid="36/6699-1">Wen Chen 0001</author><author pid="33/2397">Arumugam Nallanathan</author></authors><title>Task-Oriented Delay-Aware Multi-Tier Computing in Cell-Free Massive MIMO Systems.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2000-2012</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangNCN23</key><doi>10.1109/JSAC.2023.3280965</doi><ee>https://doi.org/10.1109/JSAC.2023.3280965</ee><url>https://dblp.org/rec/journals/jsac/WangNCN23</url></info>
+<url>URL#66782</url>
+</hit>
+<hit score="1" id="66783">
+<info><authors><author pid="63/1591">Shuo Wang</author><author pid="04/2124">Yongcai Wang</author><author pid="63/10177">Xuewei Bai</author><author pid="63/1296-1">Deying Li 0001</author></authors><title>Communication Efficient, Distributed Relative State Estimation in UAV Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1151-1166</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangWBL23</key><doi>10.1109/JSAC.2023.3242708</doi><ee>https://doi.org/10.1109/JSAC.2023.3242708</ee><url>https://dblp.org/rec/journals/jsac/WangWBL23</url></info>
+<url>URL#66783</url>
+</hit>
+<hit score="1" id="66784">
+<info><authors><author pid="41/3241">Yuan Wang</author><author pid="54/3080">Vincent W. S. Wong 0001</author><author pid="54/8052-1">Jiaheng Wang 0001</author></authors><title>Flexible Rate-Splitting Multiple Access With Finite Blocklength.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1398-1412</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangWW23</key><doi>10.1109/JSAC.2023.3240783</doi><ee>https://doi.org/10.1109/JSAC.2023.3240783</ee><url>https://dblp.org/rec/journals/jsac/WangWW23</url></info>
+<url>URL#66784</url>
+</hit>
+<hit score="1" id="66785">
+<info><authors><author pid="37/11533">Kunlun Wang 0001</author><author pid="48/450-1">Yang Yang 0001</author><author pid="20/4460">Jiong Jin</author><author pid="15/4777-5">Tao Zhang 0005</author><author pid="33/2397">Arumugam Nallanathan</author><author pid="t/ChinthaTellambura">Chintha Tellambura</author><author pid="52/4297">Bijan Jabbari</author></authors><title>Guest Editorial Multi-Tier Computing for Next Generation Wireless Networks - Part I.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>301-305</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangYJZNTJ23</key><doi>10.1109/JSAC.2022.3228093</doi><ee>https://doi.org/10.1109/JSAC.2022.3228093</ee><url>https://dblp.org/rec/journals/jsac/WangYJZNTJ23</url></info>
+<url>URL#66785</url>
+</hit>
+<hit score="1" id="66786">
+<info><authors><author pid="37/11533">Kunlun Wang 0001</author><author pid="48/450-1">Yang Yang 0001</author><author pid="20/4460">Jiong Jin</author><author pid="15/4777-5">Tao Zhang 0005</author><author pid="33/2397">Arumugam Nallanathan</author><author pid="t/ChinthaTellambura">Chintha Tellambura</author><author pid="52/4297">Bijan Jabbari</author></authors><title>Guest Editorial Multi-Tier Computing for Next Generation Wireless Networks - Part II.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>569-573</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WangYJZNTJ23a</key><doi>10.1109/JSAC.2022.3228094</doi><ee>https://doi.org/10.1109/JSAC.2022.3228094</ee><url>https://dblp.org/rec/journals/jsac/WangYJZNTJ23a</url></info>
+<url>URL#66786</url>
+</hit>
+<hit score="1" id="66787">
+<info><authors><author pid="252/3196">Zidong Wu</author><author pid="50/7910">Linglong Dai</author></authors><title>Multiple Access for Near-Field Communications: SDMA or LDMA?</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1918-1935</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WuD23</key><doi>10.1109/JSAC.2023.3275616</doi><ee>https://doi.org/10.1109/JSAC.2023.3275616</ee><url>https://dblp.org/rec/journals/jsac/WuD23</url></info>
+<url>URL#66787</url>
+</hit>
+<hit score="1" id="66788">
+<info><authors><author pid="97/6864">Minghui Wu</author><author pid="71/1107-1">Zhen Gao 0001</author><author pid="88/2275-1">Yang Huang 0001</author><author pid="76/8513">Zhenyu Xiao</author><author pid="42/8146">Derrick Wing Kwan Ng</author><author pid="81/6236-1">Zhaoyang Zhang 0001</author></authors><title>Deep Learning-Based Rate-Splitting Multiple Access for Reconfigurable Intelligent Surface-Aided Tera-Hertz Massive MIMO.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1431-1451</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WuGHXNZ23</key><doi>10.1109/JSAC.2023.3240781</doi><ee>https://doi.org/10.1109/JSAC.2023.3240781</ee><url>https://dblp.org/rec/journals/jsac/WuGHXNZ23</url></info>
+<url>URL#66788</url>
+</hit>
+<hit score="1" id="66789">
+<info><authors><author pid="92/382-3">Wen Wu 0003</author><author pid="192/5791">Mushu Li</author><author pid="175/6055">Kaige Qu</author><author pid="172/1442">Conghao Zhou</author><author pid="s/XueminShen">Xuemin Shen</author><author pid="z/WeihuaZhuang">Weihua Zhuang</author><author pid="25/3528-1">Xu Li 0001</author><author pid="159/5790">Weisen Shi</author></authors><title>Split Learning Over Wireless Networks: Parallel Design and Resource Management.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1051-1066</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/WuLQZSZLS23</key><doi>10.1109/JSAC.2023.3242704</doi><ee>https://doi.org/10.1109/JSAC.2023.3242704</ee><url>https://dblp.org/rec/journals/jsac/WuLQZSZLS23</url></info>
+<url>URL#66789</url>
+</hit>
+<hit score="1" id="66790">
+<info><authors><author pid="18/7081">Zhu Xiao</author><author pid="338/6586">Jinmei Shu</author><author pid="25/4108-1">Hongbo Jiang 0001</author><author pid="96/3727">Geyong Min</author><author pid="13/3715">Hongyang Chen</author><author pid="83/514">Zhu Han 0001</author></authors><title>Perception Task Offloading With Collaborative Computation for Autonomous Driving.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>457-473</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XiaoSJMCH23</key><doi>10.1109/JSAC.2022.3227027</doi><ee>https://doi.org/10.1109/JSAC.2022.3227027</ee><url>https://dblp.org/rec/journals/jsac/XiaoSJMCH23</url></info>
+<url>URL#66790</url>
+</hit>
+<hit score="1" id="66791">
+<info><authors><author pid="28/6937">Yong Xiao</author><author pid="119/9969">Zijian Sun</author><author pid="97/3742">Guangming Shi</author><author pid="76/440">Dusit Niyato</author></authors><title>Imitation Learning-Based Implicit Semantic-Aware Communication Networks: Multi-Layer Representation and Collaborative Reasoning.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>639-658</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XiaoSSN23</key><doi>10.1109/JSAC.2022.3229419</doi><ee>https://doi.org/10.1109/JSAC.2022.3229419</ee><url>https://dblp.org/rec/journals/jsac/XiaoSSN23</url></info>
+<url>URL#66791</url>
+</hit>
+<hit score="1" id="66792">
+<info><authors><author pid="276/0178">Songjie Xie</author><author pid="35/6569-2">Shuai Ma 0002</author><author pid="48/3462-1">Ming Ding 0001</author><author pid="129/1008">Yuanming Shi</author><author pid="77/4752">MingJian Tang 0001</author><author pid="21/3573">Youlong Wu</author></authors><title>Robust Information Bottleneck for Task-Oriented Communication With Digital Modulation.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2577-2591</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XieMDSTW23</key><doi>10.1109/JSAC.2023.3288252</doi><ee>https://doi.org/10.1109/JSAC.2023.3288252</ee><url>https://dblp.org/rec/journals/jsac/XieMDSTW23</url></info>
+<url>URL#66792</url>
+</hit>
+<hit score="1" id="66793">
+<info><authors><author pid="233/9134">Huiqiang Xie</author><author pid="157/9149">Zhijin Qin</author><author pid="89/5914">Geoffrey Ye Li</author></authors><title>Semantic Communication With Memory.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2658-2669</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XieQL23</key><doi>10.1109/JSAC.2023.3288236</doi><ee>https://doi.org/10.1109/JSAC.2023.3288236</ee><url>https://dblp.org/rec/journals/jsac/XieQL23</url></info>
+<url>URL#66793</url>
+</hit>
+<hit score="1" id="66794">
+<info><authors><author pid="188/0735">Zhijie Xie</author><author pid="22/2796">Shenghui Song 0001</author></authors><title>FedKL: Tackling Data Heterogeneity in Federated Reinforcement Learning by Penalizing KL Divergence.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1227-1242</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XieS23</key><doi>10.1109/JSAC.2023.3242734</doi><ee>https://doi.org/10.1109/JSAC.2023.3242734</ee><url>https://dblp.org/rec/journals/jsac/XieS23</url></info>
+<url>URL#66794</url>
+</hit>
+<hit score="1" id="66795">
+<info><authors><author pid="150/4575">Jialong Xu</author><author pid="85/6463-1">Bo Ai 0001</author><author pid="46/2005-4">Ning Wang 0004</author><author pid="c/WeiChen16">Wei Chen 0016</author></authors><title>Deep Joint Source-Channel Coding for CSI Feedback: An End-to-End Approach.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>260-273</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XuAWC23</key><doi>10.1109/JSAC.2022.3221963</doi><ee>https://doi.org/10.1109/JSAC.2022.3221963</ee><url>https://dblp.org/rec/journals/jsac/XuAWC23</url></info>
+<url>URL#66795</url>
+</hit>
+<hit score="1" id="66796">
+<info><authors><author pid="41/2517">Xiaoxia Xu</author><author pid="93/8541">Yuanwei Liu</author><author pid="63/5974">Qimei Chen</author><author pid="195/4935">Xidong Mu</author><author pid="64/361-1">Zhiguo Ding 0001</author></authors><title>Distributed Auto-Learning GNN for Multi-Cell Cluster-Free NOMA Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1243-1258</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XuLCMD23</key><doi>10.1109/JSAC.2023.3242703</doi><ee>https://doi.org/10.1109/JSAC.2023.3242703</ee><url>https://dblp.org/rec/journals/jsac/XuLCMD23</url></info>
+<url>URL#66796</url>
+</hit>
+<hit score="1" id="66797">
+<info><authors><author pid="41/9714">Sai Xu</author><author pid="40/6246-1">Jiajia Liu 0001</author><author pid="19/3059">Nei Kato</author><author pid="224/0926">Ya-Nan Du</author></authors><title>Intelligent Reflecting Surface Backscatter Enabled Multi-Tier Computing for 6G Internet of Things.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>320-333</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XuLKD23</key><doi>10.1109/JSAC.2022.3231861</doi><ee>https://doi.org/10.1109/JSAC.2022.3231861</ee><url>https://dblp.org/rec/journals/jsac/XuLKD23</url></info>
+<url>URL#66797</url>
+</hit>
+<hit score="1" id="66798">
+<info><authors><author pid="238/2412">Yunting Xu</author><author pid="04/6584-1">Bo Qian 0001</author><author pid="197/1322-10">Kai Yu 0010</author><author pid="30/4463-4">Ting Ma 0004</author><author pid="82/4593">Lian Zhao</author><author pid="14/8431">Haibo Zhou</author></authors><title>Federated Learning Over Fully-Decoupled RAN Architecture for Two-Tier Computing Acceleration.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>789-801</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/XuQYMZZ23</key><doi>10.1109/JSAC.2023.3236003</doi><ee>https://doi.org/10.1109/JSAC.2023.3236003</ee><url>https://dblp.org/rec/journals/jsac/XuQYMZZ23</url></info>
+<url>URL#66798</url>
+</hit>
+<hit score="1" id="66799">
+<info><authors><author pid="286/2885">Wencai Yan</author><author pid="161/6541">Wanming Hao</author><author pid="183/6637">Chongwen Huang</author><author pid="129/4049">Gangcan Sun</author><author pid="89/653">Osamu Muta</author><author pid="10/988">Haris Gacanin</author><author pid="01/753">Chau Yuen</author></authors><title>Beamforming Analysis and Design for Wideband THz Reconfigurable Intelligent Surface Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2306-2320</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YanHHSMGY23</key><doi>10.1109/JSAC.2023.3288235</doi><ee>https://doi.org/10.1109/JSAC.2023.3288235</ee><url>https://dblp.org/rec/journals/jsac/YanHHSMGY23</url></info>
+<url>URL#66799</url>
+</hit>
+<hit score="1" id="66800">
+<info><authors><author pid="63/1587">Kun Yang</author><author pid="48/4482">Shengbo Chen</author><author pid="79/6027-1">Cong Shen 0001</author></authors><title>On the Convergence of Hybrid Server-Clients Collaborative Training.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>802-819</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YangCS23</key><doi>10.1109/JSAC.2022.3229443</doi><ee>https://doi.org/10.1109/JSAC.2022.3229443</ee><url>https://dblp.org/rec/journals/jsac/YangCS23</url></info>
+<url>URL#66800</url>
+</hit>
+<hit score="1" id="66801">
+<info><authors><author pid="90/549-1">Zhaohui Yang 0001</author><author pid="172/4496">Mingzhe Chen</author><author pid="81/6236-1">Zhaoyang Zhang 0001</author><author pid="183/6637">Chongwen Huang</author></authors><title>Energy Efficient Semantic Communication Over Wireless Networks With Rate Splitting.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1484-1495</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YangCZH23</key><doi>10.1109/JSAC.2023.3240713</doi><ee>https://doi.org/10.1109/JSAC.2023.3240713</ee><url>https://dblp.org/rec/journals/jsac/YangCZH23</url></info>
+<url>URL#66801</url>
+</hit>
+<hit score="1" id="66802">
+<info><authors><author pid="54/1134">Yuwen Yang</author><author pid="20/6898">Feifei Gao</author><author pid="16/1093">Xiaoming Tao</author><author pid="98/2683">Guangyi Liu</author><author pid="25/4307">Chengkang Pan</author></authors><title>Environment Semantics Aided Wireless Communications: A Case Study of mmWave Beam Prediction and Blockage Prediction.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2025-2040</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YangGTLP23</key><doi>10.1109/JSAC.2023.3280966</doi><ee>https://doi.org/10.1109/JSAC.2023.3280966</ee><url>https://dblp.org/rec/journals/jsac/YangGTLP23</url></info>
+<url>URL#66802</url>
+</hit>
+<hit score="1" id="66803">
+<info><authors><author pid="213/2190">Jiarong Yang</author><author pid="87/2948-1">Yuan Liu 0001</author><author pid="218/6844">Rahif Kassab</author></authors><title>Client Selection for Federated Bayesian Learning.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>915-928</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YangLK23</key><doi>10.1109/JSAC.2023.3242720</doi><ee>https://doi.org/10.1109/JSAC.2023.3242720</ee><url>https://dblp.org/rec/journals/jsac/YangLK23</url></info>
+<url>URL#66803</url>
+</hit>
+<hit score="1" id="66804">
+<info><authors><author pid="163/2671">Huiting Yang</author><author pid="49/3283-12">Wei Liu 0012</author><author pid="65/7582-1">Jiandong Li 0001</author><author pid="65/1128">Tony Q. S. Quek</author></authors><title>Space Information Network With Joint Virtual Network Function Deployment and Flow Routing Strategy With QoS Constraints.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1737-1756</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YangLLQ23</key><doi>10.1109/JSAC.2023.3273704</doi><ee>https://doi.org/10.1109/JSAC.2023.3273704</ee><url>https://dblp.org/rec/journals/jsac/YangLLQ23</url></info>
+<url>URL#66804</url>
+</hit>
+<hit score="1" id="66805">
+<info><authors><author pid="261/9956">Yuzhi Yang</author><author pid="81/6236-1">Zhaoyang Zhang 0001</author><author pid="175/8978">Yuqing Tian</author><author pid="90/549-1">Zhaohui Yang 0001</author><author pid="183/6637">Chongwen Huang</author><author pid="14/139">Caijun Zhong</author><author pid="35/5506">Kai-Kit Wong</author></authors><title>Over-the-Air Split Machine Learning in Wireless MIMO Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1007-1022</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YangZTYHZW23</key><doi>10.1109/JSAC.2023.3242701</doi><ee>https://doi.org/10.1109/JSAC.2023.3242701</ee><url>https://dblp.org/rec/journals/jsac/YangZTYHZW23</url></info>
+<url>URL#66805</url>
+</hit>
+<hit score="1" id="66806">
+<info><authors><author pid="256/5260">Keke Ying</author><author pid="71/1107-1">Zhen Gao 0001</author><author pid="34/1910">Sheng Chen 0001</author><author pid="75/2963">Mingyu Zhou</author><author pid="155/4239">Dezhi Zheng</author><author pid="57/4418">Symeon Chatzinotas</author><author pid="45/2903">Björn E. Ottersten</author><author pid="p/HVincentPoor">H. Vincent Poor</author></authors><title>Quasi-Synchronous Random Access for Massive MIMO-Based LEO Satellite Constellations.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>6</number><pages>1702-1722</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YingGCZZCOP23</key><doi>10.1109/JSAC.2023.3273699</doi><ee>https://doi.org/10.1109/JSAC.2023.3273699</ee><url>https://dblp.org/rec/journals/jsac/YingGCZZCOP23</url></info>
+<url>URL#66806</url>
+</hit>
+<hit score="1" id="66807">
+<info><authors><author pid="330/2166">Wenhan Yu</author><author pid="330/3639">Terence Jie Chua</author><author pid="47/2026-7">Jun Zhao 0007</author></authors><title>Asynchronous Hybrid Reinforcement Learning for Latency and Reliability Optimization in the Metaverse Over Wireless Communications.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2138-2157</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YuCZ23</key><doi>10.1109/JSAC.2023.3280988</doi><ee>https://doi.org/10.1109/JSAC.2023.3280988</ee><url>https://dblp.org/rec/journals/jsac/YuCZ23</url></info>
+<url>URL#66807</url>
+</hit>
+<hit score="1" id="66808">
+<info><authors><author pid="27/116">Bin Yu</author><author pid="70/3604-4">Chen Qian 0004</author><author pid="55/3410">Juho Lee</author><author pid="54/5887">Shihai Shao</author><author pid="01/8558">Ying Shen</author><author pid="130/3071">Wensheng Pan</author><author pid="43/5433">Peng Lin</author><author pid="162/8552">Zhiya Zhang</author><author pid="224/0820">Sundo Kim</author><author pid="44/8079">Su Hu</author><author pid="205/2113">Kwonjong Lee</author><author pid="71/2599">Jungsoo Jung</author><author pid="c/SunghyunChoi">Sunghyun Choi 0001</author><author pid="84/27">Chengjun Sun</author></authors><title>Realizing High Power Full Duplex in Millimeter Wave System: Design, Prototype and Results.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2893-2906</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YuQLSSPLZKHLJCS23</key><doi>10.1109/JSAC.2023.3287609</doi><ee>https://doi.org/10.1109/JSAC.2023.3287609</ee><url>https://dblp.org/rec/journals/jsac/YuQLSSPLZKHLJCS23</url></info>
+<url>URL#66808</url>
+</hit>
+<hit score="1" id="66809">
+<info><authors><author pid="337/7982">Zhiling Yue</author><author pid="87/763">Howard H. Yang</author><author pid="04/6901">Meng Zhang</author><author pid="36/8968">Nikolaos Pappas 0001</author></authors><title>Age of Information Under Frame Slotted ALOHA-Based Status Updating Protocol.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2071-2089</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/YueYZP23</key><doi>10.1109/JSAC.2023.3280990</doi><ee>https://doi.org/10.1109/JSAC.2023.3280990</ee><url>https://dblp.org/rec/journals/jsac/YueYZP23</url></info>
+<url>URL#66809</url>
+</hit>
+<hit score="1" id="66810">
+<info><authors><author pid="289/6609">Fakhar Zaman</author><author pid="230/0827">Uman Khalid</author><author pid="129/9743">Trung Q. Duong</author><author pid="14/1458">Hyundong Shin</author><author pid="21/4583">Moe Z. Win</author></authors><title>Quantum Full-Duplex Communication.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>9</number><pages>2966-2980</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZamanKDSW23</key><doi>10.1109/JSAC.2023.3287611</doi><ee>https://doi.org/10.1109/JSAC.2023.3287611</ee><url>https://dblp.org/rec/journals/jsac/ZamanKDSW23</url></info>
+<url>URL#66810</url>
+</hit>
+<hit score="1" id="66811">
+<info><authors><author pid="289/6609">Fakhar Zaman</author><author pid="322/4434">Saw Nang Paing</author><author pid="78/9066">Ahmad Farooq</author><author pid="14/1458">Hyundong Shin</author><author pid="21/4583">Moe Z. Win</author></authors><title>Concealed Quantum Telecomputation for Anonymous 6G URLLC Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2278-2296</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZamanPFSW23</key><doi>10.1109/JSAC.2023.3280989</doi><ee>https://doi.org/10.1109/JSAC.2023.3280989</ee><url>https://dblp.org/rec/journals/jsac/ZamanPFSW23</url></info>
+<url>URL#66811</url>
+</hit>
+<hit score="1" id="66812">
+<info><authors><author pid="241/6945">Liekang Zeng</author><author pid="332/1246">Chongyu Yang</author><author pid="29/1726">Peng Huang</author><author pid="04/2090-6">Zhi Zhou 0006</author><author pid="120/8707">Shuai Yu</author><author pid="83/6331-4">Xu Chen 0004</author></authors><title>GNN at the Edge: Cost-Efficient Graph Neural Network Processing Over Distributed Edge Servers.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>720-739</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZengYHZYC23</key><doi>10.1109/JSAC.2022.3229422</doi><ee>https://doi.org/10.1109/JSAC.2022.3229422</ee><url>https://dblp.org/rec/journals/jsac/ZengYHZYC23</url></info>
+<url>URL#66812</url>
+</hit>
+<hit score="1" id="66813">
+<info><authors><author pid="60/2536">Rui Zhang</author><author pid="248/5235">Xuesen Chu</author><author pid="01/5518">Ruhui Ma</author><author pid="04/6901">Meng Zhang</author><author pid="57/6517">Liwei Lin</author><author pid="85/9062">Honghao Gao</author><author pid="96/5680">Haibing Guan</author></authors><title>OSTTD: Offloading of Splittable Tasks With Topological Dependence in Multi-Tier Computing Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>555-568</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangCMZLGG23</key><doi>10.1109/JSAC.2022.3227023</doi><ee>https://doi.org/10.1109/JSAC.2022.3227023</ee><url>https://dblp.org/rec/journals/jsac/ZhangCMZLGG23</url></info>
+<url>URL#66813</url>
+</hit>
+<hit score="1" id="66814">
+<info><authors><author pid="43/6524-7">Zijian Zhang 0007</author><author pid="50/7910">Linglong Dai</author></authors><title>Pattern-Division Multiplexing for Multi-User Continuous-Aperture MIMO.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2350-2366</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangD23</key><doi>10.1109/JSAC.2023.3288244</doi><ee>https://doi.org/10.1109/JSAC.2023.3288244</ee><url>https://dblp.org/rec/journals/jsac/ZhangD23</url></info>
+<url>URL#66814</url>
+</hit>
+<hit score="1" id="66815">
+<info><authors><author pid="70/2140-1">Haijun Zhang 0001</author><author pid="338/7368">Lizhe Feng</author><author pid="96/8493">Xiangnan Liu</author><author pid="53/6133">Keping Long</author><author pid="13/5195">George K. Karagiannidis</author></authors><title>User Scheduling and Task Offloading in Multi-Tier Computing 6G Vehicular Network.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>446-456</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangFLLK23</key><doi>10.1109/JSAC.2022.3227097</doi><ee>https://doi.org/10.1109/JSAC.2022.3227097</ee><url>https://dblp.org/rec/journals/jsac/ZhangFLLK23</url></info>
+<url>URL#66815</url>
+</hit>
+<hit score="1" id="66816">
+<info><authors><author pid="27/5935">Hongwei Zhang</author><author pid="154/6303">Shuo Shao</author><author pid="85/4712">Meixia Tao</author><author pid="97/8605">Xiaoyan Bi</author><author pid="95/5358">Khaled B. Letaief</author></authors><title>Deep Learning-Enabled Semantic Communication Systems With Task-Unaware Transmitter and Dynamic Data.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>170-185</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangSTBL23</key><doi>10.1109/JSAC.2022.3221991</doi><ee>https://doi.org/10.1109/JSAC.2022.3221991</ee><url>https://dblp.org/rec/journals/jsac/ZhangSTBL23</url></info>
+<url>URL#66816</url>
+</hit>
+<hit score="1" id="66817">
+<info><authors><author pid="227/6598">Ruichen Zhang</author><author pid="32/3424">Ke Xiong 0001</author><author pid="16/6317-8">Yang Lu 0008</author><author pid="44/2936">Pingyi Fan</author><author pid="42/8146">Derrick Wing Kwan Ng</author><author pid="95/5358">Khaled B. Letaief</author></authors><title>Energy Efficiency Maximization in RIS-Assisted SWIPT Networks With RSMA: A PPO-Based Approach.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1413-1430</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangXLFNL23</key><doi>10.1109/JSAC.2023.3240707</doi><ee>https://doi.org/10.1109/JSAC.2023.3240707</ee><url>https://dblp.org/rec/journals/jsac/ZhangXLFNL23</url></info>
+<url>URL#66817</url>
+</hit>
+<hit score="1" id="66818">
+<info><authors><author pid="174/3198">Ziyang Zhang</author><author pid="17/1464-1">Xiaohu You 0001</author><author pid="66/5973-2">Dongming Wang 0002</author><author pid="210/6141">Xinjiang Xia</author><author pid="37/5521-1">Pengcheng Zhu 0001</author><author pid="43/1673">Yanxiang Jiang</author><author pid="115/6838">Chulong Liang</author><author pid="80/3885">Jiangzhou Wang</author></authors><title>Performance of Multidevice Downlink Cell-Free System Under Finite Blocklength for uRLLC With Hard Deadlines.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2090-2106</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangYWXZJLW23</key><doi>10.1109/JSAC.2023.3280962</doi><ee>https://doi.org/10.1109/JSAC.2023.3280962</ee><url>https://dblp.org/rec/journals/jsac/ZhangYWXZJLW23</url></info>
+<url>URL#66818</url>
+</hit>
+<hit score="1" id="66819">
+<info><authors><author pid="327/7550">Yunpu Zhang</author><author pid="166/1468">Changsheng You</author><author pid="141/9654">Beixiong Zheng</author></authors><title>Multi-Active Multi-Passive (MAMP)-IRS Aided Wireless Communication: A Multi-Hop Beam Routing Design.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2497-2513</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangYZ23</key><doi>10.1109/JSAC.2023.3288233</doi><ee>https://doi.org/10.1109/JSAC.2023.3288233</ee><url>https://dblp.org/rec/journals/jsac/ZhangYZ23</url></info>
+<url>URL#66819</url>
+</hit>
+<hit score="1" id="66820">
+<info><authors><author pid="337/4838">Zhanhua Zhang</author><author pid="61/3032">Shusen Yang</author><author pid="25/5509-1">Cong Zhao 0001</author><author pid="136/3467">Xuebin Ren</author><author pid="264/5628">Hanqiao Yu</author><author pid="76/4122">Qing Han</author><author pid="325/5628">Siyan Guo</author></authors><title>RTCoInfer: Real-Time Collaborative CNN Inference for Stream Analytics on Ubiquitous Images.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1212-1226</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangYZRYHG23</key><doi>10.1109/JSAC.2023.3242730</doi><ee>https://doi.org/10.1109/JSAC.2023.3242730</ee><url>https://dblp.org/rec/journals/jsac/ZhangYZRYHG23</url></info>
+<url>URL#66820</url>
+</hit>
+<hit score="1" id="66821">
+<info><authors><author pid="47/3459">Shengyu Zhang</author><author pid="174/1618">Shiyao Zhang</author><author pid="157/8946">Weijie Yuan</author><author pid="59/6828-1">Yonghui Li 0001</author><author pid="92/5955">Lajos Hanzo</author></authors><title>Efficient Rate-Splitting Multiple Access for the Internet of Vehicles: Federated Edge Learning and Latency Minimization.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1468-1483</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhangZYLH23</key><doi>10.1109/JSAC.2023.3240716</doi><ee>https://doi.org/10.1109/JSAC.2023.3240716</ee><url>https://dblp.org/rec/journals/jsac/ZhangZYLH23</url></info>
+<url>URL#66821</url>
+</hit>
+<hit score="1" id="66822">
+<info><authors><author pid="304/8566">Zixiao Zhao</author><author pid="05/1627">Qinghe Du</author><author pid="13/5195">George K. Karagiannidis</author></authors><title>Improved Grant-Free Access for URLLC via Multi-Tier-Driven Computing: Network-Load Learning, Prediction, and Resource Allocation.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>3</number><pages>607-622</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhaoDK23</key><doi>10.1109/JSAC.2023.3234696</doi><ee>https://doi.org/10.1109/JSAC.2023.3234696</ee><url>https://dblp.org/rec/journals/jsac/ZhaoDK23</url></info>
+<url>URL#66822</url>
+</hit>
+<hit score="1" id="66823">
+<info><authors><author pid="275/2236">Bai Zhao</author><author pid="73/1685-1">Min Lin 0001</author><author pid="82/104-3">Ming Cheng 0003</author><author pid="94/7080">Jun-Bo Wang</author><author pid="11/1709">Julian Cheng</author><author pid="64/6304">Mohamed-Slim Alouini</author></authors><title>Robust Downlink Transmission Design in IRS-Assisted Cognitive Satellite and Terrestrial Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>8</number><pages>2514-2529</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhaoLCWCA23</key><doi>10.1109/JSAC.2023.3288234</doi><ee>https://doi.org/10.1109/JSAC.2023.3288234</ee><url>https://dblp.org/rec/journals/jsac/ZhaoLCWCA23</url></info>
+<url>URL#66823</url>
+</hit>
+<hit score="1" id="66824">
+<info><authors><author pid="244/8932">Jiakang Zheng</author><author pid="23/8208-1">Jiayi Zhang 0001</author><author pid="11/1709">Julian Cheng</author><author pid="36/4847">Victor C. M. Leung</author><author pid="42/8146">Derrick Wing Kwan Ng</author><author pid="85/6463-1">Bo Ai 0001</author></authors><title>Asynchronous Cell-Free Massive MIMO With Rate-Splitting.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>5</number><pages>1366-1382</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhengZCLNA23</key><doi>10.1109/JSAC.2023.3240709</doi><ee>https://doi.org/10.1109/JSAC.2023.3240709</ee><url>https://dblp.org/rec/journals/jsac/ZhengZCLNA23</url></info>
+<url>URL#66824</url>
+</hit>
+<hit score="1" id="66825">
+<info><authors><author pid="41/10471">Ruiting Zhou</author><author pid="74/309">Xueying Zhang</author><author pid="l/JohnCSLui">John C. S. Lui</author><author pid="24/1320">Zongpeng Li</author></authors><title>Dynamic Pricing and Placing for Distributed Machine Learning Jobs: An Online Learning Approach.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>4</number><pages>1135-1150</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhouZLL23</key><doi>10.1109/JSAC.2023.3242707</doi><ee>https://doi.org/10.1109/JSAC.2023.3242707</ee><url>https://dblp.org/rec/journals/jsac/ZhouZLL23</url></info>
+<url>URL#66825</url>
+</hit>
+<hit score="1" id="66826">
+<info><authors><author pid="141/1940-1">Xiangming Zhu 0001</author><author pid="00/8334">Chunxiao Jiang</author></authors><title>Delay Optimization for Cooperative Multi-Tier Computing in Integrated Satellite-Terrestrial Networks.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>2</number><pages>366-380</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhuJ23</key><doi>10.1109/JSAC.2022.3227083</doi><ee>https://doi.org/10.1109/JSAC.2022.3227083</ee><url>https://dblp.org/rec/journals/jsac/ZhuJ23</url></info>
+<url>URL#66826</url>
+</hit>
+<hit score="1" id="66827">
+<info><authors><author pid="79/4629-1">Yao Zhu 0001</author><author pid="133/5791">Xiaopeng Yuan</author><author pid="09/10100">Yulin Hu</author><author pid="90/5247">Rafael F. Schaefer</author><author pid="77/4444">Anke Schmeink</author></authors><title>Trade Reliability for Security: Leakage-Failure Probability Minimization for Machine-Type Communications in URLLC.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>7</number><pages>2123-2137</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZhuYHSS23</key><doi>10.1109/JSAC.2023.3280960</doi><ee>https://doi.org/10.1109/JSAC.2023.3280960</ee><url>https://dblp.org/rec/journals/jsac/ZhuYHSS23</url></info>
+<url>URL#66827</url>
+</hit>
+<hit score="1" id="66828">
+<info><authors><author pid="207/3362">Hang Zou</author><author pid="94/3019-5">Chao Zhang 0005</author><author pid="50/3734">Samson Lasaulce</author><author pid="235/1563">Lucas Saludjian</author><author pid="p/HVincentPoor">H. Vincent Poor</author></authors><title>Goal-Oriented Quantization: Analysis, Design, and Application to Resource Allocation.</title><venue>IEEE J. Sel. Areas Commun.</venue><volume>41</volume><number>1</number><pages>42-54</pages><year>2023</year><type>Journal Articles</type><access>closed</access><key>journals/jsac/ZouZLSP23</key><doi>10.1109/JSAC.2022.3221976</doi><ee>https://doi.org/10.1109/JSAC.2022.3221976</ee><url>https://dblp.org/rec/journals/jsac/ZouZLSP23</url></info>
+<url>URL#66828</url>
+</hit>
+</hits>
+</result>

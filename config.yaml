@@ -1,0 +1,35 @@
+basic_config:
+  data_yaml: ./publication.yaml
+  root_path: ./data/
+  file_format: xml
+  search_prefix: https://dblp.uni-trier.de/search/publ/api?q=toc%3Adb/
+  
+output_config:
+  output_format: markdown
+  output_path: ./output/
+  # author_num: 1
+  conf:
+    - title
+    - type
+    - author
+    - venue
+    - year
+    - ee
+    - doi
+    - url
+    # - key
+    # - pages
+  journals:
+    - title
+    - type
+    - author
+    - venue
+    - year
+    - volume
+    - pages
+    - ee
+    - doi
+    - url
+    # - key
+    # - pages
+
