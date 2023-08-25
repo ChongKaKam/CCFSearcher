@@ -407,7 +407,11 @@ B02002:
   Name: Computer Networks
   Publisher: Elsevier
   Type: journals
-  
+  Amount: 18
+  Number: 130
+  Year: 2018
+  Path: cn/cn
+  URL: http://dblp.uni-trier.de/db/journals/cn/
 B02003:
   Acronym: TCOM
   Domian: 计算机网络
@@ -415,6 +419,11 @@ B02003:
   Name: IEEE Transactions on Communications
   Publisher: IEEE
   Type: journals
+  Amount: 1
+  Number: 66
+  Year: 2018
+  Path: tcom/tcom
+  URL: http://dblp.uni-trier.de/db/journals/tcom/
 B02004:
   Acronym: TWC
   Domian: 计算机网络
@@ -422,6 +431,11 @@ B02004:
   Name: IEEE Transactions on Wireless Communications
   Publisher: IEEE
   Type: journals
+  Amount: 1
+  Number: 17
+  Year: 2018
+  Path: twc/twc
+  URL: http://dblp.uni-trier.de/db/journals/twc/
 # B030:
 B03000:
   Acronym: TOPS
@@ -433,17 +447,34 @@ B03000:
   Amount: 1
   Number: 21
   Year: 2018
+  Path: tissec/tissec
+  URL: https://dblp.org/db/journals/tissec/index.html
+
 B03001:
   Acronym: null
   Domian: 网络与信息安全
   Level: CCF-B
-  Name: Computers & Security 2018-2020
+  Name: Computers & Security 2013-2019
   Publisher: Elsevier
   Type: journals
   Amount: 8
   Number: 72
   Year: 2018
+  Path: compsec/compsec
+  URL: http://dblp.uni-trier.de/db/journals/compsec/
 B03002:
+  Acronym: null
+  Domian: 网络与信息安全
+  Level: CCF-B
+  Name: Computers & Security 2020-20xx
+  Publisher: Elsevier
+  Type: journals
+  Amount: 12
+  Number: 88
+  Year: 2020
+  Path: compsec/compsec
+  URL: http://dblp.uni-trier.de/db/journals/compsec/ 
+B03003:
   Acronym: null
   Domian: 网络与信息安全
   Level: CCF-B
@@ -452,7 +483,9 @@ B03002:
   Amount: 1
   Number: 86
   Year: 2018
-B03003:
+  Path: dcc/dcc
+  URL: http://dblp.uni-trier.de/db/journals/dcc/
+B03004:
   Type: journals
   Acronym: JCS
   Domian: 网络与信息安全
@@ -463,6 +496,8 @@ B03003:
   Amount: 1
   Number: 26
   Year: 2018
+  Path: jcs/jcs
+  URL: http://dblp.uni-trier.de/db/journals/jcs/
 # B050:
 B05000:
   Acronym: TKDD
@@ -474,6 +509,8 @@ B05000:
   Amount: 1
   Number: 12
   Year: 2018
+  Path: tkdd/tkdd
+  URL: http://dblp.uni-trier.de/db/journals/tkdd/
 B05001:
   Acronym: TWEB
   Domian: 数据库/数据挖掘/内容检索
@@ -484,6 +521,8 @@ B05001:
   Amount: 1
   Number: 12
   Year: 2018
+  Path: tweb/tweb
+  URL: http://dblp.uni-trier.de/db/journals/tweb/
 B05002:
   Acronym: AEI
   Domian: 数据库/数据挖掘/内容检索
@@ -494,6 +533,8 @@ B05002:
   Amount: 4
   Number: 35
   Year: 2018
+  Path: aei/aei
+  URL: http://dblp.uni-trier.de/db/journals/aei/
 B05003:
   Acronym: DKE
   Domian: 数据库/数据挖掘/内容检索
@@ -504,6 +545,8 @@ B05003:
   Amount: 5
   Number: 113
   Year: 2018
+  Path: dke/dke
+  URL: http://dblp.uni-trier.de/db/journals/dke/
 B05004:
   Acronym: DMKD
   Domian: 数据库/数据挖掘/内容检索
@@ -514,6 +557,8 @@ B05004:
   Amount: 1
   Number: 32
   Year: 2018
+  Path: datamine/datamine
+  URL: http://dblp.uni-trier.de/db/journals/datamine/
 B05005:
   Acronym: EJIS
   Domian: 数据库/数据挖掘/内容检索
@@ -524,6 +569,8 @@ B05005:
   Amount: 1
   Number: 27
   Year: 2018
+  Path: ejis/ejis
+  URL: http://dblp.uni-trier.de/db/journals/ejis/
 
 # A+领域+会议
 # A011:
@@ -937,6 +984,8 @@ B02100:
   Name: ACM Conference on Embedded Networked Sensor Systems
   Publisher: ACM
   Type: conf
+  Path: sensys
+  URL: http://dblp.uni-trier.de/db/conf/sensys/
 B02101:
   Acronym: CoNEXT
   Domian: 计算机网络
@@ -944,6 +993,8 @@ B02101:
   Name: ACM International Conference on Emerging Networking Experiments and Technologies
   Publisher: ACM
   Type: conf
+  Path: conext/conext
+  URL: http://dblp.uni-trier.de/db/conf/conext/
 B02102:
   Acronym: SECON
   Domian: 计算机网络
@@ -951,6 +1002,8 @@ B02102:
   Name: IEEE International Conference on Sensing, Communication, and Networking
   Publisher: IEEE
   Type: conf
+  Path: secon/secon
+  URL: http://dblp.uni-trier.de/db/conf/secon/
 B02103:
   Acronym: IPSN
   Domian: 计算机网络
@@ -958,6 +1011,8 @@ B02103:
   Name: International Conference on Information Processing in Sensor Networks
   Publisher: ACM, IEEE
   Type: conf
+  Path: ipsn/ipsn
+  URL: http://dblp.uni-trier.de/db/conf/ipsn/
 B02104:
   Acronym: MobiSys
   Domian: 计算机网络
@@ -965,6 +1020,8 @@ B02104:
   Name: ACM International Conference on Mobile Systems, Applications, and Services
   Publisher: ACM
   Type: conf
+  Path: mobisys
+  URL: http://dblp.uni-trier.de/db/conf/mobisys/
 B02105:
   Acronym: ICNP
   Domian: 计算机网络
@@ -972,6 +1029,8 @@ B02105:
   Name: IEEE International Conference on Network Protocols
   Publisher: IEEE
   Type: conf
+  Path: icnp/icnp
+  URL: http://dblp.uni-trier.de/db/conf/icnp/
 B02106:
   Acronym: MobiHoc
   Domian: 计算机网络
@@ -979,6 +1038,8 @@ B02106:
   Name: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
   Publisher: ACM, IEEE
   Type: conf
+  Path: mobihoc/mobihoc
+  URL: http://dblp.uni-trier.de/db/conf/mobihoc/
 B02107:
   Acronym: NOSSDAV
   Domian: 计算机网络
@@ -986,6 +1047,8 @@ B02107:
   Name: International Workshop on Network and Operating System Support for Digital Audio and Video
   Publisher: ACM
   Type: conf
+  Path: nossdav/nossdav
+  URL: http://dblp.uni-trier.de/db/conf/nossdav/
 B02108:
   Acronym: IWQoS
   Domian: 计算机网络
@@ -993,6 +1056,8 @@ B02108:
   Name: IEEE/ACM International Workshop on Quality of Service
   Publisher: IEEE
   Type: conf
+  Path: iwqos/iwqos
+  URL: http://dblp.uni-trier.de/db/conf/iwqos/
 B02109:
   Acronym: IMC
   Domian: 计算机网络
@@ -1000,6 +1065,8 @@ B02109:
   Name: ACM Internet Measurement Conference
   Publisher: ACM, USENIX
   Type: conf
+  Path: imc/imc
+  URL: http://dblp.uni-trier.de/db/conf/imc/
 # B031:
 B03100:
   Acronym: CCS
@@ -1008,6 +1075,8 @@ B03100:
   Name: ACM Conference on Computer and Communications Security
   Publisher: ACM
   Type: conf
+  Path: ccs/ccs
+  URL: http://dblp.uni-trier.de/db/conf/ccs/
 B03101:
   Acronym: EUROCRYPT
   Domian: 网络与信息安全
@@ -1015,6 +1084,8 @@ B03101:
   Name: International Conference on the Theory and Applications of Cryptographic Techniques
   Publisher: Springer
   Type: conf
+  Path: eurocrypt/eurocrypt
+  URL: http://dblp.uni-trier.de/db/conf/eurocrypt/
 B03102:
   Acronym: S&P
   Domian: 网络与信息安全
@@ -1022,6 +1093,8 @@ B03102:
   Name: IEEE Symposium on Security and Privacy
   Publisher: IEEE
   Type: conf
+  Path: sp/sp
+  URL: http://dblp.uni-trier.de/db/conf/sp/
 B03103:
   Acronym: CRYPTO
   Domian: 网络与信息安全
@@ -1029,6 +1102,8 @@ B03103:
   Name: International Cryptology Conference
   Publisher: Springer
   Type: conf
+  Path: crypto/crypto
+  URL: http://dblp.uni-trier.de/db/conf/crypto/
 B03104:
   Acronym: USENIX Security
   Domian: 网络与信息安全
@@ -1036,6 +1111,8 @@ B03104:
   Name: USENIX Security Symposium
   Publisher: USENIX Association
   Type: conf
+  Path: uss/uss
+  URL: http://dblp.uni-trier.de/db/conf/uss/
 B03105:
   Acronym: NDSS
   Domian: 网络与信息安全
@@ -1043,3 +1120,5 @@ B03105:
   Name: Network and Distributed System Security Symposium
   Publisher: ISOC
   Type: conf
+  Path: ndss/ndss
+  URL: http://dblp.uni-trier.de/db/conf/ndss/
