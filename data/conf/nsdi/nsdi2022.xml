@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239120">:facetid:toc:\"db/conf/nsdi/nsdi2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">188.96</time>
+<completions total="1" computed="1" sent="1">
+<c sc="79" dc="79" oc="79" id="41045496">:facetid:toc:db/conf/nsdi/nsdi2022.bht</c>
+</completions>
+<hits total="79" computed="79" sent="79" first="0">
+<hit score="1" id="603841">
+<info><authors><author pid="16/1537-2">Jingrong Chen 0002</author><author pid="24/6914-25">Hong Zhang 0025</author><author pid="10/4661">Wei Zhang</author><author pid="34/5417">Liang Luo</author><author pid="c/JSChase">Jeffrey S. Chase</author><author pid="s/IonStoica">Ion Stoica</author><author pid="151/7537">Danyang Zhuo</author></authors><title>NetHint: White-Box Networking for Multi-Tenant Data Centers.</title><venue>NSDI</venue><pages>1327-1343</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/0002ZZLCSZ22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/chen-jingrong</ee><url>https://dblp.org/rec/conf/nsdi/0002ZZLCSZ22</url></info>
+<url>URL#603841</url>
+</hit>
+<hit score="1" id="603842">
+<info><authors><author pid="07/4580-8">Yang Zhou 0008</author><author pid="13/6769">Ying Zhang</author><author pid="89/6345">Minlan Yu</author><author pid="53/35">Guangyu Wang</author><author pid="323/7604">Dexter Cao</author><author pid="23/6060">Yu-Wei Eric Sung</author><author pid="27/3435">Starsky H. Y. Wong</author></authors><title>Evolvable Network Telemetry at Facebook.</title><venue>NSDI</venue><pages>961-975</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/0008ZYWCSW22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zhou</ee><url>https://dblp.org/rec/conf/nsdi/0008ZYWCSW22</url></info>
+<url>URL#603842</url>
+</hit>
+<hit score="1" id="603843">
+<info><authors><author pid="21/1048-11">Peng Zhang 0011</author><author pid="07/9556">Aaron Gember-Jacobson</author><author pid="323/8012">Yueshang Zuo</author><author pid="219/6363">Yuhao Huang</author><author pid="93/3167-13">Xu Liu 0013</author><author pid="17/5705-11">Hao Li 0011</author></authors><title>Differential Network Analysis.</title><venue>NSDI</venue><pages>601-615</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/0011GZH0022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zhang-peng</ee><url>https://dblp.org/rec/conf/nsdi/0011GZH0022</url></info>
+<url>URL#603843</url>
+</hit>
+<hit score="1" id="603844">
+<info><authors><author pid="224/2167">Vamsi Addanki</author><author pid="12/8224">Oliver Michel</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>PowerTCP: Pushing the Performance Limits of Datacenter Networks.</title><venue>NSDI</venue><pages>51-70</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/AddankiM022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/addanki</ee><url>https://dblp.org/rec/conf/nsdi/AddankiM022</url></info>
+<url>URL#603844</url>
+</hit>
+<hit score="1" id="603845">
+<info><authors><author pid="85/8867">Anup Agarwal</author><author pid="166/6255">Zaoxing Liu</author><author pid="s/SrinivasanSeshan">Srinivasan Seshan</author></authors><title>HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks.</title><venue>NSDI</venue><pages>719-741</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/AgarwalLS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/agarwal</ee><url>https://dblp.org/rec/conf/nsdi/AgarwalLS22</url></info>
+<url>URL#603845</url>
+</hit>
+<hit score="1" id="603846">
+<info><authors><author pid="323/7824">Manikandan Arumugam</author><author pid="69/2945">Deepak Bansal</author><author pid="323/8494">Navdeep Bhatia</author><author pid="323/8327">James Boerner</author><author pid="323/7253">Simon Capper</author><author pid="55/4381">Changhoon Kim</author><author pid="294/1700">Sarah McClure</author><author pid="323/7386">Neeraj Motwani</author><author pid="323/7559">Ranga Narasimhan</author><author pid="323/7630">Urvish Panchal</author><author pid="323/7382">Tommaso Pimpo</author><author pid="210/4096">Ariff Premji</author><author pid="323/7902">Pranjal Shrivastava</author><author pid="229/1144">Rishabh Tewari</author></authors><title>Bluebird: High-performance SDN for Bare-metal Cloud Services.</title><venue>NSDI</venue><pages>355-370</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ArumugamBBBCKMM22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/arumugam</ee><url>https://dblp.org/rec/conf/nsdi/ArumugamBBBCKMM22</url></info>
+<url>URL#603846</url>
+</hit>
+<hit score="1" id="603847">
+<info><authors><author pid="161/6041">Ryan Beckett</author><author pid="18/2229">Aarti Gupta</author></authors><title>Katra: Realtime Verification for Multilayer Networks.</title><venue>NSDI</venue><pages>617-634</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/BeckettG22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/beckett</ee><url>https://dblp.org/rec/conf/nsdi/BeckettG22</url></info>
+<url>URL#603847</url>
+</hit>
+<hit score="1" id="603848">
+<info><authors><author pid="157/7605">Romil Bhardwaj</author><author pid="229/1943">Zhengxu Xia</author><author pid="08/5351">Ganesh Ananthanarayanan</author><author pid="49/8398">Junchen Jiang</author><author pid="64/10521">Yuanchao Shu</author><author pid="155/9974">Nikolaos Karianakis</author><author pid="173/8396">Kevin Hsieh</author><author pid="b/ParamvirBahl">Paramvir Bahl</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Ekya: Continuous Learning of Video Analytics Models on Edge Compute Servers.</title><venue>NSDI</venue><pages>119-135</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/BhardwajXAJSKHB22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/bhardwaj</ee><url>https://dblp.org/rec/conf/nsdi/BhardwajXAJSKHB22</url></info>
+<url>URL#603848</url>
+</hit>
+<hit score="1" id="603849">
+<info><authors><author pid="203/1819">Debopam Bhattacherjee</author><author pid="227/3452">Waqar Aqeel</author><author pid="142/2461">Sangeetha Abdu Jyothi</author><author pid="74/7075">Ilker Nadi Bozkurt</author><author pid="207/7895">William Sentosa</author><author pid="203/1626">Muhammad Tirmazi</author><author pid="196/6503">Anthony Aguirre</author><author pid="c/BChandrasekaran2">Balakrishnan Chandrasekaran 0002</author><author pid="g/BrightenGodfrey">Philip Brighten Godfrey</author><author pid="196/6501">Gregory Laughlin</author><author pid="m/BruceMMaggs">Bruce M. Maggs</author><author pid="78/8146">Ankit Singla</author></authors><title>cISP: A Speed-of-Light Internet Service Provider.</title><venue>NSDI</venue><pages>1115-1133</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/BhattacherjeeAJ22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/bhattacherjee</ee><url>https://dblp.org/rec/conf/nsdi/BhattacherjeeAJ22</url></info>
+<url>URL#603849</url>
+</hit>
+<hit score="1" id="603850">
+<info><authors><author pid="19/5261">Yérom-David Bromberg</author><author pid="243/3466">Quentin Dufour</author><author pid="89/2770">Davide Frey</author><author pid="01/6018">Etienne Rivière</author></authors><title>Donar: Anonymous VoIP over Tor.</title><venue>NSDI</venue><pages>249-265</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/BrombergDFR22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/bromberg</ee><url>https://dblp.org/rec/conf/nsdi/BrombergDFR22</url></info>
+<url>URL#603850</url>
+</hit>
+<hit score="1" id="603851">
+<info><authors><author pid="169/8809">Frank Cangialosi</author><author pid="232/0904">Neil Agarwal</author><author pid="204/3448">Venkat Arun</author><author pid="03/1245">Srinivas Narayana</author><author pid="32/4477">Anand D. Sarwate</author><author pid="123/3350-1">Ravi Netravali</author></authors><title>Privid: Practical, Privacy-Preserving Video Analytics Queries.</title><venue>NSDI</venue><pages>209-228</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/CangialosiAANSN22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/cangialosi</ee><url>https://dblp.org/rec/conf/nsdi/CangialosiAANSN22</url></info>
+<url>URL#603851</url>
+</hit>
+<hit score="1" id="603852">
+<info><authors><author pid="183/1409">Tusher Chakraborty</author><author pid="121/1040">Heping Shi</author><author pid="163/5008">Zerina Kapetanovic</author><author pid="74/4695">Bodhi Priyantha</author><author pid="149/9280">Deepak Vasisht</author><author pid="203/2172">Binh Vu</author><author pid="323/8493">Parag Pandit</author><author pid="323/7814">Prasad Pillai</author><author pid="323/7881">Yaswant Chabria</author><author pid="46/6957">Andrew Nelson</author><author pid="51/2802">Michael Daum</author><author pid="99/2097">Ranveer Chandra</author></authors><title>Whisper: IoT in the TV White Space Spectrum.</title><venue>NSDI</venue><pages>401-418</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ChakrabortySKPV22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/chakraborty</ee><url>https://dblp.org/rec/conf/nsdi/ChakrabortySKPV22</url></info>
+<url>URL#603852</url>
+</hit>
+<hit score="1" id="603853">
+<info><authors><author pid="286/5267">Jun Lin Chen</author><author pid="177/8583">Daniyal Liaqat</author><author pid="117/8009">Moshe Gabel</author><author pid="59/2063">Eyal de Lara</author></authors><title>Starlight: Fast Container Provisioning on the Edge and over the WAN.</title><venue>NSDI</venue><pages>35-50</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ChenLGL22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/chen-jun-lin</ee><url>https://dblp.org/rec/conf/nsdi/ChenLGL22</url></info>
+<url>URL#603853</url>
+</hit>
+<hit score="1" id="603854">
+<info><authors><author pid="154/8616">Mallesham Dasari</author><author pid="227/5409">Kumara Kahatapitiya</author><author pid="90/4174">Samir R. Das</author><author pid="35/1211">Aruna Balasubramanian</author><author pid="s/DimitrisSamaras">Dimitris Samaras</author></authors><title>Swift: Adaptive Video Streaming with Layered Neural Codecs.</title><venue>NSDI</venue><pages>103-118</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/DasariKDBS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/dasari</ee><url>https://dblp.org/rec/conf/nsdi/DasariKDBS22</url></info>
+<url>URL#603854</url>
+</hit>
+<hit score="1" id="603855">
+<info><authors><author pid="137/0579">Khaled M. Diab</author><author pid="h/MohamedHefeeda">Mohamed Hefeeda</author></authors><title>Yeti: Stateless and Generalized Multicast Forwarding.</title><venue>NSDI</venue><pages>1093-1114</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/DiabH22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/diab-yeti</ee><url>https://dblp.org/rec/conf/nsdi/DiabH22</url></info>
+<url>URL#603855</url>
+</hit>
+<hit score="1" id="603856">
+<info><authors><author pid="137/0579">Khaled M. Diab</author><author pid="323/8202">Parham Yassini</author><author pid="h/MohamedHefeeda">Mohamed Hefeeda</author></authors><title>Orca: Server-assisted Multicast for Datacenter Networks.</title><venue>NSDI</venue><pages>1075-1091</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/DiabYH22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/diab-orca</ee><url>https://dblp.org/rec/conf/nsdi/DiabYH22</url></info>
+<url>URL#603856</url>
+</hit>
+<hit score="1" id="603857">
+<info><authors><author pid="164/7953">Assaf Eisenman</author><author pid="28/9586">Kiran Kumar Matam</author><author pid="276/6934">Steven Ingram</author><author pid="87/8721">Dheevatsa Mudigere</author><author pid="125/0945">Raghuraman Krishnamoorthi</author><author pid="126/3171">Krishnakumar Nair</author><author pid="22/4090">Misha Smelyanskiy</author><author pid="02/5812">Murali Annavaram</author></authors><title>Check-N-Run: a Checkpointing System for Training Deep Learning Recommendation Models.</title><venue>NSDI</venue><pages>929-943</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/EisenmanMIMKNSA22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/eisenman</ee><url>https://dblp.org/rec/conf/nsdi/EisenmanMIMKNSA22</url></info>
+<url>URL#603857</url>
+</hit>
+<hit score="1" id="603858">
+<info><authors><author pid="64/4429">Yong Feng</author><author pid="271/5802">Zhikang Chen</author><author pid="55/5450-1">Haoyu Song 0001</author><author pid="64/3114">Wenquan Xu</author><author pid="150/5524">Jiahao Li</author><author pid="43/6524">Zijian Zhang</author><author pid="252/6763">Tong Yun</author><author pid="93/3987">Ying Wan</author><author pid="35/837-1">Bin Liu 0001</author></authors><title>Enabling In-situ Programmability in Network Data Plane: From Architecture to Language.</title><venue>NSDI</venue><pages>635-649</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/FengC0XLZYW022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/feng</ee><url>https://dblp.org/rec/conf/nsdi/FengC0XLZYW022</url></info>
+<url>URL#603858</url>
+</hit>
+<hit score="1" id="603859">
+<info><authors><author pid="288/0124">Peixuan Gao</author><author pid="323/8112">Anthony Dalleggio</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="48/1215">H. Jonathan Chao</author></authors><title>Gearbox: A Hierarchical Packet Scheduler for Approximate Weighted Fair Queuing.</title><venue>NSDI</venue><pages>551-565</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GaoD0C22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/gao-peixuan</ee><url>https://dblp.org/rec/conf/nsdi/GaoD0C22</url></info>
+<url>URL#603859</url>
+</hit>
+<hit score="1" id="603860">
+<info><authors><author pid="249/7745">Kaihui Gao</author><author pid="01/6072">Chen Sun</author><author pid="42/1503-28">Shuai Wang 0028</author><author pid="48/4185-1">Dan Li 0001</author><author pid="36/2728">Yu Zhou</author><author pid="117/4311">Hongqiang Harry Liu</author><author pid="129/1811">Lingjun Zhu</author><author pid="73/1844-5">Ming Zhang 0005</author></authors><title>Buffer-based End-to-end Request Event Monitoring in the Cloud.</title><venue>NSDI</venue><pages>829-843</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GaoS00ZLZ022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/gao-kaihui</ee><url>https://dblp.org/rec/conf/nsdi/GaoS00ZLZ022</url></info>
+<url>URL#603860</url>
+</hit>
+<hit score="1" id="603861">
+<info><authors><author pid="194/5827">Kai Geissdoerfer</author><author pid="41/2357">Marco Zimmerling</author></authors><title>Learning to Communicate Effectively Between Battery-free Devices.</title><venue>NSDI</venue><pages>419-435</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GeissdoerferZ22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/geissdoerfer</ee><url>https://dblp.org/rec/conf/nsdi/GeissdoerferZ22</url></info>
+<url>URL#603861</url>
+</hit>
+<hit score="1" id="603862">
+<info><authors><author pid="267/4163">Hamid Ghasemirahni</author><author pid="162/5287">Tom Barbette</author><author pid="93/9926">Georgios P. Katsikas</author><author pid="201/0743">Alireza Farshin</author><author pid="145/0803">Amir Roozbeh</author><author pid="297/4470">Massimo Girondi</author><author pid="78/9826">Marco Chiesa</author><author pid="m/GQMaguireJr">Gerald Q. Maguire Jr.</author><author pid="03/3188">Dejan Kostic</author></authors><title>Packet Order Matters! Improving Application Performance by Deliberately Delaying Packets.</title><venue>NSDI</venue><pages>807-827</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GhasemirahniBKF22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/ghasemirahni</ee><url>https://dblp.org/rec/conf/nsdi/GhasemirahniBKF22</url></info>
+<url>URL#603862</url>
+</hit>
+<hit score="1" id="603863">
+<info><authors><author pid="73/17">Dan Gibson</author><author pid="283/7696">Hema Hariharan</author><author pid="323/7927">Eric Lance</author><author pid="15/4035">Moray McLaren</author><author pid="168/3489">Behnam Montazeri</author><author pid="17/1437">Arjun Singh</author><author pid="18/10836">Stephen Wang</author><author pid="01/1085">Hassan M. G. Wassel</author><author pid="323/8275">Zhehua Wu</author><author pid="04/9790">Sunghwan Yoo</author><author pid="138/4156">Raghuraman Balasubramanian</author><author pid="271/9650">Prashant Chandra</author><author pid="323/7847">Michael Cutforth</author><author pid="323/8454">Peter Cuy</author><author pid="67/3480">David Decotigny</author><author pid="323/7530">Rakesh Gautam</author><author pid="323/7826">Alex Iriza</author><author pid="21/3908">Milo M. K. Martin</author><author pid="323/8266">Rick Roy</author><author pid="62/3197">Zuowei Shen</author><author pid="25/1150">Ming Tan</author><author pid="117/2996">Ye Tang</author><author pid="271/9189">Monica Wong-Chan</author><author pid="41/1789">Joe Zbiciak</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Aquila: A unified, low-latency fabric for datacenter networks.</title><venue>NSDI</venue><pages>1249-1266</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GibsonHLMMSWWWY22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/gibson</ee><url>https://dblp.org/rec/conf/nsdi/GibsonHLMMSWWWY22</url></info>
+<url>URL#603863</url>
+</hit>
+<hit score="1" id="603864">
+<info><authors><author pid="153/2265">Prateesh Goyal</author><author pid="236/5211">Preey Shah</author><author pid="50/9493">Kevin Zhao</author><author pid="94/8398">Georgios Nikolaidis</author><author pid="37/8397">Mohammad Alizadeh</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author></authors><title>Backpressure Flow Control.</title><venue>NSDI</venue><pages>779-805</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GoyalSZNAA22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/goyal</ee><url>https://dblp.org/rec/conf/nsdi/GoyalSZNAA22</url></info>
+<url>URL#603864</url>
+</hit>
+<hit score="1" id="603865">
+<info><authors><author pid="119/3646">Jashwant Raj Gunasekaran</author><author pid="263/7470">Cyan Subhra Mishra</author><author pid="119/3412">Prashanth Thinakaran</author><author pid="24/7446">Bikash Sharma</author><author pid="k/MahmutTKandemir">Mahmut Taylan Kandemir</author><author pid="d/ChitaRDas">Chita R. Das</author></authors><title>Cocktail: A Multidimensional Optimization for Model Serving in Cloud.</title><venue>NSDI</venue><pages>1041-1057</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GunasekaranMTSK22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/gunasekaran</ee><url>https://dblp.org/rec/conf/nsdi/GunasekaranMTSK22</url></info>
+<url>URL#603865</url>
+</hit>
+<hit score="1" id="603866">
+<info><authors><author pid="188/8787">Xiuzhen Guo</author><author pid="91/10470">Longfei Shangguan</author><author pid="11/1735-4">Yuan He 0004</author><author pid="49/8739">Nan Jing</author><author pid="147/7521">Jiacheng Zhang</author><author pid="180/0691">Haotian Jiang</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>Saiyan: Design and Implementation of a Low-power Demodulator for LoRa Backscatter Systems.</title><venue>NSDI</venue><pages>437-451</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GuoS0JZJL22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/guo</ee><url>https://dblp.org/rec/conf/nsdi/GuoS0JZJL22</url></info>
+<url>URL#603866</url>
+</hit>
+<hit score="1" id="603867">
+<info><authors><author pid="188/9908">Roni Haecki</author><author pid="48/7546">Radhika Niranjan Mysore</author><author pid="206/4530">Lalith Suresh</author><author pid="129/2974">Gerd Zellweger</author><author pid="214/3867">Bo Gan</author><author pid="24/10521">Timothy Merrifield</author><author pid="b/SuBanerjee">Sujata Banerjee</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>How to diagnose nanosecond network latencies in rich end-host stacks.</title><venue>NSDI</venue><pages>861-877</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/HaeckiMSZGMBR22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/haecki</ee><url>https://dblp.org/rec/conf/nsdi/HaeckiMSZGMBR22</url></info>
+<url>URL#603867</url>
+</hit>
+<hit score="1" id="603868">
+<info><authors><author pid="207/1759">Mary Hogan</author><author pid="77/6415">Shir Landau Feibish</author><author pid="173/5006">Mina Tahmasbi Arashloo</author><author pid="r/JenniferRexford">Jennifer Rexford</author><author pid="53/5714">David Walker</author></authors><title>Modular Switch Programming Under Resource Constraints.</title><venue>NSDI</venue><pages>193-207</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/HoganFARW22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/hogan</ee><url>https://dblp.org/rec/conf/nsdi/HoganFARW22</url></info>
+<url>URL#603868</url>
+</hit>
+<hit score="1" id="603869">
+<info><authors><author pid="178/9767">Jiyao Hu</author><author pid="65/3277">Zhenyu Zhou</author><author pid="y/XiaoweiYang">Xiaowei Yang 0001</author></authors><title>Characterizing Physical-Layer Transmission Errors in Cable Broadband Networks.</title><venue>NSDI</venue><pages>845-859</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/HuZ022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/hu</ee><url>https://dblp.org/rec/conf/nsdi/HuZ022</url></info>
+<url>URL#603869</url>
+</hit>
+<hit score="1" id="603870">
+<info><authors><author pid="238/8014">Rishabh R. Iyer</author><author pid="71/6861">Katerina J. Argyraki</author><author pid="c/GeorgeCandea">George Candea</author></authors><title>Performance Interfaces for Network Functions.</title><venue>NSDI</venue><pages>567-584</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/IyerAC22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/iyer</ee><url>https://dblp.org/rec/conf/nsdi/IyerAC22</url></info>
+<url>URL#603870</url>
+</hit>
+<hit score="1" id="603871">
+<info><authors><author pid="82/5820">Akshay Jajoo</author><author pid="93/89">Y. Charlie Hu</author><author pid="38/5957-1">Xiaojun Lin 0001</author><author pid="30/8779">Nan Deng</author></authors><title>A Case for Task Sampling based Learning for Cluster Job Scheduling.</title><venue>NSDI</venue><pages>19-33</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/JajooHLD22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/jajoo</ee><url>https://dblp.org/rec/conf/nsdi/JajooHLD22</url></info>
+<url>URL#603871</url>
+</hit>
+<hit score="1" id="603872">
+<info><authors><author pid="224/2097">Suraj Jog</author><author pid="224/2356">Junfeng Guan</author><author pid="255/6148">Sohrab Madani</author><author pid="246/1005">Ruochen Lu</author><author pid="246/0743">Songbin Gong</author><author pid="149/9280">Deepak Vasisht</author><author pid="13/8398">Haitham Hassanieh</author></authors><title>Enabling IoT Self-Localization Using Ambient 5G Signals.</title><venue>NSDI</venue><pages>1011-1026</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/JogGMLGVH22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/jog</ee><url>https://dblp.org/rec/conf/nsdi/JogGMLGVH22</url></info>
+<url>URL#603872</url>
+</hit>
+<hit score="1" id="603873">
+<info><authors><author pid="213/0831">Siva Kesava Reddy Kakarla</author><author pid="161/6041">Ryan Beckett</author><author pid="93/4679">Todd D. Millstein</author><author pid="v/GeorgeVarghese">George Varghese</author></authors><title>SCALE: Automatically Finding RFC Compliance Bugs in DNS Nameservers.</title><venue>NSDI</venue><pages>307-323</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/KakarlaBMV22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/kakarla</ee><url>https://dblp.org/rec/conf/nsdi/KakarlaBMV22</url></info>
+<url>URL#603873</url>
+</hit>
+<hit score="1" id="603874">
+<info><authors><author pid="323/8118">Xinhao Kong</author><author pid="65/8854">Yibo Zhu</author><author pid="122/3759">Huaping Zhou</author><author pid="123/1783">Zhuo Jiang</author><author pid="184/0340">Jianxi Ye</author><author pid="95/4962">Chuanxiong Guo</author><author pid="151/7537">Danyang Zhuo</author></authors><title>Collie: Finding Performance Anomalies in RDMA Subsystems.</title><venue>NSDI</venue><pages>287-305</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/KongZZJYGZ22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/kong</ee><url>https://dblp.org/rec/conf/nsdi/KongZZJYGZ22</url></info>
+<url>URL#603874</url>
+</hit>
+<hit score="1" id="603875">
+<info><authors><author pid="62/4022">Peter Kraft</author><author pid="181/8317">Fiodar Kazhamiaka</author><author pid="47/8816">Peter Bailis</author><author pid="36/2133">Matei Zaharia</author></authors><title>Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems.</title><venue>NSDI</venue><pages>1059-1074</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/KraftKBZ22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/kraft</ee><url>https://dblp.org/rec/conf/nsdi/KraftKBZ22</url></info>
+<url>URL#603875</url>
+</hit>
+<hit score="1" id="603876">
+<info><authors><author pid="46/3870">Umesh Krishnaswamy</author><author pid="180/5453">Rachee Singh</author><author pid="51/912">Nikolaj S. Bjørner</author><author pid="82/5278">Himanshu Raj</author></authors><title>Decentralized cloud wide-area network traffic engineering with BLASTSHIELD.</title><venue>NSDI</venue><pages>325-338</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/KrishnaswamySBR22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/krishnaswamy</ee><url>https://dblp.org/rec/conf/nsdi/KrishnaswamySBR22</url></info>
+<url>URL#603876</url>
+</hit>
+<hit score="1" id="603877">
+<info><authors><author pid="78/8261">Sándor Laki</author><author pid="298/3266">Csaba Györgyi</author><author pid="225/8543">József Peto</author><author pid="132/6357">Péter Vörös</author><author pid="87/1845">Géza Szabó</author></authors><title>In-Network Velocity Control of Industrial Robot Arms.</title><venue>NSDI</venue><pages>995-1009</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/LakiGPVS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/laki</ee><url>https://dblp.org/rec/conf/nsdi/LakiGPVS22</url></info>
+<url>URL#603877</url>
+</hit>
+<hit score="1" id="603878">
+<info><authors><author pid="271/9735">Chenning Li</author><author pid="188/8787">Xiuzhen Guo</author><author pid="91/10470">Longfei Shangguan</author><author pid="05/7548-1">Zhichao Cao 0001</author><author pid="j/KyleJamieson">Kyle Jamieson</author></authors><title>CurvingLoRa to Boost LoRa Network Throughput via Concurrent Transmission.</title><venue>NSDI</venue><pages>879-895</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/LiGSCJ22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/li-chenning</ee><url>https://dblp.org/rec/conf/nsdi/LiGSCJ22</url></info>
+<url>URL#603878</url>
+</hit>
+<hit score="1" id="603879">
+<info><authors><author pid="43/5611">Yifan Li</author><author pid="125/2840">Jiaqi Gao</author><author pid="23/7560">Ennan Zhai</author><author pid="154/7099">Mengqi Liu</author><author pid="06/2592">Kun Liu</author><author pid="117/4311">Hongqiang Harry Liu</author></authors><title>Cetus: Releasing P4 Programmers from the Chore of Trial and Error Compiling.</title><venue>NSDI</venue><pages>371-385</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/LiGZLLL22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/li-yifan</ee><url>https://dblp.org/rec/conf/nsdi/LiGZLLL22</url></info>
+<url>URL#603879</url>
+</hit>
+<hit score="1" id="603880">
+<info><authors><author pid="93/7765">Guanyu Li</author><author pid="188/5710">Menghao Zhang</author><author pid="76/5349">Cheng Guo</author><author pid="120/1444-11">Han Bao 0011</author><author pid="18/6055">Mingwei Xu</author><author pid="02/2870">Hongxin Hu</author><author pid="20/8277">Fenghua Li</author></authors><title>IMap: Fast and Scalable In-Network Scanning with Programmable Switches.</title><venue>NSDI</venue><pages>667-681</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/LiZG0XHL22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/li-guanyu</ee><url>https://dblp.org/rec/conf/nsdi/LiZG0XHL22</url></info>
+<url>URL#603880</url>
+</hit>
+<hit score="1" id="603881">
+<info><authors><author pid="181/4238">Songfan Li</author><author pid="23/2274">Hui Zheng</author><author pid="74/3128">Chong Zhang</author><author pid="153/1786">Yihang Song</author><author pid="79/4997">Shen Yang</author><author pid="12/4395">Minghua Chen</author><author pid="49/2793-1">Li Lu 0001</author><author pid="87/4982-1">Mo Li 0001</author></authors><title>Passive DSSS: Empowering the Downlink Communication for Backscatter Systems.</title><venue>NSDI</venue><pages>913-928</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/LiZZSYC0022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/li-songfan</ee><url>https://dblp.org/rec/conf/nsdi/LiZZSYC0022</url></info>
+<url>URL#603881</url>
+</hit>
+<hit score="1" id="603882">
+<info><authors><author pid="294/1700">Sarah McClure</author><author pid="149/9258">Amy Ousterhout</author><author pid="34/5593">Scott Shenker</author><author pid="68/5579">Sylvia Ratnasamy</author></authors><title>Efficient Scheduling Policies for Microsecond-Scale Tasks.</title><venue>NSDI</venue><pages>1-18</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/McClureOSR22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/mcclure</ee><url>https://dblp.org/rec/conf/nsdi/McClureOSR22</url></info>
+<url>URL#603882</url>
+</hit>
+<hit score="1" id="603883">
+<info><authors><author pid="30/10775">Congcong Miao</author><author pid="56/2482">Minggang Chen</author><author pid="122/9141">Arpit Gupta</author><author pid="198/8304">Zili Meng</author><author pid="311/8905">Lianjin Ye</author><author pid="123/9485">Jingyu Xiao</author><author pid="92/6289">Jie Chen</author><author pid="289/2152">Zekun He</author><author pid="234/3283">Xulong Luo</author><author pid="18/6008-1">Jilong Wang 0001</author><author pid="29/1429-5">Heng Yu 0005</author></authors><title>Detecting Ephemeral Optical Events with OpTel.</title><venue>NSDI</venue><pages>339-353</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/MiaoCGMYXCHL0022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/miao</ee><url>https://dblp.org/rec/conf/nsdi/MiaoCGMYXCHL0022</url></info>
+<url>URL#603883</url>
+</hit>
+<hit score="1" id="603884">
+<info><authors><author pid="245/5608">Chris Misa</author><author pid="323/7793">Walt O&apos;Connor</author><author pid="134/6345">Ramakrishnan Durairajan</author><author pid="84/5465">Reza Rejaie</author><author pid="w/WalterWillinger">Walter Willinger</author></authors><title>Dynamic Scheduling of Approximate Telemetry Queries.</title><venue>NSDI</venue><pages>701-717</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/MisaODRW22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/misa</ee><url>https://dblp.org/rec/conf/nsdi/MisaODRW22</url></info>
+<url>URL#603884</url>
+</hit>
+<hit score="1" id="603885">
+<info><authors><author pid="84/8689">Ali Najafi</author><author pid="132/0329">Michael Wei</author></authors><title>Graham: Synchronizing Clocks by Leveraging Local Clock Properties.</title><venue>NSDI</venue><pages>453-466</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NajafiW22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/najafi</ee><url>https://dblp.org/rec/conf/nsdi/NajafiW22</url></info>
+<url>URL#603885</url>
+</hit>
+<hit score="1" id="603886">
+<info><authors><author pid="192/2227">Hun Namkung</author><author pid="166/6255">Zaoxing Liu</author><author pid="115/6369">Daehyeok Kim</author><author pid="45/4044">Vyas Sekar</author><author pid="s/PeterSteenkiste">Peter Steenkiste</author></authors><title>SketchLib: Enabling Efficient Sketch-based Monitoring on Programmable Switches.</title><venue>NSDI</venue><pages>743-759</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NamkungLKSS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/namkung</ee><url>https://dblp.org/rec/conf/nsdi/NamkungLKSS22</url></info>
+<url>URL#603886</url>
+</hit>
+<hit score="1" id="603887">
+<info><authors><author pid="203/1840">Usama Naseer</author><author pid="49/7538">Theophilus A. Benson</author></authors><title>Configanator: A Data-driven Approach to Improving CDN Performance.</title><venue>NSDI</venue><pages>1135-1158</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NaseerB22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/naseer</ee><url>https://dblp.org/rec/conf/nsdi/NaseerB22</url></info>
+<url>URL#603887</url>
+</hit>
+<hit score="1" id="603888">
+<info><authors><author pid="277/3695">Zachary Newman</author><author pid="226/2396">Sacha Servan-Schreiber</author><author pid="14/3973">Srinivas Devadas</author></authors><title>Spectrum: High-bandwidth Anonymous Broadcast.</title><venue>NSDI</venue><pages>229-248</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NewmanSD22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/newman</ee><url>https://dblp.org/rec/conf/nsdi/NewmanSD22</url></info>
+<url>URL#603888</url>
+</hit>
+<hit score="1" id="603889">
+<info><authors><author pid="117/4305">Vladimir Andrei Olteanu</author><author pid="25/3649">Haggai Eran</author><author pid="180/0635">Dragos Dumitrescu</author><author pid="31/10237">Adrian Popa</author><author pid="323/7675">Cristi Baciu</author><author pid="94/2996">Mark Silberstein</author><author pid="94/8398">Georgios Nikolaidis</author><author pid="h/MarkHandley">Mark Handley</author><author pid="62/2645">Costin Raiciu</author></authors><title>An edge-queued datagram service for all datacenter traffic.</title><venue>NSDI</venue><pages>761-777</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/OlteanuEDPBSNHR22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/olteanu</ee><url>https://dblp.org/rec/conf/nsdi/OlteanuEDPBSNHR22</url></info>
+<url>URL#603889</url>
+</hit>
+<hit score="1" id="603890">
+<info><authors><author pid="293/0538">Weiwu Pang</author><author pid="261/2022">Sourav Panda</author><author pid="208/0867">Muhammad Jehangir Amjad</author><author pid="98/739">Christophe Diot</author><author pid="g/RameshGovindan">Ramesh Govindan</author></authors><title>CloudCluster: Unearthing the Functional Structure of a Cloud Service.</title><venue>NSDI</venue><pages>1213-1230</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/PangPADG22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/pang</ee><url>https://dblp.org/rec/conf/nsdi/PangPADG22</url></info>
+<url>URL#603890</url>
+</hit>
+<hit score="1" id="603891">
+<info><authors><author pid="204/3453">Solal Pirelli</author><author pid="323/7978">Akvile Valentukonyte</author><author pid="71/6861">Katerina J. Argyraki</author><author pid="c/GeorgeCandea">George Candea</author></authors><title>Automated Verification of Network Function Binaries.</title><venue>NSDI</venue><pages>585-600</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/PirelliVAC22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/pirelli</ee><url>https://dblp.org/rec/conf/nsdi/PirelliVAC22</url></info>
+<url>URL#603891</url>
+</hit>
+<hit score="1" id="603892">
+<info><authors><author pid="259/1225">Alon Rashelbach</author><author pid="48/2092">Ori Rottenstreich</author><author pid="94/2996">Mark Silberstein</author></authors><title>Scaling Open vSwitch with a Computational Cache.</title><venue>NSDI</venue><pages>1359-1374</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/RashelbachRS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/rashelbach</ee><url>https://dblp.org/rec/conf/nsdi/RashelbachRS22</url></info>
+<url>URL#603892</url>
+</hit>
+<hit score="1" id="603893">
+<info><authors><author pid="166/7016">Waleed Reda</author><author pid="24/5715">Marco Canini</author><author pid="03/3188">Dejan Kostic</author><author pid="43/3917">Simon Peter 0001</author></authors><title>RDMA is Turing complete, we just did not know it yet!</title><venue>NSDI</venue><pages>71-85</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/RedaCKP22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/reda</ee><url>https://dblp.org/rec/conf/nsdi/RedaCKP22</url></info>
+<url>URL#603893</url>
+</hit>
+<hit score="1" id="603894">
+<info><authors><author pid="211/7541">Joshua Romero</author><author pid="57/11273">Junqi Yin</author><author pid="205/5960">Nouamane Laanait</author><author pid="94/2438">Bing Xie</author><author pid="236/3841">M. Todd Young</author><author pid="20/9918">Sean Treichler</author><author pid="249/5660">Vitalii Starchenko</author><author pid="236/6151">Albina Y. Borisevich</author><author pid="223/4869">Alex Sergeev</author><author pid="09/2659">Michael A. Matheson</author></authors><title>Accelerating Collective Communication in Data Parallel Training across Deep Learning Frameworks.</title><venue>NSDI</venue><pages>1027-1040</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/RomeroYLXYTSBSM22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/romero</ee><url>https://dblp.org/rec/conf/nsdi/RomeroYLXYTSBSM22</url></info>
+<url>URL#603894</url>
+</hit>
+<hit score="1" id="603895">
+<info><authors><author pid="295/8830">Alireza Sanaee</author><author pid="308/2450">Farbod Shahinfar</author><author pid="00/4948">Gianni Antichi</author><author pid="38/4497">Brent E. Stephens</author></authors><title>Backdraft: a Lossless Virtual Switch that Prevents the Slow Receiver Problem.</title><venue>NSDI</venue><pages>1375-1392</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/SanaeeSAS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/sanaee</ee><url>https://dblp.org/rec/conf/nsdi/SanaeeSAS22</url></info>
+<url>URL#603895</url>
+</hit>
+<hit score="1" id="603896">
+<info><authors><author pid="168/8978">Alex Shamis</author><author pid="45/4887">Peter R. Pietzuch</author><author pid="305/7661">Burcu Canakci</author><author pid="c/MiguelCastro">Miguel Castro 0001</author><author pid="f/CedricFournet">Cédric Fournet</author><author pid="293/9402">Edward Ashton</author><author pid="256/9362">Amaury Chamayou</author><author pid="136/0910">Sylvan Clebsch</author><author pid="121/1113">Antoine Delignat-Lavaud</author><author pid="293/8000">Matthew Kerner</author><author pid="293/8636">Julien Maffre</author><author pid="176/4974">Olga Vrousgou</author><author pid="17/3100">Christoph M. Wintersteiger</author><author pid="35/6770">Manuel Costa</author><author pid="30/4468">Mark Russinovich</author></authors><title>IA-CCF: Individual Accountability for Permissioned Ledgers.</title><venue>NSDI</venue><pages>467-491</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ShamisPC0FACCDK22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/shamis</ee><url>https://dblp.org/rec/conf/nsdi/ShamisPC0FACCDK22</url></info>
+<url>URL#603896</url>
+</hit>
+<hit score="1" id="603897">
+<info><authors><author pid="282/6406">Harsha Sharma</author><author pid="220/5515">Parth Thakkar</author><author pid="293/2463">Sagar Bharadwaj</author><author pid="94/5385">Ranjita Bhagwan</author><author pid="p/VenkataNPadmanabhan">Venkata N. Padmanabhan</author><author pid="85/2526">Yogesh Bansal</author><author pid="75/818">P. Vijay Kumar</author><author pid="323/7591">Kathleen Voelbel</author></authors><title>Optimizing Network Provisioning through Cooperation.</title><venue>NSDI</venue><pages>1179-1194</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/SharmaTBBPBKV22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/sharma</ee><url>https://dblp.org/rec/conf/nsdi/SharmaTBBPBKV22</url></info>
+<url>URL#603897</url>
+</hit>
+<hit score="1" id="603898">
+<info><authors><author pid="284/1438">Rajath Shashidhara</author><author pid="178/4786">Tim Stamler</author><author pid="145/5081">Antoine Kaufmann</author><author pid="43/3917">Simon Peter 0001</author></authors><title>FlexTOE: Flexible TCP Offload with Fine-Grained Parallelism.</title><venue>NSDI</venue><pages>87-102</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ShashidharaSKP22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/shashidhara</ee><url>https://dblp.org/rec/conf/nsdi/ShashidharaSKP22</url></info>
+<url>URL#603898</url>
+</hit>
+<hit score="1" id="603899">
+<info><authors><author pid="144/7799">Giuseppe Siracusano</author><author pid="200/8639">Salvator Galea</author><author pid="164/5603">Davide Sanvito</author><author pid="153/2838">Mohammad Malekzadeh</author><author pid="00/4948">Gianni Antichi</author><author pid="47/6119">Paolo Costa</author><author pid="33/5454">Hamed Haddadi</author><author pid="81/8239">Roberto Bifulco</author></authors><title>Re-architecting Traffic Analysis with Neural Network Interface Cards.</title><venue>NSDI</venue><pages>513-533</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/SiracusanoGSMAC22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/siracusano</ee><url>https://dblp.org/rec/conf/nsdi/SiracusanoGSMAC22</url></info>
+<url>URL#603899</url>
+</hit>
+<hit score="1" id="603900">
+<info><authors><author pid="22/10826">Weitao Wang</author><author pid="81/6181-2">Dingming Wu 0002</author><author pid="190/3802">Sushovan Das</author><author pid="52/7127">Afsaneh Rahbar</author><author pid="59/146-1">Ang Chen 0001</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>RDC: Energy-Efficient Data Center Network Congestion Relief with Topological Reconfigurability at the Edge.</title><venue>NSDI</venue><pages>1267-1288</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/Wang0DRCN22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/wang-weitao-rdc</ee><url>https://dblp.org/rec/conf/nsdi/Wang0DRCN22</url></info>
+<url>URL#603900</url>
+</hit>
+<hit score="1" id="603901">
+<info><authors><author pid="231/7712">Yanshu Wang</author><author pid="48/4185-1">Dan Li 0001</author><author pid="182/6479">Yuanwei Lu</author><author pid="82/4905">Jianping Wu</author><author pid="44/468">Hua Shao</author><author pid="41/1658">Yutian Wang</author></authors><title>Elixir: A High-performance and Low-cost Approach to Managing Hardware/Software Hybrid Flow Tables Considering Flow Burstiness.</title><venue>NSDI</venue><pages>535-550</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/Wang0LWSW22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/wang-yanshu</ee><url>https://dblp.org/rec/conf/nsdi/Wang0LWSW22</url></info>
+<url>URL#603901</url>
+</hit>
+<hit score="1" id="603902">
+<info><authors><author pid="22/10826">Weitao Wang</author><author pid="275/3638">Xinyu Crystal Wu</author><author pid="174/9515">Praveen Tammana</author><author pid="59/146-1">Ang Chen 0001</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>Closed-loop Network Performance Monitoring and Diagnosis with SpiderMon.</title><venue>NSDI</venue><pages>267-285</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/WangWTCN22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/wang-weitao-spidermon</ee><url>https://dblp.org/rec/conf/nsdi/WangWTCN22</url></info>
+<url>URL#603902</url>
+</hit>
+<hit score="1" id="603903">
+<info><authors><author pid="12/5838">Tao Wang</author><author pid="213/1007">Xiangrui Yang</author><author pid="00/4948">Gianni Antichi</author><author pid="123/2342">Anirudh Sivaraman</author><author pid="55/925">Aurojit Panda</author></authors><title>Isolation Mechanisms for High-Speed Packet-Processing Pipelines.</title><venue>NSDI</venue><pages>1289-1305</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/WangYASP22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/wang-tao</ee><url>https://dblp.org/rec/conf/nsdi/WangYASP22</url></info>
+<url>URL#603903</url>
+</hit>
+<hit score="1" id="603904">
+<info><authors><author pid="222/1610">Qizhen Weng</author><author pid="167/7982">Wencong Xiao</author><author pid="147/5299">Yinghao Yu</author><author pid="35/7092-30">Wei Wang 0030</author><author pid="54/2062">Cheng Wang</author><author pid="24/6837">Jian He</author><author pid="93/2334">Yong Li</author><author pid="48/6735">Liping Zhang</author><author pid="99/2649">Wei Lin</author><author pid="77/6871">Yu Ding</author></authors><title>MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters.</title><venue>NSDI</venue><pages>945-960</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/WengXYWWHLZLD22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/weng</ee><url>https://dblp.org/rec/conf/nsdi/WengXYWWHLZLD22</url></info>
+<url>URL#603904</url>
+</hit>
+<hit score="1" id="603905">
+<info><authors><author pid="217/0857">Jiarong Xing</author><author pid="36/10257">Kuo-Feng Hsu</author><author pid="190/1358">Matty Kadosh</author><author pid="229/8766">Alan Lo</author><author pid="229/8851">Yonatan Piasetzky</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="59/146-1">Ang Chen 0001</author></authors><title>Runtime Programmable Switches.</title><venue>NSDI</venue><pages>651-665</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/XingHKLPKC22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/xing</ee><url>https://dblp.org/rec/conf/nsdi/XingHKLPKC22</url></info>
+<url>URL#603905</url>
+</hit>
+<hit score="1" id="603906">
+<info><authors><author pid="203/7191">Jingao Xu</author><author pid="80/7648">Hao Cao</author><author pid="59/5806-2">Zheng Yang 0002</author><author pid="91/10470">Longfei Shangguan</author><author pid="91/2798">Jialin Zhang</author><author pid="176/1177">Xiaowu He</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>SwarmMap: Scaling Up Real-time Collaborative Visual SLAM at the Edge.</title><venue>NSDI</venue><pages>977-993</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/XuC0SZHL22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/xu</ee><url>https://dblp.org/rec/conf/nsdi/XuC0SZHL22</url></info>
+<url>URL#603906</url>
+</hit>
+<hit score="1" id="603907">
+<info><authors><author pid="158/8192">Talia Xu</author><author pid="323/7583">Miguel Chávez Tapia</author><author pid="z/MarcoZuniga">Marco Zúñiga</author></authors><title>Exploiting Digital Micro-Mirror Devices for Ambient Light Communication.</title><venue>NSDI</venue><pages>387-400</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/XuTZ22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/xu-talia</ee><url>https://dblp.org/rec/conf/nsdi/XuTZ22</url></info>
+<url>URL#603907</url>
+</hit>
+<hit score="1" id="603908">
+<info><authors><author pid="50/2484-31">Lei Yang 0031</author><author pid="168/3492">Seo Jin Park</author><author pid="37/8397">Mohammad Alizadeh</author><author pid="61/8774">Sreeram Kannan</author><author pid="t/DavidNCTse">David Tse</author></authors><title>DispersedLedger: High-Throughput Byzantine Consensus on Variable Bandwidth Networks.</title><venue>NSDI</venue><pages>493-512</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/YangPAKT22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/yang</ee><url>https://dblp.org/rec/conf/nsdi/YangPAKT22</url></info>
+<url>URL#603908</url>
+</hit>
+<hit score="1" id="603909">
+<info><authors><author pid="183/0795">Juncheng Yang</author><author pid="194/2387">Anirudh Sabnis</author><author pid="142/2630">Daniel S. Berger</author><author pid="40/7113">K. V. Rashmi</author><author pid="s/RameshKSitaraman">Ramesh K. Sitaraman</author></authors><title>C2DN: How to Harness Erasure Codes at the Edge for Efficient Content Delivery.</title><venue>NSDI</venue><pages>1159-1177</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/YangSBRS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/yang-juncheng</ee><url>https://dblp.org/rec/conf/nsdi/YangSBRS22</url></info>
+<url>URL#603909</url>
+</hit>
+<hit score="1" id="603910">
+<info><authors><author pid="227/7188">Liangcheng Yu</author><author pid="145/2967">John Sonchack</author><author pid="22/9263-1">Vincent Liu 0001</author></authors><title>OrbWeaver: Using IDLE Cycles in Programmable Networks for Opportunistic Coordination.</title><venue>NSDI</venue><pages>1195-1212</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/YuSL22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/yu</ee><url>https://dblp.org/rec/conf/nsdi/YuSL22</url></info>
+<url>URL#603910</url>
+</hit>
+<hit score="1" id="603911">
+<info><authors><author pid="167/0634">Yifan Yuan</author><author pid="309/5752">Omar Alama</author><author pid="203/3131">Jiawei Fei</author><author pid="35/9256-1">Jacob Nelson 0001</author><author pid="03/6105">Dan R. K. Ports</author><author pid="155/9504">Amedeo Sapio</author><author pid="24/5715">Marco Canini</author><author pid="18/1402">Nam Sung Kim</author></authors><title>Unlocking the Power of Inline Floating-Point Operations on Programmable Switches.</title><venue>NSDI</venue><pages>683-700</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/YuanAFNPSCK22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/yuan</ee><url>https://dblp.org/rec/conf/nsdi/YuanAFNPSCK22</url></info>
+<url>URL#603911</url>
+</hit>
+<hit score="1" id="603912">
+<info><authors><author pid="257/6290">Chaoliang Zeng</author><author pid="87/10888">Layong Luo</author><author pid="38/5156">Teng Zhang</author><author pid="42/898">Zilong Wang</author><author pid="22/6735">Luyang Li</author><author pid="226/8752">Wenchen Han</author><author pid="57/6104">Nan Chen</author><author pid="323/7899">Lebing Wan</author><author pid="212/0359">Lichao Liu</author><author pid="155/9632">Zhipeng Ding</author><author pid="146/0023">Xiongfei Geng</author><author pid="12/4774">Tao Feng</author><author pid="68/10035">Feng Ning</author><author pid="c/KaiChen5">Kai Chen 0005</author><author pid="95/4962">Chuanxiong Guo</author></authors><title>Tiara: A Scalable and Efficient Hardware Acceleration Architecture for Stateful Layer-4 Load Balancing.</title><venue>NSDI</venue><pages>1345-1358</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZengLZWLHCWLDGF22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zeng</ee><url>https://dblp.org/rec/conf/nsdi/ZengLZWLHCWLDGF22</url></info>
+<url>URL#603912</url>
+</hit>
+<hit score="1" id="603913">
+<info><authors><author pid="176/9173">Lior Zeno</author><author pid="03/6105">Dan R. K. Ports</author><author pid="35/9256-1">Jacob Nelson 0001</author><author pid="115/6369">Daehyeok Kim</author><author pid="77/6415">Shir Landau Feibish</author><author pid="k/IditKeidar">Idit Keidar</author><author pid="236/6349">Arik Rinberg</author><author pid="259/1225">Alon Rashelbach</author><author pid="289/1274">Igor Lima de Paula</author><author pid="94/2996">Mark Silberstein</author></authors><title>SwiSh: Distributed Shared State Abstractions for Programmable Switches.</title><venue>NSDI</venue><pages>171-191</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZenoPNKFKRRPS22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zeno</ee><url>https://dblp.org/rec/conf/nsdi/ZenoPNKFKRRPS22</url></info>
+<url>URL#603913</url>
+</hit>
+<hit score="1" id="603914">
+<info><authors><author pid="75/8471">Junbo Zhang</author><author pid="180/7169">Elahe Soltanaghai</author><author pid="165/8176">Artur Balanuta</author><author pid="217/8471">Reese Grimsley</author><author pid="44/8737">Swarun Kumar</author><author pid="02/630">Anthony G. Rowe</author></authors><title>PLatter: On the Feasibility of Building-scale Power Line Backscatter.</title><venue>NSDI</venue><pages>897-911</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZhangSBGKR22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zhang-junbo</ee><url>https://dblp.org/rec/conf/nsdi/ZhangSBGKR22</url></info>
+<url>URL#603914</url>
+</hit>
+<hit score="1" id="603915">
+<info><authors><author pid="56/5142">Yiwen Zhang</author><author pid="28/4386">Yue Tan</author><author pid="38/4497">Brent E. Stephens</author><author pid="42/1518">Mosharaf Chowdhury</author></authors><title>Justitia: Software Multi-Tenancy in Hardware Kernel-Bypass Networks.</title><venue>NSDI</venue><pages>1307-1326</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZhangTSC22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zhang-yiwen</ee><url>https://dblp.org/rec/conf/nsdi/ZhangTSC22</url></info>
+<url>URL#603915</url>
+</hit>
+<hit score="1" id="603916">
+<info><authors><author pid="244/1644">Anlan Zhang</author><author pid="260/4847">Chendong Wang</author><author pid="00/3507">Bo Han 0001</author><author pid="54/476-1">Feng Qian 0001</author></authors><title>YuZu: Neural-Enhanced Volumetric Video Streaming.</title><venue>NSDI</venue><pages>137-154</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZhangW0022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zhang-anlan</ee><url>https://dblp.org/rec/conf/nsdi/ZhangW0022</url></info>
+<url>URL#603916</url>
+</hit>
+<hit score="1" id="603917">
+<info><authors><author pid="139/5941">Qianyu Zhang</author><author pid="201/1240">Gongming Zhao</author><author pid="22/1748">Hongli Xu</author><author pid="186/9734">Zhuolong Yu</author><author pid="96/7692">Liguang Xie</author><author pid="99/8966">Yangming Zhao</author><author pid="60/6865">Chunming Qiao</author><author pid="62/29">Ying Xiong</author><author pid="51/769">Liusheng Huang</author></authors><title>Zeta: A Scalable and Robust East-West Communication Framework in Large-Scale Clouds.</title><venue>NSDI</venue><pages>1231-1248</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZhangZXYXZQXH22</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zhang-qianyu</ee><url>https://dblp.org/rec/conf/nsdi/ZhangZXYXZQXH22</url></info>
+<url>URL#603917</url>
+</hit>
+<hit score="1" id="603918">
+<info><authors><author pid="127/6289">Hang Zhu</author><author pid="12/5838">Tao Wang</author><author pid="65/5746">Yi Hong</author><author pid="03/6105">Dan R. K. Ports</author><author pid="123/2342">Anirudh Sivaraman</author><author pid="68/3340-8">Xin Jin 0008</author></authors><title>NetVRM: Virtual Register Memory for Programmable Networks.</title><venue>NSDI</venue><pages>155-170</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZhuWHPS022</key><ee>https://www.usenix.org/conference/nsdi22/presentation/zhu</ee><url>https://dblp.org/rec/conf/nsdi/ZhuWHPS022</url></info>
+<url>URL#603918</url>
+</hit>
+<hit score="1" id="638761">
+<info><authors><author pid="14/877">Amar Phanishayee</author><author pid="45/4044">Vyas Sekar</author></authors><title>19th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2022, Renton, WA, USA, April 4-6, 2022</title><venue>NSDI</venue><publisher>USENIX Association</publisher><year>2022</year><type>Editorship</type><access>open</access><key>conf/nsdi/2022</key><ee>https://www.usenix.org/conference/nsdi22</ee><url>https://dblp.org/rec/conf/nsdi/2022</url></info>
+<url>URL#638761</url>
+</hit>
+</hits>
+</result>

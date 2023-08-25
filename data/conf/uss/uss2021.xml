@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239403">:facetid:toc:\"db/conf/uss/uss2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">193.25</time>
+<completions total="1" computed="1" sent="1">
+<c sc="248" dc="248" oc="248" id="41057177">:facetid:toc:db/conf/uss/uss2021.bht</c>
+</completions>
+<hits total="248" computed="248" sent="248" first="0">
+<hit score="1" id="1087544">
+<info><authors><author pid="90/545-1">Zhikun Zhang 0001</author><author pid="145/3288-1">Tianhao Wang 0001</author><author pid="l/NinghuiLi">Ninghui Li</author><author pid="09/4857">Jean Honorio</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="07/7178">Shibo He</author><author pid="55/2484-1">Jiming Chen 0001</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>PrivSyn: Differentially Private Data Synthesis.</title><venue>USENIX Security Symposium</venue><pages>929-946</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/00010LH0H0021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-zhikun</ee><url>https://dblp.org/rec/conf/uss/00010LH0H0021</url></info>
+<url>URL#1087544</url>
+</hit>
+<hit score="1" id="1087545">
+<info><authors><author pid="44/6965">Susan Landau 0001</author></authors><title>Susan Landau, Tufts University.</title><venue>USENIX Security Symposium</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/000121</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/keynote-landau</ee><url>https://dblp.org/rec/conf/uss/000121</url></info>
+<url>URL#1087545</url>
+</hit>
+<hit score="1" id="1087546">
+<info><authors><author pid="186/5066">Kevin Bock 0001</author><author pid="301/5908">Abdulrahman Alaraj</author><author pid="273/6852">Yair Fax</author><author pid="301/5903">Kyle Hurley</author><author pid="60/8733">Eric Wustrow</author><author pid="03/6428">Dave Levin</author></authors><title>Weaponizing Middleboxes for TCP Reflected Amplification.</title><venue>USENIX Security Symposium</venue><pages>3345-3361</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001AFHWL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/bock</ee><url>https://dblp.org/rec/conf/uss/0001AFHWL21</url></info>
+<url>URL#1087546</url>
+</hit>
+<hit score="1" id="1087547">
+<info><authors><author pid="133/5336-1">Chong Xiang 0001</author><author pid="199/2164">Arjun Nitin Bhagoji</author><author pid="187/5613">Vikash Sehwag</author><author pid="39/6266">Prateek Mittal</author></authors><title>PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking.</title><venue>USENIX Security Symposium</venue><pages>2237-2254</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001BSM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/xiang</ee><url>https://dblp.org/rec/conf/uss/0001BSM21</url></info>
+<url>URL#1087547</url>
+</hit>
+<hit score="1" id="1087548">
+<info><authors><author pid="166/8773-1">Lorenzo Grassi 0001</author><author pid="22/2499">Dmitry Khovratovich</author><author pid="39/16">Christian Rechberger</author><author pid="88/4138-5">Arnab Roy 0005</author><author pid="227/7790">Markus Schofnegger</author></authors><title>Poseidon: A New Hash Function for Zero-Knowledge Proof Systems.</title><venue>USENIX Security Symposium</venue><pages>519-535</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001KR0S21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/grassi</ee><url>https://dblp.org/rec/conf/uss/0001KR0S21</url></info>
+<url>URL#1087548</url>
+</hit>
+<hit score="1" id="1087549">
+<info><authors><author pid="243/2583-1">Daniel Perez 0001</author><author pid="46/2924">Benjamin Livshits</author></authors><title>Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited.</title><venue>USENIX Security Symposium</venue><pages>1325-1341</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001L21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/perez</ee><url>https://dblp.org/rec/conf/uss/0001L21</url></info>
+<url>URL#1087549</url>
+</hit>
+<hit score="1" id="1087550">
+<info><authors><author pid="84/8554-1">Wanrong Zhang 0001</author><author pid="136/8442">Shruti Tople</author><author pid="70/4765">Olga Ohrimenko</author></authors><title>Leakage of Dataset Properties in Multi-Party Machine Learning.</title><venue>USENIX Security Symposium</venue><pages>2687-2704</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001TO21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong</ee><url>https://dblp.org/rec/conf/uss/0001TO21</url></info>
+<url>URL#1087550</url>
+</hit>
+<hit score="1" id="1087551">
+<info><authors><author pid="58/2521-2">Chenglong Fu 0002</author><author pid="81/583-1">Qiang Zeng 0001</author><author pid="22/5535">Xiaojiang Du</author></authors><title>HAWatcher: Semantics-Aware Anomaly Detection for Appified Smart Homes.</title><venue>USENIX Security Symposium</venue><pages>4223-4240</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/00020D21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/fu-chenglong</ee><url>https://dblp.org/rec/conf/uss/00020D21</url></info>
+<url>URL#1087551</url>
+</hit>
+<hit score="1" id="1087552">
+<info><authors><author pid="125/3714-2">Hang Hu 0002</author><author pid="175/5282">Steve T. K. Jan</author><author pid="w/YangWang5">Yang Wang 0005</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>Assessing Browser-level Defense against IDN-based Phishing.</title><venue>USENIX Security Symposium</venue><pages>3739-3756</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0002JW021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/hu-hang</ee><url>https://dblp.org/rec/conf/uss/0002JW021</url></info>
+<url>URL#1087552</url>
+</hit>
+<hit score="1" id="1087553">
+<info><authors><author pid="190/3392-2">Bingyu Shen 0002</author><author pid="47/5973">Lili Wei</author><author pid="137/8952">Chengcheng Xiang</author><author pid="141/4725">Yudong Wu</author><author pid="252/3943">Mingyao Shen</author><author pid="99/2747-1">Yuanyuan Zhou 0001</author><author pid="96/8378">Xinxin Jin</author></authors><title>Can Systems Explain Permissions Better? Understanding Users&apos; Misperceptions under Smartphone Runtime Permission Model.</title><venue>USENIX Security Symposium</venue><pages>751-768</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0002WXWS0J21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/shen-bingyu</ee><url>https://dblp.org/rec/conf/uss/0002WXWS0J21</url></info>
+<url>URL#1087553</url>
+</hit>
+<hit score="1" id="1087554">
+<info><authors><author pid="29/6643-10">Jie Huang 0010</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="31/7561">Sven Bugiel</author></authors><title>A11y and Privacy don&apos;t have to be mutually exclusive: Constraining Accessibility Service Misuse on Android.</title><venue>USENIX Security Symposium</venue><pages>3631-3648</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/00100B21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/huang</ee><url>https://dblp.org/rec/conf/uss/00100B21</url></info>
+<url>URL#1087554</url>
+</hit>
+<hit score="1" id="1087555">
+<info><authors><author pid="69/5011-26">Wei Zhou 0026</author><author pid="137/5266">Le Guan</author><author pid="21/6121-5">Peng Liu 0005</author><author pid="83/6530-1">Yuqing Zhang 0001</author></authors><title>Automatic Firmware Emulation through Invalidity-guided Knowledge Inference.</title><venue>USENIX Security Symposium</venue><pages>2007-2024</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0026G0Z21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhou</ee><url>https://dblp.org/rec/conf/uss/0026G0Z21</url></info>
+<url>URL#1087555</url>
+</hit>
+<hit score="1" id="1087556">
+<info><authors><author pid="65/4423-57">Chen Chen 0057</author><author pid="157/8155">Anrin Chakraborti</author><author pid="s/RaduSion">Radu Sion</author></authors><title>PEARL: Plausibly Deniable Flash Translation Layer using WOM coding.</title><venue>USENIX Security Symposium</venue><pages>1109-1126</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0057CS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-chen</ee><url>https://dblp.org/rec/conf/uss/0057CS21</url></info>
+<url>URL#1087556</url>
+</hit>
+<hit score="1" id="1087557">
+<info><authors><author pid="138/6356">Yousra Aafer</author><author pid="87/6465">Wei You</author><author pid="65/2709">Yi Sun</author><author pid="55/4736">Yu Shi</author><author pid="95/3760-1">Xiangyu Zhang 0001</author><author pid="77/6178-1">Heng Yin 0001</author></authors><title>Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>2759-2776</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AaferYSS0Y21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/aafer</ee><url>https://dblp.org/rec/conf/uss/AaferYSS0Y21</url></info>
+<url>URL#1087557</url>
+</hit>
+<hit score="1" id="1087558">
+<info><authors><author pid="184/1776">Muhammad Abubakar</author><author pid="205/3202">Adil Ahmad</author><author pid="11/3119-1">Pedro Fonseca 0001</author><author pid="59/5539">Dongyan Xu</author></authors><title>SHARD: Fine-Grained Kernel Specialization with Context-Aware Hardening.</title><venue>USENIX Security Symposium</venue><pages>2435-2452</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AbubakarAFX21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/abubakar</ee><url>https://dblp.org/rec/conf/uss/AbubakarAFX21</url></info>
+<url>URL#1087558</url>
+</hit>
+<hit score="1" id="1087559">
+<info><authors><author pid="301/5830">Bhupendra Acharya</author><author pid="133/2036">Phani Vadrevu</author></authors><title>PhishPrint: Evading Phishing Detection Crawlers by Prior Profiling.</title><venue>USENIX Security Symposium</venue><pages>3775-3792</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AcharyaV21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/acharya</ee><url>https://dblp.org/rec/conf/uss/AcharyaV21</url></info>
+<url>URL#1087559</url>
+</hit>
+<hit score="1" id="1087560">
+<info><authors><author pid="161/1767">Mansour Ahmadi</author><author pid="228/8232">Reza Mirzazade Farkhani</author><author pid="202/1974">Ryan Williams</author><author pid="81/7428">Long Lu</author></authors><title>Finding Bugs Using Your Own Code: Detecting Functionally-similar yet Inconsistent Code.</title><venue>USENIX Security Symposium</venue><pages>2025-2040</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AhmadiFWL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ahmadi</ee><url>https://dblp.org/rec/conf/uss/AhmadiFWL21</url></info>
+<url>URL#1087560</url>
+</hit>
+<hit score="1" id="1087561">
+<info><authors><author pid="301/5902">Mohammad M. Ahmadpanah</author><author pid="37/1881">Daniel Hedin</author><author pid="25/7796">Musard Balliu</author><author pid="301/5809">Lars Eric Olsson</author><author pid="s/AndreiSabelfeld">Andrei Sabelfeld</author></authors><title>SandTrap: Securing JavaScript-driven Trigger-Action Platforms.</title><venue>USENIX Security Symposium</venue><pages>2899-2916</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AhmadpanahHBOS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ahmadpanah</ee><url>https://dblp.org/rec/conf/uss/AhmadpanahHBOS21</url></info>
+<url>URL#1087561</url>
+</hit>
+<hit score="1" id="1087562">
+<info><authors><author pid="198/9755">Omer Akgul</author><author pid="45/661-4">Wei Bai 0004</author><author pid="301/5878">Shruti Das</author><author pid="20/7983">Michelle L. Mazurek</author></authors><title>Evaluating In-Workflow Messages for Improving Mental Models of End-to-End Encryption.</title><venue>USENIX Security Symposium</venue><pages>447-464</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Akgul0DM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/akgul</ee><url>https://dblp.org/rec/conf/uss/Akgul0DM21</url></info>
+<url>URL#1087562</url>
+</hit>
+<hit score="1" id="1087563">
+<info><authors><author pid="228/7702">Nils Albartus</author><author pid="287/7747">Clemens Nasenberg</author><author pid="272/7352">Florian Stolz</author><author pid="135/0314">Marc Fyrbiak</author><author pid="p/ChristofPaar">Christof Paar</author><author pid="23/2353">Russell Tessier</author></authors><title>On the Design and Misuse of Microcoded (Embedded) Processors - A Cautionary Note.</title><venue>USENIX Security Symposium</venue><pages>267-284</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlbartusNSFPT21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/albartus</ee><url>https://dblp.org/rec/conf/uss/AlbartusNSFPT21</url></info>
+<url>URL#1087563</url>
+</hit>
+<hit score="1" id="1087564">
+<info><authors><author pid="92/7397">Martin R. Albrecht</author><author pid="27/7270">Jorge Blasco</author><author pid="217/9278">Rikke Bjerg Jensen</author><author pid="208/7022">Lenka Mareková</author></authors><title>Collective Information Security in Large-Scale Urban Protests: the Case of Hong Kong.</title><venue>USENIX Security Symposium</venue><pages>3363-3380</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlbrechtBJM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/albrecht</ee><url>https://dblp.org/rec/conf/uss/AlbrechtBJM21</url></info>
+<url>URL#1087564</url>
+</hit>
+<hit score="1" id="1087565">
+<info><authors><author pid="243/2808">Fatemah Alharbi</author><author pid="147/1575">Arwa Alrawais</author><author pid="227/4806">Abdulrahman Bin Rabiah</author><author pid="07/11488">Silas Richelson</author><author pid="86/2654">Nael B. Abu-Ghazaleh</author></authors><title>CSProp: Ciphertext and Signature Propagation Low-Overhead Public-Key Cryptosystem for IoT Environments.</title><venue>USENIX Security Symposium</venue><pages>609-626</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlharbiARRA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/alharbi</ee><url>https://dblp.org/rec/conf/uss/AlharbiARRA21</url></info>
+<url>URL#1087565</url>
+</hit>
+<hit score="1" id="1087566">
+<info><authors><author pid="256/9109">Asra Ali</author><author pid="08/11136">Tancrède Lepoint</author><author pid="04/773">Sarvar Patel</author><author pid="07/5590-1">Mariana Raykova 0001</author><author pid="187/5645">Phillipp Schoppmann</author><author pid="125/0309">Karn Seth</author><author pid="176/7649">Kevin Yeo</author></authors><title>Communication-Computation Trade-offs in PIR.</title><venue>USENIX Security Symposium</venue><pages>1811-1828</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AliLP0SSY21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ali</ee><url>https://dblp.org/rec/conf/uss/AliLP0SSY21</url></info>
+<url>URL#1087566</url>
+</hit>
+<hit score="1" id="1087567">
+<info><authors><author pid="222/3040">Maxwell Aliapoulios</author><author pid="284/0642">Cameron Ballard</author><author pid="201/7550">Rasika Bhalerao</author><author pid="00/3175">Tobias Lauinger</author><author pid="58/4016">Damon McCoy</author></authors><title>Swiped: Analyzing Ground-truth Data of a Marketplace for Stolen Debit and Credit Cards.</title><venue>USENIX Security Symposium</venue><pages>4151-4168</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AliapouliosBBLM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/aliapoulios</ee><url>https://dblp.org/rec/conf/uss/AliapouliosBBLM21</url></info>
+<url>URL#1087567</url>
+</hit>
+<hit score="1" id="1087568">
+<info><authors><author pid="127/7110">Omar Alrawi</author><author pid="239/8948">Moses Ike</author><author pid="265/5563">Matthew Pruett</author><author pid="248/1646">Ranjita Pai Kasturi</author><author pid="214/8468">Srimanta Barua</author><author pid="301/5807">Taleb Hirani</author><author pid="301/5859">Brennan Hill</author><author pid="150/5240">Brendan Saltaformaggio</author></authors><title>Forecasting Malware Capabilities From Cyber Attack Memory Images.</title><venue>USENIX Security Symposium</venue><pages>3523-3540</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlrawiIPKBHHS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/alrawi-forecasting</ee><url>https://dblp.org/rec/conf/uss/AlrawiIPKBHHS21</url></info>
+<url>URL#1087568</url>
+</hit>
+<hit score="1" id="1087569">
+<info><authors><author pid="127/7110">Omar Alrawi</author><author pid="134/8710">Charles Lever</author><author pid="134/5637">Kevin Valakuzhy</author><author pid="301/5858">Ryan Court</author><author pid="29/8732">Kevin Z. Snow</author><author pid="50/6700">Fabian Monrose</author><author pid="26/216">Manos Antonakakis</author></authors><title>The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle.</title><venue>USENIX Security Symposium</venue><pages>3505-3522</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlrawiLVCSMA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/alrawi-circle</ee><url>https://dblp.org/rec/conf/uss/AlrawiLVCSMA21</url></info>
+<url>URL#1087569</url>
+</hit>
+<hit score="1" id="1087570">
+<info><authors><author pid="301/5823">Abdulellah Alsaheel</author><author pid="167/0416">Yuhong Nan</author><author pid="172/8745">Shiqing Ma</author><author pid="23/7122">Le Yu</author><author pid="248/1730">Gregory Walkup</author><author pid="143/2298">Z. Berkay Celik</author><author pid="95/3760-1">Xiangyu Zhang 0001</author><author pid="59/5539">Dongyan Xu</author></authors><title>ATLAS: A Sequence-based Learning Approach for Attack Investigation.</title><venue>USENIX Security Symposium</venue><pages>3005-3022</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlsaheelNMYWC0X21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/alsaheel</ee><url>https://dblp.org/rec/conf/uss/AlsaheelNMYWC0X21</url></info>
+<url>URL#1087570</url>
+</hit>
+<hit score="1" id="1087571">
+<info><authors><author pid="252/4152">Gaspard Anthoine</author><author pid="78/264">Jean-Guillaume Dumas</author><author pid="271/0925">Mélanie de Jonghe</author><author pid="17/4789">Aude Maignan</author><author pid="76/1295">Clément Pernet</author><author pid="252/4256">Michael Hanling</author><author pid="09/5926">Daniel S. Roche</author></authors><title>Dynamic proofs of retrievability with low server storage.</title><venue>USENIX Security Symposium</venue><pages>537-554</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AnthoineDJMPHR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/anthoine</ee><url>https://dblp.org/rec/conf/uss/AnthoineDJMPHR21</url></info>
+<url>URL#1087571</url>
+</hit>
+<hit score="1" id="1087573">
+<info><authors><author pid="265/9073">Lukas Aumayr</author><author pid="128/4640">Pedro Moreno-Sanchez</author><author pid="12/3394">Aniket Kate</author><author pid="25/3571">Matteo Maffei</author></authors><title>Blitz: Secure Multi-Hop Payments Without Two-Phase Commits.</title><venue>USENIX Security Symposium</venue><pages>4043-4060</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AumayrMKM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/aumayr</ee><url>https://dblp.org/rec/conf/uss/AumayrMKM21</url></info>
+<url>URL#1087573</url>
+</hit>
+<hit score="1" id="1087574">
+<info><authors><author pid="180/5458">Erin Avllazagaj</author><author pid="187/8969">Ziyun Zhu</author><author pid="15/6037">Leyla Bilge</author><author pid="56/490">Davide Balzarotti</author><author pid="01/4921">Tudor Dumitras</author></authors><title>When Malware Changed Its Mind: An Empirical Study of Variable Program Behaviors in the Real World.</title><venue>USENIX Security Symposium</venue><pages>3487-3504</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AvllazagajZBBD21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/avllazagaj</ee><url>https://dblp.org/rec/conf/uss/AvllazagajZBBD21</url></info>
+<url>URL#1087574</url>
+</hit>
+<hit score="1" id="1087575">
+<info><authors><author pid="287/4528">Ahmadreza Azizi</author><author pid="227/0788">Ibrahim Asadullah Tahmid</author><author pid="287/4144">Asim Waheed</author><author pid="278/0806">Neal Mangaokar</author><author pid="198/9527">Jiameng Pu</author><author pid="48/7429">Mobin Javed</author><author pid="42/1341">Chandan K. Reddy</author><author pid="24/604">Bimal Viswanath</author></authors><title>T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.</title><venue>USENIX Security Symposium</venue><pages>2255-2272</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AziziTWMPJRV21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/azizi</ee><url>https://dblp.org/rec/conf/uss/AziziTWMPJRV21</url></info>
+<url>URL#1087575</url>
+</hit>
+<hit score="1" id="1087576">
+<info><authors><author pid="213/9150">Eugene Bagdasaryan</author><author pid="46/6275">Vitaly Shmatikov</author></authors><title>Blind Backdoors in Deep Learning Models.</title><venue>USENIX Security Symposium</venue><pages>1505-1521</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BagdasaryanS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/bagdasaryan</ee><url>https://dblp.org/rec/conf/uss/BagdasaryanS21</url></info>
+<url>URL#1087576</url>
+</hit>
+<hit score="1" id="1087577">
+<info><authors><author pid="191/5905">Raad Bahmani</author><author pid="117/5967">Ferdinand Brasser</author><author pid="153/0574">Ghada Dessouky</author><author pid="224/9363">Patrick Jauernig</author><author pid="277/5702">Matthias Klimmek</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author><author pid="32/4934">Emmanuel Stapf</author></authors><title>CURE: A Security Architecture with CUstomizable and Resilient Enclaves.</title><venue>USENIX Security Symposium</venue><pages>1073-1090</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BahmaniBDJKSS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/bahmani</ee><url>https://dblp.org/rec/conf/uss/BahmaniBDJKSS21</url></info>
+<url>URL#1087577</url>
+</hit>
+<hit score="1" id="1087578">
+<info><authors><author pid="161/7805">Jia-Ju Bai</author><author pid="150/1609">Tuo Li</author><author pid="67/10639">Kangjie Lu</author><author pid="h/ShiMinHu">Shi-Min Hu 0001</author></authors><title>Static Detection of Unsafe DMA Accesses in Device Drivers.</title><venue>USENIX Security Symposium</venue><pages>1629-1645</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BaiLL021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/bai</ee><url>https://dblp.org/rec/conf/uss/BaiLL021</url></info>
+<url>URL#1087578</url>
+</hit>
+<hit score="1" id="1087580">
+<info><authors><author pid="b/DavidABasin">David A. Basin</author><author pid="35/4406">Ralf Sasse</author><author pid="180/7312">Jorge Toro-Pozo</author></authors><title>Card Brand Mixup Attack: Bypassing the PIN in non-Visa Cards by Using Them for Visa Transactions.</title><venue>USENIX Security Symposium</venue><pages>179-194</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BasinST21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/basin</ee><url>https://dblp.org/rec/conf/uss/BasinST21</url></info>
+<url>URL#1087580</url>
+</hit>
+<hit score="1" id="1087581">
+<info><authors><author pid="248/1645">Hugo L. J. Bijmans</author><author pid="248/1711">Tim M. Booij</author><author pid="301/5876">Anneke Schwedersky</author><author pid="301/5916">Aria Nedgabat</author><author pid="224/9337">Rolf van Wegberg</author></authors><title>Catching Phishers By Their Bait: Investigating the Dutch Phishing Landscape through Phishing Kit Detection.</title><venue>USENIX Security Symposium</venue><pages>3757-3774</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BijmansBSNW21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/bijmans</ee><url>https://dblp.org/rec/conf/uss/BijmansBSNW21</url></info>
+<url>URL#1087581</url>
+</hit>
+<hit score="1" id="1087582">
+<info><authors><author pid="52/8356">Igor Bilogrevic</author><author pid="301/5887">Balazs Engedy</author><author pid="301/5806">Judson L. Porter III</author><author pid="t/NinaTaft">Nina Taft</author><author pid="301/5844">Kamila Hasanbega</author><author pid="301/5869">Andrew Paseltiner</author><author pid="301/5877">Hwi Kyoung Lee</author><author pid="40/202">Edward Jung</author><author pid="301/5805">Meggyn Watkins</author><author pid="301/5850">P. J. McLachlan</author><author pid="163/4653">Jason James</author></authors><title>&quot;Shhh...be quiet!&quot; Reducing the Unwanted Interruptions of Notification Permission Prompts on Chrome.</title><venue>USENIX Security Symposium</venue><pages>769-784</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BilogrevicEPTHP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/bilogrevic</ee><url>https://dblp.org/rec/conf/uss/BilogrevicEPTHP21</url></info>
+<url>URL#1087582</url>
+</hit>
+<hit score="1" id="1087583">
+<info><authors><author pid="224/9340">Henry Birge-Lee</author><author pid="56/4499-54">Liang Wang 0054</author><author pid="123/3270">Daniel McCarney</author><author pid="301/5892">Roland Shoemaker</author><author pid="r/JenniferRexford">Jennifer Rexford</author><author pid="39/6266">Prateek Mittal</author></authors><title>Experiences Deploying Multi-Vantage-Point Domain Validation at Let&apos;s Encrypt.</title><venue>USENIX Security Symposium</venue><pages>4311-4327</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Birge-LeeWMSRM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/birge-lee</ee><url>https://dblp.org/rec/conf/uss/Birge-LeeWMSRM21</url></info>
+<url>URL#1087583</url>
+</hit>
+<hit score="1" id="1087584">
+<info><authors><author pid="181/5327">Michael Brengel</author><author pid="08/6024">Christian Rossow</author></authors><title>YARIX: Scalable YARA-based Malware Intelligence.</title><venue>USENIX Security Symposium</venue><pages>3541-3558</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BrengelR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/brengel</ee><url>https://dblp.org/rec/conf/uss/BrengelR21</url></info>
+<url>URL#1087584</url>
+</hit>
+<hit score="1" id="1087585">
+<info><authors><author pid="76/6564">Marcus Brinkmann</author><author pid="224/9346">Christian Dresen</author><author pid="248/1716">Robert Merget</author><author pid="216/6088">Damian Poddebniak</author><author pid="80/1239-7">Jens Müller 0007</author><author pid="27/8331">Juraj Somorovsky</author><author pid="58/5730">Jörg Schwenk</author><author pid="43/11495">Sebastian Schinzel</author></authors><title>ALPACA: Application Layer Protocol Confusion - Analyzing and Mitigating Cracks in TLS Authentication.</title><venue>USENIX Security Symposium</venue><pages>4293-4310</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BrinkmannDMP0SS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/brinkmann</ee><url>https://dblp.org/rec/conf/uss/BrinkmannDMP0SS21</url></info>
+<url>URL#1087585</url>
+</hit>
+<hit score="1" id="1087586">
+<info><authors><author pid="294/4488">Alexander Bulekov</author><author pid="220/2510">Rasoul Jahanshahi</author><author pid="27/3108">Manuel Egele</author></authors><title>Saphire: Sandboxing PHP Applications with Tailored System Call Allowlists.</title><venue>USENIX Security Symposium</venue><pages>2881-2898</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BulekovJE21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/bulekov</ee><url>https://dblp.org/rec/conf/uss/BulekovJE21</url></info>
+<url>URL#1087586</url>
+</hit>
+<hit score="1" id="1087587">
+<info><authors><author pid="13/8970">Patricia Arias Cabarcos</author><author pid="222/8416">Thilo Habrich</author><author pid="98/11488">Karen Becker</author><author pid="b/ChristianBecker">Christian Becker 0001</author><author pid="69/2809">Thorsten Strufe</author></authors><title>Inexpensive Brainwave Authentication: New Techniques and Insights on User Acceptance.</title><venue>USENIX Security Symposium</venue><pages>55-72</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CabarcosHB0S21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/arias-cabarcos</ee><url>https://dblp.org/rec/conf/uss/CabarcosHB0S21</url></info>
+<url>URL#1087587</url>
+</hit>
+<hit score="1" id="1087589">
+<info><authors><author pid="146/9100">Xiaoyu Cao</author><author pid="24/5124">Jinyuan Jia</author><author pid="03/9437">Neil Zhenqiang Gong</author></authors><title>Data Poisoning Attacks to Local Differential Privacy Protocols.</title><venue>USENIX Security Symposium</venue><pages>947-964</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CaoJG21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cao-xiaoyu</ee><url>https://dblp.org/rec/conf/uss/CaoJG21</url></info>
+<url>URL#1087589</url>
+</hit>
+<hit score="1" id="1087590">
+<info><authors><author pid="301/5889">Weicheng Cao</author><author pid="228/8982">Chunqiu Xia</author><author pid="91/8283">Sai Teja Peddinti</author><author pid="l/DavidLie">David Lie</author><author pid="t/NinaTaft">Nina Taft</author><author pid="169/3376">Lisa M. Austin</author></authors><title>A Large Scale Study of User Behavior, Expectations and Engagement with Android Permissions.</title><venue>USENIX Security Symposium</venue><pages>803-820</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CaoXPLTA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cao-weicheng</ee><url>https://dblp.org/rec/conf/uss/CaoXPLTA21</url></info>
+<url>URL#1087590</url>
+</hit>
+<hit score="1" id="1087591">
+<info><authors><author pid="145/1806">Nicholas Carlini</author></authors><title>Poisoning the Unlabeled Dataset of Semi-Supervised Learning.</title><venue>USENIX Security Symposium</venue><pages>1577-1592</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Carlini21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-poisoning</ee><url>https://dblp.org/rec/conf/uss/Carlini21</url></info>
+<url>URL#1087591</url>
+</hit>
+<hit score="1" id="1087592">
+<info><authors><author pid="145/1806">Nicholas Carlini</author><author pid="158/7224">Florian Tramèr</author><author pid="218/6165">Eric Wallace</author><author pid="218/5156">Matthew Jagielski</author><author pid="154/6582">Ariel Herbert-Voss</author><author pid="115/5082">Katherine Lee</author><author pid="95/6569">Adam Roberts</author><author pid="211/7884">Tom B. Brown</author><author pid="s/DXSong">Dawn Song</author><author pid="e/UErlingsson">Úlfar Erlingsson</author><author pid="35/3425">Alina Oprea</author><author pid="149/0082">Colin Raffel</author></authors><title>Extracting Training Data from Large Language Models.</title><venue>USENIX Security Symposium</venue><pages>2633-2650</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CarliniTWJHLRBS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting</ee><url>https://dblp.org/rec/conf/uss/CarliniTWJHLRBS21</url></info>
+<url>URL#1087592</url>
+</hit>
+<hit score="1" id="1087593">
+<info><authors><author pid="245/4979">Sylvain Chatel</author><author pid="66/7821">Apostolos Pyrgelis</author><author pid="33/5866">Juan Ramón Troncoso-Pastoriza</author><author pid="h/JPHubaux">Jean-Pierre Hubaux</author></authors><title>Privacy and Integrity Preserving Computations with CRISP.</title><venue>USENIX Security Symposium</venue><pages>2111-2128</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChatelPTH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chatel</ee><url>https://dblp.org/rec/conf/uss/ChatelPTH21</url></info>
+<url>URL#1087593</url>
+</hit>
+<hit score="1" id="1087594">
+<info><authors><author pid="09/7487-1">Yizheng Chen 0001</author><author pid="58/9145-2">Shiqi Wang 0002</author><author pid="255/5076">Weifan Jiang</author><author pid="35/10805">Asaf Cidon</author><author pid="74/28">Suman Jana</author></authors><title>Cost-Aware Robust Tree Ensembles for Security Applications.</title><venue>USENIX Security Symposium</venue><pages>2291-2308</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Chen0JCJ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-yizheng</ee><url>https://dblp.org/rec/conf/uss/Chen0JCJ21</url></info>
+<url>URL#1087594</url>
+</hit>
+<hit score="1" id="1087595">
+<info><authors><author pid="227/9058">Kaixiang Chen</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="40/4177">Tingting Yin</author><author pid="277/8177">Xingman Chen</author><author pid="87/734">Lei Zhao</author></authors><title>VScape: Assessing and Escaping Virtual Call Protections.</title><venue>USENIX Security Symposium</venue><pages>1719-1736</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Chen0YCZ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-kaixiang</ee><url>https://dblp.org/rec/conf/uss/Chen0YCZ21</url></info>
+<url>URL#1087595</url>
+</hit>
+<hit score="1" id="1087596">
+<info><authors><author pid="301/5879">Xutong Chen</author><author pid="166/4235">Hassaan Irshad</author><author pid="88/2827-4">Yan Chen 0004</author><author pid="21/2267">Ashish Gehani</author><author pid="75/3570">Vinod Yegneswaran</author></authors><title>CLARION: Sound and Clear Provenance Tracking for Microservice Deployments.</title><venue>USENIX Security Symposium</venue><pages>3989-4006</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenI0GY21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-xutong</ee><url>https://dblp.org/rec/conf/uss/ChenI0GY21</url></info>
+<url>URL#1087596</url>
+</hit>
+<hit score="1" id="1087597">
+<info><authors><author pid="299/3289">Paizhuo Chen</author><author pid="13/7007">Lei Li</author><author pid="162/5529">Zhice Yang</author></authors><title>Cross-VM and Cross-Processor Covert Channels Exploiting Processor Idle Power Management.</title><venue>USENIX Security Symposium</venue><pages>733-750</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenLY21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-paizhuo</ee><url>https://dblp.org/rec/conf/uss/ChenLY21</url></info>
+<url>URL#1087597</url>
+</hit>
+<hit score="1" id="1087598">
+<info><authors><author pid="198/6782">Sanchuan Chen</author><author pid="49/4102">Zhiqiang Lin</author><author pid="77/3503">Yinqian Zhang</author></authors><title>SelectiveTaint: Efficient Data Flow Tracking With Static Binary Rewriting.</title><venue>USENIX Security Symposium</venue><pages>1665-1682</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenLZ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-sanchuan</ee><url>https://dblp.org/rec/conf/uss/ChenLZ21</url></info>
+<url>URL#1087598</url>
+</hit>
+<hit score="1" id="1087599">
+<info><authors><author pid="239/4477">Zitai Chen</author><author pid="296/7450">Georgios Vasilakis</author><author pid="272/8308">Kit Murdock</author><author pid="301/5813">Edward Dean</author><author pid="190/2073">David F. Oswald</author><author pid="42/1707">Flavio D. Garcia</author></authors><title>VoltPillager: Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface.</title><venue>USENIX Security Symposium</venue><pages>699-716</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenVMDOG21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-zitai</ee><url>https://dblp.org/rec/conf/uss/ChenVMDOG21</url></info>
+<url>URL#1087599</url>
+</hit>
+<hit score="1" id="1087600">
+<info><authors><author pid="08/4315">Libo Chen</author><author pid="123/2365">Yanhao Wang</author><author pid="222/1244">Quanpu Cai</author><author pid="301/5839">Yunfan Zhan</author><author pid="70/2543-4">Hong Hu 0004</author><author pid="301/5914">Jiaqi Linghu</author><author pid="276/0713">Qinsheng Hou</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="36/5143">Haixin Duan</author><author pid="44/3322">Zhi Xue</author></authors><title>Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems.</title><venue>USENIX Security Symposium</venue><pages>303-319</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenWCZ0LH0DX21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/chen-libo</ee><url>https://dblp.org/rec/conf/uss/ChenWCZ0LH0DX21</url></info>
+<url>URL#1087600</url>
+</hit>
+<hit score="1" id="1087601">
+<info><authors><author pid="221/3017">Binlin Cheng</author><author pid="09/6585-2">Jiang Ming 0002</author><author pid="301/5851">Erika A. Leal</author><author pid="83/4184">Haotian Zhang</author><author pid="44/2489">Jianming Fu</author><author pid="30/4066">Guojun Peng</author><author pid="m/JeanYvesMarion">Jean-Yves Marion</author></authors><title>Obfuscation-Resilient Executable Payload Extraction From Packed Malware.</title><venue>USENIX Security Symposium</venue><pages>3451-3468</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Cheng0LZFPM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-binlin</ee><url>https://dblp.org/rec/conf/uss/Cheng0LZFPM21</url></info>
+<url>URL#1087601</url>
+</hit>
+<hit score="1" id="1087602">
+<info><authors><author pid="63/4074">Yushi Cheng</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="213/9461">Lixu Wang</author><author pid="44/8421">Qi Pang</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>mID: Tracing Screen Photos via Moiré Patterns.</title><venue>USENIX Security Symposium</venue><pages>2969-2986</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChengJWP0X21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-yushi</ee><url>https://dblp.org/rec/conf/uss/ChengJWP0X21</url></info>
+<url>URL#1087602</url>
+</hit>
+<hit score="1" id="1087603">
+<info><authors><author pid="180/8231">Haibo Cheng</author><author pid="29/4801">Wenting Li</author><author pid="37/1304-3">Ping Wang 0003</author><author pid="02/4329">Chao-Hsien Chu</author><author pid="126/6037">Kaitai Liang</author></authors><title>Incrementally Updateable Honey Password Vaults.</title><venue>USENIX Security Symposium</venue><pages>857-874</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChengL0CL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-haibo</ee><url>https://dblp.org/rec/conf/uss/ChengL0CL21</url></info>
+<url>URL#1087603</url>
+</hit>
+<hit score="1" id="1087605">
+<info><authors><author pid="61/1413">Sunny Consolvo</author><author pid="15/3631">Patrick Gage Kelley</author><author pid="57/1705">Tara Matthews</author><author pid="68/8283">Kurt Thomas</author><author pid="294/4062">Lee Dunn</author><author pid="20/7004">Elie Bursztein</author></authors><title>&quot;Why wouldn&apos;t someone think of democracy as a target?&quot;: Security practices &amp; challenges of people involved with U.S. political campaigns.</title><venue>USENIX Security Symposium</venue><pages>1181-1198</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ConsolvoKMTDB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/consolvo</ee><url>https://dblp.org/rec/conf/uss/ConsolvoKMTDB21</url></info>
+<url>URL#1087605</url>
+</hit>
+<hit score="1" id="1087606">
+<info><authors><author pid="17/2282">Cas Cremers</author><author pid="167/7329">Britta Hale</author><author pid="218/7414">Konrad Kohbrok</author></authors><title>The Complexities of Healing in Secure Group Messaging: Why Cross-Group Effects Matter.</title><venue>USENIX Security Symposium</venue><pages>1847-1864</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CremersHK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cremers</ee><url>https://dblp.org/rec/conf/uss/CremersHK21</url></info>
+<url>URL#1087606</url>
+</hit>
+<hit score="1" id="1087607">
+<info><authors><author pid="131/5969">Patrick Cronin</author><author pid="87/4866-1">Xing Gao 0001</author><author pid="06/4401">Chengmo Yang</author><author pid="81/4036">Haining Wang</author></authors><title>Charger-Surfing: Exploiting a Power Line Side-Channel for Smartphone Information Leakage.</title><venue>USENIX Security Symposium</venue><pages>681-698</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Cronin0YW21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cronin</ee><url>https://dblp.org/rec/conf/uss/Cronin0YW21</url></info>
+<url>URL#1087607</url>
+</hit>
+<hit score="1" id="1087608">
+<info><authors><author pid="197/3968">Tianyu Cui</author><author pid="13/10808">Gaopeng Gou</author><author pid="96/372-1">Gang Xiong 0001</author><author pid="74/2397-11">Zhen Li 0011</author><author pid="207/6586">Mingxin Cui</author><author pid="52/5716-49">Chang Liu 0049</author></authors><title>SiamHAN: IPv6 Address Correlation Attacks on TLS Encrypted Traffic via Siamese Heterogeneous Graph Attention Network.</title><venue>USENIX Security Symposium</venue><pages>4329-4346</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CuiGX0C021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/cui</ee><url>https://dblp.org/rec/conf/uss/CuiGX0C021</url></info>
+<url>URL#1087608</url>
+</hit>
+<hit score="1" id="1087609">
+<info><authors><author pid="188/4885">Tianxiang Dai</author><author pid="271/6045">Philipp Jeitner</author><author pid="94/7397">Haya Shulman</author><author pid="90/308">Michael Waidner</author></authors><title>The Hijackers Guide To The Galaxy: Off-Path Taking Over Internet Resources.</title><venue>USENIX Security Symposium</venue><pages>3147-3164</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DaiJSW21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/dai</ee><url>https://dblp.org/rec/conf/uss/DaiJSW21</url></info>
+<url>URL#1087609</url>
+</hit>
+<hit score="1" id="1087610">
+<info><authors><author pid="201/6434">Anders P. K. Dalskov</author><author pid="05/4011-1">Daniel Escudero 0001</author><author pid="69/8323">Marcel Keller</author></authors><title>Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security.</title><venue>USENIX Security Symposium</venue><pages>2183-2200</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Dalskov0K21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/dalskov</ee><url>https://dblp.org/rec/conf/uss/Dalskov0K21</url></info>
+<url>URL#1087610</url>
+</hit>
+<hit score="1" id="1087611">
+<info><authors><author pid="301/5853">Marc Damie</author><author pid="153/5769">Florian Hahn 0001</author><author pid="43/8243">Andreas Peter</author></authors><title>A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents.</title><venue>USENIX Security Symposium</venue><pages>143-160</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Damie0P21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/damie</ee><url>https://dblp.org/rec/conf/uss/Damie0P21</url></info>
+<url>URL#1087611</url>
+</hit>
+<hit score="1" id="1087612">
+<info><authors><author pid="230/7753">Hailun Ding</author><author pid="228/2025">Shenao Yan</author><author pid="154/5678">Juan Zhai</author><author pid="172/8745">Shiqing Ma</author></authors><title>ELISE: A Storage Efficient Logging System Powered by Redundancy Reduction and Representation Learning.</title><venue>USENIX Security Symposium</venue><pages>3023-3040</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DingYZM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ding</ee><url>https://dblp.org/rec/conf/uss/DingYZM21</url></info>
+<url>URL#1087612</url>
+</hit>
+<hit score="1" id="1087613">
+<info><authors><author pid="123/9696">Evan Downing</author><author pid="160/6851">Yisroel Mirsky</author><author pid="200/1946">Kyuhong Park</author><author pid="29/5976">Wenke Lee</author></authors><title>DeepReflect: Discovering Malicious Functionality through Binary Reconstruction.</title><venue>USENIX Security Symposium</venue><pages>3469-3486</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DowningMPL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/downing</ee><url>https://dblp.org/rec/conf/uss/DowningMPL21</url></info>
+<url>URL#1087613</url>
+</hit>
+<hit score="1" id="1087614">
+<info><authors><author pid="261/3603">Thorsten Eisenhofer</author><author pid="195/0263">Lea Schönherr</author><author pid="64/5428">Joel Frank</author><author pid="285/5174">Lars Speckemeier</author><author pid="44/3463">Dorothea Kolossa</author><author pid="h/ThorstenHolz">Thorsten Holz</author></authors><title>Dompteur: Taming Audio Adversarial Examples.</title><venue>USENIX Security Symposium</venue><pages>2309-2326</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/EisenhoferSFSKH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/eisenhofer</ee><url>https://dblp.org/rec/conf/uss/EisenhoferSFSKH21</url></info>
+<url>URL#1087614</url>
+</hit>
+<hit score="1" id="1087615">
+<info><authors><author pid="301/5896">Yusra Elbitar</author><author pid="40/1587">Michael Schilling 0001</author><author pid="294/4401">Trung Tin Nguyen</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="31/7561">Sven Bugiel</author></authors><title>Explanation Beats Context: The Effect of Timing &amp; Rationales on Users&apos; Runtime Permission Decisions.</title><venue>USENIX Security Symposium</venue><pages>785-802</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Elbitar0N0B21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/elbitar</ee><url>https://dblp.org/rec/conf/uss/Elbitar0N0B21</url></info>
+<url>URL#1087615</url>
+</hit>
+<hit score="1" id="1087616">
+<info><authors><author pid="198/0935">Saba Eskandarian</author><author pid="87/8037">Henry Corrigan-Gibbs</author><author pid="36/2133">Matei Zaharia</author><author pid="b/DanBoneh">Dan Boneh</author></authors><title>Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy.</title><venue>USENIX Security Symposium</venue><pages>1775-1792</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/EskandarianCZB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/eskandarian</ee><url>https://dblp.org/rec/conf/uss/EskandarianCZB21</url></info>
+<url>URL#1087616</url>
+</hit>
+<hit score="1" id="1087617">
+<info><authors><author pid="250/6496">Florian M. Farke</author><author pid="294/0161">David G. Balash</author><author pid="177/0313">Maximilian Golla</author><author pid="36/3665">Markus Dürmuth</author><author pid="94/1554">Adam J. Aviv</author></authors><title>Are Privacy Dashboards Good for End Users? Evaluating User Perceptions and Reactions to Google&apos;s My Activity.</title><venue>USENIX Security Symposium</venue><pages>483-500</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/FarkeBGDA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/farke</ee><url>https://dblp.org/rec/conf/uss/FarkeBGDA21</url></info>
+<url>URL#1087617</url>
+</hit>
+<hit score="1" id="1087618">
+<info><authors><author pid="228/8232">Reza Mirzazade Farkhani</author><author pid="161/1767">Mansour Ahmadi</author><author pid="81/7428">Long Lu</author></authors><title>PTAuth: Temporal Memory Safety via Robust Points-to Authentication.</title><venue>USENIX Security Symposium</venue><pages>1037-1054</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/FarkhaniAL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/mirzazade</ee><url>https://dblp.org/rec/conf/uss/FarkhaniAL21</url></info>
+<url>URL#1087618</url>
+</hit>
+<hit score="1" id="1087619">
+<info><authors><author pid="133/6699">Peng Fei</author><author pid="62/4119-1">Zhou Li 0001</author><author pid="w/ZhiyingWang-1">Zhiying Wang 0001</author><author pid="89/2407-7">Xiao Yu 0007</author><author pid="95/7132-1">Ding Li 0001</author><author pid="36/10085">Kangkook Jee</author></authors><title>SEAL: Storage-efficient Causality Analysis on Enterprise Logs with Query-friendly Compression.</title><venue>USENIX Security Symposium</venue><pages>2987-3004</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/FeiL000J21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/fei</ee><url>https://dblp.org/rec/conf/uss/FeiL000J21</url></info>
+<url>URL#1087619</url>
+</hit>
+<hit score="1" id="1087620">
+<info><authors><author pid="238/5097">Kimberly Ferguson-Walter</author><author pid="196/9817">Maxine Major</author><author pid="301/5868">Chelsea K. Johnson</author><author pid="301/5875">Daniel H. Muhleman</author></authors><title>Examining the Efficacy of Decoy-based and Psychological Cyber Deception.</title><venue>USENIX Security Symposium</venue><pages>1127-1144</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Ferguson-Walter21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ferguson-walter</ee><url>https://dblp.org/rec/conf/uss/Ferguson-Walter21</url></info>
+<url>URL#1087620</url>
+</hit>
+<hit score="1" id="1087621">
+<info><authors><author pid="252/5052">Andrea Fioraldi</author><author pid="32/9698">Daniele Cono D&apos;Elia</author><author pid="56/490">Davide Balzarotti</author></authors><title>The Use of Likely Invariants as Feedback for Fuzzers.</title><venue>USENIX Security Symposium</venue><pages>2829-2846</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/FioraldiDB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/fioraldi</ee><url>https://dblp.org/rec/conf/uss/FioraldiDB21</url></info>
+<url>URL#1087621</url>
+</hit>
+<hit score="1" id="1087622">
+<info><authors><author pid="169/1723">Xiaoqin Fu</author><author pid="117/7062">Haipeng Cai</author></authors><title>FlowDist: Multi-Staged Refinement-Based Dynamic Information Flow Analysis for Distributed Software Systems.</title><venue>USENIX Security Symposium</venue><pages>2093-2110</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/FuC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/fu-xiaoqin</ee><url>https://dblp.org/rec/conf/uss/FuC21</url></info>
+<url>URL#1087622</url>
+</hit>
+<hit score="1" id="1087624">
+<info><authors><author pid="237/1642">Sivanarayana Gaddam</author><author pid="54/10551">Atul Luykx</author><author pid="04/4646-1">Rohit Sinha 0001</author><author pid="52/2914">Gaven J. Watson</author></authors><title>Reducing HSM Reliance in Payments through Proxy Re-Encryption.</title><venue>USENIX Security Symposium</venue><pages>4061-4078</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GaddamL0W21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/gaddam</ee><url>https://dblp.org/rec/conf/uss/GaddamL0W21</url></info>
+<url>URL#1087624</url>
+</hit>
+<hit score="1" id="1087625">
+<info><authors><author pid="146/8907">Yipeng Gao</author><author pid="81/7020">Haichang Gao</author><author pid="252/8377">Sainan Luo</author><author pid="203/0404">Yang Zi</author><author pid="42/6194">Shudong Zhang</author><author pid="301/5846">Wenjie Mao</author><author pid="37/1304">Ping Wang</author><author pid="74/2768">Yulong Shen</author><author pid="37/6136">Jeff Yan</author></authors><title>Research on the Security of Visual Reasoning CAPTCHA.</title><venue>USENIX Security Symposium</venue><pages>3291-3308</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GaoGLZZMWSY21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/gao</ee><url>https://dblp.org/rec/conf/uss/GaoGLZZMWSY21</url></info>
+<url>URL#1087625</url>
+</hit>
+<hit score="1" id="1087626">
+<info><authors><author pid="277/3441">Barbara Gigerl</author><author pid="190/7521">Vedad Hadzic</author><author pid="203/4230">Robert Primas</author><author pid="91/4831">Stefan Mangard</author><author pid="80/1300">Roderick Bloem</author></authors><title>Coco: Co-Design and Co-Verification of Masked Software Implementations on CPUs.</title><venue>USENIX Security Symposium</venue><pages>1469-1468</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GigerlHPMB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/gigerl</ee><url>https://dblp.org/rec/conf/uss/GigerlHPMB21</url></info>
+<url>URL#1087626</url>
+</hit>
+<hit score="1" id="1087627">
+<info><authors><author pid="177/0313">Maximilian Golla</author><author pid="150/5927">Grant Ho</author><author pid="301/5867">Marika Lohmus</author><author pid="301/5865">Monica Pulluri</author><author pid="141/9244">Elissa M. Redmiles</author></authors><title>Driving 2FA Adoption at Scale: Optimizing Two-Factor Authentication Notification Design Patterns.</title><venue>USENIX Security Symposium</venue><pages>109-126</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GollaHLPR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/golla</ee><url>https://dblp.org/rec/conf/uss/GollaHLPR21</url></info>
+<url>URL#1087627</url>
+</hit>
+<hit score="1" id="1087628">
+<info><authors><author pid="41/136">Bogdan Groza</author><author pid="237/7528">Lucian Popa 0003</author><author pid="81/10328">Pal-Stefan Murvay</author><author pid="38/4086">Yuval Elovici</author><author pid="56/5380">Asaf Shabtai</author></authors><title>CANARY - a reactive defense mechanism for Controller Area Networks based on Active RelaYs.</title><venue>USENIX Security Symposium</venue><pages>4259-4276</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Groza0MES21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/groza</ee><url>https://dblp.org/rec/conf/uss/Groza0MES21</url></info>
+<url>URL#1087628</url>
+</hit>
+<hit score="1" id="1087629">
+<info><authors><author pid="76/5349-3">Cheng Guo 0003</author><author pid="157/4001">Brianne Campbell</author><author pid="50/6916">Apu Kapadia</author><author pid="r/MichaelKReiter">Michael K. Reiter</author><author pid="87/1275">Kelly Caine</author></authors><title>Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication.</title><venue>USENIX Security Symposium</venue><pages>1-18</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GuoCKRC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/guo</ee><url>https://dblp.org/rec/conf/uss/GuoCKRC21</url></info>
+<url>URL#1087629</url>
+</hit>
+<hit score="1" id="1087630">
+<info><authors><author pid="182/6753">Xueyuan Han</author><author pid="89/2407-7">Xiao Yu 0007</author><author pid="144/4204">Thomas F. J.-M. Pasquier</author><author pid="95/7132-1">Ding Li 0001</author><author pid="27/5932">Junghwan Rhee</author><author pid="90/1843">James W. Mickens</author><author pid="s/MargoISeltzer">Margo I. Seltzer</author><author pid="08/57">Haifeng Chen</author></authors><title>SIGL: Securing Software Installations Through Deep Graph Learning.</title><venue>USENIX Security Symposium</venue><pages>2345-2362</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Han0P0RMSC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/han-xueyuan</ee><url>https://dblp.org/rec/conf/uss/Han0P0RMSC21</url></info>
+<url>URL#1087630</url>
+</hit>
+<hit score="1" id="1087631">
+<info><authors><author pid="207/6588">HyungSeok Han</author><author pid="301/5906">Andrew Wesie</author><author pid="63/8731">Brian Pak</author></authors><title>Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs.</title><venue>USENIX Security Symposium</venue><pages>2059-2074</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HanWP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/han-hyungseok</ee><url>https://dblp.org/rec/conf/uss/HanWP21</url></info>
+<url>URL#1087631</url>
+</hit>
+<hit score="1" id="1087632">
+<info><authors><author pid="267/5358">Zhaokun Han</author><author pid="50/7693">Muhammad Yasin</author><author pid="79/9006">Jeyavijayan (JV) Rajendran</author></authors><title>Does logic locking work with EDA tools?</title><venue>USENIX Security Symposium</venue><pages>1055-1072</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HanYR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/han-zhaokun</ee><url>https://dblp.org/rec/conf/uss/HanYR21</url></info>
+<url>URL#1087632</url>
+</hit>
+<hit score="1" id="1087633">
+<info><authors><author pid="199/2650">Julie M. Haney</author><author pid="132/9687">Yasemin Acar</author><author pid="26/11234">Susanne Furman</author></authors><title>&quot;It&apos;s the Company, the Government, You and I&quot;: User Perceptions of Responsibility for Smart Home Privacy and Security.</title><venue>USENIX Security Symposium</venue><pages>411-428</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HaneyAF21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/haney</ee><url>https://dblp.org/rec/conf/uss/HaneyAF21</url></info>
+<url>URL#1087633</url>
+</hit>
+<hit score="1" id="1087634">
+<info><authors><author pid="227/7262">Xinlei He</author><author pid="24/5124">Jinyuan Jia</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="03/9437">Neil Zhenqiang Gong</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Stealing Links from Graph Neural Networks.</title><venue>USENIX Security Symposium</venue><pages>2669-2686</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HeJ0G021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/he-xinlei</ee><url>https://dblp.org/rec/conf/uss/HeJ0G021</url></info>
+<url>URL#1087634</url>
+</hit>
+<hit score="1" id="1087635">
+<info><authors><author pid="255/9138">Yingzhe He</author><author pid="134/8681">Guozhu Meng</author><author pid="c/KaiChen12">Kai Chen 0012</author><author pid="156/0804">Xingbo Hu</author><author pid="01/10388">Jinwen He</author></authors><title>DRMI: A Dataset Reduction Technology based on Mutual Information for Black-box Attacks.</title><venue>USENIX Security Symposium</venue><pages>1901-1918</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HeM0HH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/he-yingzhe</ee><url>https://dblp.org/rec/conf/uss/HeM0HH21</url></info>
+<url>URL#1087635</url>
+</hit>
+<hit score="1" id="1087636">
+<info><authors><author pid="228/1460">Ningyu He</author><author pid="08/7975">Ruiyi Zhang</author><author pid="50/8499-1">Haoyu Wang 0001</author><author pid="68/5597-12">Lei Wu 0012</author><author pid="53/1565">Xiapu Luo</author><author pid="07/6300-1">Yao Guo 0001</author><author pid="y/TingYu-1">Ting Yu 0001</author><author pid="80/6988">Xuxian Jiang</author></authors><title>EOSAFE: Security Analysis of EOSIO Smart Contracts.</title><venue>USENIX Security Symposium</venue><pages>1271-1288</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HeZ00L0YJ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/he-ningyu</ee><url>https://dblp.org/rec/conf/uss/HeZ00L0YJ21</url></info>
+<url>URL#1087636</url>
+</hit>
+<hit score="1" id="1087637">
+<info><authors><author pid="248/1693">Alexander Heinrich</author><author pid="95/1816">Matthias Hollick</author><author pid="06/3872-3">Thomas Schneider 0003</author><author pid="183/6724">Milan Stute</author><author pid="157/4432">Christian Weinert</author></authors><title>PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop.</title><venue>USENIX Security Symposium</venue><pages>3577-3594</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HeinrichH0SW21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/heinrich</ee><url>https://dblp.org/rec/conf/uss/HeinrichH0SW21</url></info>
+<url>URL#1087637</url>
+</hit>
+<hit score="1" id="1087638">
+<info><authors><author pid="150/5927">Grant Ho</author><author pid="145/2075">Mayank Dhiman</author><author pid="12/8302">Devdatta Akhawe</author><author pid="p/VernPaxson">Vern Paxson</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="42/5626">David A. Wagner 0001</author></authors><title>Hopper: Modeling and Detecting Lateral Movement.</title><venue>USENIX Security Symposium</venue><pages>3093-3110</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HoDAPSV021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ho</ee><url>https://dblp.org/rec/conf/uss/HoDAPSV021</url></info>
+<url>URL#1087638</url>
+</hit>
+<hit score="1" id="1087639">
+<info><authors><author pid="179/2240">Nguyen Phong Hoang</author><author pid="208/4182">Arian Akhavan Niaki</author><author pid="143/5671">Jakub Dalek</author><author pid="41/11468">Jeffrey Knockel</author><author pid="294/4645">Pellaeon Lin</author><author pid="48/879">Bill Marczak</author><author pid="129/5380">Masashi Crete-Nishihata</author><author pid="52/2893">Phillipa Gill</author><author pid="09/1231">Michalis Polychronakis</author></authors><title>How Great is the Great Firewall? Measuring China&apos;s DNS Censorship.</title><venue>USENIX Security Symposium</venue><pages>3381-3398</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HoangNDKLMCGP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/hoang</ee><url>https://dblp.org/rec/conf/uss/HoangNDKLMCGP21</url></info>
+<url>URL#1087639</url>
+</hit>
+<hit score="1" id="1087640">
+<info><authors><author pid="31/7616">Changhui Hu</author><author pid="48/1097-2">Jin Li 0002</author><author pid="22/8078">Zheli Liu</author><author pid="43/8066-4">Xiaojie Guo 0004</author><author pid="80/2983">Yu Wei</author><author pid="39/7802">Xuan Guang</author><author pid="96/4724">Grigorios Loukides</author><author pid="34/5882">Changyu Dong</author></authors><title>How to Make Private Distributed Cardinality Estimation Practical, and Get Differential Privacy for Free.</title><venue>USENIX Security Symposium</venue><pages>965-982</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Hu0LGWGLD21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/hu-changhui</ee><url>https://dblp.org/rec/conf/uss/Hu0LGWGLD21</url></info>
+<url>URL#1087640</url>
+</hit>
+<hit score="1" id="1087641">
+<info><authors><author pid="203/0829">Shengtuo Hu</author><author pid="150/3272">Qi Alfred Chen</author><author pid="174/9967">Jiachen Sun</author><author pid="214/8299">Yiheng Feng</author><author pid="91/584">Z. Morley Mao</author><author pid="45/2939">Henry X. Liu</author></authors><title>Automated Discovery of Denial-of-Service Vulnerabilities in Connected Vehicle Protocols.</title><venue>USENIX Security Symposium</venue><pages>3219-3236</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HuCSFML21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/hu-shengtuo</ee><url>https://dblp.org/rec/conf/uss/HuCSFML21</url></info>
+<url>URL#1087641</url>
+</hit>
+<hit score="1" id="1087642">
+<info><authors><author pid="213/7298">Nicolas Huaman</author><author pid="242/6900">Bennet von Skarczinski</author><author pid="184/6096">Christian Stransky</author><author pid="203/1800">Dominik Wermke</author><author pid="132/9687">Yasemin Acar</author><author pid="242/6958">Arne Dreißigacker</author><author pid="38/9378">Sascha Fahl</author></authors><title>A Large-Scale Interview Study on Information Security in and Attacks against Small and Medium-sized Enterprises.</title><venue>USENIX Security Symposium</venue><pages>1235-1252</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HuamanSSWADF21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/huaman</ee><url>https://dblp.org/rec/conf/uss/HuamanSSWADF21</url></info>
+<url>URL#1087642</url>
+</hit>
+<hit score="1" id="1087643">
+<info><authors><author pid="277/3612">Daniel Hugenroth</author><author pid="148/2880">Martin Kleppmann</author><author pid="29/361">Alastair R. Beresford</author></authors><title>Rollercoaster: An Efficient Group-Multicast Scheme for Mix Networks.</title><venue>USENIX Security Symposium</venue><pages>3433-3450</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HugenrothKB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/hugenroth</ee><url>https://dblp.org/rec/conf/uss/HugenrothKB21</url></info>
+<url>URL#1087643</url>
+</hit>
+<hit score="1" id="1087644">
+<info><authors><author pid="227/2207">Shehzeen Hussain</author><author pid="194/3168">Paarth Neekhara</author><author pid="89/4032">Shlomo Dubnov</author><author pid="29/3483">Julian J. McAuley</author><author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author></authors><title>WaveGuard: Understanding and Mitigating Audio Adversarial Examples.</title><venue>USENIX Security Symposium</venue><pages>2273-2290</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HussainNDMK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/hussain</ee><url>https://dblp.org/rec/conf/uss/HussainNDMK21</url></info>
+<url>URL#1087644</url>
+</hit>
+<hit score="1" id="1087645">
+<info><authors><author pid="244/2598">Jacob Imola</author><author pid="37/9269">Takao Murakami</author><author pid="56/6435">Kamalika Chaudhuri</author></authors><title>Locally Differentially Private Analysis of Graph Statistics.</title><venue>USENIX Security Symposium</venue><pages>983-1000</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ImolaMC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/imola</ee><url>https://dblp.org/rec/conf/uss/ImolaMC21</url></info>
+<url>URL#1087645</url>
+</hit>
+<hit score="1" id="1087646">
+<info><authors><author pid="227/0738">Liz Izhikevich</author><author pid="64/4885">Renata Teixeira</author><author pid="143/5673">Zakir Durumeric</author></authors><title>LZR: Identifying Unexpected Internet Services.</title><venue>USENIX Security Symposium</venue><pages>3111-3128</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/IzhikevichTD21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/izhikevich</ee><url>https://dblp.org/rec/conf/uss/IzhikevichTD21</url></info>
+<url>URL#1087646</url>
+</hit>
+<hit score="1" id="1087647">
+<info><authors><author pid="301/5827">Mohit Kumar Jangid</author><author pid="05/1884">Guoxing Chen</author><author pid="77/3503">Yinqian Zhang</author><author pid="49/4102">Zhiqiang Lin</author></authors><title>Towards Formal Verification of State Continuity for Enclave Programs.</title><venue>USENIX Security Symposium</venue><pages>573-590</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JangidCZL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/jangid</ee><url>https://dblp.org/rec/conf/uss/JangidCZL21</url></info>
+<url>URL#1087647</url>
+</hit>
+<hit score="1" id="1087648">
+<info><authors><author pid="14/7561">Rob Jansen</author><author pid="224/9243">Justin Tracey</author><author pid="04/6434">Ian Goldberg</author></authors><title>Once is Never Enough: Foundations for Sound Statistical Inference in Tor Network Experimentation.</title><venue>USENIX Security Symposium</venue><pages>3415-3432</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JansenTG21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/jansen</ee><url>https://dblp.org/rec/conf/uss/JansenTG21</url></info>
+<url>URL#1087648</url>
+</hit>
+<hit score="1" id="1087649">
+<info><authors><author pid="271/6045">Philipp Jeitner</author><author pid="94/7397">Haya Shulman</author></authors><title>Injection Attacks Reloaded: Tunnelling Malicious Payloads over DNS.</title><venue>USENIX Security Symposium</venue><pages>3165-3182</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JeitnerS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/jeitner</ee><url>https://dblp.org/rec/conf/uss/JeitnerS21</url></info>
+<url>URL#1087649</url>
+</hit>
+<hit score="1" id="1087650">
+<info><authors><author pid="138/4316">Yuede Ji</author><author pid="45/7864">Mohamed Elsabagh</author><author pid="98/3414-2">Ryan Johnson 0002</author><author pid="14/5349">Angelos Stavrou</author></authors><title>DEFInit: An Analysis of Exposed Android Init Routines.</title><venue>USENIX Security Symposium</venue><pages>3685-3702</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JiE0S21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ji</ee><url>https://dblp.org/rec/conf/uss/JiE0S21</url></info>
+<url>URL#1087650</url>
+</hit>
+<hit score="1" id="1087651">
+<info><authors><author pid="255/4934">Hengrui Jia</author><author pid="250/9674">Christopher A. Choquette-Choo</author><author pid="179/2245">Varun Chandrasekaran</author><author pid="162/1405">Nicolas Papernot</author></authors><title>Entangled Watermarks as a Defense against Model Extraction.</title><venue>USENIX Security Symposium</venue><pages>1937-1954</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JiaCCP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/jia</ee><url>https://dblp.org/rec/conf/uss/JiaCCP21</url></info>
+<url>URL#1087651</url>
+</hit>
+<hit score="1" id="1087652">
+<info><authors><author pid="226/7196">Pengfei Jing</author><author pid="266/5623">Qiyi Tang 0003</author><author pid="301/5905">Yuefeng Du 0006</author><author pid="68/2052-1">Lei Xue 0001</author><author pid="53/1565">Xiapu Luo</author><author pid="12/2633-6">Ting Wang 0006</author><author pid="50/8847">Sen Nie</author><author pid="49/10149">Shi Wu</author></authors><title>Too Good to Be Safe: Tricking Lane Detection in Autonomous Driving with Crafted Perturbations.</title><venue>USENIX Security Symposium</venue><pages>3237-3254</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Jing0D0L0NW21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/jing</ee><url>https://dblp.org/rec/conf/uss/Jing0D0L0NW21</url></info>
+<url>URL#1087652</url>
+</hit>
+<hit score="1" id="1087653">
+<info><authors><author pid="246/5332-1">Evan Johnson 0001</author><author pid="248/1655">Maxwell Bland</author><author pid="174/2169">Yifei Zhu</author><author pid="34/3008">Joshua Mason</author><author pid="14/8302">Stephen Checkoway</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="l/KirillLevchenko">Kirill Levchenko</author></authors><title>Jetset: Targeted Firmware Rehosting for Embedded Systems.</title><venue>USENIX Security Symposium</venue><pages>321-338</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JohnsonBZMCSL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/johnson</ee><url>https://dblp.org/rec/conf/uss/JohnsonBZMCSL21</url></info>
+<url>URL#1087653</url>
+</hit>
+<hit score="1" id="1087654">
+<info><authors><author pid="162/0178">Ben Kaiser</author><author pid="266/7921">Jerry Wei</author><author pid="236/2164">Eli Lucherini</author><author pid="44/765">Kevin Lee</author><author pid="13/3509">J. Nathan Matias</author><author pid="116/8542">Jonathan R. Mayer</author></authors><title>Adapting Security Warnings to Counter Online Disinformation.</title><venue>USENIX Security Symposium</venue><pages>1163-1180</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KaiserWLLMM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/kaiser</ee><url>https://dblp.org/rec/conf/uss/KaiserWLLMM21</url></info>
+<url>URL#1087654</url>
+</hit>
+<hit score="1" id="1087655">
+<info><authors><author pid="154/3627">Mohammad Taha Khan</author><author pid="245/3351">Christopher Tran 0001</author><author pid="171/1758">Shubham Singh</author><author pid="301/5820">Dimitri Vasilkov</author><author pid="20/4340">Chris Kanich</author><author pid="66/9786">Blase Ur</author><author pid="01/5750">Elena Zheleva</author></authors><title>Helping Users Automatically Find and Manage Sensitive, Expendable Files in Cloud Storage.</title><venue>USENIX Security Symposium</venue><pages>1145-1162</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Khan0SVKUZ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/khan-mohammad</ee><url>https://dblp.org/rec/conf/uss/Khan0SVKUZ21</url></info>
+<url>URL#1087655</url>
+</hit>
+<hit score="1" id="1087656">
+<info><authors><author pid="271/4490">Arslan Khan</author><author pid="155/0040">Hyungsub Kim</author><author pid="45/7986">Byoungyoung Lee</author><author pid="59/5539">Dongyan Xu</author><author pid="99/3883">Antonio Bianchi</author><author pid="159/0537">Dave (Jing) Tian</author></authors><title>M2MON: Building an MMIO-based Security Reference Monitor for Unmanned Vehicles.</title><venue>USENIX Security Symposium</venue><pages>285-302</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KhanKLXBT21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/khan-arslan</ee><url>https://dblp.org/rec/conf/uss/KhanKLXBT21</url></info>
+<url>URL#1087656</url>
+</hit>
+<hit score="1" id="1087657">
+<info><authors><author pid="275/2625">Rishabh Khandelwal</author><author pid="227/2845">Thomas Linden</author><author pid="17/9886">Hamza Harkous</author><author pid="97/535">Kassem Fawaz</author></authors><title>PriSEC: A Privacy Settings Enforcement Controller.</title><venue>USENIX Security Symposium</venue><pages>465-482</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KhandelwalLHF21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/khandelwal</ee><url>https://dblp.org/rec/conf/uss/KhandelwalLHF21</url></info>
+<url>URL#1087657</url>
+</hit>
+<hit score="1" id="1087658">
+<info><authors><author pid="246/4771">Soheil Khodayari</author><author pid="35/9056">Giancarlo Pellegrino</author></authors><title>JAW: Studying Client-side CSRF with Hybrid Property Graphs and Declarative Traversals.</title><venue>USENIX Security Symposium</venue><pages>2525-2542</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KhodayariP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/khodayari</ee><url>https://dblp.org/rec/conf/uss/KhodayariP21</url></info>
+<url>URL#1087658</url>
+</hit>
+<hit score="1" id="1087659">
+<info><authors><author pid="157/5259">Taegyu Kim</author><author pid="41/9886">Vireshwar Kumar</author><author pid="27/5932">Junghwan Rhee</author><author pid="301/5888">Jizhou Chen</author><author pid="78/5052">Kyungtae Kim</author><author pid="122/2010">Chung Hwan Kim</author><author pid="59/5539">Dongyan Xu</author><author pid="159/0537">Dave (Jing) Tian</author></authors><title>PASAN: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications.</title><venue>USENIX Security Symposium</venue><pages>249-266</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KimKRCKKXT21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/kim</ee><url>https://dblp.org/rec/conf/uss/KimKRCKKXT21</url></info>
+<url>URL#1087659</url>
+</hit>
+<hit score="1" id="1087660">
+<info><authors><author pid="296/1611">Ofek Kirzner</author><author pid="40/944">Adam Morrison 0001</author></authors><title>An Analysis of Speculative Type Confusion Vulnerabilities in the Wild.</title><venue>USENIX Security Symposium</venue><pages>2399-2416</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Kirzner021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/kirzner</ee><url>https://dblp.org/rec/conf/uss/Kirzner021</url></info>
+<url>URL#1087660</url>
+</hit>
+<hit score="1" id="1087662">
+<info><authors><author pid="61/210">Dmitry Kogan</author><author pid="87/8037">Henry Corrigan-Gibbs</author></authors><title>Private Blocklist Lookups with Checklist.</title><venue>USENIX Security Symposium</venue><pages>875-892</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KoganC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/kogan</ee><url>https://dblp.org/rec/conf/uss/KoganC21</url></info>
+<url>URL#1087662</url>
+</hit>
+<hit score="1" id="1087663">
+<info><authors><author pid="160/3825">Nishat Koti</author><author pid="265/5970">Mahak Pancholi</author><author pid="64/3169">Arpita Patra</author><author pid="187/5691">Ajith Suresh</author></authors><title>SWIFT: Super-fast and Robust Privacy-Preserving Machine Learning.</title><venue>USENIX Security Symposium</venue><pages>2651-2668</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KotiPPS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/koti</ee><url>https://dblp.org/rec/conf/uss/KotiPPS21</url></info>
+<url>URL#1087663</url>
+</hit>
+<hit score="1" id="1087664">
+<info><authors><author pid="170/0453">Thilo Krachenfels</author><author pid="01/8532">Tuba Kiyan</author><author pid="139/7378">Shahin Tajik</author><author pid="98/117">Jean-Pierre Seifert</author></authors><title>Automatic Extraction of Secrets from the Transistor Jungle using Laser-Assisted Side-Channel Attacks.</title><venue>USENIX Security Symposium</venue><pages>627-644</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KrachenfelsKTS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/krachenfels</ee><url>https://dblp.org/rec/conf/uss/KrachenfelsKTS21</url></info>
+<url>URL#1087664</url>
+</hit>
+<hit score="1" id="1087665">
+<info><authors><author pid="02/11141">Anunay Kulshrestha</author><author pid="116/8542">Jonathan R. Mayer</author></authors><title>Identifying Harmful Media in End-to-End Encrypted Communication: Efficient Private Membership Computation.</title><venue>USENIX Security Symposium</venue><pages>893-910</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KulshresthaM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/kulshrestha</ee><url>https://dblp.org/rec/conf/uss/KulshresthaM21</url></info>
+<url>URL#1087665</url>
+</hit>
+<hit score="1" id="1087666">
+<info><authors><author pid="301/5837">Jochem van de Laarschot</author><author pid="224/9337">Rolf van Wegberg</author></authors><title>Risky Business? Investigating the Security Practices of Vendors on an Online Anonymous Market using Ground-Truth Data.</title><venue>USENIX Security Symposium</venue><pages>4079-4095</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LaarschotW21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/van-de-laarschot</ee><url>https://dblp.org/rec/conf/uss/LaarschotW21</url></info>
+<url>URL#1087666</url>
+</hit>
+<hit score="1" id="1087667">
+<info><authors><author pid="239/4292">Nitya Lakshmanan</author><author pid="227/7176">Nishant Budhdev</author><author pid="75/8333">Min Suk Kang</author><author pid="28/6329">Mun Choon Chan</author><author pid="02/3721-1">Jun Han 0001</author></authors><title>A Stealthy Location Identification Attack Exploiting Carrier Aggregation in Cellular Networks.</title><venue>USENIX Security Symposium</venue><pages>3899-3916</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LakshmananBKCH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lakshmanan</ee><url>https://dblp.org/rec/conf/uss/LakshmananBKCH21</url></info>
+<url>URL#1087667</url>
+</hit>
+<hit score="1" id="1087668">
+<info><authors><author pid="167/2160">Pierre Laperdrix</author><author pid="134/8950">Oleksii Starov</author><author pid="40/3858">Quan Chen</author><author pid="22/1459">Alexandros Kapravelos</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets.</title><venue>USENIX Security Symposium</venue><pages>2507-2524</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LaperdrixSCKN21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/laperdrix</ee><url>https://dblp.org/rec/conf/uss/LaperdrixSCKN21</url></info>
+<url>URL#1087668</url>
+</hit>
+<hit score="1" id="1087669">
+<info><authors><author pid="301/5833">Leona Lassak</author><author pid="301/5825">Annika Hildebrandt</author><author pid="177/0313">Maximilian Golla</author><author pid="66/9786">Blase Ur</author></authors><title>&quot;It&apos;s Stored, Hopefully, on an Encrypted Server&quot;: Mitigating Users&apos; Misconceptions About FIDO2 Biometric WebAuthn.</title><venue>USENIX Security Symposium</venue><pages>91-108</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LassakHGU21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lassak</ee><url>https://dblp.org/rec/conf/uss/LassakHGU21</url></info>
+<url>URL#1087669</url>
+</hit>
+<hit score="1" id="1087670">
+<info><authors><author pid="236/6363">Yu Tsung Lee</author><author pid="22/4463">William Enck</author><author pid="91/8378">Haining Chen</author><author pid="24/687">Hayawardh Vijayakumar</author><author pid="l/NinghuiLi">Ninghui Li</author><author pid="31/8302">Zhiyun Qian</author><author pid="04/10838">Daimeng Wang</author><author pid="119/7710">Giuseppe Petracca</author><author pid="45/576">Trent Jaeger</author></authors><title>PolyScope: Multi-Policy Access Control Analysis to Compute Authorized Attack Operations in Android Systems.</title><venue>USENIX Security Symposium</venue><pages>2579-2596</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LeeECVLQWPJ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yu-tsung</ee><url>https://dblp.org/rec/conf/uss/LeeECVLQWPJ21</url></info>
+<url>URL#1087670</url>
+</hit>
+<hit score="1" id="1087671">
+<info><authors><author pid="49/6554">Hyunjoo Lee</author><author pid="57/5486">Jiyeon Lee</author><author pid="248/1658">Daejun Kim</author><author pid="74/28">Suman Jana</author><author pid="45/4154">Insik Shin</author><author pid="09/3668">Sooel Son</author></authors><title>AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads.</title><venue>USENIX Security Symposium</venue><pages>2543-2560</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LeeLKJSS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lee-hyunjoo</ee><url>https://dblp.org/rec/conf/uss/LeeLKJSS21</url></info>
+<url>URL#1087671</url>
+</hit>
+<hit score="1" id="1087672">
+<info><authors><author pid="301/5818">Yoochan Lee</author><author pid="19/10203">Changwoo Min</author><author pid="45/7986">Byoungyoung Lee</author></authors><title>ExpRace: Exploiting Kernel Races through Raising Interrupts.</title><venue>USENIX Security Symposium</venue><pages>2363-2380</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LeeML21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yoochan</ee><url>https://dblp.org/rec/conf/uss/LeeML21</url></info>
+<url>URL#1087672</url>
+</hit>
+<hit score="1" id="1087673">
+<info><authors><author pid="173/9806">Gwangmu Lee</author><author pid="88/1458">Woochul Shim</author><author pid="45/7986">Byoungyoung Lee</author></authors><title>Constraint-guided Directed Greybox Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>3559-3576</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LeeSL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lee-gwangmu</ee><url>https://dblp.org/rec/conf/uss/LeeSL21</url></info>
+<url>URL#1087673</url>
+</hit>
+<hit score="1" id="1087674">
+<info><authors><author pid="256/9139">Ryan Lehmkuhl</author><author pid="161/3103">Pratyush Mishra</author><author pid="153/9906">Akshayaram Srinivasan</author><author pid="91/275">Raluca Ada Popa</author></authors><title>Muse: Secure Inference Resilient to Malicious Clients.</title><venue>USENIX Security Symposium</venue><pages>2201-2218</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LehmkuhlMSP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lehmkuhl</ee><url>https://dblp.org/rec/conf/uss/LehmkuhlMSP21</url></info>
+<url>URL#1087674</url>
+</hit>
+<hit score="1" id="1087675">
+<info><authors><author pid="207/6590">Julia Len</author><author pid="139/2372">Paul Grubbs</author><author pid="26/3399">Thomas Ristenpart</author></authors><title>Partitioning Oracle Attacks.</title><venue>USENIX Security Symposium</venue><pages>195-212</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LenGR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/len</ee><url>https://dblp.org/rec/conf/uss/LenGR21</url></info>
+<url>URL#1087675</url>
+</hit>
+<hit score="1" id="1087676">
+<info><authors><author pid="127/3636">Jingjie Li</author><author pid="147/6281">Amrita Roy Chowdhury 0001</author><author pid="97/535">Kassem Fawaz</author><author pid="76/2864-1">Younghyun Kim 0001</author></authors><title>Kalεido: Real-Time Privacy Control for Eye-Tracking Systems.</title><venue>USENIX Security Symposium</venue><pages>1793-1810</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Li0FK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/li-jingjie</ee><url>https://dblp.org/rec/conf/uss/Li0FK21</url></info>
+<url>URL#1087676</url>
+</hit>
+<hit score="1" id="1087677">
+<info><authors><author pid="185/7953">Yeting Li</author><author pid="200/0201">Zixuan Chen</author><author pid="224/1601">Jialun Cao</author><author pid="25/9771">Zhiwu Xu 0001</author><author pid="266/6164">Qiancheng Peng</author><author pid="75/248">Haiming Chen</author><author pid="92/11199">Liyuan Chen</author><author pid="c/SCCheung">Shing-Chi Cheung</author></authors><title>ReDoSHunter: A Combined Static and Dynamic Approach for Regular Expression DoS Detection.</title><venue>USENIX Security Symposium</venue><pages>3847-3864</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiCC0PCCC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/li-yeting</ee><url>https://dblp.org/rec/conf/uss/LiCC0PCCC21</url></info>
+<url>URL#1087677</url>
+</hit>
+<hit score="1" id="1087678">
+<info><authors><author pid="26/379">Xing Li</author><author pid="88/2827">Yan Chen</author><author pid="49/4102">Zhiqiang Lin</author><author pid="49/67">Xiao Wang</author><author pid="129/5511">Jim Hao Chen</author></authors><title>Automatic Policy Generation for Inter-Service Access Control of Microservices.</title><venue>USENIX Security Symposium</venue><pages>3971-3988</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiCLWC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/li-xing</ee><url>https://dblp.org/rec/conf/uss/LiCLWC21</url></info>
+<url>URL#1087678</url>
+</hit>
+<hit score="1" id="1087679">
+<info><authors><author pid="156/2830">Yuwei Li</author><author pid="07/8388">Shouling Ji</author><author pid="55/6958">Yuan Chen</author><author pid="276/0091">Sizhuang Liang</author><author pid="168/2469">Wei-Han Lee</author><author pid="262/2747">Yueyao Chen</author><author pid="248/1663">Chenyang Lyu</author><author pid="97/8329-1">Chunming Wu 0001</author><author pid="12/6354">Raheem Beyah</author><author pid="76/185-1">Peng Cheng 0001</author><author pid="67/10639">Kangjie Lu</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers.</title><venue>USENIX Security Symposium</venue><pages>2777-2794</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiJCLLCLWBCL021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/li-yuwei</ee><url>https://dblp.org/rec/conf/uss/LiJCLLCLWBCL021</url></info>
+<url>URL#1087679</url>
+</hit>
+<hit score="1" id="1087680">
+<info><authors><author pid="184/8320">Shih-Wei Li</author><author pid="204/3560">Xupeng Li</author><author pid="155/8148">Ronghui Gu</author><author pid="n/JasonNieh">Jason Nieh</author><author pid="301/5895">John Zhuang Hui</author></authors><title>Formally Verified Memory Protection for a Commodity Multiprocessor Hypervisor.</title><venue>USENIX Security Symposium</venue><pages>3953-3970</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiLGNH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/li-shih-wei</ee><url>https://dblp.org/rec/conf/uss/LiLGNH21</url></info>
+<url>URL#1087680</url>
+</hit>
+<hit score="1" id="1087681">
+<info><authors><author pid="157/4437">Mengyuan Li</author><author pid="77/3503">Yinqian Zhang</author><author pid="144/3253">Huibo Wang</author><author pid="181/2763">Kang Li</author><author pid="15/8296">Yueqiang Cheng</author></authors><title>CIPHERLEAKS: Breaking Constant-time Cryptography on AMD SEV via the Ciphertext Side Channel.</title><venue>USENIX Security Symposium</venue><pages>717-732</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiZWLC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/li-mengyuan</ee><url>https://dblp.org/rec/conf/uss/LiZWLC21</url></info>
+<url>URL#1087681</url>
+</hit>
+<hit score="1" id="1087682">
+<info><authors><author pid="188/5871">Hans Liljestrand</author><author pid="149/2426">Thomas Nyman</author><author pid="131/6896">Lachlan J. Gunn</author><author pid="48/6310">Jan-Erik Ekberg</author><author pid="39/2508">N. Asokan</author></authors><title>PACStack: an Authenticated Call Stack.</title><venue>USENIX Security Symposium</venue><pages>357-374</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiljestrandNGEA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/liljestrand</ee><url>https://dblp.org/rec/conf/uss/LiljestrandNGEA21</url></info>
+<url>URL#1087682</url>
+</hit>
+<hit score="1" id="1087683">
+<info><authors><author pid="77/1513-1">Yun Lin 0001</author><author pid="301/5834">Ruofan Liu</author><author pid="87/2495">Dinil Mon Divakaran</author><author pid="301/5821">Jun Yang Ng</author><author pid="301/5849">Qing Zhou Chan</author><author pid="229/8110">Yiwen Lu</author><author pid="301/5838">Yuxuan Si</author><author pid="21/3626">Fan Zhang</author><author pid="33/6517">Jin Song Dong</author></authors><title>Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages.</title><venue>USENIX Security Symposium</venue><pages>3793-3810</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LinLDNCLSZD21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lin</ee><url>https://dblp.org/rec/conf/uss/LinLDNCLSZD21</url></info>
+<url>URL#1087683</url>
+</hit>
+<hit score="1" id="1087684">
+<info><authors><author pid="195/5202">Shinan Liu</author><author pid="29/1059">Xiang Cheng</author><author pid="162/4998">Hanchao Yang</author><author pid="64/10521">Yuanchao Shu</author><author pid="301/5804">Xiaoran Weng</author><author pid="33/5440">Ping Guo</author><author pid="162/5539">Kexiong Curtis Zeng</author><author pid="71/4292-11">Gang Wang 0011</author><author pid="10/3200">Yaling Yang</author></authors><title>Stars Can Tell: A Robust Method to Defend against GPS Spoofing Attacks using Off-the-shelf Chipset.</title><venue>USENIX Security Symposium</venue><pages>3935-3952</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiuCYSWGZ0Y21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/liu-shinan</ee><url>https://dblp.org/rec/conf/uss/LiuCYSWGZ0Y21</url></info>
+<url>URL#1087684</url>
+</hit>
+<hit score="1" id="1087685">
+<info><authors><author pid="166/6255">Zaoxing Liu</author><author pid="192/2227">Hun Namkung</author><author pid="94/8398">Georgios Nikolaidis</author><author pid="05/5543">Jeongkeun Lee</author><author pid="55/4381">Changhoon Kim</author><author pid="68/3340-8">Xin Jin 0008</author><author pid="14/4758">Vladimir Braverman</author><author pid="89/6345">Minlan Yu</author><author pid="45/4044">Vyas Sekar</author></authors><title>Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches.</title><venue>USENIX Security Symposium</venue><pages>3829-3846</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiuNNLK0BYS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/liu-zaoxing</ee><url>https://dblp.org/rec/conf/uss/LiuNNLK0BYS21</url></info>
+<url>URL#1087685</url>
+</hit>
+<hit score="1" id="1087686">
+<info><authors><author pid="22/7702">Binbin Liu</author><author pid="225/3498">Junfu Shen</author><author pid="09/6585-2">Jiang Ming 0002</author><author pid="12/5985">Qilong Zheng</author><author pid="181/2820-47">Jing Li 0047</author><author pid="158/2764">Dongpeng Xu 0001</author></authors><title>MBA-Blast: Unveiling and Simplifying Mixed Boolean-Arithmetic Obfuscation.</title><venue>USENIX Security Symposium</venue><pages>1701-1718</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiuS0ZLX21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/liu-binbin</ee><url>https://dblp.org/rec/conf/uss/LiuS0ZLX21</url></info>
+<url>URL#1087686</url>
+</hit>
+<hit score="1" id="1087687">
+<info><authors><author pid="271/9833">Jiadong Lou</author><author pid="24/6114">Xu Yuan</author><author pid="181/2597-17">Ning Zhang 0017</author></authors><title>Messy States of Wiring: Vulnerabilities in Emerging Personal Payment Systems.</title><venue>USENIX Security Symposium</venue><pages>3273-3289</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LouYZ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lou</ee><url>https://dblp.org/rec/conf/uss/LouYZ21</url></info>
+<url>URL#1087687</url>
+</hit>
+<hit score="1" id="1087688">
+<info><authors><author pid="250/8972">Kevin Loughlin</author><author pid="223/0804">Ian Neal</author><author pid="182/6469">Jiacheng Ma</author><author pid="301/5874">Elisa Tsai</author><author pid="150/7488">Ofir Weisse</author><author pid="27/3820">Satish Narayanasamy</author><author pid="31/11029">Baris Kasikci</author></authors><title>DOLMA: Securing Speculation with the Principle of Transient Non-Observability.</title><venue>USENIX Security Symposium</venue><pages>1397-1414</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LoughlinNMTWNK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/loughlin</ee><url>https://dblp.org/rec/conf/uss/LoughlinNMTWNK21</url></info>
+<url>URL#1087688</url>
+</hit>
+<hit score="1" id="1087689">
+<info><authors><author pid="172/6496">Giulio Lovisotto</author><author pid="248/8006">Henry Turner</author><author pid="130/3410">Ivo Sluganovic</author><author pid="117/8959">Martin Strohmeier</author><author pid="87/2623">Ivan Martinovic</author></authors><title>SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations.</title><venue>USENIX Security Symposium</venue><pages>1865-1882</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LovisottoTSSM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/lovisotto</ee><url>https://dblp.org/rec/conf/uss/LovisottoTSSM21</url></info>
+<url>URL#1087689</url>
+</hit>
+<hit score="1" id="1087690">
+<info><authors><author pid="198/3346">Zane Ma</author><author pid="34/3008">Joshua Mason</author><author pid="26/216">Manos Antonakakis</author><author pid="143/5673">Zakir Durumeric</author><author pid="20/2967">Michael Bailey</author></authors><title>What&apos;s in a Name? Exploring CA Certificate Control.</title><venue>USENIX Security Symposium</venue><pages>4383-4400</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MaMADB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ma</ee><url>https://dblp.org/rec/conf/uss/MaMADB21</url></info>
+<url>URL#1087690</url>
+</hit>
+<hit score="1" id="1087691">
+<info><authors><author pid="145/1710">Max Maass</author><author pid="264/7948">Alina Stöver</author><author pid="207/3391">Henning Pridöhl</author><author pid="138/4860">Sebastian Bretthauer</author><author pid="37/5937">Dominik Herrmann</author><author pid="95/1816">Matthias Hollick</author><author pid="131/4959">Indra Spiecker</author></authors><title>Effective Notification Campaigns on the Web: A Matter of Trust, Framing, and Support.</title><venue>USENIX Security Symposium</venue><pages>2489-2506</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MaassSPBHHS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/maass</ee><url>https://dblp.org/rec/conf/uss/MaassSPBHHS21</url></info>
+<url>URL#1087691</url>
+</hit>
+<hit score="1" id="1087692">
+<info><authors><author pid="276/6652">Kotaro Matsuoka</author><author pid="237/9504">Ryotaro Banno</author><author pid="51/4199">Naoki Matsumoto</author><author pid="48/4595">Takashi Sato</author><author pid="179/7914">Song Bian 0001</author></authors><title>Virtual Secure Platform: A Five-Stage Pipeline Processor over TFHE.</title><venue>USENIX Security Symposium</venue><pages>4007-4024</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MatsuokaBMS021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/matsuoka</ee><url>https://dblp.org/rec/conf/uss/MatsuokaBMS021</url></info>
+<url>URL#1087692</url>
+</hit>
+<hit score="1" id="1087693">
+<info><authors><author pid="36/111-1">Peter Mayer 0001</author><author pid="218/0356">Yixin Zou</author><author pid="08/7562">Florian Schaub</author><author pid="94/1554">Adam J. Aviv</author></authors><title>&quot;Now I&apos;m a bit angry: &quot; Individuals&apos; Awareness, Perception, and Responses to Data Breaches that Affected Them.</title><venue>USENIX Security Symposium</venue><pages>393-410</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MayerZSA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/mayer</ee><url>https://dblp.org/rec/conf/uss/MayerZSA21</url></info>
+<url>URL#1087693</url>
+</hit>
+<hit score="1" id="1087694">
+<info><authors><author pid="205/2107">Allison McDonald</author><author pid="224/9156">Catherine Barwulor</author><author pid="20/7983">Michelle L. Mazurek</author><author pid="08/7562">Florian Schaub</author><author pid="141/9244">Elissa M. Redmiles</author></authors><title>&quot;It&apos;s stressful having all these phones&quot;: Investigating Sex Workers&apos; Safety Goals, Risks, and Practices Online.</title><venue>USENIX Security Symposium</venue><pages>375-392</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/McDonaldBMSR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/mcdonald</ee><url>https://dblp.org/rec/conf/uss/McDonaldBMSR21</url></info>
+<url>URL#1087694</url>
+</hit>
+<hit score="1" id="1087695">
+<info><authors><author pid="168/2334">Carlo Meijer</author><author pid="20/11342">Veelasha Moonsamy</author><author pid="146/0907">Jos Wetzels</author></authors><title>Where&apos;s Crypto?: Automated Identification and Classification of Proprietary Cryptographic Primitives in Binary Code.</title><venue>USENIX Security Symposium</venue><pages>555-572</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MeijerMW21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/meijer</ee><url>https://dblp.org/rec/conf/uss/MeijerMW21</url></info>
+<url>URL#1087695</url>
+</hit>
+<hit score="1" id="1087696">
+<info><authors><author pid="248/1716">Robert Merget</author><author pid="76/6564">Marcus Brinkmann</author><author pid="18/1188">Nimrod Aviram</author><author pid="27/8331">Juraj Somorovsky</author><author pid="75/9215">Johannes Mittmann</author><author pid="58/5730">Jörg Schwenk</author></authors><title>Raccoon Attack: Finding and Exploiting Most-Significant-Bit-Oracles in TLS-DH(E).</title><venue>USENIX Security Symposium</venue><pages>213-230</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MergetBASMS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/merget</ee><url>https://dblp.org/rec/conf/uss/MergetBASMS21</url></info>
+<url>URL#1087696</url>
+</hit>
+<hit score="1" id="1087698">
+<info><authors><author pid="168/9447">Soo-Jin Moon</author><author pid="224/2470">Yucheng Yin</author><author pid="172/1323">Rahul Anand Sharma</author><author pid="05/4612">Yifei Yuan</author><author pid="170/1882">Jonathan M. Spring</author><author pid="45/4044">Vyas Sekar</author></authors><title>Accurately Measuring Global Risk of Amplification Attacks using AmpMap.</title><venue>USENIX Security Symposium</venue><pages>3881-3898</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MoonYSYSS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/moon</ee><url>https://dblp.org/rec/conf/uss/MoonYSYSS21</url></info>
+<url>URL#1087698</url>
+</hit>
+<hit score="1" id="1087699">
+<info><authors><author pid="224/4374">Marius Musch</author><author pid="82/359">Martin Johns</author></authors><title>U Can&apos;t Debug This: Detecting JavaScript Anti-Debugging Techniques in the Wild.</title><venue>USENIX Security Symposium</venue><pages>2935-2950</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MuschJ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/musch</ee><url>https://dblp.org/rec/conf/uss/MuschJ21</url></info>
+<url>URL#1087699</url>
+</hit>
+<hit score="1" id="1087700">
+<info><authors><author pid="168/9038">Stefan Nagy</author><author pid="06/6439">Anh Nguyen-Tuong</author><author pid="88/5011">Jason D. Hiser</author><author pid="d/JWDavidson">Jack W. Davidson</author><author pid="09/2334">Matthew Hicks</author></authors><title>Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>1683-1700</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/NagyNHDH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/nagy</ee><url>https://dblp.org/rec/conf/uss/NagyNHDH21</url></info>
+<url>URL#1087700</url>
+</hit>
+<hit score="1" id="1087701">
+<info><authors><author pid="205/8037">Yoshimichi Nakatsuka</author><author pid="205/2579">Ercan Ozturk</author><author pid="30/9784">Andrew Paverd</author><author pid="08/1183">Gene Tsudik</author></authors><title>CACTI: Captcha Avoidance via Client-side TEE Integration.</title><venue>USENIX Security Symposium</venue><pages>2561-2578</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/NakatsukaOPT21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/nakatsuka</ee><url>https://dblp.org/rec/conf/uss/NakatsukaOPT21</url></info>
+<url>URL#1087701</url>
+</hit>
+<hit score="1" id="1087702">
+<info><authors><author pid="201/9230">Shravan Narayan</author><author pid="199/4885">Craig Disselkoen</author><author pid="241/6242">Daniel Moghimi</author><author pid="208/7309">Sunjay Cauligi</author><author pid="246/5332-1">Evan Johnson 0001</author><author pid="25/2650">Zhao Gang</author><author pid="161/0161">Anjo Vahldiek-Oberwagner</author><author pid="70/4571">Ravi Sahita</author><author pid="35/1061">Hovav Shacham</author><author pid="t/DeanMTullsen">Dean M. Tullsen</author><author pid="91/6118">Deian Stefan</author></authors><title>Swivel: Hardening WebAssembly against Spectre.</title><venue>USENIX Security Symposium</venue><pages>1433-1450</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/NarayanDMCJGVSS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/narayan</ee><url>https://dblp.org/rec/conf/uss/NarayanDMCJGVSS21</url></info>
+<url>URL#1087702</url>
+</hit>
+<hit score="1" id="1087703">
+<info><authors><author pid="187/8997">Milad Nasr</author><author pid="225/5499">Alireza Bahramali</author><author pid="22/1797">Amir Houmansadr</author></authors><title>Defeating DNN-Based Traffic Analysis Systems in Real-Time With Blind Adversarial Perturbations.</title><venue>USENIX Security Symposium</venue><pages>2705-2722</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/NasrBH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/nasr</ee><url>https://dblp.org/rec/conf/uss/NasrBH21</url></info>
+<url>URL#1087703</url>
+</hit>
+<hit score="1" id="1087704">
+<info><authors><author pid="269/4540">Lucien K. L. Ng</author><author pid="c/ShermanSMChow">Sherman S. M. Chow</author></authors><title>GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference.</title><venue>USENIX Security Symposium</venue><pages>2147-2164</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/NgC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ng</ee><url>https://dblp.org/rec/conf/uss/NgC21</url></info>
+<url>URL#1087704</url>
+</hit>
+<hit score="1" id="1087705">
+<info><authors><author pid="294/4401">Trung Tin Nguyen</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="47/11331">Ninja Marnau</author><author pid="136/8343">Ben Stock</author></authors><title>Share First, Ask Later (or Never?) Studying Violations of GDPR&apos;s Explicit Consent in Android Apps.</title><venue>USENIX Security Symposium</venue><pages>3667-3684</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Nguyen0MS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/nguyen</ee><url>https://dblp.org/rec/conf/uss/Nguyen0MS21</url></info>
+<url>URL#1087705</url>
+</hit>
+<hit score="1" id="1087708">
+<info><authors><author pid="133/2390">Marten Oltrogge</author><author pid="213/7298">Nicolas Huaman</author><author pid="251/3013">Sabrina Amft</author><author pid="132/9687">Yasemin Acar</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="38/9378">Sascha Fahl</author></authors><title>Why Eve and Mallory Still Love Android: Revisiting TLS (In)Security in Android Applications.</title><venue>USENIX Security Symposium</venue><pages>4347-4364</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/OltroggeHAA0F21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/oltrogge</ee><url>https://dblp.org/rec/conf/uss/OltroggeHAA0F21</url></info>
+<url>URL#1087708</url>
+</hit>
+<hit score="1" id="1087709">
+<info><authors><author pid="178/1987">Jeremiah Onaolapo</author><author pid="54/854">Nektarios Leontiadis</author><author pid="52/8336">Despoina Magka</author><author pid="86/8823">Gianluca Stringhini</author></authors><title>SocialHEISTing: Understanding Stolen Facebook Accounts.</title><venue>USENIX Security Symposium</venue><pages>4115-4132</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/OnaolapoLMS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/onaolapo</ee><url>https://dblp.org/rec/conf/uss/OnaolapoLMS21</url></info>
+<url>URL#1087709</url>
+</hit>
+<hit score="1" id="1087710">
+<info><authors><author pid="147/1534">Simon Oya</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>Hiding the Access Pattern is Not Enough: Exploiting Search Pattern Leakage in Searchable Encryption.</title><venue>USENIX Security Symposium</venue><pages>127-142</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/OyaK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/oya</ee><url>https://dblp.org/rec/conf/uss/OyaK21</url></info>
+<url>URL#1087710</url>
+</hit>
+<hit score="1" id="1087711">
+<info><authors><author pid="224/9301">Riccardo Paccagnella</author><author pid="286/6495">Licheng Luo</author><author pid="25/8166">Christopher W. Fletcher</author></authors><title>Lord of the Ring(s): Side Channel Attacks on the CPU On-Chip Ring Interconnect Are Practical.</title><venue>USENIX Security Symposium</venue><pages>645-662</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PaccagnellaLF21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/paccagnella</ee><url>https://dblp.org/rec/conf/uss/PaccagnellaLF21</url></info>
+<url>URL#1087711</url>
+</hit>
+<hit score="1" id="1087712">
+<info><authors><author pid="237/9883">Dario Pasquini</author><author pid="151/8251">Marco Cianfriglia</author><author pid="66/3575">Giuseppe Ateniese</author><author pid="81/1604">Massimo Bernaschi</author></authors><title>Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries.</title><venue>USENIX Security Symposium</venue><pages>821-838</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PasquiniCAB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/pasquini</ee><url>https://dblp.org/rec/conf/uss/PasquiniCAB21</url></info>
+<url>URL#1087712</url>
+</hit>
+<hit score="1" id="1087713">
+<info><authors><author pid="64/3169">Arpita Patra</author><author pid="06/3872-3">Thomas Schneider 0003</author><author pid="187/5691">Ajith Suresh</author><author pid="268/5150">Hossein Yalame</author></authors><title>ABY2.0: Improved Mixed-Protocol Secure Two-Party Computation.</title><venue>USENIX Security Symposium</venue><pages>2165-2182</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Patra0SY21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/patra</ee><url>https://dblp.org/rec/conf/uss/Patra0SY21</url></info>
+<url>URL#1087713</url>
+</hit>
+<hit score="1" id="1087714">
+<info><authors><author pid="166/1105">Katharina Pfeffer</author><author pid="159/0752">Alexandra Mai</author><author pid="138/2614">Adrian Dabrowski</author><author pid="180/3909">Matthias Gusenbauer</author><author pid="170/0259">Philipp Schindler</author><author pid="w/EdgarRWeippl">Edgar R. Weippl</author><author pid="f/MichaelFranz">Michael Franz</author><author pid="128/4803">Katharina Krombholz</author></authors><title>On the Usability of Authenticity Checks for Hardware Security Tokens.</title><venue>USENIX Security Symposium</venue><pages>37-54</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PfefferMDGSWFK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/pfeffer</ee><url>https://dblp.org/rec/conf/uss/PfefferMDGSWFK21</url></info>
+<url>URL#1087714</url>
+</hit>
+<hit score="1" id="1087715">
+<info><authors><author pid="39/10311">Rishabh Poddar</author><author pid="190/1205">Sukrit Kalra</author><author pid="164/3366">Avishay Yanai</author><author pid="277/5307">Ryan Deng</author><author pid="91/275">Raluca Ada Popa</author><author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author></authors><title>Senate: A Maliciously-Secure MPC Platform for Collaborative Analytics.</title><venue>USENIX Security Symposium</venue><pages>2129-2146</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PoddarKYDPH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/poddar</ee><url>https://dblp.org/rec/conf/uss/PoddarKYDPH21</url></info>
+<url>URL#1087715</url>
+</hit>
+<hit score="1" id="1087716">
+<info><authors><author pid="216/6088">Damian Poddebniak</author><author pid="224/9447">Fabian Ising</author><author pid="161/6292">Hanno Böck</author><author pid="43/11495">Sebastian Schinzel</author></authors><title>Why TLS is better without STARTTLS: A Security Analysis of STARTTLS in the Email Context.</title><venue>USENIX Security Symposium</venue><pages>4365-4382</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PoddebniakIBS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/poddebniak</ee><url>https://dblp.org/rec/conf/uss/PoddebniakIBS21</url></info>
+<url>URL#1087716</url>
+</hit>
+<hit score="1" id="1087717">
+<info><authors><author pid="195/3349">Ivan Puddu</author><author pid="155/4732">Moritz Schneider</author><author pid="266/1494">Miro Haller</author><author pid="51/1639">Srdjan Capkun</author></authors><title>Frontal Attack: Leaking Control-Flow in SGX via the CPU Frontend.</title><venue>USENIX Security Symposium</venue><pages>663-680</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PudduSHC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/puddu</ee><url>https://dblp.org/rec/conf/uss/PudduSHC21</url></info>
+<url>URL#1087717</url>
+</hit>
+<hit score="1" id="1087718">
+<info><authors><author pid="171/1877">Hany Ragab</author><author pid="247/4778">Enrico Barberis</author><author pid="91/800">Herbert Bos</author><author pid="75/8194">Cristiano Giuffrida</author></authors><title>Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks.</title><venue>USENIX Security Symposium</venue><pages>1451-1468</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RagabBBG21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ragab</ee><url>https://dblp.org/rec/conf/uss/RagabBBG21</url></info>
+<url>URL#1087718</url>
+</hit>
+<hit score="1" id="1087719">
+<info><authors><author pid="215/3683">Adnan Siraj Rakin</author><author pid="221/0729">Yukui Luo</author><author pid="15/1040">Xiaolin Xu</author><author pid="129/1701">Deliang Fan</author></authors><title>Deep-Dup: An Adversarial Weight Duplication Attack Framework to Crush Deep Neural Network in Multi-Tenant FPGA.</title><venue>USENIX Security Symposium</venue><pages>1919-1936</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RakinLXF21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/rakin</ee><url>https://dblp.org/rec/conf/uss/RakinLXF21</url></info>
+<url>URL#1087719</url>
+</hit>
+<hit score="1" id="1087720">
+<info><authors><author pid="223/4052">Soundarya Ramesh</author><author pid="94/1463-2">Rui Xiao 0002</author><author pid="98/8971">Anindya Maiti</author><author pid="38/7728">Jong Taek Lee</author><author pid="259/7651">Harini Ramprasad</author><author pid="65/784">Ananda Kumar</author><author pid="09/5967">Murtuza Jadliwala</author><author pid="02/3721-1">Jun Han 0001</author></authors><title>Acoustics to the Rescue: Physical Key Inference Attack Revisited.</title><venue>USENIX Security Symposium</venue><pages>3255-3272</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RameshXMLRKJH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ramesh</ee><url>https://dblp.org/rec/conf/uss/RameshXMLRKJH21</url></info>
+<url>URL#1087720</url>
+</hit>
+<hit score="1" id="1087721">
+<info><authors><author pid="239/9505">Hirak Ray</author><author pid="135/6902">Flynn Wolf</author><author pid="43/4533">Ravi Kuber</author><author pid="94/1554">Adam J. Aviv</author></authors><title>Why Older Adults (Don&apos;t) Use Password Managers.</title><venue>USENIX Security Symposium</venue><pages>73-90</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RayWKA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ray</ee><url>https://dblp.org/rec/conf/uss/RayWKA21</url></info>
+<url>URL#1087721</url>
+</hit>
+<hit score="1" id="1087722">
+<info><authors><author pid="237/1810">Finn de Ridder</author><author pid="224/2335">Pietro Frigo</author><author pid="262/3667">Emanuele Vannacci</author><author pid="91/800">Herbert Bos</author><author pid="75/8194">Cristiano Giuffrida</author><author pid="121/2685">Kaveh Razavi</author></authors><title>SMASH: Synchronized Many-sided Rowhammer Attacks from JavaScript.</title><venue>USENIX Security Symposium</venue><pages>1001-1018</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RidderFVBGR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ridder</ee><url>https://dblp.org/rec/conf/uss/RidderFVBGR21</url></info>
+<url>URL#1087722</url>
+</hit>
+<hit score="1" id="1087723">
+<info><authors><author pid="29/4478">Thomas Roche</author><author pid="52/2113">Victor Lomné</author><author pid="301/5894">Camille Mutschler</author><author pid="57/4865">Laurent Imbert</author></authors><title>A Side Journey To Titan.</title><venue>USENIX Security Symposium</venue><pages>231-248</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RocheLMI21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/roche</ee><url>https://dblp.org/rec/conf/uss/RocheLMI21</url></info>
+<url>URL#1087723</url>
+</hit>
+<hit score="1" id="1087724">
+<info><authors><author pid="132/9407">Michael Rodler</author><author pid="29/4801">Wenting Li</author><author pid="36/1531">Ghassan O. Karame</author><author pid="73/7564">Lucas Davi</author></authors><title>EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts.</title><venue>USENIX Security Symposium</venue><pages>1289-1306</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RodlerLKD21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/rodler</ee><url>https://dblp.org/rec/conf/uss/RodlerLKD21</url></info>
+<url>URL#1087724</url>
+</hit>
+<hit score="1" id="1087725">
+<info><authors><author pid="290/1224">Marc B. Rosen</author><author pid="00/2904">James Parker</author><author pid="125/1992">Alex J. Malozemoff</author></authors><title>Balboa: Bobbing and Weaving around Network Censorship.</title><venue>USENIX Security Symposium</venue><pages>3399-3413</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RosenPM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/rosen</ee><url>https://dblp.org/rec/conf/uss/RosenPM21</url></info>
+<url>URL#1087725</url>
+</hit>
+<hit score="1" id="1087726">
+<info><authors><author pid="293/9812">Matthew Rossi</author><author pid="242/6564">Dario Facchinetti</author><author pid="162/1919">Enrico Bacis</author><author pid="69/8772">Marco Rosa</author><author pid="05/600">Stefano Paraboschi</author></authors><title>SEApp: Bringing Mandatory Access Control to Android Apps.</title><venue>USENIX Security Symposium</venue><pages>3613-3630</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RossiFBRP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/rossi</ee><url>https://dblp.org/rec/conf/uss/RossiFBRP21</url></info>
+<url>URL#1087726</url>
+</hit>
+<hit score="1" id="1087727">
+<info><authors><author pid="200/3326">Benjamin Rothenberger</author><author pid="206/7118">Konstantin Taranov</author><author pid="16/6873">Adrian Perrig</author><author pid="16/3869">Torsten Hoefler</author></authors><title>ReDMArk: Bypassing RDMA Security Mechanisms.</title><venue>USENIX Security Symposium</venue><pages>4277-4292</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RothenbergerTPH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/rothenberger</ee><url>https://dblp.org/rec/conf/uss/RothenbergerTPH21</url></info>
+<url>URL#1087727</url>
+</hit>
+<hit score="1" id="1087728">
+<info><authors><author pid="224/1564">Gabriel Ryan</author><author pid="162/8000">Abhishek Shah</author><author pid="168/9537">Dongdong She</author><author pid="187/0853">Koustubha Bhat</author><author pid="74/28">Suman Jana</author></authors><title>Fine Grained Dataflow Tracking with Proximal Gradients.</title><venue>USENIX Security Symposium</venue><pages>1611-1628</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RyanSSBJ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ryan</ee><url>https://dblp.org/rec/conf/uss/RyanSSBJ21</url></info>
+<url>URL#1087728</url>
+</hit>
+<hit score="1" id="1087729">
+<info><authors><author pid="196/6747">Gururaj Saileshwar</author><author pid="60/6934">Moinuddin K. Qureshi</author></authors><title>MIRAGE: Mitigating Conflict-Based Cache Attacks with a Practical Fully-Associative Design.</title><venue>USENIX Security Symposium</venue><pages>1379-1396</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SaileshwarQ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/saileshwar</ee><url>https://dblp.org/rec/conf/uss/SaileshwarQ21</url></info>
+<url>URL#1087729</url>
+</hit>
+<hit score="1" id="1087730">
+<info><authors><author pid="182/4681">Christopher Salls</author><author pid="251/8448">Chani Jindal</author><author pid="205/2073">Jake Corina</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>Token-Level Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>2795-2809</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SallsJCKV21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/salls</ee><url>https://dblp.org/rec/conf/uss/SallsJCKV21</url></info>
+<url>URL#1087730</url>
+</hit>
+<hit score="1" id="1087731">
+<info><authors><author pid="212/7432">Takami Sato</author><author pid="191/4716-1">Junjie Shen 0001</author><author pid="232/2229">Ningfei Wang</author><author pid="146/0086">Yunhan Jia</author><author pid="94/7236">Xue Lin</author><author pid="150/3272">Qi Alfred Chen</author></authors><title>Dirty Road Can Attack: Security of Deep Learning based Automated Lane Centering under Physical-World Attack.</title><venue>USENIX Security Symposium</venue><pages>3309-3326</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Sato0WJLC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/sato</ee><url>https://dblp.org/rec/conf/uss/Sato0WJLC21</url></info>
+<url>URL#1087731</url>
+</hit>
+<hit score="1" id="1087732">
+<info><authors><author pid="215/5730">Sarah Scheffler</author><author pid="59/6288">Mayank Varia</author></authors><title>Protecting Cryptography Against Compelled Self-Incrimination.</title><venue>USENIX Security Symposium</venue><pages>591-608</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SchefflerV21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/scheffler</ee><url>https://dblp.org/rec/conf/uss/SchefflerV21</url></info>
+<url>URL#1087732</url>
+</hit>
+<hit score="1" id="1087733">
+<info><authors><author pid="138/0965">Paul Schmitt</author><author pid="22/3604">Barath Raghavan</author></authors><title>Pretty Good Phone Privacy.</title><venue>USENIX Security Symposium</venue><pages>1737-1754</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SchmittR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/schmitt</ee><url>https://dblp.org/rec/conf/uss/SchmittR21</url></info>
+<url>URL#1087733</url>
+</hit>
+<hit score="1" id="1087734">
+<info><authors><author pid="205/2072">Sergej Schumilo</author><author pid="160/7844">Cornelius Aschermann</author><author pid="73/2297-2">Ali Abbasi 0002</author><author pid="248/1623">Simon Wörner</author><author pid="h/ThorstenHolz">Thorsten Holz</author></authors><title>Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types.</title><venue>USENIX Security Symposium</venue><pages>2597-2614</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SchumiloA0WH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo</ee><url>https://dblp.org/rec/conf/uss/SchumiloA0WH21</url></info>
+<url>URL#1087734</url>
+</hit>
+<hit score="1" id="1087735">
+<info><authors><author pid="180/8190">Roei Schuster</author><author pid="186/8335">Congzheng Song</author><author pid="t/EranTromer">Eran Tromer</author><author pid="46/6275">Vitaly Shmatikov</author></authors><title>You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion.</title><venue>USENIX Security Symposium</venue><pages>1559-1575</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SchusterSTS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/schuster</ee><url>https://dblp.org/rec/conf/uss/SchusterSTS21</url></info>
+<url>URL#1087735</url>
+</hit>
+<hit score="1" id="1087736">
+<info><authors><author pid="295/0479">Khaled Serag</author><author pid="43/1791">Rohit Bhatia</author><author pid="41/9886">Vireshwar Kumar</author><author pid="143/2298">Z. Berkay Celik</author><author pid="59/5539">Dongyan Xu</author></authors><title>Exposing New Vulnerabilities of Error Handling Mechanism in CAN.</title><venue>USENIX Security Symposium</venue><pages>4241-4258</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SeragBKCX21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/serag</ee><url>https://dblp.org/rec/conf/uss/SeragBKCX21</url></info>
+<url>URL#1087736</url>
+</hit>
+<hit score="1" id="1087737">
+<info><authors><author pid="221/4233">Giorgio Severi</author><author pid="24/10198">Jim Meyer</author><author pid="43/4410">Scott E. Coull</author><author pid="35/3425">Alina Oprea</author></authors><title>Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.</title><venue>USENIX Security Symposium</venue><pages>1487-1504</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SeveriMCO21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/severi</ee><url>https://dblp.org/rec/conf/uss/SeveriMCO21</url></info>
+<url>URL#1087737</url>
+</hit>
+<hit score="1" id="1087738">
+<info><authors><author pid="145/1656">Aria Shahverdi</author><author pid="268/5413">Mahammad Shirinov</author><author pid="38/6981">Dana Dachman-Soled</author></authors><title>Database Reconstruction from Noisy Volumes: A Cache Side-Channel Attack on SQLite.</title><venue>USENIX Security Symposium</venue><pages>1019-1035</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShahverdiSD21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/shahverdi</ee><url>https://dblp.org/rec/conf/uss/ShahverdiSD21</url></info>
+<url>URL#1087738</url>
+</hit>
+<hit score="1" id="1087739">
+<info><authors><author pid="245/2568">Kaiwen Shen</author><author pid="210/1379">Chuhan Wang</author><author pid="278/8551">Minglei Guo</author><author pid="11/11005">Xiaofeng Zheng</author><author pid="223/6794">Chaoyi Lu</author><author pid="89/10754">Baojun Liu</author><author pid="173/0246">Yuxuan Zhao</author><author pid="07/6713">Shuang Hao</author><author pid="36/5143">Haixin Duan</author><author pid="245/2668">Qingfeng Pan</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks.</title><venue>USENIX Security Symposium</venue><pages>3201-3217</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShenWGZLLZHDP021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/shen-kaiwen</ee><url>https://dblp.org/rec/conf/uss/ShenWGZLLZHDP021</url></info>
+<url>URL#1087739</url>
+</hit>
+<hit score="1" id="1087741">
+<info><authors><author pid="230/4243">Anatoly Shusterman</author><author pid="55/8814">Ayush Agarwal</author><author pid="207/7931">Sioli O&apos;Connell</author><author pid="98/8283">Daniel Genkin</author><author pid="69/39">Yossi Oren</author><author pid="90/10901">Yuval Yarom</author></authors><title>Prime+Probe 1, JavaScript 0: Overcoming Browser-based Side-Channel Defenses.</title><venue>USENIX Security Symposium</venue><pages>2863-2880</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShustermanAOGOY21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/shusterman</ee><url>https://dblp.org/rec/conf/uss/ShustermanAOGOY21</url></info>
+<url>URL#1087741</url>
+</hit>
+<hit score="1" id="1087742">
+<info><authors><author pid="286/5330">Ravindu De Silva</author><author pid="65/4357">Mohamed Nabeel</author><author pid="205/7762">Charith Elvitigala</author><author pid="115/8715">Issa Khalil</author><author pid="y/TingYu-1">Ting Yu 0001</author><author pid="01/3590">Chamath Keppitiyagama</author></authors><title>Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs.</title><venue>USENIX Security Symposium</venue><pages>3721-3738</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SilvaNEKYK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/desilva</ee><url>https://dblp.org/rec/conf/uss/SilvaNEKYK21</url></info>
+<url>URL#1087742</url>
+</hit>
+<hit score="1" id="1087743">
+<info><authors><author pid="250/9298">Akash Deep Singh</author><author pid="67/136-1">Luis Garcia 0001</author><author pid="185/9311">Joseph Noor</author><author pid="s/ManiBSrivastava">Mani B. Srivastava</author></authors><title>I Always Feel Like Somebody&apos;s Sensing Me! A Framework to Detect, Identify, and Localize Clandestine Wireless Sensors.</title><venue>USENIX Security Symposium</venue><pages>1829-1846</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SinghGNS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/singh</ee><url>https://dblp.org/rec/conf/uss/SinghGNS21</url></info>
+<url>URL#1087743</url>
+</hit>
+<hit score="1" id="1087744">
+<info><authors><author pid="187/9138">Sunbeom So</author><author pid="222/5868">Seongjoon Hong</author><author pid="13/7537">Hakjoo Oh</author></authors><title>SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution.</title><venue>USENIX Security Symposium</venue><pages>1361-1378</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SoHO21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/so</ee><url>https://dblp.org/rec/conf/uss/SoHO21</url></info>
+<url>URL#1087744</url>
+</hit>
+<hit score="1" id="1087745">
+<info><authors><author pid="129/2856">Jeongseok Son</author><author pid="301/5882">Griffin Prechter</author><author pid="39/10311">Rishabh Poddar</author><author pid="91/275">Raluca Ada Popa</author><author pid="04/418">Koushik Sen</author></authors><title>ObliCheck: Efficient Verification of Oblivious Algorithms with Unobservable State.</title><venue>USENIX Security Symposium</venue><pages>2219-2236</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SonPPPS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/son</ee><url>https://dblp.org/rec/conf/uss/SonPPPS21</url></info>
+<url>URL#1087745</url>
+</hit>
+<hit score="1" id="1087746">
+<info><authors><author pid="150/3945">Liwei Song</author><author pid="39/6266">Prateek Mittal</author></authors><title>Systematic Evaluation of Privacy Risks of Machine Learning Models.</title><venue>USENIX Security Symposium</venue><pages>2615-2632</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SongM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/song</ee><url>https://dblp.org/rec/conf/uss/SongM21</url></info>
+<url>URL#1087746</url>
+</hit>
+<hit score="1" id="1087747">
+<info><authors><author pid="169/8186">Michael A. Specter</author><author pid="h/JAlexHalderman">J. Alex Halderman</author></authors><title>Security Analysis of the Democracy Live Online Voting System.</title><venue>USENIX Security Symposium</venue><pages>3077-3092</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SpecterH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/specter-security</ee><url>https://dblp.org/rec/conf/uss/SpecterH21</url></info>
+<url>URL#1087747</url>
+</hit>
+<hit score="1" id="1087748">
+<info><authors><author pid="169/8186">Michael A. Specter</author><author pid="123/8680">Sunoo Park</author><author pid="74/4531-1">Matthew Green 0001</author></authors><title>KeyForge: Non-Attributable Email from Forward-Forgeable Signatures.</title><venue>USENIX Security Symposium</venue><pages>1755-1773</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SpecterP021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/specter-keyforge</ee><url>https://dblp.org/rec/conf/uss/SpecterP021</url></info>
+<url>URL#1087748</url>
+</hit>
+<hit score="1" id="1087749">
+<info><authors><author pid="117/7980">Marco Squarcina</author><author pid="154/7915">Mauro Tempesta</author><author pid="213/8814">Lorenzo Veronese</author><author pid="89/9526">Stefano Calzavara</author><author pid="25/3571">Matteo Maffei</author></authors><title>Can I Take Your Subdomain? Exploring Same-Site Attacks in the Modern Web.</title><venue>USENIX Security Symposium</venue><pages>2917-2934</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SquarcinaTVCM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/squarcina</ee><url>https://dblp.org/rec/conf/uss/SquarcinaTVCM21</url></info>
+<url>URL#1087749</url>
+</hit>
+<hit score="1" id="1087750">
+<info><authors><author pid="183/6724">Milan Stute</author><author pid="248/1693">Alexander Heinrich</author><author pid="301/5907">Jannik Lorenz</author><author pid="95/1816">Matthias Hollick</author></authors><title>Disrupting Continuity of Apple&apos;s Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi.</title><venue>USENIX Security Symposium</venue><pages>3917-3934</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/StuteHLH21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/stute</ee><url>https://dblp.org/rec/conf/uss/StuteHLH21</url></info>
+<url>URL#1087750</url>
+</hit>
+<hit score="1" id="1087751">
+<info><authors><author pid="214/2382">Liya Su</author><author pid="148/9731">Xinyue Shen</author><author pid="247/3624">Xiangyu Du</author><author pid="129/1113">Xiaojing Liao</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="34/8412">Luyi Xing</author><author pid="10/8471">Baoxu Liu</author></authors><title>Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications.</title><venue>USENIX Security Symposium</venue><pages>1307-1324</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SuSDL0XL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/su</ee><url>https://dblp.org/rec/conf/uss/SuSDL0XL21</url></info>
+<url>URL#1087751</url>
+</hit>
+<hit score="1" id="1087752">
+<info><authors><author pid="167/2164">Zhibo Sun</author><author pid="72/10989">Adam Oest</author><author pid="143/1850">Penghui Zhang</author><author pid="11/3908">Carlos E. Rubio-Medrano</author><author pid="150/5198">Tiffany Bao</author><author pid="127/9829">Ruoyu Wang 0001</author><author pid="11/7704-1">Ziming Zhao 0001</author><author pid="119/7712">Yan Shoshitaishvili</author><author pid="28/8280">Adam Doupé</author><author pid="a/GailJoonAhn">Gail-Joon Ahn</author></authors><title>Having Your Cake and Eating It: An Analysis of Concession-Abuse-as-a-Service.</title><venue>USENIX Security Symposium</venue><pages>4169-4186</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SunOZRB00SDA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhibo</ee><url>https://dblp.org/rec/conf/uss/SunOZRB00SDA21</url></info>
+<url>URL#1087752</url>
+</hit>
+<hit score="1" id="1087753">
+<info><authors><author pid="184/5980">Zhichuang Sun</author><author pid="123/7388">Ruimin Sun</author><author pid="81/7428">Long Lu</author><author pid="31/3833">Alan Mislove</author></authors><title>Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps.</title><venue>USENIX Security Symposium</venue><pages>1955-1972</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SunSLM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang</ee><url>https://dblp.org/rec/conf/uss/SunSLM21</url></info>
+<url>URL#1087753</url>
+</hit>
+<hit score="1" id="1087754">
+<info><authors><author pid="224/9374">Seyed Mohammadjavad Seyed Talebi</author><author pid="154/8284">Zhihao Yao</author><author pid="20/8069">Ardalan Amiri Sani</author><author pid="31/8302">Zhiyun Qian</author><author pid="97/5374">Daniel Austin</author></authors><title>Undo Workarounds for Kernel Bugs.</title><venue>USENIX Security Symposium</venue><pages>2381-2398</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TalebiYSQA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/talebi</ee><url>https://dblp.org/rec/conf/uss/TalebiYSQA21</url></info>
+<url>URL#1087754</url>
+</hit>
+<hit score="1" id="1087755">
+<info><authors><author pid="89/6413">Xin Tan</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="150/6685">Xiyu Yang</author><author pid="67/10639">Kangjie Lu</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Detecting Kernel Refcount Bugs with Two-Dimensional Consistency Checking.</title><venue>USENIX Security Symposium</venue><pages>2471-2488</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Tan0YL021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/tan</ee><url>https://dblp.org/rec/conf/uss/Tan0YL021</url></info>
+<url>URL#1087755</url>
+</hit>
+<hit score="1" id="1087756">
+<info><authors><author pid="77/1147">Di Tang</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="90/3951">Haixu Tang</author><author pid="66/6560">Kehuan Zhang</author></authors><title>Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection.</title><venue>USENIX Security Symposium</venue><pages>1541-1558</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Tang0TZ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/tang-di</ee><url>https://dblp.org/rec/conf/uss/Tang0TZ21</url></info>
+<url>URL#1087756</url>
+</hit>
+<hit score="1" id="1087757">
+<info><authors><author pid="199/7027">Zhe Tao</author><author pid="81/10809">Aseem Rastogi</author><author pid="170/4838">Naman Gupta</author><author pid="48/1784">Kapil Vaswani</author><author pid="68/1945">Aditya V. Thakur</author></authors><title>DICE*: A Formally Verified Implementation of DICE Measured Boot.</title><venue>USENIX Security Symposium</venue><pages>1091-1107</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TaoRGVT21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/tao</ee><url>https://dblp.org/rec/conf/uss/TaoRGVT21</url></info>
+<url>URL#1087757</url>
+</hit>
+<hit score="1" id="1087759">
+<info><authors><author pid="72/2304">Mary Theofanos</author><author pid="33/993">Yee-Yin Choong</author><author pid="301/5915">Olivia Murphy</author></authors><title>&apos;Passwords Keep Me Safe&apos; - Understanding What Children Think about Passwords.</title><venue>USENIX Security Symposium</venue><pages>19-35</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TheofanosCM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/theofanos</ee><url>https://dblp.org/rec/conf/uss/TheofanosCM21</url></info>
+<url>URL#1087759</url>
+</hit>
+<hit score="1" id="1087761">
+<info><authors><author pid="205/2241">William J. Tolley</author><author pid="301/5885">Beau Kujath</author><author pid="154/3627">Mohammad Taha Khan</author><author pid="50/7563">Narseo Vallina-Rodriguez</author><author pid="c/JRCrandall">Jedidiah R. Crandall</author></authors><title>Blind In/On-Path Attacks and Applications to VPNs.</title><venue>USENIX Security Symposium</venue><pages>3129-3146</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TolleyKKVC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/tolley</ee><url>https://dblp.org/rec/conf/uss/TolleyKKVC21</url></info>
+<url>URL#1087761</url>
+</hit>
+<hit score="1" id="1087762">
+<info><authors><author pid="169/2279">Christof Ferreira Torres</author><author pid="211/3955">Ramiro Camino</author><author pid="05/6228">Radu State</author></authors><title>Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain.</title><venue>USENIX Security Symposium</venue><pages>1343-1359</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TorresCS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/torres</ee><url>https://dblp.org/rec/conf/uss/TorresCS21</url></info>
+<url>URL#1087762</url>
+</hit>
+<hit score="1" id="1087763">
+<info><authors><author pid="216/6267">Muoi Tran</author><author pid="301/5862">Akshaye Shenoi</author><author pid="75/8333">Min Suk Kang</author></authors><title>On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin.</title><venue>USENIX Security Symposium</venue><pages>1253-1270</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TranSK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/tran</ee><url>https://dblp.org/rec/conf/uss/TranSK21</url></info>
+<url>URL#1087763</url>
+</hit>
+<hit score="1" id="1087764">
+<info><authors><author pid="195/4184">Dimitrios Tychalas</author><author pid="267/9798">Hadjer Benkraouda</author><author pid="56/1494">Michail Maniatakos</author></authors><title>ICSFuzz: Manipulating I/Os and Repurposing Binary Code to Enable Instrumented Fuzzing in ICS Control Applications.</title><venue>USENIX Security Symposium</venue><pages>2847-2862</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TychalasBM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/tychalas</ee><url>https://dblp.org/rec/conf/uss/TychalasBM21</url></info>
+<url>URL#1087764</url>
+</hit>
+<hit score="1" id="1087765">
+<info><authors><author pid="205/3765">Benjamin E. Ujcich</author><author pid="164/3347">Samuel Jero</author><author pid="137/3754">Richard Skowyra</author><author pid="126/3601">Adam Bates 0001</author><author pid="s/WilliamHSanders">William H. Sanders</author><author pid="14/5114">Hamed Okhravi</author></authors><title>Causal Analysis for Software-Defined Networking Attacks.</title><venue>USENIX Security Symposium</venue><pages>3183-3200</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/UjcichJS0SO21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ujcich</ee><url>https://dblp.org/rec/conf/uss/UjcichJS0SO21</url></info>
+<url>URL#1087765</url>
+</hit>
+<hit score="1" id="1087766">
+<info><authors><author pid="190/7677">Enis Ulqinaku</author><author pid="172/9115">Hala Assal</author><author pid="157/0157">AbdelRahman Abdou</author><author pid="26/2669">Sonia Chiasson</author><author pid="51/1639">Srdjan Capkun</author></authors><title>Is Real-time Phishing Eliminated with FIDO? Social Engineering Downgrade Attacks against FIDO Protocols.</title><venue>USENIX Security Symposium</venue><pages>3811-3828</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/UlqinakuAACC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/ulqinaku</ee><url>https://dblp.org/rec/conf/uss/UlqinakuAACC21</url></info>
+<url>URL#1087766</url>
+</hit>
+<hit score="1" id="1087767">
+<info><authors><author pid="62/11127">Erkam Uzun</author><author pid="38/860">Simon P. Chung</author><author pid="65/6001">Vladimir Kolesnikov</author><author pid="32/3349">Alexandra Boldyreva</author><author pid="29/5976">Wenke Lee</author></authors><title>Fuzzy Labeled Private Set Intersection with Applications to Private Real-Time Biometric Search.</title><venue>USENIX Security Symposium</venue><pages>911-928</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/UzunCKBL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/uzun</ee><url>https://dblp.org/rec/conf/uss/UzunCKBL21</url></info>
+<url>URL#1087767</url>
+</hit>
+<hit score="1" id="1087768">
+<info><authors><author pid="130/3608">Mathy Vanhoef</author></authors><title>Fragment and Forge: Breaking Wi-Fi Through Frame Aggregation and Fragmentation.</title><venue>USENIX Security Symposium</venue><pages>161-178</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Vanhoef21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/vanhoef</ee><url>https://dblp.org/rec/conf/uss/Vanhoef21</url></info>
+<url>URL#1087768</url>
+</hit>
+<hit score="1" id="1087769">
+<info><authors><author pid="223/7708">Jose Rodrigo Sanchez Vicarte</author><author pid="71/4292-11">Gang Wang 0011</author><author pid="25/8166">Christopher W. Fletcher</author></authors><title>Double-Cross Attacks: Subverting Active Learning Systems.</title><venue>USENIX Security Symposium</venue><pages>1593-1610</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Vicarte0F21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/vicarte</ee><url>https://dblp.org/rec/conf/uss/Vicarte0F21</url></info>
+<url>URL#1087769</url>
+</hit>
+<hit score="1" id="1087770">
+<info><authors><author pid="59/2227">Yan Wang</author><author pid="94/3019-8">Chao Zhang 0008</author><author pid="125/0591">Zixuan Zhao</author><author pid="190/2804">Bolun Zhang</author><author pid="33/10782">Xiaorui Gong</author><author pid="10/328">Wei Zou</author></authors><title>MAZE: Towards Automated Heap Feng Shui.</title><venue>USENIX Security Symposium</venue><pages>1647-1664</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Wang0ZZGZ21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wang-yan</ee><url>https://dblp.org/rec/conf/uss/Wang0ZZGZ21</url></info>
+<url>URL#1087770</url>
+</hit>
+<hit score="1" id="1087771">
+<info><authors><author pid="156/1247">Qinying Wang</author><author pid="07/8388">Shouling Ji</author><author pid="39/5423-1">Yuan Tian 0001</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="79/7820">Binbin Zhao</author><author pid="301/5831">Yuhong Kan</author><author pid="301/5811">Zhaowei Lin</author><author pid="231/4918">Changting Lin</author><author pid="d/ShuiguangDeng">Shuiguang Deng</author><author pid="l/AlexXLiu">Alex X. Liu</author><author pid="12/6354">Raheem Beyah</author></authors><title>MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols.</title><venue>USENIX Security Symposium</venue><pages>4205-4222</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangJT0ZKLLDLB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wang-qinying</ee><url>https://dblp.org/rec/conf/uss/WangJT0ZKLLDLB21</url></info>
+<url>URL#1087771</url>
+</hit>
+<hit score="1" id="1087772">
+<info><authors><author pid="220/3081">Ke Coby Wang</author><author pid="r/MichaelKReiter">Michael K. Reiter</author></authors><title>Using Amnesia to Detect Credential Database Breaches.</title><venue>USENIX Security Symposium</venue><pages>839-855</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wang-ke-coby</ee><url>https://dblp.org/rec/conf/uss/WangR21</url></info>
+<url>URL#1087772</url>
+</hit>
+<hit score="1" id="1087773">
+<info><authors><author pid="217/2370">Jice Wang</author><author pid="80/6791">Yue Xiao</author><author pid="60/8494">Xueqiang Wang</author><author pid="167/0416">Yuhong Nan</author><author pid="34/8412">Luyi Xing</author><author pid="129/1113">Xiaojing Liao</author><author pid="174/6633">Jinwei Dong</author><author pid="46/5224">Nicolás Serrano</author><author pid="122/4355">Haoran Lu</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="83/6530-1">Yuqing Zhang 0001</author></authors><title>Understanding Malicious Cross-library Data Harvesting on Android.</title><venue>USENIX Security Symposium</venue><pages>4133-4150</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangXWNXLDSL0Z21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wang-jice</ee><url>https://dblp.org/rec/conf/uss/WangXWNXLDSL0Z21</url></info>
+<url>URL#1087773</url>
+</hit>
+<hit score="1" id="1087774">
+<info><authors><author pid="82/8599">Yuchen Wang</author><author pid="43/4074">Zhenfeng Zhang</author><author pid="36/8126">Yongquan Xie</author></authors><title>Privacy-Preserving and Standard-Compatible AKA Protocol for 5G.</title><venue>USENIX Security Symposium</venue><pages>3595-3612</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangZX21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wang-yuchen</ee><url>https://dblp.org/rec/conf/uss/WangZX21</url></info>
+<url>URL#1087774</url>
+</hit>
+<hit score="1" id="1087775">
+<info><authors><author pid="04/10838">Daimeng Wang</author><author pid="181/2621">Zheng Zhang</author><author pid="49/6156-12">Hang Zhang 0012</author><author pid="31/8302">Zhiyun Qian</author><author pid="k/SrikanthVKrishnamurthy">Srikanth V. Krishnamurthy</author><author pid="86/2654">Nael B. Abu-Ghazaleh</author></authors><title>SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning.</title><venue>USENIX Security Symposium</venue><pages>2741-2758</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangZZQKA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wang-daimeng</ee><url>https://dblp.org/rec/conf/uss/WangZZQKA21</url></info>
+<url>URL#1087775</url>
+</hit>
+<hit score="1" id="1087776">
+<info><authors><author pid="239/0184">Noel Warford</author><author pid="293/9864">Collins W. Munyendo</author><author pid="294/0172">Ashna Mediratta</author><author pid="94/1554">Adam J. Aviv</author><author pid="20/7983">Michelle L. Mazurek</author></authors><title>Strategies and Perceived Risks of Sending Sensitive Documents.</title><venue>USENIX Security Symposium</venue><pages>1217-1234</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WarfordMMAM21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/warford</ee><url>https://dblp.org/rec/conf/uss/WarfordMMAM21</url></info>
+<url>URL#1087776</url>
+</hit>
+<hit score="1" id="1087777">
+<info><authors><author pid="04/5465-7">Daniel Weber 0007</author><author pid="23/5695-2">Ahmad Ibrahim 0002</author><author pid="127/4008">Hamed Nemati</author><author pid="08/1117-1">Michael Schwarz 0001</author><author pid="08/6024">Christian Rossow</author></authors><title>Osiris: Automated Discovery of Microarchitectural Side Channels.</title><venue>USENIX Security Symposium</venue><pages>1415-1432</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Weber0NSR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/weber</ee><url>https://dblp.org/rec/conf/uss/Weber0NSR21</url></info>
+<url>URL#1087777</url>
+</hit>
+<hit score="1" id="1087778">
+<info><authors><author pid="146/8098">Mingkui Wei</author></authors><title>Domain Shadowing: Leveraging Content Delivery Networks for Robust Blocking-Resistant Communications.</title><venue>USENIX Security Symposium</venue><pages>3327-3343</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Wei21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wei</ee><url>https://dblp.org/rec/conf/uss/Wei21</url></info>
+<url>URL#1087778</url>
+</hit>
+<hit score="1" id="1087779">
+<info><authors><author pid="251/1580">Chenkai Weng</author><author pid="86/8501-2">Kang Yang 0002</author><author pid="17/1712">Xiang Xie</author><author pid="k/JonathanKatz">Jonathan Katz</author><author pid="150/9413">Xiao Wang 0012</author></authors><title>Mystique: Efficient Conversions for Zero-Knowledge Proofs with Applications to Machine Learning.</title><venue>USENIX Security Symposium</venue><pages>501-518</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Weng0XK021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/weng</ee><url>https://dblp.org/rec/conf/uss/Weng0XK021</url></info>
+<url>URL#1087779</url>
+</hit>
+<hit score="1" id="1087780">
+<info><authors><author pid="74/2693">Brian Wickman</author><author pid="70/2543-4">Hong Hu 0004</author><author pid="119/7670">Insu Yun</author><author pid="249/5571">Daehee Jang</author><author pid="295/1721">Jungwon Lim</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="38/8882">Taesoo Kim</author></authors><title>Preventing Use-After-Free Attacks with Fast Forward Allocation.</title><venue>USENIX Security Symposium</venue><pages>2453-2470</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Wickman0YJLKK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wickman</ee><url>https://dblp.org/rec/conf/uss/Wickman0YJLKK21</url></info>
+<url>URL#1087780</url>
+</hit>
+<hit score="1" id="1087781">
+<info><authors><author pid="135/6902">Flynn Wolf</author><author pid="94/1554">Adam J. Aviv</author><author pid="43/4533">Ravi Kuber</author></authors><title>Security Obstacles and Motivations for Small Businesses from a CISO&apos;s Perspective.</title><venue>USENIX Security Symposium</venue><pages>1199-1216</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WolfAK21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wolf</ee><url>https://dblp.org/rec/conf/uss/WolfAK21</url></info>
+<url>URL#1087781</url>
+</hit>
+<hit score="1" id="1087782">
+<info><authors><author pid="201/9210">Seunghoon Woo</author><author pid="25/6543">Dongwook Lee</author><author pid="285/4792">Sunghan Park</author><author pid="75/4485">Heejo Lee</author><author pid="13/1169">Sven Dietrich</author></authors><title>V0Finder: Discovering the Correct Origin of Publicly Reported Software Vulnerabilities.</title><venue>USENIX Security Symposium</venue><pages>3041-3058</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WooLPLD21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/woo</ee><url>https://dblp.org/rec/conf/uss/WooLPLD21</url></info>
+<url>URL#1087782</url>
+</hit>
+<hit score="1" id="1087783">
+<info><authors><author pid="03/5595">Xian Wu</author><author pid="144/1238-2">Wenbo Guo 0002</author><author pid="01/6961">Hua Wei</author><author pid="40/6431">Xinyu Xing</author></authors><title>Adversarial Policy Training against Deep Reinforcement Learning.</title><venue>USENIX Security Symposium</venue><pages>1883-1900</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Wu0WX21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wu-xian</ee><url>https://dblp.org/rec/conf/uss/Wu0WX21</url></info>
+<url>URL#1087783</url>
+</hit>
+<hit score="1" id="1087784">
+<info><authors><author pid="248/1662">Qiushi Wu</author><author pid="248/1695">Aditya Pakki</author><author pid="207/7884">Navid Emamdoost</author><author pid="29/4899">Stephen McCamant</author><author pid="67/10639">Kangjie Lu</author></authors><title>Understanding and Detecting Disordered Error Handling with Precise Function Pairing.</title><venue>USENIX Security Symposium</venue><pages>2041-2058</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WuPEML21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wu-qiushi</ee><url>https://dblp.org/rec/conf/uss/WuPEML21</url></info>
+<url>URL#1087784</url>
+</hit>
+<hit score="1" id="1087785">
+<info><authors><author pid="16/5608">Jianliang Wu</author><author pid="40/5102">Ruoyu Wu</author><author pid="133/5077">Daniele Antonioli</author><author pid="31/1273">Mathias Payer</author><author pid="32/7125">Nils Ole Tippenhauer</author><author pid="59/5539">Dongyan Xu</author><author pid="159/0537">Dave (Jing) Tian</author><author pid="99/3883">Antonio Bianchi</author></authors><title>LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks.</title><venue>USENIX Security Symposium</venue><pages>339-356</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WuWAPTXTB21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/wu-jianliang</ee><url>https://dblp.org/rec/conf/uss/WuWAPTXTB21</url></info>
+<url>URL#1087785</url>
+</hit>
+<hit score="1" id="1087786">
+<info><authors><author pid="224/9296">Zhaohan Xi</author><author pid="252/5223">Ren Pang</author><author pid="07/8388">Shouling Ji</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Graph Backdoor.</title><venue>USENIX Security Symposium</venue><pages>1523-1540</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XiPJ021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/xi</ee><url>https://dblp.org/rec/conf/uss/XiPJ021</url></info>
+<url>URL#1087786</url>
+</hit>
+<hit score="1" id="1087787">
+<info><authors><author pid="71/1116">Feng Xiao</author><author pid="312/6561">Jianwei Huang</author><author pid="301/5880">Yichang Xiong</author><author pid="153/5855">Guangliang Yang 0001</author><author pid="70/2543-4">Hong Hu 0004</author><author pid="64/1147">Guofei Gu</author><author pid="29/5976">Wenke Lee</author></authors><title>Abusing Hidden Properties to Attack the Node.js Ecosystem.</title><venue>USENIX Security Symposium</venue><pages>2951-2968</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XiaoHXY0GL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/xiao</ee><url>https://dblp.org/rec/conf/uss/XiaoHXY0GL21</url></info>
+<url>URL#1087787</url>
+</hit>
+<hit score="1" id="1087788">
+<info><authors><author pid="217/0857">Jiarong Xing</author><author pid="85/10347">Wenqing Wu</author><author pid="59/146-1">Ang Chen 0001</author></authors><title>Ripple: A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries.</title><venue>USENIX Security Symposium</venue><pages>3865-3881</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XingWC21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/xing</ee><url>https://dblp.org/rec/conf/uss/XingWC21</url></info>
+<url>URL#1087788</url>
+</hit>
+<hit score="1" id="1087789">
+<info><authors><author pid="301/5873">Teng Xu 0009</author><author pid="185/5623">Gerard Goossen</author><author pid="301/5832">Huseyin Kerem Cevahir</author><author pid="301/5917">Sara Khodeir</author><author pid="169/6253">Yingyezhe Jin</author><author pid="53/10825">Frank Li 0001</author><author pid="217/9308">Shawn Shan</author><author pid="88/7407">Sagar Patel</author><author pid="38/7225">David Freeman 0001</author><author pid="61/1749">Paul Pearce</author></authors><title>Deep Entity Classification: Abusive Account Detection for Online Social Networks.</title><venue>USENIX Security Symposium</venue><pages>4097-4114</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XuGCKJ0SPFP21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/xu-teng</ee><url>https://dblp.org/rec/conf/uss/XuGCKJ0SPFP21</url></info>
+<url>URL#1087789</url>
+</hit>
+<hit score="1" id="1087790">
+<info><authors><author pid="09/0">Min Xu</author><author pid="301/5856">Armin Namavari</author><author pid="68/158">David Cash</author><author pid="26/3399">Thomas Ristenpart</author></authors><title>Searching Encrypted Data with Size-Locked Indexes.</title><venue>USENIX Security Symposium</venue><pages>4025-4042</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XuNCR21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/xu-min</ee><url>https://dblp.org/rec/conf/uss/XuNCR21</url></info>
+<url>URL#1087790</url>
+</hit>
+<hit score="1" id="1087791">
+<info><authors><author pid="185/6250">Carter Yagemann</author><author pid="265/5563">Matthew Pruett</author><author pid="38/860">Simon P. Chung</author><author pid="301/5826">Kennon Bittick</author><author pid="150/5240">Brendan Saltaformaggio</author><author pid="29/5976">Wenke Lee</author></authors><title>ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems.</title><venue>USENIX Security Symposium</venue><pages>1989-2006</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YagemannPCBSL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/yagemann</ee><url>https://dblp.org/rec/conf/uss/YagemannPCBSL21</url></info>
+<url>URL#1087791</url>
+</hit>
+<hit score="1" id="1087792">
+<info><authors><author pid="06/6358">Limin Yang</author><author pid="144/1238-2">Wenbo Guo 0002</author><author pid="254/0865">Qingying Hao</author><author pid="47/849">Arridhana Ciptadi</author><author pid="10/5418">Ali Ahmadzadeh</author><author pid="40/6431">Xinyu Xing</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>CADE: Detecting and Explaining Concept Drift Samples for Security Applications.</title><venue>USENIX Security Symposium</venue><pages>2327-2344</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Yang0HCAX021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/yang-limin</ee><url>https://dblp.org/rec/conf/uss/Yang0HCAX021</url></info>
+<url>URL#1087792</url>
+</hit>
+<hit score="1" id="1087793">
+<info><authors><author pid="130/6977">Ronghai Yang</author><author pid="231/6763">Xianbo Wang</author><author pid="97/467">Cheng Chi</author><author pid="39/2537">Dawei Wang</author><author pid="172/2564">Jiawei He</author><author pid="301/5860">Siming Pang</author><author pid="l/WingCheongLau">Wing Cheong Lau</author></authors><title>Scalable Detection of Promotional Website Defacements in Black Hat SEO Campaigns.</title><venue>USENIX Security Symposium</venue><pages>3703-3720</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YangWCWHPL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/yang-ronghai</ee><url>https://dblp.org/rec/conf/uss/YangWCWHPL21</url></info>
+<url>URL#1087793</url>
+</hit>
+<hit score="1" id="1087794">
+<info><authors><author pid="25/2975">Man-Ki Yoon</author><author pid="239/5467">Mengqi Liu 0001</author><author pid="175/3324-23">Hao Chen 0023</author><author pid="33/1183">Jung-Eun Kim</author><author pid="s/ZhongShao">Zhong Shao</author></authors><title>Blinder: Partition-Oblivious Hierarchical Scheduling.</title><venue>USENIX Security Symposium</venue><pages>2417-2434</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Yoon00KS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/yoon</ee><url>https://dblp.org/rec/conf/uss/Yoon00KS21</url></info>
+<url>URL#1087794</url>
+</hit>
+<hit score="1" id="1087795">
+<info><authors><author pid="64/35">Filip Zagórski</author><author pid="271/8517">Grant McClearn</author><author pid="271/8045">Sarah Morin</author><author pid="58/3906">Neal McBurnett</author><author pid="p/PLVora">Poorvi L. Vora</author></authors><title>Minerva- An Efficient Risk-Limiting Ballot Polling Audit.</title><venue>USENIX Security Symposium</venue><pages>3059-3076</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZagorskiMMMV21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zagorski</ee><url>https://dblp.org/rec/conf/uss/ZagorskiMMMV21</url></info>
+<url>URL#1087795</url>
+</hit>
+<hit score="1" id="1087796">
+<info><authors><author pid="26/4189-37">Han Zhang 0037</author><author pid="189/1235">Abhijith Anilkumar</author><author pid="38/2612">Matt Fredrikson</author><author pid="84/1053">Yuvraj Agarwal</author></authors><title>Capture: Centralized Library Management for Heterogeneous IoT Devices.</title><venue>USENIX Security Symposium</venue><pages>4187-4204</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhangAFA21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-han</ee><url>https://dblp.org/rec/conf/uss/ZhangAFA21</url></info>
+<url>URL#1087796</url>
+</hit>
+<hit score="1" id="1087797">
+<info><authors><author pid="52/5264">Xing Zhang</author><author pid="224/2480">Jiongyi Chen</author><author pid="97/164">Chao Feng</author><author pid="24/7930">Ruilin Li</author><author pid="277/4739">Yunfei Su</author><author pid="13/5236">Bin Zhang</author><author pid="33/2568-1">Jing Lei 0001</author><author pid="57/1674">Chaojing Tang</author></authors><title>Reducing Test Cases with Attention Mechanism of Neural Networks.</title><venue>USENIX Security Symposium</venue><pages>2075-2092</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhangCFLSZLT21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-xing</ee><url>https://dblp.org/rec/conf/uss/ZhangCFLSZLT21</url></info>
+<url>URL#1087797</url>
+</hit>
+<hit score="1" id="1087798">
+<info><authors><author pid="200/7275">Cen Zhang</author><author pid="227/9139">Xingwei Lin</author><author pid="204/3729">Yuekang Li</author><author pid="73/7055">Yinxing Xue</author><author pid="301/5829">Jundong Xie</author><author pid="147/5824">Hongxu Chen</author><author pid="256/4514">Xinlei Ying</author><author pid="301/5814">Jiashui Wang</author><author pid="51/3710-3">Yang Liu 0003</author></authors><title>APICraft: Fuzz Driver Generation for Closed-source SDK Libraries.</title><venue>USENIX Security Symposium</venue><pages>2811-2828</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhangLLXXCYW021</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-cen</ee><url>https://dblp.org/rec/conf/uss/ZhangLLXXCYW021</url></info>
+<url>URL#1087798</url>
+</hit>
+<hit score="1" id="1087799">
+<info><authors><author pid="181/2621">Zheng Zhang</author><author pid="49/6156-12">Hang Zhang 0012</author><author pid="31/8302">Zhiyun Qian</author><author pid="91/8881">Billy Lau</author></authors><title>An Investigation of the Android Kernel Patch Ecosystem.</title><venue>USENIX Security Symposium</venue><pages>3649-3666</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhangZQL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-zheng</ee><url>https://dblp.org/rec/conf/uss/ZhangZQL21</url></info>
+<url>URL#1087799</url>
+</hit>
+<hit score="1" id="1087800">
+<info><authors><author pid="94/4314">Wenting Zheng</author><author pid="277/5307">Ryan Deng</author><author pid="160/1002">Weikeng Chen</author><author pid="91/275">Raluca Ada Popa</author><author pid="55/925">Aurojit Panda</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning.</title><venue>USENIX Security Symposium</venue><pages>2723-2740</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhengDCPPS21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zheng</ee><url>https://dblp.org/rec/conf/uss/ZhengDCPPS21</url></info>
+<url>URL#1087800</url>
+</hit>
+<hit score="1" id="1087801">
+<info><authors><author pid="125/1789">Yuankun Zhu</author><author pid="15/8296">Yueqiang Cheng</author><author pid="160/7471">Husheng Zhou</author><author pid="131/1381">Yantao Lu</author></authors><title>Hermes Attack: Steal DNN Models with Lossless Inference Accuracy.</title><venue>USENIX Security Symposium</venue><pages>1973-1988</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhuCZL21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zhu</ee><url>https://dblp.org/rec/conf/uss/ZhuCZL21</url></info>
+<url>URL#1087801</url>
+</hit>
+<hit score="1" id="1087802">
+<info><authors><author pid="218/0356">Yixin Zou</author><author pid="205/2107">Allison McDonald</author><author pid="301/5898">Julia Narakornpichit</author><author pid="75/11301">Nicola Dell</author><author pid="26/3399">Thomas Ristenpart</author><author pid="36/8412">Kevin A. Roundy</author><author pid="08/7562">Florian Schaub</author><author pid="79/9389">Acar Tamersoy</author></authors><title>The Role of Computer Security Customer Support in Helping Survivors of Intimate Partner Violence.</title><venue>USENIX Security Symposium</venue><pages>429-446</pages><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZouMNDRRST21</key><ee>https://www.usenix.org/conference/usenixsecurity21/presentation/zou</ee><url>https://dblp.org/rec/conf/uss/ZouMNDRRST21</url></info>
+<url>URL#1087802</url>
+</hit>
+<hit score="1" id="1099574">
+<info><authors><author pid="20/2967">Michael Bailey</author><author pid="93/655">Rachel Greenstadt</author></authors><title>30th USENIX Security Symposium, USENIX Security 2021, August 11-13, 2021</title><venue>USENIX Security Symposium</venue><publisher>USENIX Association</publisher><year>2021</year><type>Editorship</type><access>open</access><key>conf/uss/2021</key><ee>https://www.usenix.org/conference/usenixsecurity21</ee><url>https://dblp.org/rec/conf/uss/2021</url></info>
+<url>URL#1099574</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239442">:facetid:toc:\"db/conf/ndss/ndss2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">188.98</time>
+<completions total="1" computed="1" sent="1">
+<c sc="84" dc="84" oc="84" id="41044847">:facetid:toc:db/conf/ndss/ndss2022.bht</c>
+</completions>
+<hits total="84" computed="84" sent="84" first="0">
+<hit score="1" id="599467">
+<info><authors><author pid="41/506-1">Ahmed Salem 0001</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Get a Model! Model Hijacking Attack Against Machine Learning Models.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/00010022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-241/</ee><url>https://dblp.org/rec/conf/ndss/00010022</url></info>
+<url>URL#599467</url>
+</hit>
+<hit score="1" id="599468">
+<info><authors><author pid="98/3396">Amit Klein 0001</author></authors><title>Subverting Stateful Firewalls with Protocol States.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/000122</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-186/</ee><url>https://dblp.org/rec/conf/ndss/000122</url></info>
+<url>URL#599468</url>
+</hit>
+<hit score="1" id="599469">
+<info><authors><author pid="68/6577-3">Ren Zhang 0003</author><author pid="275/3150">Dingwei Zhang</author><author pid="275/3263">Quake Wang</author><author pid="335/5794">Shichen Wu</author><author pid="219/4244">Jan Xie</author><author pid="p/BartPreneel">Bart Preneel</author></authors><title>NC-Max: Breaking the Security-Performance Tradeoff in Nakamoto Consensus.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/0003ZWWXP22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-255/</ee><url>https://dblp.org/rec/conf/ndss/0003ZWWXP22</url></info>
+<url>URL#599469</url>
+</hit>
+<hit score="1" id="599470">
+<info><authors><author pid="95/4442-88">Peng Wang 0088</author><author pid="227/2961">Zilong Lin</author><author pid="129/1113">Xiaojing Liao</author><author pid="06/6268">XiaoFeng Wang 0001</author></authors><title>Demystifying Local Business Search Poisoning for Illicit Drug Promotion.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/0088LL022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-261/</ee><url>https://dblp.org/rec/conf/ndss/0088LL022</url></info>
+<url>URL#599470</url>
+</hit>
+<hit score="1" id="599471">
+<info><authors><author pid="305/9337">Ismi Abidi</author><author pid="335/5804">Ishan Nangia</author><author pid="34/10014">Paarijaat Aditya</author><author pid="29/8210">Rijurekha Sen</author></authors><title>Privacy in Urban Sensing with Instrumented Fleets, Using Air Pollution Monitoring As A Usecase.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/AbidiNAS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-233/</ee><url>https://dblp.org/rec/conf/ndss/AbidiNAS22</url></info>
+<url>URL#599471</url>
+</hit>
+<hit score="1" id="599472">
+<info><authors><author pid="154/3548">Leonardo Babun</author><author pid="202/9503">Amit Kumar Sikder</author><author pid="195/5992">Abbas Acar</author><author pid="46/1500">A. Selcuk Uluagac</author></authors><title>The Truth Shall Set Thee Free: Enabling Practical Forensic Capabilities in Smart Environments.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/BabunSAU22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-192/</ee><url>https://dblp.org/rec/conf/ndss/BabunSAU22</url></info>
+<url>URL#599472</url>
+</hit>
+<hit score="1" id="599473">
+<info><authors><author pid="b/MBlanton">Marina Blanton</author><author pid="97/7492-2">Chen Yuan 0002</author></authors><title>Binary Search in Secure Computation.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Blanton022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-224/</ee><url>https://dblp.org/rec/conf/ndss/Blanton022</url></info>
+<url>URL#599473</url>
+</hit>
+<hit score="1" id="599474">
+<info><authors><author pid="160/1002">Weikeng Chen</author><author pid="132/2690">Thang Hoang</author><author pid="51/3023">Jorge Guajardo</author><author pid="73/4897">Attila A. Yavuz</author></authors><title>Titanium: A Metadata-Hiding File-Sharing System with Malicious Security.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ChenHGY22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-234/</ee><url>https://dblp.org/rec/conf/ndss/ChenHGY22</url></info>
+<url>URL#599474</url>
+</hit>
+<hit score="1" id="599475">
+<info><authors><author pid="43/8167">Wenqi Chen</author><author pid="58/5311">Zhiliang Wang</author><author pid="234/8769">Dongqi Han</author><author pid="280/2169">Chenxin Duan</author><author pid="77/5776">Xia Yin</author><author pid="62/2814-1">Jiahai Yang 0001</author><author pid="93/5648">Xingang Shi</author></authors><title>ROV-MI: Large-Scale, Accurate and Efficient Measurement of ROV Deployment.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ChenWHDY0S22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-183/</ee><url>https://dblp.org/rec/conf/ndss/ChenWHDY0S22</url></info>
+<url>URL#599475</url>
+</hit>
+<hit score="1" id="599476">
+<info><authors><author pid="185/1609">Hongjun Choi</author><author pid="324/1963">Zhiyuan Cheng 0010</author><author pid="95/3760-1">Xiangyu Zhang 0001</author></authors><title>RVPLAYER: Robotic Vehicle Forensics by Replay with What-if Reasoning.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Choi0022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-215/</ee><url>https://dblp.org/rec/conf/ndss/Choi0022</url></info>
+<url>URL#599476</url>
+</hit>
+<hit score="1" id="599477">
+<info><authors><author pid="172/1435">Laurent Chuat</author><author pid="299/9010">Cyrill Krähenbühl</author><author pid="39/6266">Prateek Mittal</author><author pid="16/6873">Adrian Perrig</author></authors><title>F-PKI: Enabling Innovation and Trust Flexibility in the HTTPS Public-Key Infrastructure.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ChuatKMP22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-250/</ee><url>https://dblp.org/rec/conf/ndss/ChuatKMP22</url></info>
+<url>URL#599477</url>
+</hit>
+<hit score="1" id="599478">
+<info><authors><author pid="74/7284">James Conners</author><author pid="335/5776">Corey Devenport</author><author pid="335/5803">Stephen Derbidge</author><author pid="335/5795">Natalie Farnsworth</author><author pid="335/5785">Kyler Gates</author><author pid="335/5774">Stephen Lambert</author><author pid="335/5769">Christopher McClain</author><author pid="335/5792">Parker Nichols</author><author pid="71/2423">Daniel Zappala</author></authors><title>Let&apos;s Authenticate: Automated Certificates for User Authentication.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ConnersDDFGLMNZ22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-251/</ee><url>https://dblp.org/rec/conf/ndss/ConnersDDFGLMNZ22</url></info>
+<url>URL#599478</url>
+</hit>
+<hit score="1" id="599479">
+<info><authors><author pid="153/0574">Ghada Dessouky</author><author pid="32/4934">Emmanuel Stapf</author><author pid="280/7166">Pouya Mahmoody</author><author pid="76/4692">Alexander Gruler</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author></authors><title>Chunked-Cache: On-Demand and Scalable Cache Isolation for Security Architectures.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/DessoukySMGS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-225/</ee><url>https://dblp.org/rec/conf/ndss/DessoukySMGS22</url></info>
+<url>URL#599479</url>
+</hit>
+<hit score="1" id="599480">
+<info><authors><author pid="266/8877">Sushant Dinesh</author><author pid="325/3775">Grant Garrett-Grossman</author><author pid="25/8166">Christopher W. Fletcher</author></authors><title>SynthCT: Towards Portable Constant-Time Code.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/DineshGF22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-223/</ee><url>https://dblp.org/rec/conf/ndss/DineshGF22</url></info>
+<url>URL#599480</url>
+</hit>
+<hit score="1" id="599481">
+<info><authors><author pid="198/0935">Saba Eskandarian</author><author pid="b/DanBoneh">Dan Boneh</author></authors><title>Clarion: Anonymous Communication from Multiparty Shuffling Protocols.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/EskandarianB22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-243/</ee><url>https://dblp.org/rec/conf/ndss/EskandarianB22</url></info>
+<url>URL#599481</url>
+</hit>
+<hit score="1" id="599482">
+<info><authors><author pid="232/9671">Chongzhou Fang</author><author pid="67/1771">Han Wang</author><author pid="251/4305">Najmeh Nazari</author><author pid="292/5439">Behnam Omidi</author><author pid="83/7356">Avesta Sasan</author><author pid="169/7381">Khaled N. Khasawneh</author><author pid="99/7115">Setareh Rafatirad</author><author pid="63/3012">Houman Homayoun</author></authors><title>Repttack: Exploiting Cloud Schedulers to Guide Co-Location Attacks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/FangWNOSKRH22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-237/</ee><url>https://dblp.org/rec/conf/ndss/FangWNOSKRH22</url></info>
+<url>URL#599482</url>
+</hit>
+<hit score="1" id="599483">
+<info><authors><author pid="53/8376">Xuewei Feng</author><author pid="181/2688-2">Qi Li 0002</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="181/2626-2">Ke Xu 0002</author><author pid="89/10754">Baojun Liu</author><author pid="11/11005">Xiaofeng Zheng</author><author pid="89/8437">Qiushi Yang</author><author pid="36/5143">Haixin Duan</author><author pid="31/8302">Zhiyun Qian</author></authors><title>PMTUD is not Panacea: Revisiting IP Fragmentation Attacks against TCP.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Feng000LZYDQ22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-185/</ee><url>https://dblp.org/rec/conf/ndss/Feng000LZYDQ22</url></info>
+<url>URL#599483</url>
+</hit>
+<hit score="1" id="599484">
+<info><authors><author pid="151/8708">Hossein Fereidooni</author><author pid="67/8264">Alexandra Dmitrienko</author><author pid="283/4641">Phillip Rieger</author><author pid="05/617">Markus Miettinen</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author><author pid="82/6780">Felix Madlener</author></authors><title>FedCRI: Federated Mobile Cyber-Risk Intelligence.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/FereidooniDRMSM22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-229/</ee><url>https://dblp.org/rec/conf/ndss/FereidooniDRMSM22</url></info>
+<url>URL#599484</url>
+</hit>
+<hit score="1" id="599485">
+<info><authors><author pid="189/1758">Tommaso Frassetto</author><author pid="224/9363">Patrick Jauernig</author><author pid="250/9440">David Koisser</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author></authors><title>CFInsight: A Comprehensive Metric for CFI Policies.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/FrassettoJKS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-213/</ee><url>https://dblp.org/rec/conf/ndss/FrassettoJKS22</url></info>
+<url>URL#599485</url>
+</hit>
+<hit score="1" id="599486">
+<info><authors><author pid="254/8985">Zhonghui Ge</author><author pid="64/6544">Yi Zhang</author><author pid="13/102-1">Yu Long 0001</author><author pid="72/1963">Dawu Gu</author></authors><title>Shaduf: Non-Cycle Payment Channel Rebalancing.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/GeZ0G22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-254/</ee><url>https://dblp.org/rec/conf/ndss/GeZ0G22</url></info>
+<url>URL#599486</url>
+</hit>
+<hit score="1" id="599487">
+<info><authors><author pid="268/5832">Xueluan Gong</author><author pid="50/10586">Yanjiao Chen</author><author pid="335/5790">Jianshuo Dong</author><author pid="75/5723-2">Qian Wang 0002</author></authors><title>ATTEQ-NN: Attention-based QoE-aware Evasive Backdoor Attacks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/GongCD022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-238/</ee><url>https://dblp.org/rec/conf/ndss/GongCD022</url></info>
+<url>URL#599487</url>
+</hit>
+<hit score="1" id="599488">
+<info><authors><author pid="251/1504">Bingyong Guo</author><author pid="10/5980-1">Yuan Lu 0001</author><author pid="169/9986">Zhenliang Lu</author><author pid="17/2212-5">Qiang Tang 0005</author><author pid="07/1951-2">Jing Xu 0002</author><author pid="43/4074">Zhenfeng Zhang</author></authors><title>Speeding Dumbo: Pushing Asynchronous BFT Closer to Practice.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Guo0L00Z22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-256/</ee><url>https://dblp.org/rec/conf/ndss/Guo0L00Z22</url></info>
+<url>URL#599488</url>
+</hit>
+<hit score="1" id="599489">
+<info><authors><author pid="190/9888">Grant Hernandez</author><author pid="185/2352">Marius Muench</author><author pid="161/0742">Dominik Christian Maier</author><author pid="212/6785">Alyssa Milburn</author><author pid="131/6138">Shinjo Park</author><author pid="272/7190">Tobias Scharnowski</author><author pid="335/5811">Tyler Tucker</author><author pid="14/3295">Patrick Traynor</author><author pid="82/1935">Kevin R. B. Butler</author></authors><title>FirmWire: Transparent Dynamic Analysis for Cellular Baseband Firmware.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/HernandezMMMPST22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-200/</ee><url>https://dblp.org/rec/conf/ndss/HernandezMMMPST22</url></info>
+<url>URL#599489</url>
+</hit>
+<hit score="1" id="599490">
+<info><authors><author pid="35/5361">Kaiming Huang</author><author pid="252/4020">Yongzhe Huang</author><author pid="31/1273">Mathias Payer</author><author pid="31/8302">Zhiyun Qian</author><author pid="11/2192">Jack Sampson</author><author pid="91/6206">Gang Tan</author><author pid="45/576">Trent Jaeger</author></authors><title>The Taming of the Stack: Isolating Stack Data from Memory Errors.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/HuangHPQSTJ22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-212/</ee><url>https://dblp.org/rec/conf/ndss/HuangHPQSTJ22</url></info>
+<url>URL#599490</url>
+</hit>
+<hit score="1" id="599491">
+<info><authors><author pid="331/2710">Muhammad Adil Inam</author><author pid="184/8086">Wajih Ul Hassan</author><author pid="292/2916">Ali Ahad</author><author pid="126/3601">Adam Bates 0001</author><author pid="31/9589">Rashid Tahir</author><author pid="90/7566">Tianyin Xu</author><author pid="59/3605">Fareed Zaffar</author></authors><title>Forensic Analysis of Configuration-based Attacks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/InamHA0TXZ22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-194/</ee><url>https://dblp.org/rec/conf/ndss/InamHA0TXZ22</url></info>
+<url>URL#599491</url>
+</hit>
+<hit score="1" id="599492">
+<info><authors><author pid="43/1191">Wei Jia</author><author pid="178/5017">Zhaojun Lu</author><author pid="254/0606">Haichun Zhang</author><author pid="43/310">Zhenglin Liu</author><author pid="29/5259-58">Jie Wang 0058</author><author pid="04/3130">Gang Qu 0001</author></authors><title>Fooling the Eyes of Autonomous Vehicles: Robust Physical Adversarial Examples Against Traffic Sign Recognition Systems.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/JiaLZL0022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-228/</ee><url>https://dblp.org/rec/conf/ndss/JiaLZL0022</url></info>
+<url>URL#599492</url>
+</hit>
+<hit score="1" id="599493">
+<info><authors><author pid="237/8586">Zu-Ming Jiang</author><author pid="161/7805">Jia-Ju Bai</author><author pid="67/10639">Kangjie Lu</author><author pid="h/ShiMinHu">Shi-Min Hu 0001</author></authors><title>Context-Sensitive and Directional Concurrency Fuzzing for Data-Race Detection.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/JiangBL022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-198/</ee><url>https://dblp.org/rec/conf/ndss/JiangBL022</url></info>
+<url>URL#599493</url>
+</hit>
+<hit score="1" id="599494">
+<info><authors><author pid="157/3785">Brian Johannesmeyer</author><author pid="278/0754">Jakob Koschel</author><author pid="121/2685">Kaveh Razavi</author><author pid="91/800">Herbert Bos</author><author pid="75/8194">Cristiano Giuffrida</author></authors><title>Kasper: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/JohannesmeyerKR22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-247/</ee><url>https://dblp.org/rec/conf/ndss/JohannesmeyerKR22</url></info>
+<url>URL#599494</url>
+</hit>
+<hit score="1" id="599495">
+<info><authors><author pid="254/6529">Zifeng Kang</author><author pid="67/2580-6">Song Li 0006</author><author pid="28/8733">Yinzhi Cao</author></authors><title>Probe the Proto: Measuring Client-Side Prototype Pollution Vulnerabilities of One Million Real-world Websites.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Kang0C22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-207/</ee><url>https://dblp.org/rec/conf/ndss/Kang0C22</url></info>
+<url>URL#599495</url>
+</hit>
+<hit score="1" id="599496">
+<info><authors><author pid="248/0540">Feras Al Kassar</author><author pid="304/8284">Giulia Clerici</author><author pid="c/LucaCompagna">Luca Compagna</author><author pid="56/490">Davide Balzarotti</author><author pid="66/11094">Fabian Yamaguchi</author></authors><title>Testability Tarpits: the Impact of Code Patterns on the Security Testing of Web Applications.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/KassarCCBY22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-206/</ee><url>https://dblp.org/rec/conf/ndss/KassarCCBY22</url></info>
+<url>URL#599496</url>
+</hit>
+<hit score="1" id="599497">
+<info><authors><author pid="85/1809">Jinwoo Kim</author><author pid="177/3031">Eduard Marin</author><author pid="82/4386">Mauro Conti</author><author pid="84/3319">Seungwon Shin</author></authors><title>EqualNet: A Secure and Practical Defense for Long-term Network Topology Obfuscation.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/KimMCS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-197/</ee><url>https://dblp.org/rec/conf/ndss/KimMCS22</url></info>
+<url>URL#599497</url>
+</hit>
+<hit score="1" id="599498">
+<info><authors><author pid="335/5815">Isaiah J. King</author><author pid="39/560">H. Howie Huang</author></authors><title>Euler: Detecting Network Lateral Movement via Scalable Temporal Graph Link Prediction.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/KingH22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-227/</ee><url>https://dblp.org/rec/conf/ndss/KingH22</url></info>
+<url>URL#599498</url>
+</hit>
+<hit score="1" id="599499">
+<info><authors><author pid="272/8278">Brian Kondracki</author><author pid="248/1647">Babak Amin Azad</author><author pid="182/2006">Najmeh Miramirkhani</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>The Droid is in the Details: Environment-aware Evasion of Android Sandboxes.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/KondrackiAMN22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-189/</ee><url>https://dblp.org/rec/conf/ndss/KondrackiAMN22</url></info>
+<url>URL#599499</url>
+</hit>
+<hit score="1" id="599500">
+<info><authors><author pid="160/3825">Nishat Koti</author><author pid="64/3169">Arpita Patra</author><author pid="234/1089">Rahul Rachuri</author><author pid="187/5691">Ajith Suresh</author></authors><title>Tetrad: Actively Secure 4PC for Secure Training and Inference.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/KotiPRS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-202/</ee><url>https://dblp.org/rec/conf/ndss/KotiPRS22</url></info>
+<url>URL#599500</url>
+</hit>
+<hit score="1" id="599501">
+<info><authors><author pid="312/5687">Tomer Laor</author><author pid="312/4848">Naif Mehanna</author><author pid="286/8192">Antonin Durey</author><author pid="312/4560">Vitaly Dyadyuk</author><author pid="167/2160">Pierre Laperdrix</author><author pid="136/6642">Clémentine Maurice</author><author pid="69/39">Yossi Oren</author><author pid="52/2030">Romain Rouvoy</author><author pid="65/6174">Walter Rudametkin</author><author pid="90/10901">Yuval Yarom</author></authors><title>DRAWN APART: A Device Identification Technique based on Remote GPU Fingerprinting.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LaorMDDLMORRY22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-242/</ee><url>https://dblp.org/rec/conf/ndss/LaorMDDLMORRY22</url></info>
+<url>URL#599501</url>
+</hit>
+<hit score="1" id="599502">
+<info><authors><author pid="268/5361">Hsun Lee</author><author pid="335/5777">Yuming Hsu</author><author pid="335/5808">Jing-Jie Wang</author><author pid="27/8181">Hao-Cheng Yang</author><author pid="123/7893">Yu-Heng Chen</author><author pid="51/6805">Yih-Chun Hu</author><author pid="59/7124">Hsu-Chun Hsiao</author></authors><title>HeadStart: Efficiently Verifiable and Low-Latency Participatory Randomness Generation at Scale.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LeeHWYCHH22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-184/</ee><url>https://dblp.org/rec/conf/ndss/LeeHWYCHH22</url></info>
+<url>URL#599502</url>
+</hit>
+<hit score="1" id="599503">
+<info><authors><author pid="217/8466">Zhengxiong Li</author><author pid="134/1201">Baicheng Chen</author><author pid="59/7651">Xingyu Chen</author><author pid="204/1605">Huining Li</author><author pid="183/1735">Chenhan Xu</author><author pid="75/2611-4">Feng Lin 0004</author><author pid="154/4313">Chris Xiaoxuan Lu</author><author pid="20/6179-1">Kui Ren 0001</author><author pid="11/6689">Wenyao Xu</author></authors><title>SpiralSpy: Exploring a Stealthy and Practical Covert Channel to Attack Air-gapped Computing Devices via mmWave Sensing.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LiCCLX0L0X22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-219/</ee><url>https://dblp.org/rec/conf/ndss/LiCCLX0L0X22</url></info>
+<url>URL#599503</url>
+</hit>
+<hit score="1" id="599504">
+<info><authors><author pid="208/8194">Shijia Li</author><author pid="08/6314">Chunfu Jia</author><author pid="335/5809">Pengda Qiu</author><author pid="319/2575">Qiyuan Chen</author><author pid="09/6585-2">Jiang Ming 0002</author><author pid="60/206">Debin Gao</author></authors><title>Chosen-Instruction Attack Against Commercial Code Virtualization Obfuscators.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LiJQC0G22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-210/</ee><url>https://dblp.org/rec/conf/ndss/LiJQC0G22</url></info>
+<url>URL#599504</url>
+</hit>
+<hit score="1" id="599505">
+<info><authors><author pid="10/3844">Jianfeng Li</author><author pid="311/8828">Shuohan Wu</author><author pid="63/778">Hao Zhou</author><author pid="53/1565">Xiapu Luo</author><author pid="12/2633-6">Ting Wang 0006</author><author pid="14/3968">Yangyang Liu</author><author pid="18/10062">Xiaobo Ma</author></authors><title>Packet-Level Open-World App Fingerprinting on Wireless Traffic.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LiWZL0LM22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-218/</ee><url>https://dblp.org/rec/conf/ndss/LiWZL0LM22</url></info>
+<url>URL#599505</url>
+</hit>
+<hit score="1" id="599506">
+<info><authors><author pid="276/0091">Sizhuang Liang</author><author pid="89/4316">Saman A. Zonouz</author><author pid="12/6354">Raheem Beyah</author></authors><title>Hiding My Real Self! Protecting Intellectual Property in Additive Manufacturing Systems Against Optical Side-Channel Attacks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LiangZB22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-216/</ee><url>https://dblp.org/rec/conf/ndss/LiangZB22</url></info>
+<url>URL#599506</url>
+</hit>
+<hit score="1" id="599507">
+<info><authors><author pid="72/9051">Linsheng Liu</author><author pid="09/5926">Daniel S. Roche</author><author pid="301/9289">Austin Theriault</author><author pid="05/4233">Arkady Yerukhimovich</author></authors><title>Fighting Fake News in Encrypted Messaging with the Fuzzy Anonymous Complaint Tally System (FACTS).</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LiuRTY22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-264/</ee><url>https://dblp.org/rec/conf/ndss/LiuRTY22</url></info>
+<url>URL#599507</url>
+</hit>
+<hit score="1" id="599508">
+<info><authors><author pid="47/2804">Wu Luo</author><author pid="99/1702">Xuhua Ding</author><author pid="92/1320">Pengfei Wu</author><author pid="03/5004">Xiaolei Zhang</author><author pid="11/325">Qingni Shen</author><author pid="01/868">Zhonghai Wu</author></authors><title>ScriptChecker: To Tame Third-party Script Execution With Task Capabilities.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LuoDWZSW22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-208/</ee><url>https://dblp.org/rec/conf/ndss/LuoDWZSW22</url></info>
+<url>URL#599508</url>
+</hit>
+<hit score="1" id="599509">
+<info><authors><author pid="248/1663">Chenyang Lyu</author><author pid="07/8388">Shouling Ji</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="56/2376">Hong Liang</author><author pid="79/7820">Binbin Zhao</author><author pid="67/10639">Kangjie Lu</author><author pid="12/6354">Raheem Beyah</author></authors><title>EMS: History-Driven Mutation for Coverage-based Fuzzing.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/LyuJ0LZLB22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-201/</ee><url>https://dblp.org/rec/conf/ndss/LyuJ0LZLB22</url></info>
+<url>URL#599509</url>
+</hit>
+<hit score="1" id="599510">
+<info><authors><author pid="210/2383">Derrick Paul McKee</author><author pid="335/5807">Yianni Giannaris</author><author pid="335/5796">Carolina Ortega</author><author pid="s/HowardEShrobe">Howard E. Shrobe</author><author pid="31/1273">Mathias Payer</author><author pid="14/5114">Hamed Okhravi</author><author pid="157/1187">Nathan Burow</author></authors><title>Preventing Kernel Hacks with HAKCs.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/McKeeGOSPOB22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-257/</ee><url>https://dblp.org/rec/conf/ndss/McKeeGOSPOB22</url></info>
+<url>URL#599510</url>
+</hit>
+<hit score="1" id="599511">
+<info><authors><author pid="28/8644">Roland Meier</author><author pid="75/5939">Vincent Lenders</author><author pid="51/7546">Laurent Vanbever</author></authors><title>ditto: WAN Traffic Obfuscation at Line Rate.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/MeierLV22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-195/</ee><url>https://dblp.org/rec/conf/ndss/MeierLV22</url></info>
+<url>URL#599511</url>
+</hit>
+<hit score="1" id="599512">
+<info><authors><author pid="249/2297">Alejandro Mera</author><author pid="311/3684">Yi Hui Chen</author><author pid="123/7388">Ruimin Sun</author><author pid="k/EnginKirda">Engin Kirda</author><author pid="81/7428">Long Lu</author></authors><title>D-Box: DMA-enabled Compartmentalization for Embedded Applications.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/MeraCSKL22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-258/</ee><url>https://dblp.org/rec/conf/ndss/MeraCSKL22</url></info>
+<url>URL#599512</url>
+</hit>
+<hit score="1" id="599513">
+<info><authors><author pid="208/1995">Samuel Mergendahl</author><author pid="157/1187">Nathan Burow</author><author pid="14/5114">Hamed Okhravi</author></authors><title>Cross-Language Attacks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/MergendahlBO22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-259/</ee><url>https://dblp.org/rec/conf/ndss/MergendahlBO22</url></info>
+<url>URL#599513</url>
+</hit>
+<hit score="1" id="599514">
+<info><authors><author pid="187/8991">Dongliang Mu</author><author pid="41/7732">Yuhang Wu</author><author pid="16/6884">Yueqi Chen</author><author pid="277/7909">Zhenpeng Lin</author><author pid="325/3296">Chensheng Yu</author><author pid="40/6431">Xinyu Xing</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>An In-depth Analysis of Duplicated Linux Kernel Bug Reports.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/MuWCLYX022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-246/</ee><url>https://dblp.org/rec/conf/ndss/MuWCLYX022</url></info>
+<url>URL#599514</url>
+</hit>
+<hit score="1" id="599515">
+<info><authors><author pid="241/9630">Mohammad Naseri</author><author pid="168/8164">Jamie Hayes</author><author pid="36/6225">Emiliano De Cristofaro</author></authors><title>Local and Central Differential Privacy for Robustness and Privacy in Federated Learning.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/NaseriHC22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-204/</ee><url>https://dblp.org/rec/conf/ndss/NaseriHC22</url></info>
+<url>URL#599515</url>
+</hit>
+<hit score="1" id="599516">
+<info><authors><author pid="222/4910">Bristena Oprisanu</author><author pid="284/8917">Georgi Ganev</author><author pid="36/6225">Emiliano De Cristofaro</author></authors><title>On Utility and Privacy in Synthetic Genomic Data.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/OprisanuGC22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-231/</ee><url>https://dblp.org/rec/conf/ndss/OprisanuGC22</url></info>
+<url>URL#599516</url>
+</hit>
+<hit score="1" id="599517">
+<info><authors><author pid="165/2247">Gonzalo De La Torre Parra</author><author pid="335/5813">Luis Selvera</author><author pid="16/6389">Joseph Khoury</author><author pid="335/5782">Hector Irizarry</author><author pid="122/5447">Elias Bou-Harb</author><author pid="263/1357">Paul Rad</author></authors><title>Interpretable Federated Transformer Log Learning for Cloud Threat Forensics.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ParraSKIBR22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-236/</ee><url>https://dblp.org/rec/conf/ndss/ParraSKIBR22</url></info>
+<url>URL#599517</url>
+</hit>
+<hit score="1" id="599518">
+<info><authors><author pid="249/4946">Zhenxiao Qi</author><author pid="70/7820">Yu Qu</author><author pid="77/6178-1">Heng Yin 0001</author></authors><title>LogicMEM: Automatic Profile Generation for Binary-Only Memory Forensics via Logic Inference.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/QiQY22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-193/</ee><url>https://dblp.org/rec/conf/ndss/QiQY22</url></info>
+<url>URL#599518</url>
+</hit>
+<hit score="1" id="599519">
+<info><authors><author pid="270/2465">Reethika Ramesh</author><author pid="270/2407">Leonid Evdokimov</author><author pid="259/6190">Diwen Xue</author><author pid="24/973">Roya Ensafi</author></authors><title>VPNInspector: Systematic Investigation of the VPN Ecosystem.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/RameshEXE22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-244/</ee><url>https://dblp.org/rec/conf/ndss/RameshEXE22</url></info>
+<url>URL#599519</url>
+</hit>
+<hit score="1" id="599520">
+<info><authors><author pid="184/5705">Aditya Singh Rathore</author><author pid="236/2869">Yijie Shen</author><author pid="183/1735">Chenhan Xu</author><author pid="335/5779">Jacob Snyderman</author><author pid="96/6606">Jinsong Han</author><author pid="21/3626-10">Fan Zhang 0010</author><author pid="217/8466">Zhengxiong Li</author><author pid="75/2611-4">Feng Lin 0004</author><author pid="11/6689">Wenyao Xu</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>FakeGuard: Exploring Haptic Response to Mitigate the Vulnerability in Commercial Fingerprint Anti-Spoofing.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/RathoreSXSH0L0X22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-230/</ee><url>https://dblp.org/rec/conf/ndss/RathoreSXSH0L0X22</url></info>
+<url>URL#599520</url>
+</hit>
+<hit score="1" id="599521">
+<info><authors><author pid="283/4641">Phillip Rieger</author><author pid="153/5738">Thien Duc Nguyen</author><author pid="05/617">Markus Miettinen</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author></authors><title>DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/RiegerNMS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-205/</ee><url>https://dblp.org/rec/conf/ndss/RiegerNMS22</url></info>
+<url>URL#599521</url>
+</hit>
+<hit score="1" id="599522">
+<info><authors><author pid="241/1422">Harshad Sathaye</author><author pid="154/7659">Gerald LaMountain</author><author pid="94/7822">Pau Closas</author><author pid="23/11190">Aanjhan Ranganathan</author></authors><title>SemperFi: Anti-spoofing GPS Receiver for UAVs.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/SathayeLCR22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-220/</ee><url>https://dblp.org/rec/conf/ndss/SathayeLCR22</url></info>
+<url>URL#599522</url>
+</hit>
+<hit score="1" id="599523">
+<info><authors><author pid="223/9857">Martin Schwarzl</author><author pid="234/6074">Erik Kraft</author><author pid="172/1127">Moritz Lipp</author><author pid="166/1494">Daniel Gruss</author></authors><title>Remote Memory-Deduplication Attacks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/SchwarzlKLG22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-235/</ee><url>https://dblp.org/rec/conf/ndss/SchwarzlKLG22</url></info>
+<url>URL#599523</url>
+</hit>
+<hit score="1" id="599524">
+<info><authors><author pid="157/2295">Mridula Singh</author><author pid="121/9557">Marc Roeschlin</author><author pid="23/11190">Aanjhan Ranganathan</author><author pid="51/1639">Srdjan Capkun</author></authors><title>V-Range: Enabling Secure Ranging in 5G Wireless Networks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/SinghRRC22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-221/</ee><url>https://dblp.org/rec/conf/ndss/SinghRRC22</url></info>
+<url>URL#599524</url>
+</hit>
+<hit score="1" id="599525">
+<info><authors><author pid="79/512">Rock Stevens</author><author pid="252/4201">Faris Bugra Kokulu</author><author pid="28/8280">Adam Doupé</author><author pid="20/7983">Michelle L. Mazurek</author></authors><title>Above and Beyond: Organizational Efforts to Complement U.S. Digital Security Compliance Mandates.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/StevensKDM22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-263/</ee><url>https://dblp.org/rec/conf/ndss/StevensKDM22</url></info>
+<url>URL#599525</url>
+</hit>
+<hit score="1" id="599526">
+<info><authors><author pid="303/4428">Fabio Streun</author><author pid="274/7250">Joel Wanner</author><author pid="16/6873">Adrian Perrig</author></authors><title>Evaluating Susceptibility of VPN Implementations to DoS Attacks Using Adversarial Testing.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/StreunWP22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-191/</ee><url>https://dblp.org/rec/conf/ndss/StreunWP22</url></info>
+<url>URL#599526</url>
+</hit>
+<hit score="1" id="599527">
+<info><authors><author pid="224/7374">Azadeh Tabiban</author><author pid="304/7850">Heyang Zhao</author><author pid="24/5158">Yosr Jarraya</author><author pid="22/3167">Makan Pourzandi</author><author pid="150/5462-1">Mengyuan Zhang 0001</author><author pid="w/LingyuWang">Lingyu Wang 0001</author></authors><title>ProvTalk: Towards Interpretable Multi-level Provenance Analysis in Networking Functions Virtualization (NFV).</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/TabibanZJP0022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-232/</ee><url>https://dblp.org/rec/conf/ndss/TabibanZJP0022</url></info>
+<url>URL#599527</url>
+</hit>
+<hit score="1" id="599528">
+<info><authors><author pid="88/10370">Guanhong Tao</author><author pid="263/6785">Qiuling Xu</author><author pid="92/10048">Yingqi Liu</author><author pid="216/6403">Guangyu Shen</author><author pid="168/9413">Shengwei An</author><author pid="148/9997-1">Jingwei Xu 0001</author><author pid="95/3760-1">Xiangyu Zhang 0001</author><author pid="25/4120-1">Yuan Yao 0001</author></authors><title>MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/TaoXLSAX0022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-203/</ee><url>https://dblp.org/rec/conf/ndss/TaoXLSAX0022</url></info>
+<url>URL#599528</url>
+</hit>
+<hit score="1" id="599529">
+<info><authors><author pid="264/0000">Ege Tekiner</author><author pid="195/5992">Abbas Acar</author><author pid="46/1500">A. Selcuk Uluagac</author></authors><title>A Lightweight IoT Cryptojacking Detection Mechanism in Heterogeneous Smart Home Networks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/TekinerAU22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-196/</ee><url>https://dblp.org/rec/conf/ndss/TekinerAU22</url></info>
+<url>URL#599529</url>
+</hit>
+<hit score="1" id="599530">
+<info><authors><author pid="335/5778">Ryan Tsang</author><author pid="335/5799">Doreen Joseph</author><author pid="248/1662">Qiushi Wu</author><author pid="166/3227">Soheil Salehi</author><author pid="212/1461">Nadir Carreon</author><author pid="m/PrasantMohapatra">Prasant Mohapatra</author><author pid="63/3012">Houman Homayoun</author></authors><title>FANDEMIC: Firmware Attack Construction and Deployment on Power Management Integrated Circuit and Impacts on IoT Applications.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/TsangJWSCMH22</key><ee>https://www.ndss-symposium.org/ndss-paper/8485/</ee><url>https://dblp.org/rec/conf/ndss/TsangJWSCMH22</url></info>
+<url>URL#599530</url>
+</hit>
+<hit score="1" id="599531">
+<info><authors><author pid="216/6336">Ioanna Tzialla</author><author pid="208/8364">Abhiram Kothapalli</author><author pid="49/6324">Bryan Parno</author><author pid="68/8463">Srinath T. V. Setty</author></authors><title>Transparency Dictionaries with Succinct Proofs of Correct Operation.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/TziallaKPS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-252/</ee><url>https://dblp.org/rec/conf/ndss/TziallaKPS22</url></info>
+<url>URL#599531</url>
+</hit>
+<hit score="1" id="599532">
+<info><authors><author pid="308/6866">Viet Quoc Vo</author><author pid="30/11191">Ehsan Abbasnejad</author><author pid="56/8102">Damith C. Ranasinghe</author></authors><title>RamBoAttack: A Robust and Query Efficient Deep Neural Network Decision Exploit.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/VoAR22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-239/</ee><url>https://dblp.org/rec/conf/ndss/VoAR22</url></info>
+<url>URL#599532</url>
+</hit>
+<hit score="1" id="599533">
+<info><authors><author pid="311/3952">Ziwen Wan</author><author pid="191/4716-1">Junjie Shen 0001</author><author pid="311/3661">Jalen Chuang</author><author pid="06/2072-7">Xin Xia 0007</author><author pid="06/6932">Joshua Garcia</author><author pid="155/2199">Jiaqi Ma</author><author pid="150/3272">Qi Alfred Chen</author></authors><title>Too Afraid to Drive: Systematic Discovery of Semantic DoS Vulnerability in Autonomous Driving Planning under Physical-World Attacks.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Wan0CXGMC22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-214/</ee><url>https://dblp.org/rec/conf/ndss/Wan0CXGMC22</url></info>
+<url>URL#599533</url>
+</hit>
+<hit score="1" id="599534">
+<info><authors><author pid="144/3253">Huibo Wang</author><author pid="05/1884">Guoxing Chen</author><author pid="77/3503">Yinqian Zhang</author><author pid="49/4102">Zhiqiang Lin</author></authors><title>Multi-Certificate Attacks against Proof-of-Elapsed-Time and Their Countermeasures.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/WangCZL22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-253/</ee><url>https://dblp.org/rec/conf/ndss/WangCZL22</url></info>
+<url>URL#599534</url>
+</hit>
+<hit score="1" id="599535">
+<info><authors><author pid="190/9715">Yuanda Wang</author><author pid="206/6471">Hanqing Guo</author><author pid="86/10809">Qiben Yan</author></authors><title>GhostTalk: Interactive Attack on Smartphone Voice System Through Power Line.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/WangGY22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-188/</ee><url>https://dblp.org/rec/conf/ndss/WangGY22</url></info>
+<url>URL#599535</url>
+</hit>
+<hit score="1" id="599536">
+<info><authors><author pid="231/6763">Xianbo Wang</author><author pid="202/3164">Shangcheng Shi</author><author pid="328/3574">Yikang Chen</author><author pid="l/WingCheongLau">Wing Cheong Lau</author></authors><title>PHYjacking: Physical Input Hijacking for Zero-Permission Authorization Attacks on Android.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/WangSCL22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-187/</ee><url>https://dblp.org/rec/conf/ndss/WangSCL22</url></info>
+<url>URL#599536</url>
+</hit>
+<hit score="1" id="599537">
+<info><authors><author pid="92/1320">Pengfei Wu</author><author pid="09/10764">Jianting Ning</author><author pid="219/8719">Jiamin Shen</author><author pid="62/2365">Hongbing Wang</author><author pid="67/4662">Ee-Chien Chang</author></authors><title>Hybrid Trust Multi-party Computation with Trusted Execution Environment.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/WuNSWC22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-222/</ee><url>https://dblp.org/rec/conf/ndss/WuNSWC22</url></info>
+<url>URL#599537</url>
+</hit>
+<hit score="1" id="599538">
+<info><authors><author pid="255/6518">Ziqi Xu</author><author pid="123/0077">Jingcheng Li</author><author pid="192/9996">Yanjun Pan</author><author pid="15/3615">Loukas Lazos</author><author pid="l/MingLi3">Ming Li 0003</author><author pid="205/2229">Nirnimesh Ghose</author></authors><title>PoF: Proof-of-Following for Vehicle Platoons.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/XuLPLLG22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-217/</ee><url>https://dblp.org/rec/conf/ndss/XuLPLLG22</url></info>
+<url>URL#599538</url>
+</hit>
+<hit score="1" id="599539">
+<info><authors><author pid="84/586">Peng Xu</author><author pid="123/2365">Yanhao Wang</author><author pid="70/2543-4">Hong Hu 0004</author><author pid="46/3714">Purui Su</author></authors><title>COOPER: Testing the Binding Code of Scripting Languages with Cooperative Mutation.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/XuW0S22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-260/</ee><url>https://dblp.org/rec/conf/ndss/XuW0S22</url></info>
+<url>URL#599539</url>
+</hit>
+<hit score="1" id="599540">
+<info><authors><author pid="119/1918">Yijun Yang</author><author pid="256/1096">Ruiyuan Gao 0001</author><author pid="34/2997-7">Yu Li 0007</author><author pid="210/4586">Qiuxia Lai</author><author pid="43/1230-1">Qiang Xu 0001</author></authors><title>What You See is Not What the Network Infers: Detecting Adversarial Examples Based on Semantic Contradiction.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Yang00L022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-226/</ee><url>https://dblp.org/rec/conf/ndss/Yang00L022</url></info>
+<url>URL#599540</url>
+</hit>
+<hit score="1" id="599541">
+<info><authors><author pid="257/3247">Ruotong Yu</author><author pid="315/9043">Francesca Del Nin</author><author pid="09/5661">Yuchen Zhang</author><author pid="06/4186">Shan Huang</author><author pid="204/4053">Pallavi Kaliyar</author><author pid="315/8932">Sarah Zakto</author><author pid="82/4386">Mauro Conti</author><author pid="44/3319">Georgios Portokalidis</author><author pid="90/514-24">Jun Xu 0024</author></authors><title>Building Embedded Systems Like It&apos;s 1996.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/YuNZHKZCP022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-211/</ee><url>https://dblp.org/rec/conf/ndss/YuNZHKZCP022</url></info>
+<url>URL#599541</url>
+</hit>
+<hit score="1" id="599542">
+<info><authors><author pid="216/8530">Thomas Yurek</author><author pid="286/6495">Licheng Luo</author><author pid="277/8240">Jaiden Fairoze</author><author pid="12/3394">Aniket Kate</author><author pid="39/1855-1">Andrew Miller 0001</author></authors><title>hbACSS: How to Robustly Share Many Secrets.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/YurekLFKM22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-245/</ee><url>https://dblp.org/rec/conf/ndss/YurekLFKM22</url></info>
+<url>URL#599542</url>
+</hit>
+<hit score="1" id="599543">
+<info><authors><author pid="205/3769">Mingming Zha</author><author pid="217/2370">Jice Wang</author><author pid="167/0416">Yuhong Nan</author><author pid="06/6268">Xiaofeng Wang 0006</author><author pid="83/6530-1">Yuqing Zhang 0001</author><author pid="330/1757">Zelin Yang</author></authors><title>Hazard Integrated: Understanding Security Risks in App Extensions to Team Chat Systems.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ZhaWN00Y22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-262/</ee><url>https://dblp.org/rec/conf/ndss/ZhaWN00Y22</url></info>
+<url>URL#599543</url>
+</hit>
+<hit score="1" id="599544">
+<info><authors><author pid="278/0316">Yizhuo Zhai</author><author pid="33/3270-6">Yu Hao 0006</author><author pid="181/2621">Zheng Zhang</author><author pid="224/9379">Weiteng Chen</author><author pid="272/7041">Guoren Li</author><author pid="31/8302">Zhiyun Qian</author><author pid="69/6818">Chengyu Song</author><author pid="83/2559">Manu Sridharan</author><author pid="k/SrikanthVKrishnamurthy">Srikanth V. Krishnamurthy</author><author pid="45/576">Trent Jaeger</author><author pid="12/6699">Paul L. Yu</author></authors><title>Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Zhai0ZCLQSSKJY22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-249/</ee><url>https://dblp.org/rec/conf/ndss/Zhai0ZCLQSSKJY22</url></info>
+<url>URL#599544</url>
+</hit>
+<hit score="1" id="599545">
+<info><authors><author pid="94/2739">Jiang Zhang</author><author pid="68/3430">Konstantinos Psounis</author><author pid="93/2990">Muhammad Haroon</author><author pid="83/9528">Zubair Shafiq</author></authors><title>HARPO: Learning to Subvert Online Behavioral Advertising.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ZhangPHS22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-209/</ee><url>https://dblp.org/rec/conf/ndss/ZhangPHS22</url></info>
+<url>URL#599545</url>
+</hit>
+<hit score="1" id="599546">
+<info><authors><author pid="210/5280">Gen Zhang</author><author pid="90/4693-10">Pengfei Wang 0010</author><author pid="248/3501">Tai Yue</author><author pid="74/782">Xiangdong Kong</author><author pid="06/4186">Shan Huang</author><author pid="66/5686">Xu Zhou</author><author pid="31/6932">Kai Lu</author></authors><title>MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ZhangWYKHZL22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-199/</ee><url>https://dblp.org/rec/conf/ndss/ZhangWYKHZL22</url></info>
+<url>URL#599546</url>
+</hit>
+<hit score="1" id="599547">
+<info><authors><author pid="246/6214">Wenjia Zhao</author><author pid="67/10639">Kangjie Lu</author><author pid="248/1662">Qiushi Wu</author><author pid="01/2240">Yong Qi</author></authors><title>Semantic-Informed Driver Fuzzing Without Both the Hardware Devices and the Emulators.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/ZhaoLWQ22</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-248/</ee><url>https://dblp.org/rec/conf/ndss/ZhaoLWQ22</url></info>
+<url>URL#599547</url>
+</hit>
+<hit score="1" id="599548">
+<info><authors><author pid="182/5294">Junhao Zhou</author><author pid="79/4489-1">Yufei Chen 0001</author><author pid="48/4825-1">Chao Shen 0001</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Property Inference Attacks Against GANs.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Zhou00022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-240/</ee><url>https://dblp.org/rec/conf/ndss/Zhou00022</url></info>
+<url>URL#599548</url>
+</hit>
+<hit score="1" id="599549">
+<info><authors><author pid="63/778">Hao Zhou</author><author pid="50/8499-1">Haoyu Wang 0001</author><author pid="53/1565">Xiapu Luo</author><author pid="19/1766-2">Ting Chen 0002</author><author pid="15/7381">Yajin Zhou</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Uncovering Cross-Context Inconsistent Access Control Enforcement in Android.</title><venue>NDSS</venue><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/ndss/Zhou0L0Z022</key><ee>https://www.ndss-symposium.org/ndss-paper/auto-draft-190/</ee><url>https://dblp.org/rec/conf/ndss/Zhou0L0Z022</url></info>
+<url>URL#599549</url>
+</hit>
+<hit score="1" id="638726">
+<info><title>29th Annual Network and Distributed System Security Symposium, NDSS 2022, San Diego, California, USA, April 24-28, 2022</title><venue>NDSS</venue><publisher>The Internet Society</publisher><year>2022</year><type>Editorship</type><access>open</access><key>conf/ndss/2022</key><ee>https://www.ndss-symposium.org/ndss2022/</ee><url>https://dblp.org/rec/conf/ndss/2022</url></info>
+<url>URL#638726</url>
+</hit>
+</hits>
+</result>

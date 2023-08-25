@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239317">:facetid:toc:\"db/conf/sp/sp2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">180.00</time>
+<completions total="1" computed="1" sent="1">
+<c sc="149" dc="149" oc="149" id="41054521">:facetid:toc:db/conf/sp/sp2022.bht</c>
+</completions>
+<hits total="149" computed="149" sent="149" first="0">
+<hit score="1" id="621996">
+<info><authors><author pid="52/9967-1">Quoc Huy Do 0001</author><author pid="234/9064">Pedram Hosseyni</author><author pid="k/RKusters">Ralf Küsters</author><author pid="143/7311">Guido Schmitz</author><author pid="300/9978">Nils Wenzler</author><author pid="181/8352">Tim Würtele</author></authors><title>A Formal Security Analysis of the W3C Web Payment APIs: Attacks and Verification.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>215-234</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/0001HKSWW22</key><doi>10.1109/SP46214.2022.9833681</doi><ee>https://doi.org/10.1109/SP46214.2022.9833681</ee><url>https://dblp.org/rec/conf/sp/0001HKSWW22</url></info>
+<url>URL#621996</url>
+</hit>
+<hit score="1" id="621997">
+<info><authors><author pid="99/4292-2">Ding Wang 0002</author><author pid="273/1791">Yunkai Zou</author><author pid="279/7825">Qiying Dong</author><author pid="246/1384">Yuanming Song</author><author pid="82/4944-1">Xinyi Huang 0001</author></authors><title>How to Attack and Generate Honeywords.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>966-983</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/0002ZDSH22</key><doi>10.1109/SP46214.2022.9833598</doi><ee>https://doi.org/10.1109/SP46214.2022.9833598</ee><url>https://dblp.org/rec/conf/sp/0002ZDSH22</url></info>
+<url>URL#621997</url>
+</hit>
+<hit score="1" id="621998">
+<info><authors><author pid="07/6378-11">Fan Wu 0011</author><author pid="135/7129">Yunhui Long</author><author pid="97/919-1">Ce Zhang 0001</author><author pid="50/3402-26">Bo Li 0026</author></authors><title>LINKTELLER: Recovering Private Edges from Graph Neural Networks via Influence Analysis.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2005-2024</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/0011L0022</key><doi>10.1109/SP46214.2022.9833806</doi><ee>https://doi.org/10.1109/SP46214.2022.9833806</ee><url>https://dblp.org/rec/conf/sp/0011L0022</url></info>
+<url>URL#621998</url>
+</hit>
+<hit score="1" id="621999">
+<info><authors><author pid="43/3166-48">Zhi Li 0048</author><author pid="90/5130-4">Weijie Liu 0004</author><author pid="62/4375">Hongbo Chen</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="129/1113">Xiaojing Liao</author><author pid="34/8412">Luyi Xing</author><author pid="205/3769">Mingming Zha</author><author pid="98/4156">Hai Jin 0001</author><author pid="z/DeqingZou">Deqing Zou</author></authors><title>Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2397-2412</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/00480C0LXZ0Z22</key><doi>10.1109/SP46214.2022.9833803</doi><ee>https://doi.org/10.1109/SP46214.2022.9833803</ee><url>https://dblp.org/rec/conf/sp/00480C0LXZ0Z22</url></info>
+<url>URL#621999</url>
+</hit>
+<hit score="1" id="622000">
+<info><authors><author pid="97/8704-96">Lei Zhang 0096</author><author pid="272/8304">Keke Lian</author><author pid="325/3450">Haoyu Xiao</author><author pid="191/1165">Zhibo Zhang</author><author pid="21/6121-5">Peng Liu 0005</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="02/1640-2">Min Yang 0002</author><author pid="36/5143">Haixin Duan</author></authors><title>Exploit the Last Straw That Breaks Android Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2230-2247</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/0096LXZL00D22</key><doi>10.1109/SP46214.2022.9833563</doi><ee>https://doi.org/10.1109/SP46214.2022.9833563</ee><url>https://dblp.org/rec/conf/sp/0096LXZL00D22</url></info>
+<url>URL#622000</url>
+</hit>
+<hit score="1" id="622001">
+<info><authors><author pid="184/3248">Mustafa Abdallah</author><author pid="204/4682">Daniel Woods</author><author pid="122/6031">Parinaz Naghizadeh</author><author pid="115/8715">Issa Khalil</author><author pid="80/9477">Timothy N. Cason</author><author pid="51/3744">Shreyas Sundaram</author><author pid="57/95">Saurabh Bagchi</author></authors><title>TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>249-266</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AbdallahWNKCSB22</key><doi>10.1109/SP46214.2022.9833591</doi><ee>https://doi.org/10.1109/SP46214.2022.9833591</ee><url>https://dblp.org/rec/conf/sp/AbdallahWNKCSB22</url></info>
+<url>URL#622001</url>
+</hit>
+<hit score="1" id="622002">
+<info><authors><author pid="289/2318">Damiano Abram</author><author pid="167/3062">Ariel Nof</author><author pid="o/ClaudioOrlandi">Claudio Orlandi</author><author pid="00/10576">Peter Scholl</author><author pid="242/3072">Omer Shlomovits</author></authors><title>Low-Bandwidth Threshold ECDSA via Pseudorandom Correlation Generators.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2554-2572</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AbramNOSS22</key><doi>10.1109/SP46214.2022.9833559</doi><ee>https://doi.org/10.1109/SP46214.2022.9833559</ee><url>https://dblp.org/rec/conf/sp/AbramNOSS22</url></info>
+<url>URL#622002</url>
+</hit>
+<hit score="1" id="622003">
+<info><authors><author pid="55/8814">Ayush Agarwal</author><author pid="207/7931">Sioli O&apos;Connell</author><author pid="325/3299">Jason Kim 0007</author><author pid="325/3756">Shaked Yehezkel</author><author pid="98/8283">Daniel Genkin</author><author pid="180/7297">Eyal Ronen</author><author pid="90/10901">Yuval Yarom</author></authors><title>Spook.js: Attacking Chrome Strict Site Isolation via Speculative Execution.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>699-715</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AgarwalOKYGRY22</key><doi>10.1109/SP46214.2022.9833711</doi><ee>https://doi.org/10.1109/SP46214.2022.9833711</ee><url>https://dblp.org/rec/conf/sp/AgarwalOKYGRY22</url></info>
+<url>URL#622003</url>
+</hit>
+<hit score="1" id="622004">
+<info><authors><author pid="205/3202">Adil Ahmad</author><author pid="17/5702-1">Sangho Lee 0001</author><author pid="56/6925">Marcus Peinado</author></authors><title>HARDLOG: Practical Tamper-Proof System Auditing Using a Novel Audit Device.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1791-1807</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Ahmad0P22</key><doi>10.1109/SP46214.2022.9833745</doi><ee>https://doi.org/10.1109/SP46214.2022.9833745</ee><url>https://dblp.org/rec/conf/sp/Ahmad0P22</url></info>
+<url>URL#622004</url>
+</hit>
+<hit score="1" id="622007">
+<info><authors><author pid="198/9755">Omer Akgul</author><author pid="140/7944">Richard Roberts</author><author pid="183/8147">Moses Namara</author><author pid="03/6428">Dave Levin</author><author pid="20/7983">Michelle L. Mazurek</author></authors><title>Investigating Influencer VPN Ads on YouTube.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>876-892</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AkgulRNLM22</key><doi>10.1109/SP46214.2022.9833633</doi><ee>https://doi.org/10.1109/SP46214.2022.9833633</ee><url>https://dblp.org/rec/conf/sp/AkgulRNLM22</url></info>
+<url>URL#622007</url>
+</hit>
+<hit score="1" id="622008">
+<info><authors><author pid="92/7397">Martin R. Albrecht</author><author pid="208/7022">Lenka Mareková</author><author pid="39/780">Kenneth G. Paterson</author><author pid="153/5527">Igors Stepanovs</author></authors><title>Four Attacks and a Proof for Telegram.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>87-106</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AlbrechtMPS22</key><doi>10.1109/SP46214.2022.9833666</doi><ee>https://doi.org/10.1109/SP46214.2022.9833666</ee><url>https://dblp.org/rec/conf/sp/AlbrechtMPS22</url></info>
+<url>URL#622008</url>
+</hit>
+<hit score="1" id="622011">
+<info><authors><author pid="186/6501">Amit Seal Ami</author><author pid="210/7846">Nathan Cooper</author><author pid="222/2853">Kaushal Kafle</author><author pid="151/7453">Kevin Moran</author><author pid="02/320">Denys Poshyvanyk</author><author pid="136/8334">Adwait Nadkarni</author></authors><title>Why Crypto-detectors Fail: A Systematic Evaluation of Cryptographic Misuse Detection Techniques.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>614-631</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AmiCKMPN22</key><doi>10.1109/SP46214.2022.9833582</doi><ee>https://doi.org/10.1109/SP46214.2022.9833582</ee><url>https://dblp.org/rec/conf/sp/AmiCKMPN22</url></info>
+<url>URL#622011</url>
+</hit>
+<hit score="1" id="622014">
+<info><authors><author pid="300/4581">Önder Askin</author><author pid="300/4027">Tim Kutta</author><author pid="05/3336">Holger Dette</author></authors><title>Statistical Quantification of Differential Privacy: A Local Approach.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>402-421</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AskinKD22</key><doi>10.1109/SP46214.2022.9833689</doi><ee>https://doi.org/10.1109/SP46214.2022.9833689</ee><url>https://dblp.org/rec/conf/sp/AskinKD22</url></info>
+<url>URL#622014</url>
+</hit>
+<hit score="1" id="622015">
+<info><authors><author pid="213/9150">Eugene Bagdasaryan</author><author pid="46/6275">Vitaly Shmatikov</author></authors><title>Spinning Language Models: Risks of Propaganda-As-A-Service and Countermeasures.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>769-786</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BagdasaryanS22</key><doi>10.1109/SP46214.2022.9833572</doi><ee>https://doi.org/10.1109/SP46214.2022.9833572</ee><url>https://dblp.org/rec/conf/sp/BagdasaryanS22</url></info>
+<url>URL#622015</url>
+</hit>
+<hit score="1" id="622016">
+<info><authors><author pid="06/8421">Borja Balle</author><author pid="160/9382">Giovanni Cherubin</author><author pid="168/8164">Jamie Hayes</author></authors><title>Reconstructing Training Data with Informed Adversaries.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1138-1156</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BalleCH22</key><doi>10.1109/SP46214.2022.9833677</doi><ee>https://doi.org/10.1109/SP46214.2022.9833677</ee><url>https://dblp.org/rec/conf/sp/BalleCH22</url></info>
+<url>URL#622016</url>
+</hit>
+<hit score="1" id="622017">
+<info><authors><author pid="276/1580">Federico Barbero</author><author pid="223/5655">Feargus Pendlebury</author><author pid="149/1452">Fabio Pierazzi</author><author pid="95/5162">Lorenzo Cavallaro</author></authors><title>Transcending TRANSCEND: Revisiting Malware Classification in the Presence of Concept Drift.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>805-823</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BarberoPPC22</key><doi>10.1109/SP46214.2022.9833659</doi><ee>https://doi.org/10.1109/SP46214.2022.9833659</ee><url>https://dblp.org/rec/conf/sp/BarberoPPC22</url></info>
+<url>URL#622017</url>
+</hit>
+<hit score="1" id="622018">
+<info><authors><author pid="217/1654">Suryoday Basak</author><author pid="116/0691">Mahanth Gowda</author></authors><title>mmSpy: Spying Phone Calls using mmWave Radars.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1211-1228</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BasakG22</key><doi>10.1109/SP46214.2022.9833568</doi><ee>https://doi.org/10.1109/SP46214.2022.9833568</ee><url>https://dblp.org/rec/conf/sp/BasakG22</url></info>
+<url>URL#622018</url>
+</hit>
+<hit score="1" id="622019">
+<info><authors><author pid="130/9405">Sonia Belaïd</author><author pid="214/7961">Darius Mercadier</author><author pid="33/2627">Matthieu Rivain</author><author pid="267/7955">Abdul Rahman Taleb</author></authors><title>IronMask: Versatile Verification of Masking Security.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>142-160</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BelaidMRT22</key><doi>10.1109/SP46214.2022.9833600</doi><ee>https://doi.org/10.1109/SP46214.2022.9833600</ee><url>https://dblp.org/rec/conf/sp/BelaidMRT22</url></info>
+<url>URL#622019</url>
+</hit>
+<hit score="1" id="622021">
+<info><authors><author pid="b/BrunoBlanchet">Bruno Blanchet</author><author pid="62/8336">Vincent Cheval</author><author pid="65/550">Véronique Cortier</author></authors><title>ProVerif with Lemmas, Induction, Fast Subsumption, and Much More.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>69-86</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BlanchetCC22</key><doi>10.1109/SP46214.2022.9833653</doi><ee>https://doi.org/10.1109/SP46214.2022.9833653</ee><url>https://dblp.org/rec/conf/sp/BlanchetCC22</url></info>
+<url>URL#622021</url>
+</hit>
+<hit score="1" id="622022">
+<info><authors><author pid="325/3751">Marton Bognar</author><author pid="167/1573">Jo Van Bulck</author><author pid="85/6647">Frank Piessens</author></authors><title>Mind the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution Architectures.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1638-1655</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BognarBP22</key><doi>10.1109/SP46214.2022.9833735</doi><ee>https://doi.org/10.1109/SP46214.2022.9833735</ee><url>https://dblp.org/rec/conf/sp/BognarBP22</url></info>
+<url>URL#622022</url>
+</hit>
+<hit score="1" id="622023">
+<info><authors><author pid="160/3848">Priyanka Bose</author><author pid="90/3182-2">Dipanjan Das 0002</author><author pid="05/4034">Yanju Chen</author><author pid="30/4550-1">Yu Feng 0001</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>161-178</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Bose0C0KV22</key><doi>10.1109/SP46214.2022.9833721</doi><ee>https://doi.org/10.1109/SP46214.2022.9833721</ee><url>https://dblp.org/rec/conf/sp/Bose0C0KV22</url></info>
+<url>URL#622023</url>
+</hit>
+<hit score="1" id="622024">
+<info><authors><author pid="295/8559">Nicholas Boucher</author><author pid="213/8587">Ilia Shumailov</author><author pid="a/RJAnderson">Ross Anderson 0001</author><author pid="162/1405">Nicolas Papernot</author></authors><title>Bad Characters: Imperceptible NLP Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1987-2004</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BoucherS0P22</key><doi>10.1109/SP46214.2022.9833641</doi><ee>https://doi.org/10.1109/SP46214.2022.9833641</ee><url>https://dblp.org/rec/conf/sp/BoucherS0P22</url></info>
+<url>URL#622024</url>
+</hit>
+<hit score="1" id="622026">
+<info><authors><author pid="88/5874">Chris Brzuska</author><author pid="286/6372">Eric Cornelissen</author><author pid="218/7414">Konrad Kohbrok</author></authors><title>Security Analysis of the MLS Key Derivation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2535-2553</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BrzuskaCK22</key><doi>10.1109/SP46214.2022.9833678</doi><ee>https://doi.org/10.1109/SP46214.2022.9833678</ee><url>https://dblp.org/rec/conf/sp/BrzuskaCK22</url></info>
+<url>URL#622026</url>
+</hit>
+<hit score="1" id="622027">
+<info><authors><author pid="224/9311">Giovanni Camurati</author><author pid="88/3343">Aurélien Francillon</author></authors><title>Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1193-1210</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CamuratiF22</key><doi>10.1109/SP46214.2022.9833767</doi><ee>https://doi.org/10.1109/SP46214.2022.9833767</ee><url>https://dblp.org/rec/conf/sp/CamuratiF22</url></info>
+<url>URL#622027</url>
+</hit>
+<hit score="1" id="622028">
+<info><authors><author pid="145/1806">Nicholas Carlini</author><author pid="c/SteveChien">Steve Chien</author><author pid="187/8997">Milad Nasr</author><author pid="86/4211-1">Shuang Song 0001</author><author pid="12/6664">Andreas Terzis</author><author pid="158/7224">Florian Tramèr</author></authors><title>Membership Inference Attacks From First Principles.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1897-1914</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CarliniCN0TT22</key><doi>10.1109/SP46214.2022.9833649</doi><ee>https://doi.org/10.1109/SP46214.2022.9833649</ee><url>https://dblp.org/rec/conf/sp/CarliniCN0TT22</url></info>
+<url>URL#622028</url>
+</hit>
+<hit score="1" id="622029">
+<info><authors><author pid="208/7309">Sunjay Cauligi</author><author pid="199/4885">Craig Disselkoen</author><author pid="241/6242">Daniel Moghimi</author><author pid="b/GBarthe">Gilles Barthe</author><author pid="91/6118">Deian Stefan</author></authors><title>SoK: Practical Foundations for Software Spectre Defenses.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>666-680</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CauligiDMBS22</key><doi>10.1109/SP46214.2022.9833707</doi><ee>https://doi.org/10.1109/SP46214.2022.9833707</ee><url>https://dblp.org/rec/conf/sp/CauligiDMBS22</url></info>
+<url>URL#622029</url>
+</hit>
+<hit score="1" id="622030">
+<info><authors><author pid="232/8018">Jialuo Chen</author><author pid="18/3178-4">Jingyi Wang 0004</author><author pid="308/6470">Tinglan Peng</author><author pid="126/5212">Youcheng Sun</author><author pid="76/185-1">Peng Cheng 0001</author><author pid="07/8388">Shouling Ji</author><author pid="195/8270">Xingjun Ma</author><author pid="50/3402-26">Bo Li 0026</author><author pid="s/DXSong">Dawn Song</author></authors><title>Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>824-841</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ChenWPS0JM0S22</key><doi>10.1109/SP46214.2022.9833747</doi><ee>https://doi.org/10.1109/SP46214.2022.9833747</ee><url>https://dblp.org/rec/conf/sp/ChenWPS0JM0S22</url></info>
+<url>URL#622030</url>
+</hit>
+<hit score="1" id="622031">
+<info><authors><author pid="164/3860">Ju Chen</author><author pid="56/10449">Jinghan Wang</author><author pid="69/6818">Chengyu Song</author><author pid="77/6178-1">Heng Yin 0001</author></authors><title>JIGSAW: Efficient and Scalable Path Constraints Fuzzing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>18-35</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ChenWSY22</key><doi>10.1109/SP46214.2022.9833796</doi><ee>https://doi.org/10.1109/SP46214.2022.9833796</ee><url>https://dblp.org/rec/conf/sp/ChenWSY22</url></info>
+<url>URL#622031</url>
+</hit>
+<hit score="1" id="622032">
+<info><authors><author pid="209/9888">Albert Cheu</author><author pid="161/4970">Maxim Zhilyaev</author></authors><title>Differentially Private Histograms in the Shuffle Model from Fake Users.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>440-457</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CheuZ22</key><doi>10.1109/SP46214.2022.9833614</doi><ee>https://doi.org/10.1109/SP46214.2022.9833614</ee><url>https://dblp.org/rec/conf/sp/CheuZ22</url></info>
+<url>URL#622032</url>
+</hit>
+<hit score="1" id="622033">
+<info><authors><author pid="207/6604">Animesh Chhotaray</author><author pid="s/ThomasShrimpton">Thomas Shrimpton</author></authors><title>Hardening Circuit-Design IP Against Reverse-Engineering Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1672-1689</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ChhotarayS22</key><doi>10.1109/SP46214.2022.9833634</doi><ee>https://doi.org/10.1109/SP46214.2022.9833634</ee><url>https://dblp.org/rec/conf/sp/ChhotarayS22</url></info>
+<url>URL#622033</url>
+</hit>
+<hit score="1" id="622034">
+<info><authors><author pid="132/7795">Haotian Chi</author><author pid="58/2521-2">Chenglong Fu 0002</author><author pid="81/583-1">Qiang Zeng 0001</author><author pid="22/5535">Xiaojiang Du</author></authors><title>Delay Wreaks Havoc on Your Smart Home: Delay-based Automation Interference Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>285-302</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Chi00D22</key><doi>10.1109/SP46214.2022.9833620</doi><ee>https://doi.org/10.1109/SP46214.2022.9833620</ee><url>https://dblp.org/rec/conf/sp/Chi00D22</url></info>
+<url>URL#622034</url>
+</hit>
+<hit score="1" id="622035">
+<info><authors><author pid="195/0876">Nariyoshi Chida</author><author pid="96/889">Tachio Terauchi</author></authors><title>Repairing DoS Vulnerability of Real-World Regexes.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2060-2077</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ChidaT22</key><doi>10.1109/SP46214.2022.9833597</doi><ee>https://doi.org/10.1109/SP46214.2022.9833597</ee><url>https://dblp.org/rec/conf/sp/ChidaT22</url></info>
+<url>URL#622035</url>
+</hit>
+<hit score="1" id="622036">
+<info><authors><author pid="318/4946">Miranda Christ</author><author pid="279/6398">Sarah Radway</author><author pid="00/1396">Steven M. Bellovin</author></authors><title>Differential Privacy and Swapping: Examining De-Identification&apos;s Impact on Minority Representation and Privacy Preservation in the U.S. Census.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>457-472</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ChristRB22</key><doi>10.1109/SP46214.2022.9833668</doi><ee>https://doi.org/10.1109/SP46214.2022.9833668</ee><url>https://dblp.org/rec/conf/sp/ChristRB22</url></info>
+<url>URL#622036</url>
+</hit>
+<hit score="1" id="622037">
+<info><authors><author pid="155/8567">Jiska Classen</author><author pid="59/4302">Francesco Gringoli</author><author pid="03/4760">Michael Hermann</author><author pid="95/1816">Matthias Hollick</author></authors><title>Attacks on Wireless Coexistence: Exploiting Cross-Technology Performance Features for Inter-Chip Privilege Escalation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1229-1245</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ClassenGHH22</key><doi>10.1109/SP46214.2022.9833639</doi><ee>https://doi.org/10.1109/SP46214.2022.9833639</ee><url>https://dblp.org/rec/conf/sp/ClassenGHH22</url></info>
+<url>URL#622037</url>
+</hit>
+<hit score="1" id="622038">
+<info><authors><author pid="17/2282">Cas Cremers</author><author pid="22/2665">Caroline Fontaine</author><author pid="195/3195">Charlie Jacomme</author></authors><title>A Logic and an Interactive Prover for the Computational Post-Quantum Security of Protocols.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>125-141</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CremersFJ22</key><doi>10.1109/SP46214.2022.9833800</doi><ee>https://doi.org/10.1109/SP46214.2022.9833800</ee><url>https://dblp.org/rec/conf/sp/CremersFJ22</url></info>
+<url>URL#622038</url>
+</hit>
+<hit score="1" id="622039">
+<info><authors><author pid="131/5969">Patrick Cronin</author><author pid="87/4866-1">Xing Gao 0001</author><author pid="81/4036">Haining Wang</author><author pid="70/10305">Chase Cotton</author></authors><title>Time-Print: Authenticating USB Flash Drives with Novel Timing Fingerprints.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1002-1017</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Cronin0WC22</key><doi>10.1109/SP46214.2022.9833595</doi><ee>https://doi.org/10.1109/SP46214.2022.9833595</ee><url>https://dblp.org/rec/conf/sp/Cronin0WC22</url></info>
+<url>URL#622039</url>
+</hit>
+<hit score="1" id="622042">
+<info><authors><author pid="31/6808">Sourav Das</author><author pid="271/4364">Vinith Krishnan</author><author pid="256/9229">Irene Miriam Isaac</author><author pid="30/10661">Ling Ren 0001</author></authors><title>Spurt: Scalable Distributed Randomness Beacon with Transparent Setup.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2502-2517</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DasKI022</key><doi>10.1109/SP46214.2022.9833580</doi><ee>https://doi.org/10.1109/SP46214.2022.9833580</ee><url>https://dblp.org/rec/conf/sp/DasKI022</url></info>
+<url>URL#622042</url>
+</hit>
+<hit score="1" id="622043">
+<info><authors><author pid="31/6808">Sourav Das</author><author pid="216/8530">Thomas Yurek</author><author pid="175/1673">Zhuolun Xiang</author><author pid="39/1855-1">Andrew Miller 0001</author><author pid="176/5301">Lefteris Kokoris-Kogias</author><author pid="30/10661">Ling Ren 0001</author></authors><title>Practical Asynchronous Distributed Key Generation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2518-2534</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DasYXMK022</key><doi>10.1109/SP46214.2022.9833584</doi><ee>https://doi.org/10.1109/SP46214.2022.9833584</ee><url>https://dblp.org/rec/conf/sp/DasYXMK022</url></info>
+<url>URL#622043</url>
+</hit>
+<hit score="1" id="622044">
+<info><authors><author pid="228/8084">Emma Dauterman</author><author pid="33/2105-2">Mayank Rathee</author><author pid="91/275">Raluca Ada Popa</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Waldo: A Private Time-Series Database from Function Secret Sharing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2450-2468</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DautermanRPS22</key><doi>10.1109/SP46214.2022.9833611</doi><ee>https://doi.org/10.1109/SP46214.2022.9833611</ee><url>https://dblp.org/rec/conf/sp/DautermanRPS22</url></info>
+<url>URL#622044</url>
+</hit>
+<hit score="1" id="622045">
+<info><authors><author pid="146/0078">Sisi Duan</author><author pid="22/1887">Haibin Zhang</author></authors><title>Foundations of Dynamic BFT.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1317-1334</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DuanZ22</key><doi>10.1109/SP46214.2022.9833787</doi><ee>https://doi.org/10.1109/SP46214.2022.9833787</ee><url>https://dblp.org/rec/conf/sp/DuanZ22</url></info>
+<url>URL#622045</url>
+</hit>
+<hit score="1" id="622046">
+<info><authors><author pid="210/4047">Thijs van Ede</author><author pid="187/3595">Hojjat Aghakhani</author><author pid="303/5956">Noah Spahn</author><author pid="171/4007">Riccardo Bortolameotti</author><author pid="36/2855">Marco Cova</author><author pid="190/9885">Andrea Continella</author><author pid="s/MaartenvanSteen">Maarten van Steen</author><author pid="43/8243">Andreas Peter</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>DEEPCASE: Semi-Supervised Contextual Analysis of Security Events.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>522-539</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/EdeASBCCSPKV22</key><doi>10.1109/SP46214.2022.9833671</doi><ee>https://doi.org/10.1109/SP46214.2022.9833671</ee><url>https://dblp.org/rec/conf/sp/EdeASBCCSPKV22</url></info>
+<url>URL#622046</url>
+</hit>
+<hit score="1" id="622047">
+<info><authors><author pid="153/0549">Muhammed F. Esgin</author><author pid="71/625">Ron Steinfeld</author><author pid="233/0126">Raymond K. Zhao</author></authors><title>MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1281-1298</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/EsginSZ22</key><doi>10.1109/SP46214.2022.9833655</doi><ee>https://doi.org/10.1109/SP46214.2022.9833655</ee><url>https://dblp.org/rec/conf/sp/EsginSZ22</url></info>
+<url>URL#622047</url>
+</hit>
+<hit score="1" id="622050">
+<info><authors><author pid="184/3044">Mohammad Ghasemisharif</author><author pid="20/4340">Chris Kanich</author><author pid="47/8412">Jason Polakis</author></authors><title>Towards Automated Auditing for Account and Session Management Flaws in Single Sign-On Deployments.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1774-1790</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GhasemisharifKP22</key><doi>10.1109/SP46214.2022.9833753</doi><ee>https://doi.org/10.1109/SP46214.2022.9833753</ee><url>https://dblp.org/rec/conf/sp/GhasemisharifKP22</url></info>
+<url>URL#622050</url>
+</hit>
+<hit score="1" id="622051">
+<info><authors><author pid="325/3273">Hadi Givehchian</author><author pid="248/1634">Nishant Bhaskar</author><author pid="325/3615">Eliana Rodriguez Herrera</author><author pid="325/3268">Héctor Rodrigo López Soto</author><author pid="325/3583">Christian Dameff</author><author pid="52/10159">Dinesh Bharadia</author><author pid="77/3626">Aaron Schulman</author></authors><title>Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1690-1704</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GivehchianBHSDB22</key><doi>10.1109/SP46214.2022.9833758</doi><ee>https://doi.org/10.1109/SP46214.2022.9833758</ee><url>https://dblp.org/rec/conf/sp/GivehchianBHSDB22</url></info>
+<url>URL#622051</url>
+</hit>
+<hit score="1" id="622053">
+<info><authors><author pid="272/7227">Jiajun Gong</author><author pid="295/8585">Wuqi Zhang</author><author pid="51/7008">Charles Zhang</author><author pid="12/5838-12">Tao Wang 0012</author></authors><title>Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1558-1573</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GongZZW22</key><doi>10.1109/SP46214.2022.9833722</doi><ee>https://doi.org/10.1109/SP46214.2022.9833722</ee><url>https://dblp.org/rec/conf/sp/GongZZW22</url></info>
+<url>URL#622053</url>
+</hit>
+<hit score="1" id="622054">
+<info><authors><author pid="201/9325">Fabio Gritti</author><author pid="123/3252">Fabio Pagani</author><author pid="180/7263">Ilya Grishchenko</author><author pid="191/8034">Lukas Dresel</author><author pid="155/6800">Nilo Redini</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>HEAPSTER: Analyzing the Security of Dynamic Allocators for Monolithic Firmware Images.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1082-1099</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GrittiPGDRKV22</key><doi>10.1109/SP46214.2022.9833610</doi><ee>https://doi.org/10.1109/SP46214.2022.9833610</ee><url>https://dblp.org/rec/conf/sp/GrittiPGDRKV22</url></info>
+<url>URL#622054</url>
+</hit>
+<hit score="1" id="622056">
+<info><authors><author pid="120/5486">Yanan Guo</author><author pid="221/2890">Andrew Zigerelli</author><author pid="z/YoutaoZhang">Youtao Zhang</author><author pid="y/JunYang2">Jun Yang 0002</author></authors><title>Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1458-1473</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GuoZZ022</key><doi>10.1109/SP46214.2022.9833692</doi><ee>https://doi.org/10.1109/SP46214.2022.9833692</ee><url>https://dblp.org/rec/conf/sp/GuoZZ022</url></info>
+<url>URL#622056</url>
+</hit>
+<hit score="1" id="622057">
+<info><authors><author pid="308/6435">Marco Gutfleisch</author><author pid="325/3232">Jan H. Klemmer</author><author pid="273/7091">Niklas Busch</author><author pid="132/9687">Yasemin Acar</author><author pid="s/MASasse">M. Angela Sasse</author><author pid="38/9378">Sascha Fahl</author></authors><title>How Does Usable Security (Not) End Up in Software Products? Results From a Qualitative Interview Study.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>893-910</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GutfleischKBASF22</key><doi>10.1109/SP46214.2022.9833756</doi><ee>https://doi.org/10.1109/SP46214.2022.9833756</ee><url>https://dblp.org/rec/conf/sp/GutfleischKBASF22</url></info>
+<url>URL#622057</url>
+</hit>
+<hit score="1" id="622058">
+<info><authors><author pid="17/9886">Hamza Harkous</author><author pid="91/8283">Sai Teja Peddinti</author><author pid="275/2625">Rishabh Khandelwal</author><author pid="123/8658">Animesh Srivastava</author><author pid="t/NinaTaft">Nina Taft</author></authors><title>Hark: A Deep Learning System for Navigating Privacy Feedback at Scale.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2469-2486</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HarkousPKST22</key><doi>10.1109/SP46214.2022.9833729</doi><ee>https://doi.org/10.1109/SP46214.2022.9833729</ee><url>https://dblp.org/rec/conf/sp/HarkousPKST22</url></info>
+<url>URL#622058</url>
+</hit>
+<hit score="1" id="622060">
+<info><authors><author pid="201/3396">Son Ho</author><author pid="132/3972">Jonathan Protzenko</author><author pid="61/10308">Abhishek Bichhawat</author><author pid="80/3503">Karthikeyan Bhargavan</author></authors><title>Noise*: A Library of Verified High-Performance Secure Channel Protocol Implementations.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>107-124</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HoPBB22</key><doi>10.1109/SP46214.2022.9833621</doi><ee>https://doi.org/10.1109/SP46214.2022.9833621</ee><url>https://dblp.org/rec/conf/sp/HoPBB22</url></info>
+<url>URL#622060</url>
+</hit>
+<hit score="1" id="622061">
+<info><authors><author pid="188/4915">Kyle Hogan</author><author pid="226/2396">Sacha Servan-Schreiber</author><author pid="277/3695">Zachary Newman</author><author pid="270/8815">Ben Weintraub</author><author pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</author><author pid="14/3973">Srinivas Devadas</author></authors><title>ShorTor: Improving Tor Network Latency via Multi-hop Overlay Routing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1933-1952</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HoganSNWND22</key><doi>10.1109/SP46214.2022.9833619</doi><ee>https://doi.org/10.1109/SP46214.2022.9833619</ee><url>https://dblp.org/rec/conf/sp/HoganSNWND22</url></info>
+<url>URL#622061</url>
+</hit>
+<hit score="1" id="622062">
+<info><authors><author pid="227/9082">Geng Hong</author><author pid="55/11040">Zhemin Yang</author><author pid="90/4655">Sen Yang</author><author pid="129/1113">Xiaojing Liao</author><author pid="49/4411">Xiaolin Du</author><author pid="02/1640-2">Min Yang 0002</author><author pid="36/5143">Haixin Duan</author></authors><title>Analyzing Ground-Truth Data of Mobile Gambling Scams.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2176-2193</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HongYYLD0D22</key><doi>10.1109/SP46214.2022.9833665</doi><ee>https://doi.org/10.1109/SP46214.2022.9833665</ee><url>https://dblp.org/rec/conf/sp/HongYYLD0D22</url></info>
+<url>URL#622062</url>
+</hit>
+<hit score="1" id="622063">
+<info><authors><author pid="227/7172">Ruomu Hou</author><author pid="69/1249">Haifeng Yu</author><author pid="90/105">Prateek Saxena</author></authors><title>Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1263-1280</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HouYS22</key><doi>10.1109/SP46214.2022.9833617</doi><ee>https://doi.org/10.1109/SP46214.2022.9833617</ee><url>https://dblp.org/rec/conf/sp/HouYS22</url></info>
+<url>URL#622063</url>
+</hit>
+<hit score="1" id="622064">
+<info><authors><author pid="304/3155">James K. Howes IV</author><author pid="170/2213">Marios Georgiou 0001</author><author pid="125/1992">Alex J. Malozemoff</author><author pid="s/ThomasShrimpton">Thomas Shrimpton</author></authors><title>Security Foundations for Application-Based Covert Communication Channels.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1971-1986</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Howes0MS22</key><doi>10.1109/SP46214.2022.9833752</doi><ee>https://doi.org/10.1109/SP46214.2022.9833752</ee><url>https://dblp.org/rec/conf/sp/Howes0MS22</url></info>
+<url>URL#622064</url>
+</hit>
+<hit score="1" id="622065">
+<info><authors><author pid="211/9994">Zhenghao Hu</author><author pid="94/7563">Brendan Dolan-Gavitt</author></authors><title>IRQDebloat: Reducing Driver Attack Surface in Embedded Devices.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1608-1622</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HuD22</key><doi>10.1109/SP46214.2022.9833695</doi><ee>https://doi.org/10.1109/SP46214.2022.9833695</ee><url>https://dblp.org/rec/conf/sp/HuD22</url></info>
+<url>URL#622065</url>
+</hit>
+<hit score="1" id="622066">
+<info><authors><author pid="71/9969">Pengfei Hu</author><author pid="54/4930">Hui Zhuang</author><author pid="249/5741">Panneer Selvam Santhalingam</author><author pid="149/2739">Riccardo Spolaor</author><author pid="62/8333">Parth H. Pathak</author><author pid="163/3092">Guoming Zhang</author><author pid="c/XiuzhenCheng">Xiuzhen Cheng 0001</author></authors><title>AccEar: Accelerometer Acoustic Eavesdropping with Unconstrained Vocabulary.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1757-1773</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HuZSSPZ022</key><doi>10.1109/SP46214.2022.9833716</doi><ee>https://doi.org/10.1109/SP46214.2022.9833716</ee><url>https://dblp.org/rec/conf/sp/HuZSSPZ022</url></info>
+<url>URL#622066</url>
+</hit>
+<hit score="1" id="622067">
+<info><authors><author pid="152/0790">Long Huang</author><author pid="82/4206-9">Chen Wang 0009</author></authors><title>PCR-Auth: Solving Authentication Puzzle Challenge with Encoded Palm Contact Response.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1034-1048</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Huang022</key><doi>10.1109/SP46214.2022.9833564</doi><ee>https://doi.org/10.1109/SP46214.2022.9833564</ee><url>https://dblp.org/rec/conf/sp/Huang022</url></info>
+<url>URL#622067</url>
+</hit>
+<hit score="1" id="622068">
+<info><authors><author pid="78/7690">Heqing Huang</author><author pid="322/7631">Yiyuan Guo</author><author pid="145/3943">Qingkai Shi</author><author pid="269/8140">Peisen Yao</author><author pid="92/9102">Rongxin Wu</author><author pid="51/7008">Charles Zhang</author></authors><title>BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>36-50</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HuangGSYWZ22</key><doi>10.1109/SP46214.2022.9833751</doi><ee>https://doi.org/10.1109/SP46214.2022.9833751</ee><url>https://dblp.org/rec/conf/sp/HuangGSYWZ22</url></info>
+<url>URL#622068</url>
+</hit>
+<hit score="1" id="622069">
+<info><authors><author pid="268/4450">Jan Jancar</author><author pid="138/4883">Marcel Fourné</author><author pid="268/6572">Daniel De Almeida Braga</author><author pid="162/4179">Mohamed Sabt</author><author pid="30/1431">Peter Schwabe</author><author pid="b/GBarthe">Gilles Barthe</author><author pid="76/6163">Pierre-Alain Fouque</author><author pid="132/9687">Yasemin Acar</author></authors><title>&quot;They&apos;re not that hard to mitigate&quot;: What Cryptographic Library Developers Think About Timing Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>632-649</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JancarFBSSBFA22</key><doi>10.1109/SP46214.2022.9833713</doi><ee>https://doi.org/10.1109/SP46214.2022.9833713</ee><url>https://dblp.org/rec/conf/sp/JancarFBSSBFA22</url></info>
+<url>URL#622069</url>
+</hit>
+<hit score="1" id="622070">
+<info><authors><author pid="283/5559">Patrick Jattke</author><author pid="119/2260">Victor van der Veen</author><author pid="224/2335">Pietro Frigo</author><author pid="325/3201">Stijn Gunter</author><author pid="121/2685">Kaveh Razavi</author></authors><title>BLACKSMITH: Scalable Rowhammering in the Frequency Domain.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>716-734</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JattkeVFGR22</key><doi>10.1109/SP46214.2022.9833772</doi><ee>https://doi.org/10.1109/SP46214.2022.9833772</ee><url>https://dblp.org/rec/conf/sp/JattkeVFGR22</url></info>
+<url>URL#622070</url>
+</hit>
+<hit score="1" id="622071">
+<info><authors><author pid="24/5124">Jinyuan Jia</author><author pid="204/1178">Yupei Liu</author><author pid="03/9437">Neil Zhenqiang Gong</author></authors><title>BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2043-2059</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JiaLG22</key><doi>10.1109/SP46214.2022.9833644</doi><ee>https://doi.org/10.1109/SP46214.2022.9833644</ee><url>https://dblp.org/rec/conf/sp/JiaLG22</url></info>
+<url>URL#622071</url>
+</hit>
+<hit score="1" id="622072">
+<info><authors><author pid="11/6484">Yan Jiang</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="78/2022">Kai Wang</author><author pid="46/1162-1">Chen Yan 0001</author><author pid="244/4957">Richard Mitev</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>984-1001</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Jiang0WYMSX22</key><doi>10.1109/SP46214.2022.9833740</doi><ee>https://doi.org/10.1109/SP46214.2022.9833740</ee><url>https://dblp.org/rec/conf/sp/Jiang0WYMSX22</url></info>
+<url>URL#622072</url>
+</hit>
+<hit score="1" id="622073">
+<info><authors><author pid="189/5822">Zihao Jin</author><author pid="277/8130">Ziqiao Kong</author><author pid="00/6472-1">Shuo Chen 0001</author><author pid="36/5143">Haixin Duan</author></authors><title>Timing-Based Browsing Privacy Vulnerabilities Via Site Isolation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1525-1539</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JinKCD22</key><doi>10.1109/SP46214.2022.9833710</doi><ee>https://doi.org/10.1109/SP46214.2022.9833710</ee><url>https://dblp.org/rec/conf/sp/JinKCD22</url></info>
+<url>URL#622073</url>
+</hit>
+<hit score="1" id="622074">
+<info><authors><author pid="128/9277">Haojian Jin</author><author pid="318/1190">Gram Liu</author><author pid="56/4252">David Hwang</author><author pid="44/8737">Swarun Kumar</author><author pid="84/1053">Yuvraj Agarwal</author><author pid="h/JasonIHong">Jason I. Hong</author></authors><title>Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>303-320</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JinLHKAH22</key><doi>10.1109/SP46214.2022.9833629</doi><ee>https://doi.org/10.1109/SP46214.2022.9833629</ee><url>https://dblp.org/rec/conf/sp/JinLHKAH22</url></info>
+<url>URL#622074</url>
+</hit>
+<hit score="1" id="622075">
+<info><authors><author pid="308/6408">Jiankai Jin</author><author pid="270/7099">Eleanor McMurtry</author><author pid="90/1092">Benjamin I. P. Rubinstein</author><author pid="70/4765">Olga Ohrimenko</author></authors><title>Are We There Yet? Timing and Floating-Point Attacks on Differential Privacy Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>473-488</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JinMRO22</key><doi>10.1109/SP46214.2022.9833672</doi><ee>https://doi.org/10.1109/SP46214.2022.9833672</ee><url>https://dblp.org/rec/conf/sp/JinMRO22</url></info>
+<url>URL#622075</url>
+</hit>
+<hit score="1" id="622076">
+<info><authors><author pid="208/1972">Xuancheng Jin</author><author pid="325/3253">Xuangan Xiao</author><author pid="183/1861">Songlin Jia</author><author pid="189/1639">Wang Gao</author><author pid="72/1963">Dawu Gu</author><author pid="49/6156-12">Hang Zhang 0012</author><author pid="130/5642">Siqi Ma</author><author pid="31/8302">Zhiyun Qian</author><author pid="41/3261">Juanru Li</author></authors><title>Annotating, Tracking, and Protecting Cryptographic Secrets with CryptoMPK.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>650-665</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JinXJGGZMQL22</key><doi>10.1109/SP46214.2022.9833650</doi><ee>https://doi.org/10.1109/SP46214.2022.9833650</ee><url>https://dblp.org/rec/conf/sp/JinXJGGZMQL22</url></info>
+<url>URL#622076</url>
+</hit>
+<hit score="1" id="622077">
+<info><authors><author pid="292/2920">Chijung Jung</author><author pid="292/2916">Ali Ahad</author><author pid="125/8622">Yuseok Jeon</author><author pid="139/7034">Yonghwi Kwon 0001</author></authors><title>SWARMFLAWFINDER: Discovering and Exploiting Logic Flaws of Swarm Algorithms.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1808-1825</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JungAJ022</key><doi>10.1109/SP46214.2022.9833685</doi><ee>https://doi.org/10.1109/SP46214.2022.9833685</ee><url>https://dblp.org/rec/conf/sp/JungAJ022</url></info>
+<url>URL#622077</url>
+</hit>
+<hit score="1" id="622078">
+<info><authors><author pid="246/4771">Soheil Khodayari</author><author pid="35/9056">Giancarlo Pellegrino</author></authors><title>The State of the SameSite: Studying the Usage, Effectiveness, and Adequacy of SameSite Cookies.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1590-1607</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KhodayariP22</key><doi>10.1109/SP46214.2022.9833637</doi><ee>https://doi.org/10.1109/SP46214.2022.9833637</ee><url>https://dblp.org/rec/conf/sp/KhodayariP22</url></info>
+<url>URL#622078</url>
+</hit>
+<hit score="1" id="622079">
+<info><authors><author pid="78/5052">Kyungtae Kim</author><author pid="157/5259">Taegyu Kim</author><author pid="299/8878">Ertza Warraich</author><author pid="45/7986">Byoungyoung Lee</author><author pid="82/1935">Kevin R. B. Butler</author><author pid="99/3883">Antonio Bianchi</author><author pid="159/0537">Dave Jing Tian</author></authors><title>FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2212-2229</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KimKWLBBT22</key><doi>10.1109/SP46214.2022.9833593</doi><ee>https://doi.org/10.1109/SP46214.2022.9833593</ee><url>https://dblp.org/rec/conf/sp/KimKWLBBT22</url></info>
+<url>URL#622079</url>
+</hit>
+<hit score="1" id="622080">
+<info><authors><author pid="155/0040">Hyungsub Kim</author><author pid="202/6743">Muslum Ozgur Ozmen</author><author pid="143/2298">Z. Berkay Celik</author><author pid="99/3883">Antonio Bianchi</author><author pid="59/5539">Dongyan Xu</author></authors><title>PGPatch: Policy-Guided Logic Bug Patching for Robotic Vehicles.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1826-1844</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KimOCBX22</key><doi>10.1109/SP46214.2022.9833567</doi><ee>https://doi.org/10.1109/SP46214.2022.9833567</ee><url>https://dblp.org/rec/conf/sp/KimOCBX22</url></info>
+<url>URL#622080</url>
+</hit>
+<hit score="1" id="622081">
+<info><authors><author pid="280/4649">Andreas Kogler</author><author pid="04/5465-7">Daniel Weber 0007</author><author pid="276/1565">Martin Haubenwallner</author><author pid="172/1127">Moritz Lipp</author><author pid="166/1494">Daniel Gruss</author><author pid="08/1117-1">Michael Schwarz 0001</author></authors><title>Finding and Exploiting CPU Features using MSR Templating.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1474-1490</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KoglerWHLG022</key><doi>10.1109/SP46214.2022.9833599</doi><ee>https://doi.org/10.1109/SP46214.2022.9833599</ee><url>https://dblp.org/rec/conf/sp/KoglerWHLG022</url></info>
+<url>URL#622081</url>
+</hit>
+<hit score="1" id="622084">
+<info><authors><author pid="172/6530">Daniele Lain</author><author pid="42/2366">Kari Kostiainen</author><author pid="51/1639">Srdjan Capkun</author></authors><title>Phishing in Organizations: Findings from a Large-Scale and Long-Term Study.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>842-859</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LainKC22</key><doi>10.1109/SP46214.2022.9833766</doi><ee>https://doi.org/10.1109/SP46214.2022.9833766</ee><url>https://dblp.org/rec/conf/sp/LainKC22</url></info>
+<url>URL#622084</url>
+</hit>
+<hit score="1" id="622085">
+<info><authors><author pid="57/11444">Hernán Ponce de León</author><author pid="74/3780">Johannes Kinder</author></authors><title>Cats vs. Spectre: An Axiomatic Approach to Modeling Speculative Execution Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>235-248</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LeonK22</key><doi>10.1109/SP46214.2022.9833774</doi><ee>https://doi.org/10.1109/SP46214.2022.9833774</ee><url>https://dblp.org/rec/conf/sp/LeonK22</url></info>
+<url>URL#622085</url>
+</hit>
+<hit score="1" id="622086">
+<info><authors><author pid="66/2069">Xiao Li</author><author pid="232/9988">Farzin Houshmand</author><author pid="82/2603">Mohsen Lesani</author></authors><title>HAMRAZ: Resilient Partitioning and Replication.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2267-2284</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LiHL22</key><doi>10.1109/SP46214.2022.9833661</doi><ee>https://doi.org/10.1109/SP46214.2022.9833661</ee><url>https://dblp.org/rec/conf/sp/LiHL22</url></info>
+<url>URL#622086</url>
+</hit>
+<hit score="1" id="622087">
+<info><authors><author pid="157/4437">Mengyuan Li</author><author pid="263/7337">Luca Wilke</author><author pid="225/5356">Jan Wichelmann</author><author pid="72/817">Thomas Eisenbarth 0001</author><author pid="04/3074">Radu Teodorescu</author><author pid="77/3503">Yinqian Zhang</author></authors><title>A Systematic Look at Ciphertext Side Channels on AMD SEV-SNP.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>337-351</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LiWW0TZ22</key><doi>10.1109/SP46214.2022.9833768</doi><ee>https://doi.org/10.1109/SP46214.2022.9833768</ee><url>https://dblp.org/rec/conf/sp/LiWW0TZ22</url></info>
+<url>URL#622087</url>
+</hit>
+<hit score="1" id="622088">
+<info><authors><author pid="51/239">Jie Liang</author><author pid="64/9796">Mingzhe Wang</author><author pid="228/5716">Chijin Zhou</author><author pid="24/968">Zhiyong Wu</author><author pid="21/4633-1">Yu Jiang 0001</author><author pid="21/5921">Jianzhong Liu</author><author pid="70/1220-1">Zhe Liu 0001</author><author pid="s/JiaGuangSun-1">Jiaguang Sun 0001</author></authors><title>PATA: Fuzzing with Path Aware Taint Analysis.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1-17</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LiangWZW0L0022</key><doi>10.1109/SP46214.2022.9833594</doi><ee>https://doi.org/10.1109/SP46214.2022.9833594</ee><url>https://dblp.org/rec/conf/sp/LiangWZW0L0022</url></info>
+<url>URL#622088</url>
+</hit>
+<hit score="1" id="622090">
+<info><authors><author pid="277/7909">Zhenpeng Lin</author><author pid="16/6884">Yueqi Chen</author><author pid="41/7732">Yuhang Wu</author><author pid="187/8991">Dongliang Mu</author><author pid="325/3296">Chensheng Yu</author><author pid="40/6431">Xinyu Xing</author><author pid="181/2763">Kang Li</author></authors><title>GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2078-2095</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LinCWMYXL22</key><doi>10.1109/SP46214.2022.9833683</doi><ee>https://doi.org/10.1109/SP46214.2022.9833683</ee><url>https://dblp.org/rec/conf/sp/LinCWMYXL22</url></info>
+<url>URL#622090</url>
+</hit>
+<hit score="1" id="622091">
+<info><authors><author pid="92/10048">Yingqi Liu</author><author pid="216/6403">Guangyu Shen</author><author pid="88/10370">Guanhong Tao</author><author pid="168/9413">Shengwei An</author><author pid="172/8745">Shiqing Ma</author><author pid="95/3760-1">Xiangyu Zhang 0001</author></authors><title>Piccolo: Exposing Complex Backdoors in NLP Transformer Models.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2025-2042</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LiuSTAM022</key><doi>10.1109/SP46214.2022.9833579</doi><ee>https://doi.org/10.1109/SP46214.2022.9833579</ee><url>https://dblp.org/rec/conf/sp/LiuSTAM022</url></info>
+<url>URL#622091</url>
+</hit>
+<hit score="1" id="622092">
+<info><authors><author pid="193/9286">Zhibo Liu</author><author pid="295/5277">Yuanyuan Yuan</author><author pid="42/1503-11">Shuai Wang 0011</author><author pid="167/6624">Yuyan Bao</author></authors><title>SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1100-1119</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LiuYWB22</key><doi>10.1109/SP46214.2022.9833799</doi><ee>https://doi.org/10.1109/SP46214.2022.9833799</ee><url>https://dblp.org/rec/conf/sp/LiuYWB22</url></info>
+<url>URL#622092</url>
+</hit>
+<hit score="1" id="622093">
+<info><authors><author pid="147/3326">Qasim Lone</author><author pid="239/8147">Alisa Frik</author><author pid="12/4563">Matthew Luckie</author><author pid="06/10585">Maciej Korczynski</author><author pid="17/7444">Michel van Eeten</author><author pid="22/7256">Carlos Gañán</author></authors><title>Deployment of Source Address Validation by Network Operators: A Randomized Control Trial.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2361-2378</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LoneFLKEG22</key><doi>10.1109/SP46214.2022.9833701</doi><ee>https://doi.org/10.1109/SP46214.2022.9833701</ee><url>https://dblp.org/rec/conf/sp/LoneFLKEG22</url></info>
+<url>URL#622093</url>
+</hit>
+<hit score="1" id="622094">
+<info><authors><author pid="243/3102">Nils Lukas</author><author pid="299/7660">Edward Jiang</author><author pid="296/4272">Xinda Li 0001</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>SoK: How Robust is Image Classification Deep Neural Network Watermarking?</title><venue>IEEE Symposium on Security and Privacy</venue><pages>787-804</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LukasJLK22</key><doi>10.1109/SP46214.2022.9833693</doi><ee>https://doi.org/10.1109/SP46214.2022.9833693</ee><url>https://dblp.org/rec/conf/sp/LukasJLK22</url></info>
+<url>URL#622094</url>
+</hit>
+<hit score="1" id="622095">
+<info><authors><author pid="304/1044">Yunlong Lyu</author><author pid="96/361">Yi Fang</author><author pid="86/1695">Yiwei Zhang</author><author pid="01/1492">Qibin Sun</author><author pid="130/5642">Siqi Ma</author><author pid="b/ElisaBertino">Elisa Bertino</author><author pid="67/10639">Kangjie Lu</author><author pid="41/3261">Juanru Li</author></authors><title>Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2096-2113</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LyuFZSMBLL22</key><doi>10.1109/SP46214.2022.9833613</doi><ee>https://doi.org/10.1109/SP46214.2022.9833613</ee><url>https://dblp.org/rec/conf/sp/LyuFZSMBLL22</url></info>
+<url>URL#622095</url>
+</hit>
+<hit score="1" id="622096">
+<info><authors><author pid="208/0825">Saeed Mahloujifar</author><author pid="48/9365">Esha Ghosh</author><author pid="06/1661">Melissa Chase</author></authors><title>Property Inference from Poisoning.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1120-1137</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MahloujifarGC22</key><doi>10.1109/SP46214.2022.9833623</doi><ee>https://doi.org/10.1109/SP46214.2022.9833623</ee><url>https://dblp.org/rec/conf/sp/MahloujifarGC22</url></info>
+<url>URL#622096</url>
+</hit>
+<hit score="1" id="622097">
+<info><authors><author pid="245/5901">Yuhao Mao</author><author pid="30/6251">Chong Fu</author><author pid="270/0109">Saizhuo Wang</author><author pid="07/8388">Shouling Ji</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="145/1147">Zhenguang Liu</author><author pid="99/3847-11">Jun Zhou 0011</author><author pid="l/AlexXLiu">Alex X. Liu</author><author pid="12/6354">Raheem Beyah</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Transfer Attacks Revisited: A Large-Scale Empirical Study in Real Computer Vision Settings.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1423-1439</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MaoFWJ0LZLB022</key><doi>10.1109/SP46214.2022.9833783</doi><ee>https://doi.org/10.1109/SP46214.2022.9833783</ee><url>https://dblp.org/rec/conf/sp/MaoFWJ0LZLB022</url></info>
+<url>URL#622097</url>
+</hit>
+<hit score="1" id="622098">
+<info><authors><author pid="325/3514">Michele Marazzi</author><author pid="283/5559">Patrick Jattke</author><author pid="264/9973">Flavien Solt</author><author pid="121/2685">Kaveh Razavi</author></authors><title>ProTRR: Principled yet Optimal In-DRAM Target Row Refresh.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>735-753</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MarazziJSR22</key><doi>10.1109/SP46214.2022.9833664</doi><ee>https://doi.org/10.1109/SP46214.2022.9833664</ee><url>https://dblp.org/rec/conf/sp/MarazziJSR22</url></info>
+<url>URL#622098</url>
+</hit>
+<hit score="1" id="622100">
+<info><authors><author pid="318/5022">Samir Jordan Menon</author><author pid="32/10400-1">David J. Wu 0001</author></authors><title>SPIRAL: Fast, High-Rate Single-Server PIR via FHE Composition.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>930-947</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MenonW22</key><doi>10.1109/SP46214.2022.9833700</doi><ee>https://doi.org/10.1109/SP46214.2022.9833700</ee><url>https://dblp.org/rec/conf/sp/MenonW22</url></info>
+<url>URL#622100</url>
+</hit>
+<hit score="1" id="622101">
+<info><authors><author pid="212/6785">Alyssa Milburn</author><author pid="142/7142">Erik van der Kouwe</author><author pid="75/8194">Cristiano Giuffrida</author></authors><title>Mitigating Information Leakage Vulnerabilities with Type-based Data Isolation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1049-1065</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MilburnKG22</key><doi>10.1109/SP46214.2022.9833675</doi><ee>https://doi.org/10.1109/SP46214.2022.9833675</ee><url>https://dblp.org/rec/conf/sp/MilburnKG22</url></info>
+<url>URL#622101</url>
+</hit>
+<hit score="1" id="622103">
+<info><authors><author pid="119/2077">John V. Monaco</author></authors><title>Device Fingerprinting with Peripheral Timestamps.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1018-1033</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Monaco22</key><doi>10.1109/SP46214.2022.9833612</doi><ee>https://doi.org/10.1109/SP46214.2022.9833612</ee><url>https://dblp.org/rec/conf/sp/Monaco22</url></info>
+<url>URL#622103</url>
+</hit>
+<hit score="1" id="622104">
+<info><authors><author pid="293/9864">Collins W. Munyendo</author><author pid="132/9687">Yasemin Acar</author><author pid="94/1554">Adam J. Aviv</author></authors><title>&quot;Desperate Times Call for Desperate Measures&quot;: User Concerns with Mobile Loan Apps in Kenya.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2304-2319</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MunyendoAA22</key><doi>10.1109/SP46214.2022.9833779</doi><ee>https://doi.org/10.1109/SP46214.2022.9833779</ee><url>https://dblp.org/rec/conf/sp/MunyendoAA22</url></info>
+<url>URL#622104</url>
+</hit>
+<hit score="1" id="622105">
+<info><authors><author pid="173/5375">Ivan De Oliveira Nunes</author><author pid="268/4543">Seoyeon Hwang</author><author pid="264/9378">Sashidhar Jakkamsetti</author><author pid="08/1183">Gene Tsudik</author></authors><title>Privacy-from-Birth: Protecting Sensed Data from Malicious Sensors with VERSA.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2413-2429</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/NunesHJT22</key><doi>10.1109/SP46214.2022.9833737</doi><ee>https://doi.org/10.1109/SP46214.2022.9833737</ee><url>https://dblp.org/rec/conf/sp/NunesHJT22</url></info>
+<url>URL#622105</url>
+</hit>
+<hit score="1" id="622107">
+<info><authors><author pid="215/6395">Borke Obada-Obieh</author><author pid="48/2209">Yue Huang</author><author pid="273/6989">Lucrezia Spagnolo</author><author pid="47/6517">Konstantin Beznosov</author></authors><title>SoK: The Dual Nature of Technology in Sexual Abuse.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2320-2343</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Obada-ObiehHSB22</key><doi>10.1109/SP46214.2022.9833663</doi><ee>https://doi.org/10.1109/SP46214.2022.9833663</ee><url>https://dblp.org/rec/conf/sp/Obada-ObiehHSB22</url></info>
+<url>URL#622107</url>
+</hit>
+<hit score="1" id="622108">
+<info><authors><author pid="142/8371">Se Eun Oh</author><author pid="325/3321">Taiji Yang</author><author pid="236/4875">Nate Mathews</author><author pid="242/3127">James K. Holland</author><author pid="119/4928-2">Mohammad Saidur Rahman 0002</author><author pid="11/5469">Nicholas Hopper</author><author pid="41/4822">Matthew Wright 0001</author></authors><title>DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1915-1932</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/OhYMH0H022</key><doi>10.1109/SP46214.2022.9833801</doi><ee>https://doi.org/10.1109/SP46214.2022.9833801</ee><url>https://dblp.org/rec/conf/sp/OhYMH0H022</url></info>
+<url>URL#622108</url>
+</hit>
+<hit score="1" id="622109">
+<info><authors><author pid="200/3122">Alex Ozdemir</author><author pid="177/8590">Fraser Brown</author><author pid="150/9448">Riad S. Wahby</author></authors><title>CirC: Compiler infrastructure for proof systems, software verification, and more.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2248-2266</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/OzdemirBW22</key><doi>10.1109/SP46214.2022.9833782</doi><ee>https://doi.org/10.1109/SP46214.2022.9833782</ee><url>https://dblp.org/rec/conf/sp/OzdemirBW22</url></info>
+<url>URL#622109</url>
+</hit>
+<hit score="1" id="622110">
+<info><authors><author pid="167/4911">Maria Leonor Pacheco</author><author pid="262/3629">Max von Hippel</author><author pid="270/8815">Ben Weintraub</author><author pid="38/3382">Dan Goldwasser</author><author pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</author></authors><title>Automated Attack Synthesis by Extracting Finite State Machines from Protocol Specification Documents.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>51-68</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PachecoHWGN22</key><doi>10.1109/SP46214.2022.9833673</doi><ee>https://doi.org/10.1109/SP46214.2022.9833673</ee><url>https://dblp.org/rec/conf/sp/PachecoHWGN22</url></info>
+<url>URL#622110</url>
+</hit>
+<hit score="1" id="622112">
+<info><authors><author pid="227/2618">Eric Pauley</author><author pid="195/5821">Ryan Sheatsley</author><author pid="293/7182">Blaine Hoak</author><author pid="55/8327-2">Quinn Burke 0002</author><author pid="265/2278">Yohan Beugin</author><author pid="m/PatrickDrewMcDaniel">Patrick D. McDaniel</author></authors><title>Measuring and Mitigating the Risk of IP Reuse on Public Clouds.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>558-575</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PauleySHBBM22</key><doi>10.1109/SP46214.2022.9833784</doi><ee>https://doi.org/10.1109/SP46214.2022.9833784</ee><url>https://dblp.org/rec/conf/sp/PauleySHBBM22</url></info>
+<url>URL#622112</url>
+</hit>
+<hit score="1" id="622113">
+<info><authors><author pid="183/4902">Hammond Pearce</author><author pid="299/9018">Baleegh Ahmad</author><author pid="195/3070">Benjamin Tan 0001</author><author pid="94/7563">Brendan Dolan-Gavitt</author><author pid="26/1589">Ramesh Karri</author></authors><title>Asleep at the Keyboard? Assessing the Security of GitHub Copilot&apos;s Code Contributions.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>754-768</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PearceA0DK22</key><doi>10.1109/SP46214.2022.9833571</doi><ee>https://doi.org/10.1109/SP46214.2022.9833571</ee><url>https://dblp.org/rec/conf/sp/PearceA0DK22</url></info>
+<url>URL#622113</url>
+</hit>
+<hit score="1" id="622115">
+<info><authors><author pid="246/5857">Kaihua Qin</author><author pid="246/6069">Liyi Zhou</author><author pid="138/9020">Arthur Gervais</author></authors><title>Quantifying Blockchain Extractable Value: How dark is the forest?</title><venue>IEEE Symposium on Security and Privacy</venue><pages>198-214</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/QinZG22</key><doi>10.1109/SP46214.2022.9833734</doi><ee>https://doi.org/10.1109/SP46214.2022.9833734</ee><url>https://dblp.org/rec/conf/sp/QinZG22</url></info>
+<url>URL#622115</url>
+</hit>
+<hit score="1" id="622116">
+<info><authors><author pid="185/6240">Andreea-Ina Radu</author><author pid="30/3919">Tom Chothia</author><author pid="121/5010">Christopher J. P. Newton</author><author pid="12/4955">Ioana Boureanu</author><author pid="22/150-2">Liqun Chen 0002</author></authors><title>Practical EMV Relay Protection.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1737-1756</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RaduCNB022</key><doi>10.1109/SP46214.2022.9833642</doi><ee>https://doi.org/10.1109/SP46214.2022.9833642</ee><url>https://dblp.org/rec/conf/sp/RaduCNB022</url></info>
+<url>URL#622116</url>
+</hit>
+<hit score="1" id="622117">
+<info><authors><author pid="215/3683">Adnan Siraj Rakin</author><author pid="282/5390">Md Hafizul Islam Chowdhuryy</author><author pid="139/7075">Fan Yao</author><author pid="129/1701">Deliang Fan</author></authors><title>DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1157-1174</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RakinCYF22</key><doi>10.1109/SP46214.2022.9833743</doi><ee>https://doi.org/10.1109/SP46214.2022.9833743</ee><url>https://dblp.org/rec/conf/sp/RakinCYF22</url></info>
+<url>URL#622117</url>
+</hit>
+<hit score="1" id="622118">
+<info><authors><author pid="223/6113">Deevashwer Rathee</author><author pid="279/3993">Anwesh Bhattacharya</author><author pid="22/846-1">Rahul Sharma 0001</author><author pid="66/11477-1">Divya Gupta 0001</author><author pid="77/5616">Nishanth Chandran</author><author pid="81/10809">Aseem Rastogi</author></authors><title>SecFloat: Accurate Floating-Point meets Secure 2-Party Computation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>576-595</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RatheeB00CR22</key><doi>10.1109/SP46214.2022.9833697</doi><ee>https://doi.org/10.1109/SP46214.2022.9833697</ee><url>https://dblp.org/rec/conf/sp/RatheeB00CR22</url></info>
+<url>URL#622118</url>
+</hit>
+<hit score="1" id="622119">
+<info><authors><author pid="265/1190">Marc Rivinius</author><author pid="318/5011">Pascal Reisert</author><author pid="157/2805-1">Daniel Rausch 0001</author><author pid="k/RKusters">Ralf Küsters</author></authors><title>Publicly Accountable Robust Multi-Party Computation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2430-2449</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RiviniusR0K22</key><doi>10.1109/SP46214.2022.9833608</doi><ee>https://doi.org/10.1109/SP46214.2022.9833608</ee><url>https://dblp.org/rec/conf/sp/RiviniusR0K22</url></info>
+<url>URL#622119</url>
+</hit>
+<hit score="1" id="622120">
+<info><authors><author pid="276/3272">Alan Romano</author><author pid="22/1822-2">Daniel Lehmann 0002</author><author pid="25/2188">Michael Pradel</author><author pid="57/7210-1">Weihang Wang 0001</author></authors><title>Wobfuscator: Obfuscating JavaScript Malware via Opportunistic Translation to WebAssembly.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1574-1589</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RomanoLP022</key><doi>10.1109/SP46214.2022.9833626</doi><ee>https://doi.org/10.1109/SP46214.2022.9833626</ee><url>https://dblp.org/rec/conf/sp/RomanoLP022</url></info>
+<url>URL#622120</url>
+</hit>
+<hit score="1" id="622121">
+<info><authors><author pid="122/5145">Michael Rosenberg</author><author pid="187/5714">Mary Maller</author><author pid="129/9500">Ian Miers</author></authors><title>SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>948-965</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RosenbergMM22</key><doi>10.1109/SP46214.2022.9833656</doi><ee>https://doi.org/10.1109/SP46214.2022.9833656</ee><url>https://dblp.org/rec/conf/sp/RosenbergMM22</url></info>
+<url>URL#622121</url>
+</hit>
+<hit score="1" id="622123">
+<info><authors><author pid="218/0179">Nicola Ruaro</author><author pid="123/3252">Fabio Pagani</author><author pid="32/8412">Stefano Ortolani</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1066-1081</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RuaroPOKV22</key><doi>10.1109/SP46214.2022.9833765</doi><ee>https://doi.org/10.1109/SP46214.2022.9833765</ee><url>https://dblp.org/rec/conf/sp/RuaroPOKV22</url></info>
+<url>URL#622123</url>
+</hit>
+<hit score="1" id="622124">
+<info><authors><author pid="243/3120">Mohammad Hammas Saeed</author><author pid="256/6215">Shiza Ali</author><author pid="12/8780">Jeremy Blackburn</author><author pid="36/6225">Emiliano De Cristofaro</author><author pid="184/5969">Savvas Zannettou</author><author pid="86/8823">Gianluca Stringhini</author></authors><title>TrollMagnifier: Detecting State-Sponsored Troll Accounts on Reddit.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2161-2175</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SaeedABCZS22</key><doi>10.1109/SP46214.2022.9833706</doi><ee>https://doi.org/10.1109/SP46214.2022.9833706</ee><url>https://dblp.org/rec/conf/sp/SaeedABCZS22</url></info>
+<url>URL#622124</url>
+</hit>
+<hit score="1" id="622126">
+<info><authors><author pid="165/2039">Iskander Sánchez-Rola</author><author pid="49/4384">Matteo Dell&apos;Amico</author><author pid="56/490">Davide Balzarotti</author><author pid="122/8629">Pierre-Antoine Vervier</author><author pid="15/6037">Leyla Bilge</author></authors><title>Journey to the Center of the Cookie Ecosystem: Unraveling Actors&apos; Roles and Relationships.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1990-2004</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Sanchez-RolaDBV22</key><doi>10.1109/SP40001.2021.9796062</doi><ee>https://doi.org/10.1109/SP40001.2021.9796062</ee><url>https://dblp.org/rec/conf/sp/Sanchez-RolaDBV22</url></info>
+<url>URL#622126</url>
+</hit>
+<hit score="1" id="622127">
+<info><authors><author pid="325/3601">Preethi Santhanam</author><author pid="124/2165">Hoang Dang</author><author pid="02/4241">Zhiyong Shan</author><author pid="46/2869">Iulian Neamtiu</author></authors><title>Scraping Sticky Leftovers: App User Information Left on Servers After Account Deletion.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2145-2160</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SanthanamDSN22</key><doi>10.1109/SP46214.2022.9833720</doi><ee>https://doi.org/10.1109/SP46214.2022.9833720</ee><url>https://dblp.org/rec/conf/sp/SanthanamDSN22</url></info>
+<url>URL#622127</url>
+</hit>
+<hit score="1" id="622129">
+<info><authors><author pid="34/3589">Takayuki Sasaki</author><author pid="97/3642">Akira Fujita</author><author pid="22/7256">Carlos Hernandez Gañán</author><author pid="17/7444">Michel van Eeten</author><author pid="66/3013">Katsunari Yoshioka</author><author pid="58/4020">Tsutomu Matsumoto</author></authors><title>Exposed Infrastructures: Discovery, Attacks and Remediation of Insecure ICS Remote Management Devices.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2379-2396</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SasakiFGEYM22</key><doi>10.1109/SP46214.2022.9833730</doi><ee>https://doi.org/10.1109/SP46214.2022.9833730</ee><url>https://dblp.org/rec/conf/sp/SasakiFGEYM22</url></info>
+<url>URL#622129</url>
+</hit>
+<hit score="1" id="622132">
+<info><authors><author pid="226/2396">Sacha Servan-Schreiber</author><author pid="235/6812">Simon Langowski</author><author pid="14/3973">Srinivas Devadas</author></authors><title>Private Approximate Nearest Neighbor Search with Sublinear Communication.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>911-929</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Servan-Schreiber22</key><doi>10.1109/SP46214.2022.9833702</doi><ee>https://doi.org/10.1109/SP46214.2022.9833702</ee><url>https://dblp.org/rec/conf/sp/Servan-Schreiber22</url></info>
+<url>URL#622132</url>
+</hit>
+<hit score="1" id="622133">
+<info><authors><author pid="211/3822">Haoqi Shan</author><author pid="160/0934">Boyi Zhang</author><author pid="195/9266">Zihao Zhan</author><author pid="144/4578">Dean Sullivan</author><author pid="63/1591">Shuo Wang</author><author pid="34/756">Yier Jin</author></authors><title>Invisible Finger: Practical Electromagnetic Interference Attack on Touchscreen-based Electronic Devices.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1246-1262</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ShanZZSWJ22</key><doi>10.1109/SP46214.2022.9833718</doi><ee>https://doi.org/10.1109/SP46214.2022.9833718</ee><url>https://dblp.org/rec/conf/sp/ShanZZSWJ22</url></info>
+<url>URL#622133</url>
+</hit>
+<hit score="1" id="622134">
+<info><authors><author pid="168/9537">Dongdong She</author><author pid="162/8000">Abhishek Shah</author><author pid="74/28">Suman Jana</author></authors><title>Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2194-2211</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SheSJ22</key><doi>10.1109/SP46214.2022.9833761</doi><ee>https://doi.org/10.1109/SP46214.2022.9833761</ee><url>https://dblp.org/rec/conf/sp/SheSJ22</url></info>
+<url>URL#622134</url>
+</hit>
+<hit score="1" id="622135">
+<info><authors><author pid="243/3113">Virat Shejwalkar</author><author pid="22/1797">Amir Houmansadr</author><author pid="129/1254">Peter Kairouz</author><author pid="47/5036">Daniel Ramage</author></authors><title>Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1354-1371</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ShejwalkarHKR22</key><doi>10.1109/SP46214.2022.9833647</doi><ee>https://doi.org/10.1109/SP46214.2022.9833647</ee><url>https://dblp.org/rec/conf/sp/ShejwalkarHKR22</url></info>
+<url>URL#622135</url>
+</hit>
+<hit score="1" id="622136">
+<info><authors><author pid="14/4412">Yun Shen</author><author pid="227/7262">Xinlei He</author><author pid="74/2507">Yufei Han</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Model Stealing Attacks Against Inductive Graph Neural Networks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1175-1192</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ShenHH022</key><doi>10.1109/SP46214.2022.9833607</doi><ee>https://doi.org/10.1109/SP46214.2022.9833607</ee><url>https://dblp.org/rec/conf/sp/ShenHH022</url></info>
+<url>URL#622136</url>
+</hit>
+<hit score="1" id="622138">
+<info><authors><author pid="294/4100">Johnny So</author><author pid="182/2006">Najmeh Miramirkhani</author><author pid="46/4377">Michael Ferdman</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>Domains Do Change Their Spots: Quantifying Potential Abuse of Residual Trust.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2130-2144</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SoMFN22</key><doi>10.1109/SP46214.2022.9833609</doi><ee>https://doi.org/10.1109/SP46214.2022.9833609</ee><url>https://dblp.org/rec/conf/sp/SoMFN22</url></info>
+<url>URL#622138</url>
+</hit>
+<hit score="1" id="622139">
+<info><authors><author pid="252/4043">Ananta Soneji</author><author pid="252/4201">Faris Bugra Kokulu</author><author pid="11/3908">Carlos E. Rubio-Medrano</author><author pid="150/5198">Tiffany Bao</author><author pid="127/9829">Ruoyu Wang 0001</author><author pid="119/7712">Yan Shoshitaishvili</author><author pid="28/8280">Adam Doupé</author></authors><title>&quot;Flawed, but like democracy we don&apos;t have a better system&quot;: The Experts&apos; Insights on the Peer Review Process of Evaluating Security Papers.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1845-1862</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SonejiKRB0SD22</key><doi>10.1109/SP46214.2022.9833581</doi><ee>https://doi.org/10.1109/SP46214.2022.9833581</ee><url>https://dblp.org/rec/conf/sp/SonejiKRB0SD22</url></info>
+<url>URL#622139</url>
+</hit>
+<hit score="1" id="622140">
+<info><authors><author pid="234/1389">Julian Speith</author><author pid="308/6016">Florian Schweins</author><author pid="159/2518">Maik Ender</author><author pid="135/0314">Marc Fyrbiak</author><author pid="62/1898">Alexander May 0001</author><author pid="p/ChristofPaar">Christof Paar</author></authors><title>How Not to Protect Your IP - An Industry-Wide Break of IEEE 1735 Implementations.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1656-1671</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SpeithSEF0P22</key><doi>10.1109/SP46214.2022.9833605</doi><ee>https://doi.org/10.1109/SP46214.2022.9833605</ee><url>https://dblp.org/rec/conf/sp/SpeithSEF0P22</url></info>
+<url>URL#622140</url>
+</hit>
+<hit score="1" id="622141">
+<info><authors><author pid="276/5458">Paul Staat</author><author pid="308/1275">Simon Mulzer</author><author pid="181/2340-4">Stefan Roth 0004</author><author pid="20/11342">Veelasha Moonsamy</author><author pid="252/9286">Markus Heinrichs</author><author pid="65/10433">Rainer Kronberger</author><author pid="12/218">Aydin Sezgin</author><author pid="p/ChristofPaar">Christof Paar</author></authors><title>IRShield: A Countermeasure Against Adversarial Physical-Layer Wireless Sensing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1705-1721</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/StaatM0MHKSP22</key><doi>10.1109/SP46214.2022.9833676</doi><ee>https://doi.org/10.1109/SP46214.2022.9833676</ee><url>https://dblp.org/rec/conf/sp/StaatM0MHKSP22</url></info>
+<url>URL#622141</url>
+</hit>
+<hit score="1" id="622142">
+<info><authors><author pid="276/5458">Paul Staat</author><author pid="168/4835">Johannes Tobisch</author><author pid="130/6535">Christian T. Zenger</author><author pid="p/ChristofPaar">Christof Paar</author></authors><title>Anti-Tamper Radio: System-Level Tamper Detection for Computing Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1722-1736</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/StaatTZP22</key><doi>10.1109/SP46214.2022.9833631</doi><ee>https://doi.org/10.1109/SP46214.2022.9833631</ee><url>https://dblp.org/rec/conf/sp/StaatTZP22</url></info>
+<url>URL#622142</url>
+</hit>
+<hit score="1" id="622143">
+<info><authors><author pid="190/9918">Samuel Steffen</author><author pid="187/8970">Benjamin Bichsel</author><author pid="325/3354">Roger Baumgartner</author><author pid="93/2189">Martin T. Vechev</author></authors><title>ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>179-197</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SteffenBBV22</key><doi>10.1109/SP46214.2022.9833732</doi><ee>https://doi.org/10.1109/SP46214.2022.9833732</ee><url>https://dblp.org/rec/conf/sp/SteffenBBV22</url></info>
+<url>URL#622143</url>
+</hit>
+<hit score="1" id="622144">
+<info><authors><author pid="325/3688">Sophie Stephenson</author><author pid="241/9681">Bijeeta Pal</author><author pid="325/3653">Stephen Fan</author><author pid="16/10817">Earlence Fernandes</author><author pid="87/8700-1">Yuhang Zhao 0001</author><author pid="03/9962">Rahul Chatterjee 0001</author></authors><title>SoK: Authentication in Augmented and Virtual Reality.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>267-284</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/StephensonPFFZ022</key><doi>10.1109/SP46214.2022.9833742</doi><ee>https://doi.org/10.1109/SP46214.2022.9833742</ee><url>https://dblp.org/rec/conf/sp/StephensonPFFZ022</url></info>
+<url>URL#622144</url>
+</hit>
+<hit score="1" id="622146">
+<info><authors><author pid="184/6096">Christian Stransky</author><author pid="186/0348">Oliver Wiese</author><author pid="23/1185-2">Volker Roth 0002</author><author pid="132/9687">Yasemin Acar</author><author pid="38/9378">Sascha Fahl</author></authors><title>27 Years and 81 Million Opportunities Later: Investigating the Use of Email Encryption for an Entire University.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>860-875</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/StranskyW0AF22</key><doi>10.1109/SP46214.2022.9833755</doi><ee>https://doi.org/10.1109/SP46214.2022.9833755</ee><url>https://dblp.org/rec/conf/sp/StranskyW0AF22</url></info>
+<url>URL#622146</url>
+</hit>
+<hit score="1" id="622147">
+<info><authors><author pid="88/10370">Guanhong Tao</author><author pid="92/10048">Yingqi Liu</author><author pid="216/6403">Guangyu Shen</author><author pid="263/6785">Qiuling Xu</author><author pid="168/9413">Shengwei An</author><author pid="16/1234-2">Zhuo Zhang 0002</author><author pid="95/3760-1">Xiangyu Zhang 0001</author></authors><title>Model Orthogonalization: Class Distance Hardening in Neural Networks for Better Security.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1372-1389</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TaoLSXA0022</key><doi>10.1109/SP46214.2022.9833688</doi><ee>https://doi.org/10.1109/SP46214.2022.9833688</ee><url>https://dblp.org/rec/conf/sp/TaoLSXA0022</url></info>
+<url>URL#622147</url>
+</hit>
+<hit score="1" id="622148">
+<info><authors><author pid="57/10514">Saravanan Thirumuruganathan</author><author pid="65/4357">Mohamed Nabeel</author><author pid="98/7002">Euijin Choo</author><author pid="115/8715">Issa Khalil</author><author pid="y/TingYu-1">Ting Yu 0001</author></authors><title>SIRAJ: A Unified Framework for Aggregation of Malicious Entity Detectors.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>507-521</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Thirumuruganathan22</key><doi>10.1109/SP46214.2022.9833725</doi><ee>https://doi.org/10.1109/SP46214.2022.9833725</ee><url>https://dblp.org/rec/conf/sp/Thirumuruganathan22</url></info>
+<url>URL#622148</url>
+</hit>
+<hit score="1" id="622149">
+<info><authors><author pid="164/5298">Sri Aravinda Krishnan Thyagarajan</author><author pid="148/1304">Giulio Malavolta</author><author pid="128/4640">Pedro Moreno-Sanchez</author></authors><title>Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1299-1316</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ThyagarajanMM22</key><doi>10.1109/SP46214.2022.9833731</doi><ee>https://doi.org/10.1109/SP46214.2022.9833731</ee><url>https://dblp.org/rec/conf/sp/ThyagarajanMM22</url></info>
+<url>URL#622149</url>
+</hit>
+<hit score="1" id="622150">
+<info><authors><author pid="198/1274">Han Tian</author><author pid="257/6290">Chaoliang Zeng</author><author pid="303/1128">Zhenghang Ren</author><author pid="224/0292">Di Chai</author><author pid="155/4434">Junxue Zhang 0001</author><author pid="c/KaiChen5">Kai Chen 0005</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2487-2501</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TianZRCZ0022</key><doi>10.1109/SP46214.2022.9833648</doi><ee>https://doi.org/10.1109/SP46214.2022.9833648</ee><url>https://dblp.org/rec/conf/sp/TianZRCZ0022</url></info>
+<url>URL#622150</url>
+</hit>
+<hit score="1" id="622151">
+<info><authors><author pid="221/1574">Youssef Tobah</author><author pid="176/8068">Andrew Kwong</author><author pid="199/7713">Ingab Kang</author><author pid="98/8283">Daniel Genkin</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>681-698</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TobahKKGS22</key><doi>10.1109/SP46214.2022.9833802</doi><ee>https://doi.org/10.1109/SP46214.2022.9833802</ee><url>https://dblp.org/rec/conf/sp/TobahKKGS22</url></info>
+<url>URL#622151</url>
+</hit>
+<hit score="1" id="622153">
+<info><authors><author pid="207/8076">Adithya Vadapalli</author><author pid="325/3393">Kyle Storrier</author><author pid="86/8283">Ryan Henry</author></authors><title>Sabre: Sender-Anonymous Messaging with Fast Audits.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1953-1970</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/VadapalliSH22</key><doi>10.1109/SP46214.2022.9833601</doi><ee>https://doi.org/10.1109/SP46214.2022.9833601</ee><url>https://dblp.org/rec/conf/sp/VadapalliSH22</url></info>
+<url>URL#622153</url>
+</hit>
+<hit score="1" id="622154">
+<info><authors><author pid="325/3515">Robin Vassantlal</author><author pid="06/2528">Eduardo Alchieri</author><author pid="145/9850">Bernardo Ferreira</author><author pid="68/1448">Alysson Bessani</author></authors><title>COBRA: Dynamic Proactive Secret Sharing for Confidential BFT Services.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1335-1353</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/VassantlalAFB22</key><doi>10.1109/SP46214.2022.9833658</doi><ee>https://doi.org/10.1109/SP46214.2022.9833658</ee><url>https://dblp.org/rec/conf/sp/VassantlalAFB22</url></info>
+<url>URL#622154</url>
+</hit>
+<hit score="1" id="622155">
+<info><authors><author pid="223/7708">Jose Rodrigo Sanchez Vicarte</author><author pid="247/1169">Michael Flanders</author><author pid="224/9301">Riccardo Paccagnella</author><author pid="325/3775">Grant Garrett-Grossman</author><author pid="40/944">Adam Morrison 0001</author><author pid="25/8166">Christopher W. Fletcher</author><author pid="131/5093">David Kohlbrenner</author></authors><title>Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1491-1505</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/VicarteFPG0FK22</key><doi>10.1109/SP46214.2022.9833570</doi><ee>https://doi.org/10.1109/SP46214.2022.9833570</ee><url>https://dblp.org/rec/conf/sp/VicarteFPG0FK22</url></info>
+<url>URL#622155</url>
+</hit>
+<hit score="1" id="622156">
+<info><authors><author pid="95/10401">Junpeng Wan</author><author pid="287/4746">Yanxiang Bi</author><author pid="34/6503-1">Zhe Zhou 0001</author><author pid="62/4119-1">Zhou Li 0001</author></authors><title>MeshUp: Stateless Cache Side-channel Attack on CPU Mesh.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1506-1524</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WanB0022</key><doi>10.1109/SP46214.2022.9833794</doi><ee>https://doi.org/10.1109/SP46214.2022.9833794</ee><url>https://dblp.org/rec/conf/sp/WanB0022</url></info>
+<url>URL#622156</url>
+</hit>
+<hit score="1" id="622159">
+<info><authors><author pid="03/2885">Jinwen Wang</author><author pid="54/2788-6">Ao Li 0006</author><author pid="50/10038">Haoran Li</author><author pid="88/683">Chenyang Lu 0001</author><author pid="181/2597-17">Ning Zhang 0017</author></authors><title>RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>352-369</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WangLL0022</key><doi>10.1109/SP46214.2022.9833604</doi><ee>https://doi.org/10.1109/SP46214.2022.9833604</ee><url>https://dblp.org/rec/conf/sp/WangLL0022</url></info>
+<url>URL#622159</url>
+</hit>
+<hit score="1" id="622160">
+<info><authors><author pid="239/0184">Noel Warford</author><author pid="57/1705">Tara Matthews</author><author pid="309/5750">Kaitlyn Yang</author><author pid="198/9755">Omer Akgul</author><author pid="61/1413">Sunny Consolvo</author><author pid="15/3631">Patrick Gage Kelley</author><author pid="179/4686">Nathan Malkin</author><author pid="20/7983">Michelle L. Mazurek</author><author pid="64/10054">Manya Sleeper</author><author pid="68/8283">Kurt Thomas</author></authors><title>SoK: A Framework for Unifying At-Risk User Research.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2344-2360</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WarfordMYACKMMS22</key><doi>10.1109/SP46214.2022.9833643</doi><ee>https://doi.org/10.1109/SP46214.2022.9833643</ee><url>https://dblp.org/rec/conf/sp/WarfordMYACKMMS22</url></info>
+<url>URL#622160</url>
+</hit>
+<hit score="1" id="622161">
+<info><authors><author pid="203/1800">Dominik Wermke</author><author pid="325/3563">Noah Wöhler</author><author pid="325/3232">Jan H. Klemmer</author><author pid="138/4883">Marcel Fourné</author><author pid="132/9687">Yasemin Acar</author><author pid="38/9378">Sascha Fahl</author></authors><title>Committed to Trust: A Qualitative Study on Security &amp; Trust in Open Source Software Projects.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1880-1896</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WermkeWKFAF22</key><doi>10.1109/SP46214.2022.9833686</doi><ee>https://doi.org/10.1109/SP46214.2022.9833686</ee><url>https://dblp.org/rec/conf/sp/WermkeWKFAF22</url></info>
+<url>URL#622161</url>
+</hit>
+<hit score="1" id="622163">
+<info><authors><author pid="217/4617">Yuxi Wu</author><author pid="e/WKeithEdwards">W. Keith Edwards</author><author pid="83/8570">Sauvik Das</author></authors><title>SoK: Social Cybersecurity.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1863-1879</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WuED22</key><doi>10.1109/SP46214.2022.9833757</doi><ee>https://doi.org/10.1109/SP46214.2022.9833757</ee><url>https://dblp.org/rec/conf/sp/WuED22</url></info>
+<url>URL#622163</url>
+</hit>
+<hit score="1" id="622164">
+<info><authors><author pid="16/5608">Jianliang Wu</author><author pid="40/5102">Ruoyu Wu</author><author pid="59/5539">Dongyan Xu</author><author pid="159/0537">Dave Jing Tian</author><author pid="99/3883">Antonio Bianchi</author></authors><title>Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2285-2303</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WuWXTB22</key><doi>10.1109/SP46214.2022.9833777</doi><ee>https://doi.org/10.1109/SP46214.2022.9833777</ee><url>https://dblp.org/rec/conf/sp/WuWXTB22</url></info>
+<url>URL#622164</url>
+</hit>
+<hit score="1" id="622165">
+<info><authors><author pid="209/9036">Hongyan Xia</author><author pid="205/8812">David Zhang</author><author pid="49/3283">Wei Liu</author><author pid="13/8190">István Haller</author><author pid="325/3394">Bruce Sherwin</author><author pid="85/1618">David Chisnall</author></authors><title>A Secret-Free Hypervisor: Rethinking Isolation in the Age of Speculative Vulnerabilities.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>370-385</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/XiaZLHSC22</key><doi>10.1109/SP46214.2022.9833726</doi><ee>https://doi.org/10.1109/SP46214.2022.9833726</ee><url>https://dblp.org/rec/conf/sp/XiaZLHSC22</url></info>
+<url>URL#622165</url>
+</hit>
+<hit score="1" id="622166">
+<info><authors><author pid="152/1633">Shangyu Xie</author><author pid="67/1771">Han Wang</author><author pid="55/3630">Yu Kong</author><author pid="79/5433">Yuan Hong</author></authors><title>Universal 3-Dimensional Perturbations for Black-Box Attacks on Video Recognition Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1390-1407</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/XieWKH22</key><doi>10.1109/SP46214.2022.9833776</doi><ee>https://doi.org/10.1109/SP46214.2022.9833776</ee><url>https://dblp.org/rec/conf/sp/XieWKH22</url></info>
+<url>URL#622166</url>
+</hit>
+<hit score="1" id="622167">
+<info><authors><author pid="72/51">Zhiqiang Xu</author><author pid="296/2087">Pengcheng Fang</author><author pid="186/0772">Changlin Liu</author><author pid="13/9656">Xusheng Xiao</author><author pid="58/3305">Yu Wen</author><author pid="01/2538">Dan Meng</author></authors><title>DEPCOMM: Graph Summarization on System Audit Logs for Attack Investigation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>540-557</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/XuFLXWM22</key><doi>10.1109/SP46214.2022.9833632</doi><ee>https://doi.org/10.1109/SP46214.2022.9833632</ee><url>https://dblp.org/rec/conf/sp/XuFLXWM22</url></info>
+<url>URL#622167</url>
+</hit>
+<hit score="1" id="622168">
+<info><authors><author pid="226/0784">Zhiju Yang</author><author pid="212/3694">Weiping Pei</author><author pid="34/3848">Monchu Chen</author><author pid="97/3316">Chuan Yue</author></authors><title>WTAGRAPH: Web Tracking and Advertising Detection using Graph Neural Networks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1540-1557</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/YangPCY22</key><doi>10.1109/SP46214.2022.9833670</doi><ee>https://doi.org/10.1109/SP46214.2022.9833670</ee><url>https://dblp.org/rec/conf/sp/YangPCY22</url></info>
+<url>URL#622168</url>
+</hit>
+<hit score="1" id="622169">
+<info><authors><author pid="90/5587">Zhi Yang</author><author pid="02/362">Zhanhui Yuan</author><author pid="04/4127">Shuyuan Jin</author><author pid="68/2735">Xingyuan Chen</author><author pid="02/2264">Lei Sun</author><author pid="23/7673">Xuehui Du</author><author pid="149/0648">Wenfa Li</author><author pid="15/693">Hongqi Zhang</author></authors><title>FSAFlow: Lightweight and Fast Dynamic Path Tracking and Control for Privacy Protection on Android Using Hybrid Analysis with State-Reduction Strategy.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>2114-2129</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/YangYJCSDLZ22</key><doi>10.1109/SP46214.2022.9833764</doi><ee>https://doi.org/10.1109/SP46214.2022.9833764</ee><url>https://dblp.org/rec/conf/sp/YangYJCSDLZ22</url></info>
+<url>URL#622169</url>
+</hit>
+<hit score="1" id="622170">
+<info><authors><author pid="213/2906">Jiawei Yin</author><author pid="179/5990">Menghao Li</author><author pid="95/6985">Wei Wu</author><author pid="63/10179">Dandan Sun</author><author pid="94/1856">Jianhua Zhou</author><author pid="24/679">Wei Huo</author><author pid="x/JinglingXue">Jingling Xue</author></authors><title>Finding SMM Privilege-Escalation Vulnerabilities in UEFI Firmware with Protocol-Centric Static Analysis.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1623-1637</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/YinLWSZHX22</key><doi>10.1109/SP46214.2022.9833723</doi><ee>https://doi.org/10.1109/SP46214.2022.9833723</ee><url>https://dblp.org/rec/conf/sp/YinLWSZHX22</url></info>
+<url>URL#622170</url>
+</hit>
+<hit score="1" id="622171">
+<info><authors><author pid="04/1346">Jun Zeng</author><author pid="31/2864-10">Xiang Wang 0010</author><author pid="173/5146">Jiahao Liu</author><author pid="137/9792">Yinfang Chen</author><author pid="99/4951">Zhenkai Liang</author><author pid="24/6606">Tat-Seng Chua</author><author pid="150/5333">Zheng Leong Chua</author></authors><title>SHADEWATCHER: Recommendation-guided Cyber Threat Analysis using System Audit Records.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>489-506</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZengWLCLCC22</key><doi>10.1109/SP46214.2022.9833669</doi><ee>https://doi.org/10.1109/SP46214.2022.9833669</ee><url>https://dblp.org/rec/conf/sp/ZengWLCLCC22</url></info>
+<url>URL#622171</url>
+</hit>
+<hit score="1" id="622173">
+<info><authors><author pid="195/9266">Zihao Zhan</author><author pid="117/0017">Zhenkai Zhang</author><author pid="230/7747">Sisheng Liang</author><author pid="139/7075">Fan Yao</author><author pid="11/5453">Xenofon D. Koutsoukos</author></authors><title>Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1440-1457</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhanZLYK22</key><doi>10.1109/SP46214.2022.9833773</doi><ee>https://doi.org/10.1109/SP46214.2022.9833773</ee><url>https://dblp.org/rec/conf/sp/ZhanZLYK22</url></info>
+<url>URL#622173</url>
+</hit>
+<hit score="1" id="622174">
+<info><authors><author pid="60/2536">Rui Zhang</author><author pid="35/295-12">Jian Liu 0012</author><author pid="94/489">Yuan Ding</author><author pid="31/5772-1">Zhibo Wang 0001</author><author pid="89/539">Qingbiao Wu</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>&quot;Adversarial Examples&quot; for Proof-of-Learning.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1408-1422</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhangLDWW022</key><doi>10.1109/SP46214.2022.9833596</doi><ee>https://doi.org/10.1109/SP46214.2022.9833596</ee><url>https://dblp.org/rec/conf/sp/ZhangLDWW022</url></info>
+<url>URL#622174</url>
+</hit>
+<hit score="1" id="622175">
+<info><authors><author pid="16/8397">Liang Feng Zhang</author><author pid="52/4513">Huaxiong Wang</author></authors><title>Multi-Server Verifiable Computation of Low-Degree Polynomials.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>596-613</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhangW22</key><doi>10.1109/SP46214.2022.9833792</doi><ee>https://doi.org/10.1109/SP46214.2022.9833792</ee><url>https://dblp.org/rec/conf/sp/ZhangW22</url></info>
+<url>URL#622175</url>
+</hit>
+<hit score="1" id="622176">
+<info><authors><author pid="258/4274-2">Shixuan Zhao 0002</author><author pid="157/4437">Mengyuan Li</author><author pid="77/3503">Yinqian Zhang</author><author pid="49/4102">Zhiqiang Lin</author></authors><title>vSGX: Virtualizing SGX Enclaves on AMD SEV.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>321-336</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhaoLZL22</key><doi>10.1109/SP46214.2022.9833694</doi><ee>https://doi.org/10.1109/SP46214.2022.9833694</ee><url>https://dblp.org/rec/conf/sp/ZhaoLZL22</url></info>
+<url>URL#622176</url>
+</hit>
+<hit score="1" id="622177">
+<info><authors><author pid="251/5365">Mingxun Zhou</author><author pid="145/3288-1">Tianhao Wang 0001</author><author pid="c/THHubertChan">T.-H. Hubert Chan</author><author pid="141/9910">Giulia Fanti</author><author pid="80/4580">Elaine Shi</author></authors><title>Locally Differentially Private Sparse Vector Aggregation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>422-439</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Zhou0CFS22</key><doi>10.1109/SP46214.2022.9833635</doi><ee>https://doi.org/10.1109/SP46214.2022.9833635</ee><url>https://dblp.org/rec/conf/sp/Zhou0CFS22</url></info>
+<url>URL#622177</url>
+</hit>
+<hit score="1" id="622178">
+<info><authors><author pid="72/5749">Lei Zhou</author><author pid="99/1702">Xuhua Ding</author><author pid="20/11242">Fengwei Zhang</author></authors><title>Smile: Secure Memory Introspection for Live Enclave.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>386-401</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhouDZ22</key><doi>10.1109/SP46214.2022.9833714</doi><ee>https://doi.org/10.1109/SP46214.2022.9833714</ee><url>https://dblp.org/rec/conf/sp/ZhouDZ22</url></info>
+<url>URL#622178</url>
+</hit>
+<hit score="1" id="639152">
+<info><title>43rd IEEE Symposium on Security and Privacy, SP 2022, San Francisco, CA, USA, May 22-26, 2022</title><venue>IEEE Symposium on Security and Privacy</venue><publisher>IEEE</publisher><year>2022</year><type>Editorship</type><key>conf/sp/2022</key><doi>10.1109/SP46214.2022</doi><ee>https://doi.org/10.1109/SP46214.2022</ee><url>https://dblp.org/rec/conf/sp/2022</url></info>
+<url>URL#639152</url>
+</hit>
+</hits>
+</result>

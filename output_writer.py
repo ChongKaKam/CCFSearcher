@@ -44,10 +44,6 @@ class markdown_writer(output_writer):
     def __init__(self, output_config: dict) -> None:
         super().__init__(output_config)
         self.counts = 0
-        # self.file.write('[toc]\n')
-        
-    # def write(self, result: list):
-    #     pass
 
     def write_single(self, record: dict):
         type = ''

@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="236582">:facetid:toc:\"db/journals/tmc/tmc19.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">198.91</time>
+<completions total="1" computed="1" sent="1">
+<c sc="203" dc="203" oc="203" id="41113743">:facetid:toc:db/journals/tmc/tmc19.bht</c>
+</completions>
+<hits total="203" computed="203" sent="203" first="0">
+<hit score="1" id="1353753">
+<info><authors><author pid="89/10875">Hamza Ijaz Abbasi</author><author pid="150/5686">Razvan Cristian Voicu</author><author pid="07/1962">John A. Copeland</author><author pid="96/3389">Yusun Chang</author></authors><title>Towards Fast and Reliable Multihop Routing in VANETs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2461-2474</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/AbbasiVCC20</key><doi>10.1109/TMC.2019.2923230</doi><ee>https://doi.org/10.1109/TMC.2019.2923230</ee><url>https://dblp.org/rec/journals/tmc/AbbasiVCC20</url></info>
+<url>URL#1353753</url>
+</hit>
+<hit score="1" id="1353754">
+<info><authors><author pid="236/3285">Rami Akrem Addad</author><author pid="00/2807">Miloud Bagaa</author><author pid="09/3053">Tarik Taleb</author><author pid="140/0864">Diego Leonel Cadette Dutra</author><author pid="24/6842">Hannu Flinck</author></authors><title>Optimization Model for Cross-Domain Network Slices in 5G Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1156-1169</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/AddadBTDF20</key><doi>10.1109/TMC.2019.2905599</doi><ee>https://doi.org/10.1109/TMC.2019.2905599</ee><url>https://dblp.org/rec/journals/tmc/AddadBTDF20</url></info>
+<url>URL#1353754</url>
+</hit>
+<hit score="1" id="1353755">
+<info><authors><author pid="208/2047">Ibrahim Afolabi</author><author pid="133/4986">Jonathan Prados-Garzon</author><author pid="00/2807">Miloud Bagaa</author><author pid="09/3053">Tarik Taleb</author><author pid="59/3015">Pablo Ameigeiras</author></authors><title>Dynamic Resource Provisioning of a Scalable E2E Network Slicing Orchestration System.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2594-2608</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/AfolabiPBTA20</key><doi>10.1109/TMC.2019.2930059</doi><ee>https://doi.org/10.1109/TMC.2019.2930059</ee><url>https://dblp.org/rec/journals/tmc/AfolabiPBTA20</url></info>
+<url>URL#1353755</url>
+</hit>
+<hit score="1" id="1353756">
+<info><authors><author pid="22/2131">Ala I. Al-Fuqaha</author><author pid="214/6650">Ihab Mohammed</author><author pid="210/3259">Sayed Jahed Hussini</author><author pid="98/1677">Sameh Sorour</author></authors><title>Severity-Based Prioritized Processing of Packets with Application in VANETs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>484-496</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/tmc/Al-FuqahaMHS20</key><doi>10.1109/TMC.2019.2892980</doi><ee>https://doi.org/10.1109/TMC.2019.2892980</ee><url>https://dblp.org/rec/journals/tmc/Al-FuqahaMHS20</url></info>
+<url>URL#1353756</url>
+</hit>
+<hit score="1" id="1353757">
+<info><authors><author pid="205/9458">Mohammed Shabbir Ali</author><author pid="48/5839">Pierre Coucheney</author><author pid="79/5633">Marceau Coupechoux</author></authors><title>Distributed Learning in Noisy-Potential Games for Resource Allocation in D2D Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2761-2773</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/AliCC20</key><doi>10.1109/TMC.2019.2936345</doi><ee>https://doi.org/10.1109/TMC.2019.2936345</ee><url>https://dblp.org/rec/journals/tmc/AliCC20</url></info>
+<url>URL#1353757</url>
+</hit>
+<hit score="1" id="1353758">
+<info><authors><author pid="127/6738">Ahmad Alsharoa</author><author pid="120/8873">Hakim Ghazzai</author><author pid="25/10126">Abdullah Kadri</author><author pid="94/5698">Ahmed E. Kamal 0001</author></authors><title>Spatial and Temporal Management of Cellular HetNets with Multiple Solar Powered Drones.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>954-968</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/AlsharoaGKK20</key><doi>10.1109/TMC.2019.2901677</doi><ee>https://doi.org/10.1109/TMC.2019.2901677</ee><url>https://dblp.org/rec/journals/tmc/AlsharoaGKK20</url></info>
+<url>URL#1353758</url>
+</hit>
+<hit score="1" id="1353759">
+<info><authors><author pid="202/9835">Edgar Arribas</author><author pid="f/AntonioFernandezAnta">Antonio Fernández Anta</author><author pid="43/6109">Dariusz R. Kowalski</author><author pid="46/1660">Vincenzo Mancuso</author><author pid="24/725">Miguel A. Mosteiro</author><author pid="07/3803">Joerg Widmer</author><author pid="w/PrudenceWHWong">Prudence W. H. Wong</author></authors><title>Optimizing mmWave Wireless Backhaul Scheduling.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2409-2428</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ArribasAKMMWW20</key><doi>10.1109/TMC.2019.2924884</doi><ee>https://doi.org/10.1109/TMC.2019.2924884</ee><url>https://dblp.org/rec/journals/tmc/ArribasAKMMWW20</url></info>
+<url>URL#1353759</url>
+</hit>
+<hit score="1" id="1353760">
+<info><authors><author pid="202/9835">Edgar Arribas</author><author pid="46/1660">Vincenzo Mancuso</author><author pid="c/VicentCholvi">Vicent Cholvi</author></authors><title>Coverage Optimization with a Dynamic Network of Drone Relays.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2278-2298</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ArribasMC20</key><doi>10.1109/TMC.2019.2927335</doi><ee>https://doi.org/10.1109/TMC.2019.2927335</ee><url>https://dblp.org/rec/journals/tmc/ArribasMC20</url></info>
+<url>URL#1353760</url>
+</hit>
+<hit score="1" id="1353761">
+<info><authors><author pid="171/2295">Masoud Asghari</author><author pid="19/5710">Saleh Yousefi</author><author pid="76/440">Dusit Niyato</author></authors><title>An Analysis of Service Bundles of Mobile Network Operators with Free Services Included.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1789-1803</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/AsghariYN20</key><doi>10.1109/TMC.2019.2914683</doi><ee>https://doi.org/10.1109/TMC.2019.2914683</ee><url>https://dblp.org/rec/journals/tmc/AsghariYN20</url></info>
+<url>URL#1353761</url>
+</hit>
+<hit score="1" id="1353762">
+<info><authors><author pid="221/0332">Arman Azizi</author><author pid="39/8863">Saeedeh Parsaeefard</author><author pid="43/8208">Mohammad Reza Javan</author><author pid="31/8209">Nader Mokari</author><author pid="30/1545">Halim Yanikomeroglu</author></authors><title>Profit Maximization in 5G+ Networks with Heterogeneous Aerial and Ground Base Stations.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2445-2460</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/AziziPJMY20</key><doi>10.1109/TMC.2019.2926713</doi><ee>https://doi.org/10.1109/TMC.2019.2926713</ee><url>https://dblp.org/rec/journals/tmc/AziziPJMY20</url></info>
+<url>URL#1353762</url>
+</hit>
+<hit score="1" id="1353763">
+<info><authors><author pid="47/47">Fulvio Babich</author><author pid="20/4194">Massimiliano Comisso</author><author pid="194/6969">Alessandro Cuttin</author><author pid="13/4788">Mario Marchese</author><author pid="161/5386">Fabio Patrone</author></authors><title>Nanosatellite-5G Integration in the Millimeter Wave Domain: A Full Top-Down Approach.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>390-404</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/BabichCCMP20</key><doi>10.1109/TMC.2019.2897091</doi><ee>https://doi.org/10.1109/TMC.2019.2897091</ee><url>https://dblp.org/rec/journals/tmc/BabichCCMP20</url></info>
+<url>URL#1353763</url>
+</hit>
+<hit score="1" id="1353764">
+<info><authors><author pid="200/8914">Sergio Barrachina-Muñoz</author><author pid="200/8927">Francesc Wilhelmi</author><author pid="35/6267">Boris Bellalta</author></authors><title>Dynamic Channel Bonding in Spatially Distributed High-Density WLANs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>821-835</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/Barrachina-Munoz20</key><doi>10.1109/TMC.2019.2899835</doi><ee>https://doi.org/10.1109/TMC.2019.2899835</ee><url>https://dblp.org/rec/journals/tmc/Barrachina-Munoz20</url></info>
+<url>URL#1353764</url>
+</hit>
+<hit score="1" id="1353765">
+<info><authors><author pid="199/1798">Dario Bega</author><author pid="25/10042">Marco Gramaglia</author><author pid="b/AlbertBanchs">Albert Banchs</author><author pid="132/7802">Vincenzo Sciancalepore</author><author pid="42/2579">Xavier Costa-Pérez</author></authors><title>A Machine Learning Approach to 5G Infrastructure Market Optimization.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>498-512</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/BegaGBSC20</key><doi>10.1109/TMC.2019.2896950</doi><ee>https://doi.org/10.1109/TMC.2019.2896950</ee><url>https://dblp.org/rec/journals/tmc/BegaGBSC20</url></info>
+<url>URL#1353765</url>
+</hit>
+<hit score="1" id="1353766">
+<info><authors><author pid="162/2372">Ravi Bhandari</author><author pid="61/601">Bhaskaran Raman</author><author pid="p/VenkataNPadmanabhan">Venkata N. Padmanabhan</author></authors><title>FullStop: A Camera-Assisted System for Characterizing Unsafe Bus Stopping.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2116-2128</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/BhandariRP20</key><doi>10.1109/TMC.2019.2921373</doi><ee>https://doi.org/10.1109/TMC.2019.2921373</ee><url>https://dblp.org/rec/journals/tmc/BhandariRP20</url></info>
+<url>URL#1353766</url>
+</hit>
+<hit score="1" id="1353767">
+<info><authors><author pid="13/10522">Shameek Bhattacharjee</author><author pid="55/7987">Nirnay Ghosh</author><author pid="169/4702">Vijay K. Shah</author><author pid="d/SajalKDas">Sajal K. Das 0001</author></authors><title>QnQ: Quality and Quantity Based Unified Approach for Secure and Trustworthy Mobile Crowdsensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>200-216</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/BhattacharjeeGS20</key><doi>10.1109/TMC.2018.2889458</doi><ee>https://doi.org/10.1109/TMC.2018.2889458</ee><url>https://dblp.org/rec/journals/tmc/BhattacharjeeGS20</url></info>
+<url>URL#1353767</url>
+</hit>
+<hit score="1" id="1353768">
+<info><authors><author pid="147/1331">Chongguang Bi</author><author pid="63/4542">Guoliang Xing</author><author pid="49/4117">Tian Hao</author><author pid="39/1730">Jina Huh-Yoo</author><author pid="16/5560-2">Wei Peng 0002</author><author pid="199/6878">Mengyan Ma</author><author pid="09/8330">Xiangmao Chang</author></authors><title>FamilyLog: Monitoring Family Mealtime Activities by Mobile Devices.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1818-1830</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/BiXHHPMC20</key><doi>10.1109/TMC.2019.2916357</doi><ee>https://doi.org/10.1109/TMC.2019.2916357</ee><url>https://dblp.org/rec/journals/tmc/BiXHHPMC20</url></info>
+<url>URL#1353768</url>
+</hit>
+<hit score="1" id="1353769">
+<info><authors><author pid="55/5979">Faycal Bouhafs</author><author pid="70/8379">Mirghiasaldin Seyedebrahimi</author><author pid="27/7304">Alessandro Raschellà</author><author pid="22/3732-1">Michael Mackay 0001</author><author pid="05/4613-1">Qi Shi 0001</author></authors><title>Per-Flow Radio Resource Management to Mitigate Interference in Dense IEEE 802.11 Wireless LANs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1170-1183</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/tmc/BouhafsSRMS20</key><doi>10.1109/TMC.2019.2903465</doi><ee>https://doi.org/10.1109/TMC.2019.2903465</ee><url>https://dblp.org/rec/journals/tmc/BouhafsSRMS20</url></info>
+<url>URL#1353769</url>
+</hit>
+<hit score="1" id="1353770">
+<info><authors><author pid="141/5685">Marco Brocanelli</author><author pid="18/5637">Xiaorui Wang</author></authors><title>Supervisory Performance Control of Concurrent Mobile Apps for Energy Efficiency.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>740-751</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/BrocanelliW20</key><doi>10.1109/TMC.2019.2897930</doi><ee>https://doi.org/10.1109/TMC.2019.2897930</ee><url>https://dblp.org/rec/journals/tmc/BrocanelliW20</url></info>
+<url>URL#1353770</url>
+</hit>
+<hit score="1" id="1353771">
+<info><authors><author pid="192/1757">Arne Brüsch</author><author pid="192/1794">Ngu Nguyen 0001</author><author pid="31/11426">Dominik Schürmann</author><author pid="82/5155">Stephan Sigg</author><author pid="w/LarsCWolf">Lars C. Wolf</author></authors><title>Security Properties of Gait for Mobile Device Pairing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>697-710</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/BruschNSSW20</key><doi>10.1109/TMC.2019.2897933</doi><ee>https://doi.org/10.1109/TMC.2019.2897933</ee><url>https://dblp.org/rec/journals/tmc/BruschNSSW20</url></info>
+<url>URL#1353771</url>
+</hit>
+<hit score="1" id="1353772">
+<info><authors><author pid="17/1169-2">Bin Cao 0002</author><author pid="193/0846">Shichao Xia</author><author pid="254/9786">Jiawei Han 0005</author><author pid="87/6284-1">Yun Li 0001</author></authors><title>A Distributed Game Methodology for Crowdsensing in Uncertain Wireless Scenario.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>15-28</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/CaoXHL20</key><doi>10.1109/TMC.2019.2892953</doi><ee>https://doi.org/10.1109/TMC.2019.2892953</ee><url>https://dblp.org/rec/journals/tmc/CaoXHL20</url></info>
+<url>URL#1353772</url>
+</hit>
+<hit score="1" id="1353773">
+<info><authors><author pid="217/5558">Hancheng Cao</author><author pid="169/8818">Fengli Xu</author><author pid="57/2958">Jagan Sankaranarayanan</author><author pid="93/2334-8">Yong Li 0008</author><author pid="s/HananSamet">Hanan Samet</author></authors><title>Habit2vec: Trajectory Semantic Embedding for Living Pattern Recognition in Population.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1096-1108</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/CaoXSLS20</key><doi>10.1109/TMC.2019.2902403</doi><ee>https://doi.org/10.1109/TMC.2019.2902403</ee><url>https://dblp.org/rec/journals/tmc/CaoXSLS20</url></info>
+<url>URL#1353773</url>
+</hit>
+<hit score="1" id="1353774">
+<info><authors><author pid="139/7475">Giuseppe Caso</author><author pid="70/2506">Luca De Nardis</author><author pid="159/2662">Filip Lemic</author><author pid="42/2058">Vlado Handziski</author><author pid="w/AdamWolisz">Adam Wolisz</author><author pid="64/6193">Maria-Gabriella Di Benedetto</author></authors><title>ViFi: Virtual Fingerprinting WiFi-Based Indoor Positioning via Multi-Wall Multi-Floor Propagation Model.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1478-1491</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/CasoNLHWB20</key><doi>10.1109/TMC.2019.2908865</doi><ee>https://doi.org/10.1109/TMC.2019.2908865</ee><url>https://dblp.org/rec/journals/tmc/CasoNLHWB20</url></info>
+<url>URL#1353774</url>
+</hit>
+<hit score="1" id="1353775">
+<info><authors><author pid="97/1256">Shan Chang</author><author pid="66/190">Chao Li</author><author pid="29/5901">Hongzi Zhu</author><author pid="87/3677">Hang Chen</author></authors><title>Adaptive and Blind Regression for Mobile Crowd Sensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2533-2547</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChangLZC20</key><doi>10.1109/TMC.2019.2931341</doi><ee>https://doi.org/10.1109/TMC.2019.2931341</ee><url>https://dblp.org/rec/journals/tmc/ChangLZC20</url></info>
+<url>URL#1353775</url>
+</hit>
+<hit score="1" id="1353776">
+<info><authors><author pid="54/2780-1">Zheng Chang 0001</author><author pid="80/3482-4">Di Zhang 0004</author><author pid="h/TimoHamalainen2">Timo Hämäläinen 0002</author><author pid="83/514">Zhu Han 0001</author><author pid="71/1177">Tapani Ristaniemi</author></authors><title>Incentive Mechanism for Resource Allocation in Wireless Virtualized Networks with Multiple Infrastructure Providers.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>103-115</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChangZHHR20</key><doi>10.1109/TMC.2018.2889046</doi><ee>https://doi.org/10.1109/TMC.2018.2889046</ee><url>https://dblp.org/rec/journals/tmc/ChangZHHR20</url></info>
+<url>URL#1353776</url>
+</hit>
+<hit score="1" id="1353777">
+<info><authors><author pid="135/6249">Dimitris Chatzopoulos</author><author pid="172/5446">Carlos Bermejo</author><author pid="21/9006">Sokol Kosta</author><author pid="62/1272-1">Pan Hui 0001</author></authors><title>Offloading Computations to Mobile Devices and Cloudlets via an Upgraded NFC Communication Protocol.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>640-653</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChatzopoulosBKH20</key><doi>10.1109/TMC.2019.2899093</doi><ee>https://doi.org/10.1109/TMC.2019.2899093</ee><url>https://dblp.org/rec/journals/tmc/ChatzopoulosBKH20</url></info>
+<url>URL#1353777</url>
+</hit>
+<hit score="1" id="1353778">
+<info><authors><author pid="40/3858-3">Quan Chen 0003</author><author pid="32/1438-1">Hong Gao 0001</author><author pid="58/1879">Lianglun Cheng</author><author pid="22/393">Yingshu Li</author></authors><title>Label Coloring Based Beaconing Schedule in Duty-Cycled Multihop Wireless Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1123-1137</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChenGCL20</key><doi>10.1109/TMC.2019.2907956</doi><ee>https://doi.org/10.1109/TMC.2019.2907956</ee><url>https://dblp.org/rec/journals/tmc/ChenGCL20</url></info>
+<url>URL#1353778</url>
+</hit>
+<hit score="1" id="1353779">
+<info><authors><author pid="136/2177">Wenqiang Chen</author><author pid="203/9302">Maoning Guan</author><author pid="222/5431">Yandao Huang</author><author pid="49/3800-2">Lu Wang 0002</author><author pid="33/1726">Rukhsana Ruby</author><author pid="01/6410">Wen Hu</author><author pid="34/4445">Kaishun Wu</author></authors><title>A Low Latency On-Body Typing System through Single Vibration Sensor.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2520-2532</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChenGHWRHW20</key><doi>10.1109/TMC.2019.2928549</doi><ee>https://doi.org/10.1109/TMC.2019.2928549</ee><url>https://dblp.org/rec/journals/tmc/ChenGHWRHW20</url></info>
+<url>URL#1353779</url>
+</hit>
+<hit score="1" id="1353780">
+<info><authors><author pid="184/6141">Yueyue Chen</author><author pid="74/6501">Deke Guo</author><author pid="43/3362-2">Ming Xu 0002</author><author pid="15/9707">Guoming Tang</author><author pid="147/1609">Tongqing Zhou</author><author pid="187/6963">Bangbang Ren</author></authors><title>PPtaxi: Non-Stop Package Delivery via Multi-Hop Ridesharing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2684-2698</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChenGXTZR20</key><doi>10.1109/TMC.2019.2928808</doi><ee>https://doi.org/10.1109/TMC.2019.2928808</ee><url>https://dblp.org/rec/journals/tmc/ChenGXTZR20</url></info>
+<url>URL#1353780</url>
+</hit>
+<hit score="1" id="1353781">
+<info><authors><author pid="243/3566">Ruirong Chen</author><author pid="155/8104">Haoyang Lu</author><author pid="28/2073-6">Wei Gao 0006</author></authors><title>Minimizing Wireless Delay with a High-Throughput Side Channel.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1634-1648</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChenLG20</key><doi>10.1109/TMC.2019.2914048</doi><ee>https://doi.org/10.1109/TMC.2019.2914048</ee><url>https://dblp.org/rec/journals/tmc/ChenLG20</url></info>
+<url>URL#1353781</url>
+</hit>
+<hit score="1" id="1353782">
+<info><authors><author pid="50/10586">Yanjiao Chen</author><author pid="73/4419">Long Lin</author><author pid="l/BaochunLi">Baochun Li</author></authors><title>Razor: Scaling Backend Capacity for Mobile Applications.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1702-1714</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChenLL20</key><doi>10.1109/TMC.2019.2911935</doi><ee>https://doi.org/10.1109/TMC.2019.2911935</ee><url>https://dblp.org/rec/journals/tmc/ChenLL20</url></info>
+<url>URL#1353782</url>
+</hit>
+<hit score="1" id="1353783">
+<info><authors><author pid="88/2827-7">Yan Chen 0007</author><author pid="30/6911">Xiang Su</author><author pid="43/4685-6">Yang Hu 0006</author><author pid="26/3636">Bing Zeng</author></authors><title>Residual Carrier Frequency Offset Estimation and Compensation for Commodity WiFi.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2891-2902</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChenSHZ20</key><doi>10.1109/TMC.2019.2934106</doi><ee>https://doi.org/10.1109/TMC.2019.2934106</ee><url>https://dblp.org/rec/journals/tmc/ChenSHZ20</url></info>
+<url>URL#1353783</url>
+</hit>
+<hit score="1" id="1353784">
+<info><authors><author pid="63/4074">Yushi Cheng</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="05/10437">Tianyang Lu</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>On Detecting Hidden Wireless Cameras: A Traffic Pattern-based Approach.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>907-921</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChengJLX20</key><doi>10.1109/TMC.2019.2900919</doi><ee>https://doi.org/10.1109/TMC.2019.2900919</ee><url>https://dblp.org/rec/journals/tmc/ChengJLX20</url></info>
+<url>URL#1353784</url>
+</hit>
+<hit score="1" id="1353785">
+<info><authors><author pid="58/7703">Qingqing Cheng</author><author pid="95/10112">Diep N. Nguyen</author><author pid="71/2764">Eryk Dutkiewicz</author><author pid="20/5447">Markus Mueck</author></authors><title>Preserving Honest/Dishonest Users&apos; Operational Privacy with Blind Interference Calculation in Spectrum Sharing System.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2874-2890</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ChengNDM20</key><doi>10.1109/TMC.2019.2936377</doi><ee>https://doi.org/10.1109/TMC.2019.2936377</ee><url>https://dblp.org/rec/journals/tmc/ChengNDM20</url></info>
+<url>URL#1353785</url>
+</hit>
+<hit score="1" id="1353786">
+<info><authors><author pid="23/7643">Gianpiero Costantino</author><author pid="72/10957">Rajib Ranjan Maiti</author><author pid="m/FMartinelli">Fabio Martinelli</author><author pid="43/1361">Paolo Santi</author></authors><title>LoSeRO: A Locality Sensitive Routing Protocol in Opportunistic Networks with Contact Profiles.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2392-2408</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/CostantinoMMS20</key><doi>10.1109/TMC.2019.2923224</doi><ee>https://doi.org/10.1109/TMC.2019.2923224</ee><url>https://dblp.org/rec/journals/tmc/CostantinoMMS20</url></info>
+<url>URL#1353786</url>
+</hit>
+<hit score="1" id="1353787">
+<info><authors><author pid="124/6911">Haipeng Dai</author><author pid="229/8840">Qiufang Ma</author><author pid="68/2855">Xiaobing Wu</author><author pid="51/1742">Guihai Chen</author><author pid="47/5905">David K. Y. Yau</author><author pid="68/3428">Shaojie Tang</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="94/1247-1">Chen Tian 0001</author></authors><title>CHASE: Charging and Scheduling Scheme for Stochastic Event Capture in Wireless Rechargeable Sensor Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>44-59</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/DaiMWCYTLT20</key><doi>10.1109/TMC.2018.2887381</doi><ee>https://doi.org/10.1109/TMC.2018.2887381</ee><url>https://dblp.org/rec/journals/tmc/DaiMWCYTLT20</url></info>
+<url>URL#1353787</url>
+</hit>
+<hit score="1" id="1353788">
+<info><authors><author pid="161/2796">Saandeep Depatla</author><author pid="73/3144">Yasamin Mostofi</author></authors><title>Passive Crowd Speed Estimation in Adjacent Regions With Minimal WiFi Sensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2429-2444</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/DepatlaM20</key><doi>10.1109/TMC.2019.2924629</doi><ee>https://doi.org/10.1109/TMC.2019.2924629</ee><url>https://dblp.org/rec/journals/tmc/DepatlaM20</url></info>
+<url>URL#1353788</url>
+</hit>
+<hit score="1" id="1353789">
+<info><authors><author pid="155/7567">Luis Díez 0002</author><author pid="41/8398">Andres Garcia-Saavedra</author><author pid="57/11470">Víctor Valls</author><author pid="46/2311-2">Xi Li 0002</author><author pid="42/2579">Xavier Pérez Costa</author><author pid="37/4410">Ramón Agüero</author></authors><title>LaSR: A Supple Multi-Connectivity Scheduler for Multi-RAT OFDMA Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>624-639</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/DiezGVLCA20</key><doi>10.1109/TMC.2018.2876847</doi><ee>https://doi.org/10.1109/TMC.2018.2876847</ee><url>https://dblp.org/rec/journals/tmc/DiezGVLCA20</url></info>
+<url>URL#1353789</url>
+</hit>
+<hit score="1" id="1353790">
+<info><authors><author pid="81/1475">Jun Du</author><author pid="g/ErolGelenbe">Erol Gelenbe</author><author pid="00/8334">Chunxiao Jiang</author><author pid="83/514">Zhu Han 0001</author><author pid="00/440-1">Yong Ren 0001</author></authors><title>Auction-Based Data Transaction in Mobile Networks: Data Allocation Design and Performance Analysis.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1040-1055</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/DuGJHR20</key><doi>10.1109/TMC.2019.2903178</doi><ee>https://doi.org/10.1109/TMC.2019.2903178</ee><url>https://dblp.org/rec/journals/tmc/DuGJHR20</url></info>
+<url>URL#1353790</url>
+</hit>
+<hit score="1" id="1353791">
+<info><authors><author pid="190/7278">Anis Elgabli</author><author pid="32/2948-4">Ke Liu 0004</author><author pid="91/6560">Vaneet Aggarwal</author></authors><title>Optimized Preference-Aware Multi-Path Video Streaming with Scalable Video Coding.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>159-172</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ElgabliLA20</key><doi>10.1109/TMC.2018.2889039</doi><ee>https://doi.org/10.1109/TMC.2018.2889039</ee><url>https://dblp.org/rec/journals/tmc/ElgabliLA20</url></info>
+<url>URL#1353791</url>
+</hit>
+<hit score="1" id="1353792">
+<info><authors><author pid="58/5556">Karim O. Elish</author><author pid="117/7062">Haipeng Cai</author><author pid="254/9949">Daniel Barton</author><author pid="y/DanfengYao">Danfeng Yao</author><author pid="r/BarbaraGRyder">Barbara G. Ryder</author></authors><title>Identifying Mobile Inter-App Communication Risks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>90-102</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ElishCBYR20</key><doi>10.1109/TMC.2018.2889495</doi><ee>https://doi.org/10.1109/TMC.2018.2889495</ee><url>https://dblp.org/rec/journals/tmc/ElishCBYR20</url></info>
+<url>URL#1353792</url>
+</hit>
+<hit score="1" id="1353793">
+<info><authors><author pid="215/6377">Eric Mayeul O. Fafolahan</author><author pid="50/1610">Samuel Pierre</author></authors><title>A Seamless Mobility Management Protocol in 5G Locator Identificator Split Dense Small Cells.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1745-1759</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/FafolahanP20</key><doi>10.1109/TMC.2019.2915071</doi><ee>https://doi.org/10.1109/TMC.2019.2915071</ee><url>https://dblp.org/rec/journals/tmc/FafolahanP20</url></info>
+<url>URL#1353793</url>
+</hit>
+<hit score="1" id="1353794">
+<info><authors><author pid="09/7748">Xinggang Fan</author><author pid="260/4553">Fengdan Hu</author><author pid="43/656">Tao Liu</author><author pid="59/6506">Kaikai Chi</author><author pid="75/7554">Jinshan Xu</author></authors><title>Cost Effective Directional Barrier Construction Based on Zooming and United Probabilistic Detection.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1555-1569</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/FanHLCX20</key><doi>10.1109/TMC.2019.2912749</doi><ee>https://doi.org/10.1109/TMC.2019.2912749</ee><url>https://dblp.org/rec/journals/tmc/FanHLCX20</url></info>
+<url>URL#1353794</url>
+</hit>
+<hit score="1" id="1353795">
+<info><authors><author pid="79/6534">Bing Feng</author><author pid="91/195-1">Chi Zhang 0001</author><author pid="59/3415">Jianqing Liu</author><author pid="f/YuguangFang">Yuguang Fang</author></authors><title>Turning Waste into Wealth: Free Control Message Transmissions in Indoor WiFi Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2475-2488</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/FengZLF20</key><doi>10.1109/TMC.2019.2924000</doi><ee>https://doi.org/10.1109/TMC.2019.2924000</ee><url>https://dblp.org/rec/journals/tmc/FengZLF20</url></info>
+<url>URL#1353795</url>
+</hit>
+<hit score="1" id="1353796">
+<info><authors><author pid="119/9075">Colin Funai</author><author pid="79/9370">Cristiano Tapparello</author><author pid="h/WendiRabinerHeinzelman">Wendi B. Heinzelman</author></authors><title>Computational Offloading for Energy Constrained Devices in Multi-Hop Cooperative Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>60-73</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/FunaiTH20</key><doi>10.1109/TMC.2019.2892100</doi><ee>https://doi.org/10.1109/TMC.2019.2892100</ee><url>https://dblp.org/rec/journals/tmc/FunaiTH20</url></info>
+<url>URL#1353796</url>
+</hit>
+<hit score="1" id="1353797">
+<info><authors><author pid="13/29">Xiaoying Gan</author><author pid="214/6089">Zesen Zhang</author><author pid="44/7207">Luoyi Fu</author><author pid="47/6768">Xudong Wu</author><author pid="96/1149">Xinbing Wang</author></authors><title>Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>982-996</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/GanZFWW20</key><doi>10.1109/TMC.2019.2901478</doi><ee>https://doi.org/10.1109/TMC.2019.2901478</ee><url>https://dblp.org/rec/journals/tmc/GanZFWW20</url></info>
+<url>URL#1353797</url>
+</hit>
+<hit score="1" id="1353798">
+<info><authors><author pid="95/6947-1">Xiaofeng Gao 0001</author><author pid="165/8194">Zhiyin Chen</author><author pid="p/JianpingPan">Jianping Pan 0001</author><author pid="07/6378-6">Fan Wu 0006</author><author pid="51/1742">Guihai Chen</author></authors><title>Energy Efficient Scheduling Algorithms for Sweep Coverage in Mobile Sensor Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1332-1345</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/GaoCPWC20</key><doi>10.1109/TMC.2019.2910074</doi><ee>https://doi.org/10.1109/TMC.2019.2910074</ee><url>https://dblp.org/rec/journals/tmc/GaoCPWC20</url></info>
+<url>URL#1353798</url>
+</hit>
+<hit score="1" id="1353799">
+<info><authors><author pid="26/9346">Wanxin Gao</author><author pid="90/1785">Ioanis Nikolaidis</author><author pid="53/6028">Janelle J. Harms</author></authors><title>On the Interaction of Charging-Aware Mobility and Wireless Capacity.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>654-663</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/GaoNH20</key><doi>10.1109/TMC.2019.2901671</doi><ee>https://doi.org/10.1109/TMC.2019.2901671</ee><url>https://dblp.org/rec/journals/tmc/GaoNH20</url></info>
+<url>URL#1353799</url>
+</hit>
+<hit score="1" id="1353800">
+<info><authors><author pid="176/3939">Margarita Gapeyenko</author><author pid="27/9954">Andrey Samuylov</author><author pid="117/9028">Mikhail Gerasimenko</author><author pid="50/5725">Dmitri Moltchanov</author><author pid="25/7912">Sarabjot Singh</author><author pid="117/3696">Mustafa Riza Akdeniz</author><author pid="52/5398">Ehsan Aryafar</author><author pid="66/6334">Sergey Andreev 0001</author><author pid="20/4102">Nageen Himayat</author><author pid="10/5061">Yevgeni Koucheryavy</author></authors><title>Spatially-Consistent Human Body Blockage Modeling: A State Generation Procedure.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2221-2233</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/GapeyenkoSGMSAA20</key><doi>10.1109/TMC.2019.2918318</doi><ee>https://doi.org/10.1109/TMC.2019.2918318</ee><url>https://dblp.org/rec/journals/tmc/GapeyenkoSGMSAA20</url></info>
+<url>URL#1353800</url>
+</hit>
+<hit score="1" id="1353801">
+<info><authors><author pid="166/9438">Seyed Ehsan Ghoreishi</author><author pid="43/10726">Dmytro Karamshuk</author><author pid="06/2784">Vasilis Friderikos</author><author pid="12/6462">Nishanth Sastry</author><author pid="31/2788">Mischa Dohler</author><author pid="a/AHAghvami">A. Hamid Aghvami</author></authors><title>A Cost-Driven Approach to Caching-as-a-Service in Cloud-Based 5G Mobile Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>997-1009</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/GhoreishiKFSDA20</key><doi>10.1109/TMC.2019.2904061</doi><ee>https://doi.org/10.1109/TMC.2019.2904061</ee><url>https://dblp.org/rec/journals/tmc/GhoreishiKFSDA20</url></info>
+<url>URL#1353801</url>
+</hit>
+<hit score="1" id="1353802">
+<info><authors><author pid="57/3830">Pradipta Ghosh</author><author pid="137/3356">Jason A. Tran</author><author pid="87/2250">Bhaskar Krishnamachari</author></authors><title>ARREST: A RSSI Based Approach for Mobile Sensing and Tracking of a Moving Object.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1260-1273</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/GhoshTK20</key><doi>10.1109/TMC.2019.2909020</doi><ee>https://doi.org/10.1109/TMC.2019.2909020</ee><url>https://dblp.org/rec/journals/tmc/GhoshTK20</url></info>
+<url>URL#1353802</url>
+</hit>
+<hit score="1" id="1353803">
+<info><authors><author pid="162/2264">Suiming Guo</author><author pid="66/3019-4">Chao Chen 0004</author><author pid="75/5135">Jingyuan Wang</author><author pid="139/2249">Yaxiao Liu</author><author pid="181/2626-2">Ke Xu 0002</author><author pid="z/YuZhiwen">Zhiwen Yu 0001</author><author pid="83/1359-1">Daqing Zhang 0001</author><author pid="24/4603">Dah Ming Chiu</author></authors><title>ROD-Revenue: Seeking Strategies Analysis and Revenue Prediction in Ride-on-Demand Service Using Multi-Source Urban Data.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2202-2220</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/GuoCWLXYZC20</key><doi>10.1109/TMC.2019.2921959</doi><ee>https://doi.org/10.1109/TMC.2019.2921959</ee><url>https://dblp.org/rec/journals/tmc/GuoCWLXYZC20</url></info>
+<url>URL#1353803</url>
+</hit>
+<hit score="1" id="1353804">
+<info><authors><author pid="32/4821">Guangjie Han</author><author pid="31/7325">Xiaohan Long</author><author pid="14/1654">Chuan Zhu</author><author pid="15/1123">Mohsen Guizani</author><author pid="31/966-1">Wenbo Zhang 0001</author></authors><title>A High-Availability Data Collection Scheme based on Multi-AUVs for Underwater Sensor Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1010-1022</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HanLZGZ20</key><doi>10.1109/TMC.2019.2907854</doi><ee>https://doi.org/10.1109/TMC.2019.2907854</ee><url>https://dblp.org/rec/journals/tmc/HanLZGZ20</url></info>
+<url>URL#1353804</url>
+</hit>
+<hit score="1" id="1353805">
+<info><authors><author pid="257/5577">Arvin Hekmati</author><author pid="257/5549">Peyvand Teymoori</author><author pid="10/3355">Terence D. Todd</author><author pid="04/4784">Dongmei Zhao</author><author pid="69/6756">George Karakostas</author></authors><title>Optimal Mobile Computation Offloading with Hard Deadline Constraints.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2160-2173</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HekmatiTTZK20</key><doi>10.1109/TMC.2019.2920819</doi><ee>https://doi.org/10.1109/TMC.2019.2920819</ee><url>https://dblp.org/rec/journals/tmc/HekmatiTTZK20</url></info>
+<url>URL#1353805</url>
+</hit>
+<hit score="1" id="1353806">
+<info><authors><author pid="157/9131">Peter Hillyard</author><author pid="45/3974">Neal Patwari</author></authors><title>Never Use Labels: Signal Strength-Based Bayesian Device-Free Localization in Changing Environments.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>894-906</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HillyardP20</key><doi>10.1109/TMC.2019.2901782</doi><ee>https://doi.org/10.1109/TMC.2019.2901782</ee><url>https://dblp.org/rec/journals/tmc/HillyardP20</url></info>
+<url>URL#1353806</url>
+</hit>
+<hit score="1" id="1353807">
+<info><authors><author pid="91/3460-1">Yu-Pin Hsu 0001</author><author pid="m/EytanModiano">Eytan H. Modiano</author><author pid="65/7661">Lingjie Duan</author></authors><title>Scheduling Algorithms for Minimizing Age of Information in Wireless Broadcast Networks with Random Arrivals.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2903-2915</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HsuMD20</key><doi>10.1109/TMC.2019.2936199</doi><ee>https://doi.org/10.1109/TMC.2019.2936199</ee><url>https://dblp.org/rec/journals/tmc/HsuMD20</url></info>
+<url>URL#1353807</url>
+</hit>
+<hit score="1" id="1353808">
+<info><authors><author pid="71/9969">Pengfei Hu</author><author pid="62/8333">Parth H. Pathak</author><author pid="170/2509">Huanle Zhang</author><author pid="21/10358">Zhicheng Yang</author><author pid="m/PrasantMohapatra">Prasant Mohapatra</author></authors><title>High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1603-1617</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HuPZYM20</key><doi>10.1109/TMC.2019.2913832</doi><ee>https://doi.org/10.1109/TMC.2019.2913832</ee><url>https://dblp.org/rec/journals/tmc/HuPZYM20</url></info>
+<url>URL#1353808</url>
+</hit>
+<hit score="1" id="1353809">
+<info><authors><author pid="79/7077">Longbo Huang</author></authors><title>Fast-Convergent Learning-Aided Control in Energy Harvesting Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2793-2803</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/Huang20</key><doi>10.1109/TMC.2019.2936344</doi><ee>https://doi.org/10.1109/TMC.2019.2936344</ee><url>https://dblp.org/rec/journals/tmc/Huang20</url></info>
+<url>URL#1353809</url>
+</hit>
+<hit score="1" id="1353810">
+<info><authors><author pid="03/5847-6">Liang Huang 0006</author><author pid="79/8966">Suzhi Bi</author><author pid="80/3143">Ying-Jun Angela Zhang</author></authors><title>Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2581-2593</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HuangBZ20</key><doi>10.1109/TMC.2019.2928811</doi><ee>https://doi.org/10.1109/TMC.2019.2928811</ee><url>https://dblp.org/rec/journals/tmc/HuangBZ20</url></info>
+<url>URL#1353810</url>
+</hit>
+<hit score="1" id="1353811">
+<info><authors><author pid="83/179">Huawei Huang</author><author pid="01/267-1">Song Guo 0001</author><author pid="31/1277">Weifa Liang</author><author pid="05/1958-5">Kun Wang 0005</author><author pid="68/4022">Yasuo Okabe</author></authors><title>Coflow-Like Online Data Acquisition from Low-Earth-Orbit Datacenters.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2743-2760</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HuangGLWO20</key><doi>10.1109/TMC.2019.2936202</doi><ee>https://doi.org/10.1109/TMC.2019.2936202</ee><url>https://dblp.org/rec/journals/tmc/HuangGLWO20</url></info>
+<url>URL#1353811</url>
+</hit>
+<hit score="1" id="1353812">
+<info><authors><author pid="183/6818">Meitian Huang</author><author pid="31/1277">Weifa Liang</author><author pid="58/2732-2">Xiaojun Shen 0002</author><author pid="83/4950-1">Yu Ma 0001</author><author pid="82/795">Haibin Kan</author></authors><title>Reliability-Aware Virtualized Network Function Services Provisioning in Mobile Edge Computing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2699-2713</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HuangLSMK20</key><doi>10.1109/TMC.2019.2927214</doi><ee>https://doi.org/10.1109/TMC.2019.2927214</ee><url>https://dblp.org/rec/journals/tmc/HuangLSMK20</url></info>
+<url>URL#1353812</url>
+</hit>
+<hit score="1" id="1353813">
+<info><authors><author pid="147/7746">Yaodong Huang</author><author pid="193/0670">Xintong Song</author><author pid="41/4923-3">Fan Ye 0003</author><author pid="10/2031-1">Yuanyuan Yang 0001</author><author pid="36/3071-1">Xiaoming Li 0001</author></authors><title>Fair and Efficient Caching Algorithms and Strategies for Peer Data Sharing in Pervasive Edge Computing Environments.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>852-864</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HuangSYYL20</key><doi>10.1109/TMC.2019.2902090</doi><ee>https://doi.org/10.1109/TMC.2019.2902090</ee><url>https://dblp.org/rec/journals/tmc/HuangSYYL20</url></info>
+<url>URL#1353813</url>
+</hit>
+<hit score="1" id="1353814">
+<info><authors><author pid="32/3875">Yi-Hsuan Hung</author><author pid="28/7604">Chih-Yu Wang 0001</author><author pid="57/5091">Ren-Hung Hwang</author></authors><title>Optimizing Social Welfare of Live Video Streaming Services in Mobile Edge Computing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>922-934</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/HungWH20</key><doi>10.1109/TMC.2019.2901786</doi><ee>https://doi.org/10.1109/TMC.2019.2901786</ee><url>https://dblp.org/rec/journals/tmc/HungWH20</url></info>
+<url>URL#1353814</url>
+</hit>
+<hit score="1" id="1353815">
+<info><authors><author pid="147/0951">Han Seung Jang</author><author pid="47/1138">Hu Jin</author><author pid="01/4909">Bang Chul Jung</author><author pid="65/1128">Tony Q. S. Quek</author></authors><title>Versatile Access Control for Massive IoT: Throughput, Latency, and Energy Efficiency.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1984-1997</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/JangJJQ20</key><doi>10.1109/TMC.2019.2914381</doi><ee>https://doi.org/10.1109/TMC.2019.2914381</ee><url>https://dblp.org/rec/journals/tmc/JangJJQ20</url></info>
+<url>URL#1353815</url>
+</hit>
+<hit score="1" id="1353816">
+<info><authors><author pid="202/9093">Rhongho Jang</author><author pid="74/5173">Jeonil Kang</author><author pid="70/2832">Aziz Mohaisen</author><author pid="13/3903">DaeHun Nyang</author></authors><title>Catch Me If You Can: Rogue Access Point Detection Using Intentional Channel Interference.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1056-1071</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/JangKMN20</key><doi>10.1109/TMC.2019.2903052</doi><ee>https://doi.org/10.1109/TMC.2019.2903052</ee><url>https://dblp.org/rec/journals/tmc/JangKMN20</url></info>
+<url>URL#1353816</url>
+</hit>
+<hit score="1" id="1353817">
+<info><authors><author pid="74/4353">Wen Ji</author><author pid="97/6308-1">Wenwu Zhu 0001</author></authors><title>Profit Maximization for Sponsored Data in Wireless Video Transmission Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1928-1942</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/JiZ20</key><doi>10.1109/TMC.2019.2916872</doi><ee>https://doi.org/10.1109/TMC.2019.2916872</ee><url>https://dblp.org/rec/journals/tmc/JiZ20</url></info>
+<url>URL#1353817</url>
+</hit>
+<hit score="1" id="1353818">
+<info><authors><author pid="43/1673">Yanxiang Jiang</author><author pid="82/2872">Wenlong Huang</author><author pid="09/3625">Mehdi Bennis</author><author pid="67/4433">Fu-Chun Zheng</author></authors><title>Decentralized Asynchronous Coded Caching Design and Performance Analysis in Fog Radio Access Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>540-551</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/JiangHBZ20</key><doi>10.1109/TMC.2019.2896970</doi><ee>https://doi.org/10.1109/TMC.2019.2896970</ee><url>https://dblp.org/rec/journals/tmc/JiangHBZ20</url></info>
+<url>URL#1353818</url>
+</hit>
+<hit score="1" id="1353819">
+<info><authors><author pid="21/4258-2">William Jones 0002</author><author pid="27/2167">R. Eddie Wilson</author><author pid="26/3192">Angela Doufexi</author><author pid="15/5883">Mahesh Sooriyabandara</author></authors><title>A Pragmatic Approach to Clear Channel Assessment Threshold Adaptation and Transmission Power Control for Performance Gain in CSMA/CA WLANs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>262-275</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/JonesWDS20</key><doi>10.1109/TMC.2019.2892713</doi><ee>https://doi.org/10.1109/TMC.2019.2892713</ee><url>https://dblp.org/rec/journals/tmc/JonesWDS20</url></info>
+<url>URL#1353819</url>
+</hit>
+<hit score="1" id="1353820">
+<info><authors><author pid="61/10966">Joseph Kampeas</author><author pid="18/1993-1">Asaf Cohen 0001</author><author pid="16/6327">Omer Gurewitz</author></authors><title>Analysis of Different Approaches to Distributed Multiuser MIMO in the 802.11ac.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2548-2561</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KampeasCG20</key><doi>10.1109/TMC.2019.2931301</doi><ee>https://doi.org/10.1109/TMC.2019.2931301</ee><url>https://dblp.org/rec/journals/tmc/KampeasCG20</url></info>
+<url>URL#1353820</url>
+</hit>
+<hit score="1" id="1353821">
+<info><authors><author pid="213/0825">Kameliya Kaneva</author><author pid="35/8332">Neda Aboutorab</author><author pid="98/1677">Sameh Sorour</author><author pid="76/6601">Mark C. Reed</author></authors><title>Cellular Fronthaul Offloading Using Device Fogs, Caching, and Network Coding.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>276-287</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KanevaASR20</key><doi>10.1109/TMC.2019.2894417</doi><ee>https://doi.org/10.1109/TMC.2019.2894417</ee><url>https://dblp.org/rec/journals/tmc/KanevaASR20</url></info>
+<url>URL#1353821</url>
+</hit>
+<hit score="1" id="1353822">
+<info><authors><author pid="70/686">Mohammad G. Khoshkholgh</author><author pid="10/5235">Keivan Navaie</author><author pid="s/KangGShin">Kang G. Shin</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>Coverage Performance in MIMO-ZFBF Dense HetNets with Multiplexing and LOS/NLOS Path-Loss Attenuation.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2044-2061</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KhoshkholghNSL20</key><doi>10.1109/TMC.2019.2922614</doi><ee>https://doi.org/10.1109/TMC.2019.2922614</ee><url>https://dblp.org/rec/journals/tmc/KhoshkholghNSL20</url></info>
+<url>URL#1353822</url>
+</hit>
+<hit score="1" id="1353823">
+<info><authors><author pid="199/8703">Daewoo Kim</author><author pid="63/9460">Jinhwan Jung</author><author pid="202/6697">Yoonpyo Koo</author><author pid="01/66">Yung Yi</author></authors><title>Bird-MAC: Energy-Efficient MAC for Quasi-Periodic IoT Applications by Avoiding Early Wake-up.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>788-802</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KimJKY20</key><doi>10.1109/TMC.2019.2899572</doi><ee>https://doi.org/10.1109/TMC.2019.2899572</ee><url>https://dblp.org/rec/journals/tmc/KimJKY20</url></info>
+<url>URL#1353823</url>
+</hit>
+<hit score="1" id="1353824">
+<info><authors><author pid="13/502-3">Sung Hoon Kim 0003</author><author pid="86/1369">Dong In Kim</author></authors><title>Traffic-Aware Backscatter Communications in Wireless-Powered Heterogeneous Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1731-1744</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KimK20</key><doi>10.1109/TMC.2019.2913386</doi><ee>https://doi.org/10.1109/TMC.2019.2913386</ee><url>https://dblp.org/rec/journals/tmc/KimK20</url></info>
+<url>URL#1353824</url>
+</hit>
+<hit score="1" id="1353825">
+<info><authors><author pid="199/8703">Daewoo Kim</author><author pid="60/319">Hyojung Lee</author><author pid="218/6465">HyungSeok Song</author><author pid="42/1257">Nakjung Choi</author><author pid="01/66">Yung Yi</author></authors><title>Economics of Fog Computing: Interplay Among Infrastructure and Service Providers, Users, and Edge Resource Owners.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2609-2622</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KimLSCY20</key><doi>10.1109/TMC.2019.2925797</doi><ee>https://doi.org/10.1109/TMC.2019.2925797</ee><url>https://dblp.org/rec/journals/tmc/KimLSCY20</url></info>
+<url>URL#1353825</url>
+</hit>
+<hit score="1" id="1353826">
+<info><authors><author pid="204/8243">Tarun Kulshrestha</author><author pid="162/2376">Divya Saxena</author><author pid="87/5531">Rajdeep Niyogi</author><author pid="c/JiannongCao">Jiannong Cao 0001</author></authors><title>Real-Time Crowd Monitoring Using Seamless Indoor-Outdoor Localization.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>664-679</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KulshresthaSNC20</key><doi>10.1109/TMC.2019.2897561</doi><ee>https://doi.org/10.1109/TMC.2019.2897561</ee><url>https://dblp.org/rec/journals/tmc/KulshresthaSNC20</url></info>
+<url>URL#1353826</url>
+</hit>
+<hit score="1" id="1353827">
+<info><authors><author pid="25/5174-2">Sudhir Kumar 0002</author><author pid="d/SajalKDas">Sajal K. Das 0001</author></authors><title>Target Detection and Localization Methods Using Compartmental Model for Internet of Things.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2234-2249</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KumarD20</key><doi>10.1109/TMC.2019.2921537</doi><ee>https://doi.org/10.1109/TMC.2019.2921537</ee><url>https://dblp.org/rec/journals/tmc/KumarD20</url></info>
+<url>URL#1353827</url>
+</hit>
+<hit score="1" id="1353828">
+<info><authors><author pid="130/9723">Donghyun Kwon</author><author pid="27/229">Jiwon Seo</author><author pid="130/9710">Yeongpil Cho</author><author pid="45/7986">Byoungyoung Lee</author><author pid="65/3751">Yunheung Paek</author></authors><title>PrOS: Light-Weight Privatized Se cure OSes in ARM TrustZone.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1434-1447</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/KwonSCLP20</key><doi>10.1109/TMC.2019.2910861</doi><ee>https://doi.org/10.1109/TMC.2019.2910861</ee><url>https://dblp.org/rec/journals/tmc/KwonSCLP20</url></info>
+<url>URL#1353828</url>
+</hit>
+<hit score="1" id="1353829">
+<info><authors><author pid="148/1959">Zeqi Lai</author><author pid="93/89">Y. Charlie Hu</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="66/7278">Linhui Sun</author><author pid="162/5131">Ningwei Dai</author><author pid="268/3834">Hung-Sheng Lee</author></authors><title>Furion: Engineering High-Quality Immersive Virtual Reality on Today&apos;s Mobile Devices.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1586-1602</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LaiHCSDL20</key><doi>10.1109/TMC.2019.2913364</doi><ee>https://doi.org/10.1109/TMC.2019.2913364</ee><url>https://dblp.org/rec/journals/tmc/LaiHCSDL20</url></info>
+<url>URL#1353829</url>
+</hit>
+<hit score="1" id="1353830">
+<info><authors><author pid="141/6033">L. Rajya Lakshmi</author><author pid="s/BiplabSikdar">Biplab Sikdar 0001</author></authors><title>Blockage Aware Fair Scheduling with Differentiated Service Support in mmWave WPANs/WLANs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2562-2580</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LakshmiS20</key><doi>10.1109/TMC.2019.2931541</doi><ee>https://doi.org/10.1109/TMC.2019.2931541</ee><url>https://dblp.org/rec/journals/tmc/LakshmiS20</url></info>
+<url>URL#1353830</url>
+</hit>
+<hit score="1" id="1353831">
+<info><authors><author pid="129/2798">Mingyu Lee</author><author pid="143/9316">Yunmin Kim</author><author pid="259/9625">Yijun Piao</author><author pid="04/6637-1">Tae-Jin Lee 0001</author></authors><title>Recycling Random Access Opportunities with Secondary Access Class Barring.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2189-2201</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LeeKPL20</key><doi>10.1109/TMC.2019.2919839</doi><ee>https://doi.org/10.1109/TMC.2019.2919839</ee><url>https://dblp.org/rec/journals/tmc/LeeKPL20</url></info>
+<url>URL#1353831</url>
+</hit>
+<hit score="1" id="1353832">
+<info><authors><author pid="37/1760">Jemin Lee</author><author pid="32/1994">Uichin Lee</author><author pid="25/1173">Hyungshin Kim</author></authors><title>PASS: Reducing Redundant Notifications between a Smartphone and a Smartwatch for Energy Saving.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2656-2669</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LeeLK20</key><doi>10.1109/TMC.2019.2930506</doi><ee>https://doi.org/10.1109/TMC.2019.2930506</ee><url>https://dblp.org/rec/journals/tmc/LeeLK20</url></info>
+<url>URL#1353832</url>
+</hit>
+<hit score="1" id="1353833">
+<info><authors><author pid="93/2334-15">Yong Li 0015</author><author pid="28/2073-6">Wei Gao 0006</author></authors><title>Towards A Personal Mobile Cloud via Generic Device Interconnections.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2965-2980</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiG20</key><doi>10.1109/TMC.2019.2922289</doi><ee>https://doi.org/10.1109/TMC.2019.2922289</ee><url>https://dblp.org/rec/journals/tmc/LiG20</url></info>
+<url>URL#1353833</url>
+</hit>
+<hit score="1" id="1353834">
+<info><authors><author pid="92/5001">Ling Li</author><author pid="99/76-2">Min Liu 0002</author><author pid="s/WeimingShen">Weiming Shen 0001</author><author pid="150/1090">Guo Qing Cheng</author></authors><title>Recommending Mobile Services with Trustworthy QoS and Dynamic User Preferences via FAHP and Ordinal Utility Function.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>419-431</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiLSC20</key><doi>10.1109/TMC.2019.2896239</doi><ee>https://doi.org/10.1109/TMC.2019.2896239</ee><url>https://dblp.org/rec/journals/tmc/LiLSC20</url></info>
+<url>URL#1353834</url>
+</hit>
+<hit score="1" id="1353835">
+<info><authors><author pid="96/4282-52">Rui Li 0052</author><author pid="03/7603">Paul Patras</author></authors><title>Max-Min Fair Resource Allocation in Millimetre-Wave Backhauls.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1879-1895</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiP20</key><doi>10.1109/TMC.2019.2917205</doi><ee>https://doi.org/10.1109/TMC.2019.2917205</ee><url>https://dblp.org/rec/journals/tmc/LiP20</url></info>
+<url>URL#1353835</url>
+</hit>
+<hit score="1" id="1353836">
+<info><authors><author pid="73/3521">Yuqing Li</author><author pid="89/4432">Xiong Wang</author><author pid="13/29">Xiaoying Gan</author><author pid="14/3177">Haiming Jin</author><author pid="44/7207">Luoyi Fu</author><author pid="96/1149">Xinbing Wang</author></authors><title>Learning-Aided Computation Offloading for Trusted Collaborative Mobile Edge Computing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2833-2849</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiWGJFW20</key><doi>10.1109/TMC.2019.2934103</doi><ee>https://doi.org/10.1109/TMC.2019.2934103</ee><url>https://dblp.org/rec/journals/tmc/LiWGJFW20</url></info>
+<url>URL#1353836</url>
+</hit>
+<hit score="1" id="1353837">
+<info><authors><author pid="75/2611-4">Feng Lin 0004</author><author pid="180/7378">Kun Woo Cho</author><author pid="14/5979-1">Chen Song 0001</author><author pid="93/5912">Zhanpeng Jin</author><author pid="11/6689">Wenyao Xu</author></authors><title>Exploring a Brain-Based Cancelable Biometrics for Smart Headwear: Concept, Implementation, and Evaluation.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2774-2792</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LinCSJX20</key><doi>10.1109/TMC.2019.2936559</doi><ee>https://doi.org/10.1109/TMC.2019.2936559</ee><url>https://dblp.org/rec/journals/tmc/LinCSJX20</url></info>
+<url>URL#1353837</url>
+</hit>
+<hit score="1" id="1353838">
+<info><authors><author pid="68/8637">Teng Liu</author><author pid="79/6652">Alhussein A. Abouzeid</author><author pid="19/1225">A. Agung Julius</author></authors><title>Traffic Flow Control in Vehicular Multi-Hop Networks with Data Caching.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>231-244</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuAJ20</key><doi>10.1109/TMC.2018.2888968</doi><ee>https://doi.org/10.1109/TMC.2018.2888968</ee><url>https://dblp.org/rec/journals/tmc/LiuAJ20</url></info>
+<url>URL#1353838</url>
+</hit>
+<hit score="1" id="1353839">
+<info><authors><author pid="51/2773">Jiaqi Liu</author><author pid="44/7207">Luoyi Fu</author><author pid="96/1149">Xinbing Wang</author><author pid="59/2249">Feilong Tang</author><author pid="51/1742">Guihai Chen</author></authors><title>Joint Recommendations in Multilayer Mobile Social Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2358-2373</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuFWTC20</key><doi>10.1109/TMC.2019.2923665</doi><ee>https://doi.org/10.1109/TMC.2019.2923665</ee><url>https://dblp.org/rec/journals/tmc/LiuFWTC20</url></info>
+<url>URL#1353839</url>
+</hit>
+<hit score="1" id="1353840">
+<info><authors><author pid="28/11236">Shengbo Liu</author><author pid="26/5892-1">Liqun Fu 0001</author><author pid="87/1010">Wei Xie</author></authors><title>Hidden-Node Problem in Full-Duplex Enabled CSMA Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>347-361</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuFX20</key><doi>10.1109/TMC.2019.2895034</doi><ee>https://doi.org/10.1109/TMC.2019.2895034</ee><url>https://dblp.org/rec/journals/tmc/LiuFX20</url></info>
+<url>URL#1353840</url>
+</hit>
+<hit score="1" id="1353841">
+<info><authors><author pid="14/843-1">Chin-Jung Liu 0001</author><author pid="59/1856-1">Pei Huang 0001</author><author pid="14/5505-1">Li Xiao 0001</author><author pid="e/AHEsfahanian">Abdol-Hossein Esfahanian</author></authors><title>Inter-Femtocell Interference Identification and Resource Management.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>116-129</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuHXE20</key><doi>10.1109/TMC.2019.2892138</doi><ee>https://doi.org/10.1109/TMC.2019.2892138</ee><url>https://dblp.org/rec/journals/tmc/LiuHXE20</url></info>
+<url>URL#1353841</url>
+</hit>
+<hit score="1" id="1353842">
+<info><authors><author pid="51/3710-101">Yang Liu 0101</author><author pid="35/203">Zhenjiang Li</author></authors><title>aLeak: Context-Free Side-Channel from Your Smart Watch Leaks Your Typing Privacy.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1775-1788</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuL20</key><doi>10.1109/TMC.2019.2917659</doi><ee>https://doi.org/10.1109/TMC.2019.2917659</ee><url>https://dblp.org/rec/journals/tmc/LiuL20</url></info>
+<url>URL#1353842</url>
+</hit>
+<hit score="1" id="1353843">
+<info><authors><author pid="97/2274-16">Yu Liu 0016</author><author pid="93/2334-8">Yong Li 0008</author><author pid="55/59">Yong Niu</author><author pid="46/5770">Depeng Jin</author></authors><title>Joint Optimization of Path Planning and Resource Allocation in Mobile Edge Computing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2129-2144</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuLNJ20</key><doi>10.1109/TMC.2019.2922316</doi><ee>https://doi.org/10.1109/TMC.2019.2922316</ee><url>https://dblp.org/rec/journals/tmc/LiuLNJ20</url></info>
+<url>URL#1353843</url>
+</hit>
+<hit score="1" id="1353844">
+<info><authors><author pid="87/3144">Xing Liu</author><author pid="27/4749">Jiqiang Liu</author><author pid="40/2231">Sencun Zhu</author><author pid="w/WeiWang12">Wei Wang 0012</author><author pid="74/1890-1">Xiangliang Zhang 0001</author></authors><title>Privacy Risk Analysis and Mitigation of Analytics Libraries in the Android Ecosystem.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1184-1199</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuLZWZ20</key><doi>10.1109/TMC.2019.2903186</doi><ee>https://doi.org/10.1109/TMC.2019.2903186</ee><url>https://dblp.org/rec/journals/tmc/LiuLZWZ20</url></info>
+<url>URL#1353844</url>
+</hit>
+<hit score="1" id="1353845">
+<info><authors><author pid="45/4723">Chi Harold Liu</author><author pid="237/4497">Xiaoxin Ma</author><author pid="00/11495">Xudong Gao</author><author pid="181/2667-8">Jian Tang 0008</author></authors><title>Distributed Energy-Efficient Multi-UAV Navigation for Long-Term Communication Coverage by Deep Reinforcement Learning.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1274-1285</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuMGT20</key><doi>10.1109/TMC.2019.2908171</doi><ee>https://doi.org/10.1109/TMC.2019.2908171</ee><url>https://dblp.org/rec/journals/tmc/LiuMGT20</url></info>
+<url>URL#1353845</url>
+</hit>
+<hit score="1" id="1353846">
+<info><authors><author pid="34/188">Ping Liu</author><author pid="74/3047">Xingfu Wang</author><author pid="166/0036">Ammar Hawbani</author><author pid="257/5499">Omar Busaileh</author><author pid="63/5422-4">Liang Zhao 0004</author><author pid="46/89">Ahmed Al-Dubai 0001</author></authors><title>FRCA: A Novel Flexible Routing Computing Approach for Wireless Sensor Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2623-2639</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuWHBZA20</key><doi>10.1109/TMC.2019.2928805</doi><ee>https://doi.org/10.1109/TMC.2019.2928805</ee><url>https://dblp.org/rec/journals/tmc/LiuWHBZA20</url></info>
+<url>URL#1353846</url>
+</hit>
+<hit score="1" id="1353847">
+<info><authors><author pid="67/2474">Fulai Liu</author><author pid="00/7375">Zixuan Zhang</author><author pid="16/3993">Ruiyan Du</author><author pid="190/3357">Juan Sheng</author><author pid="190/3390">Caimei Huang</author></authors><title>Frequency-Angle Spectrum Hole Detection with Taylor Expansion Based Focusing Transformation.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2330-2343</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuZDSH20</key><doi>10.1109/TMC.2019.2924427</doi><ee>https://doi.org/10.1109/TMC.2019.2924427</ee><url>https://dblp.org/rec/journals/tmc/LiuZDSH20</url></info>
+<url>URL#1353847</url>
+</hit>
+<hit score="1" id="1353848">
+<info><authors><author pid="59/3415">Jianqing Liu</author><author pid="91/195-1">Chi Zhang 0001</author><author pid="58/7964">Beatriz Lorenzo</author><author pid="f/YuguangFang">Yuguang Fang</author></authors><title>DPavatar: A Real-Time Location Protection Framework for Incumbent Users in Cognitive Radio Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>552-565</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuZLF20</key><doi>10.1109/TMC.2019.2897099</doi><ee>https://doi.org/10.1109/TMC.2019.2897099</ee><url>https://dblp.org/rec/journals/tmc/LiuZLF20</url></info>
+<url>URL#1353848</url>
+</hit>
+<hit score="1" id="1353849">
+<info><authors><author pid="140/7769">Zishan Liu</author><author pid="37/1629-13">Lin Zhang 0013</author><author pid="31/2597-1">Wei Ni 0001</author><author pid="07/3441">Iain B. Collings</author></authors><title>Uncoordinated Pseudonym Changes for Privacy Preserving in Distributed Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1465-1477</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuZNC20</key><doi>10.1109/TMC.2019.2911279</doi><ee>https://doi.org/10.1109/TMC.2019.2911279</ee><url>https://dblp.org/rec/journals/tmc/LiuZNC20</url></info>
+<url>URL#1353849</url>
+</hit>
+<hit score="1" id="1353850">
+<info><authors><author pid="32/2948-4">Ke Liu 0004</author><author pid="146/3587">Zhongbin Zha</author><author pid="213/7393">Wenkai Wan</author><author pid="91/6560">Vaneet Aggarwal</author><author pid="60/7673">Binzhang Fu</author><author pid="62/5558">Mingyu Chen 0001</author></authors><title>Optimizing TCP Loss Recovery Performance Over Mobile Data Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1401-1419</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LiuZWAFC20</key><doi>10.1109/TMC.2019.2909888</doi><ee>https://doi.org/10.1109/TMC.2019.2909888</ee><url>https://dblp.org/rec/journals/tmc/LiuZWAFC20</url></info>
+<url>URL#1353850</url>
+</hit>
+<hit score="1" id="1353851">
+<info><authors><author pid="55/3809">Pierpaolo Loreti</author><author pid="42/4446">Lorenzo Bracciale</author></authors><title>Optimized Neighbor Discovery for Opportunistic Networks of Energy Constrained IoT Devices.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1387-1400</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LoretiB20</key><doi>10.1109/TMC.2019.2908402</doi><ee>https://doi.org/10.1109/TMC.2019.2908402</ee><url>https://dblp.org/rec/journals/tmc/LoretiB20</url></info>
+<url>URL#1353851</url>
+</hit>
+<hit score="1" id="1353852">
+<info><authors><author pid="153/5297">Lannan Luo</author><author pid="81/583-1">Qiang Zeng 0001</author><author pid="44/5148">Chen Cao</author><author pid="c/KaiChen12">Kai Chen 0012</author><author pid="35/295-8">Jian Liu 0008</author><author pid="59/3016">Limin Liu</author><author pid="53/11537">Neng Gao</author><author pid="02/1640-2">Min Yang 0002</author><author pid="40/6431">Xinyu Xing</author><author pid="21/6121-5">Peng Liu 0005</author></authors><title>Tainting-Assisted and Context-Migrated Symbolic Execution of Android Framework for Vulnerability Discovery and Exploit Generation.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2946-2964</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/LuoZCCLLGYXL20</key><doi>10.1109/TMC.2019.2936561</doi><ee>https://doi.org/10.1109/TMC.2019.2936561</ee><url>https://dblp.org/rec/journals/tmc/LuoZCCLLGYXL20</url></info>
+<url>URL#1353852</url>
+</hit>
+<hit score="1" id="1353853">
+<info><authors><author pid="138/1332">Tanumay Manna</author><author pid="31/7006">Iti Saha Misra</author></authors><title>Performance Analysis of Scheduled Access Mode of the IEEE 802.15.6 MAC Protocol under Non-Ideal Channel Conditions.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>935-953</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/MannaM20</key><doi>10.1109/TMC.2019.2901852</doi><ee>https://doi.org/10.1109/TMC.2019.2901852</ee><url>https://dblp.org/rec/journals/tmc/MannaM20</url></info>
+<url>URL#1353853</url>
+</hit>
+<hit score="1" id="1353854">
+<info><authors><author pid="147/1311">Yunlong Mao</author><author pid="39/2405">Ying He</author><author pid="48/2168-4">Yuan Zhang 0004</author><author pid="18/3537">Jingyu Hua</author><author pid="53/4506-2">Sheng Zhong 0002</author></authors><title>Secure TDD MIMO Networks Against Training Sequence Based Eavesdropping Attack.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2916-2932</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/MaoHZHZ20</key><doi>10.1109/TMC.2019.2937081</doi><ee>https://doi.org/10.1109/TMC.2019.2937081</ee><url>https://dblp.org/rec/journals/tmc/MaoHZHZ20</url></info>
+<url>URL#1353854</url>
+</hit>
+<hit score="1" id="1353855">
+<info><authors><author pid="43/1032">Yan Meng</author><author pid="126/2435">Jinlei Li</author><author pid="22/5702">Haojin Zhu</author><author pid="92/3528">Xiaohui Liang</author><author pid="64/424-7">Yao Liu 0007</author><author pid="157/4391">Na Ruan</author></authors><title>Revealing Your Mobile Password via WiFi Signals: Attacks and Countermeasures.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>432-449</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/MengLZLLR20</key><doi>10.1109/TMC.2019.2893338</doi><ee>https://doi.org/10.1109/TMC.2019.2893338</ee><url>https://dblp.org/rec/journals/tmc/MengLZLLR20</url></info>
+<url>URL#1353855</url>
+</hit>
+<hit score="1" id="1353856">
+<info><authors><author pid="127/6120">Xiaoye Miao</author><author pid="80/2651">Yunjun Gao</author><author pid="268/3560">Guanhua Mai</author><author pid="67/6383-1">Gang Chen 0001</author><author pid="181/2689-1">Qing Li 0001</author></authors><title>On Efficiently Monitoring Continuous Aggregate k Nearest Neighbors in Road Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1664-1676</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/MiaoGMCL20</key><doi>10.1109/TMC.2019.2911950</doi><ee>https://doi.org/10.1109/TMC.2019.2911950</ee><url>https://dblp.org/rec/journals/tmc/MiaoGMCL20</url></info>
+<url>URL#1353856</url>
+</hit>
+<hit score="1" id="1353857">
+<info><authors><author pid="92/8305">Chulhong Min</author><author pid="51/343">Youngki Lee</author><author pid="54/9841">Chungkuk Yoo</author><author pid="93/5092-1">Inseok Hwang 0001</author><author pid="91/8305">Younghyun Ju</author><author pid="09/2409">Junehwa Song</author><author pid="79/3003">Seungwoo Kang</author></authors><title>Scalable Power Impact Prediction of Mobile Sensing Applications at Pre-Installation Time.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1448-1464</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/MinLYHJSK20</key><doi>10.1109/TMC.2019.2909897</doi><ee>https://doi.org/10.1109/TMC.2019.2909897</ee><url>https://dblp.org/rec/journals/tmc/MinLYHJSK20</url></info>
+<url>URL#1353857</url>
+</hit>
+<hit score="1" id="1353858">
+<info><authors><author pid="155/5086">Jessica Moysen</author><author pid="19/4265">Mario García-Lozano</author></authors><title>Learning-Based Tracking Area List Management in 4G and 5G Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1862-1878</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/MoysenG20</key><doi>10.1109/TMC.2019.2915079</doi><ee>https://doi.org/10.1109/TMC.2019.2915079</ee><url>https://dblp.org/rec/journals/tmc/MoysenG20</url></info>
+<url>URL#1353858</url>
+</hit>
+<hit score="1" id="1353859">
+<info><authors><author pid="55/13">Enrico Natalizio</author><author pid="140/4567">Nicola Roberto Zema</author><author pid="44/849">Evsen Yanmaz</author><author pid="76/11197">Luigi Di Puglia Pugliese</author><author pid="13/2525">Francesca Guerriero</author></authors><title>Take the Field from Your Smartphone: Leveraging UAVs for Event Filming.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1971-1983</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/NatalizioZYPG20</key><doi>10.1109/TMC.2019.2917176</doi><ee>https://doi.org/10.1109/TMC.2019.2917176</ee><url>https://dblp.org/rec/journals/tmc/NatalizioZYPG20</url></info>
+<url>URL#1353859</url>
+</hit>
+<hit score="1" id="1353860">
+<info><authors><author pid="168/8022">Anselme Ndikumana</author><author pid="03/1312">Nguyen Hoang Tran</author><author pid="156/3709">Tai Manh Ho</author><author pid="83/514">Zhu Han 0001</author><author pid="41/6237">Walid Saad</author><author pid="76/440">Dusit Niyato</author><author pid="73/1778">Choong Seon Hong</author></authors><title>Joint Communication, Computation, Caching, and Control in Big Data Multi-Access Edge Computing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1359-1374</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/NdikumanaTHHSNH20</key><doi>10.1109/TMC.2019.2908403</doi><ee>https://doi.org/10.1109/TMC.2019.2908403</ee><url>https://dblp.org/rec/journals/tmc/NdikumanaTHHSNH20</url></info>
+<url>URL#1353860</url>
+</hit>
+<hit score="1" id="1353861">
+<info><authors><author pid="121/2421">Jianbing Ni</author><author pid="50/7188">Kuan Zhang</author><author pid="88/5697">Qi Xia</author><author pid="59/554">Xiaodong Lin 0001</author><author pid="s/XueminShen">Xuemin Sherman Shen</author></authors><title>Enabling Strong Privacy Preservation and Accurate Task Allocation for Mobile Crowdsensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1317-1331</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/NiZXLS20</key><doi>10.1109/TMC.2019.2908638</doi><ee>https://doi.org/10.1109/TMC.2019.2908638</ee><url>https://dblp.org/rec/journals/tmc/NiZXLS20</url></info>
+<url>URL#1353861</url>
+</hit>
+<hit score="1" id="1353862">
+<info><authors><author pid="156/2442">Zhenchao Ouyang</author><author pid="25/4653-2">Jianwei Niu 0002</author><author pid="97/2274-31">Yu Liu 0031</author><author pid="15/1123">Mohsen Guizani</author></authors><title>Deep CNN-Based Real-Time Traffic Light Detector for Self-Driving Vehicles.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>300-313</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/OuyangNLG20</key><doi>10.1109/TMC.2019.2892451</doi><ee>https://doi.org/10.1109/TMC.2019.2892451</ee><url>https://dblp.org/rec/journals/tmc/OuyangNLG20</url></info>
+<url>URL#1353862</url>
+</hit>
+<hit score="1" id="1353863">
+<info><authors><author pid="206/1684">Mijanur Rahaman Palash</author><author pid="91/6670">Kang Chen</author></authors><title>MPWiFi: Synergizing MPTCP Based Simultaneous Multipath Access and WiFi Network Performance.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>142-158</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/PalashC20</key><doi>10.1109/TMC.2018.2889059</doi><ee>https://doi.org/10.1109/TMC.2018.2889059</ee><url>https://dblp.org/rec/journals/tmc/PalashC20</url></info>
+<url>URL#1353863</url>
+</hit>
+<hit score="1" id="1353864">
+<info><authors><author pid="174/9709">Yijin Pan</author><author pid="132/8058">Cunhua Pan</author><author pid="90/549-1">Zhaohui Yang 0001</author><author pid="99/311-1">Ming Chen 0001</author><author pid="80/3885">Jiangzhou Wang</author></authors><title>A Caching Strategy Towards Maximal D2D Assisted Offloading Gain.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2489-2504</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/PanPYCW20</key><doi>10.1109/TMC.2019.2933843</doi><ee>https://doi.org/10.1109/TMC.2019.2933843</ee><url>https://dblp.org/rec/journals/tmc/PanPYCW20</url></info>
+<url>URL#1353864</url>
+</hit>
+<hit score="1" id="1353865">
+<info><authors><author pid="129/5573">Savvas Papaioannou</author><author pid="74/8208">Panayiotis Kolios</author><author pid="59/3933">Theocharis Theocharides</author><author pid="p/ChristoforosPanayiotou">Christos G. Panayiotou</author><author pid="56/3707">Marios M. Polycarpou</author></authors><title>Jointly-Optimized Searching and Tracking with Random Finite Sets.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2374-2391</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/PapaioannouKTPP20</key><doi>10.1109/TMC.2019.2922133</doi><ee>https://doi.org/10.1109/TMC.2019.2922133</ee><url>https://dblp.org/rec/journals/tmc/PapaioannouKTPP20</url></info>
+<url>URL#1353865</url>
+</hit>
+<hit score="1" id="1353866">
+<info><authors><author pid="158/3480">Young Deok Park</author><author pid="151/5194">Seokseong Jeon</author><author pid="132/2006">Jae-Pil Jeong</author><author pid="91/4495">Young-Joo Suh</author></authors><title>FlexVi: PHY Aided Flexible Multicast for Video Streaming over IEEE 802.11 WLANs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2299-2315</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ParkJJS20</key><doi>10.1109/TMC.2019.2923995</doi><ee>https://doi.org/10.1109/TMC.2019.2923995</ee><url>https://dblp.org/rec/journals/tmc/ParkJJS20</url></info>
+<url>URL#1353866</url>
+</hit>
+<hit score="1" id="1353867">
+<info><authors><author pid="150/5491">Prosanta Paul</author><author pid="78/1033">Hongyi Wu</author><author pid="06/6463">Chunsheng Xin</author><author pid="99/5721-2">Min Song 0002</author></authors><title>Beamforming Oriented Topology Control for mmWave Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1519-1531</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/PaulWXS20</key><doi>10.1109/TMC.2019.2911577</doi><ee>https://doi.org/10.1109/TMC.2019.2911577</ee><url>https://dblp.org/rec/journals/tmc/PaulWXS20</url></info>
+<url>URL#1353867</url>
+</hit>
+<hit score="1" id="1353868">
+<info><authors><author pid="136/4532">Shiva Raj Pokhrel</author><author pid="20/5601">Hai Le Vu</author><author pid="14/7041">Antonio L. Cricenti</author></authors><title>Adaptive Admission Control for IoT Applications in Home WiFi Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2731-2742</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/PokhrelVC20</key><doi>10.1109/TMC.2019.2935719</doi><ee>https://doi.org/10.1109/TMC.2019.2935719</ee><url>https://dblp.org/rec/journals/tmc/PokhrelVC20</url></info>
+<url>URL#1353868</url>
+</hit>
+<hit score="1" id="1353869">
+<info><authors><author pid="133/4986">Jonathan Prados-Garzon</author><author pid="177/5450">Abdelquoddouss Laghrissi</author><author pid="00/2807">Miloud Bagaa</author><author pid="09/3053">Tarik Taleb</author><author pid="44/4135">Juan M. López-Soler</author></authors><title>A Complete LTE Mathematical Framework for the Network Slice Planning of the EPC.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>1-14</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/Prados-GarzonLB20</key><doi>10.1109/TMC.2018.2890235</doi><ee>https://doi.org/10.1109/TMC.2018.2890235</ee><url>https://dblp.org/rec/journals/tmc/Prados-GarzonLB20</url></info>
+<url>URL#1353869</url>
+</hit>
+<hit score="1" id="1353870">
+<info><authors><author pid="163/7315">Yanyuan Qin</author><author pid="121/4963">Ruofan Jin</author><author pid="73/5618-2">Shuai Hao 0002</author><author pid="37/3815">Krishna R. Pattipati</author><author pid="54/476-1">Feng Qian 0001</author><author pid="71/3761">Subhabrata Sen</author><author pid="139/0461">Chaoqun Yue</author><author pid="06/1909-1">Bing Wang 0001</author></authors><title>A Control Theoretic Approach to ABR Video Streaming: A Fresh Look at PID-Based Rate Adaptation.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2505-2519</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/QinJHPQSYW20</key><doi>10.1109/TMC.2019.2929125</doi><ee>https://doi.org/10.1109/TMC.2019.2929125</ee><url>https://dblp.org/rec/journals/tmc/QinJHPQSYW20</url></info>
+<url>URL#1353870</url>
+</hit>
+<hit score="1" id="1353871">
+<info><authors><author pid="05/3927-4">Li Qiu 0004</author><author pid="c/GuohongCao">Guohong Cao</author></authors><title>Popularity-Aware Caching Increases the Capacity of Wireless Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>173-187</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/QiuC20</key><doi>10.1109/TMC.2019.2892419</doi><ee>https://doi.org/10.1109/TMC.2019.2892419</ee><url>https://dblp.org/rec/journals/tmc/QiuC20</url></info>
+<url>URL#1353871</url>
+</hit>
+<hit score="1" id="1353872">
+<info><authors><author pid="156/3209">Yuben Qu</author><author pid="68/3428">Shaojie Tang</author><author pid="16/1278-1">Chao Dong 0001</author><author pid="83/6353-17">Peng Li 0017</author><author pid="01/267-1">Song Guo 0001</author><author pid="124/6911">Haipeng Dai</author><author pid="07/6378-6">Fan Wu 0006</author></authors><title>Posted Pricing for Chance Constrained Robust Crowdsensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>188-199</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/QuTDLGDW20</key><doi>10.1109/TMC.2018.2884713</doi><ee>https://doi.org/10.1109/TMC.2018.2884713</ee><url>https://dblp.org/rec/journals/tmc/QuTDLGDW20</url></info>
+<url>URL#1353872</url>
+</hit>
+<hit score="1" id="1353873">
+<info><authors><author pid="173/0285">Zhihao Qu</author><author pid="69/5116">Baoliu Ye</author><author pid="77/5837">Bin Tang</author><author pid="01/267-1">Song Guo 0001</author><author pid="24/3318">Sanglu Lu</author><author pid="z/WeihuaZhuang">Weihua Zhuang</author></authors><title>Cooperative Caching for Multiple Bitrate Videos in Small Cell Edges.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>288-299</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/QuYTGLZ20</key><doi>10.1109/TMC.2019.2893917</doi><ee>https://doi.org/10.1109/TMC.2019.2893917</ee><url>https://dblp.org/rec/journals/tmc/QuYTGLZ20</url></info>
+<url>URL#1353873</url>
+</hit>
+<hit score="1" id="1353874">
+<info><authors><author pid="49/7729">Mehdi Rahmati</author><author pid="47/3212">Dario Pompili</author></authors><title>Probabilistic Spatially-Divided Multiple Access in Underwater Acoustic Sparse Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>405-418</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/RahmatiP20</key><doi>10.1109/TMC.2018.2877683</doi><ee>https://doi.org/10.1109/TMC.2018.2877683</ee><url>https://dblp.org/rec/journals/tmc/RahmatiP20</url></info>
+<url>URL#1353874</url>
+</hit>
+<hit score="1" id="1353875">
+<info><authors><author pid="46/8699">Milan D. Redzic</author><author pid="22/7429">Christos Laoudias</author><author pid="31/3055">Ioannis Kyriakides</author></authors><title>Image and WLAN Bimodal Integration for Indoor User Localization.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1109-1122</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/RedzicLK20</key><doi>10.1109/TMC.2019.2903044</doi><ee>https://doi.org/10.1109/TMC.2019.2903044</ee><url>https://dblp.org/rec/journals/tmc/RedzicLK20</url></info>
+<url>URL#1353875</url>
+</hit>
+<hit score="1" id="1353876">
+<info><authors><author pid="34/8334">Yanzhi Ren</author><author pid="82/4206-9">Chen Wang 0009</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="23/5033">Mooi Choo Chuah</author><author pid="12/1198-3">Jie Yang 0003</author></authors><title>Signature Verification Using Critical Segments for Securing Mobile Transactions.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>724-739</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/RenWCCY20</key><doi>10.1109/TMC.2019.2897657</doi><ee>https://doi.org/10.1109/TMC.2019.2897657</ee><url>https://dblp.org/rec/journals/tmc/RenWCCY20</url></info>
+<url>URL#1353876</url>
+</hit>
+<hit score="1" id="1353877">
+<info><authors><author pid="194/2415">Sepehr Rezvani</author><author pid="31/8209">Nader Mokari</author><author pid="43/8208">Mohammad R. Javan</author><author pid="20/4825">Eduard A. Jorswieck</author></authors><title>Fairness and Transmission-Aware Caching and Delivery Policies in OFDMA-Based HetNets.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>331-346</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/RezvaniMJJ20</key><doi>10.1109/TMC.2019.2892978</doi><ee>https://doi.org/10.1109/TMC.2019.2892978</ee><url>https://dblp.org/rec/journals/tmc/RezvaniMJJ20</url></info>
+<url>URL#1353877</url>
+</hit>
+<hit score="1" id="1353878">
+<info><authors><author pid="165/2132">Arghyadip Roy</author><author pid="44/92">Vivek S. Borkar</author><author pid="87/4995">Prasanna Chaporkar</author><author pid="49/5720">Abhay Karandikar</author></authors><title>Low Complexity Online Radio Access Technology Selection Algorithm in LTE-WiFi HetNet.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>376-389</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/RoyBCK20</key><doi>10.1109/TMC.2019.2892983</doi><ee>https://doi.org/10.1109/TMC.2019.2892983</ee><url>https://dblp.org/rec/journals/tmc/RoyBCK20</url></info>
+<url>URL#1353878</url>
+</hit>
+<hit score="1" id="1353879">
+<info><authors><author pid="76/11070">Ramyar Saeedi</author><author pid="57/1798">Assefaw H. Gebremedhin</author></authors><title>A Signal-Level Transfer Learning Framework for Autonomous Reconfiguration of Wearable Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>513-527</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SaeediG20</key><doi>10.1109/TMC.2018.2878673</doi><ee>https://doi.org/10.1109/TMC.2018.2878673</ee><url>https://dblp.org/rec/journals/tmc/SaeediG20</url></info>
+<url>URL#1353879</url>
+</hit>
+<hit score="1" id="1353880">
+<info><authors><author pid="99/8816">Barun Kumar Saha</author><author pid="36/1023">Sudip Misra</author></authors><title>Mitigating NDN-Based Fake Content Dissemination in Opportunistic Mobile Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1375-1386</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SahaM20</key><doi>10.1109/TMC.2019.2908161</doi><ee>https://doi.org/10.1109/TMC.2019.2908161</ee><url>https://dblp.org/rec/journals/tmc/SahaM20</url></info>
+<url>URL#1353880</url>
+</hit>
+<hit score="1" id="1353881">
+<info><authors><author pid="03/6716">Hiroshi Saito</author><author pid="72/11138">Tatsuaki Kimura</author></authors><title>Theoretical Framework for Estimating Target-Object Shape by Using Location-Unknown Mobile Distance Sensors.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1233-1246</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SaitoK20</key><doi>10.1109/TMC.2019.2904494</doi><ee>https://doi.org/10.1109/TMC.2019.2904494</ee><url>https://dblp.org/rec/journals/tmc/SaitoK20</url></info>
+<url>URL#1353881</url>
+</hit>
+<hit score="1" id="1353882">
+<info><authors><author pid="220/1682">Suneet Sawant</author><author pid="19/139-3">Rohit Kumar 0003</author><author pid="214/7112">Manjesh Kumar Hanawal</author><author pid="99/9875">Sumit Jagdish Darak</author></authors><title>Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2640-2655</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SawantKHD20</key><doi>10.1109/TMC.2019.2927475</doi><ee>https://doi.org/10.1109/TMC.2019.2927475</ee><url>https://dblp.org/rec/journals/tmc/SawantKHD20</url></info>
+<url>URL#1353882</url>
+</hit>
+<hit score="1" id="1353883">
+<info><authors><author pid="176/5827">Maria Scalabrin</author><author pid="188/1314">Guillermo Bielsa</author><author pid="46/10471">Adrian Loch</author><author pid="19/3912">Michele Rossi</author><author pid="07/3803">Joerg Widmer</author></authors><title>Machine Learning Based Network Analysis Using Millimeter-Wave Narrow-Band Energy Traces.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1138-1155</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ScalabrinBLRW20</key><doi>10.1109/TMC.2019.2907585</doi><ee>https://doi.org/10.1109/TMC.2019.2907585</ee><url>https://dblp.org/rec/journals/tmc/ScalabrinBLRW20</url></info>
+<url>URL#1353883</url>
+</hit>
+<hit score="1" id="1353884">
+<info><authors><author pid="42/2695">Udo Schilcher</author><author pid="35/9578">Jorge F. Schmidt</author><author pid="146/5291">Mahin K. Atiq</author><author pid="65/5083">Christian Bettstetter</author></authors><title>Autocorrelation and Coherence Time of Interference in Poisson Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1506-1518</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/tmc/SchilcherSAB20</key><doi>10.1109/TMC.2019.2912373</doi><ee>https://doi.org/10.1109/TMC.2019.2912373</ee><url>https://dblp.org/rec/journals/tmc/SchilcherSAB20</url></info>
+<url>URL#1353884</url>
+</hit>
+<hit score="1" id="1353885">
+<info><authors><author pid="42/2695">Udo Schilcher</author><author pid="35/9578">Jorge F. Schmidt</author><author pid="65/5083">Christian Bettstetter</author></authors><title>On Interference Dynamics in Matérn Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1677-1688</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/tmc/SchilcherSB20</key><doi>10.1109/TMC.2019.2911498</doi><ee>https://doi.org/10.1109/TMC.2019.2911498</ee><url>https://dblp.org/rec/journals/tmc/SchilcherSB20</url></info>
+<url>URL#1353885</url>
+</hit>
+<hit score="1" id="1353886">
+<info><authors><author pid="159/1229">Sihua Shao</author><author pid="39/1037">Abdallah Khreishah</author><author pid="115/8715">Issa Khalil</author></authors><title>Enabling Real-Time Indoor Tracking of IoT Devices Through Visible Light Retroreflection.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>836-851</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ShaoKK20</key><doi>10.1109/TMC.2019.2901665</doi><ee>https://doi.org/10.1109/TMC.2019.2901665</ee><url>https://dblp.org/rec/journals/tmc/ShaoKK20</url></info>
+<url>URL#1353886</url>
+</hit>
+<hit score="1" id="1353887">
+<info><authors><author pid="202/9503">Amit Kumar Sikder</author><author pid="30/10201">Hidayet Aksu</author><author pid="46/1500">A. Selcuk Uluagac</author></authors><title>A Context-Aware Framework for Detecting Sensor-Based Threats on Smart Devices.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>245-261</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SikderAU20</key><doi>10.1109/TMC.2019.2893253</doi><ee>https://doi.org/10.1109/TMC.2019.2893253</ee><url>https://dblp.org/rec/journals/tmc/SikderAU20</url></info>
+<url>URL#1353887</url>
+</hit>
+<hit score="1" id="1353888">
+<info><authors><author pid="34/3036">Philipp Sommer</author><author pid="194/5827">Kai Geissdoerfer</author><author pid="96/1136">Raja Jurdak</author><author pid="19/3001">Branislav Kusy</author><author pid="75/5729">Jiajun Liu</author><author pid="40/2555-3">Kun Zhao 0003</author><author pid="129/2810">Adam McKeown</author><author pid="129/2770">David Westcott</author></authors><title>Energy- and Mobility-Aware Scheduling for Perpetual Trajectory Tracking.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>566-580</pages><year>2020</year><type>Journal Articles</type><access>open</access><key>journals/tmc/SommerGJKLZMW20</key><doi>10.1109/TMC.2019.2895336</doi><ee>https://doi.org/10.1109/TMC.2019.2895336</ee><url>https://dblp.org/rec/journals/tmc/SommerGJKLZMW20</url></info>
+<url>URL#1353888</url>
+</hit>
+<hit score="1" id="1353889">
+<info><authors><author pid="144/0308">Yujae Song</author><author pid="k/PengYongKong">Peng-Yong Kong</author></authors><title>Optimizing Design and Performance of Underwater Acoustic Sensor Networks with 3D Topology.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1689-1701</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SongK20</key><doi>10.1109/TMC.2019.2911940</doi><ee>https://doi.org/10.1109/TMC.2019.2911940</ee><url>https://dblp.org/rec/journals/tmc/SongK20</url></info>
+<url>URL#1353889</url>
+</hit>
+<hit score="1" id="1353890">
+<info><authors><author pid="196/6995">Sooeun Song</author><author pid="59/405">Changsung Lee</author><author pid="32/11409">Hyoung Jun Cho</author><author pid="16/10535">Goeun Lim</author><author pid="22/5721">Jong-Moon Chung</author></authors><title>Clustered Virtualized Network Functions Resource Allocation based on Context-Aware Grouping in 5G Edge Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1072-1083</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SongLCLC20</key><doi>10.1109/TMC.2019.2907593</doi><ee>https://doi.org/10.1109/TMC.2019.2907593</ee><url>https://dblp.org/rec/journals/tmc/SongLCLC20</url></info>
+<url>URL#1353890</url>
+</hit>
+<hit score="1" id="1353891">
+<info><authors><author pid="165/5494">Manikantan Srinivasan</author><author pid="78/4000">C. Siva Ram Murthy</author></authors><title>Efficient Spectrum Slicing in 5G Networks: An Overlapping Coalition Formation Approach.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1299-1316</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SrinivasanM20</key><doi>10.1109/TMC.2019.2908903</doi><ee>https://doi.org/10.1109/TMC.2019.2908903</ee><url>https://dblp.org/rec/journals/tmc/SrinivasanM20</url></info>
+<url>URL#1353891</url>
+</hit>
+<hit score="1" id="1353892">
+<info><authors><author pid="120/7754">Victor Sucasas</author><author pid="48/10015">Georgios Mantas</author><author pid="07/4684">Joaquim Bastos</author><author pid="260/5094">Francisco Damião</author><author pid="04/1616">Jonathan Rodriguez 0001</author></authors><title>A Signature Scheme with Unlinkable-yet-Accountable Pseudonymity for Privacy-Preserving Crowdsensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>752-768</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SucasasMBDR20</key><doi>10.1109/TMC.2019.2901463</doi><ee>https://doi.org/10.1109/TMC.2019.2901463</ee><url>https://dblp.org/rec/journals/tmc/SucasasMBDR20</url></info>
+<url>URL#1353892</url>
+</hit>
+<hit score="1" id="1353893">
+<info><authors><author pid="206/1455">Gordon J. Sutton</author><author pid="70/4241">Ren Ping Liu</author><author pid="25/5560">Y. Jay Guo</author></authors><title>Coexistence Performance and Limits of Frame-Based Listen-Before-Talk.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1084-1095</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/SuttonLG20</key><doi>10.1109/TMC.2019.2907937</doi><ee>https://doi.org/10.1109/TMC.2019.2907937</ee><url>https://dblp.org/rec/journals/tmc/SuttonLG20</url></info>
+<url>URL#1353893</url>
+</hit>
+<hit score="1" id="1353894">
+<info><authors><author pid="22/10799">Rajat Talak</author><author pid="45/1718">Sertac Karaman</author><author pid="m/EytanModiano">Eytan H. Modiano</author></authors><title>Capacity and Delay Scaling for Broadcast Transmission in Highly Mobile Wireless Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>1998-2009</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/TalakKM20</key><doi>10.1109/TMC.2019.2923733</doi><ee>https://doi.org/10.1109/TMC.2019.2923733</ee><url>https://dblp.org/rec/journals/tmc/TalakKM20</url></info>
+<url>URL#1353894</url>
+</hit>
+<hit score="1" id="1353895">
+<info><authors><author pid="09/3053">Tarik Taleb</author><author pid="24/4899">Pantelis A. Frangoudis</author><author pid="220/3012">Ilias Benkacem</author><author pid="37/6589">Adlen Ksentini</author></authors><title>CDN Slicing over a Multi-Domain Edge Cloud.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2010-2027</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/TalebFBK20</key><doi>10.1109/TMC.2019.2921712</doi><ee>https://doi.org/10.1109/TMC.2019.2921712</ee><url>https://dblp.org/rec/journals/tmc/TalebFBK20</url></info>
+<url>URL#1353895</url>
+</hit>
+<hit score="1" id="1353896">
+<info><authors><author pid="89/1428">Xiaohua Tian</author><author pid="21/1079">Xinyu Wu</author><author pid="17/5705-40">Hao Li 0040</author><author pid="96/1149">Xinbing Wang</author></authors><title>RF Fingerprints Prediction for Cellular Network Positioning: A Subspace Identification Approach.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>450-465</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/TianWLW20</key><doi>10.1109/TMC.2019.2893278</doi><ee>https://doi.org/10.1109/TMC.2019.2893278</ee><url>https://dblp.org/rec/journals/tmc/TianWLW20</url></info>
+<url>URL#1353896</url>
+</hit>
+<hit score="1" id="1353897">
+<info><authors><author pid="18/2901">Daxin Tian</author><author pid="146/9318">Jianshan Zhou</author><author pid="45/978">Yunpeng Wang</author><author pid="55/3503">Zhengguo Sheng</author><author pid="147/0452">Xuting Duan</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>Channel Access Optimization with Adaptive Congestion Pricing for Cognitive Vehicular Networks: An Evolutionary Game Approach.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>803-820</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/TianZWSDL20</key><doi>10.1109/TMC.2019.2901471</doi><ee>https://doi.org/10.1109/TMC.2019.2901471</ee><url>https://dblp.org/rec/journals/tmc/TianZWSDL20</url></info>
+<url>URL#1353897</url>
+</hit>
+<hit score="1" id="1353898">
+<info><authors><author pid="164/9111">Rubén Tolosana</author><author pid="62/5209">Rubén Vera-Rodríguez</author><author pid="97/4330">Julian Fiérrez</author></authors><title>BioTouchPass: Handwritten Passwords for Touchscreen Biometrics.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1532-1543</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/TolosanaVF20</key><doi>10.1109/TMC.2019.2911506</doi><ee>https://doi.org/10.1109/TMC.2019.2911506</ee><url>https://dblp.org/rec/journals/tmc/TolosanaVF20</url></info>
+<url>URL#1353898</url>
+</hit>
+<hit score="1" id="1353899">
+<info><authors><author pid="205/9695">Waqas Tariq Toor</author><author pid="66/479">Jun-Bae Seo</author><author pid="47/1138">Hu Jin</author></authors><title>Practical Splitting Algorithm for Multi-Channel Slotted Random Access Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2863-2873</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ToorSJ20</key><doi>10.1109/TMC.2019.2935970</doi><ee>https://doi.org/10.1109/TMC.2019.2935970</ee><url>https://dblp.org/rec/journals/tmc/ToorSJ20</url></info>
+<url>URL#1353899</url>
+</hit>
+<hit score="1" id="1353900">
+<info><authors><author pid="132/8008">Niloofar Toorchi</author><author pid="92/1299-1">Fei Hu 0001</author><author pid="76/8033">Scott Pudlewski</author><author pid="07/8842">Elizabeth S. Bentley</author><author pid="45/3365-1">Sunil Kumar 0001</author></authors><title>Volcano Routing: A Multi-Pipe High-Throughput Routing Protocol with Hole Avoidance for Multi-Beam Directional Mesh Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2981-2996</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ToorchiHPBK20</key><doi>10.1109/TMC.2019.2937088</doi><ee>https://doi.org/10.1109/TMC.2019.2937088</ee><url>https://dblp.org/rec/journals/tmc/ToorchiHPBK20</url></info>
+<url>URL#1353900</url>
+</hit>
+<hit score="1" id="1353901">
+<info><authors><author pid="195/6039">Zhen Tu</author><author pid="93/2334-8">Yong Li 0008</author><author pid="62/1272-1">Pan Hui 0001</author><author pid="05/365-1">Li Su 0001</author><author pid="46/5770">Depeng Jin</author></authors><title>Personalized Mobile App Recommendation by Learning User&apos;s Interest from Social Media.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2670-2683</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/TuLHSJ20</key><doi>10.1109/TMC.2019.2929388</doi><ee>https://doi.org/10.1109/TMC.2019.2929388</ee><url>https://dblp.org/rec/journals/tmc/TuLHSJ20</url></info>
+<url>URL#1353901</url>
+</hit>
+<hit score="1" id="1353902">
+<info><authors><author pid="196/7090">Amit Satish Unde</author><author pid="169/8453">Deepthi P. Pattathil</author></authors><title>Adaptive Compressive Video Coding for Embedded Camera Sensors: Compressed Domain Motion and Measurements Estimation.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2250-2263</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/UndeP20</key><doi>10.1109/TMC.2019.2926271</doi><ee>https://doi.org/10.1109/TMC.2019.2926271</ee><url>https://dblp.org/rec/journals/tmc/UndeP20</url></info>
+<url>URL#1353902</url>
+</hit>
+<hit score="1" id="1353903">
+<info><authors><author pid="22/4664">Anna Maria Vegni</author><author pid="139/7354">Camilo Batista Souza</author><author pid="41/1967">Valeria Loscrí</author><author pid="24/6240">Enrique Hernández-Orallo</author><author pid="22/2967">Pietro Manzoni</author></authors><title>Data Transmissions Using Hub Nodes in Vehicular Social Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1570-1585</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/VegniSLHM20</key><doi>10.1109/TMC.2019.2928803</doi><ee>https://doi.org/10.1109/TMC.2019.2928803</ee><url>https://dblp.org/rec/journals/tmc/VegniSLHM20</url></info>
+<url>URL#1353903</url>
+</hit>
+<hit score="1" id="1353904">
+<info><authors><author pid="160/8341">Luigi Vigneri</author><author pid="95/6795">Thrasyvoulos Spyropoulos</author><author pid="63/5559">Chadi Barakat</author></authors><title>Quality of Experience-Aware Mobile Edge Caching through a Vehicular Cloud.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2174-2188</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/VigneriSB20</key><doi>10.1109/TMC.2019.2921765</doi><ee>https://doi.org/10.1109/TMC.2019.2921765</ee><url>https://dblp.org/rec/journals/tmc/VigneriSB20</url></info>
+<url>URL#1353904</url>
+</hit>
+<hit score="1" id="1353905">
+<info><authors><author pid="72/628-5">Yao Wang 0005</author><author pid="79/6565">Wan-Dong Cai</author><author pid="65/4916">Tao Gu</author><author pid="24/803-6">Wei Shao 0006</author></authors><title>Your Eyes Reveal Your Secrets: An Eye Movement Based Password Inference on Smartphone.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>11</number><pages>2714-2730</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangCGS20</key><doi>10.1109/TMC.2019.2934690</doi><ee>https://doi.org/10.1109/TMC.2019.2934690</ee><url>https://dblp.org/rec/journals/tmc/WangCGS20</url></info>
+<url>URL#1353905</url>
+</hit>
+<hit score="1" id="1353906">
+<info><authors><author pid="133/3344">Xuehe Wang</author><author pid="65/7661">Lingjie Duan</author></authors><title>Economic Analysis of Rollover and Shared Data Plans.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2088-2100</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangD20</key><doi>10.1109/TMC.2019.2922132</doi><ee>https://doi.org/10.1109/TMC.2019.2922132</ee><url>https://dblp.org/rec/journals/tmc/WangD20</url></info>
+<url>URL#1353906</url>
+</hit>
+<hit score="1" id="1353907">
+<info><authors><author pid="58/4775-4">Xiaoyu Wang 0004</author><author pid="124/6911">Haipeng Dai</author><author pid="42/512">Weijun Wang</author><author pid="162/1613">Jiaqi Zheng</author><author pid="42/6220">Nan Yu</author><author pid="51/1742">Guihai Chen</author><author pid="57/5595">Wanchun Dou</author><author pid="68/2855">Xiaobing Wu</author></authors><title>Practical Heterogeneous Wireless Charger Placement with Obstacles.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1910-1927</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangDWZYCDW20</key><doi>10.1109/TMC.2019.2916384</doi><ee>https://doi.org/10.1109/TMC.2019.2916384</ee><url>https://dblp.org/rec/journals/tmc/WangDWZYCDW20</url></info>
+<url>URL#1353907</url>
+</hit>
+<hit score="1" id="1353908">
+<info><authors><author pid="32/3351">Zhiyuan Wang</author><author pid="92/2834-1">Lin Gao 0001</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>Duopoly Competition for Mobile Data Plans with Time Flexibility.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1286-1298</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangGH20</key><doi>10.1109/TMC.2019.2910256</doi><ee>https://doi.org/10.1109/TMC.2019.2910256</ee><url>https://dblp.org/rec/journals/tmc/WangGH20</url></info>
+<url>URL#1353908</url>
+</hit>
+<hit score="1" id="1353909">
+<info><authors><author pid="32/3351">Zhiyuan Wang</author><author pid="92/2834-1">Lin Gao 0001</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>Multi-Cap Optimization for Wireless Data Plans with Time Flexibility.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2145-2159</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangGH20a</key><doi>10.1109/TMC.2019.2920878</doi><ee>https://doi.org/10.1109/TMC.2019.2920878</ee><url>https://dblp.org/rec/journals/tmc/WangGH20a</url></info>
+<url>URL#1353909</url>
+</hit>
+<hit score="1" id="1353910">
+<info><authors><author pid="89/4432">Xiong Wang</author><author pid="148/1925">Riheng Jia</author><author pid="89/1428">Xiaohua Tian</author><author pid="13/29">Xiaoying Gan</author><author pid="44/7207">Luoyi Fu</author><author pid="96/1149">Xinbing Wang</author></authors><title>Location-Aware Crowdsensing: Dynamic Task Assignment and Truth Inference.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>362-375</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangJTGFW20</key><doi>10.1109/TMC.2018.2878821</doi><ee>https://doi.org/10.1109/TMC.2018.2878821</ee><url>https://dblp.org/rec/journals/tmc/WangJTGFW20</url></info>
+<url>URL#1353910</url>
+</hit>
+<hit score="1" id="1353911">
+<info><authors><author pid="88/3634">Junhua Wang</author><author pid="73/4566-1">Kai Liu 0001</author><author pid="89/6764-5">Bin Li 0005</author><author pid="25/3327-5">Tingting Liu 0005</author><author pid="167/0458">Ruoguang Li</author><author pid="83/514">Zhu Han 0001</author></authors><title>Delay-Sensitive Multi-Period Computation Offloading with Reliability Guarantees in Fog Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2062-2075</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangLLLLH20</key><doi>10.1109/TMC.2019.2918773</doi><ee>https://doi.org/10.1109/TMC.2019.2918773</ee><url>https://dblp.org/rec/journals/tmc/WangLLLLH20</url></info>
+<url>URL#1353911</url>
+</hit>
+<hit score="1" id="1353912">
+<info><authors><author pid="34/5591-3">Ge Wang 0003</author><author pid="70/3604-1">Chen Qian 0001</author><author pid="91/10470">Longfei Shangguan</author><author pid="88/886-2">Han Ding 0002</author><author pid="96/6606">Jinsong Han</author><author pid="226/9268">Kaiyan Cui</author><author pid="10/264">Wei Xi</author><author pid="59/4694">Jizhong Zhao</author></authors><title>HMO: Ordering RFID Tags with Static Devices in Mobile Environments.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>74-89</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangQSDHCXZ20</key><doi>10.1109/TMC.2018.2890520</doi><ee>https://doi.org/10.1109/TMC.2018.2890520</ee><url>https://dblp.org/rec/journals/tmc/WangQSDHCXZ20</url></info>
+<url>URL#1353912</url>
+</hit>
+<hit score="1" id="1353913">
+<info><authors><author pid="125/8189-77">Jun Wang 0077</author><author pid="170/5046">Karthik Rao</author><author pid="37/9083">Handong Ye</author></authors><title>An Application-Specific Approach to Energy Optimization on Android Mobile Devices.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1492-1505</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangRY20</key><doi>10.1109/TMC.2019.2914197</doi><ee>https://doi.org/10.1109/TMC.2019.2914197</ee><url>https://dblp.org/rec/journals/tmc/WangRY20</url></info>
+<url>URL#1353913</url>
+</hit>
+<hit score="1" id="1353914">
+<info><authors><author pid="95/8501">Run Wang</author><author pid="31/5772-1">Zhibo Wang 0001</author><author pid="219/5979">Benxiao Tang</author><author pid="87/734">Lei Zhao</author><author pid="01/1318">Lina Wang</author></authors><title>SmartPI: Understanding Permission Implications of Android Apps from User Reviews.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2933-2945</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangWTZW20</key><doi>10.1109/TMC.2019.2934441</doi><ee>https://doi.org/10.1109/TMC.2019.2934441</ee><url>https://dblp.org/rec/journals/tmc/WangWTZW20</url></info>
+<url>URL#1353914</url>
+</hit>
+<hit score="1" id="1353915">
+<info><authors><author pid="89/1891-1">Jiangtao Wang 0001</author><author pid="90/4225-40">Feng Wang 0040</author><author pid="70/2725">Yasha Wang</author><author pid="07/8764">Leye Wang</author><author pid="136/9541">Zhaopeng Qiu</author><author pid="83/1359-1">Daqing Zhang 0001</author><author pid="86/2663-1">Bin Guo 0001</author><author pid="11/808">Qin Lv</author></authors><title>HyTasker: Hybrid Task Allocation in Mobile Crowd Sensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>598-611</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangWWWQZGL20</key><doi>10.1109/TMC.2019.2898950</doi><ee>https://doi.org/10.1109/TMC.2019.2898950</ee><url>https://dblp.org/rec/journals/tmc/WangWWWQZGL20</url></info>
+<url>URL#1353915</url>
+</hit>
+<hit score="1" id="1353916">
+<info><authors><author pid="145/0641">Chuyu Wang</author><author pid="70/1741-4">Lei Xie 0004</author><author pid="w/WeiWang2">Wei Wang 0002</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="23/1877">Tao Xue</author><author pid="24/3318">Sanglu Lu</author></authors><title>Probing into the Physical Layer: Moving Tag Detection for Large-Scale RFID Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1200-1215</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangXWCXL20</key><doi>10.1109/TMC.2019.2907244</doi><ee>https://doi.org/10.1109/TMC.2019.2907244</ee><url>https://dblp.org/rec/journals/tmc/WangXWCXL20</url></info>
+<url>URL#1353916</url>
+</hit>
+<hit score="1" id="1353917">
+<info><authors><author pid="08/7722">Yanwen Wang</author><author pid="08/9937">Yuanqing Zheng</author></authors><title>TagBreathe: Monitor Breathing with Commodity RFID Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>969-981</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangZ20</key><doi>10.1109/TMC.2019.2900214</doi><ee>https://doi.org/10.1109/TMC.2019.2900214</ee><url>https://dblp.org/rec/journals/tmc/WangZ20</url></info>
+<url>URL#1353917</url>
+</hit>
+<hit score="1" id="1353918">
+<info><authors><author pid="w/XuWang18">Xu Wang 0018</author><author pid="133/3824">Zimu Zhou</author><author pid="51/4138">Yi Zhao</author><author pid="50/7645">Xinglin Zhang</author><author pid="07/3465">Kai Xing</author><author pid="91/8079-1">Fu Xiao 0001</author><author pid="59/5806-2">Zheng Yang 0002</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>Improving Urban Crowd Flow Prediction on Flexible Region Partition.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2804-2817</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WangZZZXXYL20</key><doi>10.1109/TMC.2019.2934461</doi><ee>https://doi.org/10.1109/TMC.2019.2934461</ee><url>https://dblp.org/rec/journals/tmc/WangZZZXXYL20</url></info>
+<url>URL#1353918</url>
+</hit>
+<hit score="1" id="1353919">
+<info><authors><author pid="16/1214">Tricia J. Willink</author></authors><title>Possibility-Based Trust for Mobile Wireless Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1896-1909</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/Willink20</key><doi>10.1109/TMC.2019.2911945</doi><ee>https://doi.org/10.1109/TMC.2019.2911945</ee><url>https://dblp.org/rec/journals/tmc/Willink20</url></info>
+<url>URL#1353919</url>
+</hit>
+<hit score="1" id="1353920">
+<info><authors><author pid="83/4296">Jongho Won</author><author pid="36/1273">Seung-Hyun Seo</author><author pid="b/ElisaBertino">Elisa Bertino</author></authors><title>A Secure Shuffling Mechanism for White-Box Attack-Resistant Unmanned Vehicles.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1023-1039</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WonSB20</key><doi>10.1109/TMC.2019.2903048</doi><ee>https://doi.org/10.1109/TMC.2019.2903048</ee><url>https://dblp.org/rec/journals/tmc/WonSB20</url></info>
+<url>URL#1353920</url>
+</hit>
+<hit score="1" id="1353921">
+<info><authors><author pid="129/1078">Wangkit Wong</author><author pid="278/1265">Kam-Wa Chau</author><author pid="c/ShuengHanGaryChan">S.-H. Gary Chan</author></authors><title>Joint Client Association and Random Access Control for MU-MIMO WLANs.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2818-2832</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WongCC20</key><doi>10.1109/TMC.2019.2935197</doi><ee>https://doi.org/10.1109/TMC.2019.2935197</ee><url>https://dblp.org/rec/journals/tmc/WongCC20</url></info>
+<url>URL#1353921</url>
+</hit>
+<hit score="1" id="1353922">
+<info><authors><author pid="209/2684">Hongjia Wu</author><author pid="97/6505-7">Qing Wang 0007</author><author pid="75/198-1">Jie Xiong 0001</author><author pid="z/MarcoZuniga">Marco Zuniga</author></authors><title>SmartVLC: Co-Designing Smart Lighting and Communication for Visible Light Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1956-1970</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/WuWXZ20</key><doi>10.1109/TMC.2019.2915220</doi><ee>https://doi.org/10.1109/TMC.2019.2915220</ee><url>https://dblp.org/rec/journals/tmc/WuWXZ20</url></info>
+<url>URL#1353922</url>
+</hit>
+<hit score="1" id="1353923">
+<info><authors><author pid="72/3192-1">Xin Xie 0001</author><author pid="136/3336">Xiulong Liu</author><author pid="51/8017">Heng Qi</author><author pid="43/5134-1">Bin Xiao 0001</author><author pid="21/6280">Keqiu Li</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Geographical Correlation-Based Data Collection for Sensor-Augmented RFID Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2344-2357</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XieLQXLW20</key><doi>10.1109/TMC.2019.2923413</doi><ee>https://doi.org/10.1109/TMC.2019.2923413</ee><url>https://dblp.org/rec/journals/tmc/XieLQXLW20</url></info>
+<url>URL#1353923</url>
+</hit>
+<hit score="1" id="1353924">
+<info><authors><author pid="72/3192-1">Xin Xie 0001</author><author pid="136/3336">Xiulong Liu</author><author pid="62/5754">Xibin Zhao</author><author pid="24/8970">Weilian Xue</author><author pid="43/5134-1">Bin Xiao 0001</author><author pid="51/8017">Heng Qi</author><author pid="21/6280">Keqiu Li</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Implementation of Differential Tag Sampling for COTS RFID Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1848-1861</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XieLZXXQLW20</key><doi>10.1109/TMC.2019.2917444</doi><ee>https://doi.org/10.1109/TMC.2019.2917444</ee><url>https://dblp.org/rec/journals/tmc/XieLZXXQLW20</url></info>
+<url>URL#1353924</url>
+</hit>
+<hit score="1" id="1353925">
+<info><authors><author pid="245/3236">Dianhan Xie</author><author pid="117/3760">Wenguang Mao</author><author pid="152/7661">Aimin Tang</author><author pid="69/5181-1">Xudong Wang 0001</author></authors><title>Collusion-Resistant Jamming for Securing Legacy Clients in Wireless Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2264-2277</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XieMTW20</key><doi>10.1109/TMC.2019.2927478</doi><ee>https://doi.org/10.1109/TMC.2019.2927478</ee><url>https://dblp.org/rec/journals/tmc/XieMTW20</url></info>
+<url>URL#1353925</url>
+</hit>
+<hit score="1" id="1353926">
+<info><authors><author pid="188/9306">Susu Xu</author><author pid="41/9922">Xinlei Chen</author><author pid="230/8132">Xidong Pi</author><author pid="40/9937">Carlee Joe-Wong</author><author pid="78/5323-1">Pei Zhang 0001</author><author pid="151/7287">Hae Young Noh</author></authors><title>iLOCuS: Incentivizing Vehicle Mobility to Optimize Sensing Distribution in Crowd Sensing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1831-1847</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XuCPJZN20</key><doi>10.1109/TMC.2019.2915838</doi><ee>https://doi.org/10.1109/TMC.2019.2915838</ee><url>https://dblp.org/rec/journals/tmc/XuCPJZN20</url></info>
+<url>URL#1353926</url>
+</hit>
+<hit score="1" id="1353927">
+<info><authors><author pid="143/0845">Mengwei Xu</author><author pid="54/476-1">Feng Qian 0001</author><author pid="227/8028">Mengze Zhu</author><author pid="256/7280">Feifan Huang</author><author pid="17/8037">Saumay Pushp</author><author pid="08/2161">Xuanzhe Liu</author></authors><title>DeepWear: Adaptive Local Offloading for On-Wearable Deep Learning.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>314-330</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XuQZHPL20</key><doi>10.1109/TMC.2019.2893250</doi><ee>https://doi.org/10.1109/TMC.2019.2893250</ee><url>https://dblp.org/rec/journals/tmc/XuQZHPL20</url></info>
+<url>URL#1353927</url>
+</hit>
+<hit score="1" id="1353928">
+<info><authors><author pid="95/3616-3">Jia Xu 0003</author><author pid="209/2756">Zhengqiang Rao</author><author pid="65/5553">Lijie Xu</author><author pid="81/7890">Dejun Yang</author><author pid="75/4601-1">Tao Li 0001</author></authors><title>Incentive Mechanism for Multiple Cooperative Tasks with Compatible Users in Mobile Crowd Sensing via Online Communities.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1618-1633</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XuRXYL20</key><doi>10.1109/TMC.2019.2911512</doi><ee>https://doi.org/10.1109/TMC.2019.2911512</ee><url>https://dblp.org/rec/journals/tmc/XuRXYL20</url></info>
+<url>URL#1353928</url>
+</hit>
+<hit score="1" id="1353929">
+<info><authors><author pid="172/1282">Xiangyu Xu</author><author pid="85/3615">Jiadi Yu</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="02/6595">Yanmin Zhu</author><author pid="l/MingluLi">Minglu Li 0001</author></authors><title>Leveraging Acoustic Signals for Vehicle Steering Tracking with Smartphones.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>865-879</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XuYCZL20</key><doi>10.1109/TMC.2019.2900011</doi><ee>https://doi.org/10.1109/TMC.2019.2900011</ee><url>https://dblp.org/rec/journals/tmc/XuYCZL20</url></info>
+<url>URL#1353929</url>
+</hit>
+<hit score="1" id="1353930">
+<info><authors><author pid="70/6770-1">Tong Xu 0001</author><author pid="61/10440">Hengshu Zhu</author><author pid="x/HuiXiong">Hui Xiong 0001</author><author pid="06/5514-2">Hao Zhong 0002</author><author pid="07/258">Enhong Chen</author></authors><title>Exploring the Social Learning of Taxi Drivers in Latent Vehicle-to-Vehicle Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1804-1817</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/XuZXZC20</key><doi>10.1109/TMC.2019.2915228</doi><ee>https://doi.org/10.1109/TMC.2019.2915228</ee><url>https://dblp.org/rec/journals/tmc/XuZXZC20</url></info>
+<url>URL#1353930</url>
+</hit>
+<hit score="1" id="1353931">
+<info><authors><author pid="183/6792">Yanbing Yang</author><author pid="42/2501-1">Jun Luo 0001</author></authors><title>Composite Amplitude-Shift Keying for Effective LED-Camera VLC.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>528-539</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YangL20</key><doi>10.1109/TMC.2019.2897101</doi><ee>https://doi.org/10.1109/TMC.2019.2897101</ee><url>https://dblp.org/rec/journals/tmc/YangL20</url></info>
+<url>URL#1353931</url>
+</hit>
+<hit score="1" id="1353932">
+<info><authors><author pid="25/5712">Guang Yang</author><author pid="142/1160">Xiufang Shi</author><author pid="39/456-1">Li Feng 0001</author><author pid="07/7178">Shibo He</author><author pid="34/520-1">Zhiguo Shi 0001</author><author pid="55/2484-1">Jiming Chen 0001</author></authors><title>CEDAR: A Cost-Effective Crowdsensing System for Detecting and Localizing Drones.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2028-2043</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YangSFHSC20</key><doi>10.1109/TMC.2019.2921962</doi><ee>https://doi.org/10.1109/TMC.2019.2921962</ee><url>https://dblp.org/rec/journals/tmc/YangSFHSC20</url></info>
+<url>URL#1353932</url>
+</hit>
+<hit score="1" id="1353933">
+<info><authors><author pid="132/2740">Junhong Ye</author><author pid="80/3143">Ying-Jun Angela Zhang</author></authors><title>DRAG: Deep Reinforcement Learning Based Base Station Activation in Heterogeneous Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2076-2087</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YeZ20</key><doi>10.1109/TMC.2019.2922602</doi><ee>https://doi.org/10.1109/TMC.2019.2922602</ee><url>https://dblp.org/rec/journals/tmc/YeZ20</url></info>
+<url>URL#1353933</url>
+</hit>
+<hit score="1" id="1353934">
+<info><authors><author pid="150/5634">Changyan Yi</author><author pid="72/3887-1">Jun Cai 0001</author><author pid="67/4307">Zhou Su</author></authors><title>A Multi-User Mobile Computation Offloading and Transmission Scheduling Mechanism for Delay-Sensitive Applications.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>29-43</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YiCS20</key><doi>10.1109/TMC.2019.2891736</doi><ee>https://doi.org/10.1109/TMC.2019.2891736</ee><url>https://dblp.org/rec/journals/tmc/YiCS20</url></info>
+<url>URL#1353934</url>
+</hit>
+<hit score="1" id="1353935">
+<info><authors><author pid="127/1000">Hüseyin Yigitler</author><author pid="65/8067">Ossi Kaltiokallio</author><author pid="120/6868">Roland Hostettler</author><author pid="188/4708">Alemayehu Solomon Abrar</author><author pid="j/RikuJantti">Riku Jäntti</author><author pid="45/3974">Neal Patwari</author><author pid="38/4897">Simo Särkkä</author></authors><title>RSS Models for Respiration Rate Monitoring.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>680-696</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YigitlerKHAJPS20</key><doi>10.1109/TMC.2019.2897682</doi><ee>https://doi.org/10.1109/TMC.2019.2897682</ee><url>https://dblp.org/rec/journals/tmc/YigitlerKHAJPS20</url></info>
+<url>URL#1353935</url>
+</hit>
+<hit score="1" id="1353936">
+<info><authors><author pid="49/1495">Jongwon Yoon</author><author pid="345/5455-1">Suman Banerjee 0001</author></authors><title>Hardware-Assisted, Low-Cost Video Transcoding Solution in Wireless Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>581-597</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YoonB20</key><doi>10.1109/TMC.2019.2898834</doi><ee>https://doi.org/10.1109/TMC.2019.2898834</ee><url>https://dblp.org/rec/journals/tmc/YoonB20</url></info>
+<url>URL#1353936</url>
+</hit>
+<hit score="1" id="1353937">
+<info><authors><author pid="120/8707">Shuai Yu</author><author pid="146/8146">Boutheina Dab</author><author pid="64/3103">Zeinab Movahedi</author><author pid="82/2229">Rami Langar</author><author pid="58/6810-39">Li Wang 0039</author></authors><title>A Socially-Aware Hybrid Computation Offloading Framework for Multi-Access Edge Computing.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1247-1259</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YuDMLW20</key><doi>10.1109/TMC.2019.2908154</doi><ee>https://doi.org/10.1109/TMC.2019.2908154</ee><url>https://dblp.org/rec/journals/tmc/YuDMLW20</url></info>
+<url>URL#1353937</url>
+</hit>
+<hit score="1" id="1353938">
+<info><authors><author pid="41/5200">Jihong Yu</author><author pid="11/3249-1">Wei Gong 0001</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author><author pid="13/3479-2">Lin Chen 0002</author><author pid="62/9365">Kehao Wang 0001</author><author pid="03/5201">Rongrong Zhang</author></authors><title>Missing Tag Identification in COTS RFID Systems: Bridging the Gap between Theory and Practice.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>130-141</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YuGLCWZ20</key><doi>10.1109/TMC.2018.2889068</doi><ee>https://doi.org/10.1109/TMC.2018.2889068</ee><url>https://dblp.org/rec/journals/tmc/YuGLCWZ20</url></info>
+<url>URL#1353938</url>
+</hit>
+<hit score="1" id="1353939">
+<info><authors><author pid="121/0376">Haoran Yu</author><author pid="80/7475">George Iosifidis</author><author pid="64/6717">Biying Shou</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>Pricing for Collaboration between Online Apps and Offline Venues.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1420-1433</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YuISH20</key><doi>10.1109/TMC.2019.2910264</doi><ee>https://doi.org/10.1109/TMC.2019.2910264</ee><url>https://dblp.org/rec/journals/tmc/YuISH20</url></info>
+<url>URL#1353939</url>
+</hit>
+<hit score="1" id="1353940">
+<info><authors><author pid="127/0943">Tuo Yu</author><author pid="14/3177">Haiming Jin</author><author pid="45/3224">Klara Nahrstedt</author></authors><title>Mobile Devices based Eavesdropping of Handwriting.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1649-1663</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YuJN20</key><doi>10.1109/TMC.2019.2912747</doi><ee>https://doi.org/10.1109/TMC.2019.2912747</ee><url>https://dblp.org/rec/journals/tmc/YuJN20</url></info>
+<url>URL#1353940</url>
+</hit>
+<hit score="1" id="1353941">
+<info><authors><author pid="41/5200">Jihong Yu</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author><author pid="03/5201">Rongrong Zhang</author><author pid="13/3479-2">Lin Chen 0002</author><author pid="11/3249-1">Wei Gong 0001</author><author pid="74/10296">Shurong Zhang</author></authors><title>Multi-Seed Group Labeling in RFID Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>12</number><pages>2850-2862</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/YuLZCGZ20</key><doi>10.1109/TMC.2019.2934445</doi><ee>https://doi.org/10.1109/TMC.2019.2934445</ee><url>https://dblp.org/rec/journals/tmc/YuLZCGZ20</url></info>
+<url>URL#1353941</url>
+</hit>
+<hit score="1" id="1353942">
+<info><authors><author pid="173/1777">Yufeng Zhan</author><author pid="45/4723">Chi Harold Liu</author><author pid="266/6179">Yinuo Zhao</author><author pid="94/2739-3">Jiang Zhang 0003</author><author pid="181/2667-8">Jian Tang 0008</author></authors><title>Free Market of Multi-Leader Multi-Follower Mobile Crowdsensing: An Incentive Mechanism Design by Deep Reinforcement Learning.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>10</number><pages>2316-2329</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhanLZZT20</key><doi>10.1109/TMC.2019.2927314</doi><ee>https://doi.org/10.1109/TMC.2019.2927314</ee><url>https://dblp.org/rec/journals/tmc/ZhanLZZT20</url></info>
+<url>URL#1353942</url>
+</hit>
+<hit score="1" id="1353943">
+<info><authors><author pid="89/6855">Zhenyong Zhang</author><author pid="07/7178">Shibo He</author><author pid="64/10521">Yuanchao Shu</author><author pid="34/520-1">Zhiguo Shi 0001</author></authors><title>A Self-Evolving WiFi-based Indoor Navigation System Using Smartphones.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1760-1774</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhangHSS20</key><doi>10.1109/TMC.2019.2915221</doi><ee>https://doi.org/10.1109/TMC.2019.2915221</ee><url>https://dblp.org/rec/journals/tmc/ZhangHSS20</url></info>
+<url>URL#1353943</url>
+</hit>
+<hit score="1" id="1353944">
+<info><authors><author pid="66/5976">Guanghui Zhang</author><author pid="l/JackYiuBunLee">Jack Y. B. Lee</author></authors><title>Ensemble Adaptive Streaming - A New Paradigm to Generate Streaming Algorithms via Specializations.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>6</number><pages>1346-1358</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhangL20</key><doi>10.1109/TMC.2019.2909202</doi><ee>https://doi.org/10.1109/TMC.2019.2909202</ee><url>https://dblp.org/rec/journals/tmc/ZhangL20</url></info>
+<url>URL#1353944</url>
+</hit>
+<hit score="1" id="1353945">
+<info><authors><author pid="146/0870">Yonglong Zhang</author><author pid="68/3430">Konstantinos Psounis</author></authors><title>Efficient Indoor Localization via Switched-Beam Antennas.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>9</number><pages>2101-2115</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhangP20</key><doi>10.1109/TMC.2019.2921763</doi><ee>https://doi.org/10.1109/TMC.2019.2921763</ee><url>https://dblp.org/rec/journals/tmc/ZhangP20</url></info>
+<url>URL#1353945</url>
+</hit>
+<hit score="1" id="1353946">
+<info><authors><author pid="07/4227-18">Tong Zhang 0018</author><author pid="05/6995">Fengyuan Ren</author><author pid="180/5887">Wenxue Cheng</author><author pid="121/5533">Xiaohui Luo</author><author pid="06/11343-1">Ran Shu 0001</author><author pid="97/6143">Xiaolan Liu</author></authors><title>Towards Influence of Chunk Size Variation on Video Streaming in Wireless Networks.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1715-1730</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhangRCLSL20</key><doi>10.1109/TMC.2019.2912750</doi><ee>https://doi.org/10.1109/TMC.2019.2912750</ee><url>https://dblp.org/rec/journals/tmc/ZhangRCLSL20</url></info>
+<url>URL#1353946</url>
+</hit>
+<hit score="1" id="1353947">
+<info><authors><author pid="21/7829">Deyu Zhang</author><author pid="13/2836">Long Tan</author><author pid="00/468">Ju Ren</author><author pid="84/1525">Mohamad Khattar Awad</author><author pid="14/6026-1">Shan Zhang 0001</author><author pid="99/4094">Yaoxue Zhang</author><author pid="90/716">Peng-Jun Wan</author></authors><title>Near-Optimal and Truthful Online Auction for Computation Offloading in Green Edge-Computing Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>880-893</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhangTRAZZW20</key><doi>10.1109/TMC.2019.2901474</doi><ee>https://doi.org/10.1109/TMC.2019.2901474</ee><url>https://dblp.org/rec/journals/tmc/ZhangTRAZZW20</url></info>
+<url>URL#1353947</url>
+</hit>
+<hit score="1" id="1353948">
+<info><authors><author pid="06/449-1">Xinming Zhang 0001</author><author pid="35/8591">Lei Tao</author><author pid="90/1716">Fan Yan</author><author pid="65/3004">Dan Keun Sung</author></authors><title>Shortest-Latency Opportunistic Routing in Asynchronous Wireless Sensor Networks with Independent Duty-Cycling.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>711-723</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhangTYS20</key><doi>10.1109/TMC.2019.2897998</doi><ee>https://doi.org/10.1109/TMC.2019.2897998</ee><url>https://dblp.org/rec/journals/tmc/ZhangTYS20</url></info>
+<url>URL#1353948</url>
+</hit>
+<hit score="1" id="1353949">
+<info><authors><author pid="69/5882">Jing Zhao</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>SCsec: A Secure Near Field Communication System via Screen Camera Communication.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>8</number><pages>1943-1955</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhaoL20</key><doi>10.1109/TMC.2019.2913412</doi><ee>https://doi.org/10.1109/TMC.2019.2913412</ee><url>https://dblp.org/rec/journals/tmc/ZhaoL20</url></info>
+<url>URL#1353949</url>
+</hit>
+<hit score="1" id="1353950">
+<info><authors><author pid="132/8083">Zhenzhe Zheng</author><author pid="16/10885">Yanqing Peng</author><author pid="07/6378-6">Fan Wu 0006</author><author pid="68/3428">Shaojie Tang</author><author pid="51/1742">Guihai Chen</author></authors><title>ARETE: On Designing Joint Online Pricing and Reward Sharing Mechanisms for Mobile Data Markets.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>4</number><pages>769-787</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhengPWTC20</key><doi>10.1109/TMC.2019.2900243</doi><ee>https://doi.org/10.1109/TMC.2019.2900243</ee><url>https://dblp.org/rec/journals/tmc/ZhengPWTC20</url></info>
+<url>URL#1353950</url>
+</hit>
+<hit score="1" id="1353951">
+<info><authors><author pid="90/3394-1">Bing Zhou 0001</author><author pid="198/6789">Mohammed Elbadry</author><author pid="137/0080">Ruipeng Gao</author><author pid="41/4923-3">Fan Ye 0003</author></authors><title>Towards Scalable Indoor Map Construction and Refinement using Acoustics on Smartphones.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>1</number><pages>217-230</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhouEGY20</key><doi>10.1109/TMC.2019.2892091</doi><ee>https://doi.org/10.1109/TMC.2019.2892091</ee><url>https://dblp.org/rec/journals/tmc/ZhouEGY20</url></info>
+<url>URL#1353951</url>
+</hit>
+<hit score="1" id="1353952">
+<info><authors><author pid="146/9318">Jianshan Zhou</author><author pid="18/2901">Daxin Tian</author><author pid="45/978">Yunpeng Wang</author><author pid="55/3503">Zhengguo Sheng</author><author pid="147/0452">Xuting Duan</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>Reliability-Optimal Cooperative Communication and Computing in Connected Vehicle Systems.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>5</number><pages>1216-1232</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhouTWSDL20</key><doi>10.1109/TMC.2019.2907491</doi><ee>https://doi.org/10.1109/TMC.2019.2907491</ee><url>https://dblp.org/rec/journals/tmc/ZhouTWSDL20</url></info>
+<url>URL#1353952</url>
+</hit>
+<hit score="1" id="1353953">
+<info><authors><author pid="07/4691-4">Weiping Zhu 0004</author><author pid="99/8754">Xing Meng</author><author pid="234/3293">Xiaolei Peng</author><author pid="c/JiannongCao">Jiannong Cao 0001</author><author pid="r/MichelRaynal">Michel Raynal</author></authors><title>Collisions Are Preferred: RFID-Based Stocktaking with a High Missing Rate.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>7</number><pages>1544-1554</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhuMPCR20</key><doi>10.1109/TMC.2019.2911586</doi><ee>https://doi.org/10.1109/TMC.2019.2911586</ee><url>https://dblp.org/rec/journals/tmc/ZhuMPCR20</url></info>
+<url>URL#1353953</url>
+</hit>
+<hit score="1" id="1353954">
+<info><authors><author pid="153/5745">Tiantian Zhu</author><author pid="29/10799">Zhengyang Qu</author><author pid="41/10114-2">Haitao Xu 0002</author><author pid="75/2733">Jingsi Zhang</author><author pid="202/4361">Zhengyue Shao</author><author pid="88/2827-4">Yan Chen 0004</author><author pid="29/918">Sandeep Prabhakar</author><author pid="81/4869">Jianfeng Yang</author></authors><title>RiskCog: Unobtrusive Real-Time User Authentication on Mobile Devices in the Wild.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>2</number><pages>466-483</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhuQXZSCPY20</key><doi>10.1109/TMC.2019.2892440</doi><ee>https://doi.org/10.1109/TMC.2019.2892440</ee><url>https://dblp.org/rec/journals/tmc/ZhuQXZSCPY20</url></info>
+<url>URL#1353954</url>
+</hit>
+<hit score="1" id="1353955">
+<info><authors><author pid="91/5153">Meng Zhu</author><author pid="80/1422">Kai Shen</author></authors><title>Interactive Context for Mobile OS Resource Management.</title><venue>IEEE Trans. Mob. Comput.</venue><volume>19</volume><number>3</number><pages>612-623</pages><year>2020</year><type>Journal Articles</type><access>closed</access><key>journals/tmc/ZhuS20</key><doi>10.1109/TMC.2019.2899088</doi><ee>https://doi.org/10.1109/TMC.2019.2899088</ee><url>https://dblp.org/rec/journals/tmc/ZhuS20</url></info>
+<url>URL#1353955</url>
+</hit>
+</hits>
+</result>

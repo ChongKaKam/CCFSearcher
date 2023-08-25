@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239073">:facetid:toc:\"db/conf/infocom/infocom2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">190.22</time>
+<completions total="1" computed="1" sent="1">
+<c sc="225" dc="225" oc="225" id="41035687">:facetid:toc:db/conf/infocom/infocom2022.bht</c>
+</completions>
+<hits total="225" computed="225" sent="225" first="0">
+<hit score="1" id="571196">
+<info><authors><author pid="171/9742-1">Antonio Albanese 0001</author><author pid="191/3837">Francesco Devoti</author><author pid="132/7802">Vincenzo Sciancalepore</author><author pid="88/609">Marco Di Renzo</author><author pid="42/2579">Xavier Costa-Pérez</author></authors><title>MARISA: A Self-configuring Metasurfaces Absorption and Reflection Solution Towards 6G.</title><venue>INFOCOM</venue><pages>250-259</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/AlbaneseDSRC22</key><doi>10.1109/INFOCOM48880.2022.9796976</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796976</ee><url>https://dblp.org/rec/conf/infocom/AlbaneseDSRC22</url></info>
+<url>URL#571196</url>
+</hit>
+<hit score="1" id="571200">
+<info><authors><author pid="308/1023">Hankyul Baek</author><author pid="274/6999">Won Joon Yun</author><author pid="298/8218">Yunseok Kwak</author><author pid="203/9638">Soyi Jung</author><author pid="50/7911">Mingyue Ji</author><author pid="09/3625">Mehdi Bennis</author><author pid="136/5609">Jihong Park</author><author pid="69/4977">Joongheon Kim</author></authors><title>Joint Superposition Coding and Training for Federated Learning over Multi-Width Neural Networks.</title><venue>INFOCOM</venue><pages>1729-1738</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/BaekYKJJBPK22</key><doi>10.1109/INFOCOM48880.2022.9796733</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796733</ee><url>https://dblp.org/rec/conf/infocom/BaekYKJJBPK22</url></info>
+<url>URL#571200</url>
+</hit>
+<hit score="1" id="571202">
+<info><authors><author pid="147/9921">Luca Baldesi</author><author pid="119/9062">Francesco Restuccia</author><author pid="05/1629">Tommaso Melodia</author></authors><title>ChARM: NextG Spectrum Sharing Through Data-Driven Real-Time O-RAN Dynamic Control.</title><venue>INFOCOM</venue><pages>240-249</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/BaldesiRM22</key><doi>10.1109/INFOCOM48880.2022.9796985</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796985</ee><url>https://dblp.org/rec/conf/infocom/BaldesiRM22</url></info>
+<url>URL#571202</url>
+</hit>
+<hit score="1" id="571211">
+<info><authors><author pid="304/8380">Alexander Brundiers</author><author pid="209/2400">Timmy Schüller</author><author pid="93/317">Nils Aschenbruck</author></authors><title>Midpoint Optimization for Segment Routing.</title><venue>INFOCOM</venue><pages>1579-1588</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/BrundiersSA22</key><doi>10.1109/INFOCOM48880.2022.9796747</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796747</ee><url>https://dblp.org/rec/conf/infocom/BrundiersSA22</url></info>
+<url>URL#571211</url>
+</hit>
+<hit score="1" id="571214">
+<info><authors><author pid="285/7178">Fabrício B. Carvalho</author><author pid="63/3999">Ronaldo A. Ferreira</author><author pid="80/186">Ítalo Cunha</author><author pid="11/6979">Marcos A. M. Vieira</author><author pid="75/541">Murali Krishna Ramanathan</author></authors><title>Dyssect: Dynamic Scaling of Stateful Network Functions.</title><venue>INFOCOM</venue><pages>1529-1538</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/CarvalhoFCVR22</key><doi>10.1109/INFOCOM48880.2022.9796848</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796848</ee><url>https://dblp.org/rec/conf/infocom/CarvalhoFCVR22</url></info>
+<url>URL#571214</url>
+</hit>
+<hit score="1" id="571218">
+<info><authors><author pid="40/3858-3">Quan Chen 0003</author><author pid="14/5155-1">Zhipeng Cai 0001</author><author pid="58/1879">Lianglun Cheng</author><author pid="90/4225">Feng Wang</author><author pid="32/1438-1">Hong Gao 0001</author></authors><title>Joint Near-Optimal Age-based Data Transmission and Energy Replenishment Scheduling at Wireless-Powered Network Edge.</title><venue>INFOCOM</venue><pages>770-779</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenCCWG22</key><doi>10.1109/INFOCOM48880.2022.9796808</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796808</ee><url>https://dblp.org/rec/conf/infocom/ChenCCWG22</url></info>
+<url>URL#571218</url>
+</hit>
+<hit score="1" id="571219">
+<info><authors><author pid="52/8180">Yuefeng Chen</author><author pid="189/9854">Yicong Du</author><author pid="243/8312">Chunlong Xu</author><author pid="205/9662">Yanghai Yu</author><author pid="78/6365-2">Hongbo Liu 0002</author><author pid="123/3797">Huan Dai</author><author pid="34/8334">Yanzhi Ren</author><author pid="85/3615">Jiadi Yu</author></authors><title>ArmSpy: Video-assisted PIN Inference Leveraging Keystroke-induced Arm Posture Changes.</title><venue>INFOCOM</venue><pages>1878-1887</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenDXYLDRY22</key><doi>10.1109/INFOCOM48880.2022.9796738</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796738</ee><url>https://dblp.org/rec/conf/infocom/ChenDXYLDRY22</url></info>
+<url>URL#571219</url>
+</hit>
+<hit score="1" id="571221">
+<info><authors><author pid="310/0746">Yike Chen</author><author pid="71/4173">Ming Gao</author><author pid="90/265">Yimin Li</author><author pid="168/8350">Lingfeng Zhang</author><author pid="49/2793-8">Li Lu 0008</author><author pid="75/2611-4">Feng Lin 0004</author><author pid="96/6606">Jinsong Han</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>Big Brother is Listening: An Evaluation Framework on Ultrasonic Microphone Jammers.</title><venue>INFOCOM</venue><pages>1119-1128</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenGLZLLHR22</key><doi>10.1109/INFOCOM48880.2022.9796834</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796834</ee><url>https://dblp.org/rec/conf/infocom/ChenGLZLLHR22</url></info>
+<url>URL#571221</url>
+</hit>
+<hit score="1" id="571222">
+<info><authors><author pid="161/8672">Yongce Chen</author><author pid="h/YTHou">Y. Thomas Hou 0001</author><author pid="73/3673">Wenjing Lou</author><author pid="42/564">Jeffrey H. Reed</author><author pid="07/790">Sastry Kompella</author></authors><title>M3: A Sub-Millisecond Scheduler for Multi-Cell MIMO Networks under C-RAN Architecture.</title><venue>INFOCOM</venue><pages>130-139</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenHLRK22</key><doi>10.1109/INFOCOM48880.2022.9796829</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796829</ee><url>https://dblp.org/rec/conf/infocom/ChenHLRK22</url></info>
+<url>URL#571222</url>
+</hit>
+<hit score="1" id="571224">
+<info><authors><author pid="21/5521">Ying Chen</author><author pid="311/3577">Hojung Kwon</author><author pid="99/5935">Hazer Inaltekin</author><author pid="58/7552">Maria Gorlatova</author></authors><title>VR Viewport Pose Model for Quantifying and Exploiting Frame Correlations.</title><venue>INFOCOM</venue><pages>1269-1278</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenKIG22</key><doi>10.1109/INFOCOM48880.2022.9796904</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796904</ee><url>https://dblp.org/rec/conf/infocom/ChenKIG22</url></info>
+<url>URL#571224</url>
+</hit>
+<hit score="1" id="571225">
+<info><authors><author pid="60/2243">Sijia Chen</author><author pid="l/BaochunLi">Baochun Li</author></authors><title>Towards Optimal Multi-Modal Federated Learning on Non-IID Data with Hierarchical Gradient Blending.</title><venue>INFOCOM</venue><pages>1469-1478</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenL22</key><doi>10.1109/INFOCOM48880.2022.9796724</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796724</ee><url>https://dblp.org/rec/conf/infocom/ChenL22</url></info>
+<url>URL#571225</url>
+</hit>
+<hit score="1" id="571226">
+<info><authors><author pid="25/687">Meng Chen</author><author pid="49/2793-8">Li Lu 0008</author><author pid="139/5759">Zhongjie Ba</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>PhoneyTalker: An Out-of-the-Box Toolkit for Adversarial Example Attack on Speaker Recognition.</title><venue>INFOCOM</venue><pages>1419-1428</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenLBR22</key><doi>10.1109/INFOCOM48880.2022.9796934</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796934</ee><url>https://dblp.org/rec/conf/infocom/ChenLBR22</url></info>
+<url>URL#571226</url>
+</hit>
+<hit score="1" id="571227">
+<info><authors><author pid="64/3062">Xiang Chen</author><author pid="28/374">Hongyan Liu</author><author pid="60/1517">Junyi Guo</author><author pid="238/9404">Xinyue Jiang</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="68/3245">Dong Zhang</author><author pid="97/8329-1">Chunming Wu 0001</author><author pid="81/6572">Haifeng Zhou</author></authors><title>Torp: Full-Coverage and Low-Overhead Profiling of Host-Side Latency.</title><venue>INFOCOM</venue><pages>1349-1358</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenLGJHZWZ22</key><doi>10.1109/INFOCOM48880.2022.9796758</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796758</ee><url>https://dblp.org/rec/conf/infocom/ChenLGJHZWZ22</url></info>
+<url>URL#571227</url>
+</hit>
+<hit score="1" id="571228">
+<info><authors><author pid="13/3479-2">Lin Chen 0002</author><author pid="p/RCWPhan">Raphael C.-W. Phan</author><author pid="22/5227">Zhili Chen</author><author pid="41/3836">Dan Huang</author></authors><title>Persistent Items Tracking in Large Data Streams Based on Adaptive Sampling.</title><venue>INFOCOM</venue><pages>1948-1957</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenPCH22</key><doi>10.1109/INFOCOM48880.2022.9796709</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796709</ee><url>https://dblp.org/rec/conf/infocom/ChenPCH22</url></info>
+<url>URL#571228</url>
+</hit>
+<hit score="1" id="571229">
+<info><authors><author pid="81/4345-3">Fei Chen 0003</author><author pid="34/5354">Jiahao Wang</author><author pid="149/4627">Changkun Jiang</author><author pid="22/4460">Tao Xiang</author><author pid="10/2031-1">Yuanyuan Yang 0001</author></authors><title>Blockchain Based Non-repudiable IoT Data Trading: Simpler, Faster, and Cheaper.</title><venue>INFOCOM</venue><pages>1958-1967</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenWJXY22</key><doi>10.1109/INFOCOM48880.2022.9796857</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796857</ee><url>https://dblp.org/rec/conf/infocom/ChenWJXY22</url></info>
+<url>URL#571229</url>
+</hit>
+<hit score="1" id="571230">
+<info><authors><author pid="227/0114">Shutong Chen</author><author pid="17/6729-15">Lin Wang 0015</author><author pid="31/6019">Fangming Liu</author></authors><title>Optimal Admission Control Mechanism Design for Time-Sensitive Services in Edge Computing.</title><venue>INFOCOM</venue><pages>1169-1178</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenWL22</key><doi>10.1109/INFOCOM48880.2022.9796847</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796847</ee><url>https://dblp.org/rec/conf/infocom/ChenWL22</url></info>
+<url>URL#571230</url>
+</hit>
+<hit score="1" id="571233">
+<info><authors><author pid="87/1254-38">Yu Chen 0038</author><author pid="69/6137-1">Sheng Zhang 0001</author><author pid="184/7591-1">Yibo Jin 0001</author><author pid="96/2572">Zhuzhong Qian</author><author pid="94/3601">Mingjun Xiao</author><author pid="56/1670">Ning Chen</author><author pid="37/2197-2">Zhi Ma 0002</author></authors><title>Learning for Crowdsourcing: Online Dispatch for Video Analytics with Guarantee.</title><venue>INFOCOM</venue><pages>1908-1917</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChenZJQXCM22</key><doi>10.1109/INFOCOM48880.2022.9796960</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796960</ee><url>https://dblp.org/rec/conf/infocom/ChenZJQXCM22</url></info>
+<url>URL#571233</url>
+</hit>
+<hit score="1" id="571234">
+<info><authors><author pid="217/7158">Geyao Cheng</author><author pid="74/6501">Deke Guo</author><author pid="147/1462">Lailong Luo</author><author pid="229/7749">Junxu Xia</author><author pid="199/8201">Yuchen Sun</author></authors><title>Jingwei: An Efficient and Adaptable Data Migration Strategy for Deduplicated Storage Systems.</title><venue>INFOCOM</venue><pages>1659-1668</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ChengGLXS22</key><doi>10.1109/INFOCOM48880.2022.9796954</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796954</ee><url>https://dblp.org/rec/conf/infocom/ChengGLXS22</url></info>
+<url>URL#571234</url>
+</hit>
+<hit score="1" id="571238">
+<info><authors><author pid="322/9974">Alan Collet</author><author pid="b/AlbertBanchs">Albert Banchs</author><author pid="75/1476">Marco Fiore</author></authors><title>LossLeaP: Learning to Predict for Intent-Based Networking.</title><venue>INFOCOM</venue><pages>2138-2147</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ColletBF22</key><doi>10.1109/INFOCOM48880.2022.9796918</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796918</ee><url>https://dblp.org/rec/conf/infocom/ColletBF22</url></info>
+<url>URL#571238</url>
+</hit>
+<hit score="1" id="571239">
+<info><authors><author pid="86/10615">Laizhong Cui</author><author pid="284/2295">Xiaoxin Su</author><author pid="78/6594">Yipeng Zhou</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author></authors><title>Optimal Rate Adaption in Federated Learning with Compressed Communications.</title><venue>INFOCOM</venue><pages>1459-1468</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/CuiSZL22</key><doi>10.1109/INFOCOM48880.2022.9796982</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796982</ee><url>https://dblp.org/rec/conf/infocom/CuiSZL22</url></info>
+<url>URL#571239</url>
+</hit>
+<hit score="1" id="571240">
+<info><authors><author pid="68/4815">Xiang Cui</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="271/9884">Jialin Deng</author><author pid="298/3250">Wangqiu Zhou</author><author pid="124/6758">Xing Guo</author><author pid="15/4208-3">Yu Gu 0003</author></authors><title>Mag-E4E: Trade Efficiency for Energy in Magnetic MIMO Wireless Power Transfer System.</title><venue>INFOCOM</venue><pages>440-449</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/CuiZDZGG22</key><doi>10.1109/INFOCOM48880.2022.9796771</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796771</ee><url>https://dblp.org/rec/conf/infocom/CuiZDZGG22</url></info>
+<url>URL#571240</url>
+</hit>
+<hit score="1" id="571242">
+<info><authors><author pid="133/4761">Salvatore D&apos;Oro</author><author pid="202/9921">Leonardo Bonati</author><author pid="175/1389">Michele Polese</author><author pid="05/1629">Tommaso Melodia</author></authors><title>OrchestRAN: Network Automation through Orchestrated Intelligence in the Open RAN.</title><venue>INFOCOM</venue><pages>270-279</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DOroBPM22</key><doi>10.1109/INFOCOM48880.2022.9796744</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796744</ee><url>https://dblp.org/rec/conf/infocom/DOroBPM22</url></info>
+<url>URL#571242</url>
+</hit>
+<hit score="1" id="571243">
+<info><authors><author pid="71/5406">Liang Dai</author><author pid="87/8991">Wenchao Chen</author><author pid="49/3816-1">Yanwei Liu 0001</author><author pid="80/3074">Antonios Argyriou</author><author pid="52/5716">Chang Liu</author><author pid="64/4492">Tao Lin</author><author pid="78/8758">Penghui Wang</author><author pid="02/6332">Zhen Xu</author><author pid="89/5615-1">Bo Chen 0001</author></authors><title>Switching Gaussian Mixture Variational RNN for Anomaly Detection of Diverse CDN Websites.</title><venue>INFOCOM</venue><pages>300-309</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DaiCLALLWXC22</key><doi>10.1109/INFOCOM48880.2022.9796836</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796836</ee><url>https://dblp.org/rec/conf/infocom/DaiCLALLWXC22</url></info>
+<url>URL#571243</url>
+</hit>
+<hit score="1" id="571244">
+<info><authors><author pid="266/6184">Zipeng Dai</author><author pid="45/4723">Chi Harold Liu</author><author pid="236/5915">Yuxiao Ye</author><author pid="87/7513-1">Rui Han 0001</author><author pid="33/6315-1">Ye Yuan 0001</author><author pid="64/146">Guoren Wang</author><author pid="181/2667-8">Jian Tang 0008</author></authors><title>AoI-minimal UAV Crowdsensing by Model-based Graph Convolutional Reinforcement Learning.</title><venue>INFOCOM</venue><pages>1029-1038</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DaiLYHYWT22</key><doi>10.1109/INFOCOM48880.2022.9796732</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796732</ee><url>https://dblp.org/rec/conf/infocom/DaiLYHYWT22</url></info>
+<url>URL#571244</url>
+</hit>
+<hit score="1" id="571249">
+<info><authors><author pid="272/3540">Ningning Ding</author><author pid="92/2834-1">Lin Gao 0001</author><author pid="77/623-1">Jianwei Huang 0001</author><author pid="09/1365">Xin Li</author><author pid="24/1518">Xin Chen</author></authors><title>Optimal Pricing Under Vertical and Horizontal Interaction Structures for IoT Networks.</title><venue>INFOCOM</venue><pages>870-879</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DingGHLC22</key><doi>10.1109/INFOCOM48880.2022.9796826</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796826</ee><url>https://dblp.org/rec/conf/infocom/DingGHLC22</url></info>
+<url>URL#571249</url>
+</hit>
+<hit score="1" id="571250">
+<info><authors><author pid="61/10819">Elad Domanovitz</author><author pid="92/3904">Tal Philosof</author><author pid="03/8707">Anatoly Khina</author></authors><title>The Information Velocity of Packet-Erasure Links.</title><venue>INFOCOM</venue><pages>190-199</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DomanovitzPK22</key><doi>10.1109/INFOCOM48880.2022.9796916</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796916</ee><url>https://dblp.org/rec/conf/infocom/DomanovitzPK22</url></info>
+<url>URL#571250</url>
+</hit>
+<hit score="1" id="571251">
+<info><authors><author pid="88/7785">Kai Dong</author><author pid="127/3950">Yakun Zhang</author><author pid="27/8127">Yuchen Zhao</author><author pid="242/7080">Daoming Li</author><author pid="79/7563">Zhen Ling</author><author pid="17/7579">Wenjia Wu</author><author pid="25/6272">Xiaorui Zhu</author></authors><title>Real-Time Execution of Trigger-Action Connection for Home Internet-of-Things.</title><venue>INFOCOM</venue><pages>1489-1498</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DongZZLLWZ22</key><doi>10.1109/INFOCOM48880.2022.9796872</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796872</ee><url>https://dblp.org/rec/conf/infocom/DongZZLLWZ22</url></info>
+<url>URL#571251</url>
+</hit>
+<hit score="1" id="571252">
+<info><authors><author pid="51/3199-6">Yang Du 0006</author><author pid="75/4947-1">He Huang 0001</author><author pid="117/3395">Yu-E Sun</author><author pid="c/ShigangChen">Shigang Chen</author><author pid="183/8123">Guoju Gao</author><author pid="58/4775">Xiaoyu Wang</author><author pid="160/8892">Shenghui Xu</author></authors><title>Short-Term Memory Sampling for Spread Measurement in High-Speed Networks.</title><venue>INFOCOM</venue><pages>470-479</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DuHSCGWX22</key><doi>10.1109/INFOCOM48880.2022.9796702</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796702</ee><url>https://dblp.org/rec/conf/infocom/DuHSCGWX22</url></info>
+<url>URL#571252</url>
+</hit>
+<hit score="1" id="571254">
+<info><authors><author pid="298/3736">Qingyang Duan</author><author pid="322/9660">Zeqin Wang</author><author pid="26/340">Yuedong Xu</author><author pid="02/10511">Shaoteng Liu</author><author pid="20/3894">Jun Wu</author></authors><title>Mercury: A Simple Transport Layer Scheduler to Accelerate Distributed DNN Training.</title><venue>INFOCOM</venue><pages>350-359</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/DuanWXLW22</key><doi>10.1109/INFOCOM48880.2022.9796820</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796820</ee><url>https://dblp.org/rec/conf/infocom/DuanWXLW22</url></info>
+<url>URL#571254</url>
+</hit>
+<hit score="1" id="571255">
+<info><authors><author pid="150/6263">Homa Esfahanizadeh</author><author pid="135/9404">Alejandro Cohen</author><author pid="m/MurielMedard">Muriel Médard</author></authors><title>Stream Iterative Distributed Coded Computing for Learning Applications in Heterogeneous Systems.</title><venue>INFOCOM</venue><pages>230-239</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/EsfahanizadehCM22</key><doi>10.1109/INFOCOM48880.2022.9796977</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796977</ee><url>https://dblp.org/rec/conf/infocom/EsfahanizadehCM22</url></info>
+<url>URL#571255</url>
+</hit>
+<hit score="1" id="571256">
+<info><authors><author pid="224/0821">Guiyun Fan</author><author pid="14/3177">Haiming Jin</author><author pid="148/1918">Yiran Zhao</author><author pid="170/4082">Yiwen Song</author><author pid="13/29">Xiaoying Gan</author><author pid="165/9711">Jiaxin Ding</author><author pid="63/4152">Lu Su</author><author pid="96/1149">Xinbing Wang</author></authors><title>Joint Order Dispatch and Charging for Electric Self-Driving Taxi Systems.</title><venue>INFOCOM</venue><pages>1619-1628</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/FanJZSGDSW22</key><doi>10.1109/INFOCOM48880.2022.9796825</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796825</ee><url>https://dblp.org/rec/conf/infocom/FanJZSGDSW22</url></info>
+<url>URL#571256</url>
+</hit>
+<hit score="1" id="571260">
+<info><authors><author pid="76/8261">Ali Farahbakhsh</author><author pid="01/161-1">Chen Feng 0001</author></authors><title>Opportunistic Routing in Quantum Networks.</title><venue>INFOCOM</venue><pages>490-499</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/FarahbakhshF22</key><doi>10.1109/INFOCOM48880.2022.9796816</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796816</ee><url>https://dblp.org/rec/conf/infocom/FarahbakhshF22</url></info>
+<url>URL#571260</url>
+</hit>
+<hit score="1" id="571261">
+<info><authors><author pid="296/1936">Evgeniy Feder</author><author pid="296/1659">Ichha Rathod</author><author pid="296/1650">Punit Shyamsukha</author><author pid="296/1556">Robert Sama</author><author pid="195/6106">Vitaly Aksenov</author><author pid="22/11536">Iosif Salem</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>Lazy Self-Adjusting Bounded-Degree Networks for the Matching Model.</title><venue>INFOCOM</venue><pages>1089-1098</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/FederRSSASS22</key><doi>10.1109/INFOCOM48880.2022.9796885</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796885</ee><url>https://dblp.org/rec/conf/infocom/FederRSSASS22</url></info>
+<url>URL#571261</url>
+</hit>
+<hit score="1" id="571264">
+<info><authors><author pid="09/2252">Alessandro Finamore</author><author pid="41/3445">James Roberts</author><author pid="42/7891">Massimo Gallo</author><author pid="14/3340">Dario Rossi 0001</author></authors><title>Accelerating Deep Learning Classification with Error-controlled Approximate-key Caching.</title><venue>INFOCOM</venue><pages>2118-2127</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/FinamoreRGR22</key><doi>10.1109/INFOCOM48880.2022.9796677</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796677</ee><url>https://dblp.org/rec/conf/infocom/FinamoreRGR22</url></info>
+<url>URL#571264</url>
+</hit>
+<hit score="1" id="571265">
+<info><authors><author pid="192/6728">Xinzhe Fu</author><author pid="m/EytanModiano">Eytan H. Modiano</author></authors><title>Optimal Routing for Stream Learning Systems.</title><venue>INFOCOM</venue><pages>500-509</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/FuM22</key><doi>10.1109/INFOCOM48880.2022.9796959</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796959</ee><url>https://dblp.org/rec/conf/infocom/FuM22</url></info>
+<url>URL#571265</url>
+</hit>
+<hit score="1" id="571266">
+<info><authors><author pid="234/4932">Ziyan Fu</author><author pid="00/468">Ju Ren</author><author pid="21/7829">Deyu Zhang</author><author pid="69/5468">Yuezhi Zhou</author><author pid="99/4094">Yaoxue Zhang</author></authors><title>Kalmia: A Heterogeneous QoS-aware Scheduling Framework for DNN Tasks on Edge Servers.</title><venue>INFOCOM</venue><pages>780-789</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/FuRZZZ22</key><doi>10.1109/INFOCOM48880.2022.9796661</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796661</ee><url>https://dblp.org/rec/conf/infocom/FuRZZZ22</url></info>
+<url>URL#571266</url>
+</hit>
+<hit score="1" id="571269">
+<info><authors><author pid="220/3336">Miquel Ferriol Galmés</author><author pid="79/9689">Krzysztof Rusek</author><author pid="195/6253">José Suárez-Varela</author><author pid="142/3788">Shihan Xiao</author><author pid="129/9008">Xiang Shi</author><author pid="175/6883">Xiangle Cheng</author><author pid="47/6534">Bo Wu</author><author pid="54/4261">Pere Barlet-Ros</author><author pid="42/2223">Albert Cabellos-Aparicio</author></authors><title>RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation.</title><venue>INFOCOM</venue><pages>2018-2027</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GalmesRSXSCWBC22</key><doi>10.1109/INFOCOM48880.2022.9796944</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796944</ee><url>https://dblp.org/rec/conf/infocom/GalmesRSXSCWBC22</url></info>
+<url>URL#571269</url>
+</hit>
+<hit score="1" id="571271">
+<info><authors><author pid="71/4173">Ming Gao</author><author pid="33/3862">Yajie Liu</author><author pid="310/0746">Yike Chen</author><author pid="90/265">Yimin Li</author><author pid="139/5759">Zhongjie Ba</author><author pid="136/5697">Xian Xu</author><author pid="96/6606">Jinsong Han</author></authors><title>InertiEAR: Automatic and Device-independent IMU-based Eavesdropping on Smartphones.</title><venue>INFOCOM</venue><pages>1129-1138</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GaoLCLBXH22</key><doi>10.1109/INFOCOM48880.2022.9796890</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796890</ee><url>https://dblp.org/rec/conf/infocom/GaoLCLBXH22</url></info>
+<url>URL#571271</url>
+</hit>
+<hit score="1" id="571273">
+<info><authors><author pid="122/3856">Fabien Geyer</author><author pid="64/9385">Steffen Bondorf</author></authors><title>Network Synthesis under Delay Constraints: The Power of Network Calculus Differentiability.</title><venue>INFOCOM</venue><pages>1539-1548</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GeyerB22</key><doi>10.1109/INFOCOM48880.2022.9796777</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796777</ee><url>https://dblp.org/rec/conf/infocom/GeyerB22</url></info>
+<url>URL#571273</url>
+</hit>
+<hit score="1" id="571276">
+<info><authors><author pid="70/3413-2">Lin Gu 0002</author><author pid="320/8893">Zirui Chen</author><author pid="323/0136">Honghao Xu</author><author pid="08/5937">Deze Zeng</author><author pid="50/3402-1">Bo Li 0001</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Layer-aware Collaborative Microservice Deployment toward Maximal Edge Throughput.</title><venue>INFOCOM</venue><pages>71-79</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GuCXZLJ22</key><doi>10.1109/INFOCOM48880.2022.9796670</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796670</ee><url>https://dblp.org/rec/conf/infocom/GuCXZLJ22</url></info>
+<url>URL#571276</url>
+</hit>
+<hit score="1" id="571281">
+<info><authors><author pid="234/8880">Daojing Guo</author><author pid="303/4623">Khaled Nakhleh</author><author pid="21/1392">I-Hong Hou</author><author pid="07/790">Sastry Kompella</author><author pid="96/9951">Clement Kam</author></authors><title>A Theory of Second-Order Wireless Network Optimization and Its Application on AoI.</title><venue>INFOCOM</venue><pages>999-1008</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GuoNHKK22</key><doi>10.1109/INFOCOM48880.2022.9796686</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796686</ee><url>https://dblp.org/rec/conf/infocom/GuoNHKK22</url></info>
+<url>URL#571281</url>
+</hit>
+<hit score="1" id="571282">
+<info><authors><author pid="176/1428">Kaiwen Guo</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="32/5495">Ye Tian</author><author pid="298/3250">Wangqiu Zhou</author><author pid="53/4376">Yusheng Ji</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Mudra: A Multi-Modal Smartwatch Interactive System with Hand Gesture Recognition and User Identification.</title><venue>INFOCOM</venue><pages>100-109</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GuoZTZJL22</key><doi>10.1109/INFOCOM48880.2022.9796879</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796879</ee><url>https://dblp.org/rec/conf/infocom/GuoZTZJL22</url></info>
+<url>URL#571282</url>
+</hit>
+<hit score="1" id="571283">
+<info><authors><author pid="99/4031">Harsh Gupta</author><author pid="272/3532">Jiangong Chen</author><author pid="89/6764-14">Bin Li 0014</author><author pid="s/RSrikant">R. Srikant 0001</author></authors><title>Online Learning-Based Rate Selection for Wireless Interactive Panoramic Scene Delivery.</title><venue>INFOCOM</venue><pages>1799-1808</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/GuptaCLS22</key><doi>10.1109/INFOCOM48880.2022.9796965</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796965</ee><url>https://dblp.org/rec/conf/infocom/GuptaCLS22</url></info>
+<url>URL#571283</url>
+</hit>
+<hit score="1" id="571287">
+<info><authors><author pid="87/7513-1">Rui Han 0001</author><author pid="229/8227">Shilin Wen</author><author pid="45/4723">Chi Harold Liu</author><author pid="33/6315-1">Ye Yuan 0001</author><author pid="64/146">Guoren Wang</author><author pid="93/2896">Lydia Y. Chen</author></authors><title>EdgeTuner: Fast Scheduling Algorithm Tuning for Dynamic Edge-Cloud Workloads and Resources.</title><venue>INFOCOM</venue><pages>880-889</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HanWLYWC22</key><doi>10.1109/INFOCOM48880.2022.9796792</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796792</ee><url>https://dblp.org/rec/conf/infocom/HanWLYWC22</url></info>
+<url>URL#571287</url>
+</hit>
+<hit score="1" id="571288">
+<info><authors><author pid="120/2233">Kathrin Hanauer</author><author pid="h/MonikaRauchHenzinger">Monika Henzinger</author><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="273/4324">Jonathan Trummer</author></authors><title>Fast and Heavy Disjoint Weighted Matchings for Demand-Aware Datacenter Topologies.</title><venue>INFOCOM</venue><pages>1649-1658</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HanauerHST22</key><doi>10.1109/INFOCOM48880.2022.9796921</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796921</ee><url>https://dblp.org/rec/conf/infocom/HanauerHST22</url></info>
+<url>URL#571288</url>
+</hit>
+<hit score="1" id="571290">
+<info><authors><author pid="214/0820">Luoyao Hao</author><author pid="322/9630">Vibhas Naik</author><author pid="s/HenningSchulzrinne">Henning Schulzrinne</author></authors><title>DBAC: Directory-Based Access Control for Geographically Distributed IoT Systems.</title><venue>INFOCOM</venue><pages>360-369</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HaoNS22</key><doi>10.1109/INFOCOM48880.2022.9796804</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796804</ee><url>https://dblp.org/rec/conf/infocom/HaoNS22</url></info>
+<url>URL#571290</url>
+</hit>
+<hit score="1" id="571295">
+<info><authors><author pid="89/3991">Xu He</author><author pid="218/8811">Jiahao Cao</author><author pid="32/5536">Shu Wang</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="16/2866">Lisong Xu</author><author pid="181/2688-2">Qi Li 0002</author></authors><title>Auter: Automatically Tuning Multi-layer Network Buffers in Long-Distance Shadowsocks Networks.</title><venue>INFOCOM</venue><pages>1689-1698</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HeCWSXL22</key><doi>10.1109/INFOCOM48880.2022.9796882</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796882</ee><url>https://dblp.org/rec/conf/infocom/HeCWSXL22</url></info>
+<url>URL#571295</url>
+</hit>
+<hit score="1" id="571297">
+<info><authors><author pid="311/4164">Tianlang He</author><author pid="185/4058">Jiajie Tan</author><author pid="119/0329">Weipeng Zhuo</author><author pid="311/3891">Maximilian Printz</author><author pid="c/ShuengHanGaryChan">S.-H. Gary Chan</author></authors><title>Tackling Multipath and Biased Training Data for IMU-Assisted BLE Proximity Detection.</title><venue>INFOCOM</venue><pages>1259-1268</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HeTZPC22</key><doi>10.1109/INFOCOM48880.2022.9796716</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796716</ee><url>https://dblp.org/rec/conf/infocom/HeTZPC22</url></info>
+<url>URL#571297</url>
+</hit>
+<hit score="1" id="571298">
+<info><authors><author pid="210/0051">Xingqiu He</author><author pid="85/1868-6">Sheng Wang 0006</author><author pid="89/4432-1">Xiong Wang 0001</author><author pid="60/346">Shizhong Xu</author><author pid="83/709">Jing Ren</author></authors><title>Age-Based Scheduling for Monitoring and Control Applications in Mobile Edge Computing Systems.</title><venue>INFOCOM</venue><pages>1009-1018</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HeWWXR22</key><doi>10.1109/INFOCOM48880.2022.9796654</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796654</ee><url>https://dblp.org/rec/conf/infocom/HeWWXR22</url></info>
+<url>URL#571298</url>
+</hit>
+<hit score="1" id="571299">
+<info><authors><author pid="33/10567">Tao Hou</author><author pid="319/9931">Shengping Bi</author><author pid="12/5838-26">Tao Wang 0026</author><author pid="41/4718">Zhuo Lu</author><author pid="64/424-7">Yao Liu 0007</author><author pid="79/2206">Satyajayant Misra</author><author pid="01/1945">Yalin E. Sagduyu</author></authors><title>MUSTER: Subverting User Selection in MU-MIMO Networks.</title><venue>INFOCOM</venue><pages>140-149</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HouBWLLMS22</key><doi>10.1109/INFOCOM48880.2022.9796815</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796815</ee><url>https://dblp.org/rec/conf/infocom/HouBWLLMS22</url></info>
+<url>URL#571299</url>
+</hit>
+<hit score="1" id="571301">
+<info><authors><author pid="272/6527">Ningning Hou</author><author pid="148/4460">Xianjin Xia</author><author pid="08/9937">Yuanqing Zheng</author></authors><title>Don&apos;t Miss Weak Packets: Boosting LoRa Reception with Antenna Diversities.</title><venue>INFOCOM</venue><pages>530-539</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HouXZ22</key><doi>10.1109/INFOCOM48880.2022.9796699</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796699</ee><url>https://dblp.org/rec/conf/infocom/HouXZ22</url></info>
+<url>URL#571301</url>
+</hit>
+<hit score="1" id="571303">
+<info><authors><author pid="65/10436">Chenghao Hu</author><author pid="l/BaochunLi">Baochun Li</author></authors><title>Distributed Inference with Deep Learning Models across Heterogeneous Edge Devices.</title><venue>INFOCOM</venue><pages>330-339</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HuL22</key><doi>10.1109/INFOCOM48880.2022.9796896</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796896</ee><url>https://dblp.org/rec/conf/infocom/HuL22</url></info>
+<url>URL#571303</url>
+</hit>
+<hit score="1" id="571304">
+<info><authors><author pid="74/8189">Miao Hu</author><author pid="66/2693">Zhenxiao Luo</author><author pid="78/6594">Yipeng Zhou</author><author pid="85/6600">Xuezheng Liu</author><author pid="52/328-1">Di Wu 0001</author></authors><title>Otus: A Gaze Model-based Privacy Control Framework for Eye Tracking Applications.</title><venue>INFOCOM</venue><pages>560-569</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HuLZLW22</key><doi>10.1109/INFOCOM48880.2022.9796665</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796665</ee><url>https://dblp.org/rec/conf/infocom/HuLZLW22</url></info>
+<url>URL#571304</url>
+</hit>
+<hit score="1" id="571305">
+<info><authors><author pid="71/9969">Pengfei Hu</author><author pid="182/7259">Yifan Ma</author><author pid="249/5741">Panneer Selvam Santhalingam</author><author pid="62/8333">Parth H. Pathak</author><author pid="c/XiuzhenCheng">Xiuzhen Cheng 0001</author></authors><title>MILLIEAR: Millimeter-wave Acoustic Eavesdropping with Unconstrained Vocabulary.</title><venue>INFOCOM</venue><pages>11-20</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HuMSPC22</key><doi>10.1109/INFOCOM48880.2022.9796940</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796940</ee><url>https://dblp.org/rec/conf/infocom/HuMSPC22</url></info>
+<url>URL#571305</url>
+</hit>
+<hit score="1" id="571306">
+<info><authors><author pid="274/4036">Zhenxing Hu</author><author pid="39/3878">Zhen Xiao</author></authors><title>Dino: A Block Transmission Protocol with Low Bandwidth Consumption and Propagation Latency.</title><venue>INFOCOM</venue><pages>1319-1328</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HuX22</key><doi>10.1109/INFOCOM48880.2022.9796837</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796837</ee><url>https://dblp.org/rec/conf/infocom/HuX22</url></info>
+<url>URL#571306</url>
+</hit>
+<hit score="1" id="571308">
+<info><authors><author pid="83/179">Huawei Huang</author><author pid="282/9636">Xiaowen Peng</author><author pid="223/9323">Jianzhou Zhan</author><author pid="322/9661">Shenyang Zhang</author><author pid="98/7264">Yue Lin</author><author pid="z/ZibinZheng">Zibin Zheng</author><author pid="01/267-1">Song Guo 0001</author></authors><title>BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding.</title><venue>INFOCOM</venue><pages>1968-1977</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HuangPZZLZG22</key><doi>10.1109/INFOCOM48880.2022.9796859</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796859</ee><url>https://dblp.org/rec/conf/infocom/HuangPZZLZG22</url></info>
+<url>URL#571308</url>
+</hit>
+<hit score="1" id="571309">
+<info><authors><author pid="156/1030">Yakun Huang</author><author pid="66/4187">Xiuquan Qiao</author><author pid="d/SDustdar">Schahram Dustdar</author><author pid="87/660">Yan Li</author></authors><title>AoDNN: An Auto-Offloading Approach to Optimize Deep Inference for Fostering Mobile Web.</title><venue>INFOCOM</venue><pages>2198-2207</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HuangQDL22</key><doi>10.1109/INFOCOM48880.2022.9796763</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796763</ee><url>https://dblp.org/rec/conf/infocom/HuangQDL22</url></info>
+<url>URL#571309</url>
+</hit>
+<hit score="1" id="571310">
+<info><authors><author pid="298/3143">Wenbin Huang</author><author pid="171/0982">Wenjuan Tang</author><author pid="50/7188">Kuan Zhang</author><author pid="22/5702">Haojin Zhu</author><author pid="99/4094">Yaoxue Zhang</author></authors><title>Thwarting Unauthorized Voice Eavesdropping via Touch Sensing in Mobile Systems.</title><venue>INFOCOM</venue><pages>31-40</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/HuangTZZZ22</key><doi>10.1109/INFOCOM48880.2022.9796653</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796653</ee><url>https://dblp.org/rec/conf/infocom/HuangTZZZ22</url></info>
+<url>URL#571310</url>
+</hit>
+<hit score="1" id="571313">
+<info><authors><author pid="234/0709">Hiroki Ikeuchi</author><author pid="03/6716">Hiroshi Saito</author><author pid="250/2110">Kotaro Matsuda</author></authors><title>Network Tomography based on Adaptive Measurements in Probabilistic Routing.</title><venue>INFOCOM</venue><pages>2148-2157</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/IkeuchiSM22</key><doi>10.1109/INFOCOM48880.2022.9796807</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796807</ee><url>https://dblp.org/rec/conf/infocom/IkeuchiSM22</url></info>
+<url>URL#571313</url>
+</hit>
+<hit score="1" id="571316">
+<info><authors><author pid="131/5953">Kasthuri Jayarajah</author><author pid="281/7027">Dhanuja Wanniarachchige</author><author pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</author><author pid="24/4570">Archan Misra</author></authors><title>ComAI: Enabling Lightweight, Collaborative Intelligence by Retrofitting Vision DNNs.</title><venue>INFOCOM</venue><pages>41-50</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/JayarajahWAM22</key><doi>10.1109/INFOCOM48880.2022.9796769</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796769</ee><url>https://dblp.org/rec/conf/infocom/JayarajahWAM22</url></info>
+<url>URL#571316</url>
+</hit>
+<hit score="1" id="571318">
+<info><authors><author pid="148/1925">Riheng Jia</author><author pid="219/1822">Jinhao Wu</author><author pid="82/6187-2">Jianfeng Lu 0002</author><author pid="l/MingluLi">Minglu Li 0001</author><author pid="86/10860">Feilong Lin</author><author pid="30/1721">Zhonglong Zheng</author></authors><title>Energy Saving in Heterogeneous Wireless Rechargeable Sensor Networks.</title><venue>INFOCOM</venue><pages>1838-1847</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/JiaWLLLZ22</key><doi>10.1109/INFOCOM48880.2022.9796770</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796770</ee><url>https://dblp.org/rec/conf/infocom/JiaWLLLZ22</url></info>
+<url>URL#571318</url>
+</hit>
+<hit score="1" id="571319">
+<info><authors><author pid="05/8330">Wanchun Jiang</author><author pid="118/0004">Haoyang Li</author><author pid="322/9691">Zheyuan Liu 0008</author><author pid="25/5536-2">Jia Wu 0002</author><author pid="13/4208-1">Jiawei Huang 0001</author><author pid="137/3349">Danfeng Shan</author><author pid="75/2669-1">Jianxin Wang 0001</author></authors><title>Copa+: Analysis and Improvement of the Delay-based Congestion Control Algorithm Copa.</title><venue>INFOCOM</venue><pages>920-929</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/JiangLLWHSW22</key><doi>10.1109/INFOCOM48880.2022.9796913</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796913</ee><url>https://dblp.org/rec/conf/infocom/JiangLLWHSW22</url></info>
+<url>URL#571319</url>
+</hit>
+<hit score="1" id="571327">
+<info><authors><author pid="119/3631">Caner Kilinc</author><author pid="71/2142">Mahesh K. Marina</author><author pid="74/6117">Muhammad Usama</author><author pid="09/4456">Salih Ergüt</author><author pid="c/JonCrowcroft">Jon Crowcroft</author><author pid="322/9804">Tugrul Gundogdu</author><author pid="323/0056">Ilhan Akinci</author></authors><title>JADE: Data-Driven Automated Jammer Detection Framework for Operational Mobile Networks.</title><venue>INFOCOM</venue><pages>1139-1148</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/KilincMUECGA22</key><doi>10.1109/INFOCOM48880.2022.9796674</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796674</ee><url>https://dblp.org/rec/conf/infocom/KilincMUECGA22</url></info>
+<url>URL#571327</url>
+</hit>
+<hit score="1" id="571329">
+<info><authors><author pid="63/35">Taejin Kim</author><author pid="243/0059">Sandesh Dhawaskar Sathyanarayana</author><author pid="05/8743">Siqi Chen</author><author pid="117/4355">Youngbin Im</author><author pid="62/5337">Xiaoxi Zhang</author><author pid="30/4930">Sangtae Ha</author><author pid="40/9937">Carlee Joe-Wong</author></authors><title>MoDEMS: Optimizing Edge Computing Migrations for User Mobility.</title><venue>INFOCOM</venue><pages>1159-1168</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/KimSCIZHJ22</key><doi>10.1109/INFOCOM48880.2022.9796680</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796680</ee><url>https://dblp.org/rec/conf/infocom/KimSCIZHJ22</url></info>
+<url>URL#571329</url>
+</hit>
+<hit score="1" id="571331">
+<info><authors><author pid="99/5788">Murali S. Kodialam</author><author pid="43/2247">T. V. Lakshman</author></authors><title>Network Link Weight Setting: A Machine Learning Based Approach.</title><venue>INFOCOM</venue><pages>2048-2057</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/KodialamL22</key><doi>10.1109/INFOCOM48880.2022.9796922</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796922</ee><url>https://dblp.org/rec/conf/infocom/KodialamL22</url></info>
+<url>URL#571331</url>
+</hit>
+<hit score="1" id="571334">
+<info><authors><author pid="146/4832">Hao Kong</author><author pid="49/2793-8">Li Lu 0008</author><author pid="85/3615">Jiadi Yu</author><author pid="02/6595">Yanmin Zhu</author><author pid="59/2249">Feilong Tang</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="23/7909">Linghe Kong</author><author pid="214/2000-1">Feng Lyu 0001</author></authors><title>Push the Limit of WiFi-based User Authentication towards Undefined Gestures.</title><venue>INFOCOM</venue><pages>410-419</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/KongLYZTCKL22</key><doi>10.1109/INFOCOM48880.2022.9796740</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796740</ee><url>https://dblp.org/rec/conf/infocom/KongLYZTCKL22</url></info>
+<url>URL#571334</url>
+</hit>
+<hit score="1" id="571339">
+<info><authors><author pid="148/1959">Zeqi Lai</author><author pid="323/0101">Weisen Liu</author><author pid="61/591">Qian Wu</author><author pid="51/8276">Hewu Li</author><author pid="33/10762">Jingxi Xu</author><author pid="82/4905">Jianping Wu</author></authors><title>SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications.</title><venue>INFOCOM</venue><pages>1339-1348</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LaiLWLXW22</key><doi>10.1109/INFOCOM48880.2022.9796887</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796887</ee><url>https://dblp.org/rec/conf/infocom/LaiLWLXW22</url></info>
+<url>URL#571339</url>
+</hit>
+<hit score="1" id="571342">
+<info><authors><author pid="312/9291">Hicham Lesfari</author><author pid="60/66">Frédéric Giroire</author></authors><title>Nadege: When Graph Kernels meet Network Anomaly Detection.</title><venue>INFOCOM</venue><pages>2008-2017</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LesfariG22</key><doi>10.1109/INFOCOM48880.2022.9796978</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796978</ee><url>https://dblp.org/rec/conf/infocom/LesfariG22</url></info>
+<url>URL#571342</url>
+</hit>
+<hit score="1" id="571343">
+<info><authors><author pid="245/6099">Kirtus G. Leyba</author><author pid="177/8802">Joshua J. Daymude</author><author pid="122/3137">Jean-Gabriel Young</author><author pid="n/MEJNewman">M. E. J. Newman</author><author pid="r/JenniferRexford">Jennifer Rexford</author><author pid="24/2144">Stephanie Forrest</author></authors><title>Cutting Through the Noise to Infer Autonomous System Topology.</title><venue>INFOCOM</venue><pages>1609-1618</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LeybaDYNRF22</key><doi>10.1109/INFOCOM48880.2022.9796874</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796874</ee><url>https://dblp.org/rec/conf/infocom/LeybaDYNRF22</url></info>
+<url>URL#571343</url>
+</hit>
+<hit score="1" id="571345">
+<info><authors><author pid="271/9735">Chenning Li</author><author pid="05/7548-1">Zhichao Cao 0001</author><author pid="14/5505-1">Li Xiao 0001</author></authors><title>CurveALOHA: Non-linear Chirps Enabled High Throughput Random Channel Access for LoRa.</title><venue>INFOCOM</venue><pages>520-529</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiCX22</key><doi>10.1109/INFOCOM48880.2022.9796757</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796757</ee><url>https://dblp.org/rec/conf/infocom/LiCX22</url></info>
+<url>URL#571345</url>
+</hit>
+<hit score="1" id="571346">
+<info><authors><author pid="227/8050">Shaoran Li</author><author pid="06/4489">Nan Jiang</author><author pid="161/8672">Yongce Chen</author><author pid="h/YTHou">Y. Thomas Hou 0001</author><author pid="73/3673">Wenjing Lou</author><author pid="134/6996-1">Weijun Xie 0001</author></authors><title>D2BF - Data-Driven Beamforming in MU-MIMO with Channel Estimation Uncertainty.</title><venue>INFOCOM</venue><pages>120-129</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiJCHLX22</key><doi>10.1109/INFOCOM48880.2022.9796930</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796930</ee><url>https://dblp.org/rec/conf/infocom/LiJCHLX22</url></info>
+<url>URL#571346</url>
+</hit>
+<hit score="1" id="571347">
+<info><authors><author pid="12/3242">Jiawei Li</author><author pid="33/2805">Ang Li</author><author pid="227/8113">Dianqi Han</author><author pid="04/3348-91">Yan Zhang 0091</author><author pid="75/4601">Tao Li</author><author pid="83/888">Yanchao Zhang</author></authors><title>RCID: Fingerprinting Passive RFID Tags via Wideband Backscatter.</title><venue>INFOCOM</venue><pages>700-709</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiLHZLZ22</key><doi>10.1109/INFOCOM48880.2022.9796663</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796663</ee><url>https://dblp.org/rec/conf/infocom/LiLHZLZ22</url></info>
+<url>URL#571347</url>
+</hit>
+<hit score="1" id="571348">
+<info><authors><author pid="79/572">Jinyang Li</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="48/86">Qinghua Wu</author><author pid="85/85">Gareth Tyson</author></authors><title>On Uploading Behavior and Optimizations of a Mobile Live Streaming Service.</title><venue>INFOCOM</venue><pages>1299-1308</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiLWT22</key><doi>10.1109/INFOCOM48880.2022.9796824</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796824</ee><url>https://dblp.org/rec/conf/infocom/LiLWT22</url></info>
+<url>URL#571348</url>
+</hit>
+<hit score="1" id="571349">
+<info><authors><author pid="65/1739-2">Jiao Li 0002</author><author pid="51/3710-101">Yang Liu 0101</author><author pid="98/7731">Weitao Xu</author><author pid="35/203">Zhenjiang Li</author></authors><title>GASLA: Enhancing the Applicability of Sign Language Translation.</title><venue>INFOCOM</venue><pages>1249-1258</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiLXL22</key><doi>10.1109/INFOCOM48880.2022.9796819</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796819</ee><url>https://dblp.org/rec/conf/infocom/LiLXL22</url></info>
+<url>URL#571349</url>
+</hit>
+<hit score="1" id="571352">
+<info><authors><author pid="92/7728-1">Jingwei Li 0001</author><author pid="287/5369">Guoli Wei</author><author pid="168/4584">Jiacheng Liang</author><author pid="252/6063">Yanjing Ren</author><author pid="25/4018">Patrick P. C. Lee</author><author pid="26/3075-1">Xiaosong Zhang 0001</author></authors><title>Revisiting Frequency Analysis against Encrypted Deduplication via Statistical Distribution.</title><venue>INFOCOM</venue><pages>290-299</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiWLRLZ22</key><doi>10.1109/INFOCOM48880.2022.9796897</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796897</ee><url>https://dblp.org/rec/conf/infocom/LiWLRLZ22</url></info>
+<url>URL#571352</url>
+</hit>
+<hit score="1" id="571354">
+<info><authors><author pid="147/7757">Guyue Li</author><author pid="185/8939">Haiyu Yang</author><author pid="121/9031">Junqing Zhang</author><author pid="78/6365-2">Hongbo Liu 0002</author><author pid="55/4757">Aiqun Hu</author></authors><title>Fast and Secure Key Generation with Channel Obfuscation in Slowly Varying Environments.</title><venue>INFOCOM</venue><pages>1-10</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiYZLH22</key><doi>10.1109/INFOCOM48880.2022.9796694</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796694</ee><url>https://dblp.org/rec/conf/infocom/LiYZLH22</url></info>
+<url>URL#571354</url>
+</hit>
+<hit score="1" id="571355">
+<info><authors><author pid="64/9826">Yanbiao Li</author><author pid="71/6253">Hui Zou</author><author pid="145/7790">Yuxuan Chen</author><author pid="242/7068">Yinbo Xu</author><author pid="210/6243">Zhuoran Ma</author><author pid="60/6791">Di Ma</author><author pid="92/4882">Ying Hu</author><author pid="01/2888">Gaogang Xie</author></authors><title>The Hanging ROA: A Secure and Scalable Encoding Scheme for Route Origin Authorization.</title><venue>INFOCOM</venue><pages>21-30</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiZCXMMHX22</key><doi>10.1109/INFOCOM48880.2022.9796844</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796844</ee><url>https://dblp.org/rec/conf/infocom/LiZCXMMHX22</url></info>
+<url>URL#571355</url>
+</hit>
+<hit score="1" id="571356">
+<info><authors><author pid="253/6407">Shaoang Li</author><author pid="54/2752-2">Lan Zhang 0002</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Online Pricing with Limited Supply and Time-Sensitive Valuations.</title><venue>INFOCOM</venue><pages>860-869</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiZL22</key><doi>10.1109/INFOCOM48880.2022.9796973</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796973</ee><url>https://dblp.org/rec/conf/infocom/LiZL22</url></info>
+<url>URL#571356</url>
+</hit>
+<hit score="1" id="571357">
+<info><authors><author pid="231/3443">Ruinan Li</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="09/8269">Yuting Wang</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>PolarScheduler: Dynamic Transmission Control for Floating LoRa Networks.</title><venue>INFOCOM</venue><pages>550-559</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiZWLM22</key><doi>10.1109/INFOCOM48880.2022.9796656</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796656</ee><url>https://dblp.org/rec/conf/infocom/LiZWLM22</url></info>
+<url>URL#571357</url>
+</hit>
+<hit score="1" id="571358">
+<info><authors><author pid="122/9782">Yibin Liang</author><author pid="218/1779">Lianjun Li 0001</author><author pid="19/1969-2">Yang Yi 0002</author><author pid="l/LingjiaLiu">Lingjia Liu 0001</author></authors><title>Real-time Machine Learning for Symbol Detection in MIMO-OFDM Systems.</title><venue>INFOCOM</venue><pages>2068-2077</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiangLYL22</key><doi>10.1109/INFOCOM48880.2022.9796854</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796854</ee><url>https://dblp.org/rec/conf/infocom/LiangLYL22</url></info>
+<url>URL#571358</url>
+</hit>
+<hit score="1" id="571362">
+<info><authors><author pid="16/656">Kate Ching-Ju Lin</author><author pid="323/0131">Wei-Lun Lai</author></authors><title>MC-Sketch: Enabling Heterogeneous Network Monitoring Resolutions with Multi-Class Sketch.</title><venue>INFOCOM</venue><pages>220-229</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LinL22</key><doi>10.1109/INFOCOM48880.2022.9796955</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796955</ee><url>https://dblp.org/rec/conf/infocom/LinL22</url></info>
+<url>URL#571362</url>
+</hit>
+<hit score="1" id="571363">
+<info><authors><author pid="24/8037">Chi Lin</author><author pid="90/4693">Pengfei Wang</author><author pid="72/3527-8">Qiang Zhang 0008</author><author pid="181/2812">Hao Wang</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author></authors><title>MDoC: Compromising WRSNs through Denial of Charge by Mobile Charger.</title><venue>INFOCOM</venue><pages>1149-1158</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LinWZWWW22</key><doi>10.1109/INFOCOM48880.2022.9796835</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796835</ee><url>https://dblp.org/rec/conf/infocom/LinWZWWW22</url></info>
+<url>URL#571363</url>
+</hit>
+<hit score="1" id="571364">
+<info><authors><author pid="26/5329-1">Xiang Ling 0001</author><author pid="27/9060">Lingfei Wu</author><author pid="69/508">Wei Deng</author><author pid="309/6507">Zhenqing Qu</author><author pid="309/7082">Jiangyu Zhang</author><author pid="69/6137">Sheng Zhang</author><author pid="94/9023-1">Tengfei Ma 0001</author><author pid="13/1898">Bin Wang</author><author pid="97/8329-1">Chunming Wu 0001</author><author pid="07/8388">Shouling Ji</author></authors><title>MalGraph: Hierarchical Graph Neural Networks for Robust Windows Malware Detection.</title><venue>INFOCOM</venue><pages>1998-2007</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LingWDQZZMWWJ22</key><doi>10.1109/INFOCOM48880.2022.9796786</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796786</ee><url>https://dblp.org/rec/conf/infocom/LingWDQZZMWWJ22</url></info>
+<url>URL#571364</url>
+</hit>
+<hit score="1" id="571365">
+<info><authors><author pid="79/7563">Zhen Ling</author><author pid="282/4733">Gui Xiao</author><author pid="17/7579">Wenjia Wu</author><author pid="148/7260">Xiaodan Gu</author><author pid="98/2604-1">Ming Yang 0001</author><author pid="49/2189">Xinwen Fu</author></authors><title>Towards an Efficient Defense against Deep Learning based Website Fingerprinting.</title><venue>INFOCOM</venue><pages>310-319</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LingXWGYF22</key><doi>10.1109/INFOCOM48880.2022.9796685</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796685</ee><url>https://dblp.org/rec/conf/infocom/LingXWGYF22</url></info>
+<url>URL#571365</url>
+</hit>
+<hit score="1" id="571366">
+<info><authors><author pid="28/374">Hongyan Liu</author><author pid="64/3062">Xiang Chen</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="210/0343">Dezhang Kong</author><author pid="171/9519">Jinbo Sun</author><author pid="68/3245">Dong Zhang</author><author pid="81/6572">Haifeng Zhou</author><author pid="97/8329-1">Chunming Wu 0001</author></authors><title>Escala: Timely Elastic Scaling of Control Channels in Network Measurement.</title><venue>INFOCOM</venue><pages>1848-1857</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuCHKSZZW22</key><doi>10.1109/INFOCOM48880.2022.9796830</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796830</ee><url>https://dblp.org/rec/conf/infocom/LiuCHKSZZW22</url></info>
+<url>URL#571366</url>
+</hit>
+<hit score="1" id="571367">
+<info><authors><author pid="226/5520">Kanghuai Liu</author><author pid="13/3479-2">Lin Chen 0002</author><author pid="171/4987">Junyi Huang</author><author pid="78/4065">Shiyuan Liu</author><author pid="41/5200">Jihong Yu</author></authors><title>Revisiting RFID Missing Tag Identification.</title><venue>INFOCOM</venue><pages>710-719</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuCHLY22</key><doi>10.1109/INFOCOM48880.2022.9796971</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796971</ee><url>https://dblp.org/rec/conf/infocom/LiuCHLY22</url></info>
+<url>URL#571367</url>
+</hit>
+<hit score="1" id="571369">
+<info><authors><author pid="51/3710-118">Yang Liu 0118</author><author pid="129/9436">Mingyuan Fan</author><author pid="152/6215">Cen Chen</author><author pid="134/3945">Ximeng Liu</author><author pid="91/7448">Zhuo Ma</author><author pid="58/6810-56">Li Wang 0056</author><author pid="12/6604-1">Jianfeng Ma 0001</author></authors><title>Backdoor Defense with Machine Unlearning.</title><venue>INFOCOM</venue><pages>280-289</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuFCLMWM22</key><doi>10.1109/INFOCOM48880.2022.9796974</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796974</ee><url>https://dblp.org/rec/conf/infocom/LiuFCLMWM22</url></info>
+<url>URL#571369</url>
+</hit>
+<hit score="1" id="571370">
+<info><authors><author pid="43/3771-8">Jianwei Liu 0008</author><author pid="144/8954">Yinghui He</author><author pid="150/3317">Chaowei Xiao</author><author pid="96/6606">Jinsong Han</author><author pid="223/5307">Le Cheng</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>Physical-World Attack towards WiFi-based Behavior Recognition.</title><venue>INFOCOM</venue><pages>400-409</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuHXHCR22</key><doi>10.1109/INFOCOM48880.2022.9796920</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796920</ee><url>https://dblp.org/rec/conf/infocom/LiuHXHCR22</url></info>
+<url>URL#571370</url>
+</hit>
+<hit score="1" id="571372">
+<info><authors><author pid="141/5830">Qingyu Liu</author><author pid="35/9090">Chengzhang Li</author><author pid="h/YTHou">Y. Thomas Hou 0001</author><author pid="73/3673">Wenjing Lou</author><author pid="42/564">Jeffrey H. Reed</author><author pid="07/790">Sastry Kompella</author></authors><title>Ao2I: Minimizing Age of Outdated Information to Improve Freshness in Data Collection.</title><venue>INFOCOM</venue><pages>1359-1368</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuLHLRK22</key><doi>10.1109/INFOCOM48880.2022.9796932</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796932</ee><url>https://dblp.org/rec/conf/infocom/LiuLHLRK22</url></info>
+<url>URL#571372</url>
+</hit>
+<hit score="1" id="571373">
+<info><authors><author pid="281/2189">Yuezhou Liu</author><author pid="41/5232">Yuanyuan Li</author><author pid="87/221">Lili Su</author><author pid="72/5346">Edmund Yeh</author><author pid="42/6940">Stratis Ioannidis</author></authors><title>Experimental Design Networks: A Paradigm for Serving Heterogeneous Learners under Networking Constraints.</title><venue>INFOCOM</venue><pages>210-219</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuLSYI22</key><doi>10.1109/INFOCOM48880.2022.9796907</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796907</ee><url>https://dblp.org/rec/conf/infocom/LiuLSYI22</url></info>
+<url>URL#571373</url>
+</hit>
+<hit score="1" id="571375">
+<info><authors><author pid="97/2274-57">Yu Liu 0057</author><author pid="222/5327">Yingling Mao</author><author pid="231/6072">Xiaojun Shang</author><author pid="02/1825-2">Zhenhua Liu 0002</author><author pid="10/2031-1">Yuanyuan Yang 0001</author></authors><title>Distributed Cooperative Caching in Unreliable Edge Environments.</title><venue>INFOCOM</venue><pages>1049-1058</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuMSLY22</key><doi>10.1109/INFOCOM48880.2022.9796799</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796799</ee><url>https://dblp.org/rec/conf/infocom/LiuMSLY22</url></info>
+<url>URL#571375</url>
+</hit>
+<hit score="1" id="571377">
+<info><authors><author pid="68/7662">Tingjun Liu</author><author pid="145/0641">Chuyu Wang</author><author pid="70/1741-4">Lei Xie 0004</author><author pid="275/7641">Jingyi Ning</author><author pid="53/9359">Tie Qiu 0001</author><author pid="91/8079-1">Fu Xiao 0001</author><author pid="24/3318">Sanglu Lu</author></authors><title>RF-Protractor: Non-Contacting Angle Tracking via COTS RFID in Industrial IoT Environment.</title><venue>INFOCOM</venue><pages>390-399</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuWXNQXL22</key><doi>10.1109/INFOCOM48880.2022.9796839</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796839</ee><url>https://dblp.org/rec/conf/infocom/LiuWXNQXL22</url></info>
+<url>URL#571377</url>
+</hit>
+<hit score="1" id="571378">
+<info><authors><author pid="87/793">Wenbin Liu</author><author pid="94/10612">En Wang</author><author pid="01/6376">Yongjian Yang</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Worker Selection Towards Data Completion for Online Sparse Crowdsensing.</title><venue>INFOCOM</venue><pages>1509-1518</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuWYW22</key><doi>10.1109/INFOCOM48880.2022.9796743</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796743</ee><url>https://dblp.org/rec/conf/infocom/LiuWYW22</url></info>
+<url>URL#571378</url>
+</hit>
+<hit score="1" id="571380">
+<info><authors><author pid="97/4626-57">Yi Liu 0057</author><author pid="19/360-19">Lei Xu 0019</author><author pid="21/8884">Xingliang Yuan</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="50/3402-1">Bo Li 0001</author></authors><title>The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining.</title><venue>INFOCOM</venue><pages>1749-1758</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuXYWL22</key><doi>10.1109/INFOCOM48880.2022.9796721</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796721</ee><url>https://dblp.org/rec/conf/infocom/LiuXYWL22</url></info>
+<url>URL#571380</url>
+</hit>
+<hit score="1" id="571381">
+<info><authors><author pid="06/2123-1">Qin Liu 0001</author><author pid="190/4361">Jiamin Yang</author><author pid="25/4108-1">Hongbo Jiang 0001</author><author pid="w/JieWu1">Jie Wu 0001</author><author pid="89/6609-11">Tao Peng 0011</author><author pid="25/3246-1">Tian Wang 0001</author><author pid="81/3285-1">Guojun Wang 0001</author></authors><title>When Deep Learning Meets Steganography: Protecting Inference Privacy in the Dark.</title><venue>INFOCOM</venue><pages>590-599</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LiuYJWPWW22</key><doi>10.1109/INFOCOM48880.2022.9796975</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796975</ee><url>https://dblp.org/rec/conf/infocom/LiuYJWPWW22</url></info>
+<url>URL#571381</url>
+</hit>
+<hit score="1" id="571384">
+<info><authors><author pid="229/0114">Xinran Lu</author><author pid="70/1741-4">Lei Xie 0004</author><author pid="35/5625">Fang Wang</author><author pid="65/4916">Tao Gu</author><author pid="145/0641">Chuyu Wang</author><author pid="w/WeiWang2">Wei Wang 0002</author><author pid="24/3318">Sanglu Lu</author></authors><title>Separating Voices from Multiple Sound Sources using 2D Microphone Array.</title><venue>INFOCOM</venue><pages>989-998</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LuXWGWWL22</key><doi>10.1109/INFOCOM48880.2022.9796768</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796768</ee><url>https://dblp.org/rec/conf/infocom/LuXWGWWL22</url></info>
+<url>URL#571384</url>
+</hit>
+<hit score="1" id="571385">
+<info><authors><author pid="224/0762">Ziyue Luo</author><author pid="179/2382">Yixin Bao</author><author pid="34/3772-1">Chuan Wu 0001</author></authors><title>Optimizing Task Placement and Online Scheduling for Distributed GNN Training Acceleration.</title><venue>INFOCOM</venue><pages>890-899</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LuoBW22</key><doi>10.1109/INFOCOM48880.2022.9796910</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796910</ee><url>https://dblp.org/rec/conf/infocom/LuoBW22</url></info>
+<url>URL#571385</url>
+</hit>
+<hit score="1" id="571387">
+<info><authors><author pid="11/3705">Bing Luo</author><author pid="187/7990">Wenli Xiao</author><author pid="87/5094-1">Shiqiang Wang 0001</author><author pid="77/623-1">Jianwei Huang 0001</author><author pid="03/3843">Leandros Tassiulas</author></authors><title>Tackling System and Statistical Heterogeneity for Federated Learning with Adaptive Client Sampling.</title><venue>INFOCOM</venue><pages>1739-1748</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LuoXWHT22</key><doi>10.1109/INFOCOM48880.2022.9796935</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796935</ee><url>https://dblp.org/rec/conf/infocom/LuoXWHT22</url></info>
+<url>URL#571387</url>
+</hit>
+<hit score="1" id="571388">
+<info><authors><author pid="224/0762">Ziyue Luo</author><author pid="38/4600-1">Xiaodong Yi 0001</author><author pid="11/2292">Guoping Long</author><author pid="72/3336">Shiqing Fan</author><author pid="34/3772-1">Chuan Wu 0001</author><author pid="181/2799">Jun Yang</author><author pid="99/2649-16">Wei Lin 0016</author></authors><title>Efficient Pipeline Planning for Expedited Distributed DNN Training.</title><venue>INFOCOM</venue><pages>340-349</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LuoYLFWYL22</key><doi>10.1109/INFOCOM48880.2022.9796787</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796787</ee><url>https://dblp.org/rec/conf/infocom/LuoYLFWYL22</url></info>
+<url>URL#571388</url>
+</hit>
+<hit score="1" id="571389">
+<info><authors><author pid="176/7592">Luyao Luo</author><author pid="201/1240">Gongming Zhao</author><author pid="22/1748">Hongli Xu</author><author pid="96/7692">Liguang Xie</author><author pid="62/29">Ying Xiong</author></authors><title>VITA: Virtual Network Topology-aware Southbound Message Delivery in Clouds.</title><venue>INFOCOM</venue><pages>630-639</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LuoZXXX22</key><doi>10.1109/INFOCOM48880.2022.9796938</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796938</ee><url>https://dblp.org/rec/conf/infocom/LuoZXXX22</url></info>
+<url>URL#571389</url>
+</hit>
+<hit score="1" id="571390">
+<info><authors><author pid="323/0079">Gerui Lv</author><author pid="48/86">Qinghua Wu</author><author pid="63/8652">Weiran Wang</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="01/2888">Gaogang Xie</author></authors><title>Lumos: towards Better Video Streaming QoE through Accurate Throughput Prediction.</title><venue>INFOCOM</venue><pages>650-659</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/LvWWLX22</key><doi>10.1109/INFOCOM48880.2022.9796948</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796948</ee><url>https://dblp.org/rec/conf/infocom/LvWWLX22</url></info>
+<url>URL#571390</url>
+</hit>
+<hit score="1" id="571391">
+<info><authors><author pid="207/2001">Yiqing Ma</author><author pid="w/HaoWang-22">Hao Wang 0022</author><author pid="76/5416-3">Yiming Zhang 0003</author><author pid="c/KaiChen5">Kai Chen 0005</author></authors><title>AutoByte: Automatic Configuration for Optimal Communication Scheduling in DNN Training.</title><venue>INFOCOM</venue><pages>760-769</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/MaWZC22</key><doi>10.1109/INFOCOM48880.2022.9796752</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796752</ee><url>https://dblp.org/rec/conf/infocom/MaWZC22</url></info>
+<url>URL#571391</url>
+</hit>
+<hit score="1" id="571396">
+<info><authors><author pid="222/5327">Yingling Mao</author><author pid="231/6072">Xiaojun Shang</author><author pid="10/2031-1">Yuanyuan Yang 0001</author></authors><title>Joint Resource Management and Flow Scheduling for SFC Deployment in Hybrid Edge-and-Cloud Network.</title><venue>INFOCOM</venue><pages>170-179</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/MaoSY22</key><doi>10.1109/INFOCOM48880.2022.9796884</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796884</ee><url>https://dblp.org/rec/conf/infocom/MaoSY22</url></info>
+<url>URL#571396</url>
+</hit>
+<hit score="1" id="571397">
+<info><authors><author pid="222/5327">Yingling Mao</author><author pid="231/6072">Xiaojun Shang</author><author pid="10/2031-1">Yuanyuan Yang 0001</author></authors><title>Provably Efficient Algorithms for Traffic-sensitive SFC Placement and Flow Routing.</title><venue>INFOCOM</venue><pages>950-959</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/MaoSY22a</key><doi>10.1109/INFOCOM48880.2022.9796690</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796690</ee><url>https://dblp.org/rec/conf/infocom/MaoSY22a</url></info>
+<url>URL#571397</url>
+</hit>
+<hit score="1" id="571408">
+<info><authors><author pid="08/3080">Arvind Narayanan</author><author pid="262/0093">Muhammad Iqbal Rochman</author><author pid="162/5148">Ahmad Hassan</author><author pid="319/8503">Bariq S. Firmansyah</author><author pid="126/2518">Vanlin Sathya</author><author pid="86/4074">Monisha Ghosh</author><author pid="54/476-1">Feng Qian 0001</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>A Comparative Measurement Study of Commercial 5G mmWave Deployments.</title><venue>INFOCOM</venue><pages>800-809</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/NarayananRHFSGQ22</key><doi>10.1109/INFOCOM48880.2022.9796693</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796693</ee><url>https://dblp.org/rec/conf/infocom/NarayananRHFSGQ22</url></info>
+<url>URL#571408</url>
+</hit>
+<hit score="1" id="571411">
+<info><authors><author pid="211/2892">Rui Ning</author><author pid="06/6463">Chunsheng Xin</author><author pid="78/1033">Hongyi Wu</author></authors><title>TrojanFlow: A Neural Backdoor Attack to Deep Learning-based Network Traffic Classifiers.</title><venue>INFOCOM</venue><pages>1429-1438</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/NingXW22</key><doi>10.1109/INFOCOM48880.2022.9796878</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796878</ee><url>https://dblp.org/rec/conf/infocom/NingXW22</url></info>
+<url>URL#571411</url>
+</hit>
+<hit score="1" id="571413">
+<info><authors><author pid="256/0847">Yudian Ouyang</author><author pid="98/476-1">Kun Xie 0001</author><author pid="10/5630-1">Xin Wang 0001</author><author pid="92/1480">Jigang Wen</author><author pid="87/4248">Guangxing Zhang</author></authors><title>Lightweight Trilinear Pooling based Tensor Completion for Network Traffic Monitoring.</title><venue>INFOCOM</venue><pages>2128-2137</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/OuyangXWWZ22</key><doi>10.1109/INFOCOM48880.2022.9796873</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796873</ee><url>https://dblp.org/rec/conf/infocom/OuyangXWWZ22</url></info>
+<url>URL#571413</url>
+</hit>
+<hit score="1" id="571414">
+<info><authors><author pid="298/3173">Qingrui Pan</author><author pid="203/8833">Zhenlin An</author><author pid="148/1927">Qiongzheng Lin</author><author pid="50/2484-25">Lei Yang 0025</author></authors><title>LSAB: Enhancing Spatio-Temporal Efficiency of AoA Tracking Systems.</title><venue>INFOCOM</venue><pages>1858-1867</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PanALY22</key><doi>10.1109/INFOCOM48880.2022.9796679</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796679</ee><url>https://dblp.org/rec/conf/infocom/PanALY22</url></info>
+<url>URL#571414</url>
+</hit>
+<hit score="1" id="571415">
+<info><authors><author pid="203/0078">Jiayu Pan</author><author pid="133/3897">Ahmed M. Bedewy</author><author pid="07/863">Yin Sun</author><author pid="67/1991">Ness B. Shroff</author></authors><title>Optimizing Sampling for Data Freshness: Unreliable Transmissions with Random Two-way Delay.</title><venue>INFOCOM</venue><pages>1389-1398</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PanBSS22</key><doi>10.1109/INFOCOM48880.2022.9796895</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796895</ee><url>https://dblp.org/rec/conf/infocom/PanBSS22</url></info>
+<url>URL#571415</url>
+</hit>
+<hit score="1" id="571416">
+<info><authors><author pid="26/4737">Li Pan</author><author pid="17/6729-15">Lin Wang 0015</author><author pid="227/0114">Shutong Chen</author><author pid="31/6019">Fangming Liu</author></authors><title>Retention-Aware Container Caching for Serverless Edge Computing.</title><venue>INFOCOM</venue><pages>1069-1078</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PanWCL22</key><doi>10.1109/INFOCOM48880.2022.9796705</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796705</ee><url>https://dblp.org/rec/conf/infocom/PanWCL22</url></info>
+<url>URL#571416</url>
+</hit>
+<hit score="1" id="571417">
+<info><authors><author pid="302/1847">Lexin Pan</author><author pid="42/5886">Tong Ye</author></authors><title>Add/Drop Flexibility and System Complexity Tradeoff in ROADM Designs.</title><venue>INFOCOM</venue><pages>1918-1927</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PanY22</key><doi>10.1109/INFOCOM48880.2022.9796692</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796692</ee><url>https://dblp.org/rec/conf/infocom/PanY22</url></info>
+<url>URL#571417</url>
+</hit>
+<hit score="1" id="571418">
+<info><authors><author pid="240/8960">Xiaoyi Pang</author><author pid="31/5772-1">Zhibo Wang 0001</author><author pid="40/2356">Jingxin Li</author><author pid="41/10471">Ruiting Zhou</author><author pid="00/468">Ju Ren</author><author pid="128/3410">Zhetao Li</author></authors><title>Towards Online Privacy-preserving Computation Offloading in Mobile Edge Computing.</title><venue>INFOCOM</venue><pages>1179-1188</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PangWLZRL22</key><doi>10.1109/INFOCOM48880.2022.9796748</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796748</ee><url>https://dblp.org/rec/conf/infocom/PangWLZRL22</url></info>
+<url>URL#571418</url>
+</hit>
+<hit score="1" id="571421">
+<info><authors><author pid="205/5504">Nikolaos Papadis</author><author pid="03/3843">Leandros Tassiulas</author></authors><title>Payment Channel Networks: Single-Hop Scheduling for Throughput Maximization.</title><venue>INFOCOM</venue><pages>900-909</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PapadisT22</key><doi>10.1109/INFOCOM48880.2022.9796862</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796862</ee><url>https://dblp.org/rec/conf/infocom/PapadisT22</url></info>
+<url>URL#571421</url>
+</hit>
+<hit score="1" id="571422">
+<info><authors><author pid="196/4100">Bryan Pearson</author><author pid="47/722-25">Yue Zhang 0025</author><author pid="z/CliffChangchunZou">Cliff C. Zou</author><author pid="49/2189">Xinwen Fu</author></authors><title>FUME: Fuzzing Message Queuing Telemetry Transport Brokers.</title><venue>INFOCOM</venue><pages>1699-1708</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PearsonZZF22</key><doi>10.1109/INFOCOM48880.2022.9796755</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796755</ee><url>https://dblp.org/rec/conf/infocom/PearsonZZF22</url></info>
+<url>URL#571422</url>
+</hit>
+<hit score="1" id="571423">
+<info><authors><author pid="195/7516">Jake B. Perazzone</author><author pid="87/5094-1">Shiqiang Wang 0001</author><author pid="50/7911">Mingyue Ji</author><author pid="129/2261">Kevin S. Chan</author></authors><title>Communication-Efficient Device Scheduling for Federated Learning Using Stochastic Optimization.</title><venue>INFOCOM</venue><pages>1449-1458</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/PerazzoneWJC22</key><doi>10.1109/INFOCOM48880.2022.9796818</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796818</ee><url>https://dblp.org/rec/conf/infocom/PerazzoneWJC22</url></info>
+<url>URL#571423</url>
+</hit>
+<hit score="1" id="571426">
+<info><authors><author pid="24/4160">Xiaodong Qi</author></authors><title>S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding.</title><venue>INFOCOM</venue><pages>1978-1987</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/Qi22</key><doi>10.1109/INFOCOM48880.2022.9796800</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796800</ee><url>https://dblp.org/rec/conf/infocom/Qi22</url></info>
+<url>URL#571426</url>
+</hit>
+<hit score="1" id="571429">
+<info><authors><author pid="67/10326">Jian Qu</author><author pid="18/10062">Xiaobo Ma</author><author pid="62/9032">Wenmao Liu</author><author pid="322/9868">Hongqing Sang</author><author pid="10/3844">Jianfeng Li</author><author pid="68/2052-1">Lei Xue 0001</author><author pid="53/1565">Xiapu Luo</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="39/456">Li Feng</author><author pid="45/503">Xiaohong Guan</author></authors><title>Landing Reinforcement Learning onto Smart Scanning of The Internet of Things.</title><venue>INFOCOM</venue><pages>2088-2097</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/QuMLSLXLLFG22</key><doi>10.1109/INFOCOM48880.2022.9796737</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796737</ee><url>https://dblp.org/rec/conf/infocom/QuMLSLXLLFG22</url></info>
+<url>URL#571429</url>
+</hit>
+<hit score="1" id="571430">
+<info><authors><author pid="249/7546">Chengyi Qu</author><author pid="308/2799">Rounak Singh</author><author pid="266/9837">Alicia Esquivel Morel</author><author pid="06/1313">Prasad Calyam</author></authors><title>Learning-based Multi-Drone Network Edge Orchestration for Video Analytics.</title><venue>INFOCOM</venue><pages>1219-1228</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/QuSMC22</key><doi>10.1109/INFOCOM48880.2022.9796706</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796706</ee><url>https://dblp.org/rec/conf/infocom/QuSMC22</url></info>
+<url>URL#571430</url>
+</hit>
+<hit score="1" id="571438">
+<info><authors><author pid="00/468">Ju Ren</author><author pid="323/0011">Jiani Liu 0005</author><author pid="60/4061">Yongmin Zhang</author><author pid="46/4444">Zhaohui Li</author><author pid="214/2000-1">Feng Lyu 0001</author><author pid="31/5772-1">Zhibo Wang 0001</author><author pid="99/4094">Yaoxue Zhang</author></authors><title>An Efficient Two-Layer Task Offloading Scheme for MEC System with Multiple Services Providers.</title><venue>INFOCOM</venue><pages>1519-1528</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/RenLZLLWZ22</key><doi>10.1109/INFOCOM48880.2022.9796843</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796843</ee><url>https://dblp.org/rec/conf/infocom/RenLZLLWZ22</url></info>
+<url>URL#571438</url>
+</hit>
+<hit score="1" id="571439">
+<info><authors><author pid="317/0470">Yuanming Ren</author><author pid="99/7970">Shihao Shen</author><author pid="317/0867">Yanli Ju</author><author pid="58/6576-1">Xiaofei Wang 0001</author><author pid="80/6234">Wenyu Wang</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>EdgeMatrix: A Resources Redefined Edge-Cloud System for Prioritized Services.</title><venue>INFOCOM</venue><pages>610-619</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/RenSJWWL22</key><doi>10.1109/INFOCOM48880.2022.9796939</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796939</ee><url>https://dblp.org/rec/conf/infocom/RenSJWWL22</url></info>
+<url>URL#571439</url>
+</hit>
+<hit score="1" id="571440">
+<info><authors><author pid="215/3531">Yaniv Sadeh</author><author pid="48/2092">Ori Rottenstreich</author><author pid="48/3950">Haim Kaplan</author></authors><title>Minimal Total Deviation in TCAM Load Balancing.</title><venue>INFOCOM</venue><pages>450-459</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/SadehRK22</key><doi>10.1109/INFOCOM48880.2022.9796698</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796698</ee><url>https://dblp.org/rec/conf/infocom/SadehRK22</url></info>
+<url>URL#571440</url>
+</hit>
+<hit score="1" id="571441">
+<info><authors><author pid="262/5759">Sogand SadrHaghighi</author><author pid="232/7964">Mahdi Dolati</author><author pid="78/4129">Majid Ghaderi</author><author pid="96/4551">Ahmad Khonsari</author></authors><title>FlowShark: Sampling for High Flow Visibility in SDNs.</title><venue>INFOCOM</venue><pages>160-169</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/SadrHaghighiDGK22</key><doi>10.1109/INFOCOM48880.2022.9796658</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796658</ee><url>https://dblp.org/rec/conf/infocom/SadrHaghighiDGK22</url></info>
+<url>URL#571441</url>
+</hit>
+<hit score="1" id="571442">
+<info><authors><author pid="281/7048">Batool Salehi</author><author pid="315/2908">Jerry Gu</author><author pid="136/7773">Debashri Roy</author><author pid="04/3786">Kaushik R. Chowdhury</author></authors><title>FLASH: Federated Learning for Automated Selection of High-band mmWave Sectors.</title><venue>INFOCOM</venue><pages>1719-1728</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/SalehiGRC22</key><doi>10.1109/INFOCOM48880.2022.9796865</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796865</ee><url>https://dblp.org/rec/conf/infocom/SalehiGRC22</url></info>
+<url>URL#571442</url>
+</hit>
+<hit score="1" id="571445">
+<info><authors><author pid="304/8629">Raz Segal</author><author pid="04/5911">Chen Avin</author><author pid="10/833">Gabriel Scalosub</author></authors><title>Constrained In-network Computing with Low Congestion in Datacenter Networks.</title><venue>INFOCOM</venue><pages>1639-1648</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/SegalAS22</key><doi>10.1109/INFOCOM48880.2022.9796980</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796980</ee><url>https://dblp.org/rec/conf/infocom/SegalAS22</url></info>
+<url>URL#571445</url>
+</hit>
+<hit score="1" id="571447">
+<info><authors><author pid="231/6072">Xiaojun Shang</author><author pid="147/7746">Yaodong Huang</author><author pid="222/5327">Yingling Mao</author><author pid="02/1825-2">Zhenhua Liu 0002</author><author pid="10/2031-1">Yuanyuan Yang 0001</author></authors><title>Enabling QoE Support for Interactive Applications over Mobile Edge with High User Mobility.</title><venue>INFOCOM</venue><pages>1289-1298</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ShangHMLY22</key><doi>10.1109/INFOCOM48880.2022.9796811</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796811</ee><url>https://dblp.org/rec/conf/infocom/ShangHMLY22</url></info>
+<url>URL#571447</url>
+</hit>
+<hit score="1" id="571448">
+<info><authors><author pid="236/2567">Zhihui Shao</author><author pid="124/1315">Jianyi Yang</author><author pid="79/6027-1">Cong Shen 0001</author><author pid="60/4548">Shaolei Ren</author></authors><title>Learning for Robust Combinatorial Optimization: Algorithm and Application.</title><venue>INFOCOM</venue><pages>930-939</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ShaoYSR22</key><doi>10.1109/INFOCOM48880.2022.9796715</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796715</ee><url>https://dblp.org/rec/conf/infocom/ShaoYSR22</url></info>
+<url>URL#571448</url>
+</hit>
+<hit score="1" id="571450">
+<info><authors><author pid="323/0047">Lutian Shen</author></authors><title>User Experience Oriented Task Computation for UAV-Assisted MEC System.</title><venue>INFOCOM</venue><pages>1549-1558</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/Shen22</key><doi>10.1109/INFOCOM48880.2022.9796968</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796968</ee><url>https://dblp.org/rec/conf/infocom/Shen22</url></info>
+<url>URL#571450</url>
+</hit>
+<hit score="1" id="571453">
+<info><authors><author pid="233/5017">Lianjie Shi</author><author pid="285/1867">Runxin Tian</author><author pid="10/5630-40">Xin Wang 0040</author><author pid="70/3312">Richard T. B. Ma</author></authors><title>DiFi: A Go-as-You-Pay Wi-Fi Access System.</title><venue>INFOCOM</venue><pages>840-849</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ShiTWM22</key><doi>10.1109/INFOCOM48880.2022.9796832</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796832</ee><url>https://dblp.org/rec/conf/infocom/ShiTWM22</url></info>
+<url>URL#571453</url>
+</hit>
+<hit score="1" id="571459">
+<info><authors><author pid="284/1392">Juaren Steiger</author><author pid="89/6764">Bin Li</author><author pid="29/2864-1">Ning Lu 0001</author></authors><title>Learning from Delayed Semi-Bandit Feedback under Strong Fairness Guarantees.</title><venue>INFOCOM</venue><pages>1379-1388</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/SteigerLL22</key><doi>10.1109/INFOCOM48880.2022.9796683</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796683</ee><url>https://dblp.org/rec/conf/infocom/SteigerLL22</url></info>
+<url>URL#571459</url>
+</hit>
+<hit score="1" id="571460">
+<info><authors><author pid="88/619-3">Peng Sun 0003</author><author pid="83/6331-4">Xu Chen 0004</author><author pid="213/0876">Guocheng Liao</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>A Profit-Maximizing Model Marketplace with Differentially Private Federated Learning.</title><venue>INFOCOM</venue><pages>1439-1448</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/SunCLH22</key><doi>10.1109/INFOCOM48880.2022.9796833</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796833</ee><url>https://dblp.org/rec/conf/infocom/SunCLH22</url></info>
+<url>URL#571460</url>
+</hit>
+<hit score="1" id="571461">
+<info><authors><author pid="62/3689">Yu Sun</author><author pid="24/8037">Chi Lin</author><author pid="68/8775">Jiankang Ren</author><author pid="90/4693">Peng-Fei Wang</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author><author pid="72/3527-8">Qiang Zhang 0008</author></authors><title>Subset Selection for Hybrid Task Scheduling with General Cost Constraints.</title><venue>INFOCOM</venue><pages>790-799</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/SunLRWWWZ22</key><doi>10.1109/INFOCOM48880.2022.9796947</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796947</ee><url>https://dblp.org/rec/conf/infocom/SunLRWWWZ22</url></info>
+<url>URL#571461</url>
+</hit>
+<hit score="1" id="571462">
+<info><authors><author pid="24/7628">Sucha Supittayapornpong</author><author pid="299/2232">Pooria Namyar</author><author pid="76/4874-5">Mingyang Zhang 0005</author><author pid="89/6345">Minlan Yu</author><author pid="g/RameshGovindan">Ramesh Govindan</author></authors><title>Optimal Oblivious Routing for Structured Networks.</title><venue>INFOCOM</venue><pages>1988-1997</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/Supittayapornpong22</key><doi>10.1109/INFOCOM48880.2022.9796682</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796682</ee><url>https://dblp.org/rec/conf/infocom/Supittayapornpong22</url></info>
+<url>URL#571462</url>
+</hit>
+<hit score="1" id="571463">
+<info><authors><author pid="21/2397">Jalil Taghia</author><author pid="71/8398">Farnaz Moradi</author><author pid="296/0974">Hannes Larsson</author><author pid="143/4489">Xiaoyu Lan</author><author pid="74/7355">Masoumeh Ebrahimi</author><author pid="86/1402">Andreas Johnsson</author></authors><title>Policy-Induced Unsupervised Feature Selection: A Networking Case Study.</title><venue>INFOCOM</venue><pages>750-759</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TaghiaMLLEJ22</key><doi>10.1109/INFOCOM48880.2022.9796928</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796928</ee><url>https://dblp.org/rec/conf/infocom/TaghiaMLLEJ22</url></info>
+<url>URL#571463</url>
+</hit>
+<hit score="1" id="571465">
+<info><authors><author pid="182/4598">Tianxiang Tan</author><author pid="c/GuohongCao">Guohong Cao</author></authors><title>Deep Learning on Mobile Devices Through Neural Processing Units and Edge Computing.</title><venue>INFOCOM</venue><pages>1209-1218</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TanC22</key><doi>10.1109/INFOCOM48880.2022.9796929</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796929</ee><url>https://dblp.org/rec/conf/infocom/TanC22</url></info>
+<url>URL#571465</url>
+</hit>
+<hit score="1" id="571466">
+<info><authors><author pid="218/9666">Heng Chuan Tan</author><author pid="125/2938">Carmen Cheh</author><author pid="38/8396-1">Binbin Chen 0001</author></authors><title>CoToRu: Automatic Generation of Network Intrusion Detection Rules from Code.</title><venue>INFOCOM</venue><pages>720-729</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TanCC22</key><doi>10.1109/INFOCOM48880.2022.9796697</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796697</ee><url>https://dblp.org/rec/conf/infocom/TanCC22</url></info>
+<url>URL#571466</url>
+</hit>
+<hit score="1" id="571467">
+<info><authors><author pid="96/8637">Jing Tan</author><author pid="90/4201">Ramin Khalili</author><author pid="k/HolgerKarl">Holger Karl</author><author pid="36/640">Artur Hecker</author></authors><title>Multi-Agent Distributed Reinforcement Learning for Making Decentralized Offloading Decisions.</title><venue>INFOCOM</venue><pages>2098-2107</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TanKKH22</key><doi>10.1109/INFOCOM48880.2022.9796717</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796717</ee><url>https://dblp.org/rec/conf/infocom/TanKKH22</url></info>
+<url>URL#571467</url>
+</hit>
+<hit score="1" id="571468">
+<info><authors><author pid="181/7381">Haoyue Tang</author><author pid="267/4318">Yuchao Chen</author><author pid="227/7141">Jingzhou Sun</author><author pid="14/4008">Jintao Wang</author><author pid="00/6342-4">Jian Song 0004</author></authors><title>Sending Timely Status Updates through Channel with Random Delay via Online Learning.</title><venue>INFOCOM</venue><pages>1819-1827</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TangCSWS22</key><doi>10.1109/INFOCOM48880.2022.9796970</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796970</ee><url>https://dblp.org/rec/conf/infocom/TangCSWS22</url></info>
+<url>URL#571468</url>
+</hit>
+<hit score="1" id="571470">
+<info><authors><author pid="49/10344">Jianzhi Tang</author><author pid="44/7207">Luoyi Fu</author><author pid="165/9711">Jiaxin Ding</author><author pid="96/1149">Xinbing Wang</author><author pid="51/1742">Guihai Chen</author></authors><title>Connectivity Maintenance in Uncertain Networks under Adversarial Attack.</title><venue>INFOCOM</venue><pages>1399-1408</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TangFDWC22</key><doi>10.1109/INFOCOM48880.2022.9796966</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796966</ee><url>https://dblp.org/rec/conf/infocom/TangFDWC22</url></info>
+<url>URL#571470</url>
+</hit>
+<hit score="1" id="571471">
+<info><authors><author pid="245/6128">Jiaxin Tang</author><author pid="91/3699-2">Sen Liu 0002</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="145/8541">Zehua Guo 0001</author><author pid="99/6243-1">Junjie Zhang 0001</author><author pid="288/0124">Peixuan Gao</author><author pid="48/4792-1">Yang Chen 0001</author><author pid="10/5630-2">Xin Wang 0002</author><author pid="48/1215">H. Jonathan Chao</author></authors><title>ABS: Adaptive Buffer Sizing via Augmented Programmability with Machine Learning.</title><venue>INFOCOM</venue><pages>2038-2047</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TangLXGZGCWC22</key><doi>10.1109/INFOCOM48880.2022.9796967</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796967</ee><url>https://dblp.org/rec/conf/infocom/TangLXGZGCWC22</url></info>
+<url>URL#571471</url>
+</hit>
+<hit score="1" id="571472">
+<info><authors><author pid="223/0140">Binglin Tao</author><author pid="70/1227">Mingyu Xiao</author><author pid="59/1434">Bakhadyr Khoussainov</author><author pid="33/10182-1">Junqiang Peng 0001</author></authors><title>Optimal Shielding to Guarantee Region-Based Connectivity under Geographical Failures.</title><venue>INFOCOM</venue><pages>1109-1118</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TaoXKP22</key><doi>10.1109/INFOCOM48880.2022.9796753</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796753</ee><url>https://dblp.org/rec/conf/infocom/TaoXKP22</url></info>
+<url>URL#571472</url>
+</hit>
+<hit score="1" id="571473">
+<info><authors><author pid="158/4672">Utku Tefek</author><author pid="59/10410">Ertem Esiner</author><author pid="90/7355">Daisuke Mashima</author><author pid="38/8396-1">Binbin Chen 0001</author><author pid="51/6805">Yih-Chun Hu</author></authors><title>Caching-based Multicast Message Authentication in Time-critical Industrial Control Systems.</title><venue>INFOCOM</venue><pages>1039-1048</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TefekEMCH22</key><doi>10.1109/INFOCOM48880.2022.9796767</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796767</ee><url>https://dblp.org/rec/conf/infocom/TefekEMCH22</url></info>
+<url>URL#571473</url>
+</hit>
+<hit score="1" id="571475">
+<info><authors><author pid="230/7979">Shreshth Tuli</author><author pid="16/2365">Giuliano Casale</author><author pid="j/NicholasRJennings">Nicholas R. Jennings</author></authors><title>PreGAN: Preemptive Migration Prediction Network for Proactive Fault-Tolerant Edge Computing.</title><venue>INFOCOM</venue><pages>670-679</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TuliCJ22</key><doi>10.1109/INFOCOM48880.2022.9796778</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796778</ee><url>https://dblp.org/rec/conf/infocom/TuliCJ22</url></info>
+<url>URL#571475</url>
+</hit>
+<hit score="1" id="571476">
+<info><authors><author pid="297/6590">Geoff Twardokus</author><author pid="133/3880">Hanif Rahbari</author></authors><title>Vehicle-to-Nothing? Securing C-V2X Against Protocol-Aware DoS Attacks.</title><venue>INFOCOM</venue><pages>1629-1638</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/TwardokusR22</key><doi>10.1109/INFOCOM48880.2022.9796667</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796667</ee><url>https://dblp.org/rec/conf/infocom/TwardokusR22</url></info>
+<url>URL#571476</url>
+</hit>
+<hit score="1" id="571478">
+<info><authors><author pid="221/3638">Filippo Vannella</author><author pid="p/AlexandreProutiere">Alexandre Proutière</author><author pid="238/0358">Yassir Jedra</author><author pid="32/8356">Jaeseong Jeong</author></authors><title>Learning Optimal Antenna Tilt Control Policies: A Contextual Linear Bandit Approach.</title><venue>INFOCOM</venue><pages>740-749</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/VannellaPJJ22</key><doi>10.1109/INFOCOM48880.2022.9796783</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796783</ee><url>https://dblp.org/rec/conf/infocom/VannellaPJJ22</url></info>
+<url>URL#571478</url>
+</hit>
+<hit score="1" id="571479">
+<info><authors><author pid="185/5700">Balázs Vass</author><author pid="69/9972">Erika R. Bérczi-Kovács</author><author pid="322/9748">Ábel Barabás</author><author pid="298/4071">Zsombor L. Hajdú</author><author pid="14/4896">János Tapolcai</author></authors><title>Polynomial-Time Algorithm for the Regional SRLG-disjoint Paths Problem.</title><venue>INFOCOM</venue><pages>940-949</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/VassBBHT22</key><doi>10.1109/INFOCOM48880.2022.9796870</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796870</ee><url>https://dblp.org/rec/conf/infocom/VassBBHT22</url></info>
+<url>URL#571479</url>
+</hit>
+<hit score="1" id="571482">
+<info><authors><author pid="79/2095">Brenton D. Walker</author><author pid="271/9943">Stefan Bora</author><author pid="56/3522">Markus Fidler</author></authors><title>Performance and Scaling of Parallel Systems with Blocking Start and/or Departure Barriers.</title><venue>INFOCOM</venue><pages>460-469</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WalkerBF22</key><doi>10.1109/INFOCOM48880.2022.9796754</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796754</ee><url>https://dblp.org/rec/conf/infocom/WalkerBF22</url></info>
+<url>URL#571482</url>
+</hit>
+<hit score="1" id="571483">
+<info><authors><author pid="224/0803">Yinxin Wan</author><author pid="x/KuaiXu">Kuai Xu</author><author pid="w/FengWang2">Feng Wang 0002</author><author pid="64/4394">Guoliang Xue</author></authors><title>IoTMosaic: Inferring User Activities from IoT Network Traffic in Smart Homes.</title><venue>INFOCOM</venue><pages>370-379</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WanXWX22</key><doi>10.1109/INFOCOM48880.2022.9796908</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796908</ee><url>https://dblp.org/rec/conf/infocom/WanXWX22</url></info>
+<url>URL#571483</url>
+</hit>
+<hit score="1" id="571485">
+<info><authors><author pid="46/2005-22">Ning Wang 0022</author><author pid="38/1020-4">Yimin Chen 0004</author><author pid="43/4685">Yang Hu</author><author pid="73/3673">Wenjing Lou</author><author pid="h/YTHou">Y. Thomas Hou 0001</author></authors><title>FeCo: Boosting Intrusion Detection Capability in IoT Networks via Contrastive Learning.</title><venue>INFOCOM</venue><pages>1409-1418</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangCHLH22</key><doi>10.1109/INFOCOM48880.2022.9796926</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796926</ee><url>https://dblp.org/rec/conf/infocom/WangCHLH22</url></info>
+<url>URL#571485</url>
+</hit>
+<hit score="1" id="571486">
+<info><authors><author pid="75/10048">Juncheng Wang</author><author pid="61/1489-1">Min Dong 0001</author><author pid="86/2829">Ben Liang 0001</author><author pid="02/10100">Gary Boudreau</author><author pid="125/8850">Hatem Abou-zeid</author></authors><title>Online Model Updating with Analog Aggregation in Wireless Edge Learning.</title><venue>INFOCOM</venue><pages>1229-1238</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangDLBA22</key><doi>10.1109/INFOCOM48880.2022.9796860</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796860</ee><url>https://dblp.org/rec/conf/infocom/WangDLBA22</url></info>
+<url>URL#571486</url>
+</hit>
+<hit score="1" id="571489">
+<info><authors><author pid="32/3351">Zhiyuan Wang</author><author pid="92/2834-1">Lin Gao 0001</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>Socially-Optimal Mechanism Design for Incentivized Online Learning.</title><venue>INFOCOM</venue><pages>1828-1837</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangGH22</key><doi>10.1109/INFOCOM48880.2022.9796676</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796676</ee><url>https://dblp.org/rec/conf/infocom/WangGH22</url></info>
+<url>URL#571489</url>
+</hit>
+<hit score="1" id="571490">
+<info><authors><author pid="221/1246">Junxiao Wang</author><author pid="01/267-1">Song Guo 0001</author><author pid="72/3192-1">Xin Xie 0001</author><author pid="51/8017">Heng Qi</author></authors><title>Protect Privacy from Gradient Leakage Attack in Federated Learning.</title><venue>INFOCOM</venue><pages>580-589</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangGXQ22</key><doi>10.1109/INFOCOM48880.2022.9796841</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796841</ee><url>https://dblp.org/rec/conf/infocom/WangGXQ22</url></info>
+<url>URL#571490</url>
+</hit>
+<hit score="1" id="571491">
+<info><authors><author pid="206/6742">Mowei Wang</author><author pid="321/9875">Linbo Hui</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="222/7404">Ru Liang</author><author pid="61/1951-1">Zhenhua Li 0001</author></authors><title>xNet: Improving Expressiveness and Granularity for Network Modeling with Graph Neural Networks.</title><venue>INFOCOM</venue><pages>2028-2037</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangHCLL22</key><doi>10.1109/INFOCOM48880.2022.9796726</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796726</ee><url>https://dblp.org/rec/conf/infocom/WangHCLL22</url></info>
+<url>URL#571491</url>
+</hit>
+<hit score="1" id="571492">
+<info><authors><author pid="206/6742">Mowei Wang</author><author pid="245/6116">Sijiang Huang</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="80/4406">Wendong Wang</author><author pid="61/1951-1">Zhenhua Li 0001</author></authors><title>Learning Buffer Management Policies for Shared Memory Switches.</title><venue>INFOCOM</venue><pages>730-739</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangHCWL22</key><doi>10.1109/INFOCOM48880.2022.9796784</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796784</ee><url>https://dblp.org/rec/conf/infocom/WangHCWL22</url></info>
+<url>URL#571492</url>
+</hit>
+<hit score="1" id="571493">
+<info><authors><author pid="97/8711">Penghao Wang</author><author pid="118/5562">Ruobing Jiang</author><author pid="15/5923-8">Chao Liu 0008</author></authors><title>Amaging: Acoustic Hand Imaging for Self-adaptive Gesture Recognition.</title><venue>INFOCOM</venue><pages>80-89</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangJL22</key><doi>10.1109/INFOCOM48880.2022.9796906</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796906</ee><url>https://dblp.org/rec/conf/infocom/WangJL22</url></info>
+<url>URL#571493</url>
+</hit>
+<hit score="1" id="571495">
+<info><authors><author pid="75/10048">Juncheng Wang</author><author pid="86/2829">Ben Liang 0001</author><author pid="61/1489-1">Min Dong 0001</author><author pid="02/10100">Gary Boudreau</author><author pid="125/8850">Hatem Abou-Zeid</author></authors><title>Semi-Online Precoding with Information Parsing for Cooperative MIMO Wireless Networks.</title><venue>INFOCOM</venue><pages>150-159</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangLDBA22</key><doi>10.1109/INFOCOM48880.2022.9796813</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796813</ee><url>https://dblp.org/rec/conf/infocom/WangLDBA22</url></info>
+<url>URL#571495</url>
+</hit>
+<hit score="1" id="571496">
+<info><authors><author pid="188/7759-97">Chao Wang 0097</author><author pid="75/2611-4">Feng Lin 0004</author><author pid="85/7672-2">Tiantian Liu 0002</author><author pid="05/6300">Ziwei Liu</author><author pid="236/2869">Yijie Shen</author><author pid="139/5759">Zhongjie Ba</author><author pid="49/2793-8">Li Lu 0008</author><author pid="11/6689">Wenyao Xu</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>mmPhone: Acoustic Eavesdropping on Loudspeakers via mmWave-characterized Piezoelectric Effect.</title><venue>INFOCOM</venue><pages>820-829</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangLLLSBLXR22</key><doi>10.1109/INFOCOM48880.2022.9796806</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796806</ee><url>https://dblp.org/rec/conf/infocom/WangLLLSBLXR22</url></info>
+<url>URL#571496</url>
+</hit>
+<hit score="1" id="571497">
+<info><authors><author pid="322/9957">Chunmian Wang</author><author pid="79/7563">Zhen Ling</author><author pid="17/7579">Wenjia Wu</author><author pid="66/6320">Qi Chen</author><author pid="98/2604-1">Ming Yang 0001</author><author pid="49/2189">Xinwen Fu</author></authors><title>Large-scale Evaluation of Malicious Tor Hidden Service Directory Discovery.</title><venue>INFOCOM</venue><pages>1709-1718</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangLWCYF22</key><doi>10.1109/INFOCOM48880.2022.9796703</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796703</ee><url>https://dblp.org/rec/conf/infocom/WangLWCYF22</url></info>
+<url>URL#571497</url>
+</hit>
+<hit score="1" id="571501">
+<info><authors><author pid="150/5759">Hengzhi Wang</author><author pid="94/10612">En Wang</author><author pid="01/6376">Yongjian Yang</author><author pid="w/JieWu1">Jie Wu 0001</author><author pid="d/FalkoDressler">Falko Dressler</author></authors><title>Privacy-Preserving Online Task Assignment in Spatial Crowdsourcing: A Graph-based Approach.</title><venue>INFOCOM</venue><pages>570-579</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangWYWD22</key><doi>10.1109/INFOCOM48880.2022.9796827</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796827</ee><url>https://dblp.org/rec/conf/infocom/WangWYWD22</url></info>
+<url>URL#571501</url>
+</hit>
+<hit score="1" id="571502">
+<info><authors><author pid="89/4432">Xiong Wang</author><author pid="43/10799">Jiancheng Ye</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Decentralized Task Offloading in Edge Computing: A Multi-User Multi-Armed Bandit Approach.</title><venue>INFOCOM</venue><pages>1199-1208</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangYL22</key><doi>10.1109/INFOCOM48880.2022.9796961</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796961</ee><url>https://dblp.org/rec/conf/infocom/WangYL22</url></info>
+<url>URL#571502</url>
+</hit>
+<hit score="1" id="571503">
+<info><authors><author pid="62/3151">Song Wang</author><author pid="58/4582">Xinyu Zhang</author></authors><title>NeuroMessenger: Towards Error Tolerant Distributed Machine Learning Over Edge Networks.</title><venue>INFOCOM</venue><pages>2058-2067</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangZ22</key><doi>10.1109/INFOCOM48880.2022.9796695</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796695</ee><url>https://dblp.org/rec/conf/infocom/WangZ22</url></info>
+<url>URL#571503</url>
+</hit>
+<hit score="1" id="571505">
+<info><authors><author pid="133/7314">Zibo Wang</author><author pid="174/2169">Yifei Zhu</author><author pid="23/2060-2">Dan Wang 0002</author><author pid="83/514">Zhu Han 0001</author></authors><title>FedFPM: A Unified Federated Analytics Framework for Collaborative Frequent Pattern Mining.</title><venue>INFOCOM</venue><pages>61-70</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangZWH22</key><doi>10.1109/INFOCOM48880.2022.9796719</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796719</ee><url>https://dblp.org/rec/conf/infocom/WangZWH22</url></info>
+<url>URL#571505</url>
+</hit>
+<hit score="1" id="571506">
+<info><authors><author pid="94/10612">En Wang</author><author pid="295/4348">Mijia Zhang</author><author pid="184/4944">Yuanbo Xu</author><author pid="06/2700">Haoyi Xiong</author><author pid="01/6376">Yongjian Yang</author></authors><title>Spatiotemporal Fracture Data Inference in Sparse Urban CrowdSensing.</title><venue>INFOCOM</venue><pages>1499-1508</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangZXXY22</key><doi>10.1109/INFOCOM48880.2022.9796868</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796868</ee><url>https://dblp.org/rec/conf/infocom/WangZXXY22</url></info>
+<url>URL#571506</url>
+</hit>
+<hit score="1" id="571507">
+<info><authors><author pid="13/2548">Jingzhou Wang</author><author pid="201/1240">Gongming Zhao</author><author pid="22/1748">Hongli Xu</author><author pid="99/8966">Yangming Zhao</author><author pid="220/2790">Xuwei Yang</author><author pid="75/4947-1">He Huang 0001</author></authors><title>TRUST: Real-Time Request Updating with Elastic Resource Provisioning in Clouds.</title><venue>INFOCOM</venue><pages>620-629</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangZXZYH22</key><doi>10.1109/INFOCOM48880.2022.9796788</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796788</ee><url>https://dblp.org/rec/conf/infocom/WangZXZYH22</url></info>
+<url>URL#571507</url>
+</hit>
+<hit score="1" id="571508">
+<info><authors><author pid="17/2902">Weiyan Wang</author><author pid="239/4436">Cengguang Zhang</author><author pid="27/3367">Liu Yang</author><author pid="c/KaiChen5">Kai Chen 0005</author><author pid="42/5784">Kun Tan</author></authors><title>Addressing Network Bottlenecks with Divide-and-Shuffle Synchronization for Distributed DNN Training.</title><venue>INFOCOM</venue><pages>320-329</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WangZYCT22</key><doi>10.1109/INFOCOM48880.2022.9796688</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796688</ee><url>https://dblp.org/rec/conf/infocom/WangZYCT22</url></info>
+<url>URL#571508</url>
+</hit>
+<hit score="1" id="571511">
+<info><authors><author pid="323/0030">Zhaojie Wen</author><author pid="314/7080">Yishuo Wang</author><author pid="31/6019">Fangming Liu</author></authors><title>StepConf: SLO-Aware Dynamic Resource Configuration for Serverless Function Workflows.</title><venue>INFOCOM</venue><pages>1868-1877</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WenWL22</key><doi>10.1109/INFOCOM48880.2022.9796962</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796962</ee><url>https://dblp.org/rec/conf/infocom/WenWL22</url></info>
+<url>URL#571511</url>
+</hit>
+<hit score="1" id="571513">
+<info><authors><author pid="75/2867">Haonan Wu</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="79/1810">Guangtao Xue</author><author pid="322/9940">Yuehu Jiang</author><author pid="70/720">Ming Wang</author><author pid="115/6477">Shiyou Qian</author><author pid="85/3615">Jiadi Yu</author><author pid="42/9340">Pai-Yen Chen</author></authors><title>OnionCode: Enabling Multi-priority Coding in LED-based Optical Camera Communications.</title><venue>INFOCOM</venue><pages>260-269</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WuCXJWQYC22</key><doi>10.1109/INFOCOM48880.2022.9796655</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796655</ee><url>https://dblp.org/rec/conf/infocom/WuCXJWQYC22</url></info>
+<url>URL#571513</url>
+</hit>
+<hit score="1" id="571514">
+<info><authors><author pid="25/437-0003">Si Wu 0003</author><author pid="322/9742">Qingpeng Du</author><author pid="25/4018">Patrick P. C. Lee</author><author pid="89/6978-1">Yongkun Li 0001</author><author pid="40/689">Yinlong Xu</author></authors><title>Optimal Data Placement for Stripe Merging in Locally Repairable Codes.</title><venue>INFOCOM</venue><pages>1669-1678</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WuDLLX22</key><doi>10.1109/INFOCOM48880.2022.9796704</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796704</ee><url>https://dblp.org/rec/conf/infocom/WuDLLX22</url></info>
+<url>URL#571514</url>
+</hit>
+<hit score="1" id="571515">
+<info><authors><author pid="275/3638">Xinyu Crystal Wu</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>Detecting and Resolving PFC Deadlocks with ITSY Entirely in the Data Plane.</title><venue>INFOCOM</venue><pages>1928-1937</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WuN22</key><doi>10.1109/INFOCOM48880.2022.9796798</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796798</ee><url>https://dblp.org/rec/conf/infocom/WuN22</url></info>
+<url>URL#571515</url>
+</hit>
+<hit score="1" id="571516">
+<info><authors><author pid="07/6378-14">Fan Wu 0014</author><author pid="00/468">Ju Ren</author><author pid="214/2000-1">Feng Lyu 0001</author><author pid="57/5443-4">Peng Yang 0004</author><author pid="60/4061">Yongmin Zhang</author><author pid="21/7829">Deyu Zhang</author><author pid="99/4094">Yaoxue Zhang</author></authors><title>Boosting Internet Card Cellular Business via User Portraits: A Case of Churn Prediction.</title><venue>INFOCOM</venue><pages>640-649</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WuRLYZZZ22</key><doi>10.1109/INFOCOM48880.2022.9796869</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796869</ee><url>https://dblp.org/rec/conf/infocom/WuRLYZZZ22</url></info>
+<url>URL#571516</url>
+</hit>
+<hit score="1" id="571517">
+<info><authors><author pid="69/7288">Ziyan Wu</author><author pid="06/6785-74">Yang Zhang 0074</author><author pid="222/5921">Wendi Feng</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>NFlow and MVT Abstractions for NFV Scaling.</title><venue>INFOCOM</venue><pages>180-189</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/WuZFZ22</key><doi>10.1109/INFOCOM48880.2022.9796764</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796764</ee><url>https://dblp.org/rec/conf/infocom/WuZFZ22</url></info>
+<url>URL#571517</url>
+</hit>
+<hit score="1" id="571520">
+<info><authors><author pid="27/6461">Dan Xia</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="12/5126">Fu Yu</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>WiRa: Enabling Cross-Technology Communication from WiFi to LoRa with IEEE 802.11ax.</title><venue>INFOCOM</venue><pages>430-439</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XiaZYLM22</key><doi>10.1109/INFOCOM48880.2022.9796831</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796831</ee><url>https://dblp.org/rec/conf/infocom/XiaZYLM22</url></info>
+<url>URL#571520</url>
+</hit>
+<hit score="1" id="571521">
+<info><authors><author pid="95/10658">Chaocan Xiang</author><author pid="38/11046">Yaoyu Li</author><author pid="213/0539">Yanlin Zhou</author><author pid="150/5543">Suining He</author><author pid="156/3209">Yuben Qu</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="151/5896">Liangyi Gong</author><author pid="66/3019-4">Chao Chen 0004</author></authors><title>A Comparative Approach to Resurrecting the Market of MOD Vehicular Crowdsensing.</title><venue>INFOCOM</venue><pages>1479-1488</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XiangLZHQLGC22</key><doi>10.1109/INFOCOM48880.2022.9796749</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796749</ee><url>https://dblp.org/rec/conf/infocom/XiangLZHQLGC22</url></info>
+<url>URL#571521</url>
+</hit>
+<hit score="1" id="571523">
+<info><authors><author pid="322/9801">Gaofei Xiao</author><author pid="162/1613">Jiaqi Zheng</author><author pid="124/6911">Haipeng Dai</author></authors><title>A Unified Model for Bi-objective Online Stochastic Bipartite Matching with Two-sided Limited Patience.</title><venue>INFOCOM</venue><pages>1079-1088</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XiaoZD22</key><doi>10.1109/INFOCOM48880.2022.9796963</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796963</ee><url>https://dblp.org/rec/conf/infocom/XiaoZD22</url></info>
+<url>URL#571523</url>
+</hit>
+<hit score="1" id="571524">
+<info><authors><author pid="249/5388">Xuedou Xiao</author><author pid="317/5602">Juecheng Zhang</author><author pid="35/7092-50">Wei Wang 0050</author><author pid="40/3669">Jianhua He</author><author pid="04/2024-1">Qian Zhang 0001</author></authors><title>DNN-Driven Compressive Offloading for Edge-Assisted Semantic Video Segmentation.</title><venue>INFOCOM</venue><pages>1888-1897</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XiaoZWHZ22</key><doi>10.1109/INFOCOM48880.2022.9796657</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796657</ee><url>https://dblp.org/rec/conf/infocom/XiaoZWHZ22</url></info>
+<url>URL#571524</url>
+</hit>
+<hit score="1" id="571525">
+<info><authors><author pid="270/6072">Guorui Xie</author><author pid="181/2689-6">Qing Li 0006</author><author pid="37/5655">Yutao Dong</author><author pid="322/9737">Guanglin Duan</author><author pid="74/1552-1">Yong Jiang 0001</author><author pid="167/9016">Jingpu Duan</author></authors><title>Mousika: Enable General In-Network Intelligence in Programmable Switches by Knowledge Distillation.</title><venue>INFOCOM</venue><pages>1938-1947</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XieLDDJD22</key><doi>10.1109/INFOCOM48880.2022.9796936</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796936</ee><url>https://dblp.org/rec/conf/infocom/XieLDDJD22</url></info>
+<url>URL#571525</url>
+</hit>
+<hit score="1" id="571526">
+<info><authors><author pid="243/3386">Yadong Xie</author><author pid="73/237-1">Fan Li 0001</author><author pid="41/5979">Yue Wu</author><author pid="140/7695">Huijie Chen</author><author pid="93/5901">Zhiyuan Zhao</author><author pid="w/YuWang3">Yu Wang 0003</author></authors><title>TeethPass: Dental Occlusion-based User Authentication via In-ear Acoustic Sensing.</title><venue>INFOCOM</venue><pages>1789-1798</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XieLWCZW22</key><doi>10.1109/INFOCOM48880.2022.9796951</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796951</ee><url>https://dblp.org/rec/conf/infocom/XieLWCZW22</url></info>
+<url>URL#571526</url>
+</hit>
+<hit score="1" id="571527">
+<info><authors><author pid="98/476-1">Kun Xie 0001</author><author pid="322/9836">Ruotian Xie</author><author pid="10/5630-1">Xin Wang 0001</author><author pid="01/2888">Gaogang Xie</author><author pid="16/2420">Dafang Zhang</author><author pid="92/1480">Jigang Wen</author></authors><title>NMMF-Stream: A Fast and Accurate Stream-Processing Scheme for Network Monitoring Data Recovery.</title><venue>INFOCOM</venue><pages>2218-2227</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XieXWXZW22</key><doi>10.1109/INFOCOM48880.2022.9796720</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796720</ee><url>https://dblp.org/rec/conf/infocom/XieXWXZW22</url></info>
+<url>URL#571527</url>
+</hit>
+<hit score="1" id="571528">
+<info><authors><author pid="319/4419">Shuzhao Xie</author><author pid="41/5526">Yuan Xue</author><author pid="174/2169">Yifei Zhu</author><author pid="95/6543-1">Zhi Wang 0001</author></authors><title>Cost Effective MLaaS Federation: A Combinatorial Reinforcement Learning Approach.</title><venue>INFOCOM</venue><pages>2078-2087</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XieXZW22</key><doi>10.1109/INFOCOM48880.2022.9796701</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796701</ee><url>https://dblp.org/rec/conf/infocom/XieXZW22</url></info>
+<url>URL#571528</url>
+</hit>
+<hit score="1" id="571529">
+<info><authors><author pid="214/2134">Guojun Xiong</author><author pid="192/1552">Shufan Wang</author><author pid="87/7043">Gang Yan</author><author pid="33/5448-8">Jian Li 0008</author></authors><title>Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach.</title><venue>INFOCOM</venue><pages>2108-2117</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XiongWYL22</key><doi>10.1109/INFOCOM48880.2022.9796809</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796809</ee><url>https://dblp.org/rec/conf/infocom/XiongWYL22</url></info>
+<url>URL#571529</url>
+</hit>
+<hit score="1" id="571530">
+<info><authors><author pid="62/1662">Yifan Xu</author><author pid="167/4171">Fan Dang 0001</author><author pid="315/6942">Rongwu Xu</author><author pid="41/9922">Xinlei Chen</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>LSync: A Universal Event-synchronizing Solution for Live Streaming.</title><venue>INFOCOM</venue><pages>2188-2197</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XuDXCL22</key><doi>10.1109/INFOCOM48880.2022.9796933</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796933</ee><url>https://dblp.org/rec/conf/infocom/XuDXCL22</url></info>
+<url>URL#571530</url>
+</hit>
+<hit score="1" id="571531">
+<info><authors><author pid="00/9492">Wenzheng Xu</author><author pid="17/6253">Dezhong Peng</author><author pid="31/1277">Weifa Liang</author><author pid="j/XiaohuaJia">Xiaohua Jia</author><author pid="05/8410">Zichuan Xu</author><author pid="84/6614">Pan Zhou</author><author pid="63/4156">Weigang Wu</author><author pid="64/3062-7">Xiang Chen 0007</author></authors><title>Maximizing h-hop Independently Submodular Functions Under Connectivity Constraint.</title><venue>INFOCOM</venue><pages>1099-1108</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XuPLJXZWC22</key><doi>10.1109/INFOCOM48880.2022.9796957</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796957</ee><url>https://dblp.org/rec/conf/infocom/XuPLJXZWC22</url></info>
+<url>URL#571531</url>
+</hit>
+<hit score="1" id="571532">
+<info><authors><author pid="05/8410">Zichuan Xu</author><author pid="284/4268">Wenhao Ren</author><author pid="31/1277">Weifa Liang</author><author pid="00/9492">Wenzheng Xu</author><author pid="68/10839">Qiufen Xia</author><author pid="84/6614">Pan Zhou</author><author pid="83/3175">Mingchu Li</author></authors><title>Schedule or Wait: Age-Minimization for IoT Big Data Processing in MEC via Online Learning.</title><venue>INFOCOM</venue><pages>1809-1818</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XuRLXXZL22</key><doi>10.1109/INFOCOM48880.2022.9796718</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796718</ee><url>https://dblp.org/rec/conf/infocom/XuRLXXZL22</url></info>
+<url>URL#571532</url>
+</hit>
+<hit score="1" id="571533">
+<info><authors><author pid="139/3862">Chengyuan Xu</author><author pid="81/5941-10">Qian Xu 0010</author><author pid="21/1550-1">Jianping Wang 0001</author><author pid="w/KuiWu">Kui Wu 0001</author><author pid="45/3906">Kejie Lu</author><author pid="60/6865">Chunming Qiao</author></authors><title>AoI-centric Task Scheduling for Autonomous Driving Systems.</title><venue>INFOCOM</venue><pages>1019-1028</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XuXWWLQ22</key><doi>10.1109/INFOCOM48880.2022.9796958</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796958</ee><url>https://dblp.org/rec/conf/infocom/XuXWWLQ22</url></info>
+<url>URL#571533</url>
+</hit>
+<hit score="1" id="571534">
+<info><authors><author pid="172/1282">Xiangyu Xu</author><author pid="85/3615">Jiadi Yu</author><author pid="123/2380">Chengguang Ma</author><author pid="34/8334">Yanzhi Ren</author><author pid="78/6365-2">Hongbo Liu 0002</author><author pid="02/6595">Yanmin Zhu</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="59/2249">Feilong Tang</author></authors><title>mmECG: Monitoring Human Cardiac Cycle in Driving Environments Leveraging Millimeter Wave.</title><venue>INFOCOM</venue><pages>90-99</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XuYMRLZCT22</key><doi>10.1109/INFOCOM48880.2022.9796912</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796912</ee><url>https://dblp.org/rec/conf/infocom/XuYMRLZCT22</url></info>
+<url>URL#571534</url>
+</hit>
+<hit score="1" id="571535">
+<info><authors><author pid="248/3541">Anran Xu</author><author pid="132/8083">Zhenzhe Zheng</author><author pid="07/6378-6">Fan Wu 0006</author><author pid="51/1742">Guihai Chen</author></authors><title>Online Data Valuation and Pricing for Machine Learning Tasks in Mobile Health.</title><venue>INFOCOM</venue><pages>850-859</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/XuZWC22</key><doi>10.1109/INFOCOM48880.2022.9796669</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796669</ee><url>https://dblp.org/rec/conf/infocom/XuZWC22</url></info>
+<url>URL#571535</url>
+</hit>
+<hit score="1" id="571536">
+<info><authors><author pid="20/2970">Lin Yang</author><author pid="227/7171">Yu-Zhen Janice Chen</author><author pid="49/7911">Mohammad Hassan Hajiesmaili</author><author pid="l/JohnCSLui">John C. S. Lui</author><author pid="t/DonaldFTowsley">Don Towsley</author></authors><title>Distributed Bandits with Heterogeneous Agents.</title><venue>INFOCOM</venue><pages>200-209</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YangCHLT22</key><doi>10.1109/INFOCOM48880.2022.9796901</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796901</ee><url>https://dblp.org/rec/conf/infocom/YangCHLT22</url></info>
+<url>URL#571536</url>
+</hit>
+<hit score="1" id="571537">
+<info><authors><author pid="67/1120">Tao Yang</author><author pid="64/2739">Zhiping Cai</author><author pid="226/9474">Bingnan Hou</author><author pid="147/1609">Tongqing Zhou</author></authors><title>6Forest: An Ensemble Learning-based Approach to Target Generation for Internet-wide IPv6 Scanning.</title><venue>INFOCOM</venue><pages>1679-1688</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YangCHZ22</key><doi>10.1109/INFOCOM48880.2022.9796925</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796925</ee><url>https://dblp.org/rec/conf/infocom/YangCHZ22</url></info>
+<url>URL#571537</url>
+</hit>
+<hit score="1" id="571542">
+<info><authors><author pid="276/7224">Kichang Yang</author><author pid="207/1961">Juheon Yi</author><author pid="131/0241">Kyungjin Lee</author><author pid="51/343">Youngki Lee</author></authors><title>FlexPatch: Fast and Accurate Object Detection for On-device High-Resolution Live Video Analytics.</title><venue>INFOCOM</venue><pages>1898-1907</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YangYLL22</key><doi>10.1109/INFOCOM48880.2022.9796984</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796984</ee><url>https://dblp.org/rec/conf/infocom/YangYLL22</url></info>
+<url>URL#571542</url>
+</hit>
+<hit score="1" id="571543">
+<info><authors><author pid="82/6362-18">Qiang Yang 0018</author><author pid="08/9937">Yuanqing Zheng</author></authors><title>DeepEar: Sound Localization with Binaural Microphones.</title><venue>INFOCOM</venue><pages>960-969</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YangZ22</key><doi>10.1109/INFOCOM48880.2022.9796850</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796850</ee><url>https://dblp.org/rec/conf/infocom/YangZ22</url></info>
+<url>URL#571543</url>
+</hit>
+<hit score="1" id="571547">
+<info><authors><author pid="22/1147">Xi Yu</author><author pid="49/1245-8">Jia Liu 0008</author><author pid="94/689">Shigeng Zhang</author><author pid="59/7651">Xingyu Chen</author><author pid="98/5660">Xu Zhang</author><author pid="c/LijunChen6">Lijun Chen 0006</author></authors><title>Encoding-based Range Detection in Commodity RFID Systems.</title><venue>INFOCOM</venue><pages>680-689</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YuLZCZC22</key><doi>10.1109/INFOCOM48880.2022.9796900</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796900</ee><url>https://dblp.org/rec/conf/infocom/YuLZCZC22</url></info>
+<url>URL#571547</url>
+</hit>
+<hit score="1" id="571548">
+<info><authors><author pid="08/1625">Xiaojing Yu</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="69/5882">Jing Zhao</author><author pid="58/1441">Guobin Shen</author><author pid="92/7140">Nikolaos M. Freris</author><author pid="54/2752-2">Lan Zhang 0002</author></authors><title>ANTIGONE: Accurate Navigation Path Caching in Dynamic Road Networks leveraging Route APIs.</title><venue>INFOCOM</venue><pages>1599-1608</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YuLZSFZ22</key><doi>10.1109/INFOCOM48880.2022.9796817</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796817</ee><url>https://dblp.org/rec/conf/infocom/YuLZSFZ22</url></info>
+<url>URL#571548</url>
+</hit>
+<hit score="1" id="571550">
+<info><authors><author pid="293/8005">Menglu Yu</author><author pid="32/5495">Ye Tian</author><author pid="67/8454-1">Bo Ji 0001</author><author pid="34/3772-1">Chuan Wu 0001</author><author pid="r/HrideshRajan">Hridesh Rajan</author><author pid="49/1245-2">Jia Liu 0002</author></authors><title>GADGET: Online Resource Optimization for Scheduling Ring-All-Reduce Learning Jobs.</title><venue>INFOCOM</venue><pages>1569-1578</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YuTJWRL22</key><doi>10.1109/INFOCOM48880.2022.9796785</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796785</ee><url>https://dblp.org/rec/conf/infocom/YuTJWRL22</url></info>
+<url>URL#571550</url>
+</hit>
+<hit score="1" id="571551">
+<info><authors><author pid="256/2098">Sihan Yu</author><author pid="03/5142">Xiaonan Zhang</author><author pid="59/1856-5">Pei Huang 0005</author><author pid="00/10800">Linke Guo</author></authors><title>Physical-Level Parallel Inclusive Communication for Heterogeneous IoT Devices.</title><venue>INFOCOM</venue><pages>380-389</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YuZHG22</key><doi>10.1109/INFOCOM48880.2022.9796876</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796876</ee><url>https://dblp.org/rec/conf/infocom/YuZHG22</url></info>
+<url>URL#571551</url>
+</hit>
+<hit score="1" id="571552">
+<info><authors><author pid="12/5126">Fu Yu</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>LoRadar: An Efficient LoRa Channel Occupancy Acquirer based on Cross-channel Scanning.</title><venue>INFOCOM</venue><pages>540-549</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YuZLM22</key><doi>10.1109/INFOCOM48880.2022.9796845</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796845</ee><url>https://dblp.org/rec/conf/infocom/YuZLM22</url></info>
+<url>URL#571552</url>
+</hit>
+<hit score="1" id="571554">
+<info><authors><author pid="267/4989">Yulan Yuan</author><author pid="47/91-2">Lei Jiao 0002</author><author pid="45/10585">Konglin Zhu</author><author pid="38/5957-1">Xiaojun Lin 0001</author><author pid="37/1629-13">Lin Zhang 0013</author></authors><title>AI in 5G: The Case of Online Distributed Transfer Learning over Edge Networks.</title><venue>INFOCOM</venue><pages>810-819</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YuanJZLZ22</key><doi>10.1109/INFOCOM48880.2022.9796779</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796779</ee><url>https://dblp.org/rec/conf/infocom/YuanJZLZ22</url></info>
+<url>URL#571554</url>
+</hit>
+<hit score="1" id="571555">
+<info><authors><author pid="188/9655">Yali Yuan</author><author pid="42/512">Weijun Wang</author><author pid="60/6089">Yuhan Wang</author><author pid="157/2897">Sripriya Srikant Adhatarao</author><author pid="187/6963">Bangbang Ren</author><author pid="73/3928-3">Kai Zheng 0003</author><author pid="33/4231">Xiaoming Fu 0001</author></authors><title>VSiM: Improving QoE Fairness for Video Streaming in Mobile Environments.</title><venue>INFOCOM</venue><pages>1309-1318</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/YuanWWARZF22</key><doi>10.1109/INFOCOM48880.2022.9796725</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796725</ee><url>https://dblp.org/rec/conf/infocom/YuanWWARZF22</url></info>
+<url>URL#571555</url>
+</hit>
+<hit score="1" id="571556">
+<info><authors><author pid="304/6143">André Felipe Zanella</author><author pid="305/6476">Orlando Martínez-Durive</author><author pid="262/0673">Sachit Mishra</author><author pid="46/8344">Zbigniew Smoreda</author><author pid="75/1476">Marco Fiore</author></authors><title>Impact of Later-Stages COVID-19 Response Measures on Spatiotemporal Mobile Service Usage.</title><venue>INFOCOM</venue><pages>970-979</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZanellaMMSF22</key><doi>10.1109/INFOCOM48880.2022.9796888</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796888</ee><url>https://dblp.org/rec/conf/infocom/ZanellaMMSF22</url></info>
+<url>URL#571556</url>
+</hit>
+<hit score="1" id="571557">
+<info><authors><author pid="204/5313">Gaoxiong Zeng</author><author pid="181/2847">Li Chen</author><author pid="184/0450">Bairen Yi</author><author pid="181/2839">Kai Chen</author></authors><title>Cutting Tail Latency in Commodity Datacenters with Cloudburst.</title><venue>INFOCOM</venue><pages>600-609</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZengCYC22</key><doi>10.1109/INFOCOM48880.2022.9796898</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796898</ee><url>https://dblp.org/rec/conf/infocom/ZengCYC22</url></info>
+<url>URL#571557</url>
+</hit>
+<hit score="1" id="571558">
+<info><authors><author pid="10/1103">Yiming Zeng</author><author pid="194/0368">Jiarui Zhang</author><author pid="51/4433-1">Ji Liu 0001</author><author pid="02/1825-2">Zhenhua Liu 0002</author><author pid="10/2031-1">Yuanyuan Yang 0001</author></authors><title>Multi-Entanglement Routing Design over Quantum Networks.</title><venue>INFOCOM</venue><pages>510-519</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZengZLLY22</key><doi>10.1109/INFOCOM48880.2022.9796810</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796810</ee><url>https://dblp.org/rec/conf/infocom/ZengZLLY22</url></info>
+<url>URL#571558</url>
+</hit>
+<hit score="1" id="571559">
+<info><authors><author pid="08/3779">Cheng Zhan</author><author pid="59/3754-3">Han Hu 0003</author><author pid="52/3003">Shiwen Mao</author><author pid="02/736">Jing Wang</author></authors><title>Energy-Efficient Trajectory Optimization for Aerial Video Surveillance under QoS Constraints.</title><venue>INFOCOM</venue><pages>1559-1568</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhanHMW22</key><doi>10.1109/INFOCOM48880.2022.9796696</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796696</ee><url>https://dblp.org/rec/conf/infocom/ZhanHMW22</url></info>
+<url>URL#571559</url>
+</hit>
+<hit score="1" id="571560">
+<info><authors><author pid="71/700">Jingyuan Zhang</author><author pid="b/DMBlough">Douglas M. Blough</author></authors><title>Optimizing Coverage with Intelligent Surfaces for Indoor mmWave Networks.</title><venue>INFOCOM</venue><pages>830-839</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangB22</key><doi>10.1109/INFOCOM48880.2022.9796762</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796762</ee><url>https://dblp.org/rec/conf/infocom/ZhangB22</url></info>
+<url>URL#571560</url>
+</hit>
+<hit score="1" id="571562">
+<info><authors><author pid="98/5660">Xu Zhang</author><author pid="49/1245-8">Jia Liu 0008</author><author pid="59/7651">Xingyu Chen</author><author pid="33/3999">Wenjie Li</author><author pid="c/LijunChen6">Lijun Chen 0006</author></authors><title>SAH: Fine-grained RFID Localization with Antenna Calibration.</title><venue>INFOCOM</venue><pages>980-988</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangLCLC22</key><doi>10.1109/INFOCOM48880.2022.9796672</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796672</ee><url>https://dblp.org/rec/conf/infocom/ZhangLCLC22</url></info>
+<url>URL#571562</url>
+</hit>
+<hit score="1" id="571564">
+<info><authors><author pid="251/1118">Jiuwu Zhang</author><author pid="136/3336">Xiulong Liu</author><author pid="65/4916">Tao Gu</author><author pid="247/5223">Bojun Zhang</author><author pid="45/8193">Dongdong Liu</author><author pid="183/9815">Zijuan Liu</author><author pid="21/6280">Keqiu Li</author></authors><title>An RFID and Computer Vision Fusion System for Book Inventory using Mobile Robot.</title><venue>INFOCOM</venue><pages>1239-1248</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangLGZLLL22</key><doi>10.1109/INFOCOM48880.2022.9796711</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796711</ee><url>https://dblp.org/rec/conf/infocom/ZhangLGZLLL22</url></info>
+<url>URL#571564</url>
+</hit>
+<hit score="1" id="571565">
+<info><authors><author pid="247/5223">Bojun Zhang</author><author pid="189/4650">Mengning Li</author><author pid="72/3192-1">Xin Xie 0001</author><author pid="44/7207">Luoyi Fu</author><author pid="239/4714">Xinyu Tong</author><author pid="136/3336">Xiulong Liu</author></authors><title>RC6D: An RFID and CV Fusion System for Real-time 6D Object Pose Estimation.</title><venue>INFOCOM</venue><pages>690-699</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangLXFTL22</key><doi>10.1109/INFOCOM48880.2022.9796802</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796802</ee><url>https://dblp.org/rec/conf/infocom/ZhangLXFTL22</url></info>
+<url>URL#571565</url>
+</hit>
+<hit score="1" id="571566">
+<info><authors><author pid="281/4524">Weiyao Zhang</author><author pid="146/8088">Xuying Meng</author><author pid="76/5703">Yujun Zhang</author></authors><title>Dual-track Protocol Reverse Analysis Based on Share Learning.</title><venue>INFOCOM</venue><pages>51-60</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangMZ22</key><doi>10.1109/INFOCOM48880.2022.9796964</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796964</ee><url>https://dblp.org/rec/conf/infocom/ZhangMZ22</url></info>
+<url>URL#571566</url>
+</hit>
+<hit score="1" id="571568">
+<info><authors><author pid="91/195-43">Chi Zhang 0043</author><author pid="02/3687">Haisheng Tan</author><author pid="146/8296">Guopeng Li</author><author pid="147/1606">Zhenhua Han</author><author pid="157/6062">Shaofeng H.-C. Jiang</author><author pid="l/XiangYangLi">Xiangyang Li 0001</author></authors><title>Online File Caching in Latency-Sensitive Systems with Delayed Hits and Bypassing.</title><venue>INFOCOM</venue><pages>1059-1068</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangTLHJL22</key><doi>10.1109/INFOCOM48880.2022.9796969</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796969</ee><url>https://dblp.org/rec/conf/infocom/ZhangTLHJL22</url></info>
+<url>URL#571568</url>
+</hit>
+<hit score="1" id="571569">
+<info><authors><author pid="60/7041">Miao Zhang</author><author pid="142/0351">Fangxin Wang 0001</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author></authors><title>CASVA: Configuration-Adaptive Streaming for Live Video Analytics.</title><venue>INFOCOM</venue><pages>2168-2177</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangWL22</key><doi>10.1109/INFOCOM48880.2022.9796875</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796875</ee><url>https://dblp.org/rec/conf/infocom/ZhangWL22</url></info>
+<url>URL#571569</url>
+</hit>
+<hit score="1" id="571570">
+<info><authors><author pid="323/0068">Yaoying Zhang</author><author pid="61/591">Qian Wu</author><author pid="148/1959">Zeqi Lai</author><author pid="51/8276">Hewu Li</author></authors><title>Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks.</title><venue>INFOCOM</venue><pages>1329-1338</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangWLL22</key><doi>10.1109/INFOCOM48880.2022.9796886</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796886</ee><url>https://dblp.org/rec/conf/infocom/ZhangWLL22</url></info>
+<url>URL#571570</url>
+</hit>
+<hit score="1" id="571574">
+<info><authors><author pid="19/8500">Shujie Zhang</author><author pid="205/2918">Tianyue Zheng</author><author pid="06/4240-15">Zhe Chen 0015</author><author pid="42/2501-1">Jun Luo 0001</author></authors><title>Can We Obtain Fine-grained Heartbeat Waveform via Contact-free RF-sensing?</title><venue>INFOCOM</venue><pages>1759-1768</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangZCL22</key><doi>10.1109/INFOCOM48880.2022.9796905</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796905</ee><url>https://dblp.org/rec/conf/infocom/ZhangZCL22</url></info>
+<url>URL#571574</url>
+</hit>
+<hit score="1" id="571575">
+<info><authors><author pid="19/949">Weifeng Zhang</author><author pid="73/9481">Ting Zhong</author><author pid="58/411-3">Ce Li 0003</author><author pid="88/2172">Kunpeng Zhang</author><author pid="63/3122-2">Fan Zhou 0002</author></authors><title>CausalRD: A Causal View of Rumor Detection via Eliminating Popularity and Conformity Biases.</title><venue>INFOCOM</venue><pages>1369-1378</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangZLZZ22</key><doi>10.1109/INFOCOM48880.2022.9796678</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796678</ee><url>https://dblp.org/rec/conf/infocom/ZhangZLZZ22</url></info>
+<url>URL#571575</url>
+</hit>
+<hit score="1" id="571576">
+<info><authors><author pid="97/8704-66">Lei Zhang 0066</author><author pid="83/6530">Yuqing Zhang</author><author pid="122/1154">Ximing Wu</author><author pid="142/0351">Fangxin Wang 0001</author><author pid="86/10615">Laizhong Cui</author><author pid="95/6543-1">Zhi Wang 0001</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author></authors><title>Batch Adaptative Streaming for Video Analytics.</title><venue>INFOCOM</venue><pages>2158-2167</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangZWWCWL22</key><doi>10.1109/INFOCOM48880.2022.9796853</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796853</ee><url>https://dblp.org/rec/conf/infocom/ZhangZWWCWL22</url></info>
+<url>URL#571576</url>
+</hit>
+<hit score="1" id="571577">
+<info><authors><author pid="48/2168-4">Yuan Zhang 0004</author><author pid="183/9955">Ziwei Zhang</author><author pid="292/7025">Minze Xu</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="53/4506-2">Sheng Zhong 0002</author></authors><title>On Designing Secure Cross-user Redundancy Elimination for WAN Optimization.</title><venue>INFOCOM</venue><pages>1589-1598</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhangZXTZ22</key><doi>10.1109/INFOCOM48880.2022.9796893</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796893</ee><url>https://dblp.org/rec/conf/infocom/ZhangZXTZ22</url></info>
+<url>URL#571577</url>
+</hit>
+<hit score="1" id="571578">
+<info><authors><author pid="63/550-1">Dong Zhao 0001</author><author pid="298/3135">Mingzhe Cao</author><author pid="236/2906">Lige Ding</author><author pid="321/6777">Qiaoyue Han</author><author pid="255/9062">Yunhao Xing</author><author pid="04/6217">Huadong Ma</author></authors><title>DroneSense: Leveraging Drones for Sustainable Urban-scale Sensing of Open Parking Spaces.</title><venue>INFOCOM</venue><pages>1769-1778</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhaoCDHXM22</key><doi>10.1109/INFOCOM48880.2022.9796795</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796795</ee><url>https://dblp.org/rec/conf/infocom/ZhaoCDHXM22</url></info>
+<url>URL#571578</url>
+</hit>
+<hit score="1" id="571581">
+<info><authors><author pid="210/6553">Cui Zhao</author><author pid="35/203">Zhenjiang Li</author><author pid="88/886-2">Han Ding 0002</author><author pid="34/5591-3">Ge Wang 0003</author><author pid="10/264">Wei Xi</author><author pid="59/4694">Jizhong Zhao</author></authors><title>RF-Wise: Pushing the Limit of RFID-based Sensing.</title><venue>INFOCOM</venue><pages>1779-1788</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhaoLDWXZ22</key><doi>10.1109/INFOCOM48880.2022.9796909</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796909</ee><url>https://dblp.org/rec/conf/infocom/ZhaoLDWXZ22</url></info>
+<url>URL#571581</url>
+</hit>
+<hit score="1" id="571582">
+<info><authors><author pid="99/8966">Yangming Zhao</author><author pid="201/1240">Gongming Zhao</author><author pid="60/6865">Chunming Qiao</author></authors><title>E2E Fidelity Aware Routing and Purification for Throughput Maximization in Quantum Networks.</title><venue>INFOCOM</venue><pages>480-489</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhaoZQ22</key><doi>10.1109/INFOCOM48880.2022.9796814</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796814</ee><url>https://dblp.org/rec/conf/infocom/ZhaoZQ22</url></info>
+<url>URL#571582</url>
+</hit>
+<hit score="1" id="571583">
+<info><authors><author pid="205/2918">Tianyue Zheng</author><author pid="98/6343">Chao Cai</author><author pid="06/4240-15">Zhe Chen 0015</author><author pid="42/2501-1">Jun Luo 0001</author></authors><title>Sound of Motion: Real-time Wrist Tracking with A Smart Watch-Phone Pair.</title><venue>INFOCOM</venue><pages>110-119</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhengCCL22</key><doi>10.1109/INFOCOM48880.2022.9796731</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796731</ee><url>https://dblp.org/rec/conf/infocom/ZhengCCL22</url></info>
+<url>URL#571583</url>
+</hit>
+<hit score="1" id="571585">
+<info><authors><author pid="212/1269">Tianhang Zheng</author><author pid="l/BaochunLi">Baochun Li</author></authors><title>Poisoning Attacks on Deep Learning based Wireless Traffic Prediction.</title><venue>INFOCOM</venue><pages>660-669</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhengL22</key><doi>10.1109/INFOCOM48880.2022.9796791</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796791</ee><url>https://dblp.org/rec/conf/infocom/ZhengL22</url></info>
+<url>URL#571585</url>
+</hit>
+<hit score="1" id="571589">
+<info><authors><author pid="323/0154">Zhiren Zhong</author><author pid="35/7092-334">Wei Wang 0334</author><author pid="157/9649">Yiyang Shao</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="78/4696">Heng Pan</author><author pid="73/10888">Hongtao Guan</author><author pid="85/85">Gareth Tyson</author><author pid="01/2888">Gaogang Xie</author><author pid="73/3928-3">Kai Zheng 0003</author></authors><title>Muses: Enabling Lightweight Learning-Based Congestion Control for Mobile Devices.</title><venue>INFOCOM</venue><pages>2208-2217</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhongWSLPGTXZ22</key><doi>10.1109/INFOCOM48880.2022.9796880</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796880</ee><url>https://dblp.org/rec/conf/infocom/ZhongWSLPGTXZ22</url></info>
+<url>URL#571589</url>
+</hit>
+<hit score="1" id="571590">
+<info><authors><author pid="275/3904">Xiaolong Zhong</author><author pid="04/527-2">Jiao Zhang 0002</author><author pid="26/2250">Yali Zhang</author><author pid="305/9753">Zixuan Guan</author><author pid="309/5644">Zirui Wan</author></authors><title>PACC: Proactive and Accurate Congestion Feedback for RDMA Congestion Control.</title><venue>INFOCOM</venue><pages>2228-2237</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhongZZGW22</key><doi>10.1109/INFOCOM48880.2022.9796803</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796803</ee><url>https://dblp.org/rec/conf/infocom/ZhongZZGW22</url></info>
+<url>URL#571590</url>
+</hit>
+<hit score="1" id="571591">
+<info><authors><author pid="41/10471">Ruiting Zhou</author><author pid="121/0814">Xiaoyi Wu</author><author pid="02/3687">Haisheng Tan</author><author pid="286/3116">Renli Zhang</author></authors><title>Two Time-Scale Joint Service Caching and Task Offloading for UAV-assisted Mobile Edge Computing.</title><venue>INFOCOM</venue><pages>1189-1198</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhouWTZ22</key><doi>10.1109/INFOCOM48880.2022.9796714</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796714</ee><url>https://dblp.org/rec/conf/infocom/ZhouWTZ22</url></info>
+<url>URL#571591</url>
+</hit>
+<hit score="1" id="571592">
+<info><authors><author pid="132/4322">Zhipeng Zhou</author><author pid="90/4225-1">Feng Wang 0001</author><author pid="41/5200">Jihong Yu</author><author pid="00/468">Ju Ren</author><author pid="95/6543">Zhi Wang</author><author pid="11/3249-1">Wei Gong 0001</author></authors><title>Target-oriented Semi-supervised Domain Adaptation for WiFi-based HAR.</title><venue>INFOCOM</venue><pages>420-429</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhouWYRWG22</key><doi>10.1109/INFOCOM48880.2022.9796782</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796782</ee><url>https://dblp.org/rec/conf/infocom/ZhouWYRWG22</url></info>
+<url>URL#571592</url>
+</hit>
+<hit score="1" id="571593">
+<info><authors><author pid="298/3250">Wangqiu Zhou</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="58/4775">Xiaoyu Wang</author><author pid="176/1428">Kaiwen Guo</author><author pid="02/3687">Haisheng Tan</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Shield: Safety Ensured High-efficient Scheduling for Magnetic MIMO Wireless Power Transfer System.</title><venue>INFOCOM</venue><pages>910-919</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZhouZWGTL22</key><doi>10.1109/INFOCOM48880.2022.9796790</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796790</ee><url>https://dblp.org/rec/conf/infocom/ZhouZWGTL22</url></info>
+<url>URL#571593</url>
+</hit>
+<hit score="1" id="571600">
+<info><authors><author pid="227/8623">Xutong Zuo</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="10/5630-1">Xin Wang 0001</author><author pid="244/8337">Jiayu Yang</author></authors><title>Deadline-aware Multipath Transmission for Streaming Blocks.</title><venue>INFOCOM</venue><pages>2178-2187</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZuoCWY22</key><doi>10.1109/INFOCOM48880.2022.9796942</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796942</ee><url>https://dblp.org/rec/conf/infocom/ZuoCWY22</url></info>
+<url>URL#571600</url>
+</hit>
+<hit score="1" id="571602">
+<info><authors><author pid="227/8623">Xutong Zuo</author><author pid="244/8337">Jiayu Yang</author><author pid="206/6742">Mowei Wang</author><author pid="91/2346-1">Yong Cui 0001</author></authors><title>Adaptive Bitrate with User-level QoE Preference for Video Streaming.</title><venue>INFOCOM</venue><pages>1279-1288</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/infocom/ZuoYWC22</key><doi>10.1109/INFOCOM48880.2022.9796953</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022.9796953</ee><url>https://dblp.org/rec/conf/infocom/ZuoYWC22</url></info>
+<url>URL#571602</url>
+</hit>
+<hit score="1" id="638266">
+<info><title>IEEE INFOCOM 2022 - IEEE Conference on Computer Communications, London, United Kingdom, May 2-5, 2022</title><venue>INFOCOM</venue><publisher>IEEE</publisher><year>2022</year><type>Editorship</type><key>conf/infocom/2022</key><doi>10.1109/INFOCOM48880.2022</doi><ee>https://doi.org/10.1109/INFOCOM48880.2022</ee><url>https://dblp.org/rec/conf/infocom/2022</url></info>
+<url>URL#638266</url>
+</hit>
+</hits>
+</result>

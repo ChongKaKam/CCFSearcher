@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239047">:facetid:toc:\"db/conf/sigcomm/sigcomm2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">182.90</time>
+<completions total="1" computed="1" sent="1">
+<c sc="56" dc="56" oc="56" id="41052326">:facetid:toc:db/conf/sigcomm/sigcomm2022.bht</c>
+</completions>
+<hits total="56" computed="56" sent="56" first="0">
+<hit score="1" id="616753">
+<info><authors><author pid="42/1503-28">Shuai Wang 0028</author><author pid="249/7745">Kaihui Gao</author><author pid="77/2062">Kun Qian</author><author pid="48/4185-1">Dan Li 0001</author><author pid="62/675">Rui Miao</author><author pid="50/3402">Bo Li</author><author pid="36/2728">Yu Zhou</author><author pid="23/7560">Ennan Zhai</author><author pid="01/6072">Chen Sun</author><author pid="125/2840">Jiaqi Gao</author><author pid="03/10352">Dai Zhang</author><author pid="60/7673">Binzhang Fu</author><author pid="32/3722">Frank Kelly</author><author pid="130/8438">Dennis Cai</author><author pid="117/4311">Hongqiang Harry Liu</author><author pid="73/1844-5">Ming Zhang 0005</author></authors><title>Predictable vFabric on informative data plane.</title><venue>SIGCOMM</venue><pages>615-632</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/0028GQ0MLZZSGZF22</key><doi>10.1145/3544216.3544241</doi><ee>https://doi.org/10.1145/3544216.3544241</ee><url>https://dblp.org/rec/conf/sigcomm/0028GQ0MLZZSGZF22</url></info>
+<url>URL#616753</url>
+</hit>
+<hit score="1" id="616755">
+<info><authors><author pid="224/2167">Vamsi Addanki</author><author pid="180/5502">Maria Apostolaki</author><author pid="37/1704">Manya Ghobadi</author><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="51/7546">Laurent Vanbever</author></authors><title>ABM: active buffer management in datacenters.</title><venue>SIGCOMM</venue><pages>36-52</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/AddankiAG0V22</key><doi>10.1145/3544216.3544252</doi><ee>https://doi.org/10.1145/3544216.3544252</ee><url>https://dblp.org/rec/conf/sigcomm/AddankiAG0V22</url></info>
+<url>URL#616755</url>
+</hit>
+<hit score="1" id="616756">
+<info><authors><author pid="17/1069">Satyajeet Singh Ahuja</author><author pid="95/11344">Vinayak Dangui</author><author pid="141/1141">Kirtesh Patil</author><author pid="28/8397">Manikandan Somasundaram</author><author pid="19/4180">Varun Gupta</author><author pid="49/9975">Mario A. Sánchez</author><author pid="291/3833">Guanqing Yan</author><author pid="133/8418">Max Noormohammadpour</author><author pid="201/9073">Alaleh Razmjoo</author><author pid="91/7533">Grace Smith</author><author pid="06/5514">Hao Zhong</author><author pid="326/3847">Abhinav Triguna</author><author pid="47/5394">Soshant Bali</author><author pid="326/3770">Yuxiang Xiang</author><author pid="86/2531">Yilun Chen</author><author pid="326/3649">Prabhakaran Ganesan</author><author pid="326/4377">Mikel Jimenez Fernandez</author><author pid="197/7152">Petr Lapukhov</author><author pid="151/5134">Guyue Liu</author><author pid="13/6769-22">Ying Zhang 0022</author></authors><title>Network entitlement: contract-based network sharing with agility and SLO guarantees.</title><venue>SIGCOMM</venue><pages>250-263</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/AhujaDPSGSYNRSZ22</key><doi>10.1145/3544216.3544245</doi><ee>https://doi.org/10.1145/3544216.3544245</ee><url>https://dblp.org/rec/conf/sigcomm/AhujaDPSGSYNRSZ22</url></info>
+<url>URL#616756</url>
+</hit>
+<hit score="1" id="616757">
+<info><authors><author pid="207/2188">Kinan Dak Albab</author><author pid="127/3104">Jonathan DiLorenzo</author><author pid="124/8937">Stefan Heule</author><author pid="195/6135">Ali Kheradmand</author><author pid="164/5888">Steffen Smolka</author><author pid="132/8683">Konstantin Weitz</author><author pid="326/3756">Muhammad Timarzi</author><author pid="125/2840">Jiaqi Gao</author><author pid="89/6345">Minlan Yu</author></authors><title>SwitchV: automated SDN switch validation with P4 models.</title><venue>SIGCOMM</venue><pages>365-379</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/AlbabDHKSWTGY22</key><doi>10.1145/3544216.3544220</doi><ee>https://doi.org/10.1145/3544216.3544220</ee><url>https://dblp.org/rec/conf/sigcomm/AlbabDHKSWTGY22</url></info>
+<url>URL#616757</url>
+</hit>
+<hit score="1" id="616758">
+<info><authors><author pid="263/3687">Albert Gran Alcoz</author><author pid="117/8959">Martin Strohmeier</author><author pid="75/5939">Vincent Lenders</author><author pid="51/7546">Laurent Vanbever</author></authors><title>Aggregate-based congestion control for pulse-wave DDoS defense.</title><venue>SIGCOMM</venue><pages>693-706</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/AlcozSLV22</key><doi>10.1145/3544216.3544263</doi><ee>https://doi.org/10.1145/3544216.3544263</ee><url>https://dblp.org/rec/conf/sigcomm/AlcozSLV22</url></info>
+<url>URL#616758</url>
+</hit>
+<hit score="1" id="616759">
+<info><authors><author pid="204/3448">Venkat Arun</author><author pid="37/8397">Mohammad Alizadeh</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author></authors><title>Starvation in end-to-end congestion control.</title><venue>SIGCOMM</venue><pages>177-192</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ArunAB22</key><doi>10.1145/3544216.3544223</doi><ee>https://doi.org/10.1145/3544216.3544223</ee><url>https://dblp.org/rec/conf/sigcomm/ArunAB22</url></info>
+<url>URL#616759</url>
+</hit>
+<hit score="1" id="616761">
+<info><authors><author pid="271/9553">Nirav Atre</author><author pid="222/2437">Hugo Sadok</author><author pid="326/4421">Erica Chiang</author><author pid="88/2200">Weina Wang</author><author pid="37/8465">Justine Sherry</author></authors><title>SurgeProtector: mitigating temporal algorithmic complexity attacks using adversarial scheduling.</title><venue>SIGCOMM</venue><pages>723-738</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/AtreSCWS22</key><doi>10.1145/3544216.3544250</doi><ee>https://doi.org/10.1145/3544216.3544250</ee><url>https://dblp.org/rec/conf/sigcomm/AtreSCWS22</url></info>
+<url>URL#616761</url>
+</hit>
+<hit score="1" id="616765">
+<info><authors><author pid="217/1009">Qizhe Cai</author><author pid="173/5006">Mina Tahmasbi Arashloo</author><author pid="41/5447-1">Rachit Agarwal 0001</author></authors><title>dcPIM: near-optimal proactive datacenter transport.</title><venue>SIGCOMM</venue><pages>53-65</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/CaiA022</key><doi>10.1145/3544216.3544235</doi><ee>https://doi.org/10.1145/3544216.3544235</ee><url>https://dblp.org/rec/conf/sigcomm/CaiA022</url></info>
+<url>URL#616765</url>
+</hit>
+<hit score="1" id="616766">
+<info><authors><author pid="217/1009">Qizhe Cai</author><author pid="237/0851">Midhul Vuppalapati</author><author pid="58/3121">Jaehyun Hwang</author><author pid="k/ChristoforosEKozyrakis">Christos Kozyrakis</author><author pid="41/5447-1">Rachit Agarwal 0001</author></authors><title>Towards μs tail latency and terabit ethernet: disaggregating the host network stack.</title><venue>SIGCOMM</venue><pages>767-779</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/CaiVHK022</key><doi>10.1145/3544216.3544230</doi><ee>https://doi.org/10.1145/3544216.3544230</ee><url>https://dblp.org/rec/conf/sigcomm/CaiVHK022</url></info>
+<url>URL#616766</url>
+</hit>
+<hit score="1" id="616768">
+<info><authors><author pid="273/7711">Tuochao Chen</author><author pid="161/8406">Justin Chan</author><author pid="63/3113">Shyamnath Gollakota</author></authors><title>Underwater messaging using mobile devices.</title><venue>SIGCOMM</venue><pages>545-559</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ChenCG22</key><doi>10.1145/3544216.3544258</doi><ee>https://doi.org/10.1145/3544216.3544258</ee><url>https://dblp.org/rec/conf/sigcomm/ChenCG22</url></info>
+<url>URL#616768</url>
+</hit>
+<hit score="1" id="616769">
+<info><authors><author pid="202/8474">Huangxun Chen</author><author pid="204/0178">Yukai Miao</author><author pid="181/2847">Li Chen</author><author pid="00/11044-1">Haifeng Sun 0001</author><author pid="01/5265-1">Hong Xu 0001</author><author pid="59/8294-1">Libin Liu 0001</author><author pid="77/6324">Gong Zhang</author><author pid="35/7092-30">Wei Wang 0030</author></authors><title>Software-defined network assimilation: bridging the last mile towards centralized network configuration management with NAssim.</title><venue>SIGCOMM</venue><pages>281-297</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ChenMCSXLZ022</key><doi>10.1145/3544216.3544244</doi><ee>https://doi.org/10.1145/3544216.3544244</ee><url>https://dblp.org/rec/conf/sigcomm/ChenMCSXLZ022</url></info>
+<url>URL#616769</url>
+</hit>
+<hit score="1" id="616770">
+<info><authors><author pid="291/4612">Shawn Shuoshuo Chen</author><author pid="145/9134">Weiyang Wang</author><author pid="204/3768">Christopher Canel</author><author pid="s/SrinivasanSeshan">Srinivasan Seshan</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="s/PeterSteenkiste">Peter Steenkiste</author></authors><title>Time-division TCP for reconfigurable data center networks.</title><venue>SIGCOMM</venue><pages>19-35</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ChenWCSSS22</key><doi>10.1145/3544216.3544254</doi><ee>https://doi.org/10.1145/3544216.3544254</ee><url>https://dblp.org/rec/conf/sigcomm/ChenWCSSS22</url></info>
+<url>URL#616770</url>
+</hit>
+<hit score="1" id="616777">
+<info><authors><author pid="85/5448">Zheng Gong</author><author pid="176/5824">Lubing Han</author><author pid="203/8833">Zhenlin An</author><author pid="50/2484">Lei Yang</author><author pid="27/7757">Siqi Ding</author><author pid="00/6716">Yu Xiang</author></authors><title>Empowering smart buildings with self-sensing concrete for structural health monitoring.</title><venue>SIGCOMM</venue><pages>560-575</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/GongHAYDX22</key><doi>10.1145/3544216.3544270</doi><ee>https://doi.org/10.1145/3544216.3544270</ee><url>https://dblp.org/rec/conf/sigcomm/GongHAYDX22</url></info>
+<url>URL#616777</url>
+</hit>
+<hit score="1" id="616778">
+<info><authors><author pid="153/2265">Prateesh Goyal</author><author pid="71/11357-1">Akshay Narayan 0001</author><author pid="169/8809">Frank Cangialosi</author><author pid="03/1245">Srinivas Narayana</author><author pid="37/8397">Mohammad Alizadeh</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author></authors><title>Elasticity detection: a building block for internet congestion control.</title><venue>SIGCOMM</venue><pages>158-176</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Goyal0CNAB22</key><doi>10.1145/3544216.3544221</doi><ee>https://doi.org/10.1145/3544216.3544221</ee><url>https://dblp.org/rec/conf/sigcomm/Goyal0CNAB22</url></info>
+<url>URL#616778</url>
+</hit>
+<hit score="1" id="616779">
+<info><authors><author pid="93/10014">Dong Guo</author><author pid="184/0252">Shenshen Chen</author><author pid="12/4000-1">Kai Gao 0001</author><author pid="77/7791">Qiao Xiang</author><author pid="13/6769">Ying Zhang</author><author pid="y/YangRichardYang">Y. Richard Yang</author></authors><title>Flash: fast, consistent data plane verification for large-scale network settings.</title><venue>SIGCOMM</venue><pages>314-335</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/GuoC0XZY22</key><doi>10.1145/3544216.3544246</doi><ee>https://doi.org/10.1145/3544216.3544246</ee><url>https://dblp.org/rec/conf/sigcomm/GuoC0XZY22</url></info>
+<url>URL#616779</url>
+</hit>
+<hit score="1" id="616780">
+<info><authors><author pid="g/HimanshuGupta">Himanshu Gupta 0001</author><author pid="183/1778">Max Curran</author><author pid="149/9254">Jon P. Longtin</author><author pid="326/4170">Torin Rockwell</author><author pid="73/3928-17">Kai Zheng 0017</author><author pid="154/8616">Mallesham Dasari</author></authors><title>Cyclops: an FSO-based wireless link for VR headsets.</title><venue>SIGCOMM</venue><pages>601-614</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/GuptaCLR0D22</key><doi>10.1145/3544216.3544255</doi><ee>https://doi.org/10.1145/3544216.3544255</ee><url>https://dblp.org/rec/conf/sigcomm/GuptaCLR0D22</url></info>
+<url>URL#616780</url>
+</hit>
+<hit score="1" id="616784">
+<info><authors><author pid="162/5148">Ahmad Hassan</author><author pid="08/3080">Arvind Narayanan</author><author pid="244/1644">Anlan Zhang</author><author pid="09/5394">Wei Ye</author><author pid="299/2248">Ruiyang Zhu</author><author pid="246/2987">Shuowei Jin</author><author pid="249/2309">Jason Carpenter</author><author pid="91/584">Z. Morley Mao</author><author pid="54/476-1">Feng Qian 0001</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>Vivisecting mobility management in 5G cellular networks.</title><venue>SIGCOMM</venue><pages>86-100</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/HassanNZYZJCMQZ22</key><doi>10.1145/3544216.3544217</doi><ee>https://doi.org/10.1145/3544216.3544217</ee><url>https://dblp.org/rec/conf/sigcomm/HassanNZYZJCMQZ22</url></info>
+<url>URL#616784</url>
+</hit>
+<hit score="1" id="616787">
+<info><authors><author pid="227/0738">Liz Izhikevich</author><author pid="64/4885">Renata Teixeira</author><author pid="143/5673">Zakir Durumeric</author></authors><title>Predicting IPv4 services across all ports.</title><venue>SIGCOMM</venue><pages>503-515</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/IzhikevichTD22</key><doi>10.1145/3544216.3544249</doi><ee>https://doi.org/10.1145/3544216.3544249</ee><url>https://dblp.org/rec/conf/sigcomm/IzhikevichTD22</url></info>
+<url>URL#616787</url>
+</hit>
+<hit score="1" id="616788">
+<info><authors><author pid="281/6046">Vivek A. Jain</author><author pid="326/3946">Hao-Tse Chu</author><author pid="189/8941">Shixiong Qi</author><author pid="213/5105">Chia-An Lee</author><author pid="179/7452">Hung-Cheng Chang</author><author pid="199/9778">Cheng-Ying Hsieh</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author><author pid="81/797">Jyh-Cheng Chen</author></authors><title>L25GC: a low latency 5G core network based on high-performance NFV platforms.</title><venue>SIGCOMM</venue><pages>143-157</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/JainCQLCHRC22</key><doi>10.1145/3544216.3544267</doi><ee>https://doi.org/10.1145/3544216.3544267</ee><url>https://dblp.org/rec/conf/sigcomm/JainCQLCHRC22</url></info>
+<url>URL#616788</url>
+</hit>
+<hit score="1" id="616797">
+<info><authors><author pid="309/5634">Yiran Lei</author><author pid="227/7188">Liangcheng Yu</author><author pid="22/9263-1">Vincent Liu 0001</author><author pid="18/6055">Mingwei Xu</author></authors><title>PrintQueue: performance diagnosis via queue measurement in the data plane.</title><venue>SIGCOMM</venue><pages>516-529</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LeiYLX22</key><doi>10.1145/3544216.3544257</doi><ee>https://doi.org/10.1145/3544216.3544257</ee><url>https://dblp.org/rec/conf/sigcomm/LeiYLX22</url></info>
+<url>URL#616797</url>
+</hit>
+<hit score="1" id="616798">
+<info><authors><author pid="79/572">Jinyang Li</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="326/4642">Ri Lu</author><author pid="04/2721">Kai Xiao</author><author pid="122/3880">Songlin Li</author><author pid="270/0371">Jufeng Chen</author><author pid="65/2850">Jingyu Yang</author><author pid="326/4655">Chunli Zong</author><author pid="270/9261">Aiyun Chen</author><author pid="48/86">Qinghua Wu</author><author pid="01/6072">Chen Sun</author><author pid="85/85">Gareth Tyson</author><author pid="117/4311">Hongqiang Harry Liu</author></authors><title>LiveNet: a low-latency video transport network for large-scale live streaming.</title><venue>SIGCOMM</venue><pages>812-825</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Li0LXLCYZCWSTL22</key><doi>10.1145/3544216.3544236</doi><ee>https://doi.org/10.1145/3544216.3544236</ee><url>https://dblp.org/rec/conf/sigcomm/Li0LXLCYZCWSTL22</url></info>
+<url>URL#616798</url>
+</hit>
+<hit score="1" id="616800">
+<info><authors><author pid="163/6830">Hejing Li</author><author pid="75/4924-1">Jialin Li 0001</author><author pid="145/5081">Antoine Kaufmann</author></authors><title>SimBricks: end-to-end network system evaluation with modular simulation.</title><venue>SIGCOMM</venue><pages>380-396</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiLK22</key><doi>10.1145/3544216.3544253</doi><ee>https://doi.org/10.1145/3544216.3544253</ee><url>https://dblp.org/rec/conf/sigcomm/LiLK22</url></info>
+<url>URL#616800</url>
+</hit>
+<hit score="1" id="616801">
+<info><authors><author pid="75/10258">Yuanjie Li</author><author pid="51/8276">Hewu Li</author><author pid="49/3283">Wei Liu</author><author pid="72/7623">Lixin Liu</author><author pid="60/5212">Yimei Chen</author><author pid="82/4905">Jianping Wu</author><author pid="61/591">Qian Wu</author><author pid="95/3736-63">Jun Liu 0063</author><author pid="148/1959">Zeqi Lai</author></authors><title>A case for stateless mobile core network functions in space.</title><venue>SIGCOMM</venue><pages>298-313</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiLLLCWW0L22</key><doi>10.1145/3544216.3544233</doi><ee>https://doi.org/10.1145/3544216.3544233</ee><url>https://dblp.org/rec/conf/sigcomm/LiLLLCWW0L22</url></info>
+<url>URL#616801</url>
+</hit>
+<hit score="1" id="616802">
+<info><authors><author pid="224/2312">Xianshang Lin</author><author pid="80/7673">Yunfei Ma</author><author pid="326/3744">Junshao Zhang</author><author pid="152/4845">Yao Cui</author><author pid="181/2820">Jing Li</author><author pid="25/4561">Shi Bai</author><author pid="202/8855">Ziyue Zhang</author><author pid="130/8438">Dennis Cai</author><author pid="117/4311">Hongqiang Harry Liu</author><author pid="73/1844-5">Ming Zhang 0005</author></authors><title>GSO-simulcast: global stream orchestration in simulcast video conferencing systems.</title><venue>SIGCOMM</venue><pages>826-839</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LinMZCLBZCLZ22</key><doi>10.1145/3544216.3544228</doi><ee>https://doi.org/10.1145/3544216.3544228</ee><url>https://dblp.org/rec/conf/sigcomm/LinMZCLBZCLZ22</url></info>
+<url>URL#616802</url>
+</hit>
+<hit score="1" id="616804">
+<info><authors><author pid="142/2901">Michael Markovitch</author><author pid="32/4165">Sharad Agarwal</author><author pid="f/RFonseca">Rodrigo Fonseca</author><author pid="161/6041">Ryan Beckett</author><author pid="176/5816">Chuanji Zhang</author><author pid="63/3591">Irena Atov</author><author pid="217/3866">Somesh Chaturmohta</author></authors><title>TIPSY: predicting where traffic will ingress a WAN.</title><venue>SIGCOMM</venue><pages>233-249</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/MarkovitchAFBZA22</key><doi>10.1145/3544216.3544234</doi><ee>https://doi.org/10.1145/3544216.3544234</ee><url>https://dblp.org/rec/conf/sigcomm/MarkovitchAFBZA22</url></info>
+<url>URL#616804</url>
+</hit>
+<hit score="1" id="616805">
+<info><authors><author pid="198/8304">Zili Meng</author><author pid="246/3723">Yaning Guo</author><author pid="01/6072-5">Chen Sun 0005</author><author pid="72/6811-66">Bo Wang 0066</author><author pid="37/8465">Justine Sherry</author><author pid="117/4311">Hongqiang Harry Liu</author><author pid="18/6055">Mingwei Xu</author></authors><title>Achieving consistent low latency for wireless real-time communications with the shortest control loop.</title><venue>SIGCOMM</venue><pages>193-206</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/MengGS0SLX22</key><doi>10.1145/3544216.3544225</doi><ee>https://doi.org/10.1145/3544216.3544225</ee><url>https://dblp.org/rec/conf/sigcomm/MengGS0SLX22</url></info>
+<url>URL#616805</url>
+</hit>
+<hit score="1" id="616806">
+<info><authors><author pid="62/675">Rui Miao</author><author pid="129/1811">Lingjun Zhu</author><author pid="171/5006">Shu Ma</author><author pid="77/2062">Kun Qian</author><author pid="268/1477">Shujun Zhuang</author><author pid="50/3402">Bo Li</author><author pid="326/4680">Shuguang Cheng</author><author pid="125/2840">Jiaqi Gao</author><author pid="02/5194">Yan Zhuang</author><author pid="84/6775">Pengcheng Zhang</author><author pid="68/437">Rong Liu</author><author pid="27/5694">Chao Shi</author><author pid="60/7673">Binzhang Fu</author><author pid="51/5073">Jiaji Zhu</author><author pid="64/2146">Jiesheng Wu</author><author pid="130/8438">Dennis Cai</author><author pid="117/4311">Hongqiang Harry Liu</author></authors><title>From luna to solar: the evolutions of the compute-to-storage networks in Alibaba cloud.</title><venue>SIGCOMM</venue><pages>753-766</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/MiaoZMQZLCGZZLS22</key><doi>10.1145/3544216.3544238</doi><ee>https://doi.org/10.1145/3544216.3544238</ee><url>https://dblp.org/rec/conf/sigcomm/MiaoZMQZLCGZZLS22</url></info>
+<url>URL#616806</url>
+</hit>
+<hit score="1" id="616807">
+<info><authors><author pid="167/5914">Edgar Costa Molero</author><author pid="29/7759">Stefano Vissicchio</author><author pid="51/7546">Laurent Vanbever</author></authors><title>FAst in-network GraY failure detection for ISPs.</title><venue>SIGCOMM</venue><pages>677-692</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/MoleroVV22</key><doi>10.1145/3544216.3544242</doi><ee>https://doi.org/10.1145/3544216.3544242</ee><url>https://dblp.org/rec/conf/sigcomm/MoleroVV22</url></info>
+<url>URL#616807</url>
+</hit>
+<hit score="1" id="616812">
+<info><authors><author pid="223/8394">Peter Oppermann</author><author pid="67/9143">Christian Renner</author></authors><title>Higher-order modulation for acoustic backscatter communication in metals.</title><venue>SIGCOMM</venue><pages>576-587</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/OppermannR22</key><doi>10.1145/3544216.3544261</doi><ee>https://doi.org/10.1145/3544216.3544261</ee><url>https://dblp.org/rec/conf/sigcomm/OppermannR22</url></info>
+<url>URL#616812</url>
+</hit>
+<hit score="1" id="616814">
+<info><authors><author pid="52/518">Leon Poutievski</author><author pid="36/9507">Omid Mashayekhi</author><author pid="132/8490">Joon Ong</author><author pid="17/1437">Arjun Singh</author><author pid="85/1309">Muhammad Mukarram Bin Tariq</author><author pid="06/2293-25">Rui Wang 0025</author><author pid="69/10223">Jianan Zhang</author><author pid="326/4137">Virginia Beauregard</author><author pid="326/4483">Patrick Conner</author><author pid="g/StevenDGribble">Steve D. Gribble</author><author pid="52/7997">Rishi Kapoor</author><author pid="326/3755">Stephen Kratzer</author><author pid="38/8966">Nanfang Li</author><author pid="29/5010">Hong Liu</author><author pid="78/8178">Karthik Nagaraj</author><author pid="326/4134">Jason Ornstein</author><author pid="297/2033">Samir Sawhney</author><author pid="145/5531">Ryohei Urata</author><author pid="93/167">Lorenzo Vicisano</author><author pid="326/4236">Kevin Yasumura</author><author pid="26/7136">Shidong Zhang</author><author pid="65/1532">Junlan Zhou</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Jupiter evolving: transforming google&apos;s datacenter network via optical circuit switches and software-defined networking.</title><venue>SIGCOMM</venue><pages>66-85</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/PoutievskiMOST022</key><doi>10.1145/3544216.3544265</doi><ee>https://doi.org/10.1145/3544216.3544265</ee><url>https://dblp.org/rec/conf/sigcomm/PoutievskiMOST022</url></info>
+<url>URL#616814</url>
+</hit>
+<hit score="1" id="616815">
+<info><authors><author pid="189/8941">Shixiong Qi</author><author pid="245/6790">Leslie Monis</author><author pid="325/9033">Ziteng Zeng</author><author pid="307/4180">Ian-Chin Wang</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author></authors><title>SPRIGHT: extracting the server from serverless computing! high-performance eBPF-based event-driven, shared-memory processing.</title><venue>SIGCOMM</venue><pages>780-794</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/QiMZWR22</key><doi>10.1145/3544216.3544259</doi><ee>https://doi.org/10.1145/3544216.3544259</ee><url>https://dblp.org/rec/conf/sigcomm/QiMZWR22</url></info>
+<url>URL#616815</url>
+</hit>
+<hit score="1" id="616816">
+<info><authors><author pid="115/5150">Mubashir Adnan Qureshi</author><author pid="85/8634">Yuchung Cheng</author><author pid="142/5421">Qianwen Yin</author><author pid="149/9210">Qiaobin Fu</author><author pid="78/6715-1">Gautam Kumar 0001</author><author pid="134/3932">Masoud Moshref</author><author pid="157/9079">Junhua Yan</author><author pid="50/2038">Van Jacobson</author><author pid="w/DavidWetherall">David Wetherall</author><author pid="91/4608">Abdul Kabbani</author></authors><title>PLB: congestion signals are simple and effective for network load balancing.</title><venue>SIGCOMM</venue><pages>207-218</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/QureshiCYFKMYJW22</key><doi>10.1145/3544216.3544226</doi><ee>https://doi.org/10.1145/3544216.3544226</ee><url>https://dblp.org/rec/conf/sigcomm/QureshiCYFKMYJW22</url></info>
+<url>URL#616816</url>
+</hit>
+<hit score="1" id="616821">
+<info><authors><author pid="124/3530">Satadal Sengupta</author><author pid="02/8397">Hyojoon Kim</author><author pid="r/JenniferRexford">Jennifer Rexford</author></authors><title>Continuous in-network round-trip time monitoring.</title><venue>SIGCOMM</venue><pages>473-485</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/SenguptaKR22</key><doi>10.1145/3544216.3544222</doi><ee>https://doi.org/10.1145/3544216.3544222</ee><url>https://dblp.org/rec/conf/sigcomm/SenguptaKR22</url></info>
+<url>URL#616821</url>
+</hit>
+<hit score="1" id="616822">
+<info><authors><author pid="254/5683">Jayanth Shenoy</author><author pid="172/9824">Zikun Liu</author><author pid="326/3825">Bill Tao</author><author pid="150/3429">Zachary Kabelac</author><author pid="149/9280">Deepak Vasisht</author></authors><title>RF-protect: privacy against device-free human tracking.</title><venue>SIGCOMM</venue><pages>588-600</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ShenoyLTKV22</key><doi>10.1145/3544216.3544256</doi><ee>https://doi.org/10.1145/3544216.3544256</ee><url>https://dblp.org/rec/conf/sigcomm/ShenoyLTKV22</url></info>
+<url>URL#616822</url>
+</hit>
+<hit score="1" id="616823">
+<info><authors><author pid="139/9079">Vishal Shrivastav</author></authors><title>Programmable multi-dimensional table filters for line rate network functions.</title><venue>SIGCOMM</venue><pages>649-662</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Shrivastav22</key><doi>10.1145/3544216.3544266</doi><ee>https://doi.org/10.1145/3544216.3544266</ee><url>https://dblp.org/rec/conf/sigcomm/Shrivastav22</url></info>
+<url>URL#616823</url>
+</hit>
+<hit score="1" id="616824">
+<info><authors><author pid="139/9079">Vishal Shrivastav</author></authors><title>Stateful multi-pipelined programmable switches.</title><venue>SIGCOMM</venue><pages>663-676</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Shrivastav22a</key><doi>10.1145/3544216.3544269</doi><ee>https://doi.org/10.1145/3544216.3544269</ee><url>https://dblp.org/rec/conf/sigcomm/Shrivastav22a</url></info>
+<url>URL#616824</url>
+</hit>
+<hit score="1" id="616825">
+<info><authors><author pid="294/8712">Dennis Trautwein</author><author pid="141/9377">Aravindh Raman</author><author pid="85/85">Gareth Tyson</author><author pid="99/11343">Ignacio Castro</author><author pid="121/4072">Will Scott</author><author pid="127/0435">Moritz Schubotz</author><author pid="12/6082">Bela Gipp</author><author pid="269/9979">Yiannis Psaras</author></authors><title>Design and evaluation of IPFS: a storage layer for the decentralized web.</title><venue>SIGCOMM</venue><pages>739-752</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/TrautweinRTCSSG22</key><doi>10.1145/3544216.3544232</doi><ee>https://doi.org/10.1145/3544216.3544232</ee><url>https://dblp.org/rec/conf/sigcomm/TrautweinRTCSSG22</url></info>
+<url>URL#616825</url>
+</hit>
+<hit score="1" id="616827">
+<info><authors><author pid="326/4428">Frank Uyeda</author><author pid="326/4346">Marc Alvidrez</author><author pid="26/7708">Erik Kline</author><author pid="326/4500">Bryce Petrini</author><author pid="326/4563">Brian Barritt</author><author pid="326/4557">David Mandle</author><author pid="326/3807">Aswin Chandy Alexander</author></authors><title>SDN in the stratosphere: loon&apos;s aerospace mesh network.</title><venue>SIGCOMM</venue><pages>264-280</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/UyedaAKPBMA22</key><doi>10.1145/3544216.3544231</doi><ee>https://doi.org/10.1145/3544216.3544231</ee><url>https://dblp.org/rec/conf/sigcomm/UyedaAKPBMA22</url></info>
+<url>URL#616827</url>
+</hit>
+<hit score="1" id="616829">
+<info><authors><author pid="248/0261">Gerry Wan</author><author pid="297/1521">Fengchen Gong</author><author pid="162/5287">Tom Barbette</author><author pid="143/5673">Zakir Durumeric</author></authors><title>Retina: analyzing 100GbE traffic on commodity hardware.</title><venue>SIGCOMM</venue><pages>530-544</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/WanGBD22</key><doi>10.1145/3544216.3544227</doi><ee>https://doi.org/10.1145/3544216.3544227</ee><url>https://dblp.org/rec/conf/sigcomm/WanGBD22</url></info>
+<url>URL#616829</url>
+</hit>
+<hit score="1" id="616832">
+<info><authors><author pid="120/4535">Matthias Wichtlhuber</author><author pid="301/8890">Eric Strehle</author><author pid="198/8297">Daniel Kopp</author><author pid="326/4786">Lars Prepens</author><author pid="326/4842">Stefan Stegmueller</author><author pid="154/6127">Alina Rubina</author><author pid="177/6606">Christoph Dietzel</author><author pid="75/6403">Oliver Hohlfeld</author></authors><title>IXP scrubber: learning from blackholing traffic for ML-driven DDoS detection at scale.</title><venue>SIGCOMM</venue><pages>707-722</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/WichtlhuberSKPS22</key><doi>10.1145/3544216.3544268</doi><ee>https://doi.org/10.1145/3544216.3544268</ee><url>https://dblp.org/rec/conf/sigcomm/WichtlhuberSKPS22</url></info>
+<url>URL#616832</url>
+</hit>
+<hit score="1" id="616835">
+<info><authors><author pid="229/1943">Zhengxu Xia</author><author pid="20/770">Yajie Zhou</author><author pid="223/0843">Francis Y. Yan</author><author pid="49/8398">Junchen Jiang</author></authors><title>Genet: automatic curriculum generation for learning adaptation in networking.</title><venue>SIGCOMM</venue><pages>397-413</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/XiaZYJ22</key><doi>10.1145/3544216.3544243</doi><ee>https://doi.org/10.1145/3544216.3544243</ee><url>https://dblp.org/rec/conf/sigcomm/XiaZYJ22</url></info>
+<url>URL#616835</url>
+</hit>
+<hit score="1" id="616836">
+<info><authors><author pid="277/6504">Mingran Yang</author><author pid="326/4599">Alex Baban</author><author pid="326/4182">Valery Kugel</author><author pid="200/7506">Jeff Libby</author><author pid="212/6329">Scott Mackie</author><author pid="326/4861">Swamy Sadashivaiah Renu Kananda</author><author pid="44/8864">Chang-Hong Wu</author><author pid="37/1704">Manya Ghobadi</author></authors><title>Using trio: juniper networks&apos; programmable chipset - for emerging in-network applications.</title><venue>SIGCOMM</venue><pages>633-648</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/YangBKLMKWG22</key><doi>10.1145/3544216.3544262</doi><ee>https://doi.org/10.1145/3544216.3544262</ee><url>https://dblp.org/rec/conf/sigcomm/YangBKLMKWG22</url></info>
+<url>URL#616836</url>
+</hit>
+<hit score="1" id="616837">
+<info><authors><author pid="252/1188">Xinlei Yang</author><author pid="89/3472-5">Hao Lin 0005</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="54/476-1">Feng Qian 0001</author><author pid="314/2527">Xingyao Li</author><author pid="69/8455">Zhiming He</author><author pid="47/6768">Xudong Wu</author><author pid="54/10133">Xianlong Wang</author><author pid="27/2403">Yunhao Liu 0001</author><author pid="02/8454">Zhi Liao</author><author pid="326/3780">Daqiang Hu</author><author pid="90/7566">Tianyin Xu</author></authors><title>Mobile access bandwidth in practice: measurement, analysis, and implications.</title><venue>SIGCOMM</venue><pages>114-128</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/YangL0QLHWWLLHX22</key><doi>10.1145/3544216.3544237</doi><ee>https://doi.org/10.1145/3544216.3544237</ee><url>https://dblp.org/rec/conf/sigcomm/YangL0QLHWWLLHX22</url></info>
+<url>URL#616837</url>
+</hit>
+<hit score="1" id="616838">
+<info><authors><author pid="49/10304">Qingqing Yang</author><author pid="149/7762-6">Xi Peng 0006</author><author pid="181/2847">Li Chen</author><author pid="59/8294-1">Libin Liu 0001</author><author pid="159/3839">Jingze Zhang</author><author pid="01/5265-1">Hong Xu 0001</author><author pid="l/BaochunLi">Baochun Li</author><author pid="77/6324">Gong Zhang</author></authors><title>DeepQueueNet: towards scalable and generalized network performance estimation with packet-level visibility.</title><venue>SIGCOMM</venue><pages>441-457</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/YangPCLZXLZ22</key><doi>10.1145/3544216.3544248</doi><ee>https://doi.org/10.1145/3544216.3544248</ee><url>https://dblp.org/rec/conf/sigcomm/YangPCLZXLZ22</url></info>
+<url>URL#616838</url>
+</hit>
+<hit score="1" id="616839">
+<info><authors><author pid="209/8653">Hyunho Yeo</author><author pid="187/0217">Hwijoon Lim</author><author pid="75/3644-2">Jaehong Kim 0002</author><author pid="228/0277">Youngmok Jung</author><author pid="271/5952">Juncheol Ye</author><author pid="12/5388">Dongsu Han</author></authors><title>NeuroScaler: neural video enhancement at scale.</title><venue>SIGCOMM</venue><pages>795-811</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/YeoLKJYH22</key><doi>10.1145/3544216.3544218</doi><ee>https://doi.org/10.1145/3544216.3544218</ee><url>https://dblp.org/rec/conf/sigcomm/YeoLKJYH22</url></info>
+<url>URL#616839</url>
+</hit>
+<hit score="1" id="616840">
+<info><authors><author pid="224/2470">Yucheng Yin</author><author pid="64/237-1">Zinan Lin 0001</author><author pid="262/0711">Minhao Jin</author><author pid="141/9910">Giulia Fanti</author><author pid="45/4044">Vyas Sekar</author></authors><title>Practical GAN-based synthetic IP header trace generation using NetShare.</title><venue>SIGCOMM</venue><pages>458-472</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Yin0JFS22</key><doi>10.1145/3544216.3544251</doi><ee>https://doi.org/10.1145/3544216.3544251</ee><url>https://dblp.org/rec/conf/sigcomm/Yin0JFS22</url></info>
+<url>URL#616840</url>
+</hit>
+<hit score="1" id="616841">
+<info><authors><author pid="227/7188">Liangcheng Yu</author><author pid="145/2967">John Sonchack</author><author pid="22/9263-1">Vincent Liu 0001</author></authors><title>Cebinae: scalable in-network fairness augmentation.</title><venue>SIGCOMM</venue><pages>219-232</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/YuSL22</key><doi>10.1145/3544216.3544240</doi><ee>https://doi.org/10.1145/3544216.3544240</ee><url>https://dblp.org/rec/conf/sigcomm/YuSL22</url></info>
+<url>URL#616841</url>
+</hit>
+<hit score="1" id="616842">
+<info><authors><author pid="161/3653">Xinjie Yuan</author><author pid="326/4498">Mingzhou Wu</author><author pid="95/6543-1">Zhi Wang 0001</author><author pid="174/2169">Yifei Zhu</author><author pid="20/1028">Ming Ma</author><author pid="302/6995">Junjian Guo</author><author pid="07/5905">Zhi-Li Zhang</author><author pid="97/6308-1">Wenwu Zhu 0001</author></authors><title>Understanding 5G performance for real-world services: a content provider&apos;s perspective.</title><venue>SIGCOMM</venue><pages>101-113</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/YuanWWZMGZ022</key><doi>10.1145/3544216.3544219</doi><ee>https://doi.org/10.1145/3544216.3544219</ee><url>https://dblp.org/rec/conf/sigcomm/YuanWWZMGZ022</url></info>
+<url>URL#616842</url>
+</hit>
+<hit score="1" id="616843">
+<info><authors><author pid="56/5142">Yiwen Zhang</author><author pid="78/6715-1">Gautam Kumar 0001</author><author pid="74/5250">Nandita Dukkipati</author><author pid="03/5595">Xian Wu</author><author pid="285/9409">Priyaranjan Jha</author><author pid="42/1518">Mosharaf Chowdhury</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Aequitas: admission control for performance-critical RPCs in datacenters.</title><venue>SIGCOMM</venue><pages>1-18</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ZhangKDWJCV22</key><doi>10.1145/3544216.3544271</doi><ee>https://doi.org/10.1145/3544216.3544271</ee><url>https://dblp.org/rec/conf/sigcomm/ZhangKDWJCV22</url></info>
+<url>URL#616843</url>
+</hit>
+<hit score="1" id="616844">
+<info><authors><author pid="21/1048-11">Peng Zhang 0011</author><author pid="23/2060">Dan Wang</author><author pid="07/9556">Aaron Gember-Jacobson</author></authors><title>Symbolic router execution.</title><venue>SIGCOMM</venue><pages>336-349</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ZhangWG22</key><doi>10.1145/3544216.3544264</doi><ee>https://doi.org/10.1145/3544216.3544264</ee><url>https://dblp.org/rec/conf/sigcomm/ZhangWG22</url></info>
+<url>URL#616844</url>
+</hit>
+<hit score="1" id="616845">
+<info><authors><author pid="155/4434">Junxue Zhang 0001</author><author pid="257/6290">Chaoliang Zeng</author><author pid="24/6914-25">Hong Zhang 0025</author><author pid="143/8245">Shuihai Hu</author><author pid="c/KaiChen5">Kai Chen 0005</author></authors><title>LiteFlow: towards high-performance adaptive neural networks for kernel datapath.</title><venue>SIGCOMM</venue><pages>414-427</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ZhangZ0HC22</key><doi>10.1145/3544216.3544229</doi><ee>https://doi.org/10.1145/3544216.3544229</ee><url>https://dblp.org/rec/conf/sigcomm/ZhangZ0HC22</url></info>
+<url>URL#616845</url>
+</hit>
+<hit score="1" id="616846">
+<info><authors><author pid="245/8001">Yihao Zhao</author><author pid="232/2330">Yuanqiang Liu</author><author pid="195/5934">Yanghua Peng</author><author pid="65/8854">Yibo Zhu</author><author pid="08/2161">Xuanzhe Liu</author><author pid="68/3340-8">Xin Jin 0008</author></authors><title>Multi-resource interleaving for deep learning training.</title><venue>SIGCOMM</venue><pages>428-440</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ZhaoLPZLJ22</key><doi>10.1145/3544216.3544224</doi><ee>https://doi.org/10.1145/3544216.3544224</ee><url>https://dblp.org/rec/conf/sigcomm/ZhaoLPZLJ22</url></info>
+<url>URL#616846</url>
+</hit>
+<hit score="1" id="616847">
+<info><authors><author pid="207/7548">Jinghao Zhao</author><author pid="177/7011">Zhaowei Tan</author><author pid="11/504">Yifei Xu</author><author pid="183/1913">Zhehui Zhang</author><author pid="55/758">Songwu Lu</author></authors><title>SEED: a SIM-based solution to 5G failures.</title><venue>SIGCOMM</venue><pages>129-142</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ZhaoTXZL22</key><doi>10.1145/3544216.3544260</doi><ee>https://doi.org/10.1145/3544216.3544260</ee><url>https://dblp.org/rec/conf/sigcomm/ZhaoTXZL22</url></info>
+<url>URL#616847</url>
+</hit>
+<hit score="1" id="616848">
+<info><authors><author pid="31/6916">Hao Zheng</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="28/7827">Huiping Lin</author><author pid="52/5716">Chang Liu</author><author pid="156/2393">Zhaochen Zhang</author><author pid="57/5595">Wanchun Dou</author><author pid="51/1742">Guihai Chen</author></authors><title>FlyMon: enabling on-the-fly task reconfiguration for network measurement.</title><venue>SIGCOMM</venue><pages>486-502</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Zheng0YLLZDC22</key><doi>10.1145/3544216.3544239</doi><ee>https://doi.org/10.1145/3544216.3544239</ee><url>https://dblp.org/rec/conf/sigcomm/Zheng0YLLZDC22</url></info>
+<url>URL#616848</url>
+</hit>
+<hit score="1" id="616849">
+<info><authors><author pid="291/3762">Naiqian Zheng</author><author pid="154/7099">Mengqi Liu</author><author pid="23/7560">Ennan Zhai</author><author pid="117/4311">Hongqiang Harry Liu</author><author pid="43/5611">Yifan Li</author><author pid="118/4505">Kaicheng Yang</author><author pid="08/2161">Xuanzhe Liu</author><author pid="68/3340-8">Xin Jin 0008</author></authors><title>Meissa: scalable network testing for programmable data planes.</title><venue>SIGCOMM</venue><pages>350-364</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ZhengLZLLYL022</key><doi>10.1145/3544216.3544247</doi><ee>https://doi.org/10.1145/3544216.3544247</ee><url>https://dblp.org/rec/conf/sigcomm/ZhengLZLLYL022</url></info>
+<url>URL#616849</url>
+</hit>
+<hit score="1" id="639063">
+<info><authors><author pid="55/2512">Fernando Kuipers</author><author pid="65/1175">Ariel Orda</author></authors><title>SIGCOMM &apos;22: ACM SIGCOMM 2022 Conference, Amsterdam, The Netherlands, August 22 - 26, 2022</title><venue>SIGCOMM</venue><publisher>ACM</publisher><year>2022</year><type>Editorship</type><key>conf/sigcomm/2022</key><doi>10.1145/3544216</doi><ee>https://doi.org/10.1145/3544216</ee><url>https://dblp.org/rec/conf/sigcomm/2022</url></info>
+<url>URL#639063</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="251184">:facetid:toc:\"db/conf/vldb/phd2023.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">188.09</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="41057701">:facetid:toc:db/conf/vldb/phd2023.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="190453">
+<info><authors><author pid="174/7226">Maxime André</author></authors><title>Automated Database Schema Evolution in Microservices.</title><venue>PhD@VLDB</venue><pages>37-40</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Andre23</key><ee>https://ceur-ws.org/Vol-3452/paper10.pdf</ee><url>https://dblp.org/rec/conf/vldb/Andre23</url></info>
+<url>URL#190453</url>
+</hit>
+<hit score="1" id="190454">
+<info><authors><author pid="354/9980">Ilaria Battiston</author></authors><title>Improving Data Minimization through Decentralized Data Architectures.</title><venue>PhD@VLDB</venue><pages>25-28</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Battiston23</key><ee>https://ceur-ws.org/Vol-3452/paper7.pdf</ee><url>https://dblp.org/rec/conf/vldb/Battiston23</url></info>
+<url>URL#190454</url>
+</hit>
+<hit score="1" id="190455">
+<info><authors><author pid="40/10738">Andreas Görres</author></authors><title>Computing Provenance Using the Negated Chase.</title><venue>PhD@VLDB</venue><pages>29-32</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Gorres23</key><ee>https://ceur-ws.org/Vol-3452/paper8.pdf</ee><url>https://dblp.org/rec/conf/vldb/Gorres23</url></info>
+<url>URL#190455</url>
+</hit>
+<hit score="1" id="190456">
+<info><authors><author pid="208/7174">David Haller</author></authors><title>A Query-Driven Approach for SHACL Type Inference.</title><venue>PhD@VLDB</venue><pages>41-44</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Haller23</key><ee>https://ceur-ws.org/Vol-3452/paper11.pdf</ee><url>https://dblp.org/rec/conf/vldb/Haller23</url></info>
+<url>URL#190456</url>
+</hit>
+<hit score="1" id="190457">
+<info><authors><author pid="238/4353">Denis Hirn</author></authors><title>Data is Data and Control Should be Data, Too.</title><venue>PhD@VLDB</venue><pages>21-24</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Hirn23</key><ee>https://ceur-ws.org/Vol-3452/paper6.pdf</ee><url>https://dblp.org/rec/conf/vldb/Hirn23</url></info>
+<url>URL#190457</url>
+</hit>
+<hit score="1" id="190458">
+<info><authors><author pid="289/3171">Sonia Horchidan</author></authors><title>Query Optimization for Inference-Based Graph Databases.</title><venue>PhD@VLDB</venue><pages>33-36</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Horchidan23</key><ee>https://ceur-ws.org/Vol-3452/paper9.pdf</ee><url>https://dblp.org/rec/conf/vldb/Horchidan23</url></info>
+<url>URL#190458</url>
+</hit>
+<hit score="1" id="190459">
+<info><authors><author pid="284/8638">Neha Makhija</author></authors><title>Discovering Dichotomies for Problems in Database Theory.</title><venue>PhD@VLDB</venue><pages>9-12</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Makhija23</key><ee>https://ceur-ws.org/Vol-3452/paper3.pdf</ee><url>https://dblp.org/rec/conf/vldb/Makhija23</url></info>
+<url>URL#190459</url>
+</hit>
+<hit score="1" id="190460">
+<info><authors><author pid="354/9687">Maximilian Rieger</author></authors><title>Considering Distributed Processing in the Query Optimizer.</title><venue>PhD@VLDB</venue><pages>5-8</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Rieger23</key><ee>https://ceur-ws.org/Vol-3452/paper2.pdf</ee><url>https://dblp.org/rec/conf/vldb/Rieger23</url></info>
+<url>URL#190460</url>
+</hit>
+<hit score="1" id="190461">
+<info><authors><author pid="254/0972">Nikolaos Tziavelis</author></authors><title>Efficient Ranked Access over Joins.</title><venue>PhD@VLDB</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Tziavelis23</key><ee>https://ceur-ws.org/Vol-3452/paper1.pdf</ee><url>https://dblp.org/rec/conf/vldb/Tziavelis23</url></info>
+<url>URL#190461</url>
+</hit>
+<hit score="1" id="190462">
+<info><authors><author pid="201/4808">Grisha Weintraub</author></authors><title>Optimizing Cloud Data Lakes Queries.</title><venue>PhD@VLDB</venue><pages>13-16</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Weintraub23</key><ee>https://ceur-ws.org/Vol-3452/paper4.pdf</ee><url>https://dblp.org/rec/conf/vldb/Weintraub23</url></info>
+<url>URL#190462</url>
+</hit>
+<hit score="1" id="190463">
+<info><authors><author pid="50/4889">Markus Zajac</author></authors><title>Encoding and Provisioning Data in different Data Models for Quantum Computing.</title><venue>PhD@VLDB</venue><pages>45-48</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Zajac23</key><ee>https://ceur-ws.org/Vol-3452/paper12.pdf</ee><url>https://dblp.org/rec/conf/vldb/Zajac23</url></info>
+<url>URL#190463</url>
+</hit>
+<hit score="1" id="190464">
+<info><authors><author pid="149/1342">Zichen Zhu</author></authors><title>SHaMBa: Reducing Bloom Filter Overhead in LSM Trees.</title><venue>PhD@VLDB</venue><pages>17-20</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/vldb/Zhu23</key><ee>https://ceur-ws.org/Vol-3452/paper5.pdf</ee><url>https://dblp.org/rec/conf/vldb/Zhu23</url></info>
+<url>URL#190464</url>
+</hit>
+<hit score="1" id="196104">
+<info><authors><author pid="87/11444">Vasilis Efthymiou</author><author pid="19/1374-5">Xiao Hu 0005</author></authors><title>Proceedings of the VLDB 2023 PhD Workshop co-located with the 49th International Conference on Very Large Data Bases (VLDB 2023), Vancouver, Canada, August 28, 2023.</title><venue>PhD@VLDB</venue><venue>CEUR Workshop Proceedings</venue><volume>3452</volume><publisher>CEUR-WS.org</publisher><year>2023</year><type>Editorship</type><key>conf/vldb/2023phd</key><ee>https://ceur-ws.org/Vol-3452</ee><url>https://dblp.org/rec/conf/vldb/2023phd</url></info>
+<url>URL#196104</url>
+</hit>
+</hits>
+</result>

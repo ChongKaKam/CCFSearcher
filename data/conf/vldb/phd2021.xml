@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="251180">:facetid:toc:\"db/conf/vldb/phd2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">176.40</time>
+<completions total="1" computed="1" sent="1">
+<c sc="14" dc="14" oc="14" id="41057699">:facetid:toc:db/conf/vldb/phd2021.bht</c>
+</completions>
+<hits total="14" computed="14" sent="14" first="0">
+<hit score="1" id="1088532">
+<info><authors><author pid="203/8473">Rustam Azimov</author></authors><title>Context-Free Path Querying In Terms of Linear Algebra.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Azimov21</key><ee>https://ceur-ws.org/Vol-2971/paper04.pdf</ee><url>https://dblp.org/rec/conf/vldb/Azimov21</url></info>
+<url>URL#1088532</url>
+</hit>
+<hit score="1" id="1088535">
+<info><authors><author pid="285/4699">Anderson Chaves da Silva</author></authors><title>Towards an Integrated Solution for IoT Data Management.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Chaves21</key><ee>https://ceur-ws.org/Vol-2971/paper12.pdf</ee><url>https://dblp.org/rec/conf/vldb/Chaves21</url></info>
+<url>URL#1088535</url>
+</hit>
+<hit score="1" id="1088540">
+<info><authors><author pid="276/5342">Andra-Denis Ionescu</author></authors><title>Interactive Data Discovery in Data Lakes.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Ionescu21</key><ee>https://ceur-ws.org/Vol-2971/paper06.pdf</ee><url>https://dblp.org/rec/conf/vldb/Ionescu21</url></info>
+<url>URL#1088540</url>
+</hit>
+<hit score="1" id="1088542">
+<info><authors><author pid="26/6037">Tim Kraska</author></authors><title>Living in a Candy Store - from being a PhD Student to Working as a Faculty Member on ML for Systems.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Kraska21</key><ee>https://ceur-ws.org/Vol-2971/keynote.pdf</ee><url>https://dblp.org/rec/conf/vldb/Kraska21</url></info>
+<url>URL#1088542</url>
+</hit>
+<hit score="1" id="1088544">
+<info><authors><author pid="287/7197">Arlino Magalhães</author></authors><title>Main Memory Databases Instant Recovery.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Magalhaes21</key><ee>https://ceur-ws.org/Vol-2971/paper10.pdf</ee><url>https://dblp.org/rec/conf/vldb/Magalhaes21</url></info>
+<url>URL#1088544</url>
+</hit>
+<hit score="1" id="1088546">
+<info><authors><author pid="53/2433">Kota Nakamura</author></authors><title>Stream Mining of Complex Event Tensor.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Nakamura21</key><ee>https://ceur-ws.org/Vol-2971/paper01.pdf</ee><url>https://dblp.org/rec/conf/vldb/Nakamura21</url></info>
+<url>URL#1088546</url>
+</hit>
+<hit score="1" id="1088547">
+<info><authors><author pid="305/9909">Justin Namba</author></authors><title>Enhancing JSON Schema Discovery by Uncovering Hidden Data.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Namba21</key><ee>https://ceur-ws.org/Vol-2971/paper11.pdf</ee><url>https://dblp.org/rec/conf/vldb/Namba21</url></info>
+<url>URL#1088547</url>
+</hit>
+<hit score="1" id="1088548">
+<info><authors><author pid="300/8750">Louise Parkin</author></authors><title>Cooperative Techniques for Dealing with Unsatisfactory Answers in RDF Knowledge Bases.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Parkin21</key><ee>https://ceur-ws.org/Vol-2971/paper09.pdf</ee><url>https://dblp.org/rec/conf/vldb/Parkin21</url></info>
+<url>URL#1088548</url>
+</hit>
+<hit score="1" id="1088549">
+<info><authors><author pid="305/9782">Paul Peseux</author></authors><title>Differentiating Relational Queries.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Peseux21</key><ee>https://ceur-ws.org/Vol-2971/paper07.pdf</ee><url>https://dblp.org/rec/conf/vldb/Peseux21</url></info>
+<url>URL#1088549</url>
+</hit>
+<hit score="1" id="1088551">
+<info><authors><author pid="259/6999">Nikodimos Provatas</author></authors><title>Exploiting Data Distribution in Distributed Learning of Deep Classification Models under the Parameter Server Architecture.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Provatas21</key><ee>https://ceur-ws.org/Vol-2971/paper02.pdf</ee><url>https://dblp.org/rec/conf/vldb/Provatas21</url></info>
+<url>URL#1088551</url>
+</hit>
+<hit score="1" id="1088553">
+<info><authors><author pid="247/1343">Philipp D. Rohde</author></authors><title>SHACL Constraint Validation during SPARQL Query Processing.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Rohde21</key><ee>https://ceur-ws.org/Vol-2971/paper05.pdf</ee><url>https://dblp.org/rec/conf/vldb/Rohde21</url></info>
+<url>URL#1088553</url>
+</hit>
+<hit score="1" id="1088554">
+<info><authors><author pid="276/5371">George Siachamis</author></authors><title>Integrating Massive Data Streams.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Siachamis21</key><ee>https://ceur-ws.org/Vol-2971/paper03.pdf</ee><url>https://dblp.org/rec/conf/vldb/Siachamis21</url></info>
+<url>URL#1088554</url>
+</hit>
+<hit score="1" id="1088555">
+<info><authors><author pid="187/5856">Hermann Stolte</author></authors><title>Checking Plausibility in Exploratory Data Analysis.</title><venue>PhD@VLDB</venue><year>2021</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Stolte21</key><ee>https://ceur-ws.org/Vol-2971/paper08.pdf</ee><url>https://dblp.org/rec/conf/vldb/Stolte21</url></info>
+<url>URL#1088555</url>
+</hit>
+<hit score="1" id="1099597">
+<info><authors><author pid="b/PhilipABernstein">Philip A. Bernstein</author><author pid="10/760">Tilmann Rabl</author></authors><title>Proceedings of the VLDB 2021 PhD Workshop co-located with the 47th International Conference on Very Large Databases (VLDB 2021), Copenhagen, Denmark, August 16, 2021.</title><venue>PhD@VLDB</venue><venue>CEUR Workshop Proceedings</venue><volume>2971</volume><publisher>CEUR-WS.org</publisher><year>2021</year><type>Editorship</type><access>open</access><key>conf/vldb/2021phd</key><ee>https://ceur-ws.org/Vol-2971</ee><url>https://dblp.org/rec/conf/vldb/2021phd</url></info>
+<url>URL#1099597</url>
+</hit>
+</hits>
+</result>

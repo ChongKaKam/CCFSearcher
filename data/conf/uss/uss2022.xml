@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239416">:facetid:toc:\"db/conf/uss/uss2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">197.23</time>
+<completions total="1" computed="1" sent="1">
+<c sc="257" dc="257" oc="257" id="41057178">:facetid:toc:db/conf/uss/uss2022.bht</c>
+</completions>
+<hits total="257" computed="257" sent="257" first="0">
+<hit score="1" id="626798">
+<info><authors><author pid="79/4489-1">Yufei Chen 0001</author><author pid="48/4825-1">Chao Shen 0001</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Teacher Model Fingerprinting Attacks Against Transfer Learning.</title><venue>USENIX Security Symposium</venue><pages>3593-3610</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/000100022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yufei</ee><url>https://dblp.org/rec/conf/uss/000100022</url></info>
+<url>URL#626798</url>
+</hit>
+<hit score="1" id="626799">
+<info><authors><author pid="90/545-1">Zhikun Zhang 0001</author><author pid="50/6996-32">Min Chen 0032</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="14/4412">Yun Shen</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>Inference Attacks Against Graph Neural Networks.</title><venue>USENIX Security Symposium</venue><pages>4543-4560</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/000100S022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zhikun</ee><url>https://dblp.org/rec/conf/uss/000100S022</url></info>
+<url>URL#626799</url>
+</hit>
+<hit score="1" id="626800">
+<info><authors><author pid="168/6451-1">Jiafan Wang 0001</author><author pid="c/ShermanSMChow">Sherman S. M. Chow</author></authors><title>Omnes pro uno: Practical Multi-Writer Encrypted Database.</title><venue>USENIX Security Symposium</venue><pages>2371-2388</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001C22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wang-jiafan</ee><url>https://dblp.org/rec/conf/uss/0001C22</url></info>
+<url>URL#626800</url>
+</hit>
+<hit score="1" id="626801">
+<info><authors><author pid="68/2052-1">Lei Xue 0001</author><author pid="14/3968">Yangyang Liu</author><author pid="29/10591">Tianqi Li</author><author pid="201/9069">Kaifa Zhao</author><author pid="10/3844">Jianfeng Li</author><author pid="23/7122-2">Le Yu 0002</author><author pid="53/1565">Xiapu Luo</author><author pid="15/7381">Yajin Zhou</author><author pid="64/1147">Guofei Gu</author></authors><title>SAID: State-aware Defense Against Injection Attacks on In-vehicle Network.</title><venue>USENIX Security Symposium</venue><pages>1921-1938</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001LLZLYLZG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/xue-lei</ee><url>https://dblp.org/rec/conf/uss/0001LLZLYLZG22</url></info>
+<url>URL#626801</url>
+</hit>
+<hit score="1" id="626802">
+<info><authors><author pid="133/5336-1">Chong Xiang 0001</author><author pid="208/0825">Saeed Mahloujifar</author><author pid="39/6266">Prateek Mittal</author></authors><title>PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier.</title><venue>USENIX Security Symposium</venue><pages>2065-2082</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001MM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/xiang</ee><url>https://dblp.org/rec/conf/uss/0001MM22</url></info>
+<url>URL#626802</url>
+</hit>
+<hit score="1" id="626803">
+<info><authors><author pid="197/6723-1">Jinyu Gu 0001</author><author pid="301/6313">Bojun Zhu</author><author pid="82/2094">Mingyu Li</author><author pid="221/3459">Wentai Li</author><author pid="01/615">Yubin Xia</author><author pid="31/6601-1">Haibo Chen 0001</author></authors><title>A Hardware-Software Co-design for Efficient Intra-Enclave Isolation.</title><venue>USENIX Security Symposium</venue><pages>3129-3145</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001ZLLX022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/gu-jinyu</ee><url>https://dblp.org/rec/conf/uss/0001ZLLX022</url></info>
+<url>URL#626803</url>
+</hit>
+<hit score="1" id="626804">
+<info><authors><author pid="238/0150-1">Yiping Ma 0001</author><author pid="40/4551">Ke Zhong</author><author pid="r/TalRabin">Tal Rabin</author><author pid="132/8480">Sebastian Angel</author></authors><title>Incremental Offline/Online PIR.</title><venue>USENIX Security Symposium</venue><pages>1741-1758</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0001ZRA22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/ma</ee><url>https://dblp.org/rec/conf/uss/0001ZRA22</url></info>
+<url>URL#626804</url>
+</hit>
+<hit score="1" id="626805">
+<info><authors><author pid="43/8066-4">Xiaojie Guo 0004</author><author pid="70/961">Ye Han</author><author pid="22/8078">Zheli Liu</author><author pid="99/4292">Ding Wang</author><author pid="230/3262">Yan Jia</author><author pid="48/1097-2">Jin Li 0002</author></authors><title>Birds of a Feather Flock Together: How Set Bias Helps to Deanonymize You via Revealed Intersection Sizes.</title><venue>USENIX Security Symposium</venue><pages>1487-1504</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0004HLWJ022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/guo</ee><url>https://dblp.org/rec/conf/uss/0004HLWJ022</url></info>
+<url>URL#626805</url>
+</hit>
+<hit score="1" id="626806">
+<info><authors><author pid="53/8484-4">Daniel Günther 0004</author><author pid="296/2518">Maurice Heymann</author><author pid="31/1735">Benny Pinkas</author><author pid="06/3872-3">Thomas Schneider 0003</author></authors><title>GPU-accelerated PIR with Client-Independent Preprocessing for Large-Scale Applications.</title><venue>USENIX Security Symposium</venue><pages>1759-1776</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0004HP022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/gunther</ee><url>https://dblp.org/rec/conf/uss/0004HP022</url></info>
+<url>URL#626806</url>
+</hit>
+<hit score="1" id="626807">
+<info><authors><author pid="82/6141-5">Hongbin Liu 0005</author><author pid="24/5124">Jinyuan Jia</author><author pid="03/9437">Neil Zhenqiang Gong</author></authors><title>PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning.</title><venue>USENIX Security Symposium</venue><pages>3629-3645</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0005JG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/liu-hongbin</ee><url>https://dblp.org/rec/conf/uss/0005JG22</url></info>
+<url>URL#626807</url>
+</hit>
+<hit score="1" id="626808">
+<info><authors><author pid="64/5725-18">Long Chen 0018</author><author pid="61/7498-7">Ya-Nan Li 0007</author><author pid="17/2212-5">Qiang Tang 0005</author><author pid="y/MotiYung">Moti Yung</author></authors><title>End-to-Same-End Encryption: Modularly Augmenting an App with an Efficient, Portable, and Blind Cloud Storage.</title><venue>USENIX Security Symposium</venue><pages>2353-2370</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/001800Y22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-long</ee><url>https://dblp.org/rec/conf/uss/001800Y22</url></info>
+<url>URL#626808</url>
+</hit>
+<hit score="1" id="626809">
+<info><authors><author pid="52/3194-46">Fei Wang 0046</author><author pid="16/5608">Jianliang Wu</author><author pid="167/0416">Yuhong Nan</author><author pid="138/6356">Yousra Aafer</author><author pid="95/3760-1">Xiangyu Zhang 0001</author><author pid="59/5539">Dongyan Xu</author><author pid="31/1273">Mathias Payer</author></authors><title>ProFactory: Improving IoT Security via Formalized Protocol Customization.</title><venue>USENIX Security Symposium</venue><pages>3879-3896</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0046WNA0XP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wang-fei</ee><url>https://dblp.org/rec/conf/uss/0046WNA0XP22</url></info>
+<url>URL#626809</url>
+</hit>
+<hit score="1" id="626810">
+<info><authors><author pid="97/8704-96">Lei Zhang 0096</author><author pid="191/1165">Zhibo Zhang</author><author pid="331/2675">Ancong Liu</author><author pid="28/8733">Yinzhi Cao</author><author pid="96/6053-1">Xiaohan Zhang 0001</author><author pid="28/3921">Yanjun Chen</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="153/5855">Guangliang Yang 0001</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Identity Confusion in WebView-based Mobile App-in-app Ecosystems.</title><venue>USENIX Security Symposium</venue><pages>1597-1613</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/0096ZLC0C0Y022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-lei</ee><url>https://dblp.org/rec/conf/uss/0096ZLC0C0Y022</url></info>
+<url>URL#626810</url>
+</hit>
+<hit score="1" id="626813">
+<info><authors><author pid="207/6255">Shimaa Ahmed</author><author pid="213/8587">Ilia Shumailov</author><author pid="162/1405">Nicolas Papernot</author><author pid="97/535">Kassem Fawaz</author></authors><title>Towards More Robust Keyword Spotting for Voice Assistants.</title><venue>USENIX Security Symposium</venue><pages>2655-2672</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AhmedSPF22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/ahmed</ee><url>https://dblp.org/rec/conf/uss/AhmedSPF22</url></info>
+<url>URL#626813</url>
+</hit>
+<hit score="1" id="626814">
+<info><authors><author pid="166/2137">Bushra A. AlAhmadi</author><author pid="193/3111">Louise Axon</author><author pid="87/2623">Ivan Martinovic</author></authors><title>99% False Positives: A Qualitative Study of SOC Analysts&apos; Perspectives on Security Alarms.</title><venue>USENIX Security Symposium</venue><pages>2783-2800</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlAhmadiAM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/alahmadi</ee><url>https://dblp.org/rec/conf/uss/AlAhmadiAM22</url></info>
+<url>URL#626814</url>
+</hit>
+<hit score="1" id="626815">
+<info><authors><author pid="207/2188">Kinan Dak Albab</author><author pid="211/5012">Rawane Issa</author><author pid="59/6288">Mayank Varia</author><author pid="61/5614">Kalman Graffi</author></authors><title>Batched Differentially Private Information Retrieval.</title><venue>USENIX Security Symposium</venue><pages>3327-3344</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlbabIVG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/albab</ee><url>https://dblp.org/rec/conf/uss/AlbabIVG22</url></info>
+<url>URL#626815</url>
+</hit>
+<hit score="1" id="626816">
+<info><authors><author pid="150/9442">Ange Albertini</author><author pid="86/10074">Thai Duong</author><author pid="38/1135">Shay Gueron</author><author pid="72/4913">Stefan Kölbl</author><author pid="54/10551">Atul Luykx</author><author pid="279/6099">Sophie Schmieg</author></authors><title>How to Abuse and Fix Authenticated Encryption Without Key Commitment.</title><venue>USENIX Security Symposium</venue><pages>3291-3308</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlbertiniDGKLS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/albertini</ee><url>https://dblp.org/rec/conf/uss/AlbertiniDGKLS22</url></info>
+<url>URL#626816</url>
+</hit>
+<hit score="1" id="626817">
+<info><authors><author pid="92/7397">Martin R. Albrecht</author><author pid="331/2490">Raphael Eikenberg</author><author pid="39/780">Kenneth G. Paterson</author></authors><title>Breaking Bridgefy, again: Adopting libsignal is not enough.</title><venue>USENIX Security Symposium</venue><pages>269-286</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlbrechtEP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/albrecht</ee><url>https://dblp.org/rec/conf/uss/AlbrechtEP22</url></info>
+<url>URL#626817</url>
+</hit>
+<hit score="1" id="626818">
+<info><authors><author pid="180/3056">Alejandro Cabrera Aldaya</author><author pid="25/1876">Billy Bob Brumley</author></authors><title>HyperDegrade: From GHz to MHz Effective CPU Frequencies.</title><venue>USENIX Security Symposium</venue><pages>2801-2818</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AldayaB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/aldaya</ee><url>https://dblp.org/rec/conf/uss/AldayaB22</url></info>
+<url>URL#626818</url>
+</hit>
+<hit score="1" id="626819">
+<info><authors><author pid="200/5775">Nikolaos Alexopoulos</author><author pid="326/8265">Manuel Brack</author><author pid="331/2622">Jan Philipp Wagner</author><author pid="150/8806">Tim Grube</author><author pid="m/MaxMuhlhauser">Max Mühlhäuser</author></authors><title>How Long Do Vulnerabilities Live in the Code? A Large-Scale Empirical Measurement Study on FOSS Vulnerability Lifetimes.</title><venue>USENIX Security Symposium</venue><pages>359-376</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AlexopoulosBWGM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/alexopoulos</ee><url>https://dblp.org/rec/conf/uss/AlexopoulosBWGM22</url></info>
+<url>URL#626819</url>
+</hit>
+<hit score="1" id="626820">
+<info><authors><author pid="227/8129">Esmerald Aliaj</author><author pid="173/5375">Ivan De Oliveira Nunes</author><author pid="08/1183">Gene Tsudik</author></authors><title>GAROTA: Generalized Active Root-Of-Trust Architecture (for Tiny Embedded Devices).</title><venue>USENIX Security Symposium</venue><pages>2243-2260</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AliajNT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/aliaj</ee><url>https://dblp.org/rec/conf/uss/AliajNT22</url></info>
+<url>URL#626820</url>
+</hit>
+<hit score="1" id="626821">
+<info><authors><author pid="132/8480">Sebastian Angel</author><author pid="93/1054">Andrew J. Blumberg</author><author pid="241/6379">Eleftherios Ioannidis</author><author pid="298/6428">Jess Woods</author></authors><title>Efficient Representation of Numerical Optimization Problems for SNARKs.</title><venue>USENIX Security Symposium</venue><pages>4273-4290</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/AngelBIW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/angel</ee><url>https://dblp.org/rec/conf/uss/AngelBIW22</url></info>
+<url>URL#626821</url>
+</hit>
+<hit score="1" id="626823">
+<info><authors><author pid="119/8218">Daniel Arp</author><author pid="149/3695">Erwin Quiring</author><author pid="223/5655">Feargus Pendlebury</author><author pid="205/4365">Alexander Warnecke</author><author pid="149/1452">Fabio Pierazzi</author><author pid="136/8406">Christian Wressnegger</author><author pid="95/5162">Lorenzo Cavallaro</author><author pid="64/4020">Konrad Rieck</author></authors><title>Dos and Don&apos;ts of Machine Learning in Computer Security.</title><venue>USENIX Security Symposium</venue><pages>3971-3988</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ArpQPWPWCR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/arp</ee><url>https://dblp.org/rec/conf/uss/ArpQPWPWCR22</url></info>
+<url>URL#626823</url>
+</hit>
+<hit score="1" id="626824">
+<info><authors><author pid="318/0975">Jinsheng Ba</author><author pid="91/7541">Marcel Böhme</author><author pid="182/1403">Zahra Mirzamomen</author><author pid="04/5884">Abhik Roychoudhury</author></authors><title>Stateful Greybox Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>3255-3272</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BaBMR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/ba</ee><url>https://dblp.org/rec/conf/uss/BaBMR22</url></info>
+<url>URL#626824</url>
+</hit>
+<hit score="1" id="626825">
+<info><authors><author pid="83/7954">Sangwook Bae</author><author pid="236/4147">Mincheol Son</author><author pid="62/10307">Dongkwan Kim</author><author pid="283/0238">CheolJun Park</author><author pid="137/1560">Jiho Lee</author><author pid="09/3668">Sooel Son</author><author pid="20/6892">Yongdae Kim</author></authors><title>Watching the Watchers: Practical Video Identification Attack in LTE Networks.</title><venue>USENIX Security Symposium</venue><pages>1307-1324</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BaeSKPLSK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bae</ee><url>https://dblp.org/rec/conf/uss/BaeSKPLSK22</url></info>
+<url>URL#626825</url>
+</hit>
+<hit score="1" id="626826">
+<info><authors><author pid="294/0161">David G. Balash</author><author pid="01/3193">Xiaoyuan Wu</author><author pid="301/5815">Miles Grant</author><author pid="203/1639">Irwin Reyes</author><author pid="94/1554">Adam J. Aviv</author></authors><title>Security and Privacy Perceptions of Third-Party Application Access for Google Accounts.</title><venue>USENIX Security Symposium</venue><pages>3397-3414</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BalashWGRA22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/balash</ee><url>https://dblp.org/rec/conf/uss/BalashWGRA22</url></info>
+<url>URL#626826</url>
+</hit>
+<hit score="1" id="626828">
+<info><authors><author pid="247/4778">Enrico Barberis</author><author pid="224/2335">Pietro Frigo</author><author pid="185/2352">Marius Muench</author><author pid="91/800">Herbert Bos</author><author pid="75/8194">Cristiano Giuffrida</author></authors><title>Branch History Injection: On the Effectiveness of Hardware Mitigations Against Cross-Privilege Spectre-v2 Attacks.</title><venue>USENIX Security Symposium</venue><pages>971-988</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BarberisFMBG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/barberis</ee><url>https://dblp.org/rec/conf/uss/BarberisFMBG22</url></info>
+<url>URL#626828</url>
+</hit>
+<hit score="1" id="626829">
+<info><authors><author pid="b/DanielJBernstein">Daniel J. Bernstein</author><author pid="25/1876">Billy Bob Brumley</author><author pid="00/7017">Ming-Shing Chen</author><author pid="54/10083">Nicola Tuveri</author></authors><title>OpenSSLNTRU: Faster post-quantum TLS key exchange.</title><venue>USENIX Security Symposium</venue><pages>845-862</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BernsteinBCT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bernstein</ee><url>https://dblp.org/rec/conf/uss/BernsteinBCT22</url></info>
+<url>URL#626829</url>
+</hit>
+<hit score="1" id="626830">
+<info><authors><author pid="331/2323">Abhishek Bhaskar</author><author pid="61/1749">Paul Pearce</author></authors><title>Many Roads Lead To Rome: How Packet Headers Influence DNS Censorship Measurement.</title><venue>USENIX Security Symposium</venue><pages>449-464</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BhaskarP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bhaskar</ee><url>https://dblp.org/rec/conf/uss/BhaskarP22</url></info>
+<url>URL#626830</url>
+</hit>
+<hit score="1" id="626831">
+<info><authors><author pid="237/9617">Atri Bhattacharyya</author><author pid="331/2576">Uros Tesic</author><author pid="31/1273">Mathias Payer</author></authors><title>Midas: Systematic Kernel TOCTTOU Protection.</title><venue>USENIX Security Symposium</venue><pages>107-124</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BhattacharyyaTP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bhattacharyya</ee><url>https://dblp.org/rec/conf/uss/BhattacharyyaTP22</url></info>
+<url>URL#626831</url>
+</hit>
+<hit score="1" id="626832">
+<info><authors><author pid="331/2792">Veroniek Binkhorst</author><author pid="150/5174">Tobias Fiebig</author><author pid="128/4803">Katharina Krombholz</author><author pid="24/3988">Wolter Pieters</author><author pid="139/6939">Katsiaryna Labunets</author></authors><title>Security at the End of the Tunnel: The Anatomy of VPN Mental Models Among Experts and Non-Experts in a Corporate Context.</title><venue>USENIX Security Symposium</venue><pages>3433-3450</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BinkhorstFKPL22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/binkhorst</ee><url>https://dblp.org/rec/conf/uss/BinkhorstFKPL22</url></info>
+<url>URL#626832</url>
+</hit>
+<hit score="1" id="626833">
+<info><authors><author pid="224/9340">Henry Birge-Lee</author><author pid="274/7250">Joel Wanner</author><author pid="282/8466">Grace H. Cimaszewski</author><author pid="46/4109">Jonghoon Kwon</author><author pid="56/4499-54">Liang Wang 0054</author><author pid="279/2370">François Wirz</author><author pid="39/6266">Prateek Mittal</author><author pid="16/6873">Adrian Perrig</author><author pid="139/9789">Yixin Sun</author></authors><title>Creating a Secure Underlay for the Internet.</title><venue>USENIX Security Symposium</venue><pages>2601-2618</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Birge-LeeWCK0WM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/birge-lee</ee><url>https://dblp.org/rec/conf/uss/Birge-LeeWCK0WM22</url></info>
+<url>URL#626833</url>
+</hit>
+<hit score="1" id="626834">
+<info><authors><author pid="183/1275">Logan Blue</author><author pid="250/9724">Kevin Warren</author><author pid="205/2013">Hadi Abdullah</author><author pid="304/8162">Cassidy Gibson</author><author pid="68/5101">Luis Vargas</author><author pid="331/2213">Jessica O&apos;Dell</author><author pid="82/1935">Kevin R. B. Butler</author><author pid="14/3295">Patrick Traynor</author></authors><title>Who Are You (I Really Wanna Know)? Detecting Audio DeepFakes Through Vocal Tract Reconstruction.</title><venue>USENIX Security Symposium</venue><pages>2691-2708</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BlueWAGVOBT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/blue</ee><url>https://dblp.org/rec/conf/uss/BlueWAGVOBT22</url></info>
+<url>URL#626834</url>
+</hit>
+<hit score="1" id="626835">
+<info><authors><author pid="331/2515">Marina Sanusi Bohuk</author><author pid="208/1920">Mazharul Islam</author><author pid="260/8995">Suleman Ahmad</author><author pid="s/MichaelMSwift">Michael M. Swift</author><author pid="26/3399">Thomas Ristenpart</author><author pid="03/9962">Rahul Chatterjee 0001</author></authors><title>Gossamer: Securely Measuring Password-based Logins.</title><venue>USENIX Security Symposium</venue><pages>1867-1884</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BohukIASR022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/sanusi-bohuk</ee><url>https://dblp.org/rec/conf/uss/BohukIASR022</url></info>
+<url>URL#626835</url>
+</hit>
+<hit score="1" id="626836">
+<info><authors><author pid="331/2038">Dino Bollinger</author><author pid="233/8369">Karel Kubícek</author><author pid="150/0652">Carlos Cotrini</author><author pid="b/DavidABasin">David A. Basin</author></authors><title>Automating Cookie Consent and GDPR Violation Detection.</title><venue>USENIX Security Symposium</venue><pages>2893-2910</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BollingerKCB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bollinger</ee><url>https://dblp.org/rec/conf/uss/BollingerKCB22</url></info>
+<url>URL#626836</url>
+</hit>
+<hit score="1" id="626837">
+<info><authors><author pid="239/8466">Pietro Borrello</author><author pid="280/4649">Andreas Kogler</author><author pid="223/9857">Martin Schwarzl</author><author pid="172/1127">Moritz Lipp</author><author pid="166/1494">Daniel Gruss</author><author pid="08/1117-1">Michael Schwarz 0001</author></authors><title>ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture.</title><venue>USENIX Security Symposium</venue><pages>3917-3934</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BorrelloKSLG022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/borrello</ee><url>https://dblp.org/rec/conf/uss/BorrelloKSLG022</url></info>
+<url>URL#626837</url>
+</hit>
+<hit score="1" id="626838">
+<info><authors><author pid="02/7441">Joppe W. Bos</author><author pid="170/3652">Joost Renes</author><author pid="150/0066">Christine van Vredendaal</author></authors><title>Post-Quantum Cryptography with Contemporary Co-Processors: Beyond Kronecker, Schönhage-Strassen &amp; Nussbaumer.</title><venue>USENIX Security Symposium</venue><pages>3683-3697</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BosRV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bos</ee><url>https://dblp.org/rec/conf/uss/BosRV22</url></info>
+<url>URL#626838</url>
+</hit>
+<hit score="1" id="626839">
+<info><authors><author pid="258/9557">Jay Bosamiya</author><author pid="290/4168">Wen Shih Lim</author><author pid="49/6324">Bryan Parno</author></authors><title>Provably-Safe Multilingual Software Sandboxing using WebAssembly.</title><venue>USENIX Security Symposium</venue><pages>1975-1992</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BosamiyaLP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bosamiya</ee><url>https://dblp.org/rec/conf/uss/BosamiyaLP22</url></info>
+<url>URL#626839</url>
+</hit>
+<hit score="1" id="626840">
+<info><authors><author pid="272/7083">Xander Bouwman</author><author pid="221/3626">Victor Le Pochat</author><author pid="36/9959">Pawel Foremski</author><author pid="147/2244">Tom van Goethem</author><author pid="22/7256">Carlos Hernandez Gañán</author><author pid="76/5048">Giovane C. M. Moura</author><author pid="182/6692">Samaneh Tajalizadehkhoob</author><author pid="13/86">Wouter Joosen</author><author pid="17/7444">Michel van Eeten</author></authors><title>Helping hands: Measuring the impact of a large threat intelligence sharing community.</title><venue>USENIX Security Symposium</venue><pages>1149-1165</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BouwmanPFGGMTJE22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bouwman</ee><url>https://dblp.org/rec/conf/uss/BouwmanPFGGMTJE22</url></info>
+<url>URL#626840</url>
+</hit>
+<hit score="1" id="626841">
+<info><authors><author pid="294/4488">Alexander Bulekov</author><author pid="331/2331">Bandan Das</author><author pid="136/6169">Stefan Hajnoczi</author><author pid="27/3108">Manuel Egele</author></authors><title>Morphuzz: Bending (Input) Space to Fuzz Virtual Devices.</title><venue>USENIX Security Symposium</venue><pages>1221-1238</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BulekovDHE22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/bulekov</ee><url>https://dblp.org/rec/conf/uss/BulekovDHE22</url></info>
+<url>URL#626841</url>
+</hit>
+<hit score="1" id="626842">
+<info><authors><author pid="168/2351">Ben Burgess</author><author pid="238/4577">Avi Ginsberg</author><author pid="f/EdwardWFelten">Edward W. Felten</author><author pid="170/3520">Shaanan Cohney</author></authors><title>Watching the watchers: bias and vulnerability in remote proctoring software.</title><venue>USENIX Security Symposium</venue><pages>571-588</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BurgessGFC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/burgess</ee><url>https://dblp.org/rec/conf/uss/BurgessGFC22</url></info>
+<url>URL#626842</url>
+</hit>
+<hit score="1" id="626843">
+<info><authors><author pid="331/2570">Kevin Burk</author><author pid="123/3252">Fabio Pagani</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>Decomperson: How Humans Decompile and What We Can Learn From It.</title><venue>USENIX Security Symposium</venue><pages>2765-2782</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/BurkPKV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/burk</ee><url>https://dblp.org/rec/conf/uss/BurkPKV22</url></info>
+<url>URL#626843</url>
+</hit>
+<hit score="1" id="626844">
+<info><authors><author pid="205/3630">Matteo Cardaioli</author><author pid="202/9073">Stefano Cecconello</author><author pid="82/4386">Mauro Conti</author><author pid="10/4730">Simone Milani</author><author pid="50/10230">Stjepan Picek</author><author pid="224/4536">Eugen Saraci</author></authors><title>Hand Me Your PIN! Inferring ATM PINs of Users Typing with a Covered Hand.</title><venue>USENIX Security Symposium</venue><pages>1687-1704</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CardaioliCCMPS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/cardaioli</ee><url>https://dblp.org/rec/conf/uss/CardaioliCCMPS22</url></info>
+<url>URL#626844</url>
+</hit>
+<hit score="1" id="626845">
+<info><authors><author pid="255/2388">David Cerdeira</author><author pid="97/5724">José Martins</author><author pid="07/967-1">Nuno Santos 0001</author><author pid="170/0331">Sandro Pinto 0001</author></authors><title>ReZone: Disarming TrustZone with TEE Privilege Reduction.</title><venue>USENIX Security Symposium</venue><pages>2261-2279</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CerdeiraM0022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/cerdeira</ee><url>https://dblp.org/rec/conf/uss/CerdeiraM0022</url></info>
+<url>URL#626845</url>
+</hit>
+<hit score="1" id="626846">
+<info><authors><author pid="227/9110">Javad Ghareh Chamani</author><author pid="18/9002">Dimitrios Papadopoulos 0001</author><author pid="322/3466">Mohammadamin Karbasforushan</author><author pid="181/5758">Ioannis Demertzis</author></authors><title>Dynamic Searchable Encryption with Optimal Search in the Presence of Deletions.</title><venue>USENIX Security Symposium</venue><pages>2425-2442</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Chamani0KD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chamani</ee><url>https://dblp.org/rec/conf/uss/Chamani0KD22</url></info>
+<url>URL#626846</url>
+</hit>
+<hit score="1" id="626847">
+<info><authors><author pid="77/5616">Nishanth Chandran</author><author pid="66/11477-1">Divya Gupta 0001</author><author pid="208/0827">Sai Lakshmi Bhavana Obbattu</author><author pid="179/9900">Akash Shah</author></authors><title>SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost.</title><venue>USENIX Security Symposium</venue><pages>1361-1378</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Chandran0OS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chandran</ee><url>https://dblp.org/rec/conf/uss/Chandran0OS22</url></info>
+<url>URL#626847</url>
+</hit>
+<hit score="1" id="626848">
+<info><authors><author pid="281/6881">Yunang Chen</author><author pid="33/3099-11">Yue Gao 0011</author><author pid="304/6781">Nick Ceccio</author><author pid="03/9962">Rahul Chatterjee 0001</author><author pid="97/535">Kassem Fawaz</author><author pid="16/10817">Earlence Fernandes</author></authors><title>Experimental Security Analysis of the App Model in Business Collaboration Platforms.</title><venue>USENIX Security Symposium</venue><pages>2011-2028</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Chen0C0FF22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yunang-experimental</ee><url>https://dblp.org/rec/conf/uss/Chen0C0FF22</url></info>
+<url>URL#626848</url>
+</hit>
+<hit score="1" id="626849">
+<info><authors><author pid="281/6881">Yunang Chen</author><author pid="222/8115">Mohannad Alhanahnah</author><author pid="s/AndreiSabelfeld">Andrei Sabelfeld</author><author pid="03/9962">Rahul Chatterjee 0001</author><author pid="16/10817">Earlence Fernandes</author></authors><title>Practical Data Access Minimization in Trigger-Action Platforms.</title><venue>USENIX Security Symposium</venue><pages>2929-2945</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenAS0F22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yunang-practical</ee><url>https://dblp.org/rec/conf/uss/ChenAS0F22</url></info>
+<url>URL#626849</url>
+</hit>
+<hit score="1" id="626850">
+<info><authors><author pid="164/3860">Ju Chen</author><author pid="57/10300">Wookhyun Han</author><author pid="248/4507">Mingjun Yin</author><author pid="331/2642">Haochen Zeng</author><author pid="69/6818">Chengyu Song</author><author pid="45/7986">Byoungyoung Lee</author><author pid="77/6178-1">Heng Yin 0001</author><author pid="45/4154">Insik Shin</author></authors><title>SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis.</title><venue>USENIX Security Symposium</venue><pages>2531-2548</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenHYZSLYS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-ju</ee><url>https://dblp.org/rec/conf/uss/ChenHYZSLYS22</url></info>
+<url>URL#626850</url>
+</hit>
+<hit score="1" id="626851">
+<info><authors><author pid="238/0932">Qibin Chen</author><author pid="223/2758">Jeremy Lacomis</author><author pid="21/8302">Edward J. Schwartz</author><author pid="93/4573">Claire Le Goues</author><author pid="03/8155">Graham Neubig</author><author pid="43/10504">Bogdan Vasilescu</author></authors><title>Augmenting Decompiler Output with Learned Variable Names and Types.</title><venue>USENIX Security Symposium</venue><pages>4327-4343</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenLSGNV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-qibin</ee><url>https://dblp.org/rec/conf/uss/ChenLSGNV22</url></info>
+<url>URL#626851</url>
+</hit>
+<hit score="1" id="626852">
+<info><authors><author pid="55/6958">Yuan Chen</author><author pid="118/4502">Jiaqi Li</author><author pid="189/5198">Guorui Xu</author><author pid="15/7381">Yajin Zhou</author><author pid="95/6543-4">Zhi Wang 0004</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="20/6179-1">Kui Ren 0001</author></authors><title>SGXLock: Towards Efficiently Establishing Mutual Distrust Between Host Application and Enclave for SGX.</title><venue>USENIX Security Symposium</venue><pages>4129-4146</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenLXZ00022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yuan</ee><url>https://dblp.org/rec/conf/uss/ChenLXZ00022</url></info>
+<url>URL#626852</url>
+</hit>
+<hit score="1" id="626853">
+<info><authors><author pid="49/6574">Yi Chen</author><author pid="77/1147">Di Tang</author><author pid="226/0656">Yepeng Yao</author><author pid="205/3769">Mingming Zha</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="11/6389">Xiaozhong Liu</author><author pid="90/3951">Haixu Tang</author><author pid="272/7105">Dongfang Zhao 0010</author></authors><title>Seeing the Forest for the Trees: Understanding Security Hazards in the 3GPP Ecosystem through Intelligent Analysis on Change Requests.</title><venue>USENIX Security Symposium</venue><pages>17-34</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenTYZ0LT022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-yi</ee><url>https://dblp.org/rec/conf/uss/ChenTYZ0LT022</url></info>
+<url>URL#626853</url>
+</hit>
+<hit score="1" id="626854">
+<info><authors><author pid="05/1884">Guoxing Chen</author><author pid="77/3503">Yinqian Zhang</author></authors><title>MAGE: Mutual Attestation for a Group of Enclaves without Trusted Third Parties.</title><venue>USENIX Security Symposium</venue><pages>4095-4110</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChenZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chen-guoxing</ee><url>https://dblp.org/rec/conf/uss/ChenZ22</url></info>
+<url>URL#626854</url>
+</hit>
+<hit score="1" id="626855">
+<info><authors><author pid="160/9382">Giovanni Cherubin</author><author pid="14/7561">Rob Jansen</author><author pid="01/4825">Carmela Troncoso</author></authors><title>Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World.</title><venue>USENIX Security Symposium</venue><pages>753-770</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CherubinJT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/cherubin</ee><url>https://dblp.org/rec/conf/uss/CherubinJT22</url></info>
+<url>URL#626855</url>
+</hit>
+<hit score="1" id="626856">
+<info><authors><author pid="62/8336">Vincent Cheval</author><author pid="195/3195">Charlie Jacomme</author><author pid="k/SteveKremer">Steve Kremer</author><author pid="89/11274">Robert Künnemann</author></authors><title>SAPIC+: protocol verifiers of the world, unite!</title><venue>USENIX Security Symposium</venue><pages>3935-3952</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChevalJKK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/cheval</ee><url>https://dblp.org/rec/conf/uss/ChevalJKK22</url></info>
+<url>URL#626856</url>
+</hit>
+<hit score="1" id="626857">
+<info><authors><author pid="183/4920">Phakpoom Chinprutthiwong</author><author pid="312/6561">Jianwei Huang</author><author pid="64/1147">Guofei Gu</author></authors><title>SWAPP: A New Programmable Playground for Web Application Security.</title><venue>USENIX Security Symposium</venue><pages>2029-2046</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Chinprutthiwong22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chinprutthiwong</ee><url>https://dblp.org/rec/conf/uss/Chinprutthiwong22</url></info>
+<url>URL#626857</url>
+</hit>
+<hit score="1" id="626859">
+<info><authors><author pid="25/3543">Andrew Chu</author><author pid="331/2639">Arjun Arunasalam</author><author pid="202/6743">Muslum Ozgur Ozmen</author><author pid="143/2298">Z. Berkay Celik</author></authors><title>Behind the Tube: Exploitative Monetization of Content on YouTube.</title><venue>USENIX Security Symposium</venue><pages>2171-2188</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ChuAOC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/chu</ee><url>https://dblp.org/rec/conf/uss/ChuAOC22</url></info>
+<url>URL#626859</url>
+</hit>
+<hit score="1" id="626860">
+<info><authors><author pid="232/1974">Kaleigh Clary</author><author pid="20/9799">Emma Tosch</author><author pid="178/1987">Jeremiah Onaolapo</author><author pid="38/828">David D. Jensen</author></authors><title>Stick It to The Man: Correcting for Non-Cooperative Behavior of Subjects in Experiments on Social Networks.</title><venue>USENIX Security Symposium</venue><pages>3771-3788</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ClaryTOJ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/clary</ee><url>https://dblp.org/rec/conf/uss/ClaryTOJ22</url></info>
+<url>URL#626860</url>
+</hit>
+<hit score="1" id="626861">
+<info><authors><author pid="270/1642">Tobias Cloosters</author><author pid="331/2527">Johannes Willbold</author><author pid="h/ThorstenHolz">Thorsten Holz</author><author pid="73/7564">Lucas Davi</author></authors><title>SGXFuzz: Efficiently Synthesizing Nested Structures for SGX Enclave Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>3147-3164</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CloostersWHD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/cloosters</ee><url>https://dblp.org/rec/conf/uss/CloostersWHD22</url></info>
+<url>URL#626861</url>
+</hit>
+<hit score="1" id="626862">
+<info><authors><author pid="157/0152">Aloni Cohen</author></authors><title>Attacks on Deidentification&apos;s Defenses.</title><venue>USENIX Security Symposium</venue><pages>1469-1486</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Cohen22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/cohen</ee><url>https://dblp.org/rec/conf/uss/Cohen22</url></info>
+<url>URL#626862</url>
+</hit>
+<hit score="1" id="626863">
+<info><authors><author pid="146/6045">Kovila P. L. Coopamootoo</author><author pid="162/1901">Maryam Mehrnezhad</author><author pid="127/2330">Ehsan Toreini</author></authors><title>&quot;I feel invaded, annoyed, anxious and I may protect myself&quot;: Individuals&apos; Feelings about Online Tracking and their Protective Behaviour across Gender and Country.</title><venue>USENIX Security Symposium</venue><pages>287-304</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CoopamootooMT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/coopamootoo</ee><url>https://dblp.org/rec/conf/uss/CoopamootooMT22</url></info>
+<url>URL#626863</url>
+</hit>
+<hit score="1" id="626864">
+<info><authors><author pid="88/8709">Alejandro Cuevas</author><author pid="264/2681">Fieke Miedema</author><author pid="133/3572">Kyle Soska</author><author pid="c/NicolasChristin">Nicolas Christin</author><author pid="224/9337">Rolf van Wegberg</author></authors><title>Measurement by Proxy: On the Accuracy of Online Marketplace Measurements.</title><venue>USENIX Security Symposium</venue><pages>2153-2170</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/CuevasMSCW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/cuevas</ee><url>https://dblp.org/rec/conf/uss/CuevasMSCW22</url></info>
+<url>URL#626864</url>
+</hit>
+<hit score="1" id="626865">
+<info><authors><author pid="215/3493">Miles Dai</author><author pid="224/9301">Riccardo Paccagnella</author><author pid="331/2499">Miguel Gomez-Garcia</author><author pid="80/1983">John D. McCalpin</author><author pid="137/0590">Mengjia Yan 0001</author></authors><title>Don&apos;t Mesh Around: Side-Channel Attacks and Mitigations on Mesh Interconnects.</title><venue>USENIX Security Symposium</venue><pages>2857-2874</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DaiPGMY22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/dai</ee><url>https://dblp.org/rec/conf/uss/DaiPGMY22</url></info>
+<url>URL#626865</url>
+</hit>
+<hit score="1" id="626866">
+<info><authors><author pid="219/7484">Savino Dambra</author><author pid="165/2039">Iskander Sánchez-Rola</author><author pid="15/6037">Leyla Bilge</author><author pid="56/490">Davide Balzarotti</author></authors><title>When Sally Met Trackers: Web Tracking From the Users&apos; Perspective.</title><venue>USENIX Security Symposium</venue><pages>2189-2206</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DambraSBB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/dambra</ee><url>https://dblp.org/rec/conf/uss/DambraSBB22</url></info>
+<url>URL#626866</url>
+</hit>
+<hit score="1" id="626867">
+<info><authors><author pid="154/4512">Pubali Datta</author><author pid="251/3349">Isaac Polinsky</author><author pid="331/2710">Muhammad Adil Inam</author><author pid="126/3601">Adam Bates 0001</author><author pid="22/4463">William Enck</author></authors><title>ALASTOR: Reconstructing the Provenance of Serverless Intrusions.</title><venue>USENIX Security Symposium</venue><pages>2443-2460</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DattaPI0E22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/datta</ee><url>https://dblp.org/rec/conf/uss/DattaPI0E22</url></info>
+<url>URL#626867</url>
+</hit>
+<hit score="1" id="626868">
+<info><authors><author pid="220/2573">Gökçen Yilmaz Dayanikli</author><author pid="141/0814">Sourav Sinha</author><author pid="202/5665">Devaprakash Muniraj</author><author pid="73/1832">Ryan M. Gerdes</author><author pid="26/6376">Mazen Farhood</author><author pid="13/2750">Mani Mina</author></authors><title>Physical-Layer Attacks Against Pulse Width Modulation-Controlled Actuators.</title><venue>USENIX Security Symposium</venue><pages>953-970</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DayanikliSMGFM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/dayanikli</ee><url>https://dblp.org/rec/conf/uss/DayanikliSMGFM22</url></info>
+<url>URL#626868</url>
+</hit>
+<hit score="1" id="626871">
+<info><authors><author pid="268/8322">Maya Dotan</author><author pid="228/7799">Saar Tochner</author><author pid="92/4269">Aviv Zohar</author><author pid="84/7357">Yossi Gilad</author></authors><title>Twilight: A Differentially Private Payment Channel Network.</title><venue>USENIX Security Symposium</venue><pages>555-570</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DotanTZG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/dotan</ee><url>https://dblp.org/rec/conf/uss/DotanTZG22</url></info>
+<url>URL#626871</url>
+</hit>
+<hit score="1" id="626872">
+<info><authors><author pid="126/6581">Yufei Du</author><author pid="219/9076">Zhuojia Shen</author><author pid="208/7376">Komail Dharsee</author><author pid="00/5012-22">Jie Zhou 0022</author><author pid="17/9458">Robert J. Walls</author><author pid="03/2122">John Criswell</author></authors><title>Holistic Control-Flow Protection on Real-Time Embedded Systems with Kage.</title><venue>USENIX Security Symposium</venue><pages>2281-2298</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/DuSD0WC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/du</ee><url>https://dblp.org/rec/conf/uss/DuSD0WC22</url></info>
+<url>URL#626872</url>
+</hit>
+<hit score="1" id="626873">
+<info><authors><author pid="224/2019">Agnieszka Dutkowska-Zuk</author><author pid="222/1799">Austin Hounsel</author><author pid="331/2830">Amy Morrill</author><author pid="259/2395">Andre Xiong</author><author pid="c/MarshiniChetty">Marshini Chetty</author><author pid="87/840">Nick Feamster</author></authors><title>How and Why People Use Virtual Private Networks.</title><venue>USENIX Security Symposium</venue><pages>3451-3465</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Dutkowska-ZukHM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/dutkowska-zuk</ee><url>https://dblp.org/rec/conf/uss/Dutkowska-ZukHM22</url></info>
+<url>URL#626873</url>
+</hit>
+<hit score="1" id="626874">
+<info><authors><author pid="303/6604">Catherine Easdon</author><author pid="08/1117-1">Michael Schwarz 0001</author><author pid="223/9857">Martin Schwarzl</author><author pid="166/1494">Daniel Gruss</author></authors><title>Rapid Prototyping for Microarchitectural Attacks.</title><venue>USENIX Security Symposium</venue><pages>3861-3877</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Easdon0SG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/easdon</ee><url>https://dblp.org/rec/conf/uss/Easdon0SG22</url></info>
+<url>URL#626874</url>
+</hit>
+<hit score="1" id="626875">
+<info><authors><author pid="296/2087">Pengcheng Fang</author><author pid="29/5999-8">Peng Gao 0008</author><author pid="186/0772">Changlin Liu</author><author pid="44/2529">Erman Ayday</author><author pid="36/10085">Kangkook Jee</author><author pid="12/2633-6">Ting Wang 0006</author><author pid="07/4509">Yanfang (Fanny) Ye</author><author pid="69/11514">Zhuotao Liu</author><author pid="13/9656">Xusheng Xiao</author></authors><title>Back-Propagating System Dependency Impact for Attack Investigation.</title><venue>USENIX Security Symposium</venue><pages>2461-2478</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Fang0LAJ0YLX22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/fang</ee><url>https://dblp.org/rec/conf/uss/Fang0LAJ0YLX22</url></info>
+<url>URL#626875</url>
+</hit>
+<hit score="1" id="626877">
+<info><authors><author pid="53/8376">Xuewei Feng</author><author pid="181/2688-2">Qi Li 0002</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="31/8302">Zhiyun Qian</author><author pid="73/860">Gang Zhao</author><author pid="18/1267">Xiaohui Kuang</author><author pid="274/0756">Chuanpu Fu</author><author pid="181/2626-2">Ke Xu 0002</author></authors><title>Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks.</title><venue>USENIX Security Symposium</venue><pages>2619-2636</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Feng00QZKF022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/feng</ee><url>https://dblp.org/rec/conf/uss/Feng00QZKF022</url></info>
+<url>URL#626877</url>
+</hit>
+<hit score="1" id="626878">
+<info><authors><author pid="30/6251">Chong Fu</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="07/8388">Shouling Ji</author><author pid="50/415">Jinyin Chen</author><author pid="96/10278">Jingzheng Wu</author><author pid="47/401">Shanqing Guo</author><author pid="99/3847-11">Jun Zhou 0011</author><author pid="l/AlexXLiu">Alex X. Liu</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Label Inference Attacks Against Vertical Federated Learning.</title><venue>USENIX Security Symposium</venue><pages>1397-1414</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Fu0JCWG0L022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong</ee><url>https://dblp.org/rec/conf/uss/Fu0JCWG0L022</url></info>
+<url>URL#626878</url>
+</hit>
+<hit score="1" id="626879">
+<info><authors><author pid="238/1872">Qi-An Fu</author><author pid="183/0980">Yinpeng Dong</author><author pid="26/5371-6">Hang Su 0006</author><author pid="50/2644-1">Jun Zhu 0001</author><author pid="94/3019-8">Chao Zhang 0008</author></authors><title>AutoDA: Automated Decision-based Iterative Adversarial Attacks.</title><venue>USENIX Security Symposium</venue><pages>3557-3574</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/FuD00022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/fu-qi</ee><url>https://dblp.org/rec/conf/uss/FuD00022</url></info>
+<url>URL#626879</url>
+</hit>
+<hit score="1" id="626880">
+<info><authors><author pid="218/6805">Andrea Gadotti</author><author pid="217/2259">Florimond Houssiau</author><author pid="303/3273">Meenatchi Sundaram Muthu Selva Annamalai</author><author pid="75/7560">Yves-Alexandre de Montjoye</author></authors><title>Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple&apos;s Count Mean Sketch in Practice.</title><venue>USENIX Security Symposium</venue><pages>501-518</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GadottiHAM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/gadotti</ee><url>https://dblp.org/rec/conf/uss/GadottiHAM22</url></info>
+<url>URL#626880</url>
+</hit>
+<hit score="1" id="626881">
+<info><authors><author pid="270/8889">Matheus E. Garbelini</author><author pid="274/4313">Vaibhav Bedi</author><author pid="21/7660-1">Sudipta Chattopadhyay 0001</author><author pid="46/3348">Sumei Sun</author><author pid="23/1245">Ernest Kurniawan</author></authors><title>BrakTooth: Causing Havoc on Bluetooth Link Manager via Directed Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>1025-1042</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GarbeliniB0SK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/garbelini</ee><url>https://dblp.org/rec/conf/uss/GarbeliniB0SK22</url></info>
+<url>URL#626881</url>
+</hit>
+<hit score="1" id="626882">
+<info><authors><author pid="239/7899">Christine Geeng</author><author pid="89/8318">Mike Harris</author><author pid="141/9244">Elissa M. Redmiles</author><author pid="23/2758">Franziska Roesner</author></authors><title>&quot;Like Lesbians Walking the Perimeter&quot;: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice.</title><venue>USENIX Security Symposium</venue><pages>305-322</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GeengHRR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/geeng</ee><url>https://dblp.org/rec/conf/uss/GeengHRR22</url></info>
+<url>URL#626882</url>
+</hit>
+<hit score="1" id="626883">
+<info><authors><author pid="98/8283">Daniel Genkin</author><author pid="331/2343">Noam Nissan</author><author pid="180/8190">Roei Schuster</author><author pid="t/EranTromer">Eran Tromer</author></authors><title>Lend Me Your Ear: Passive Remote Physical Side Channels on PCs.</title><venue>USENIX Security Symposium</venue><pages>4437-4454</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GenkinNST22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/genkin</ee><url>https://dblp.org/rec/conf/uss/GenkinNST22</url></info>
+<url>URL#626883</url>
+</hit>
+<hit score="1" id="626884">
+<info><authors><author pid="212/6725">Lukas Giner</author><author pid="280/4649">Andreas Kogler</author><author pid="230/4065">Claudio Canella</author><author pid="08/1117-1">Michael Schwarz 0001</author><author pid="166/1494">Daniel Gruss</author></authors><title>Repurposing Segmentation as a Practical LVI-NULL Mitigation in SGX.</title><venue>USENIX Security Symposium</venue><pages>3111-3127</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GinerKC0G22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/giner</ee><url>https://dblp.org/rec/conf/uss/GinerKC0G22</url></info>
+<url>URL#626884</url>
+</hit>
+<hit score="1" id="626885">
+<info><authors><author pid="131/7172">Olga Gkountouna</author><author pid="63/4123">Katerina Doka</author><author pid="59/4372">Mingqiang Xue</author><author pid="13/2139">Jianneng Cao</author><author pid="08/5342">Panagiotis Karras</author></authors><title>One-off Disclosure Control by Heterogeneous Generalization.</title><venue>USENIX Security Symposium</venue><pages>3363-3377</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GkountounaDXCK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/gkountouna</ee><url>https://dblp.org/rec/conf/uss/GkountounaDXCK22</url></info>
+<url>URL#626885</url>
+</hit>
+<hit score="1" id="626886">
+<info><authors><author pid="192/6848">Sigmund Albert Gorski III</author><author pid="218/1644">Seaver Thorn</author><author pid="22/4463">William Enck</author><author pid="91/8378">Haining Chen</author></authors><title>FReD: Identifying File Re-Delegation in Android System Services.</title><venue>USENIX Security Symposium</venue><pages>1525-1542</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GorskiTEC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/gorski</ee><url>https://dblp.org/rec/conf/uss/GorskiTEC22</url></info>
+<url>URL#626886</url>
+</hit>
+<hit score="1" id="626887">
+<info><authors><author pid="326/7403">Michele Grisafi</author><author pid="02/5804">Mahmoud Ammar</author><author pid="83/563">Marco Roveri</author><author pid="c/BrunoCrispo">Bruno Crispo</author></authors><title>PISTIS: Trusted Computing Architecture for Low-end Embedded Systems.</title><venue>USENIX Security Symposium</venue><pages>3843-3860</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GrisafiARC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/grisafi</ee><url>https://dblp.org/rec/conf/uss/GrisafiARC22</url></info>
+<url>URL#626887</url>
+</hit>
+<hit score="1" id="626888">
+<info><authors><author pid="139/2372">Paul Grubbs</author><author pid="256/9241">Arasu Arun</author><author pid="147/0497">Ye Zhang</author><author pid="27/3087">Joseph Bonneau</author><author pid="00/2879">Michael Walfish</author></authors><title>Zero-Knowledge Middleboxes.</title><venue>USENIX Security Symposium</venue><pages>4255-4272</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GrubbsAZBW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/grubbs</ee><url>https://dblp.org/rec/conf/uss/GrubbsAZBW22</url></info>
+<url>URL#626888</url>
+</hit>
+<hit score="1" id="626889">
+<info><authors><author pid="06/6808">Fangming Gu</author><author pid="157/1827">Qingli Guo</author><author pid="57/1586">Lian Li</author><author pid="140/5462">Zhiniang Peng</author><author pid="99/2649">Wei Lin</author><author pid="92/1807">Xiaobo Yang</author><author pid="33/10782">Xiaorui Gong</author></authors><title>COMRace: Detecting Data Race Vulnerabilities in COM Objects.</title><venue>USENIX Security Symposium</venue><pages>3019-3036</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/GuGLPLYG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/gu-fangming</ee><url>https://dblp.org/rec/conf/uss/GuGLPLYG22</url></info>
+<url>URL#626889</url>
+</hit>
+<hit score="1" id="626890">
+<info><authors><author pid="h/JAlexHalderman">J. Alex Halderman</author></authors><title>The Antrim County 2020 Election Incident: An Independent Forensic Investigation.</title><venue>USENIX Security Symposium</venue><pages>589-605</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Halderman22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/halderman</ee><url>https://dblp.org/rec/conf/uss/Halderman22</url></info>
+<url>URL#626890</url>
+</hit>
+<hit score="1" id="626891">
+<info><authors><author pid="199/2049">R. Spencer Hallyburton</author><author pid="204/1178">Yupei Liu</author><author pid="207/6576">Yulong Cao</author><author pid="91/584">Z. Morley Mao</author><author pid="74/7446">Miroslav Pajic</author></authors><title>Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles.</title><venue>USENIX Security Symposium</venue><pages>1903-1920</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HallyburtonLCMP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/hallyburton</ee><url>https://dblp.org/rec/conf/uss/HallyburtonLCMP22</url></info>
+<url>URL#626891</url>
+</hit>
+<hit score="1" id="626892">
+<info><authors><author pid="27/4390">Yi Han</author><author pid="51/9597">Matthew Chan</author><author pid="231/1408">Zahra Aref</author><author pid="32/7125">Nils Ole Tippenhauer</author><author pid="89/4316">Saman A. Zonouz</author></authors><title>Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring.</title><venue>USENIX Security Symposium</venue><pages>661-678</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HanCATZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/han</ee><url>https://dblp.org/rec/conf/uss/HanCATZ22</url></info>
+<url>URL#626892</url>
+</hit>
+<hit score="1" id="626893">
+<info><authors><author pid="331/2352">Michael Harrity</author><author pid="186/5066">Kevin Bock 0001</author><author pid="331/2449">Frederick Sell</author><author pid="03/6428">Dave Levin</author></authors><title>GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies.</title><venue>USENIX Security Symposium</venue><pages>465-483</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Harrity0SL22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/harrity</ee><url>https://dblp.org/rec/conf/uss/Harrity0SL22</url></info>
+<url>URL#626893</url>
+</hit>
+<hit score="1" id="626894">
+<info><authors><author pid="218/2644">Ruiwen He</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="04/8388">Xinfeng Li</author><author pid="63/4074">Yushi Cheng</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>&quot;OK, Siri&quot; or &quot;Hey, Google&quot;: Evaluating Voiceprint Distinctiveness via Content-based PROLE Score.</title><venue>USENIX Security Symposium</venue><pages>1131-1148</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/He0LCX22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/he-ruiwen</ee><url>https://dblp.org/rec/conf/uss/He0LCX22</url></info>
+<url>URL#626894</url>
+</hit>
+<hit score="1" id="626895">
+<info><authors><author pid="42/963">Liang He</author><author pid="70/2543-4">Hong Hu 0004</author><author pid="46/3714">Purui Su</author><author pid="60/3060-1">Yan Cai 0001</author><author pid="99/4951">Zhenkai Liang</author></authors><title>FreeWill: Automatically Diagnosing Use-after-free Bugs via Reference Miscounting Detection on Binaries.</title><venue>USENIX Security Symposium</venue><pages>2497-2512</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/He0S0L22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/he-liang</ee><url>https://dblp.org/rec/conf/uss/He0S0L22</url></info>
+<url>URL#626895</url>
+</hit>
+<hit score="1" id="626896">
+<info><authors><author pid="65/425">Yi He</author><author pid="88/8969">Zhenhua Zou</author><author pid="30/3530-1">Kun Sun 0001</author><author pid="69/11514">Zhuotao Liu</author><author pid="181/2626-2">Ke Xu 0002</author><author pid="75/5723-2">Qian Wang 0002</author><author pid="48/4825-1">Chao Shen 0001</author><author pid="95/6543-4">Zhi Wang 0004</author><author pid="181/2688-2">Qi Li 0002</author></authors><title>RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices.</title><venue>USENIX Security Symposium</venue><pages>2225-2242</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HeZ0L0000022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/he-yi</ee><url>https://dblp.org/rec/conf/uss/HeZ0L0000022</url></info>
+<url>URL#626896</url>
+</hit>
+<hit score="1" id="626897">
+<info><authors><author pid="45/1437">Cormac Herley</author></authors><title>Automated Detection of Automated Traffic.</title><venue>USENIX Security Symposium</venue><pages>1615-1632</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Herley22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/herley</ee><url>https://dblp.org/rec/conf/uss/Herley22</url></info>
+<url>URL#626897</url>
+</hit>
+<hit score="1" id="626898">
+<info><authors><author pid="144/4431">Raphael Hiesgen</author><author pid="185/0838">Marcin Nawrocki</author><author pid="121/4962">Alistair King</author><author pid="28/5074">Alberto Dainotti</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope.</title><venue>USENIX Security Symposium</venue><pages>431-448</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HiesgenNKDSW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/hiesgen</ee><url>https://dblp.org/rec/conf/uss/HiesgenNKDSW22</url></info>
+<url>URL#626898</url>
+</hit>
+<hit score="1" id="626899">
+<info><authors><author pid="223/6748">Tomas Hlavacek</author><author pid="271/6045">Philipp Jeitner</author><author pid="248/0549">Donika Mirdita</author><author pid="94/7397">Haya Shulman</author><author pid="90/308">Michael Waidner</author></authors><title>Stalloris: RPKI Downgrade Attack.</title><venue>USENIX Security Symposium</venue><pages>4455-4471</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HlavacekJMSW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/hlavacek</ee><url>https://dblp.org/rec/conf/uss/HlavacekJMSW22</url></info>
+<url>URL#626899</url>
+</hit>
+<hit score="1" id="626900">
+<info><authors><author pid="12/1662">Viet Tung Hoang</author><author pid="30/10768">Cong Wu</author><author pid="78/713-1">Xin Yuan 0001</author></authors><title>Faster Yet Safer: Logging System Via Fixed-Key Blockcipher.</title><venue>USENIX Security Symposium</venue><pages>2389-2406</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HoangW022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/hoang</ee><url>https://dblp.org/rec/conf/uss/HoangW022</url></info>
+<url>URL#626900</url>
+</hit>
+<hit score="1" id="626901">
+<info><authors><author pid="163/3603">Yiqing Hua</author><author pid="301/5856">Armin Namavari</author><author pid="290/2358">Kaishuo Cheng</author><author pid="42/241">Mor Naaman</author><author pid="26/3399">Thomas Ristenpart</author></authors><title>Increasing Adversarial Uncertainty to Scale Private Similarity Testing.</title><venue>USENIX Security Symposium</venue><pages>1777-1794</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HuaNCNR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/hua</ee><url>https://dblp.org/rec/conf/uss/HuaNCNR22</url></info>
+<url>URL#626901</url>
+</hit>
+<hit score="1" id="626902">
+<info><authors><author pid="128/9270">Zhicong Huang</author><author pid="231/4234">Wen-jie Lu</author><author pid="78/10002">Cheng Hong</author><author pid="316/4311">Jiansheng Ding</author></authors><title>Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference.</title><venue>USENIX Security Symposium</venue><pages>809-826</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/HuangLHD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/huang-zhicong</ee><url>https://dblp.org/rec/conf/uss/HuangLHD22</url></info>
+<url>URL#626902</url>
+</hit>
+<hit score="1" id="626903">
+<info><authors><author pid="244/2598">Jacob Imola</author><author pid="37/9269">Takao Murakami</author><author pid="56/6435">Kamalika Chaudhuri</author></authors><title>Communication-Efficient Triangle Counting under Local Differential Privacy.</title><venue>USENIX Security Symposium</venue><pages>537-554</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ImolaMC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/imola</ee><url>https://dblp.org/rec/conf/uss/ImolaMC22</url></info>
+<url>URL#626903</url>
+</hit>
+<hit score="1" id="626904">
+<info><authors><author pid="295/6488">Abdullah Imran</author><author pid="222/5923">Habiba Farrukh</author><author pid="83/5186">Muhammad Ibrahim</author><author pid="143/2298">Z. Berkay Celik</author><author pid="99/3883">Antonio Bianchi</author></authors><title>SARA: Secure Android Remote Authorization.</title><venue>USENIX Security Symposium</venue><pages>1561-1578</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ImranFICB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/imran</ee><url>https://dblp.org/rec/conf/uss/ImranFICB22</url></info>
+<url>URL#626904</url>
+</hit>
+<hit score="1" id="626905">
+<info><authors><author pid="08/8604">Umar Iqbal</author><author pid="331/2829">Charlie Wolfe</author><author pid="37/3513">Charles Nguyen</author><author pid="137/7764">Steven Englehardt</author><author pid="83/9528">Zubair Shafiq</author></authors><title>Khaleesi: Breaker of Advertising and Tracking Request Chains.</title><venue>USENIX Security Symposium</venue><pages>2911-2928</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/IqbalWNES22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/iqbal</ee><url>https://dblp.org/rec/conf/uss/IqbalWNES22</url></info>
+<url>URL#626905</url>
+</hit>
+<hit score="1" id="626906">
+<info><authors><author pid="280/7922">Mohannad Ismail</author><author pid="317/5288">Andrew Quach</author><author pid="161/0183">Christopher Jelesnianski</author><author pid="150/5222">Yeongjin Jang</author><author pid="19/10203">Changwoo Min</author></authors><title>Tightly Seal Your Sensitive Pointers with PACTight.</title><venue>USENIX Security Symposium</venue><pages>3717-3734</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/IsmailQJJM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/ismail</ee><url>https://dblp.org/rec/conf/uss/IsmailQJJM22</url></info>
+<url>URL#626906</url>
+</hit>
+<hit score="1" id="626907">
+<info><authors><author pid="211/5012">Rawane Issa</author><author pid="286/6462">Nicolas Alhaddad</author><author pid="59/6288">Mayank Varia</author></authors><title>Hecate: Abuse Reporting in Secure Messengers with Sealed Sender.</title><venue>USENIX Security Symposium</venue><pages>2335-2352</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/IssaAV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/issa</ee><url>https://dblp.org/rec/conf/uss/IssaAV22</url></info>
+<url>URL#626907</url>
+</hit>
+<hit score="1" id="626908">
+<info><authors><author pid="291/2820">Bahruz Jabiyev</author><author pid="270/2324">Steven Sprecher</author><author pid="331/2536">Anthony Gavazzi</author><author pid="296/7414">Tommaso Innocenti</author><author pid="77/8031">Kaan Onarlioglu</author><author pid="k/EnginKirda">Engin Kirda</author></authors><title>FRAMESHIFTER: Security Implications of HTTP/2-to-HTTP/1 Conversion Anomalies.</title><venue>USENIX Security Symposium</venue><pages>1061-1075</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JabiyevSGIOK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/jabiyev</ee><url>https://dblp.org/rec/conf/uss/JabiyevSGIOK22</url></info>
+<url>URL#626908</url>
+</hit>
+<hit score="1" id="626909">
+<info><authors><author pid="132/6759">Shubham Jain</author><author pid="31/2956-2">Ana-Maria Cretu 0002</author><author pid="75/7560">Yves-Alexandre de Montjoye</author></authors><title>Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning.</title><venue>USENIX Security Symposium</venue><pages>2317-2334</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Jain0M22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/jain</ee><url>https://dblp.org/rec/conf/uss/Jain0M22</url></info>
+<url>URL#626909</url>
+</hit>
+<hit score="1" id="626910">
+<info><authors><author pid="271/6045">Philipp Jeitner</author><author pid="94/7397">Haya Shulman</author><author pid="327/7606">Lucas Teichmann</author><author pid="90/308">Michael Waidner</author></authors><title>XDRI Attacks - and - How to Enhance Resilience of Residential Routers.</title><venue>USENIX Security Symposium</venue><pages>4473-4490</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JeitnerSTW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/jeitner</ee><url>https://dblp.org/rec/conf/uss/JeitnerSTW22</url></info>
+<url>URL#626910</url>
+</hit>
+<hit score="1" id="626911">
+<info><authors><author pid="295/0886">Kaihang Ji</author><author pid="04/1346">Jun Zeng</author><author pid="320/8787">Yuancheng Jiang</author><author pid="99/4951">Zhenkai Liang</author><author pid="150/5333">Zheng Leong Chua</author><author pid="90/105">Prateek Saxena</author><author pid="04/5884">Abhik Roychoudhury</author></authors><title>FlowMatrix: GPU-Assisted Information-Flow Analysis through Matrix-Based Representation.</title><venue>USENIX Security Symposium</venue><pages>2567-2584</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JiZJLCSR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/ji</ee><url>https://dblp.org/rec/conf/uss/JiZJLCSR22</url></info>
+<url>URL#626911</url>
+</hit>
+<hit score="1" id="626912">
+<info><authors><author pid="231/8643">Yanxue Jia</author><author pid="117/3128-1">Shifeng Sun 0001</author><author pid="23/6726">Hong-Sheng Zhou</author><author pid="232/2136">Jiajun Du</author><author pid="72/1963">Dawu Gu</author></authors><title>Shuffle-based Private Set Union: Faster and More Secure.</title><venue>USENIX Security Symposium</venue><pages>2947-2964</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/JiaSZDG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/jia</ee><url>https://dblp.org/rec/conf/uss/JiaSZDG22</url></info>
+<url>URL#626912</url>
+</hit>
+<hit score="1" id="626913">
+<info><authors><author pid="205/0183">Bailey Kacsmar</author><author pid="258/4835">Kyle Tilbury</author><author pid="275/2619">Miti Mazmudar</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>Caring about Sharing: User Perceptions of Multiparty Data Sharing.</title><venue>USENIX Security Symposium</venue><pages>899-916</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KacsmarTMK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kacsmar</ee><url>https://dblp.org/rec/conf/uss/KacsmarTMK22</url></info>
+<url>URL#626913</url>
+</hit>
+<hit score="1" id="626914">
+<info><authors><author pid="295/3339">Rahul Kande</author><author pid="309/4549">Addison Crump</author><author pid="232/2300">Garrett Persyn</author><author pid="224/9363">Patrick Jauernig</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author><author pid="255/3072">Aakash Tyagi</author><author pid="79/9006">Jeyavijayan Rajendran</author></authors><title>TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models for Finding Software-Exploitable Vulnerabilities.</title><venue>USENIX Security Symposium</venue><pages>3219-3236</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KandeCPJSTR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kande</ee><url>https://dblp.org/rec/conf/uss/KandeCPJSTR22</url></info>
+<url>URL#626914</url>
+</hit>
+<hit score="1" id="626915">
+<info><authors><author pid="19/10126">George Kappos</author><author pid="220/3348">Haaroon Yousaf</author><author pid="256/5148">Rainer Stütz</author><author pid="321/1763">Sofia Rollet</author><author pid="85/3208">Bernhard Haslhofer</author><author pid="94/8813">Sarah Meiklejohn</author></authors><title>How to Peel a Million: Validating and Expanding Bitcoin Clusters.</title><venue>USENIX Security Symposium</venue><pages>2207-2223</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KapposYSRHM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kappos</ee><url>https://dblp.org/rec/conf/uss/KapposYSRHM22</url></info>
+<url>URL#626915</url>
+</hit>
+<hit score="1" id="626916">
+<info><authors><author pid="270/2346">Soroush Karami</author><author pid="205/2187">Faezeh Kalantari</author><author pid="287/5804">Mehrnoosh Zaeifi</author><author pid="331/2225">Xavier J. Maso</author><author pid="196/8835">Erik Trickel</author><author pid="129/9582">Panagiotis Ilia</author><author pid="119/7712">Yan Shoshitaishvili</author><author pid="28/8280">Adam Doupé</author><author pid="47/8412">Jason Polakis</author></authors><title>Unleash the Simulacrum: Shifting Browser Realities for Robust Extension-Fingerprinting Prevention.</title><venue>USENIX Security Symposium</venue><pages>735-752</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KaramiKZMTISDP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/karami</ee><url>https://dblp.org/rec/conf/uss/KaramiKZMTISDP22</url></info>
+<url>URL#626916</url>
+</hit>
+<hit score="1" id="626918">
+<info><authors><author pid="248/1646">Ranjita Pai Kasturi</author><author pid="151/1951">Jonathan Fuller</author><author pid="15/8685">Yiting Sun</author><author pid="331/2662">Omar Chabklo</author><author pid="331/2512">Andres Rodriguez 0005</author><author pid="163/7414">Jeman Park 0001</author><author pid="150/5240">Brendan Saltaformaggio</author></authors><title>Mistrust Plugins You Must: A Large-Scale Study Of Malicious Plugins In WordPress Marketplaces.</title><venue>USENIX Security Symposium</venue><pages>161-178</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KasturiFSCR0S22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kasturi</ee><url>https://dblp.org/rec/conf/uss/KasturiFSCR0S22</url></info>
+<url>URL#626918</url>
+</hit>
+<hit score="1" id="626919">
+<info><authors><author pid="139/0822">Harjot Kaur</author><author pid="251/3013">Sabrina Amft</author><author pid="61/11094">Daniel Votipka</author><author pid="132/9687">Yasemin Acar</author><author pid="38/9378">Sascha Fahl</author></authors><title>Where to Recruit for Security Development Studies: Comparing Six Software Developer Samples.</title><venue>USENIX Security Symposium</venue><pages>4041-4058</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KaurAVAF22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kaur</ee><url>https://dblp.org/rec/conf/uss/KaurAVAF22</url></info>
+<url>URL#626919</url>
+</hit>
+<hit score="1" id="626920">
+<info><authors><author pid="218/7156">Mahimna Kelkar</author><author pid="252/4143">Phi Hung Le</author><author pid="07/5590-1">Mariana Raykova 0001</author><author pid="125/0309">Karn Seth</author></authors><title>Secure Poisson Regression.</title><venue>USENIX Security Symposium</venue><pages>791-808</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KelkarL0S22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kelkar</ee><url>https://dblp.org/rec/conf/uss/KelkarL0S22</url></info>
+<url>URL#626920</url>
+</hit>
+<hit score="1" id="626921">
+<info><authors><author pid="16/5689">Sunwoo Kim</author><author pid="61/9605">Young Min Kim</author><author pid="263/9985">Jaewon Hur</author><author pid="278/0329">Suhwan Song</author><author pid="173/9806">Gwangmu Lee</author><author pid="45/7986">Byoungyoung Lee</author></authors><title>FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>1008-1023</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KimKHSLL22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kim</ee><url>https://dblp.org/rec/conf/uss/KimKHSLL22</url></info>
+<url>URL#626921</url>
+</hit>
+<hit score="1" id="626923">
+<info><authors><author pid="280/4649">Andreas Kogler</author><author pid="166/1494">Daniel Gruss</author><author pid="08/1117-1">Michael Schwarz 0001</author></authors><title>Minefield: A Software-only Protection for SGX Enclaves against DVFS Attacks.</title><venue>USENIX Security Symposium</venue><pages>4147-4164</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KoglerG022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kogler-minefield</ee><url>https://dblp.org/rec/conf/uss/KoglerG022</url></info>
+<url>URL#626923</url>
+</hit>
+<hit score="1" id="626924">
+<info><authors><author pid="280/4649">Andreas Kogler</author><author pid="207/7615">Jonas Juffinger</author><author pid="305/3800">Salman Qazi</author><author pid="70/4287">Yoongu Kim</author><author pid="172/1127">Moritz Lipp</author><author pid="06/7654">Nicolas Boichat</author><author pid="73/1243">Eric Shiu</author><author pid="54/7509">Mattias Nissler</author><author pid="166/1494">Daniel Gruss</author></authors><title>Half-Double: Hammering From the Next Row Over.</title><venue>USENIX Security Symposium</venue><pages>3807-3824</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KoglerJQKLBSNG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kogler-half-double</ee><url>https://dblp.org/rec/conf/uss/KoglerJQKLBSNG22</url></info>
+<url>URL#626924</url>
+</hit>
+<hit score="1" id="626925">
+<info><authors><author pid="155/5132">Katharina Kohls</author><author pid="d/ClaudiaDiaz">Claudia Díaz</author></authors><title>VerLoc: Verifiable Localization in Decentralized Systems.</title><venue>USENIX Security Symposium</venue><pages>2637-2654</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KohlsD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kohls</ee><url>https://dblp.org/rec/conf/uss/KohlsD22</url></info>
+<url>URL#626925</url>
+</hit>
+<hit score="1" id="626926">
+<info><authors><author pid="295/1145">Igibek Koishybayev</author><author pid="331/2482">Aleksandr Nahapetyan</author><author pid="232/7579">Raima Zachariah</author><author pid="331/2359">Siddharth Muralee</author><author pid="117/3983">Bradley Reaves</author><author pid="22/1459">Alexandros Kapravelos</author><author pid="133/8188">Aravind Machiry</author></authors><title>Characterizing the Security of Github CI Workflows.</title><venue>USENIX Security Symposium</venue><pages>2747-2763</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KoishybayevNZMR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/koishybayev</ee><url>https://dblp.org/rec/conf/uss/KoishybayevNZMR22</url></info>
+<url>URL#626926</url>
+</hit>
+<hit score="1" id="626927">
+<info><authors><author pid="250/9440">David Koisser</author><author pid="224/9363">Patrick Jauernig</author><author pid="08/1183">Gene Tsudik</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author></authors><title>V&apos;CER: Efficient Certificate Validation in Constrained Networks.</title><venue>USENIX Security Symposium</venue><pages>4491-4508</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KoisserJTS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/koisser</ee><url>https://dblp.org/rec/conf/uss/KoisserJTS22</url></info>
+<url>URL#626927</url>
+</hit>
+<hit score="1" id="626928">
+<info><authors><author pid="272/8278">Brian Kondracki</author><author pid="294/4100">Johnny So</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>Uninvited Guests: Analyzing the Identity and Behavior of Certificate Transparency Bots.</title><venue>USENIX Security Symposium</venue><pages>53-70</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KondrackiSN22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kondracki</ee><url>https://dblp.org/rec/conf/uss/KondrackiSN22</url></info>
+<url>URL#626928</url>
+</hit>
+<hit score="1" id="626929">
+<info><authors><author pid="265/6132">Martin Kotuliak</author><author pid="294/8778">Simon Erni</author><author pid="183/1273">Patrick Leu</author><author pid="121/9557">Marc Röschlin</author><author pid="51/1639">Srdjan Capkun</author></authors><title>LTrack: Stealthy Tracking of Mobile Phones in LTE.</title><venue>USENIX Security Symposium</venue><pages>1291-1306</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KotuliakELRC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak</ee><url>https://dblp.org/rec/conf/uss/KotuliakELRC22</url></info>
+<url>URL#626929</url>
+</hit>
+<hit score="1" id="626930">
+<info><authors><author pid="222/5402">Masoud Mehrabi Koushki</author><author pid="48/2209">Yue Huang</author><author pid="26/4417">Julia Rubin</author><author pid="47/6517">Konstantin Beznosov</author></authors><title>Neither Access nor Control: A Longitudinal Investigation of the Efficacy of User Access-Control Solutions on Smartphones.</title><venue>USENIX Security Symposium</venue><pages>917-935</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KoushkiHRB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/koushki</ee><url>https://dblp.org/rec/conf/uss/KoushkiHRB22</url></info>
+<url>URL#626930</url>
+</hit>
+<hit score="1" id="626931">
+<info><authors><author pid="153/5752">Johannes Krupp</author><author pid="180/7263">Ilya Grishchenko</author><author pid="08/6024">Christian Rossow</author></authors><title>AmpFuzz: Fuzzing for Amplification DDoS Vulnerabilities.</title><venue>USENIX Security Symposium</venue><pages>1043-1060</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KruppGR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/krupp</ee><url>https://dblp.org/rec/conf/uss/KruppGR22</url></info>
+<url>URL#626931</url>
+</hit>
+<hit score="1" id="626932">
+<info><authors><author pid="02/11141">Anunay Kulshrestha</author><author pid="116/8542">Jonathan R. Mayer</author></authors><title>Estimating Incidental Collection in Foreign Intelligence Surveillance: Large-Scale Multiparty Private Set Intersection with Union and Sum.</title><venue>USENIX Security Symposium</venue><pages>1705-1722</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KulshresthaM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kulshrestha</ee><url>https://dblp.org/rec/conf/uss/KulshresthaM22</url></info>
+<url>URL#626932</url>
+</hit>
+<hit score="1" id="626933">
+<info><authors><author pid="227/2162">Renuka Kumar</author><author pid="331/2188">Apurva Virkud</author><author pid="270/2488">Ram Sundara Raman</author><author pid="p/AtulPrakash">Atul Prakash 0001</author><author pid="24/973">Roya Ensafi</author></authors><title>A Large-scale Investigation into Geodifferences in Mobile Apps.</title><venue>USENIX Security Symposium</venue><pages>1203-1220</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/KumarVR0E22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/kumar</ee><url>https://dblp.org/rec/conf/uss/KumarVR0E22</url></info>
+<url>URL#626933</url>
+</hit>
+<hit score="1" id="626935">
+<info><authors><author pid="267/1560">Hyeonmin Lee</author><author pid="260/9262">Md. Ishtiaq Ashiq</author><author pid="12/303">Moritz Müller</author><author pid="155/5773">Roland van Rijswijk-Deij</author><author pid="14/2293-1">Ted Taekyoung Kwon</author><author pid="90/8396">Taejoong Chung</author></authors><title>Under the Hood of DANE Mismanagement in SMTP.</title><venue>USENIX Security Symposium</venue><pages>1-16</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LeeAMRKC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/lee</ee><url>https://dblp.org/rec/conf/uss/LeeAMRKC22</url></info>
+<url>URL#626935</url>
+</hit>
+<hit score="1" id="626936">
+<info><authors><author pid="183/1273">Patrick Leu</author><author pid="224/9311">Giovanni Camurati</author><author pid="248/1693">Alexander Heinrich</author><author pid="121/9557">Marc Roeschlin</author><author pid="195/0397">Claudio Anliker</author><author pid="95/1816">Matthias Hollick</author><author pid="51/1639">Srdjan Capkun</author><author pid="155/8567">Jiska Classen</author></authors><title>Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging.</title><venue>USENIX Security Symposium</venue><pages>1343-1359</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LeuCHRAHCC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/leu</ee><url>https://dblp.org/rec/conf/uss/LeuCHRAHCC22</url></info>
+<url>URL#626936</url>
+</hit>
+<hit score="1" id="626937">
+<info><authors><author pid="20/6946">Derek Leung</author><author pid="84/7357">Yossi Gilad</author><author pid="117/3299-1">Sergey Gorbunov 0001</author><author pid="r/LeonidReyzin">Leonid Reyzin</author><author pid="99/5780">Nickolai Zeldovich</author></authors><title>Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies.</title><venue>USENIX Security Symposium</venue><pages>4237-4254</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LeungG0RZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/leung</ee><url>https://dblp.org/rec/conf/uss/LeungG0RZ22</url></info>
+<url>URL#626937</url>
+</hit>
+<hit score="1" id="626938">
+<info><authors><author pid="06/721">Wen Li</author><author pid="09/6585-2">Jiang Ming 0002</author><author pid="53/1565">Xiapu Luo</author><author pid="117/7062">Haipeng Cai</author></authors><title>PolyCruise: A Cross-Language Dynamic Information Flow Analysis.</title><venue>USENIX Security Symposium</venue><pages>2513-2530</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Li0LC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/li-wen</ee><url>https://dblp.org/rec/conf/uss/Li0LC22</url></info>
+<url>URL#626938</url>
+</hit>
+<hit score="1" id="626939">
+<info><authors><author pid="67/2580-6">Song Li 0006</author><author pid="288/6749">Mingqing Kang</author><author pid="49/8706">Jianwei Hou</author><author pid="28/8733">Yinzhi Cao</author></authors><title>Mining Node.js Vulnerabilities via Object Dependence Graph and Query.</title><venue>USENIX Security Symposium</venue><pages>143-160</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiKHC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/li-song</ee><url>https://dblp.org/rec/conf/uss/LiKHC22</url></info>
+<url>URL#626939</url>
+</hit>
+<hit score="1" id="626940">
+<info><authors><author pid="185/7953">Yeting Li</author><author pid="226/7694">Yecheng Sun</author><author pid="25/9771">Zhiwu Xu 0001</author><author pid="224/1601">Jialun Cao</author><author pid="204/3729">Yuekang Li</author><author pid="331/2626">Rongchen Li</author><author pid="75/248">Haiming Chen</author><author pid="c/SCCheung">Shing-Chi Cheung</author><author pid="51/3710-3">Yang Liu 0003</author><author pid="181/1848-11">Yang Xiao 0011</author></authors><title>RegexScalpel: Regular Expression Denial of Service (ReDoS) Defense by Localize-and-Fix.</title><venue>USENIX Security Symposium</venue><pages>4183-4200</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiS0CLLCC0X22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/li-yeting</ee><url>https://dblp.org/rec/conf/uss/LiS0CLLCC0X22</url></info>
+<url>URL#626940</url>
+</hit>
+<hit score="1" id="626941">
+<info><authors><author pid="23/4315">Huiying Li</author><author pid="217/9308">Shawn Shan</author><author pid="259/1518">Emily Wenger</author><author pid="189/5595">Jiayun Zhang</author><author pid="43/4261">Haitao Zheng 0001</author><author pid="z/BenYZhao">Ben Y. Zhao</author></authors><title>Blacklight: Scalable Defense for Neural Networks against Query-Based Black-Box Attacks.</title><venue>USENIX Security Symposium</venue><pages>2117-2134</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiSWZ0Z22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/li-huiying</ee><url>https://dblp.org/rec/conf/uss/LiSWZ0Z22</url></info>
+<url>URL#626941</url>
+</hit>
+<hit score="1" id="626942">
+<info><authors><author pid="216/3218">Changjiang Li</author><author pid="58/6810">Li Wang</author><author pid="07/8388">Shouling Ji</author><author pid="139/6932-2">Xuhong Zhang 0002</author><author pid="224/9296">Zhaohan Xi</author><author pid="47/401">Shanqing Guo</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>Seeing is Living? Rethinking the Security of Facial Liveness Verification in the Deepfake Era.</title><venue>USENIX Security Symposium</venue><pages>2673-2690</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiWJ0XG022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/li-changjiang</ee><url>https://dblp.org/rec/conf/uss/LiWJ0XG022</url></info>
+<url>URL#626942</url>
+</hit>
+<hit score="1" id="626943">
+<info><authors><author pid="10/3844">Jianfeng Li</author><author pid="63/778">Hao Zhou</author><author pid="311/8828">Shuohan Wu</author><author pid="53/1565">Xiapu Luo</author><author pid="12/2633-6">Ting Wang 0006</author><author pid="154/0904">Xian Zhan</author><author pid="18/10062">Xiaobo Ma</author></authors><title>FOAP: Fine-Grained Open-World Android App Fingerprinting.</title><venue>USENIX Security Symposium</venue><pages>1579-1596</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiZWL0ZM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/li-jianfeng</ee><url>https://dblp.org/rec/conf/uss/LiZWL0ZM22</url></info>
+<url>URL#626943</url>
+</hit>
+<hit score="1" id="626944">
+<info><authors><author pid="65/1700-2">Yu Liang 0002</author><author pid="80/1141">Song Liu</author><author pid="70/2543-4">Hong Hu 0004</author></authors><title>Detecting Logical Bugs of DBMS with Coverage-based Guidance.</title><venue>USENIX Security Symposium</venue><pages>4309-4326</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiangL022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/liang</ee><url>https://dblp.org/rec/conf/uss/LiangL022</url></info>
+<url>URL#626944</url>
+</hit>
+<hit score="1" id="626945">
+<info><authors><author pid="33/3328-3">Xu Lin 0003</author><author pid="129/9582">Panagiotis Ilia</author><author pid="198/1782">Saumya Solanki</author><author pid="47/8412">Jason Polakis</author></authors><title>Phish in Sheep&apos;s Clothing: Exploring the Authentication Pitfalls of Browser Fingerprinting.</title><venue>USENIX Security Symposium</venue><pages>1651-1668</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LinISP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/lin-xu</ee><url>https://dblp.org/rec/conf/uss/LinISP22</url></info>
+<url>URL#626945</url>
+</hit>
+<hit score="1" id="626946">
+<info><authors><author pid="172/1127">Moritz Lipp</author><author pid="166/1494">Daniel Gruss</author><author pid="08/1117-1">Michael Schwarz 0001</author></authors><title>AMD Prefetch Attacks through Power and Time.</title><venue>USENIX Security Symposium</venue><pages>643-660</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LippG022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/lipp</ee><url>https://dblp.org/rec/conf/uss/LippG022</url></info>
+<url>URL#626946</url>
+</hit>
+<hit score="1" id="626947">
+<info><authors><author pid="02/8772">Guannan Liu</author><author pid="87/4866-1">Xing Gao 0001</author><author pid="81/4036">Haining Wang</author><author pid="30/3530-1">Kun Sun 0001</author></authors><title>Exploring the Unchartered Space of Container Registry Typosquatting.</title><venue>USENIX Security Symposium</venue><pages>35-51</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Liu0W022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/liu-guannan</ee><url>https://dblp.org/rec/conf/uss/Liu0W022</url></info>
+<url>URL#626947</url>
+</hit>
+<hit score="1" id="626948">
+<info><authors><author pid="301/5834">Ruofan Liu</author><author pid="77/1513-1">Yun Lin 0001</author><author pid="01/2410">Xianglin Yang</author><author pid="303/0429">Siang Hwee Ng</author><author pid="87/2495">Dinil Mon Divakaran</author><author pid="33/6517">Jin Song Dong</author></authors><title>Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach.</title><venue>USENIX Security Symposium</venue><pages>1633-1650</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Liu0YNDD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/liu-ruofan</ee><url>https://dblp.org/rec/conf/uss/Liu0YNDD22</url></info>
+<url>URL#626948</url>
+</hit>
+<hit score="1" id="626949">
+<info><authors><author pid="55/6956">Yijing Liu</author><author pid="230/3262">Yan Jia</author><author pid="331/2193">Qingyin Tan</author><author pid="22/8078">Zheli Liu</author><author pid="34/8412">Luyi Xing</author></authors><title>How Are Your Zombie Accounts? Understanding Users&apos; Practices and Expectations on Mobile App Account Deletion.</title><venue>USENIX Security Symposium</venue><pages>863-880</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiuJTLX22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/liu-yijing</ee><url>https://dblp.org/rec/conf/uss/LiuJTLX22</url></info>
+<url>URL#626949</url>
+</hit>
+<hit score="1" id="626950">
+<info><authors><author pid="227/9104">Yugeng Liu</author><author pid="63/10765-2">Rui Wen 0002</author><author pid="227/7262">Xinlei He</author><author pid="41/506-1">Ahmed Salem 0001</author><author pid="90/545-1">Zhikun Zhang 0001</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="36/6225">Emiliano De Cristofaro</author><author pid="07/5701">Mario Fritz</author><author pid="06/6785-16">Yang Zhang 0016</author></authors><title>ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models.</title><venue>USENIX Security Symposium</venue><pages>4525-4542</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiuWH000CF022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/liu-yugeng</ee><url>https://dblp.org/rec/conf/uss/LiuWH000CF022</url></info>
+<url>URL#626950</url>
+</hit>
+<hit score="1" id="626951">
+<info><authors><author pid="35/295">Jian Liu</author><author pid="97/8166">Lin Yi</author><author pid="224/9379">Weiteng Chen</author><author pid="69/6818">Chengyu Song</author><author pid="31/8302">Zhiyun Qian</author><author pid="68/10566">Qiuping Yi</author></authors><title>LinKRID: Vetting Imbalance Reference Counting in Linux kernel with Symbolic Execution.</title><venue>USENIX Security Symposium</venue><pages>125-142</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LiuYCSQY22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/liu-jian</ee><url>https://dblp.org/rec/conf/uss/LiuYCSQY22</url></info>
+<url>URL#626951</url>
+</hit>
+<hit score="1" id="626952">
+<info><authors><author pid="26/848">Ning Luo</author><author pid="281/0124">Samuel Judson</author><author pid="62/6761">Timos Antonopoulos</author><author pid="p/RuzicaPiskac">Ruzica Piskac</author><author pid="150/9413">Xiao Wang 0012</author></authors><title>ppSAT: Towards Two-Party Private SAT Solving.</title><venue>USENIX Security Symposium</venue><pages>2983-3000</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/LuoJAPW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/luo</ee><url>https://dblp.org/rec/conf/uss/LuoJAPW22</url></info>
+<url>URL#626952</url>
+</hit>
+<hit score="1" id="626953">
+<info><authors><author pid="265/8774">Varun Madathil</author><author pid="72/7642">Alessandra Scafuro</author><author pid="234/7668">István András Seres</author><author pid="242/3072">Omer Shlomovits</author><author pid="283/4483">Denis Varlakov</author></authors><title>Private Signaling.</title><venue>USENIX Security Symposium</venue><pages>3309-3326</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MadathilSSSV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/madathil</ee><url>https://dblp.org/rec/conf/uss/MadathilSSSV22</url></info>
+<url>URL#626953</url>
+</hit>
+<hit score="1" id="626954">
+<info><authors><author pid="331/2735">Marcel Maehren</author><author pid="331/2817">Philipp Nieting</author><author pid="331/2250">Sven Hebrok</author><author pid="248/1716">Robert Merget</author><author pid="27/8331">Juraj Somorovsky</author><author pid="58/5730">Jörg Schwenk</author></authors><title>TLS-Anvil: Adapting Combinatorial Testing for TLS Libraries.</title><venue>USENIX Security Symposium</venue><pages>215-232</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MaehrenNHMSS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/maehren</ee><url>https://dblp.org/rec/conf/uss/MaehrenNHMSS22</url></info>
+<url>URL#626954</url>
+</hit>
+<hit score="1" id="626955">
+<info><authors><author pid="280/8174">Rasoul Akhavan Mahdavi</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>Constant-weight PIR: Single-round Keyword PIR via Constant-weight Equality Operators.</title><venue>USENIX Security Symposium</venue><pages>1723-1740</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MahdaviK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mahdavi</ee><url>https://dblp.org/rec/conf/uss/MahdaviK22</url></info>
+<url>URL#626955</url>
+</hit>
+<hit score="1" id="626956">
+<info><authors><author pid="204/0061">Henrique Teles Maia</author><author pid="66/10110">Chang Xiao</author><author pid="117/4807">Dingzeyu Li</author><author pid="25/5353">Eitan Grinspun</author><author pid="92/5285">Changxi Zheng</author></authors><title>Can one hear the shape of a neural network?: Snooping the GPU via Magnetic Side Channel.</title><venue>USENIX Security Symposium</venue><pages>4383-4400</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MaiaXLGZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/maia</ee><url>https://dblp.org/rec/conf/uss/MaiaXLGZ22</url></info>
+<url>URL#626956</url>
+</hit>
+<hit score="1" id="626957">
+<info><authors><author pid="224/6467">Sujaya Maiyya</author><author pid="306/1516">Seif Ibrahim</author><author pid="322/3512">Caitlin Scarberry</author><author pid="a/DivyakantAgrawal">Divyakant Agrawal</author><author pid="a/AmrElAbbadi">Amr El Abbadi</author><author pid="37/778">Huijia Lin</author><author pid="38/937">Stefano Tessaro</author><author pid="151/5215">Victor Zakhary</author></authors><title>QuORAM: A Quorum-Replicated Fault Tolerant ORAM Datastore.</title><venue>USENIX Security Symposium</venue><pages>3665-3682</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MaiyyaISAALTZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/maiyya</ee><url>https://dblp.org/rec/conf/uss/MaiyyaISAALTZ22</url></info>
+<url>URL#626957</url>
+</hit>
+<hit score="1" id="626958">
+<info><authors><author pid="232/2235">Sunil Manandhar</author><author pid="222/2853">Kaushal Kafle</author><author pid="167/0165">Benjamin Andow</author><author pid="87/6804">Kapil Singh</author><author pid="136/8334">Adwait Nadkarni</author></authors><title>Smart Home Privacy Policies Demystified: A Study of Availability, Content, and Coverage.</title><venue>USENIX Security Symposium</venue><pages>3521-3538</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ManandharKASN22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/manandhar</ee><url>https://dblp.org/rec/conf/uss/ManandharKASN22</url></info>
+<url>URL#626958</url>
+</hit>
+<hit score="1" id="626959">
+<info><authors><author pid="270/2295">Alessandro Mantovani</author><author pid="204/5152">Simone Aonzo</author><author pid="11/10929">Yanick Fratantonio</author><author pid="56/490">Davide Balzarotti</author></authors><title>RE-Mind: a First Look Inside the Mind of a Reverse Engineer.</title><venue>USENIX Security Symposium</venue><pages>2727-2745</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MantovaniAFB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mantovani</ee><url>https://dblp.org/rec/conf/uss/MantovaniAFB22</url></info>
+<url>URL#626959</url>
+</hit>
+<hit score="1" id="626960">
+<info><authors><author pid="165/0174">Andrea Marcelli</author><author pid="123/3219">Mariano Graziano</author><author pid="86/9728">Xabier Ugarte-Pedrero</author><author pid="11/10929">Yanick Fratantonio</author><author pid="262/9484">Mohamad Mansouri</author><author pid="56/490">Davide Balzarotti</author></authors><title>How Machine Learning Is Solving the Binary Function Similarity Problem.</title><venue>USENIX Security Symposium</venue><pages>2099-2116</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MarcelliGUFMB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/marcelli</ee><url>https://dblp.org/rec/conf/uss/MarcelliGUFMB22</url></info>
+<url>URL#626960</url>
+</hit>
+<hit score="1" id="626961">
+<info><authors><author pid="179/7489">Karola Marky</author><author pid="121/9504">Paul Gerber</author><author pid="67/6306-1">Sebastian Günther 0001</author><author pid="129/9490">Mohamed Khamis</author><author pid="294/5026">Maximilian Fries</author><author pid="m/MaxMuhlhauser">Max Mühlhäuser</author></authors><title>Investigating State-of-the-Art Practices for Fostering Subjective Trust in Online Voting through Interviews.</title><venue>USENIX Security Symposium</venue><pages>4059-4076</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MarkyG0KFM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/marky</ee><url>https://dblp.org/rec/conf/uss/MarkyG0KFM22</url></info>
+<url>URL#626961</url>
+</hit>
+<hit score="1" id="626962">
+<info><authors><author pid="36/111-1">Peter Mayer 0001</author><author pid="293/9864">Collins W. Munyendo</author><author pid="20/7983">Michelle L. Mazurek</author><author pid="94/1554">Adam J. Aviv</author></authors><title>Why Users (Don&apos;t) Use Password Managers at a Large Educational Institution.</title><venue>USENIX Security Symposium</venue><pages>1849-1866</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MayerMMA22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mayer</ee><url>https://dblp.org/rec/conf/uss/MayerMMA22</url></info>
+<url>URL#626962</url>
+</hit>
+<hit score="1" id="626963">
+<info><authors><author pid="10/6810">Robert McLaughlin</author><author pid="123/3252">Fabio Pagani</author><author pid="303/5956">Noah Spahn</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>Regulator: Dynamic Analysis to Detect ReDoS.</title><venue>USENIX Security Symposium</venue><pages>4219-4235</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/McLaughlinPSKV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mclaughlin</ee><url>https://dblp.org/rec/conf/uss/McLaughlinPSKV22</url></info>
+<url>URL#626963</url>
+</hit>
+<hit score="1" id="626964">
+<info><authors><author pid="196/8838">Shagufta Mehnaz</author><author pid="184/4250">Sayanton V. Dibbo</author><author pid="312/5588">Ehsanul Kabir</author><author pid="l/NinghuiLi">Ninghui Li</author><author pid="b/ElisaBertino">Elisa Bertino</author></authors><title>Are Your Sensitive Attributes Private? Novel Model Inversion Attribute Inference Attacks on Classification Models.</title><venue>USENIX Security Symposium</venue><pages>4579-4596</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MehnazDKLB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mehnaz</ee><url>https://dblp.org/rec/conf/uss/MehnazDKLB22</url></info>
+<url>URL#626964</url>
+</hit>
+<hit score="1" id="626965">
+<info><authors><author pid="161/0164">Aastha Mehta</author><author pid="248/2254">Mohamed Alzayat</author><author pid="243/0062">Roberta De Viti</author><author pid="19/2942">Björn B. Brandenburg</author><author pid="d/PDruschel">Peter Druschel</author><author pid="45/6786-1">Deepak Garg 0001</author></authors><title>Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud.</title><venue>USENIX Security Symposium</venue><pages>2819-2838</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MehtaAVBD022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mehta</ee><url>https://dblp.org/rec/conf/uss/MehtaAVBD022</url></info>
+<url>URL#626965</url>
+</hit>
+<hit score="1" id="626966">
+<info><authors><author pid="43/1032">Yan Meng</author><author pid="09/7698">Jiachun Li</author><author pid="331/2035">Matthew Pillari</author><author pid="331/2803">Arjun Deopujari</author><author pid="331/2518">Liam Brennan</author><author pid="331/2814">Hafsah Shamsie</author><author pid="22/5702">Haojin Zhu</author><author pid="39/5423-1">Yuan Tian 0001</author></authors><title>Your Microphone Array Retains Your Identity: A Robust Voice Liveness Detection System for Smart Speakers.</title><venue>USENIX Security Symposium</venue><pages>1077-1094</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MengLPDBSZ022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/meng</ee><url>https://dblp.org/rec/conf/uss/MengLPDBSZ022</url></info>
+<url>URL#626966</url>
+</hit>
+<hit score="1" id="626967">
+<info><authors><author pid="139/2505">Mohsen Minaei</author><author pid="87/8324">Mainack Mondal</author><author pid="12/3394">Aniket Kate</author></authors><title>Empirical Understanding of Deletion Privacy: Experiences, Expectations, and Measures.</title><venue>USENIX Security Symposium</venue><pages>3415-3432</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MinaeiMK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/minaei</ee><url>https://dblp.org/rec/conf/uss/MinaeiMK22</url></info>
+<url>URL#626967</url>
+</hit>
+<hit score="1" id="626968">
+<info><authors><author pid="280/8210">Jaron Mink</author><author pid="286/6495">Licheng Luo</author><author pid="162/9876">Natã M. Barbosa</author><author pid="307/9855">Olivia Figueira</author><author pid="w/YangWang5">Yang Wang 0005</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>DeepPhish: Understanding User Trust Towards Artificially Generated Profiles in Online Social Networks.</title><venue>USENIX Security Symposium</venue><pages>1669-1686</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MinkLBF0022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mink</ee><url>https://dblp.org/rec/conf/uss/MinkLBF0022</url></info>
+<url>URL#626968</url>
+</hit>
+<hit score="1" id="626969">
+<info><authors><author pid="119/3501">Seyed Ali Mirheidari</author><author pid="331/2805">Matteo Golinelli</author><author pid="77/8031">Kaan Onarlioglu</author><author pid="k/EnginKirda">Engin Kirda</author><author pid="c/BrunoCrispo">Bruno Crispo</author></authors><title>Web Cache Deception Escalates!</title><venue>USENIX Security Symposium</venue><pages>179-196</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MirheidariGOKC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/mirheidari</ee><url>https://dblp.org/rec/conf/uss/MirheidariGOKC22</url></info>
+<url>URL#626969</url>
+</hit>
+<hit score="1" id="626970">
+<info><authors><author pid="264/7260">Eyitemi Moju-Igbene</author><author pid="331/2302">Hanan Abdi</author><author pid="130/0449">Alan Lu</author><author pid="83/8570">Sauvik Das</author></authors><title>&quot;How Do You Not Lose Friends?&quot;: Synthesizing a Design Space of Social Controls for Securing Shared Digital Resources Via Participatory Design Jams.</title><venue>USENIX Security Symposium</venue><pages>881-898</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Moju-IgbeneALD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/moju-igbene</ee><url>https://dblp.org/rec/conf/uss/Moju-IgbeneALD22</url></info>
+<url>URL#626970</url>
+</hit>
+<hit score="1" id="626971">
+<info><authors><author pid="293/9864">Collins W. Munyendo</author><author pid="260/6737">Philipp Markert</author><author pid="326/5249">Alexandra Nisenoff</author><author pid="301/5815">Miles Grant</author><author pid="331/2266">Elena Korkes</author><author pid="66/9786">Blase Ur</author><author pid="94/1554">Adam J. Aviv</author></authors><title>&quot;The Same PIN, Just Longer&quot;: On the (In)Security of Upgrading PINs from 4 to 6 Digits.</title><venue>USENIX Security Symposium</venue><pages>4023-4040</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MunyendoMNGKUA22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/munyendo</ee><url>https://dblp.org/rec/conf/uss/MunyendoMNGKUA22</url></info>
+<url>URL#626971</url>
+</hit>
+<hit score="1" id="626972">
+<info><authors><author pid="331/2591">Cheolwoo Myung</author><author pid="173/9806">Gwangmu Lee</author><author pid="45/7986">Byoungyoung Lee</author></authors><title>MundoFuzz: Hypervisor Fuzzing with Statistical Coverage Testing and Grammar Inference.</title><venue>USENIX Security Symposium</venue><pages>1257-1274</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/MyungLL22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/myung</ee><url>https://dblp.org/rec/conf/uss/MyungLL22</url></info>
+<url>URL#626972</url>
+</hit>
+<hit score="1" id="626973">
+<info><authors><author pid="192/2096">Ben Nassi</author><author pid="268/5147">Yaron Pirutin</author><author pid="331/2608">Raz Swisa</author><author pid="s/AdiShamir">Adi Shamir</author><author pid="38/4086">Yuval Elovici</author><author pid="14/10501">Boris Zadov</author></authors><title>Lamphone: Passive Sound Recovery from a Desk Lamp&apos;s Light Bulb Vibrations.</title><venue>USENIX Security Symposium</venue><pages>4401-4417</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/NassiPSSEZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/nassi</ee><url>https://dblp.org/rec/conf/uss/NassiPSSEZ22</url></info>
+<url>URL#626973</url>
+</hit>
+<hit score="1" id="626974">
+<info><authors><author pid="153/5738">Thien Duc Nguyen</author><author pid="283/4641">Phillip Rieger</author><author pid="122/1230">Huili Chen</author><author pid="268/5150">Hossein Yalame</author><author pid="277/9396">Helen Möllering</author><author pid="151/8708">Hossein Fereidooni</author><author pid="79/11359">Samuel Marchal</author><author pid="05/617">Markus Miettinen</author><author pid="18/8314">Azalia Mirhoseini</author><author pid="137/9430">Shaza Zeitouni</author><author pid="k/FarinazKoushanfar">Farinaz Koushanfar</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author><author pid="06/3872-3">Thomas Schneider 0003</author></authors><title>FLAME: Taming Backdoors in Federated Learning.</title><venue>USENIX Security Symposium</venue><pages>1415-1432</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/NguyenRCYMFMMMZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen</ee><url>https://dblp.org/rec/conf/uss/NguyenRCYMFMMMZ22</url></info>
+<url>URL#626974</url>
+</hit>
+<hit score="1" id="626975">
+<info><authors><author pid="292/5885">Kentrell Owens</author><author pid="331/2252">Anita Alem</author><author pid="23/2758">Franziska Roesner</author><author pid="k/TadayoshiKohno">Tadayoshi Kohno</author></authors><title>Electronic Monitoring Smartphone Apps: An Analysis of Risks from Technical, Human-Centered, and Legal Perspectives.</title><venue>USENIX Security Symposium</venue><pages>4077-4094</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/OwensARK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/owens</ee><url>https://dblp.org/rec/conf/uss/OwensARK22</url></info>
+<url>URL#626975</url>
+</hit>
+<hit score="1" id="626976">
+<info><authors><author pid="147/1534">Simon Oya</author><author pid="26/5304">Florian Kerschbaum</author></authors><title>IHOP: Improved Statistical Query Recovery against Searchable Symmetric Encryption through Quadratic Optimization.</title><venue>USENIX Security Symposium</venue><pages>2407-2424</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/OyaK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/oya</ee><url>https://dblp.org/rec/conf/uss/OyaK22</url></info>
+<url>URL#626976</url>
+</hit>
+<hit score="1" id="626977">
+<info><authors><author pid="200/3122">Alex Ozdemir</author><author pid="b/DanBoneh">Dan Boneh</author></authors><title>Experimenting with Collaborative zk-SNARKs: Zero-Knowledge Proofs for Distributed Secrets.</title><venue>USENIX Security Symposium</venue><pages>4291-4308</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/OzdemirB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/ozdemir</ee><url>https://dblp.org/rec/conf/uss/OzdemirB22</url></info>
+<url>URL#626977</url>
+</hit>
+<hit score="1" id="626978">
+<info><authors><author pid="241/9681">Bijeeta Pal</author><author pid="208/1920">Mazharul Islam</author><author pid="331/2515">Marina Sanusi Bohuk</author><author pid="172/5512">Nick Sullivan</author><author pid="166/6979">Luke Valenta</author><author pid="18/300">Tara Whalen</author><author pid="163/1886">Christopher A. Wood</author><author pid="26/3399">Thomas Ristenpart</author><author pid="03/9962">Rahul Chatterjee 0001</author></authors><title>Might I Get Pwned: A Second Generation Compromised Credential Checking Service.</title><venue>USENIX Security Symposium</venue><pages>1831-1848</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PalIBSVWWR022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/pal</ee><url>https://dblp.org/rec/conf/uss/PalIBSVWWR022</url></info>
+<url>URL#626978</url>
+</hit>
+<hit score="1" id="626979">
+<info><authors><author pid="71/7816">Xudong Pan</author><author pid="84/2519-1">Mi Zhang 0001</author><author pid="247/1066">Beina Sheng</author><author pid="179/0957">Jiaming Zhu</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Hidden Trigger Backdoor Attack on NLP Models via Linguistic Style Manipulation.</title><venue>USENIX Security Symposium</venue><pages>3611-3628</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PanZSZ022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/pan-hidden</ee><url>https://dblp.org/rec/conf/uss/PanZSZ022</url></info>
+<url>URL#626979</url>
+</hit>
+<hit score="1" id="626980">
+<info><authors><author pid="71/7816">Xudong Pan</author><author pid="84/2519-1">Mi Zhang 0001</author><author pid="209/7183">Yifan Yan</author><author pid="179/0957">Jiaming Zhu</author><author pid="55/11040">Zhemin Yang</author></authors><title>Exploring the Security Boundary of Data Reconstruction via Neuron Exclusivity Analysis.</title><venue>USENIX Security Symposium</venue><pages>3989-4006</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PanZYZY22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/pan-exploring</ee><url>https://dblp.org/rec/conf/uss/PanZYZY22</url></info>
+<url>URL#626980</url>
+</hit>
+<hit score="1" id="626981">
+<info><authors><author pid="252/5223">Ren Pang</author><author pid="224/9296">Zhaohan Xi</author><author pid="07/8388">Shouling Ji</author><author pid="53/1565">Xiapu Luo</author><author pid="12/2633-6">Ting Wang 0006</author></authors><title>On the Security Risks of AutoML.</title><venue>USENIX Security Symposium</venue><pages>3953-3970</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PangXJL022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/pang-ren</ee><url>https://dblp.org/rec/conf/uss/PangXJL022</url></info>
+<url>URL#626981</url>
+</hit>
+<hit score="1" id="626982">
+<info><authors><author pid="223/6697">Chengbin Pang</author><author pid="09/25">Tiantai Zhang</author><author pid="257/3247">Ruotong Yu</author><author pid="98/5039">Bing Mao</author><author pid="90/514-24">Jun Xu 0024</author></authors><title>Ground Truth for Binary Disassembly is Not Easy.</title><venue>USENIX Security Symposium</venue><pages>2479-2495</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PangZYM022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/pang-chengbin</ee><url>https://dblp.org/rec/conf/uss/PangZYM022</url></info>
+<url>URL#626982</url>
+</hit>
+<hit score="1" id="626983">
+<info><authors><author pid="283/0238">CheolJun Park</author><author pid="83/7954">Sangwook Bae</author><author pid="263/5973">Beomseok Oh</author><author pid="137/1560">Jiho Lee</author><author pid="51/6686">Eunkyu Lee</author><author pid="119/7670">Insu Yun</author><author pid="20/6892">Yongdae Kim</author></authors><title>DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices.</title><venue>USENIX Security Symposium</venue><pages>1325-1342</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ParkBOLLYK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/park-cheoljun</ee><url>https://dblp.org/rec/conf/uss/ParkBOLLYK22</url></info>
+<url>URL#626983</url>
+</hit>
+<hit score="1" id="626984">
+<info><authors><author pid="222/8260">Sunnyeo Park</author><author pid="248/1658">Daejun Kim</author><author pid="74/28">Suman Jana</author><author pid="09/3668">Sooel Son</author></authors><title>FUGIO: Automatic Exploit Generation for PHP Object Injection Vulnerabilities.</title><venue>USENIX Security Symposium</venue><pages>197-214</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ParkKJS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/park-sunnyeo</ee><url>https://dblp.org/rec/conf/uss/ParkKJS22</url></info>
+<url>URL#626984</url>
+</hit>
+<hit score="1" id="626985">
+<info><authors><author pid="124/5787">Yuvraj Patel</author><author pid="304/2139">Chenhao Ye</author><author pid="192/2771">Akshat Sinha</author><author pid="244/5051">Abigail Matthews</author><author pid="a/AndreaCArpaciDusseau">Andrea C. Arpaci-Dusseau</author><author pid="s/MichaelMSwift">Michael M. Swift</author></authors><title>Using Trātṛ to tame Adversarial Synchronization.</title><venue>USENIX Security Symposium</venue><pages>3897-3916</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PatelYSMAS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/patel</ee><url>https://dblp.org/rec/conf/uss/PatelYSMAS22</url></info>
+<url>URL#626985</url>
+</hit>
+<hit score="1" id="626987">
+<info><authors><author pid="331/2025">Lukas Petzi</author><author pid="327/9300">Ala Eddine Ben Yahya</author><author pid="67/8264">Alexandra Dmitrienko</author><author pid="08/1183">Gene Tsudik</author><author pid="251/5431">Thomas Prantl</author><author pid="k/SamuelKounev">Samuel Kounev</author></authors><title>SCRAPS: Scalable Collective Remote Attestation for Pub-Sub IoT Networks with Untrusted Proxy Verifier.</title><venue>USENIX Security Symposium</venue><pages>3485-3501</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PetziYDTPK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/petzi</ee><url>https://dblp.org/rec/conf/uss/PetziYDTPK22</url></info>
+<url>URL#626987</url>
+</hit>
+<hit score="1" id="626988">
+<info><authors><author pid="221/3626">Victor Le Pochat</author><author pid="236/5179">Laura Edelson</author><author pid="147/2244">Tom van Goethem</author><author pid="13/86">Wouter Joosen</author><author pid="58/4016">Damon McCoy</author><author pid="00/3175">Tobias Lauinger</author></authors><title>An Audit of Facebook&apos;s Political Ad Policy Enforcement.</title><venue>USENIX Security Symposium</venue><pages>607-624</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PochatEGJML22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/lepochat</ee><url>https://dblp.org/rec/conf/uss/PochatEGJML22</url></info>
+<url>URL#626988</url>
+</hit>
+<hit score="1" id="626989">
+<info><authors><author pid="168/2691">Bernd Prünster</author><author pid="79/11260">Alexander Marsalek</author><author pid="30/5214">Thomas Zefferer</author></authors><title>Total Eclipse of the Heart - Disrupting the InterPlanetary File System.</title><venue>USENIX Security Symposium</venue><pages>3735-3752</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PrunsterMZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/prunster</ee><url>https://dblp.org/rec/conf/uss/PrunsterMZ22</url></info>
+<url>URL#626989</url>
+</hit>
+<hit score="1" id="626990">
+<info><authors><author pid="237/4710">Antoon Purnal</author><author pid="186/8758">Furkan Turan</author><author pid="92/16">Ingrid Verbauwhede</author></authors><title>Double Trouble: Combined Heterogeneous Attacks on Non-Inclusive Cache Hierarchies.</title><venue>USENIX Security Symposium</venue><pages>3647-3664</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/PurnalTV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/purnal</ee><url>https://dblp.org/rec/conf/uss/PurnalTV22</url></info>
+<url>URL#626990</url>
+</hit>
+<hit score="1" id="626992">
+<info><authors><author pid="331/2299">Lancheng Qin</author><author pid="48/4185">Dan Li</author><author pid="38/6776">Ruifeng Li</author><author pid="30/6102">Kang Wang</author></authors><title>Themis: Accelerating the Detection of Route Origin Hijacking by Distinguishing Legitimate and Illegitimate MOAS.</title><venue>USENIX Security Symposium</venue><pages>4509-4524</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/QinLLW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/qin</ee><url>https://dblp.org/rec/conf/uss/QinLLW22</url></info>
+<url>URL#626992</url>
+</hit>
+<hit score="1" id="626993">
+<info><authors><author pid="144/5265">A. S. M. Rizvi</author><author pid="45/2226">Leandro M. Bertholdo</author><author pid="03/9064">João M. Ceron</author><author pid="h/JohnSHeidemann">John S. Heidemann</author></authors><title>Anycast Agility: Network Playbooks to Fight DDoS.</title><venue>USENIX Security Symposium</venue><pages>4201-4218</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RizviBCH22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/rizvi</ee><url>https://dblp.org/rec/conf/uss/RizviBCH22</url></info>
+<url>URL#626993</url>
+</hit>
+<hit score="1" id="626994">
+<info><authors><author pid="295/1057">Simon Rohlmann</author><author pid="57/11338">Christian Mainka</author><author pid="138/0964">Vladislav Mladenov</author><author pid="58/5730">Jörg Schwenk</author></authors><title>Oops... Code Execution and Content Spoofing: The First Comprehensive Analysis of OpenDocument Signatures.</title><venue>USENIX Security Symposium</venue><pages>3075-3092</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RohlmannMMS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/rohlmann</ee><url>https://dblp.org/rec/conf/uss/RohlmannMMS22</url></info>
+<url>URL#626994</url>
+</hit>
+<hit score="1" id="626995">
+<info><authors><author pid="244/5274">Sebastian Roth</author><author pid="89/9526">Stefano Calzavara</author><author pid="331/2052">Moritz Wilhelm</author><author pid="159/0703">Alvise Rabitti</author><author pid="136/8343">Ben Stock</author></authors><title>The Security Lottery: Measuring Client-Side Web Security Inconsistencies.</title><venue>USENIX Security Symposium</venue><pages>2047-2064</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RothCWRS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/roth</ee><url>https://dblp.org/rec/conf/uss/RothCWRS22</url></info>
+<url>URL#626995</url>
+</hit>
+<hit score="1" id="626996">
+<info><authors><author pid="195/7997">Lawrence Roy</author><author pid="322/3442">Stanislav Lyakhov</author><author pid="150/5222">Yeongjin Jang</author><author pid="r/MikeRosulek">Mike Rosulek</author></authors><title>Practical Privacy-Preserving Authentication for SSH.</title><venue>USENIX Security Symposium</venue><pages>3345-3362</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/RoyLJR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/roy</ee><url>https://dblp.org/rec/conf/uss/RoyLJR22</url></info>
+<url>URL#626996</url>
+</hit>
+<hit score="1" id="626997">
+<info><authors><author pid="241/1422">Harshad Sathaye</author><author pid="117/8959">Martin Strohmeier</author><author pid="75/5939">Vincent Lenders</author><author pid="23/11190">Aanjhan Ranganathan</author></authors><title>An Experimental Study of GPS Spoofing and Takeover Attacks on UAVs.</title><venue>USENIX Security Symposium</venue><pages>3503-3520</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SathayeSLR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/sathaye</ee><url>https://dblp.org/rec/conf/uss/SathayeSLR22</url></info>
+<url>URL#626997</url>
+</hit>
+<hit score="1" id="626998">
+<info><authors><author pid="272/7190">Tobias Scharnowski</author><author pid="331/2788">Nils Bars</author><author pid="207/4015">Moritz Schloegel</author><author pid="121/1138">Eric Gustafson</author><author pid="185/2352">Marius Muench</author><author pid="v/GiovanniVigna">Giovanni Vigna</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="h/ThorstenHolz">Thorsten Holz</author><author pid="73/2297-2">Ali Abbasi 0002</author></authors><title>Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>1239-1256</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ScharnowskiBSGM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/scharnowski</ee><url>https://dblp.org/rec/conf/uss/ScharnowskiBSGM22</url></info>
+<url>URL#626998</url>
+</hit>
+<hit score="1" id="626999">
+<info><authors><author pid="207/4015">Moritz Schloegel</author><author pid="205/2079">Tim Blazytko</author><author pid="150/7970">Moritz Contag</author><author pid="160/7844">Cornelius Aschermann</author><author pid="295/8565">Julius Basler</author><author pid="h/ThorstenHolz">Thorsten Holz</author><author pid="73/2297-2">Ali Abbasi 0002</author></authors><title>Loki: Hardening Code Obfuscation Against Automated Attacks.</title><venue>USENIX Security Symposium</venue><pages>3055-3073</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SchlogelBCABH022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/schloegel</ee><url>https://dblp.org/rec/conf/uss/SchlogelBCABH022</url></info>
+<url>URL#626999</url>
+</hit>
+<hit score="1" id="627000">
+<info><authors><author pid="272/7215">David Schrammel</author><author pid="145/2706">Samuel Weiser</author><author pid="331/2191">Richard Sadek</author><author pid="91/4831">Stefan Mangard</author></authors><title>Jenny: Securing Syscalls for PKU-based Memory Isolation Systems.</title><venue>USENIX Security Symposium</venue><pages>936-952</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SchrammelWSM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/schrammel</ee><url>https://dblp.org/rec/conf/uss/SchrammelWSM22</url></info>
+<url>URL#627000</url>
+</hit>
+<hit score="1" id="627002">
+<info><authors><author pid="196/0697">Asuman Senol</author><author pid="136/8452">Gunes Acar</author><author pid="83/8816">Mathias Humbert</author><author pid="126/2663">Frederik J. Zuiderveen Borgesius</author></authors><title>Leaky Forms: A Study of Email and Password Exfiltration Before Form Submission.</title><venue>USENIX Security Symposium</venue><pages>1813-1830</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SenolAHB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/senol</ee><url>https://dblp.org/rec/conf/uss/SenolAHB22</url></info>
+<url>URL#627002</url>
+</hit>
+<hit score="1" id="627003">
+<info><authors><author pid="316/4141">Alon Shakevsky</author><author pid="180/7297">Eyal Ronen</author><author pid="w/AvishaiWool">Avishai Wool</author></authors><title>Trust Dies in Darkness: Shedding Light on Samsung&apos;s TrustZone Keymaster Design.</title><venue>USENIX Security Symposium</venue><pages>251-268</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShakevskyRW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/shakevsky</ee><url>https://dblp.org/rec/conf/uss/ShakevskyRW22</url></info>
+<url>URL#627003</url>
+</hit>
+<hit score="1" id="627004">
+<info><authors><author pid="217/9308">Shawn Shan</author><author pid="199/2164">Arjun Nitin Bhagoji</author><author pid="43/4261">Haitao Zheng 0001</author><author pid="z/BenYZhao">Ben Y. Zhao</author></authors><title>Poison Forensics: Traceback of Data Poisoning Attacks in Neural Networks.</title><venue>USENIX Security Symposium</venue><pages>3575-3592</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShanB0Z22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/shan</ee><url>https://dblp.org/rec/conf/uss/ShanB0Z22</url></info>
+<url>URL#627004</url>
+</hit>
+<hit score="1" id="627005">
+<info><authors><author pid="304/2671">Vandit Sharma</author><author pid="87/8324">Mainack Mondal</author></authors><title>Understanding and Improving Usability of Data Dashboards for Simplified Privacy Control of Voice Assistant Data.</title><venue>USENIX Security Symposium</venue><pages>3379-3395</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SharmaM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/sharma-vandit</ee><url>https://dblp.org/rec/conf/uss/SharmaM22</url></info>
+<url>URL#627005</url>
+</hit>
+<hit score="1" id="627006">
+<info><authors><author pid="172/1323">Rahul Anand Sharma</author><author pid="180/7169">Elahe Soltanaghaei</author><author pid="02/630">Anthony Rowe 0001</author><author pid="45/4044">Vyas Sekar</author></authors><title>Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment.</title><venue>USENIX Security Symposium</venue><pages>1095-1112</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SharmaSRS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/sharma-rahul</ee><url>https://dblp.org/rec/conf/uss/SharmaSRS22</url></info>
+<url>URL#627006</url>
+</hit>
+<hit score="1" id="627007">
+<info><authors><author pid="187/9868">Tohid Shekari</author><author pid="48/6119">Alvaro A. Cárdenas</author><author pid="12/6354">Raheem Beyah</author></authors><title>MaDIoT 2.0: Modern High-Wattage IoT Botnet Attacks and Defenses.</title><venue>USENIX Security Symposium</venue><pages>3539-3556</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShekariCB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/shekari</ee><url>https://dblp.org/rec/conf/uss/ShekariCB22</url></info>
+<url>URL#627007</url>
+</hit>
+<hit score="1" id="627008">
+<info><authors><author pid="280/7865">Zekun Shen</author><author pid="331/2514">Ritik Roongta</author><author pid="94/7563">Brendan Dolan-Gavitt</author></authors><title>Drifuzz: Harvesting Bugs in Device Drivers from Golden Seeds.</title><venue>USENIX Security Symposium</venue><pages>1275-1290</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShenRD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/shen-zekun</ee><url>https://dblp.org/rec/conf/uss/ShenRD22</url></info>
+<url>URL#627008</url>
+</hit>
+<hit score="1" id="627009">
+<info><authors><author pid="14/4412">Yun Shen</author><author pid="122/8629">Pierre-Antoine Vervier</author><author pid="86/8823">Gianluca Stringhini</author></authors><title>A Large-scale Temporal Measurement of Android Malicious Apps: Persistence, Migration, and Lessons Learned.</title><venue>USENIX Security Symposium</venue><pages>1167-1184</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ShenVS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/shen-yun</ee><url>https://dblp.org/rec/conf/uss/ShenVS22</url></info>
+<url>URL#627009</url>
+</hit>
+<hit score="1" id="627010">
+<info><authors><author pid="331/2215">Youkun Shi</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="331/2055">Tianhan Luo</author><author pid="138/3444">Xiangyu Mao</author><author pid="28/8733">Yinzhi Cao</author><author pid="05/8765">Ziwen Wang</author><author pid="44/2817">Yudi Zhao</author><author pid="331/2409">Zongan Huang</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Backporting Security Patches of Web Applications: A Prototype Design and Implementation on Injection Vulnerability Patches.</title><venue>USENIX Security Symposium</venue><pages>1993-2010</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Shi0LMCWZH022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/shi</ee><url>https://dblp.org/rec/conf/uss/Shi0LMCWZH022</url></info>
+<url>URL#627010</url>
+</hit>
+<hit score="1" id="627011">
+<info><authors><author pid="156/5453">Sandra Siby</author><author pid="08/8604">Umar Iqbal</author><author pid="137/7764">Steven Englehardt</author><author pid="83/9528">Zubair Shafiq</author><author pid="01/4825">Carmela Troncoso</author></authors><title>WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking.</title><venue>USENIX Security Symposium</venue><pages>2875-2892</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SibyIEST22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/siby</ee><url>https://dblp.org/rec/conf/uss/SibyIEST22</url></info>
+<url>URL#627011</url>
+</hit>
+<hit score="1" id="627012">
+<info><authors><author pid="292/8996">Julia Slupska</author><author pid="253/0712">Selina Y. Cho</author><author pid="331/2231">Marissa Begonia</author><author pid="163/8698">Ruba Abu-Salma</author><author pid="331/2491">Nayanatara Prakash</author><author pid="331/2190">Mallika Balakrishnan</author></authors><title>&quot;They Look at Vulnerability and Use That to Abuse You&quot;: Participatory Threat Modelling with Migrant Domestic Workers.</title><venue>USENIX Security Symposium</venue><pages>323-340</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SlupskaCBAPB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/slupska-vulnerability</ee><url>https://dblp.org/rec/conf/uss/SlupskaCBAPB22</url></info>
+<url>URL#627012</url>
+</hit>
+<hit score="1" id="627013">
+<info><authors><author pid="292/8996">Julia Slupska</author><author pid="161/3360">Angelika Strohmayer</author></authors><title>Networks of Care: Tech Abuse Advocates&apos; Digital Security Practices.</title><venue>USENIX Security Symposium</venue><pages>341-358</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SlupskaS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/slupska-networks</ee><url>https://dblp.org/rec/conf/uss/SlupskaS22</url></info>
+<url>URL#627013</url>
+</hit>
+<hit score="1" id="627014">
+<info><authors><author pid="218/3823">Jean-Pierre Smith</author><author pid="331/2772">Luca Dolfi</author><author pid="39/6266">Prateek Mittal</author><author pid="16/6873">Adrian Perrig</author></authors><title>QCSD: A QUIC Client-Side Website-Fingerprinting Defence Framework.</title><venue>USENIX Security Symposium</venue><pages>771-789</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SmithDMP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/smith</ee><url>https://dblp.org/rec/conf/uss/SmithDMP22</url></info>
+<url>URL#627014</url>
+</hit>
+<hit score="1" id="627015">
+<info><authors><author pid="232/2988">Konstantinos Solomos</author><author pid="129/9582">Panagiotis Ilia</author><author pid="270/2346">Soroush Karami</author><author pid="04/8280">Nick Nikiforakis</author><author pid="47/8412">Jason Polakis</author></authors><title>The Dangers of Human Touch: Fingerprinting Browser Extensions through User Actions.</title><venue>USENIX Security Symposium</venue><pages>717-733</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SolomosIKNP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/solomos</ee><url>https://dblp.org/rec/conf/uss/SolomosIKNP22</url></info>
+<url>URL#627015</url>
+</hit>
+<hit score="1" id="627016">
+<info><authors><author pid="264/9973">Flavien Solt</author><author pid="68/86">Ben Gras</author><author pid="121/2685">Kaveh Razavi</author></authors><title>CellIFT: Leveraging Cells for Scalable and Precise Dynamic Information Flow Tracking in RTL.</title><venue>USENIX Security Symposium</venue><pages>2549-2566</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SoltGR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/solt</ee><url>https://dblp.org/rec/conf/uss/SoltGR22</url></info>
+<url>URL#627016</url>
+</hit>
+<hit score="1" id="627017">
+<info><authors><author pid="165/9469">Shravan Srinivasan</author><author pid="175/1587">Alexander Chepurnoy</author><author pid="p/CharalamposPapamanthou">Charalampos Papamanthou</author><author pid="119/7737">Alin Tomescu</author><author pid="82/4816-1">Yupeng Zhang 0001</author></authors><title>Hyperproofs: Aggregating and Maintaining Proofs in Vector Commitments.</title><venue>USENIX Security Symposium</venue><pages>3001-3018</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SrinivasanCPT022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/srinivasan</ee><url>https://dblp.org/rec/conf/uss/SrinivasanCPT022</url></info>
+<url>URL#627017</url>
+</hit>
+<hit score="1" id="627018">
+<info><authors><author pid="266/1311">Theresa Stadler</author><author pid="222/4910">Bristena Oprisanu</author><author pid="01/4825">Carmela Troncoso</author></authors><title>Synthetic Data - Anonymisation Groundhog Day.</title><venue>USENIX Security Symposium</venue><pages>1451-1468</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/StadlerOT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/stadler</ee><url>https://dblp.org/rec/conf/uss/StadlerOT22</url></info>
+<url>URL#627018</url>
+</hit>
+<hit score="1" id="627019">
+<info><authors><author pid="135/8303">Timothy Stevens</author><author pid="07/3882">Christian Skalka</author><author pid="178/5254">Christelle Vincent</author><author pid="252/3936">John Ring</author><author pid="175/9593">Samuel Clark</author><author pid="39/5361">Joseph P. Near</author></authors><title>Efficient Differentially Private Secure Aggregation for Federated Learning via Hardness of Learning with Errors.</title><venue>USENIX Security Symposium</venue><pages>1379-1395</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/StevensSVRCN22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/stevens</ee><url>https://dblp.org/rec/conf/uss/StevensSVRCN22</url></info>
+<url>URL#627019</url>
+</hit>
+<hit score="1" id="627021">
+<info><authors><author pid="167/0439">Octavian Suciu</author><author pid="285/5518">Connor Nelson</author><author pid="285/4821">Zhuoer Lyu</author><author pid="150/5198">Tiffany Bao</author><author pid="01/4921">Tudor Dumitras</author></authors><title>Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits.</title><venue>USENIX Security Symposium</venue><pages>377-394</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SuciuNLBD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/suciu</ee><url>https://dblp.org/rec/conf/uss/SuciuNLBD22</url></info>
+<url>URL#627021</url>
+</hit>
+<hit score="1" id="627022">
+<info><authors><author pid="182/4673">Avinash Sudhodanan</author><author pid="30/9784">Andrew Paverd</author></authors><title>Pre-hijacked accounts: An Empirical Study of Security Failures in User Account Creation on the Web.</title><venue>USENIX Security Symposium</venue><pages>1795-1812</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SudhodananP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/sudhodanan</ee><url>https://dblp.org/rec/conf/uss/SudhodananP22</url></info>
+<url>URL#627022</url>
+</hit>
+<hit score="1" id="627023">
+<info><authors><author pid="331/2217">George Arnold Sullivan</author><author pid="327/9719">Jackson Sippe</author><author pid="12/3207">Nadia Heninger</author><author pid="60/8733">Eric Wustrow</author></authors><title>Open to a fault: On the passive compromise of TLS keys via transient errors.</title><venue>USENIX Security Symposium</venue><pages>233-250</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/SullivanSHW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/sullivan</ee><url>https://dblp.org/rec/conf/uss/SullivanSHW22</url></info>
+<url>URL#627023</url>
+</hit>
+<hit score="1" id="627024">
+<info><authors><author pid="65/5518">Xinyu Tang</author><author pid="208/0825">Saeed Mahloujifar</author><author pid="150/3945">Liwei Song</author><author pid="243/3113">Virat Shejwalkar</author><author pid="187/8997">Milad Nasr</author><author pid="22/1797">Amir Houmansadr</author><author pid="39/6266">Prateek Mittal</author></authors><title>Mitigating Membership Inference Attacks by Self-Distillation Through a Novel Ensemble Architecture.</title><venue>USENIX Security Symposium</venue><pages>1433-1450</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TangMSSNHM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/tang</ee><url>https://dblp.org/rec/conf/uss/TangMSSNHM22</url></info>
+<url>URL#627024</url>
+</hit>
+<hit score="1" id="627025">
+<info><authors><author pid="174/8281">Mohammadkazem Taram</author><author pid="298/8714">Xida Ren</author><author pid="76/11029">Ashish Venkat</author><author pid="t/DeanMTullsen">Dean M. Tullsen</author></authors><title>SecSMT: Securing SMT Processors against Contention-Based Covert Channels.</title><venue>USENIX Security Symposium</venue><pages>3165-3182</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TaramRVT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/taram</ee><url>https://dblp.org/rec/conf/uss/TaramRVT22</url></info>
+<url>URL#627025</url>
+</hit>
+<hit score="1" id="627026">
+<info><authors><author pid="223/0853">Andrei Tatar</author><author pid="331/2106">Daniël Trujillo</author><author pid="75/8194">Cristiano Giuffrida</author><author pid="91/800">Herbert Bos</author></authors><title>TLB;DR: Enhancing TLB-based Attacks with TLB Desynchronized Reverse Engineering.</title><venue>USENIX Security Symposium</venue><pages>989-1007</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TatarTGB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/tatar</ee><url>https://dblp.org/rec/conf/uss/TatarTGB22</url></info>
+<url>URL#627026</url>
+</hit>
+<hit score="1" id="627028">
+<info><authors><author pid="287/4822">Anvith Thudi</author><author pid="255/4934">Hengrui Jia</author><author pid="213/8587">Ilia Shumailov</author><author pid="162/1405">Nicolas Papernot</author></authors><title>On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning.</title><venue>USENIX Security Symposium</venue><pages>4007-4022</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ThudiJSP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/thudi</ee><url>https://dblp.org/rec/conf/uss/ThudiJSP22</url></info>
+<url>URL#627028</url>
+</hit>
+<hit score="1" id="627029">
+<info><authors><author pid="250/5797">Daniel Townley</author><author pid="323/4231">Kerem Arikan</author><author pid="30/3456">Yu David Liu</author><author pid="p/DmitryVPonomarev">Dmitry Ponomarev 0001</author><author pid="48/389">Oguz Ergin</author></authors><title>Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks.</title><venue>USENIX Security Symposium</venue><pages>2839-2856</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TownleyAL0E22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/townley</ee><url>https://dblp.org/rec/conf/uss/TownleyAL0E22</url></info>
+<url>URL#627029</url>
+</hit>
+<hit score="1" id="627030">
+<info><authors><author pid="117/6580">Rahmadi Trimananda</author><author pid="123/2117">Hieu Le</author><author pid="98/75">Hao Cui</author><author pid="294/8429">Janice Tran Ho</author><author pid="167/5922">Anastasia Shuba</author><author pid="82/5866">Athina Markopoulou</author></authors><title>OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR.</title><venue>USENIX Security Symposium</venue><pages>3789-3806</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TrimanandaLCHSM22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda</ee><url>https://dblp.org/rec/conf/uss/TrimanandaLCHSM22</url></info>
+<url>URL#627030</url>
+</hit>
+<hit score="1" id="627031">
+<info><authors><author pid="202/7675">Timothy Trippel</author><author pid="s/KangGShin">Kang G. Shin</author><author pid="284/8063">Alex Chernyakhovsky</author><author pid="284/8404">Garret Kelly</author><author pid="09/5053">Dominic Rizzo</author><author pid="09/2334">Matthew Hicks</author></authors><title>Fuzzing Hardware Like Software.</title><venue>USENIX Security Symposium</venue><pages>3237-3254</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TrippelSCKRH22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/trippel</ee><url>https://dblp.org/rec/conf/uss/TrippelSCKRH22</url></info>
+<url>URL#627031</url>
+</hit>
+<hit score="1" id="627032">
+<info><authors><author pid="213/3696">Lenka Turonová</author><author pid="64/6177">Lukás Holík</author><author pid="171/6536">Ivan Homoliak</author><author pid="47/7646">Ondrej Lengál</author><author pid="42/6841">Margus Veanes</author><author pid="51/533">Tomás Vojnar</author></authors><title>Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers.</title><venue>USENIX Security Symposium</venue><pages>4165-4182</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TuronovaHHLVV22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/turonova</ee><url>https://dblp.org/rec/conf/uss/TuronovaHHLVV22</url></info>
+<url>URL#627032</url>
+</hit>
+<hit score="1" id="627033">
+<info><authors><author pid="174/4813">Nirvan Tyagi</author><author pid="207/6590">Julia Len</author><author pid="129/9500">Ian Miers</author><author pid="26/3399">Thomas Ristenpart</author></authors><title>Orca: Blocklisting in Sender-Anonymous Messaging.</title><venue>USENIX Security Symposium</venue><pages>2299-2316</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/TyagiLMR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/tyagi</ee><url>https://dblp.org/rec/conf/uss/TyagiLMR22</url></info>
+<url>URL#627033</url>
+</hit>
+<hit score="1" id="627034">
+<info><authors><author pid="224/1548">Jayakrishna Vadayath</author><author pid="200/3271">Moritz Eckert</author><author pid="270/2413">Kyle Zeng</author><author pid="182/6157">Nicolaas Weideman</author><author pid="331/2470">Gokulkrishna Praveen Menon</author><author pid="11/10929">Yanick Fratantonio</author><author pid="56/490">Davide Balzarotti</author><author pid="28/8280">Adam Doupé</author><author pid="150/5198">Tiffany Bao</author><author pid="127/9829">Ruoyu Wang 0001</author><author pid="28/10586">Christophe Hauser</author><author pid="119/7712">Yan Shoshitaishvili</author></authors><title>Arbiter: Bridging the Static and Dynamic Divide in Vulnerability Discovery on Binary Programs.</title><venue>USENIX Security Symposium</venue><pages>413-430</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/VadayathEZWMFBD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/vadayath</ee><url>https://dblp.org/rec/conf/uss/VadayathEZWMFBD22</url></info>
+<url>URL#627034</url>
+</hit>
+<hit score="1" id="627035">
+<info><authors><author pid="187/7077">Pratik Vaishnavi</author><author pid="157/9161">Kevin Eykholt</author><author pid="125/0358">Amir Rahmati</author></authors><title>Transferring Adversarial Robustness Through Robust Representation Matching.</title><venue>USENIX Security Symposium</venue><pages>2083-2098</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/VaishnaviER22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/vaishnavi</ee><url>https://dblp.org/rec/conf/uss/VaishnaviER22</url></info>
+<url>URL#627035</url>
+</hit>
+<hit score="1" id="627036">
+<info><authors><author pid="130/1339">Lun Wang</author><author pid="281/7021">Usmann Khan</author><author pid="39/5361">Joseph P. Near</author><author pid="44/8421">Qi Pang</author><author pid="281/6755">Jithendaraa Subramanian</author><author pid="248/7712">Neel Somani</author><author pid="29/5999-8">Peng Gao 0008</author><author pid="174/9529">Andrew Low</author><author pid="s/DXSong">Dawn Song</author></authors><title>PrivGuard: Privacy Regulation Compliance Made Easier.</title><venue>USENIX Security Symposium</venue><pages>3753-3770</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangKNPSS0LS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wang-lun</ee><url>https://dblp.org/rec/conf/uss/WangKNPSS0LS22</url></info>
+<url>URL#627036</url>
+</hit>
+<hit score="1" id="627037">
+<info><authors><author pid="78/2022">Kai Wang</author><author pid="244/4957">Richard Mitev</author><author pid="46/1162-1">Chen Yan 0001</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="s/AhmadRezaSadeghi">Ahmad-Reza Sadeghi</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>GhostTouch: Targeted Attacks on Touchscreens without Physical Touch.</title><venue>USENIX Security Symposium</venue><pages>1543-1559</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangMY0SX22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai</ee><url>https://dblp.org/rec/conf/uss/WangMY0SX22</url></info>
+<url>URL#627037</url>
+</hit>
+<hit score="1" id="627038">
+<info><authors><author pid="216/4663">Yingchen Wang</author><author pid="224/9301">Riccardo Paccagnella</author><author pid="331/2739">Elizabeth Tang He</author><author pid="35/1061">Hovav Shacham</author><author pid="25/8166">Christopher W. Fletcher</author><author pid="131/5093">David Kohlbrenner</author></authors><title>Hertzbleed: Turning Power Side-Channel Attacks Into Remote Timing Attacks on x86.</title><venue>USENIX Security Symposium</venue><pages>679-697</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangPHSFK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wang-yingchen</ee><url>https://dblp.org/rec/conf/uss/WangPHSFK22</url></info>
+<url>URL#627038</url>
+</hit>
+<hit score="1" id="627039">
+<info><authors><author pid="210/1379">Chuhan Wang</author><author pid="245/2568">Kaiwen Shen</author><author pid="278/8551">Minglei Guo</author><author pid="173/0246">Yuxuan Zhao</author><author pid="29/3959">Mingming Zhang</author><author pid="20/1036-5">Jianjun Chen 0005</author><author pid="89/10754">Baojun Liu</author><author pid="11/11005">Xiaofeng Zheng</author><author pid="36/5143">Haixin Duan</author><author pid="331/2560">Yanzhong Lin</author><author pid="245/2668">Qingfeng Pan</author></authors><title>A Large-scale and Longitudinal Measurement Study of DKIM Deployment.</title><venue>USENIX Security Symposium</venue><pages>1185-1201</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangSGZZ0LZDLP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wang-chuhan</ee><url>https://dblp.org/rec/conf/uss/WangSGZZ0LZDLP22</url></info>
+<url>URL#627039</url>
+</hit>
+<hit score="1" id="627040">
+<info><authors><author pid="10/293">Zhiwei Wang</author><author pid="118/0321">Yihui Yan</author><author pid="331/2308">Yueli Yan</author><author pid="202/8474">Huangxun Chen</author><author pid="162/5529">Zhice Yang</author></authors><title>CamShield: Securing Smart Cameras through Physical Replication and Isolation.</title><venue>USENIX Security Symposium</venue><pages>3467-3484</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WangYYCY22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wang-zhiwei</ee><url>https://dblp.org/rec/conf/uss/WangYYCY22</url></info>
+<url>URL#627040</url>
+</hit>
+<hit score="1" id="627041">
+<info><authors><author pid="317/1692">Jean-Luc Watson</author><author pid="175/1766">Sameer Wagh</author><author pid="91/275">Raluca Ada Popa</author></authors><title>Piranha: A GPU Platform for Secure Computation.</title><venue>USENIX Security Symposium</venue><pages>827-844</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WatsonWP22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/watson</ee><url>https://dblp.org/rec/conf/uss/WatsonWP22</url></info>
+<url>URL#627041</url>
+</hit>
+<hit score="1" id="627043">
+<info><authors><author pid="331/2554">Johannes Wikner</author><author pid="121/2685">Kaveh Razavi</author></authors><title>RETBLEED: Arbitrary Speculative Code Execution with Return Instructions.</title><venue>USENIX Security Symposium</venue><pages>3825-3842</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WiknerR22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wikner</ee><url>https://dblp.org/rec/conf/uss/WiknerR22</url></info>
+<url>URL#627043</url>
+</hit>
+<hit score="1" id="627044">
+<info><authors><author pid="201/9210">Seunghoon Woo</author><author pid="308/2183">Hyunji Hong</author><author pid="196/5004">Eunjin Choi</author><author pid="75/4485">Heejo Lee</author></authors><title>MOVERY: A Precise Approach for Modified Vulnerable Code Clone Discovery from Modified Open-Source Software Components.</title><venue>USENIX Security Symposium</venue><pages>3037-3053</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WooHCL22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/woo</ee><url>https://dblp.org/rec/conf/uss/WooHCL22</url></info>
+<url>URL#627044</url>
+</hit>
+<hit score="1" id="627045">
+<info><authors><author pid="179/3242">Yongji Wu</author><author pid="146/9100">Xiaoyu Cao</author><author pid="24/5124">Jinyuan Jia</author><author pid="03/9437">Neil Zhenqiang Gong</author></authors><title>Poisoning Attacks to Local Differential Privacy Protocols for Key-Value Data.</title><venue>USENIX Security Symposium</venue><pages>519-536</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WuCJG22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wu-yongji</ee><url>https://dblp.org/rec/conf/uss/WuCJG22</url></info>
+<url>URL#627045</url>
+</hit>
+<hit score="1" id="627046">
+<info><authors><author pid="40/5102">Ruoyu Wu</author><author pid="157/5259">Taegyu Kim</author><author pid="159/0537">Dave (Jing) Tian</author><author pid="99/3883">Antonio Bianchi</author><author pid="59/5539">Dongyan Xu</author></authors><title>DnD: A Cross-Architecture Deep Neural Network Decompiler.</title><venue>USENIX Security Symposium</venue><pages>2135-2152</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WuKTBX22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wu-ruoyu</ee><url>https://dblp.org/rec/conf/uss/WuKTBX22</url></info>
+<url>URL#627046</url>
+</hit>
+<hit score="1" id="627047">
+<info><authors><author pid="248/1662">Qiushi Wu</author><author pid="80/6791">Yue Xiao</author><author pid="129/1113">Xiaojing Liao</author><author pid="67/10639">Kangjie Lu</author></authors><title>OS-Aware Vulnerability Prioritization via Differential Severity Analysis.</title><venue>USENIX Security Symposium</venue><pages>395-412</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WuXLL22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wu-qiushi</ee><url>https://dblp.org/rec/conf/uss/WuXLL22</url></info>
+<url>URL#627047</url>
+</hit>
+<hit score="1" id="627048">
+<info><authors><author pid="205/3035">Shujiang Wu</author><author pid="251/3631">Jianjia Yu</author><author pid="02/1640-2">Min Yang 0002</author><author pid="28/8733">Yinzhi Cao</author></authors><title>Rendering Contention Channel Made Practical in Web Browsers.</title><venue>USENIX Security Symposium</venue><pages>3183-3199</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/WuY0C22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/wu-shujiang</ee><url>https://dblp.org/rec/conf/uss/WuY0C22</url></info>
+<url>URL#627048</url>
+</hit>
+<hit score="1" id="627049">
+<info><authors><author pid="205/5853">Qinge Xie</author><author pid="329/5533">Shujun Tang</author><author pid="11/11005">Xiaofeng Zheng</author><author pid="257/1214">Qingran Lin</author><author pid="89/10754">Baojun Liu</author><author pid="36/5143">Haixin Duan</author><author pid="53/10825">Frank Li 0001</author></authors><title>Building an Open, Robust, and Stable Voting-Based Domain Top List.</title><venue>USENIX Security Symposium</venue><pages>625-642</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XieTZLLD022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/xie</ee><url>https://dblp.org/rec/conf/uss/XieTZLLD022</url></info>
+<url>URL#627049</url>
+</hit>
+<hit score="1" id="627050">
+<info><authors><author pid="217/0857">Jiarong Xing</author><author pid="36/10257">Kuo-Feng Hsu</author><author pid="25/9687">Yiming Qiu</author><author pid="331/2526">Ziyang Yang</author><author pid="45/4076">Hongyi Liu</author><author pid="59/146-1">Ang Chen 0001</author></authors><title>Bedrock: Programmable Network Support for Secure RDMA Systems.</title><venue>USENIX Security Symposium</venue><pages>2585-2600</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XingHQYLC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/xing</ee><url>https://dblp.org/rec/conf/uss/XingHQYLC22</url></info>
+<url>URL#627050</url>
+</hit>
+<hit score="1" id="627051">
+<info><authors><author pid="259/6190">Diwen Xue</author><author pid="270/2465">Reethika Ramesh</author><author pid="305/3463">Arham Jain</author><author pid="68/4656">Michalis Kallitsis 0001</author><author pid="h/JAlexHalderman">J. Alex Halderman</author><author pid="c/JRCrandall">Jedidiah R. Crandall</author><author pid="24/973">Roya Ensafi</author></authors><title>OpenVPN is Open to VPN Fingerprinting.</title><venue>USENIX Security Symposium</venue><pages>483-500</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/XueRJ0HCE22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/xue-diwen</ee><url>https://dblp.org/rec/conf/uss/XueRJ0HCE22</url></info>
+<url>URL#627051</url>
+</hit>
+<hit score="1" id="627052">
+<info><authors><author pid="46/1162-1">Chen Yan 0001</author><author pid="72/8350">Zhijian Xu</author><author pid="289/3025">Zhanyuan Yin</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="10/3878-1">Wenyuan Xu 0001</author></authors><title>Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition.</title><venue>USENIX Security Symposium</venue><pages>1957-1974</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YanXY0X22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/yan</ee><url>https://dblp.org/rec/conf/uss/YanXY0X22</url></info>
+<url>URL#627052</url>
+</hit>
+<hit score="1" id="627053">
+<info><authors><author pid="309/6323">Sungbae Yoo</author><author pid="231/1918">Jinbum Park</author><author pid="309/5909">Seolheui Kim</author><author pid="183/9947">Yeji Kim</author><author pid="38/8882">Taesoo Kim</author></authors><title>In-Kernel Control-Flow Integrity on Commodity OSes using ARM Pointer Authentication.</title><venue>USENIX Security Symposium</venue><pages>89-106</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YooPKKK22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/yoo</ee><url>https://dblp.org/rec/conf/uss/YooPKKK22</url></info>
+<url>URL#627053</url>
+</hit>
+<hit score="1" id="627054">
+<info><authors><author pid="69/5196">Jeffrey Young</author><author pid="271/4608">Song Liao</author><author pid="49/225-5">Long Cheng 0005</author><author pid="02/2870">Hongxin Hu</author><author pid="271/4533">Huixing Deng</author></authors><title>SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild.</title><venue>USENIX Security Symposium</venue><pages>1113-1130</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YoungL0HD22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/young</ee><url>https://dblp.org/rec/conf/uss/YoungL0HD22</url></info>
+<url>URL#627054</url>
+</hit>
+<hit score="1" id="627055">
+<info><authors><author pid="23/7122-2">Le Yu 0002</author><author pid="14/3968">Yangyang Liu</author><author pid="226/7196">Pengfei Jing</author><author pid="53/1565">Xiapu Luo</author><author pid="68/2052-1">Lei Xue 0001</author><author pid="201/9069">Kaifa Zhao</author><author pid="15/7381">Yajin Zhou</author><author pid="12/2633-6">Ting Wang 0006</author><author pid="64/1147">Guofei Gu</author><author pid="50/8847">Sen Nie</author><author pid="49/10149">Shi Wu</author></authors><title>Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols.</title><venue>USENIX Security Symposium</venue><pages>1939-1956</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YuLJL0ZZ0GNW22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/yu-le</ee><url>https://dblp.org/rec/conf/uss/YuLJL0ZZ0GNW22</url></info>
+<url>URL#627055</url>
+</hit>
+<hit score="1" id="627056">
+<info><authors><author pid="181/2830">Sheng Yu</author><author pid="70/7820">Yu Qu</author><author pid="148/1333">Xunchao Hu</author><author pid="77/6178-1">Heng Yin 0001</author></authors><title>DeepDi: Learning a Relational Graph Convolutional Network Model on Instructions for Fast and Accurate Disassembly.</title><venue>USENIX Security Symposium</venue><pages>2709-2725</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YuQHY22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/yu-sheng</ee><url>https://dblp.org/rec/conf/uss/YuQHY22</url></info>
+<url>URL#627056</url>
+</hit>
+<hit score="1" id="627057">
+<info><authors><author pid="276/6842">Jason Zhijingcheng Yu</author><author pid="136/8404">Shweta Shinde</author><author pid="37/10441">Trevor E. Carlson</author><author pid="90/105">Prateek Saxena</author></authors><title>Elasticlave: An Efficient Memory Model for Enclaves.</title><venue>USENIX Security Symposium</venue><pages>4111-4128</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YuSCS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/yu-jason</ee><url>https://dblp.org/rec/conf/uss/YuSCS22</url></info>
+<url>URL#627057</url>
+</hit>
+<hit score="1" id="627058">
+<info><authors><author pid="150/3870">Xiaoyong Yuan</author><author pid="54/2752-5">Lan Zhang 0005</author></authors><title>Membership Inference Attacks and Defenses in Neural Network Pruning.</title><venue>USENIX Security Symposium</venue><pages>4561-4578</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Yuan022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/yuan-xiaoyong</ee><url>https://dblp.org/rec/conf/uss/Yuan022</url></info>
+<url>URL#627058</url>
+</hit>
+<hit score="1" id="627059">
+<info><authors><author pid="295/5277">Yuanyuan Yuan</author><author pid="44/8421">Qi Pang</author><author pid="42/1503-11">Shuai Wang 0011</author></authors><title>Automated Side Channel Analysis of Media Software with Manifold Learning.</title><venue>USENIX Security Symposium</venue><pages>4419-4436</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/YuanP022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/yuan-yuanyuan</ee><url>https://dblp.org/rec/conf/uss/YuanP022</url></info>
+<url>URL#627059</url>
+</hit>
+<hit score="1" id="627060">
+<info><authors><author pid="216/6671">Mojtaba Zaheri</author><author pid="69/39">Yossi Oren</author><author pid="c/RezaCurtmola">Reza Curtmola</author></authors><title>Targeted Deanonymization via the Cache Side Channel: Attacks and Defenses.</title><venue>USENIX Security Symposium</venue><pages>1505-1523</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZaheriOC22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zaheri</ee><url>https://dblp.org/rec/conf/uss/ZaheriOC22</url></info>
+<url>URL#627060</url>
+</hit>
+<hit score="1" id="627062">
+<info><authors><author pid="270/2413">Kyle Zeng</author><author pid="16/6884">Yueqi Chen</author><author pid="164/2543">Haehyun Cho</author><author pid="40/6431">Xinyu Xing</author><author pid="28/8280">Adam Doupé</author><author pid="119/7712">Yan Shoshitaishvili</author><author pid="150/5198">Tiffany Bao</author></authors><title>Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability.</title><venue>USENIX Security Symposium</venue><pages>71-88</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZengCCXDSB22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zeng</ee><url>https://dblp.org/rec/conf/uss/ZengCCXDSB22</url></info>
+<url>URL#627062</url>
+</hit>
+<hit score="1" id="627063">
+<info><authors><author pid="297/3112">Zenong Zhang</author><author pid="318/5093">Zach Patterson</author><author pid="h/MichaelWHicks">Michael Hicks 0001</author><author pid="120/0117">Shiyi Wei</author></authors><title>FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing.</title><venue>USENIX Security Symposium</venue><pages>3699-3715</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhangP0W22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zenong</ee><url>https://dblp.org/rec/conf/uss/ZhangP0W22</url></info>
+<url>URL#627063</url>
+</hit>
+<hit score="1" id="627064">
+<info><authors><author pid="09/5661">Yuchen Zhang</author><author pid="223/6697">Chengbin Pang</author><author pid="44/3319">Georgios Portokalidis</author><author pid="29/4200">Nikos Triandopoulos</author><author pid="90/514-24">Jun Xu 0024</author></authors><title>Debloating Address Sanitizer.</title><venue>USENIX Security Symposium</venue><pages>4345-4363</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhangPPT022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-yuchen</ee><url>https://dblp.org/rec/conf/uss/ZhangPPT022</url></info>
+<url>URL#627064</url>
+</hit>
+<hit score="1" id="627065">
+<info><authors><author pid="203/8611">Jiaheng Zhang</author><author pid="216/6422">Tiancheng Xie</author><author pid="132/2690">Thang Hoang</author><author pid="80/4580">Elaine Shi</author><author pid="82/4816-1">Yupeng Zhang 0001</author></authors><title>Polynomial Commitment with a One-to-Many Prover and Applications.</title><venue>USENIX Security Symposium</venue><pages>2965-2982</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhangXHSZ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-jiaheng</ee><url>https://dblp.org/rec/conf/uss/ZhangXHSZ22</url></info>
+<url>URL#627065</url>
+</hit>
+<hit score="1" id="627066">
+<info><authors><author pid="278/7106">Zirui Neil Zhao</author><author pid="40/944">Adam Morrison 0001</author><author pid="25/8166">Christopher W. Fletcher</author><author pid="t/JosepTorrellas">Josep Torrellas</author></authors><title>Binoculars: Contention-Based Side-Channel Attacks Exploiting the Page Walker.</title><venue>USENIX Security Symposium</venue><pages>699-716</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/Zhao0FT22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhao-zirui</ee><url>https://dblp.org/rec/conf/uss/Zhao0FT22</url></info>
+<url>URL#627066</url>
+</hit>
+<hit score="1" id="627067">
+<info><authors><author pid="237/1416">Bodong Zhao</author><author pid="62/7776">Zheming Li</author><author pid="297/2374">Shisong Qin</author><author pid="249/4978">Zheyu Ma</author><author pid="37/449">Ming Yuan</author><author pid="57/1228">Wenyu Zhu</author><author pid="73/5444">Zhihong Tian</author><author pid="94/3019-8">Chao Zhang 0008</author></authors><title>StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing.</title><venue>USENIX Security Symposium</venue><pages>3273-3289</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhaoLQMYZT022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhao-bodong</ee><url>https://dblp.org/rec/conf/uss/ZhaoLQMYZT022</url></info>
+<url>URL#627067</url>
+</hit>
+<hit score="1" id="627068">
+<info><authors><author pid="167/0431">Shunfan Zhou</author><author pid="55/11040">Zhemin Yang</author><author pid="152/4915">Dan Qiao</author><author pid="21/6121-5">Peng Liu 0005</author><author pid="02/1640-2">Min Yang 0002</author><author pid="75/3158-17">Zhe Wang 0017</author><author pid="51/3529-2">Chenggang Wu 0002</author></authors><title>Ferry: State-Aware Symbolic Execution for Exploring State-Dependent Program Paths.</title><venue>USENIX Security Symposium</venue><pages>4365-4382</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhouYQ000022</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhou-shunfan</ee><url>https://dblp.org/rec/conf/uss/ZhouYQ000022</url></info>
+<url>URL#627068</url>
+</hit>
+<hit score="1" id="627069">
+<info><authors><author pid="184/9445">Ce Zhou</author><author pid="86/10809">Qiben Yan</author><author pid="67/2601">Yan Shi</author><author pid="121/0780-1">Lichao Sun 0001</author></authors><title>DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems.</title><venue>USENIX Security Symposium</venue><pages>1885-1902</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZhouYSS22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zhou-ce</ee><url>https://dblp.org/rec/conf/uss/ZhouYSS22</url></info>
+<url>URL#627069</url>
+</hit>
+<hit score="1" id="627070">
+<info><authors><author pid="210/0533">Xiaochen Zou</author><author pid="272/7041">Guoren Li</author><author pid="224/9379">Weiteng Chen</author><author pid="49/6156-12">Hang Zhang 0012</author><author pid="31/8302">Zhiyun Qian</author></authors><title>SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel.</title><venue>USENIX Security Symposium</venue><pages>3201-3217</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZouLCZQ22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zou</ee><url>https://dblp.org/rec/conf/uss/ZouLCZQ22</url></info>
+<url>URL#627070</url>
+</hit>
+<hit score="1" id="627071">
+<info><authors><author pid="149/8302">Chaoshun Zuo</author><author pid="49/4102">Zhiqiang Lin</author></authors><title>Playing Without Paying: Detecting Vulnerable Payment Verification in Native Binaries of Unity Mobile Games.</title><venue>USENIX Security Symposium</venue><pages>3093-3110</pages><year>2022</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/uss/ZuoL22</key><ee>https://www.usenix.org/conference/usenixsecurity22/presentation/zuo</ee><url>https://dblp.org/rec/conf/uss/ZuoL22</url></info>
+<url>URL#627071</url>
+</hit>
+<hit score="1" id="639256">
+<info><authors><author pid="82/1935">Kevin R. B. Butler</author><author pid="68/8283">Kurt Thomas</author></authors><title>31st USENIX Security Symposium, USENIX Security 2022, Boston, MA, USA, August 10-12, 2022</title><venue>USENIX Security Symposium</venue><publisher>USENIX Association</publisher><year>2022</year><type>Editorship</type><access>open</access><key>conf/uss/2022</key><ee>https://www.usenix.org/conference/usenixsecurity22</ee><url>https://dblp.org/rec/conf/uss/2022</url></info>
+<url>URL#639256</url>
+</hit>
+</hits>
+</result>

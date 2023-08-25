@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="251179">:facetid:toc:\"db/conf/vldb/phd2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">177.03</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="41057698">:facetid:toc:db/conf/vldb/phd2020.bht</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="1" id="1527713">
+<info><authors><author pid="61/7364-1">Thomas Bodner 0001</author></authors><title>Elastic Query Processing on Function as a Service Platforms.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/000120</key><ee>https://ceur-ws.org/Vol-2652/paper12.pdf</ee><url>https://dblp.org/rec/conf/vldb/000120</url></info>
+<url>URL#1527713</url>
+</hit>
+<hit score="1" id="1527717">
+<info><authors><author pid="201/4398">Tanja Auge</author></authors><title>Extended Provenance Management for Data Science Applications.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Auge20</key><ee>https://ceur-ws.org/Vol-2652/paper04.pdf</ee><url>https://dblp.org/rec/conf/vldb/Auge20</url></info>
+<url>URL#1527717</url>
+</hit>
+<hit score="1" id="1527719">
+<info><authors><author pid="266/6112">Paul Boniol</author></authors><title>Unsupervised Subsequence Anomaly Detection in Large Sequences.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Boniol20</key><ee>https://ceur-ws.org/Vol-2652/paper02.pdf</ee><url>https://dblp.org/rec/conf/vldb/Boniol20</url></info>
+<url>URL#1527719</url>
+</hit>
+<hit score="1" id="1527720">
+<info><authors><author pid="273/7049">Vincent Le Claire</author></authors><title>Efficient and Scalable Aggregate Computation on Temporal Graphs.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Claire20</key><ee>https://ceur-ws.org/Vol-2652/paper11.pdf</ee><url>https://dblp.org/rec/conf/vldb/Claire20</url></info>
+<url>URL#1527720</url>
+</hit>
+<hit score="1" id="1527723">
+<info><authors><author pid="136/7969">Sainyam Galhotra</author></authors><title>Reliable Clustering with Applications to Data Integration.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Galhotra20</key><ee>https://ceur-ws.org/Vol-2652/paper14.pdf</ee><url>https://dblp.org/rec/conf/vldb/Galhotra20</url></info>
+<url>URL#1527723</url>
+</hit>
+<hit score="1" id="1527724">
+<info><authors><author pid="137/8903-1">Maxime Gobert 0001</author></authors><title>Schema Evolution in Hybrid Databases Systems.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Gobert20</key><ee>https://ceur-ws.org/Vol-2652/paper08.pdf</ee><url>https://dblp.org/rec/conf/vldb/Gobert20</url></info>
+<url>URL#1527724</url>
+</hit>
+<hit score="1" id="1527726">
+<info><authors><author pid="136/5662">Suyash Gupta</author></authors><title>Resilient and Scalable Architecture for Permissioned Blockchain Fabrics.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Gupta20</key><ee>https://ceur-ws.org/Vol-2652/paper13.pdf</ee><url>https://dblp.org/rec/conf/vldb/Gupta20</url></info>
+<url>URL#1527726</url>
+</hit>
+<hit score="1" id="1527733">
+<info><authors><author pid="177/3057">Ziyu Li</author></authors><title>Complex Event Processing on Real-time Video Streams.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Li20</key><ee>https://ceur-ws.org/Vol-2652/paper03.pdf</ee><url>https://dblp.org/rec/conf/vldb/Li20</url></info>
+<url>URL#1527733</url>
+</hit>
+<hit score="1" id="1527735">
+<info><authors><author pid="273/7017">Kajetan Jeremi Maliszewski</author></authors><title>Secure Data Processing at Scale.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Maliszewski20</key><ee>https://ceur-ws.org/Vol-2652/paper07.pdf</ee><url>https://dblp.org/rec/conf/vldb/Maliszewski20</url></info>
+<url>URL#1527735</url>
+</hit>
+<hit score="1" id="1527740">
+<info><authors><author pid="237/3343">Serafeim Papadias</author></authors><title>Tunable Streaming Graph Embeddings at Scale.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Papadias20</key><ee>https://ceur-ws.org/Vol-2652/paper10.pdf</ee><url>https://dblp.org/rec/conf/vldb/Papadias20</url></info>
+<url>URL#1527740</url>
+</hit>
+<hit score="1" id="1527741">
+<info><authors><author pid="40/7459">Aditya G. Parameswaran</author></authors><title>Democratizing Data Science and Lessons Learned Along the Way.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Parameswaran20</key><ee>https://ceur-ws.org/Vol-2652/keynote1.pdf</ee><url>https://dblp.org/rec/conf/vldb/Parameswaran20</url></info>
+<url>URL#1527741</url>
+</hit>
+<hit score="1" id="1527745">
+<info><authors><author pid="200/9072">Roee Shraga</author></authors><title>(Artificial) Mind over Matter: Humans In and Humans Out in Matching.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Shraga20</key><ee>https://ceur-ws.org/Vol-2652/paper06.pdf</ee><url>https://dblp.org/rec/conf/vldb/Shraga20</url></info>
+<url>URL#1527745</url>
+</hit>
+<hit score="1" id="1527747">
+<info><authors><author pid="199/8616">Diego G. Tomé</author></authors><title>Redesigning Query Engines for White-box Compression.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Tome20</key><ee>https://ceur-ws.org/Vol-2652/paper09.pdf</ee><url>https://dblp.org/rec/conf/vldb/Tome20</url></info>
+<url>URL#1527747</url>
+</hit>
+<hit score="1" id="1527752">
+<info><authors><author pid="86/1953">Ji Zhang</author></authors><title>AlphaJoin: Join Order Selection à la AlphaGo.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Zhang20</key><ee>https://ceur-ws.org/Vol-2652/paper05.pdf</ee><url>https://dblp.org/rec/conf/vldb/Zhang20</url></info>
+<url>URL#1527752</url>
+</hit>
+<hit score="1" id="1527755">
+<info><authors><author pid="236/7410">Ariane Ziehn</author></authors><title>Complex Event Processing for the Internet of Things.</title><venue>PhD@VLDB</venue><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Ziehn20</key><ee>https://ceur-ws.org/Vol-2652/paper01.pdf</ee><url>https://dblp.org/rec/conf/vldb/Ziehn20</url></info>
+<url>URL#1527755</url>
+</hit>
+<hit score="1" id="1539154">
+<info><authors><author pid="38/8707">Ziawasch Abedjan</author><author pid="h/KatjaHose">Katja Hose</author></authors><title>Proceedings of the VLDB 2020 PhD Workshop co-located with the 46th International Conference on Very Large Databases (VLDB 2020), ONLINE, August 31 - September 4, 2020.</title><venue>PhD@VLDB</venue><venue>CEUR Workshop Proceedings</venue><volume>2652</volume><publisher>CEUR-WS.org</publisher><year>2020</year><type>Editorship</type><access>open</access><key>conf/vldb/2020phd</key><ee>https://ceur-ws.org/Vol-2652</ee><url>https://dblp.org/rec/conf/vldb/2020phd</url></info>
+<url>URL#1539154</url>
+</hit>
+</hits>
+</result>

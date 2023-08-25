@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="239309">:facetid:toc:\"db/conf/sp/sp2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">179.56</time>
+<completions total="1" computed="1" sent="1">
+<c sc="105" dc="105" oc="105" id="41054518">:facetid:toc:db/conf/sp/sp2020.bht</c>
+</completions>
+<hits total="105" computed="105" sent="105" first="0">
+<hit score="1" id="1520681">
+<info><authors><author pid="92/5367-1">Nishant Kumar 0001</author><author pid="33/2105-2">Mayank Rathee</author><author pid="77/5616">Nishanth Chandran</author><author pid="66/11477-1">Divya Gupta 0001</author><author pid="81/10809">Aseem Rastogi</author><author pid="22/846-1">Rahul Sharma 0001</author></authors><title>CrypTFlow: Secure TensorFlow Inference.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>336-353</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/0001RCGR020</key><doi>10.1109/SP40000.2020.00092</doi><ee>https://doi.org/10.1109/SP40000.2020.00092</ee><url>https://dblp.org/rec/conf/sp/0001RCGR020</url></info>
+<url>URL#1520681</url>
+</hit>
+<hit score="1" id="1520682">
+<info><authors><author pid="36/5720">Ittai Abraham</author><author pid="m/DahliaMalkhi">Dahlia Malkhi</author><author pid="143/4459">Kartik Nayak</author><author pid="30/10661">Ling Ren 0001</author><author pid="166/6440">Maofan Yin</author></authors><title>Sync HotStuff: Simple and Practical Synchronous State Machine Replication.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>106-118</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AbrahamMN0Y20</key><doi>10.1109/SP40000.2020.00044</doi><ee>https://doi.org/10.1109/SP40000.2020.00044</ee><url>https://dblp.org/rec/conf/sp/AbrahamMN0Y20</url></info>
+<url>URL#1520682</url>
+</hit>
+<hit score="1" id="1520684">
+<info><authors><author pid="181/0549">Sam Ainsworth 0001</author><author pid="62/1131">Timothy M. Jones 0001</author></authors><title>MarkUs: Drop-in use-after-free prevention for low-level languages.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>578-591</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Ainsworth020</key><doi>10.1109/SP40000.2020.00058</doi><ee>https://doi.org/10.1109/SP40000.2020.00058</ee><url>https://dblp.org/rec/conf/sp/Ainsworth020</url></info>
+<url>URL#1520684</url>
+</hit>
+<hit score="1" id="1520687">
+<info><authors><author pid="66/3456">José Bacelar Almeida</author><author pid="06/5631">Manuel Barbosa</author><author pid="b/GBarthe">Gilles Barthe</author><author pid="28/2414">Benjamin Grégoire</author><author pid="160/4605">Adrien Koutsos</author><author pid="66/8883">Vincent Laporte</author><author pid="87/4879-4">Tiago Oliveira 0004</author><author pid="35/5080">Pierre-Yves Strub</author></authors><title>The Last Mile: High-Assurance and High-Speed Cryptographic Implementations.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>965-982</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AlmeidaBBGKL0S20</key><doi>10.1109/SP40000.2020.00028</doi><ee>https://doi.org/10.1109/SP40000.2020.00028</ee><url>https://dblp.org/rec/conf/sp/AlmeidaBBGKL0S20</url></info>
+<url>URL#1520687</url>
+</hit>
+<hit score="1" id="1520689">
+<info><authors><author pid="212/5112">Mary Jean Amon</author><author pid="157/1889">Rakibul Hasan</author><author pid="20/8704">Kurt Hugenberg</author><author pid="130/5588">Bennett I. Bertenthal</author><author pid="50/6916">Apu Kapadia</author></authors><title>Influencing Photo Sharing Decisions on Social Media: A Case of Paradoxical Findings.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1350-1366</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AmonHHBK20</key><doi>10.1109/SP40000.2020.00006</doi><ee>https://doi.org/10.1109/SP40000.2020.00006</ee><url>https://dblp.org/rec/conf/sp/AmonHHBK20</url></info>
+<url>URL#1520689</url>
+</hit>
+<hit score="1" id="1520690">
+<info><authors><author pid="132/8480">Sebastian Angel</author><author pid="86/5425">Sampath Kannan</author><author pid="191/9335">Zachary B. Ratliff</author></authors><title>Private resource allocators and their applications.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>372-391</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AngelKR20</key><doi>10.1109/SP40000.2020.00065</doi><ee>https://doi.org/10.1109/SP40000.2020.00065</ee><url>https://dblp.org/rec/conf/sp/AngelKR20</url></info>
+<url>URL#1520690</url>
+</hit>
+<hit score="1" id="1520691">
+<info><authors><author pid="133/5077">Daniele Antonioli</author><author pid="32/7125">Nils Ole Tippenhauer</author><author pid="01/4779">Kasper Rasmussen</author></authors><title>BIAS: Bluetooth Impersonation AttackS.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>549-562</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AntonioliTR20</key><doi>10.1109/SP40000.2020.00093</doi><ee>https://doi.org/10.1109/SP40000.2020.00093</ee><url>https://dblp.org/rec/conf/sp/AntonioliTR20</url></info>
+<url>URL#1520691</url>
+</hit>
+<hit score="1" id="1520692">
+<info><authors><author pid="160/7844">Cornelius Aschermann</author><author pid="205/2072">Sergej Schumilo</author><author pid="73/2297-2">Ali Abbasi 0002</author><author pid="h/ThorstenHolz">Thorsten Holz</author></authors><title>Ijon: Exploring Deep State Spaces via Fuzzing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1597-1612</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/AschermannSAH20</key><doi>10.1109/SP40000.2020.00117</doi><ee>https://doi.org/10.1109/SP40000.2020.00117</ee><url>https://dblp.org/rec/conf/sp/AschermannSAH20</url></info>
+<url>URL#1520692</url>
+</hit>
+<hit score="1" id="1520694">
+<info><authors><author pid="72/6104">Jonathan Berger</author><author pid="98/3396">Amit Klein 0001</author><author pid="31/1735">Benny Pinkas</author></authors><title>Flaw Label: Exploiting IPv6 Flow Label.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1259-1276</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BergerKP20</key><doi>10.1109/SP40000.2020.00075</doi><ee>https://doi.org/10.1109/SP40000.2020.00075</ee><url>https://dblp.org/rec/conf/sp/BergerKP20</url></info>
+<url>URL#1520694</url>
+</hit>
+<hit score="1" id="1520695">
+<info><authors><author pid="189/5540">Matthew Bernhard</author><author pid="205/2107">Allison McDonald</author><author pid="272/8287">Henry Meng</author><author pid="272/8306">Jensen Hwa</author><author pid="272/8289">Nakul Bajaj</author><author pid="69/5103-4">Kevin Chang 0004</author><author pid="h/JAlexHalderman">J. Alex Halderman</author></authors><title>Can Voters Detect Malicious Manipulation of Ballot Marking Devices?</title><venue>IEEE Symposium on Security and Privacy</venue><pages>679-694</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BernhardMMHBCH20</key><doi>10.1109/SP40000.2020.00118</doi><ee>https://doi.org/10.1109/SP40000.2020.00118</ee><url>https://dblp.org/rec/conf/sp/BernhardMMHBCH20</url></info>
+<url>URL#1520695</url>
+</hit>
+<hit score="1" id="1520697">
+<info><authors><author pid="203/4291">Sean Bowe</author><author pid="27/8534">Alessandro Chiesa</author><author pid="74/4531-1">Matthew Green 0001</author><author pid="129/9500">Ian Miers</author><author pid="161/3103">Pratyush Mishra</author><author pid="192/8757">Howard Wu</author></authors><title>ZEXE: Enabling Decentralized Private Computation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>947-964</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BoweC0MMW20</key><doi>10.1109/SP40000.2020.00050</doi><ee>https://doi.org/10.1109/SP40000.2020.00050</ee><url>https://dblp.org/rec/conf/sp/BoweC0MMW20</url></info>
+<url>URL#1520697</url>
+</hit>
+<hit score="1" id="1520698">
+<info><authors><author pid="137/8806">Tegan Brennan</author><author pid="94/7855">Nicolás Rosner</author><author pid="07/3368">Tevfik Bultan</author></authors><title>JIT Leaks: Inducing Timing Side Channels through Just-In-Time Compilation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1207-1222</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BrennanRB20</key><doi>10.1109/SP40000.2020.00007</doi><ee>https://doi.org/10.1109/SP40000.2020.00007</ee><url>https://dblp.org/rec/conf/sp/BrennanRB20</url></info>
+<url>URL#1520698</url>
+</hit>
+<hit score="1" id="1520699">
+<info><authors><author pid="167/1573">Jo Van Bulck</author><author pid="241/6242">Daniel Moghimi</author><author pid="08/1117-1">Michael Schwarz 0001</author><author pid="172/1127">Moritz Lipp</author><author pid="198/6796">Marina Minkin</author><author pid="98/8283">Daniel Genkin</author><author pid="90/10901">Yuval Yarom</author><author pid="91/465">Berk Sunar</author><author pid="166/1494">Daniel Gruss</author><author pid="85/6647">Frank Piessens</author></authors><title>LVI: Hijacking Transient Execution through Microarchitectural Load Value Injection.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>54-72</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BulckM0LMGYSGP20</key><doi>10.1109/SP40000.2020.00089</doi><ee>https://doi.org/10.1109/SP40000.2020.00089</ee><url>https://dblp.org/rec/conf/sp/BulckM0LMGYSGP20</url></info>
+<url>URL#1520699</url>
+</hit>
+<hit score="1" id="1520700">
+<info><authors><author pid="161/0070">Benedikt Bünz</author><author pid="209/8649">Lucianna Kiffer</author><author pid="145/1016">Loi Luu</author><author pid="27/7672">Mahdi Zamani</author></authors><title>FlyClient: Super-Light Clients for Cryptocurrencies.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>928-946</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/BunzKLZ20</key><doi>10.1109/SP40000.2020.00049</doi><ee>https://doi.org/10.1109/SP40000.2020.00049</ee><url>https://dblp.org/rec/conf/sp/BunzKLZ20</url></info>
+<url>URL#1520700</url>
+</hit>
+<hit score="1" id="1520702">
+<info><authors><author pid="255/2388">David Cerdeira</author><author pid="07/967-1">Nuno Santos 0001</author><author pid="11/3119-1">Pedro Fonseca 0001</author><author pid="170/0331">Sandro Pinto 0001</author></authors><title>SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1416-1432</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Cerdeira0FP20</key><doi>10.1109/SP40000.2020.00061</doi><ee>https://doi.org/10.1109/SP40000.2020.00061</ee><url>https://dblp.org/rec/conf/sp/Cerdeira0FP20</url></info>
+<url>URL#1520702</url>
+</hit>
+<hit score="1" id="1520705">
+<info><authors><author pid="30/7449">Jianbo Chen</author><author pid="j/MichaelIJordan">Michael I. Jordan</author><author pid="48/6396">Martin J. Wainwright</author></authors><title>HopSkipJumpAttack: A Query-Efficient Decision-Based Attack.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1277-1294</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ChenJW20</key><doi>10.1109/SP40000.2020.00045</doi><ee>https://doi.org/10.1109/SP40000.2020.00045</ee><url>https://dblp.org/rec/conf/sp/ChenJW20</url></info>
+<url>URL#1520705</url>
+</hit>
+<hit score="1" id="1520706">
+<info><authors><author pid="89/8201">Yaohui Chen</author><author pid="83/6353">Peng Li</author><author pid="90/514-24">Jun Xu 0024</author><author pid="162/3606">Shengjian Guo</author><author pid="148/1300">Rundong Zhou</author><author pid="32/9374">Yulong Zhang</author><author pid="64/5099">Tao Wei</author><author pid="81/7428">Long Lu</author></authors><title>SAVIOR: Towards Bug-Driven Hybrid Testing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1580-1596</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ChenLXGZZWL20</key><doi>10.1109/SP40000.2020.00002</doi><ee>https://doi.org/10.1109/SP40000.2020.00002</ee><url>https://dblp.org/rec/conf/sp/ChenLXGZZWL20</url></info>
+<url>URL#1520706</url>
+</hit>
+<hit score="1" id="1520708">
+<info><authors><author pid="272/8273">Eunyong Cheon</author><author pid="76/104">Yonghwan Shin</author><author pid="58/3207">Jun Ho Huh</author><author pid="64/5383">Hyoungshick Kim</author><author pid="76/3174">Ian Oakley</author></authors><title>Gesture Authentication for Smartphones: Evaluation of Gesture Password Selection Policies.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>249-267</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CheonSHKO20</key><doi>10.1109/SP40000.2020.00034</doi><ee>https://doi.org/10.1109/SP40000.2020.00034</ee><url>https://dblp.org/rec/conf/sp/CheonSHKO20</url></info>
+<url>URL#1520708</url>
+</hit>
+<hit score="1" id="1520711">
+<info><authors><author pid="170/3520">Shaanan Cohney</author><author pid="176/8068">Andrew Kwong</author><author pid="265/8863">Shahar Paz</author><author pid="98/8283">Daniel Genkin</author><author pid="12/3207">Nadia Heninger</author><author pid="180/7297">Eyal Ronen</author><author pid="90/10901">Yuval Yarom</author></authors><title>Pseudorandom Black Swans: Cache Attacks on CTR_DRBG.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1241-1258</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CohneyKPGHRY20</key><doi>10.1109/SP40000.2020.00046</doi><ee>https://doi.org/10.1109/SP40000.2020.00046</ee><url>https://dblp.org/rec/conf/sp/CohneyKPGHRY20</url></info>
+<url>URL#1520711</url>
+</hit>
+<hit score="1" id="1520712">
+<info><authors><author pid="172/8756">Lucian Cojocar</author><author pid="148/9733">Jeremie S. Kim</author><author pid="147/0857">Minesh Patel</author><author pid="178/4784">Lillian Tsai</author><author pid="17/3782">Stefan Saroiu</author><author pid="06/915">Alec Wolman</author><author pid="m/OnurMutlu">Onur Mutlu</author></authors><title>Are We Susceptible to Rowhammer? An End-to-End Methodology for Cloud Providers.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>712-728</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CojocarKPTSWM20</key><doi>10.1109/SP40000.2020.00085</doi><ee>https://doi.org/10.1109/SP40000.2020.00085</ee><url>https://dblp.org/rec/conf/sp/CojocarKPTSWM20</url></info>
+<url>URL#1520712</url>
+</hit>
+<hit score="1" id="1520713">
+<info><authors><author pid="249/2786">Marco Cominelli</author><author pid="59/4302">Francesco Gringoli</author><author pid="03/7603">Paul Patras</author><author pid="272/8285">Margus Lind</author><author pid="25/5432">Guevara Noubir</author></authors><title>Even Black Cats Cannot Stay Hidden in the Dark: Full-band De-anonymization of Bluetooth Classic Devices.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>534-548</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/CominelliGPLN20</key><doi>10.1109/SP40000.2020.00091</doi><ee>https://doi.org/10.1109/SP40000.2020.00091</ee><url>https://dblp.org/rec/conf/sp/CominelliGPLN20</url></info>
+<url>URL#1520713</url>
+</hit>
+<hit score="1" id="1520715">
+<info><authors><author pid="168/1849">Philip Daian</author><author pid="151/5205">Steven Goldfeder</author><author pid="239/5193">Tyler Kell</author><author pid="25/1892-2">Yunqi Li 0002</author><author pid="56/39">Xueyuan Zhao</author><author pid="24/508">Iddo Bentov</author><author pid="216/6355">Lorenz Breidenbach</author><author pid="j/AriJuels">Ari Juels</author></authors><title>Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>910-927</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DaianGKLZBBJ20</key><doi>10.1109/SP40000.2020.00040</doi><ee>https://doi.org/10.1109/SP40000.2020.00040</ee><url>https://dblp.org/rec/conf/sp/DaianGKLZBBJ20</url></info>
+<url>URL#1520715</url>
+</hit>
+<hit score="1" id="1520716">
+<info><authors><author pid="219/7484">Savino Dambra</author><author pid="15/6037">Leyla Bilge</author><author pid="56/490">Davide Balzarotti</author></authors><title>SoK: Cyber Insurance - Technical Challenges and a System Security Roadmap.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1367-1383</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DambraBB20</key><doi>10.1109/SP40000.2020.00019</doi><ee>https://doi.org/10.1109/SP40000.2020.00019</ee><url>https://dblp.org/rec/conf/sp/DambraBB20</url></info>
+<url>URL#1520716</url>
+</hit>
+<hit score="1" id="1520717">
+<info><authors><author pid="222/9411">Lesly-Ann Daniel</author><author pid="b/SebastienBardin">Sébastien Bardin</author><author pid="42/6705">Tamara Rezk</author></authors><title>Binsec/Rel: Efficient Relational Symbolic Execution for Constant-Time at Binary-Level.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1021-1038</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DanielBR20</key><doi>10.1109/SP40000.2020.00074</doi><ee>https://doi.org/10.1109/SP40000.2020.00074</ee><url>https://dblp.org/rec/conf/sp/DanielBR20</url></info>
+<url>URL#1520717</url>
+</hit>
+<hit score="1" id="1520719">
+<info><authors><author pid="120/6314">Luke Deshotels</author><author pid="166/8961">Costin Carabas</author><author pid="272/8281">Jordan Beichler</author><author pid="38/7719">Razvan Deaconescu</author><author pid="22/4463">William Enck</author></authors><title>Kobold: Evaluating Decentralized Access Control for Remote NSXPC Methods on iOS.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1056-1070</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DeshotelsCBDE20</key><doi>10.1109/SP40000.2020.00023</doi><ee>https://doi.org/10.1109/SP40000.2020.00023</ee><url>https://dblp.org/rec/conf/sp/DeshotelsCBDE20</url></info>
+<url>URL#1520719</url>
+</hit>
+<hit score="1" id="1520720">
+<info><authors><author pid="194/2840">Clemens Deußer</author><author pid="211/3812">Steffen Passmann</author><author pid="69/2809">Thorsten Strufe</author></authors><title>Browsing Unicity: On the Limits of Anonymizing Web Tracking Data.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>777-790</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DeusserPS20</key><doi>10.1109/SP40000.2020.00018</doi><ee>https://doi.org/10.1109/SP40000.2020.00018</ee><url>https://dblp.org/rec/conf/sp/DeusserPS20</url></info>
+<url>URL#1520720</url>
+</hit>
+<hit score="1" id="1520721">
+<info><authors><author pid="266/8877">Sushant Dinesh</author><author pid="157/1187">Nathan Burow</author><author pid="59/5539">Dongyan Xu</author><author pid="31/1273">Mathias Payer</author></authors><title>RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1497-1511</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/DineshBXP20</key><doi>10.1109/SP40000.2020.00009</doi><ee>https://doi.org/10.1109/SP40000.2020.00009</ee><url>https://dblp.org/rec/conf/sp/DineshBXP20</url></info>
+<url>URL#1520721</url>
+</hit>
+<hit score="1" id="1520723">
+<info><authors><author pid="236/5179">Laura Edelson</author><author pid="00/3175">Tobias Lauinger</author><author pid="58/4016">Damon McCoy</author></authors><title>A Security Analysis of the Facebook Ad Library.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>661-678</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/EdelsonLM20</key><doi>10.1109/SP40000.2020.00084</doi><ee>https://doi.org/10.1109/SP40000.2020.00084</ee><url>https://dblp.org/rec/conf/sp/EdelsonLM20</url></info>
+<url>URL#1520723</url>
+</hit>
+<hit score="1" id="1520725">
+<info><authors><author pid="18/10309">Nathaniel Wesley Filardo</author><author pid="239/8902">Brett F. Gutstein</author><author pid="136/3901">Jonathan Woodruff</author><author pid="181/0549">Sam Ainsworth 0001</author><author pid="272/8269">Lucian Paul-Trifu</author><author pid="57/429">Brooks Davis</author><author pid="209/9036">Hongyan Xia</author><author pid="209/9047">Edward Tomasz Napierala</author><author pid="200/4453">Alexander Richardson</author><author pid="74/3740">John Baldwin</author><author pid="85/1618">David Chisnall</author><author pid="211/0885">Jessica Clarke 0001</author><author pid="22/4668">Khilan Gudka</author><author pid="189/1762">Alexandre Joannou</author><author pid="20/4458">A. Theodore Markettos</author><author pid="209/9026">Alfredo Mazzinghi</author><author pid="233/0169">Robert M. Norton</author><author pid="21/5870">Michael Roe</author><author pid="74/185">Peter Sewell</author><author pid="189/1765">Stacey D. Son</author><author pid="62/1131">Timothy M. Jones 0001</author><author pid="m/SimonWMoore">Simon W. Moore</author><author pid="n/PeterGNeumann">Peter G. Neumann</author><author pid="70/2118">Robert N. M. Watson</author></authors><title>Cornucopia: Temporal Safety for CHERI Heaps.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>608-625</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/FilardoGWAPDXNR20</key><doi>10.1109/SP40000.2020.00098</doi><ee>https://doi.org/10.1109/SP40000.2020.00098</ee><url>https://dblp.org/rec/conf/sp/FilardoGWAPDXNR20</url></info>
+<url>URL#1520725</url>
+</hit>
+<hit score="1" id="1520726">
+<info><authors><author pid="200/8880">Daniel Frassinelli</author><author pid="272/8319">Sohyeon Park</author><author pid="45/1876">Stefan Nürnberger</author></authors><title>I Know Where You Parked Last Summer : Automated Reverse Engineering and Privacy Analysis of Modern Cars.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1401-1415</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/FrassinelliPN20</key><doi>10.1109/SP40000.2020.00081</doi><ee>https://doi.org/10.1109/SP40000.2020.00081</ee><url>https://dblp.org/rec/conf/sp/FrassinelliPN20</url></info>
+<url>URL#1520726</url>
+</hit>
+<hit score="1" id="1520727">
+<info><authors><author pid="224/2335">Pietro Frigo</author><author pid="262/3667">Emanuele Vannacci</author><author pid="147/4013">Hasan Hassan</author><author pid="119/2260">Victor van der Veen</author><author pid="m/OnurMutlu">Onur Mutlu</author><author pid="75/8194">Cristiano Giuffrida</author><author pid="91/800">Herbert Bos</author><author pid="121/2685">Kaveh Razavi</author></authors><title>TRRespass: Exploiting the Many Sides of Target Row Refresh.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>747-762</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/FrigoVHVMGBR20</key><doi>10.1109/SP40000.2020.00090</doi><ee>https://doi.org/10.1109/SP40000.2020.00090</ee><url>https://dblp.org/rec/conf/sp/FrigoVHVMGBR20</url></info>
+<url>URL#1520727</url>
+</hit>
+<hit score="1" id="1520728">
+<info><authors><author pid="220/5536">Julien Gamba</author><author pid="241/5097">Mohammed Rashed</author><author pid="149/9322">Abbas Razaghpanah</author><author pid="98/3527">Juan Tapiador</author><author pid="50/7563">Narseo Vallina-Rodriguez</author></authors><title>An Analysis of Pre-installed Android Software.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1039-1055</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GambaRRTV20</key><doi>10.1109/SP40000.2020.00013</doi><ee>https://doi.org/10.1109/SP40000.2020.00013</ee><url>https://dblp.org/rec/conf/sp/GambaRRTV20</url></info>
+<url>URL#1520728</url>
+</hit>
+<hit score="1" id="1520729">
+<info><authors><author pid="173/0112">Ilias Giechaskiel</author><author pid="01/4779">Kasper Bonne Rasmussen</author><author pid="66/8277">Jakub Szefer</author></authors><title>C3APSULe: Cross-FPGA Covert-Channel Attacks through Power Supply Unit Leakage.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1728-1741</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GiechaskielRS20</key><doi>10.1109/SP40000.2020.00070</doi><ee>https://doi.org/10.1109/SP40000.2020.00070</ee><url>https://dblp.org/rec/conf/sp/GiechaskielRS20</url></info>
+<url>URL#1520729</url>
+</hit>
+<hit score="1" id="1520730">
+<info><authors><author pid="118/6449">Marco Guarnieri</author><author pid="10/3908">Boris Köpf</author><author pid="03/305">José F. Morales 0001</author><author pid="67/3331">Jan Reineke 0001</author><author pid="232/3235">Andrés Sánchez</author></authors><title>Spectector: Principled Detection of Speculative Information Flows.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1-19</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GuarnieriKMRS20</key><doi>10.1109/SP40000.2020.00011</doi><ee>https://doi.org/10.1109/SP40000.2020.00011</ee><url>https://dblp.org/rec/conf/sp/GuarnieriKMRS20</url></info>
+<url>URL#1520730</url>
+</hit>
+<hit score="1" id="1520731">
+<info><authors><author pid="85/10076-2">Chun Guo 0002</author><author pid="k/JonathanKatz">Jonathan Katz</author><author pid="150/9413">Xiao Wang 0012</author><author pid="33/0-1">Yu Yu 0001</author></authors><title>Efficient and Secure Multiparty Computation from Fixed-Key Block Ciphers.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>825-841</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/GuoKW020</key><doi>10.1109/SP40000.2020.00016</doi><ee>https://doi.org/10.1109/SP40000.2020.00016</ee><url>https://dblp.org/rec/conf/sp/GuoKW020</url></info>
+<url>URL#1520731</url>
+</hit>
+<hit score="1" id="1520734">
+<info><authors><author pid="175/6283">Thomas Haines</author><author pid="244/5552">Sarah Jamie Lewis</author><author pid="78/1061">Olivier Pereira</author><author pid="t/VanessaTeague">Vanessa Teague</author></authors><title>How not to prove your election outcome.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>644-660</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HainesLPT20</key><doi>10.1109/SP40000.2020.00048</doi><ee>https://doi.org/10.1109/SP40000.2020.00048</ee><url>https://dblp.org/rec/conf/sp/HainesLPT20</url></info>
+<url>URL#1520734</url>
+</hit>
+<hit score="1" id="1520736">
+<info><authors><author pid="157/1889">Rakibul Hasan</author><author pid="c/DavidCrandall">David J. Crandall</author><author pid="07/5701">Mario Fritz</author><author pid="50/6916">Apu Kapadia</author></authors><title>Automatically Detecting Bystanders in Photos to Reduce Privacy Risks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>318-335</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HasanCFK20</key><doi>10.1109/SP40000.2020.00097</doi><ee>https://doi.org/10.1109/SP40000.2020.00097</ee><url>https://dblp.org/rec/conf/sp/HasanCFK20</url></info>
+<url>URL#1520736</url>
+</hit>
+<hit score="1" id="1520737">
+<info><authors><author pid="184/8086">Wajih Ul Hassan</author><author pid="126/3601">Adam Bates 0001</author><author pid="92/5876">Daniel Marino</author></authors><title>Tactical Provenance Analysis for Endpoint Detection and Response Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1172-1189</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Hassan0M20</key><doi>10.1109/SP40000.2020.00096</doi><ee>https://doi.org/10.1109/SP40000.2020.00096</ee><url>https://dblp.org/rec/conf/sp/Hassan0M20</url></info>
+<url>URL#1520737</url>
+</hit>
+<hit score="1" id="1520739">
+<info><authors><author pid="227/8935">Yuyu He</author><author pid="97/8704-96">Lei Zhang 0096</author><author pid="55/11040">Zhemin Yang</author><author pid="28/8733">Yinzhi Cao</author><author pid="272/8304">Keke Lian</author><author pid="57/2281">Shuai Li</author><author pid="03/1094-13">Wei Yang 0013</author><author pid="191/1165">Zhibo Zhang</author><author pid="02/1640-2">Min Yang 0002</author><author pid="48/2168-9">Yuan Zhang 0009</author><author pid="36/5143">Haixin Duan</author></authors><title>TextExerciser: Feedback-driven Text Input Exercising for Android Applications.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1071-1087</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HeZYCLLYZYZD20</key><doi>10.1109/SP40000.2020.00071</doi><ee>https://doi.org/10.1109/SP40000.2020.00071</ee><url>https://dblp.org/rec/conf/sp/HeZYCLLYZYZD20</url></info>
+<url>URL#1520739</url>
+</hit>
+<hit score="1" id="1520741">
+<info><authors><author pid="188/6160">Md Nahid Hossain</author><author pid="175/8252">Sanaz Sheikhi</author><author pid="90/1136-1">R. Sekar 0001</author></authors><title>Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1139-1155</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HossainSS20</key><doi>10.1109/SP40000.2020.00064</doi><ee>https://doi.org/10.1109/SP40000.2020.00064</ee><url>https://dblp.org/rec/conf/sp/HossainSS20</url></info>
+<url>URL#1520741</url>
+</hit>
+<hit score="1" id="1520743">
+<info><authors><author pid="78/7690">Heqing Huang</author><author pid="269/8140">Peisen Yao</author><author pid="92/9102">Rongxin Wu</author><author pid="145/3943">Qingkai Shi</author><author pid="51/7008">Charles Zhang</author></authors><title>Pangolin: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1613-1627</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/HuangYWSZ20</key><doi>10.1109/SP40000.2020.00063</doi><ee>https://doi.org/10.1109/SP40000.2020.00063</ee><url>https://dblp.org/rec/conf/sp/HuangYWSZ20</url></info>
+<url>URL#1520743</url>
+</hit>
+<hit score="1" id="1520746">
+<info><authors><author pid="08/8604">Umar Iqbal</author><author pid="139/5540">Peter Snyder</author><author pid="155/8420">Shitong Zhu</author><author pid="46/2924">Benjamin Livshits</author><author pid="31/8302">Zhiyun Qian</author><author pid="83/9528">Zubair Shafiq</author></authors><title>AdGraph: A Graph-Based Approach to Ad and Tracker Blocking.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>763-776</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/IqbalSZLQS20</key><doi>10.1109/SP40000.2020.00005</doi><ee>https://doi.org/10.1109/SP40000.2020.00005</ee><url>https://dblp.org/rec/conf/sp/IqbalSZLQS20</url></info>
+<url>URL#1520746</url>
+</hit>
+<hit score="1" id="1520748">
+<info><authors><author pid="175/5282">Steve T. K. Jan</author><author pid="254/0865">Qingying Hao</author><author pid="204/2957">Tianrui Hu</author><author pid="198/9527">Jiameng Pu</author><author pid="272/8268">Sonal Oswal</author><author pid="71/4292-11">Gang Wang 0011</author><author pid="24/604">Bimal Viswanath</author></authors><title>Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1190-1206</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JanHHPO0V20</key><doi>10.1109/SP40000.2020.00079</doi><ee>https://doi.org/10.1109/SP40000.2020.00079</ee><url>https://dblp.org/rec/conf/sp/JanHHPO0V20</url></info>
+<url>URL#1520748</url>
+</hit>
+<hit score="1" id="1520751">
+<info><authors><author pid="230/3262">Yan Jia</author><author pid="34/8412">Luyi Xing</author><author pid="63/9426">Yuhang Mao</author><author pid="272/7105">Dongfang Zhao 0010</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="253/1264">Shangru Zhao</author><author pid="83/6530-1">Yuqing Zhang 0001</author></authors><title>Burglars&apos; IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>465-481</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JiaXMZ0ZZ20</key><doi>10.1109/SP40000.2020.00051</doi><ee>https://doi.org/10.1109/SP40000.2020.00051</ee><url>https://dblp.org/rec/conf/sp/JiaXMZ0ZZ20</url></info>
+<url>URL#1520751</url>
+</hit>
+<hit score="1" id="1520752">
+<info><authors><author pid="64/8561">Jiao Jiao</author><author pid="153/5355">Shuanglong Kan</author><author pid="55/4730-1">Shang-Wei Lin 0001</author><author pid="22/111">David Sanán</author><author pid="51/3710-3">Yang Liu 0003</author><author pid="s/JunSun1">Jun Sun 0001</author></authors><title>Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1695-1712</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/JiaoK0S0020</key><doi>10.1109/SP40000.2020.00066</doi><ee>https://doi.org/10.1109/SP40000.2020.00066</ee><url>https://dblp.org/rec/conf/sp/JiaoK0S0020</url></info>
+<url>URL#1520752</url>
+</hit>
+<hit score="1" id="1520754">
+<info><authors><author pid="248/1646">Ranjita Pai Kasturi</author><author pid="15/8685">Yiting Sun</author><author pid="117/4491">Ruian Duan</author><author pid="127/7110">Omar Alrawi</author><author pid="272/8301">Ehsan Asdar</author><author pid="272/8311">Victor Zhu</author><author pid="139/7034">Yonghwi Kwon 0001</author><author pid="150/5240">Brendan Saltaformaggio</author></authors><title>TARDIS: Rolling Back The Clock On CMS-Targeting Cyber Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1156-1171</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KasturiSDAAZKS20</key><doi>10.1109/SP40000.2020.00116</doi><ee>https://doi.org/10.1109/SP40000.2020.00116</ee><url>https://dblp.org/rec/conf/sp/KasturiSDAAZKS20</url></info>
+<url>URL#1520754</url>
+</hit>
+<hit score="1" id="1520757">
+<info><authors><author pid="272/8278">Brian Kondracki</author><author pid="241/4280">Assel Aliyeva</author><author pid="27/3108">Manuel Egele</author><author pid="47/8412">Jason Polakis</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>Meddling Middlemen: Empirical Analysis of the Risks of Data-Saving Mobile Browsers.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>810-824</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KondrackiAEPN20</key><doi>10.1109/SP40000.2020.00077</doi><ee>https://doi.org/10.1109/SP40000.2020.00077</ee><url>https://dblp.org/rec/conf/sp/KondrackiAEPN20</url></info>
+<url>URL#1520757</url>
+</hit>
+<hit score="1" id="1520758">
+<info><authors><author pid="89/10042">Evgenios M. Kornaropoulos</author><author pid="p/CharalamposPapamanthou">Charalampos Papamanthou</author><author pid="t/RobertoTamassia">Roberto Tamassia</author></authors><title>The State of the Uniform: Attacks on Encrypted Databases Beyond the Uniform Query Distribution.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1223-1240</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KornaropoulosPT20</key><doi>10.1109/SP40000.2020.00029</doi><ee>https://doi.org/10.1109/SP40000.2020.00029</ee><url>https://dblp.org/rec/conf/sp/KornaropoulosPT20</url></info>
+<url>URL#1520758</url>
+</hit>
+<hit score="1" id="1520759">
+<info><authors><author pid="222/1569">Esmaeil Mohammadian Koruyeh</author><author pid="242/8308">Shirin Haji Amin Shirazi</author><author pid="169/7381">Khaled N. Khasawneh</author><author pid="69/6818">Chengyu Song</author><author pid="86/2654">Nael B. Abu-Ghazaleh</author></authors><title>SpecCFI: Mitigating Spectre Attacks using CFI Informed Speculation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>39-53</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KoruyehSKSA20</key><doi>10.1109/SP40000.2020.00033</doi><ee>https://doi.org/10.1109/SP40000.2020.00033</ee><url>https://dblp.org/rec/conf/sp/KoruyehSKSA20</url></info>
+<url>URL#1520759</url>
+</hit>
+<hit score="1" id="1520760">
+<info><authors><author pid="232/1891">Christiane Kuhn</author><author pid="70/2640">Martin Beck</author><author pid="69/2809">Thorsten Strufe</author></authors><title>Breaking and (Partially) Fixing Provably Secure Onion Routing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>168-185</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KuhnBS20</key><doi>10.1109/SP40000.2020.00039</doi><ee>https://doi.org/10.1109/SP40000.2020.00039</ee><url>https://dblp.org/rec/conf/sp/KuhnBS20</url></info>
+<url>URL#1520760</url>
+</hit>
+<hit score="1" id="1520762">
+<info><authors><author pid="55/9843">Michael Kurth</author><author pid="68/86">Ben Gras</author><author pid="131/5092">Dennis Andriesse</author><author pid="75/8194">Cristiano Giuffrida</author><author pid="91/800">Herbert Bos</author><author pid="121/2685">Kaveh Razavi</author></authors><title>: Practical Cache Attacks from the Network.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>20-38</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KurthGAGBR20</key><doi>10.1109/SP40000.2020.00082</doi><ee>https://doi.org/10.1109/SP40000.2020.00082</ee><url>https://dblp.org/rec/conf/sp/KurthGAGBR20</url></info>
+<url>URL#1520762</url>
+</hit>
+<hit score="1" id="1520763">
+<info><authors><author pid="176/8068">Andrew Kwong</author><author pid="98/8283">Daniel Genkin</author><author pid="166/1494">Daniel Gruss</author><author pid="90/10901">Yuval Yarom</author></authors><title>RAMBleed: Reading Bits in Memory Without Accessing Them.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>695-711</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/KwongGGY20</key><doi>10.1109/SP40000.2020.00020</doi><ee>https://doi.org/10.1109/SP40000.2020.00020</ee><url>https://dblp.org/rec/conf/sp/KwongGGY20</url></info>
+<url>URL#1520763</url>
+</hit>
+<hit score="1" id="1520765">
+<info><authors><author pid="30/3557-3">Jonathan Lee 0003</author><author pid="203/4231">Kirill Nikitin 0001</author><author pid="68/8463">Srinath T. V. Setty</author></authors><title>Replicated state machines without replicated execution.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>119-134</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Lee0S20</key><doi>10.1109/SP40000.2020.00068</doi><ee>https://doi.org/10.1109/SP40000.2020.00068</ee><url>https://dblp.org/rec/conf/sp/Lee0S20</url></info>
+<url>URL#1520765</url>
+</hit>
+<hit score="1" id="1520766">
+<info><authors><author pid="183/1273">Patrick Leu</author><author pid="157/2295">Mridula Singh</author><author pid="121/9557">Marc Roeschlin</author><author pid="39/780">Kenneth G. Paterson</author><author pid="51/1639">Srdjan Capkun</author></authors><title>Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>500-516</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LeuSRPC20</key><doi>10.1109/SP40000.2020.00010</doi><ee>https://doi.org/10.1109/SP40000.2020.00010</ee><url>https://dblp.org/rec/conf/sp/LeuSRPC20</url></info>
+<url>URL#1520766</url>
+</hit>
+<hit score="1" id="1520767">
+<info><authors><author pid="217/8466">Zhengxiong Li</author><author pid="85/10856">Fenglong Ma</author><author pid="184/5705">Aditya Singh Rathore</author><author pid="152/4206">Zhuolin Yang</author><author pid="134/1201">Baicheng Chen</author><author pid="63/4152">Lu Su</author><author pid="11/6689">Wenyao Xu</author></authors><title>WaveSpy: Remote and Through-wall Screen Attack via mmWave Sensing.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>217-232</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LiMRYCSX20</key><doi>10.1109/SP40000.2020.00004</doi><ee>https://doi.org/10.1109/SP40000.2020.00004</ee><url>https://dblp.org/rec/conf/sp/LiMRYCSX20</url></info>
+<url>URL#1520767</url>
+</hit>
+<hit score="1" id="1520770">
+<info><authors><author pid="211/8100">Sanam Ghorbani Lyastani</author><author pid="40/1587">Michael Schilling 0001</author><author pid="272/8299">Michaela Neumayr</author><author pid="b/MichaelBackes1">Michael Backes 0001</author><author pid="31/7561">Sven Bugiel</author></authors><title>Is FIDO2 the Kingslayer of User Authentication? A Comparative Usability Study of FIDO2 Passwordless Authentication.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>268-285</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/LyastaniSN0B20</key><doi>10.1109/SP40000.2020.00047</doi><ee>https://doi.org/10.1109/SP40000.2020.00047</ee><url>https://dblp.org/rec/conf/sp/LyastaniSN0B20</url></info>
+<url>URL#1520770</url>
+</hit>
+<hit score="1" id="1520772">
+<info><authors><author pid="133/8188">Aravind Machiry</author><author pid="155/6800">Nilo Redini</author><author pid="272/8302">Eric Camellini</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>SPIDER: Enabling Fast Patch Propagation In Related Software Repositories.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1562-1579</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MachiryRCKV20</key><doi>10.1109/SP40000.2020.00038</doi><ee>https://doi.org/10.1109/SP40000.2020.00038</ee><url>https://dblp.org/rec/conf/sp/MachiryRCKV20</url></info>
+<url>URL#1520772</url>
+</hit>
+<hit score="1" id="1520773">
+<info><authors><author pid="232/2235">Sunil Manandhar</author><author pid="151/7453">Kevin Moran</author><author pid="222/2853">Kaushal Kafle</author><author pid="244/2204">Ruhao Tang</author><author pid="02/320">Denys Poshyvanyk</author><author pid="136/8334">Adwait Nadkarni</author></authors><title>Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>482-499</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ManandharMKTPN20</key><doi>10.1109/SP40000.2020.00062</doi><ee>https://doi.org/10.1109/SP40000.2020.00062</ee><url>https://dblp.org/rec/conf/sp/ManandharMKTPN20</url></info>
+<url>URL#1520773</url>
+</hit>
+<hit score="1" id="1520774">
+<info><authors><author pid="260/6737">Philipp Markert</author><author pid="70/4808">Daniel V. Bailey</author><author pid="177/0313">Maximilian Golla</author><author pid="36/3665">Markus Dürmuth</author><author pid="94/1554">Adam J. Aviv</author></authors><title>This PIN Can Be Easily Guessed: Analyzing the Security of Smartphone Unlock PINs.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>286-303</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MarkertBGDA20</key><doi>10.1109/SP40000.2020.00100</doi><ee>https://doi.org/10.1109/SP40000.2020.00100</ee><url>https://dblp.org/rec/conf/sp/MarkertBGDA20</url></info>
+<url>URL#1520774</url>
+</hit>
+<hit score="1" id="1520775">
+<info><authors><author pid="164/7366">Célestin Matte</author><author pid="85/150">Nataliia Bielova</author><author pid="141/7040">Cristiana Santos</author></authors><title>Do Cookie Banners Respect my Choice? : Measuring Legal Compliance of Banners from IAB Europe&apos;s Transparency and Consent Framework.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>791-809</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MatteBS20</key><doi>10.1109/SP40000.2020.00076</doi><ee>https://doi.org/10.1109/SP40000.2020.00076</ee><url>https://dblp.org/rec/conf/sp/MatteBS20</url></info>
+<url>URL#1520775</url>
+</hit>
+<hit score="1" id="1520778">
+<info><authors><author pid="180/3872">Philipp Morgner</author><author pid="88/4796">Christoph Mai</author><author pid="243/5885">Nicole Koschate-Fischer</author><author pid="f/FCFreiling">Felix C. Freiling</author><author pid="b/ZBenenson">Zinaida Benenson</author></authors><title>Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>429-446</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MorgnerMKFB20</key><doi>10.1109/SP40000.2020.00021</doi><ee>https://doi.org/10.1109/SP40000.2020.00021</ee><url>https://dblp.org/rec/conf/sp/MorgnerMKFB20</url></info>
+<url>URL#1520778</url>
+</hit>
+<hit score="1" id="1520780">
+<info><authors><author pid="272/8308">Kit Murdock</author><author pid="190/2073">David F. Oswald</author><author pid="42/1707">Flavio D. Garcia</author><author pid="167/1573">Jo Van Bulck</author><author pid="166/1494">Daniel Gruss</author><author pid="85/6647">Frank Piessens</author></authors><title>Plundervolt: Software-based Fault Injection Attacks against Intel SGX.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1466-1482</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/MurdockOGBGP20</key><doi>10.1109/SP40000.2020.00057</doi><ee>https://doi.org/10.1109/SP40000.2020.00057</ee><url>https://dblp.org/rec/conf/sp/MurdockOGBGP20</url></info>
+<url>URL#1520780</url>
+</hit>
+<hit score="1" id="1520781">
+<info><authors><author pid="199/3074">Pardis Emami Naeini</author><author pid="84/1053">Yuvraj Agarwal</author><author pid="03/1595">Lorrie Faith Cranor</author><author pid="118/1575">Hanan Hibshi</author></authors><title>Ask the Experts: What Should Be on an IoT Privacy and Security Label?</title><venue>IEEE Symposium on Security and Privacy</venue><pages>447-464</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/NaeiniACH20</key><doi>10.1109/SP40000.2020.00043</doi><ee>https://doi.org/10.1109/SP40000.2020.00043</ee><url>https://dblp.org/rec/conf/sp/NaeiniACH20</url></info>
+<url>URL#1520781</url>
+</hit>
+<hit score="1" id="1520782">
+<info><authors><author pid="208/4182">Arian Akhavan Niaki</author><author pid="157/1128">Shinyoung Cho</author><author pid="58/10074">Zachary Weinberg</author><author pid="179/2240">Nguyen Phong Hoang</author><author pid="149/9322">Abbas Razaghpanah</author><author pid="c/NicolasChristin">Nicolas Christin</author><author pid="52/2893">Phillipa Gill</author></authors><title>ICLab: A Global, Longitudinal Internet Censorship Measurement Platform.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>135-151</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/NiakiCWHRCG20</key><doi>10.1109/SP40000.2020.00014</doi><ee>https://doi.org/10.1109/SP40000.2020.00014</ee><url>https://dblp.org/rec/conf/sp/NiakiCWHRCG20</url></info>
+<url>URL#1520782</url>
+</hit>
+<hit score="1" id="1520783">
+<info><authors><author pid="160/7732">Kyndylan Nienhuis</author><author pid="189/1762">Alexandre Joannou</author><author pid="95/8429">Thomas Bauereiss</author><author pid="36/1661">Anthony C. J. Fox</author><author pid="21/5870">Michael Roe</author><author pid="58/4171-1">Brian Campbell 0001</author><author pid="80/2682">Matthew Naylor</author><author pid="233/0169">Robert M. Norton</author><author pid="m/SimonWMoore">Simon W. Moore</author><author pid="n/PeterGNeumann">Peter G. Neumann</author><author pid="08/3395">Ian Stark</author><author pid="70/2118">Robert N. M. Watson</author><author pid="74/185">Peter Sewell</author></authors><title>Rigorous engineering for hardware security: Formal modelling and proof in the CHERI design and implementation process.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1003-1020</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/NienhuisJBFR0NN20</key><doi>10.1109/SP40000.2020.00055</doi><ee>https://doi.org/10.1109/SP40000.2020.00055</ee><url>https://dblp.org/rec/conf/sp/NienhuisJBFR0NN20</url></info>
+<url>URL#1520783</url>
+</hit>
+<hit score="1" id="1520784">
+<info><authors><author pid="71/7816">Xudong Pan</author><author pid="84/2519-1">Mi Zhang 0001</author><author pid="07/8388">Shouling Ji</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>Privacy Risks of General-Purpose Language Models.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1314-1331</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PanZJY20</key><doi>10.1109/SP40000.2020.00095</doi><ee>https://doi.org/10.1109/SP40000.2020.00095</ee><url>https://dblp.org/rec/conf/sp/PanZJY20</url></info>
+<url>URL#1520784</url>
+</hit>
+<hit score="1" id="1520785">
+<info><authors><author pid="03/6317">Soyeon Park</author><author pid="42/1870-2">Wen Xu 0002</author><author pid="119/7670">Insu Yun</author><author pid="249/5571">Daehee Jang</author><author pid="38/8882">Taesoo Kim</author></authors><title>Fuzzing JavaScript Engines with Aspect-preserving Mutation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1629-1642</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ParkXYJK20</key><doi>10.1109/SP40000.2020.00067</doi><ee>https://doi.org/10.1109/SP40000.2020.00067</ee><url>https://dblp.org/rec/conf/sp/ParkXYJK20</url></info>
+<url>URL#1520785</url>
+</hit>
+<hit score="1" id="1520786">
+<info><authors><author pid="241/1447">James Pavur</author><author pid="140/4942">Daniel Moser</author><author pid="117/8959">Martin Strohmeier</author><author pid="75/5939">Vincent Lenders</author><author pid="87/2623">Ivan Martinovic</author></authors><title>A Tale of Sea and Sky On the Security of Maritime VSAT Communications.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1384-1400</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PavurMSLM20</key><doi>10.1109/SP40000.2020.00056</doi><ee>https://doi.org/10.1109/SP40000.2020.00056</ee><url>https://dblp.org/rec/conf/sp/PavurMSLM20</url></info>
+<url>URL#1520786</url>
+</hit>
+<hit score="1" id="1520787">
+<info><authors><author pid="272/8284">Anton Permenev</author><author pid="44/4685-2">Dimitar K. Dimitrov 0002</author><author pid="40/9612">Petar Tsankov</author><author pid="155/1628">Dana Drachsler-Cohen</author><author pid="93/2189">Martin T. Vechev</author></authors><title>VerX: Safety Verification of Smart Contracts.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1661-1677</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PermenevDTDV20</key><doi>10.1109/SP40000.2020.00024</doi><ee>https://doi.org/10.1109/SP40000.2020.00024</ee><url>https://dblp.org/rec/conf/sp/PermenevDTDV20</url></info>
+<url>URL#1520787</url>
+</hit>
+<hit score="1" id="1520788">
+<info><authors><author pid="149/1452">Fabio Pierazzi</author><author pid="223/5655">Feargus Pendlebury</author><author pid="184/5990">Jacopo Cortellazzi</author><author pid="95/5162">Lorenzo Cavallaro</author></authors><title>Intriguing Properties of Adversarial ML Attacks in the Problem Space.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1332-1349</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PierazziPCC20</key><doi>10.1109/SP40000.2020.00073</doi><ee>https://doi.org/10.1109/SP40000.2020.00073</ee><url>https://dblp.org/rec/conf/sp/PierazziPCC20</url></info>
+<url>URL#1520788</url>
+</hit>
+<hit score="1" id="1520790">
+<info><authors><author pid="177/5861">Sergej Proskurin</author><author pid="231/1935">Marius Momeu</author><author pid="238/1681">Seyedhamed Ghavamnia</author><author pid="87/1029">Vasileios P. Kemerlis</author><author pid="09/1231">Michalis Polychronakis</author></authors><title>xMP: Selective Memory Protection for Kernel and User Space.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>563-577</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ProskurinMGKP20</key><doi>10.1109/SP40000.2020.00041</doi><ee>https://doi.org/10.1109/SP40000.2020.00041</ee><url>https://dblp.org/rec/conf/sp/ProskurinMGKP20</url></info>
+<url>URL#1520790</url>
+</hit>
+<hit score="1" id="1520791">
+<info><authors><author pid="132/3972">Jonathan Protzenko</author><author pid="49/6324">Bryan Parno</author><author pid="193/3445">Aymeric Fromherz</author><author pid="22/3053">Chris Hawblitzel</author><author pid="244/8751">Marina Polubelova</author><author pid="80/3503">Karthikeyan Bhargavan</author><author pid="165/5515">Benjamin Beurdouche</author><author pid="205/7063">Joonwon Choi</author><author pid="121/1113">Antoine Delignat-Lavaud</author><author pid="f/CedricFournet">Cédric Fournet</author><author pid="219/9026">Natalia Kulatova</author><author pid="04/10">Tahina Ramananandro</author><author pid="81/10809">Aseem Rastogi</author><author pid="11/5568">Nikhil Swamy</author><author pid="17/3100">Christoph M. Wintersteiger</author><author pid="70/2200">Santiago Zanella Béguelin</author></authors><title>EverCrypt: A Fast, Verified, Cross-Platform Cryptographic Provider.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>983-1002</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ProtzenkoPFHPBB20</key><doi>10.1109/SP40000.2020.00114</doi><ee>https://doi.org/10.1109/SP40000.2020.00114</ee><url>https://dblp.org/rec/conf/sp/ProtzenkoPFHPBB20</url></info>
+<url>URL#1520791</url>
+</hit>
+<hit score="1" id="1520792">
+<info><authors><author pid="47/8436">Ivan Pustogarov</author><author pid="61/591">Qian Wu</author><author pid="l/DavidLie">David Lie</author></authors><title>Ex-vivo dynamic analysis framework for Android device drivers.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1088-1105</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/PustogarovWL20</key><doi>10.1109/SP40000.2020.00094</doi><ee>https://doi.org/10.1109/SP40000.2020.00094</ee><url>https://dblp.org/rec/conf/sp/PustogarovWL20</url></info>
+<url>URL#1520792</url>
+</hit>
+<hit score="1" id="1520794">
+<info><authors><author pid="155/6800">Nilo Redini</author><author pid="133/8188">Aravind Machiry</author><author pid="127/9829">Ruoyu Wang 0001</author><author pid="30/7555">Chad Spensky</author><author pid="190/9885">Andrea Continella</author><author pid="119/7712">Yan Shoshitaishvili</author><author pid="k/ChristopherKruegel">Christopher Kruegel</author><author pid="v/GiovanniVigna">Giovanni Vigna</author></authors><title>Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1544-1561</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RediniM0SCSKV20</key><doi>10.1109/SP40000.2020.00036</doi><ee>https://doi.org/10.1109/SP40000.2020.00036</ee><url>https://dblp.org/rec/conf/sp/RediniM0SCSKV20</url></info>
+<url>URL#1520794</url>
+</hit>
+<hit score="1" id="1520795">
+<info><authors><author pid="36/8412">Kevin A. Roundy</author><author pid="272/8310">Paula Barmaimon Mendelberg</author><author pid="75/11301">Nicola Dell</author><author pid="58/4016">Damon McCoy</author><author pid="272/8280">Daniel Nissani</author><author pid="26/3399">Thomas Ristenpart</author><author pid="79/9389">Acar Tamersoy</author></authors><title>The Many Kinds of Creepware Used for Interpersonal Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>626-643</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/RoundyMDMNRT20</key><doi>10.1109/SP40000.2020.00069</doi><ee>https://doi.org/10.1109/SP40000.2020.00069</ee><url>https://dblp.org/rec/conf/sp/RoundyMDMNRT20</url></info>
+<url>URL#1520795</url>
+</hit>
+<hit score="1" id="1520796">
+<info><authors><author pid="170/0259">Philipp Schindler</author><author pid="178/3737">Aljosha Judmayer</author><author pid="202/7551">Nicholas Stifter</author><author pid="w/EdgarRWeippl">Edgar R. Weippl</author></authors><title>HydRand: Efficient Continuous Distributed Randomness.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>73-89</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SchindlerJSW20</key><doi>10.1109/SP40000.2020.00003</doi><ee>https://doi.org/10.1109/SP40000.2020.00003</ee><url>https://dblp.org/rec/conf/sp/SchindlerJSW20</url></info>
+<url>URL#1520796</url>
+</hit>
+<hit score="1" id="1520797">
+<info><authors><author pid="180/8190">Roei Schuster</author><author pid="190/7491">Tal Schuster</author><author pid="256/5342">Yoav Meri</author><author pid="46/6275">Vitaly Shmatikov</author></authors><title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1295-1313</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SchusterSMS20</key><doi>10.1109/SP40000.2020.00115</doi><ee>https://doi.org/10.1109/SP40000.2020.00115</ee><url>https://dblp.org/rec/conf/sp/SchusterSMS20</url></info>
+<url>URL#1520797</url>
+</hit>
+<hit score="1" id="1520800">
+<info><authors><author pid="168/9537">Dongdong She</author><author pid="09/7487-1">Yizheng Chen 0001</author><author pid="162/8000">Abhishek Shah</author><author pid="74/1969">Baishakhi Ray</author><author pid="74/28">Suman Jana</author></authors><title>Neutaint: Efficient Dynamic Taint Analysis with Neural Networks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1527-1543</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SheCSRJ20</key><doi>10.1109/SP40000.2020.00022</doi><ee>https://doi.org/10.1109/SP40000.2020.00022</ee><url>https://dblp.org/rec/conf/sp/SheCSRJ20</url></info>
+<url>URL#1520800</url>
+</hit>
+<hit score="1" id="1520801">
+<info><authors><author pid="80/4580">Elaine Shi</author></authors><title>Path Oblivious Heap: Optimal and Practical Oblivious Priority Queue.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>842-858</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Shi20</key><doi>10.1109/SP40000.2020.00037</doi><ee>https://doi.org/10.1109/SP40000.2020.00037</ee><url>https://dblp.org/rec/conf/sp/Shi20</url></info>
+<url>URL#1520801</url>
+</hit>
+<hit score="1" id="1520804">
+<info><authors><author pid="187/9138">Sunbeom So</author><author pid="61/107">Myungho Lee</author><author pid="207/8774">Jisu Park</author><author pid="75/4485">Heejo Lee</author><author pid="13/7537">Hakjoo Oh</author></authors><title>VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1678-1694</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SoLPLO20</key><doi>10.1109/SP40000.2020.00032</doi><ee>https://doi.org/10.1109/SP40000.2020.00032</ee><url>https://dblp.org/rec/conf/sp/SoLPLO20</url></info>
+<url>URL#1520804</url>
+</hit>
+<hit score="1" id="1520807">
+<info><authors><author pid="184/5980">Zhichuang Sun</author><author pid="25/13">Bo Feng</author><author pid="81/7428">Long Lu</author><author pid="j/SomeshJha">Somesh Jha</author></authors><title>OAT: Attesting Operation Integrity of Embedded Devices.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1433-1449</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/SunFLJ20</key><doi>10.1109/SP40000.2020.00042</doi><ee>https://doi.org/10.1109/SP40000.2020.00042</ee><url>https://dblp.org/rec/conf/sp/SunFLJ20</url></info>
+<url>URL#1520807</url>
+</hit>
+<hit score="1" id="1520809">
+<info><authors><author pid="119/7737">Alin Tomescu</author><author pid="35/8919">Robert Chen</author><author pid="133/3928">Yiming Zheng</author><author pid="36/5720">Ittai Abraham</author><author pid="31/1735">Benny Pinkas</author><author pid="29/1487">Guy Golan-Gueta</author><author pid="14/3973">Srinivas Devadas</author></authors><title>Towards Scalable Threshold Cryptosystems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>877-893</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TomescuCZAPGD20</key><doi>10.1109/SP40000.2020.00059</doi><ee>https://doi.org/10.1109/SP40000.2020.00059</ee><url>https://dblp.org/rec/conf/sp/TomescuCZAPGD20</url></info>
+<url>URL#1520809</url>
+</hit>
+<hit score="1" id="1520810">
+<info><authors><author pid="239/5173">Chau Tran</author><author pid="239/5267">Kaylea Champion</author><author pid="03/5594">Andrea Forte</author><author pid="87/3900">Benjamin Mako Hill</author><author pid="93/655">Rachel Greenstadt</author></authors><title>Are anonymity-seekers just like everybody else? An analysis of contributions to Wikipedia from Tor.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>186-202</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TranCFHG20</key><doi>10.1109/SP40000.2020.00053</doi><ee>https://doi.org/10.1109/SP40000.2020.00053</ee><url>https://dblp.org/rec/conf/sp/TranCFHG20</url></info>
+<url>URL#1520810</url>
+</hit>
+<hit score="1" id="1520811">
+<info><authors><author pid="216/6267">Muoi Tran</author><author pid="77/3578">Inho Choi</author><author pid="271/9731">Gi Jun Moon</author><author pid="249/1830">Anh V. Vu</author><author pid="75/8333">Min Suk Kang</author></authors><title>A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>894-909</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TranCMVK20</key><doi>10.1109/SP40000.2020.00027</doi><ee>https://doi.org/10.1109/SP40000.2020.00027</ee><url>https://dblp.org/rec/conf/sp/TranCMVK20</url></info>
+<url>URL#1520811</url>
+</hit>
+<hit score="1" id="1520812">
+<info><authors><author pid="202/7675">Timothy Trippel</author><author pid="s/KangGShin">Kang G. Shin</author><author pid="178/8969">Kevin B. Bush</author><author pid="09/2334">Matthew Hicks</author></authors><title>ICAS: an Extensible Framework for Estimating the Susceptibility of IC Layouts to Additive Trojans.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1742-1759</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TrippelSBH20</key><doi>10.1109/SP40000.2020.00083</doi><ee>https://doi.org/10.1109/SP40000.2020.00083</ee><url>https://dblp.org/rec/conf/sp/TrippelSBH20</url></info>
+<url>URL#1520812</url>
+</hit>
+<hit score="1" id="1520813">
+<info><authors><author pid="45/1247">Michael Carl Tschantz</author><author pid="154/3380">Shayak Sen</author><author pid="d/AnupamDatta">Anupam Datta</author></authors><title>SoK: Differential Privacy as a Causal Property.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>354-371</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/TschantzSD20</key><doi>10.1109/SP40000.2020.00012</doi><ee>https://doi.org/10.1109/SP40000.2020.00012</ee><url>https://dblp.org/rec/conf/sp/TschantzSD20</url></info>
+<url>URL#1520813</url>
+</hit>
+<hit score="1" id="1520814">
+<info><authors><author pid="130/3608">Mathy Vanhoef</author><author pid="180/7297">Eyal Ronen</author></authors><title>Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>517-533</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/VanhoefR20</key><doi>10.1109/SP40000.2020.00031</doi><ee>https://doi.org/10.1109/SP40000.2020.00031</ee><url>https://dblp.org/rec/conf/sp/VanhoefR20</url></info>
+<url>URL#1520814</url>
+</hit>
+<hit score="1" id="1520815">
+<info><authors><author pid="228/7035">Elisabet Lobo Vesga</author><author pid="48/5534">Alejandro Russo</author><author pid="84/3396">Marco Gaboardi</author></authors><title>A Programming Framework for Differential Privacy with Accuracy Concentration Bounds.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>411-428</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/VesgaRG20</key><doi>10.1109/SP40000.2020.00086</doi><ee>https://doi.org/10.1109/SP40000.2020.00086</ee><url>https://dblp.org/rec/conf/sp/VesgaRG20</url></info>
+<url>URL#1520815</url>
+</hit>
+<hit score="1" id="1520816">
+<info><authors><author pid="75/3158-17">Zhe Wang 0017</author><author pid="51/3529-2">Chenggang Wu 0002</author><author pid="190/5112">Mengyao Xie</author><author pid="77/3503">Yinqian Zhang</author><author pid="67/10639">Kangjie Lu</author><author pid="61/3976">Xiaofeng Zhang</author><author pid="198/8150">Yuanming Lai</author><author pid="32/1654">Yan Kang</author><author pid="02/1640-2">Min Yang 0002</author></authors><title>SEIMI: Efficient and Secure SMAP-Enabled Intra-process Memory Isolation.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>592-607</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Wang0XZLZLKY20</key><doi>10.1109/SP40000.2020.00087</doi><ee>https://doi.org/10.1109/SP40000.2020.00087</ee><url>https://dblp.org/rec/conf/sp/Wang0XZLZLKY20</url></info>
+<url>URL#1520816</url>
+</hit>
+<hit score="1" id="1520817">
+<info><authors><author pid="12/5838-12">Tao Wang 0012</author></authors><title>High Precision Open-World Website Fingerprinting.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>152-167</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Wang20</key><doi>10.1109/SP40000.2020.00015</doi><ee>https://doi.org/10.1109/SP40000.2020.00015</ee><url>https://dblp.org/rec/conf/sp/Wang20</url></info>
+<url>URL#1520817</url>
+</hit>
+<hit score="1" id="1520818">
+<info><authors><author pid="263/7337">Luca Wilke</author><author pid="225/5356">Jan Wichelmann</author><author pid="170/1847">Mathias Morbitzer</author><author pid="72/817">Thomas Eisenbarth 0001</author></authors><title>SEVurity: No Security Without Integrity : Breaking Integrity-Free Memory Encryption with Minimal Assumptions.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1483-1496</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WilkeWM020</key><doi>10.1109/SP40000.2020.00080</doi><ee>https://doi.org/10.1109/SP40000.2020.00080</ee><url>https://dblp.org/rec/conf/sp/WilkeWM020</url></info>
+<url>URL#1520818</url>
+</hit>
+<hit score="1" id="1520820">
+<info><authors><author pid="58/2484">Nan Wu</author><author pid="60/11141">Farhad Farokhi</author><author pid="47/3219">David B. Smith 0001</author><author pid="71/5612">Mohamed Ali Kâafar</author></authors><title>The Value of Collaboration in Convex Machine Learning with Differential Privacy.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>304-317</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/WuFSK20</key><doi>10.1109/SP40000.2020.00025</doi><ee>https://doi.org/10.1109/SP40000.2020.00025</ee><url>https://dblp.org/rec/conf/sp/WuFSK20</url></info>
+<url>URL#1520820</url>
+</hit>
+<hit score="1" id="1520821">
+<info><authors><author pid="71/1116">Feng Xiao</author><author pid="45/3214">Jinquan Zhang</author><author pid="312/6561">Jianwei Huang</author><author pid="64/1147">Guofei Gu</author><author pid="54/2696">Dinghao Wu</author><author pid="21/6121-5">Peng Liu 0005</author></authors><title>Unexpected Data Dependency Creation and Chaining: A New Attack to SDN.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1512-1526</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/XiaoZHGWL20</key><doi>10.1109/SP40000.2020.00017</doi><ee>https://doi.org/10.1109/SP40000.2020.00017</ee><url>https://dblp.org/rec/conf/sp/XiaoZHGWL20</url></info>
+<url>URL#1520821</url>
+</hit>
+<hit score="1" id="1520822">
+<info><authors><author pid="162/1393">Aiping Xiong</author><author pid="145/3288-1">Tianhao Wang 0001</author><author pid="l/NinghuiLi">Ninghui Li</author><author pid="j/SomeshJha">Somesh Jha</author></authors><title>Towards Effective Differential Privacy Communication for Users&apos; Data Sharing Decision and Comprehension.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>392-410</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/Xiong0LJ20</key><doi>10.1109/SP40000.2020.00088</doi><ee>https://doi.org/10.1109/SP40000.2020.00088</ee><url>https://dblp.org/rec/conf/sp/Xiong0LJ20</url></info>
+<url>URL#1520822</url>
+</hit>
+<hit score="1" id="1520823">
+<info><authors><author pid="75/4287-1">Meng Xu 0001</author><author pid="145/0912">Sanidhya Kashyap</author><author pid="68/2099">Hanqing Zhao</author><author pid="38/8882">Taesoo Kim</author></authors><title>Krace: Data Race Fuzzing for Kernel File Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1643-1660</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/XuKZK20</key><doi>10.1109/SP40000.2020.00078</doi><ee>https://doi.org/10.1109/SP40000.2020.00078</ee><url>https://dblp.org/rec/conf/sp/XuKZK20</url></info>
+<url>URL#1520823</url>
+</hit>
+<hit score="1" id="1520824">
+<info><authors><author pid="46/1162-1">Chen Yan 0001</author><author pid="140/4350">Hocheol Shin</author><author pid="170/2513">Connor Bolton</author><author pid="10/3878-1">Wenyuan Xu 0001</author><author pid="20/6892">Yongdae Kim</author><author pid="f/KevinFu">Kevin Fu</author></authors><title>SoK: A Minimalist Approach to Formalizing Analog Sensor Security.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>233-248</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/YanSBXKF20</key><doi>10.1109/SP40000.2020.00026</doi><ee>https://doi.org/10.1109/SP40000.2020.00026</ee><url>https://dblp.org/rec/conf/sp/YanSBXKF20</url></info>
+<url>URL#1520824</url>
+</hit>
+<hit score="1" id="1520826">
+<info><authors><author pid="87/6465">Wei You</author><author pid="16/1234-2">Zhuo Zhang 0002</author><author pid="139/7034">Yonghwi Kwon 0001</author><author pid="138/6356">Yousra Aafer</author><author pid="34/5165">Fei Peng</author><author pid="55/4736">Yu Shi</author><author pid="272/8286">Carson Harmon</author><author pid="95/3760-1">Xiangyu Zhang 0001</author></authors><title>PMP: Cost-effective Forced Execution with Probabilistic Memory Pre-planning.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1121-1138</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/You0KAPSHZ20</key><doi>10.1109/SP40000.2020.00035</doi><ee>https://doi.org/10.1109/SP40000.2020.00035</ee><url>https://dblp.org/rec/conf/sp/You0KAPSHZ20</url></info>
+<url>URL#1520826</url>
+</hit>
+<hit score="1" id="1520827">
+<info><authors><author pid="69/1249">Haifeng Yu</author><author pid="18/2551">Ivica Nikolic</author><author pid="227/7172">Ruomu Hou</author><author pid="90/105">Prateek Saxena</author></authors><title>OHIE: Blockchain Scaling Made Simple.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>90-105</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/YuNHS20</key><doi>10.1109/SP40000.2020.00008</doi><ee>https://doi.org/10.1109/SP40000.2020.00008</ee><url>https://dblp.org/rec/conf/sp/YuNHS20</url></info>
+<url>URL#1520827</url>
+</hit>
+<hit score="1" id="1520828">
+<info><authors><author pid="226/1138">Youqian Zhang</author><author pid="01/4779">Kasper Rasmussen</author></authors><title>Detection of Electromagnetic Interference Attacks on Sensor Systems.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>203-216</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhangR20</key><doi>10.1109/SP40000.2020.00001</doi><ee>https://doi.org/10.1109/SP40000.2020.00001</ee><url>https://dblp.org/rec/conf/sp/ZhangR20</url></info>
+<url>URL#1520828</url>
+</hit>
+<hit score="1" id="1520829">
+<info><authors><author pid="60/2536-68">Rui Zhang 0068</author><author pid="54/7563">Cynthia Sturton</author></authors><title>Transys: Leveraging Common Security Properties Across Hardware Designs.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1713-1727</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhangS20</key><doi>10.1109/SP40000.2020.00030</doi><ee>https://doi.org/10.1109/SP40000.2020.00030</ee><url>https://dblp.org/rec/conf/sp/ZhangS20</url></info>
+<url>URL#1520829</url>
+</hit>
+<hit score="1" id="1520830">
+<info><authors><author pid="203/8611">Jiaheng Zhang</author><author pid="216/6422">Tiancheng Xie</author><author pid="82/4816-1">Yupeng Zhang 0001</author><author pid="s/DXSong">Dawn Song</author></authors><title>Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>859-876</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhangX0S20</key><doi>10.1109/SP40000.2020.00052</doi><ee>https://doi.org/10.1109/SP40000.2020.00052</ee><url>https://dblp.org/rec/conf/sp/ZhangX0S20</url></info>
+<url>URL#1520830</url>
+</hit>
+<hit score="1" id="1520832">
+<info><authors><author pid="117/0017">Zhenkai Zhang</author><author pid="195/9266">Zihao Zhan</author><author pid="42/5805">Daniel Balasubramanian</author><author pid="50/3402-26">Bo Li 0026</author><author pid="83/2615">Péter Völgyesi</author><author pid="11/5453">Xenofon D. Koutsoukos</author></authors><title>Leveraging EM Side-Channel Information to Detect Rowhammer Attacks.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>729-746</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhangZBLVK20</key><doi>10.1109/SP40000.2020.00060</doi><ee>https://doi.org/10.1109/SP40000.2020.00060</ee><url>https://dblp.org/rec/conf/sp/ZhangZBLVK20</url></info>
+<url>URL#1520832</url>
+</hit>
+<hit score="1" id="1520833">
+<info><authors><author pid="156/1033">Qingchuan Zhao</author><author pid="149/8302">Chaoshun Zuo</author><author pid="94/7563">Brendan Dolan-Gavitt</author><author pid="35/9056">Giancarlo Pellegrino</author><author pid="49/4102">Zhiqiang Lin</author></authors><title>Automatic Uncovering of Hidden Behaviors From Input Validation in Mobile Apps.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1106-1120</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhaoZDPL20</key><doi>10.1109/SP40000.2020.00072</doi><ee>https://doi.org/10.1109/SP40000.2020.00072</ee><url>https://dblp.org/rec/conf/sp/ZhaoZDPL20</url></info>
+<url>URL#1520833</url>
+</hit>
+<hit score="1" id="1520834">
+<info><authors><author pid="68/6322">Jianping Zhu</author><author pid="79/3631-1">Rui Hou 0001</author><author pid="06/6268">XiaoFeng Wang 0001</author><author pid="57/9813-1">Wenhao Wang 0001</author><author pid="239/5225">Jiangfeng Cao</author><author pid="178/3210">Boyan Zhao</author><author pid="239/4846">Zhongpu Wang</author><author pid="77/1630">Yuhui Zhang</author><author pid="272/8290">Jiameng Ying</author><author pid="52/5615-2">Lixin Zhang 0002</author><author pid="01/2538">Dan Meng</author></authors><title>Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment.</title><venue>IEEE Symposium on Security and Privacy</venue><pages>1450-1465</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sp/ZhuH0WCZWZYZM20</key><doi>10.1109/SP40000.2020.00054</doi><ee>https://doi.org/10.1109/SP40000.2020.00054</ee><url>https://dblp.org/rec/conf/sp/ZhuH0WCZWZYZM20</url></info>
+<url>URL#1520834</url>
+</hit>
+<hit score="1" id="1539008">
+<info><title>2020 IEEE Symposium on Security and Privacy, SP 2020, San Francisco, CA, USA, May 18-21, 2020</title><venue>IEEE Symposium on Security and Privacy</venue><publisher>IEEE</publisher><year>2020</year><type>Editorship</type><key>conf/sp/2020</key><ee>https://ieeexplore.ieee.org/xpl/conhome/9144328/proceeding</ee><url>https://dblp.org/rec/conf/sp/2020</url></info>
+<url>URL#1539008</url>
+</hit>
+</hits>
+</result>
