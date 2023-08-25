@@ -374,6 +374,7 @@ B02000:
   Year: 2018
   Path: toit/toit
   URL: http://dblp.uni-trier.de/db/journals/toit/
+
 # TODO:
 B02000:
   Acronym: TOMM
@@ -382,6 +383,11 @@ B02000:
   Name: ACM Transactions on Multimedia Computing, Communications and Applications
   Publisher: ACM
   Type: journals
+  Amount: 1
+  Number: 14
+  Year: 2018
+  Path: tomccap/tomccap
+  URL: https://dblp.uni-trier.de/db/journals/tomccap/index.html
 B02001:
   Acronym: TOSN
   Domian: 计算机网络
@@ -389,6 +395,11 @@ B02001:
   Name: ACM Transactions on Sensor Networks
   Publisher: ACM
   Type: journals
+  Amount: 1
+  Number: 14
+  Year: 2018
+  Path: tosn/tosn
+  URL: https://dblp.uni-trier.de/db/journals/tosn/index.html
 B02002:
   Acronym: CN
   Domian: 计算机网络
@@ -396,6 +407,7 @@ B02002:
   Name: Computer Networks
   Publisher: Elsevier
   Type: journals
+  
 B02003:
   Acronym: TCOM
   Domian: 计算机网络

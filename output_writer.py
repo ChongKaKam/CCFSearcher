@@ -68,7 +68,7 @@ class markdown_writer(output_writer):
         self.file.flush()
 
 # register
-class output_write_factory:
+class output_writer_factory:
     def create_output_writer(output_config: dict):
         type = output_config['output_format']
         # output_path = output_config['output_path']
