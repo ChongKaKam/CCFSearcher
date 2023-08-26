@@ -230,8 +230,6 @@ https://dblp.uni-trier.de/search/publ/api?q=toc%3Adb/conf/sp/sp2023.bht%3A&h=100
      output_format: markdown	# 这里，这里！
    ```
 
-
-
 ##### B. 觉得这个匹配模式不够智能
 
 目前在 `SearchCore` 中实现的匹配是基于正则表达式的，可能会比较简单，同时由于 dblp 数据库中可用于检索的只有标题，因此匹配的结果可能有偏差。如果有什么好的 idea 可以改一改这个部分的代码。

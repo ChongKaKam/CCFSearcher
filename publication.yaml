@@ -16,8 +16,8 @@
 #   - 1 conf
 # Number: Just to identify each entry
 
-# A+领域+期刊
-# A010: 
+# A类期刊
+# A010: 计算机体系结构/并行与分布计算/存储系统 
 A01000:
   Level: CCF-A
   Type: journals
@@ -96,7 +96,7 @@ A01005:
   Year: 2018
   Path: taco/taco
   URL: http://dblp.uni-trier.de/db/journals/taco/
-# A020:
+# A020: 计算机网络
 A02000:
   Acronym: JSAC
   Domian: 计算机网络
@@ -137,7 +137,7 @@ A02002:
   Year: 2018
   Path: ton/ton
   URL: http://dblp.uni-trier.de/db/journals/ton/
-# A030:
+# A030: 网络与信息安全
 A03000:
   Acronym: TDSC
   Domian: 网络与信息安全
@@ -177,13 +177,14 @@ A03002:
   Year: 2018
   Path: joc/joc
   URL: http://dblp.uni-trier.de/db/journals/joc/
-# A040:
+# A040: 软件工程/系统软件/程序设计语言
 A04000:
   Acronym: TOPLAS
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: ACM Transactions on Programming Languages and Systems
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 40
@@ -195,7 +196,8 @@ A04001:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: ACM Transactions on Software Engineering and Methodology
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 27
@@ -207,7 +209,8 @@ A04002:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: IEEE Transactions on Software Engineering
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: journals
   Amount: 1
   Number: 44
@@ -219,32 +222,35 @@ A04003:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: IEEE Transactions on Services Computing
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: journals
   Amount: 1
   Number: 11
   Year: 2018
   Path: tsc/tsc
   URL: http://dblp.uni-trier.de/db/journals/tsc/
-# A050:
+# A050: 数据库/数据挖掘/内容检索
 A05000:
   Acronym: TODS
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: ACM Transactions on Database Systems
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 43
   Year: 2018
   Path: tods/tods
   URL: http://dblp.uni-trier.de/db/journals/tods/
-A05001:
+A05001: 
   Acronym: TOIS
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: ACM Transactions on Information Systems
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 36
@@ -256,7 +262,8 @@ A05002:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: IEEE Transactions on Knowledge and Data Engineering
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: journals
   Amount: 1
   Number: 30
@@ -268,20 +275,22 @@ A0500327:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: The VLDB Journal
-  Publisher: Springer
+  Publisher: 
+    - Springer
   Type: journals
   Amount: 1
   Number: 27
   Year: 2018
   Path: vldb/vldb
   URL: http://dblp.uni-trier.de/db/journals/vldb/
-# A060:
+# A060: 计算机图形学与多媒体
 A06000:
   Acronym: TOG
   Domian: 计算机图形学与多媒体
   Level: CCF-A
   Name: ACM Transactions on Graphics
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 37
@@ -293,7 +302,8 @@ A06001:
   Domian: 计算机图形学与多媒体
   Level: CCF-A
   Name: IEEE Transactions on Image Processing
-  Publisher: IEEE
+  Publisher:
+    - IEEE
   Type: journals
   Amount: 1
   Number: 27
@@ -305,20 +315,22 @@ A06002:
   Domian: 计算机图形学与多媒体
   Level: CCF-A
   Name: IEEE Transactions on Visualization and Computer Graphics
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: journals
   Amount: 1
   Number: 24
   Year: 2018
   Path: tvcg/tvcg
   URL: http://dblp.uni-trier.de/db/journals/tvcg/
-# A070: 
+# A070: 人工智能
 A07000:
   Acronym: AI
   Domian: 人工智能
   Level: CCF-A
   Name: Artificial Intelligence
-  Publisher: Elsevier
+  Publisher: 
+    - Elsevier
   Type: journals
   Amount: 12
   Number: 254
@@ -330,7 +342,8 @@ A07001:
   Domian: 人工智能
   Level: CCF-A
   Name: IEEE Transactions on Pattern Analysis and MachineIntelligence
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: journals
   Amount: 1
   Number: 40
@@ -342,7 +355,8 @@ A07002:
   Domian: 人工智能
   Level: CCF-A
   Name: International Journal of Computer Vision
-  Publisher: Springer
+  Publisher: 
+    - Springer
   Type: journals
   Amount: 1
   Number: 126
@@ -354,82 +368,133 @@ A07003:
   Domian: 人工智能
   Level: CCF-A
   Name: Journal of Machine Learning Research
-  Publisher: MIT Press
+  Publisher: 
+    - MIT Press
   Type: journals
   Amount: 1
   Number: 19
   Year: 2018
   Path: jmlr/jmlr
   URL: http://dblp.uni-trier.de/db/journals/jmlr/
-# B020:
+# A080: 计算机科学理论
+# A090: 交叉/综合/新兴
+A09000:
+  Acronym: JACM
+  Domian: 交叉/综合/新兴
+  Level: CCF-A
+  Name: Journal of the ACM
+  Publisher: 
+    - ACM
+  Type: journals
+  Amount: 1
+  Number: 65
+  Year: 2018
+  Path: jacm/jacm
+  URL: http://dblp.uni-trier.de/db/journals/jacm/
+A09001:
+  Acronym: Proc.IEEE
+  Domian: 交叉/综合/新兴
+  Level: CCF-A
+  Name: Proceedings of the IEEE
+  Publisher: 
+    - IEEE
+  Type: journals
+  Amount: 1
+  Number: 106
+  Year: 2018
+  Path: pieee
+  URL: https://dblp.uni-trier.de/db/journals/pieee/index.html
+A09002:
+  Acronym: SCIS
+  Domian: 交叉/综合/新兴
+  Level: CCF-A
+  Name: Science China Information Sciences
+  Publisher: 
+    - Science in China Pree
+    - Springer
+  Type: journals
+  Amount: 1
+  Number: 61
+  Year: 2018
+  Path: chinaf/chinaf
+  URL: http://dblp.uni-trier.de/db/journals/chinaf/
+
+
+# B类期刊
+# B010: 计算机体系结构
+# B020: 计算机网络
 B02000:
   Acronym: TOIT
   Domian: 计算机网络
   Level: CCF-B
   Name: ACM Transactions on Internet Technology
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 18
   Year: 2018
   Path: toit/toit
   URL: http://dblp.uni-trier.de/db/journals/toit/
-
-# TODO:
-B02000:
+B02001:
   Acronym: TOMM
   Domian: 计算机网络
   Level: CCF-B
   Name: ACM Transactions on Multimedia Computing, Communications and Applications
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 14
   Year: 2018
   Path: tomccap/tomccap
   URL: https://dblp.uni-trier.de/db/journals/tomccap/index.html
-B02001:
+B02002:
   Acronym: TOSN
   Domian: 计算机网络
   Level: CCF-B
   Name: ACM Transactions on Sensor Networks
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 14
   Year: 2018
   Path: tosn/tosn
   URL: https://dblp.uni-trier.de/db/journals/tosn/index.html
-B02002:
+B02003:
   Acronym: CN
   Domian: 计算机网络
   Level: CCF-B
   Name: Computer Networks
-  Publisher: Elsevier
+  Publisher: 
+    - Elsevier
   Type: journals
   Amount: 18
   Number: 130
   Year: 2018
   Path: cn/cn
   URL: http://dblp.uni-trier.de/db/journals/cn/
-B02003:
+B02004:
   Acronym: TCOM
   Domian: 计算机网络
   Level: CCF-B
   Name: IEEE Transactions on Communications
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: journals
   Amount: 1
   Number: 66
   Year: 2018
   Path: tcom/tcom
   URL: http://dblp.uni-trier.de/db/journals/tcom/
-B02004:
+B02005:
   Acronym: TWC
   Domian: 计算机网络
   Level: CCF-B
   Name: IEEE Transactions on Wireless Communications
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: journals
   Amount: 1
   Number: 17
@@ -442,20 +507,21 @@ B03000:
   Domian: 网络与信息安全
   Level: CCF-B
   Name: ACM Transactions on Privacy and Security
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 21
   Year: 2018
   Path: tissec/tissec
   URL: https://dblp.org/db/journals/tissec/index.html
-
 B03001:
   Acronym: null
   Domian: 网络与信息安全
   Level: CCF-B
   Name: Computers & Security 2013-2019
-  Publisher: Elsevier
+  Publisher: 
+    - Elsevier
   Type: journals
   Amount: 8
   Number: 72
@@ -467,7 +533,8 @@ B03002:
   Domian: 网络与信息安全
   Level: CCF-B
   Name: Computers & Security 2020-20xx
-  Publisher: Elsevier
+  Publisher: 
+    - Elsevier
   Type: journals
   Amount: 12
   Number: 88
@@ -479,7 +546,8 @@ B03003:
   Domian: 网络与信息安全
   Level: CCF-B
   Name: Designs, Codes and Cryptography
-  Publisher: Springer
+  Publisher: 
+    - Springer
   Amount: 1
   Number: 86
   Year: 2018
@@ -491,20 +559,23 @@ B03004:
   Domian: 网络与信息安全
   Level: CCF-B
   Name: Journal of Computer Security
-  Publisher: IOS Press
+  Publisher: 
+    - IOS Press
   Type: journals
   Amount: 1
   Number: 26
   Year: 2018
   Path: jcs/jcs
   URL: http://dblp.uni-trier.de/db/journals/jcs/
+# B040:
 # B050:
 B05000:
   Acronym: TKDD
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-B
   Name: ACM Transactions on Knowledge Discovery from Data
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 12
@@ -516,7 +587,8 @@ B05001:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-B
   Name: ACM Transactions on the Web
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: journals
   Amount: 1
   Number: 12
@@ -528,7 +600,8 @@ B05002:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-B
   Name: Advanced Engineering Informatics
-  Publisher: Elsevier
+  Publisher: 
+    - Elsevier
   Type: journals
   Amount: 4
   Number: 35
@@ -540,7 +613,8 @@ B05003:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-B
   Name: Data & Knowledge Engineering
-  Publisher: Elsevier
+  Publisher: 
+    - Elsevier
   Type: journals
   Amount: 5
   Number: 113
@@ -552,7 +626,8 @@ B05004:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-B
   Name: Data Mining and Knowledge Discovery
-  Publisher: Springer
+  Publisher: 
+    - Springer
   Type: journals
   Amount: 1
   Number: 32
@@ -564,22 +639,211 @@ B05005:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-B
   Name: European Journal of Information Systems
-  Publisher: Springer
+  Publisher: 
+    - Springer
   Type: journals
   Amount: 1
   Number: 27
   Year: 2018
   Path: ejis/ejis
   URL: http://dblp.uni-trier.de/db/journals/ejis/
-
-# A+领域+会议
-# A011:
+# B060
+# B070
+# B080
+# B090
+B09000:
+  Acronym: null
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: Bioinfomratics
+  Publisher: 
+    - Oxford University Press
+  Type: journals
+  Amount: 1
+  Number: 34
+  Year: 2018
+  Path: bioinformatics/bioinformatics
+  URL: http://dblp.uni-trier.de/db/journals/bioinformatics/
+B09001:
+  Acronym: null
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: Briefings in Bioinformatics
+  Publisher: 
+    - Oxford University Press
+  Type: journals
+  Amount: 1
+  Number: 19
+  Year: 2018
+  Path: bib/bib
+  URL: http://dblp.uni-trier.de/db/journals/bib/
+B09002:
+  Acronym: TASAE
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: IEEE Transactions on Automation Science and Engineering
+  Publisher: 
+    - IEEE
+  Type: journals
+  Amount: 1
+  Number: 15
+  Year: 2018
+  Path: tase/tase
+  URL: http://dblp.uni-trier.de/db/journals/tase/
+B09003:
+  Acronym: TGARS
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: IEEE Transactions on Geoscience and Remote Sensing
+  Publisher: 
+    - IEEE
+  Type: journals
+  Amount: 1
+  Number: 56
+  Year: 2018
+  Path: tgrs/tgrs
+  URL: http://dblp.uni-trier.de/db/journals/tgrs/
+B09004:
+  Acronym: TITS
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: IEEE Transactions on Intelligent Transportation Systems
+  Publisher: 
+    - IEEE
+  Type: journals
+  Amount: 1
+  Number: 19
+  Year: 2018
+  Path: tits/tits
+  URL: http://dblp.uni-trier.de/db/journals/tits/
+B09005:
+  Acronym: TMI
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: IEEE Transactions on Medical Imaging
+  Publisher: 
+    - IEEE
+  Type: journals
+  Amount: 1
+  Number: 37
+  Year: 2018
+  Path: tmi/tmi
+  URL: http://dblp.uni-trier.de/db/journals/tmi/
+B09006:
+  Acronym: TR
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: IEEE Transactions on Robotics
+  Publisher: 
+    - IEEE
+  Type: journals
+  Amount: 1
+  Number: 34
+  Year: 2018
+  Path: trob/trob
+  URL: http://dblp.uni-trier.de/db/journals/trob/
+B09007:
+  Acronym: TCBB
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  Publisher: 
+    - IEEE
+    - ACM
+  Type: journals
+  Amount: 1
+  Number: 15
+  Year: 2018
+  Path: tcbb/tcbb
+  URL: http://dblp.uni-trier.de/db/journals/tcbb/
+B09008:
+  Acronym: JCST
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: Journal of Computer Science and Technology
+  Publisher: 
+    - SCIENCE PRESS
+    - Springer
+  Type: journals
+  Amount: 1
+  Number: 33
+  Year: 2018
+  Path: jcst/jcst
+  URL: http://dblp.uni-trier.de/db/journals/jcst/
+B09009:
+  Acronym: JAMIA
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: Journal of the American Medical Informatics Association
+  Publisher: 
+    - BMJ Journals
+  Type: journals
+  Amount: 1
+  Number: 25
+  Year: 2018
+  Path: jamia/jamia
+  URL: http://dblp.uni-trier.de/db/journals/jamia/
+B09010:
+  Acronym: null
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: PLOS Computational Biology
+  Publisher: 
+    - Public Library of Science
+  Type: journals
+  Amount: 1
+  Number: 14
+  Year: 2018
+  Path: ploscb/ploscb
+  URL: http://dblp.uni-trier.de/db/journals/ploscb/
+B09011:
+  Acronym: null
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: The Computer Journal
+  Publisher: 
+    - Oxford University Press
+  Type: journals
+  Amount: 1
+  Number: 61
+  Year: 2018
+  Path: cj/cj
+  URL: http://dblp.uni-trier.de/db/journals/cj/
+B09012:
+  Acronym: WWW
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: World Wide Web
+  Publisher: 
+    - Springer
+  Type: journals
+  Amount: 1
+  Number: 21
+  Year: 2018
+  Path: www/www
+  URL: https://dblp.org/db/journals/www/index.html
+B09013:
+  Acronym: FCS
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: Frontiers of Computer Science
+  Publisher: 
+    - Higher Education Press
+  Type: journals
+  Amount: 1
+  Number: 12
+  Year: 2018
+  Path: fcsc/fcsc
+  URL: http://dblp.uni-trier.de/db/journals/fcsc/
+# 会议部分
+# A011: 计算机体系结构/并行与分布计算/存储系统
 A01100:
   Acronym: PPoPP
   Domian: 计算机体系结构/并行与分布计算/存储系统
   Level: CCF-A
   Name: ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: ppopp/ppopp
   URL: http://dblp.uni-trier.de/db/conf/ppopp/
@@ -588,7 +852,8 @@ A01101:
   Domian: 计算机体系结构/并行与分布计算/存储系统
   Level: CCF-A
   Name: USENIX Conference on File and Storage Technologies
-  Publisher: USENIX
+  Publisher: 
+    - USENIX
   Type: conf
   Path: fast/fast
   URL: http://dblp.uni-trier.de/db/conf/fast/
@@ -597,7 +862,8 @@ A01102:
   Domian: 计算机体系结构/并行与分布计算/存储系统
   Level: CCF-A
   Name: Design Automation Conference
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: dac/dac
   URL: https://dblp.uni-trier.de/db/conf/dac/
@@ -606,7 +872,8 @@ A01103:
   Domian: 计算机体系结构/并行与分布计算/存储系统
   Level: CCF-A
   Name: IEEE International Symposium on High Performance Computer Architecture
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: hpca/hpca
   URL: http://dblp.uni-trier.de/db/conf/hpca/
@@ -615,7 +882,9 @@ A01104:
   Domian: 计算机体系结构/并行与分布计算/存储系统
   Level: CCF-A
   Name: IEEE/ACM International Symposium on Microarchitecture
-  Publisher: ACM, IEEE
+  Publisher: 
+    - ACM
+    - IEEE
   Type: conf
   Path: micro/micro
   URL: https://dblp.uni-trier.de/db/conf/micro/
@@ -625,7 +894,8 @@ A01105:
   Level: CCF-A
   Name: International Conference for High Performance Computing, Networking, Storage,
     and Analysis
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: sc/sc
   URL: http://dblp.uni-trier.de/db/conf/sc/
@@ -635,7 +905,9 @@ A01106:
   Level: CCF-A
   Name: International Conference on Architectural Support for Programming Languages
     and Operating Systems
-  Publisher: ACM, IEEE
+  Publisher: 
+    - ACM
+    - IEEE
   Type: conf
   Path: asplos/asplos
   URL: http://dblp.uni-trier.de/db/conf/asplos/
@@ -644,7 +916,8 @@ A01107:
   Domian: 计算机体系结构/并行与分布计算/存储系统
   Level: CCF-A
   Name: USENIX Annual Technical Conference
-  Publisher: USENIX
+  Publisher:
+    - USENIX
   Type: conf
   Path: usenix/usenix
   URL: http://dblp.uni-trier.de/db/conf/usenix/index.html
@@ -653,7 +926,8 @@ A01108:
   Domian: 计算机体系结构/并行与分布计算/存储系统
   Level: CCF-A
   Name: European Conference on Computer Systems
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: eurosys/eurosys
   URL: http://dblp.uni-trier.de/db/conf/eurosys/
@@ -663,7 +937,8 @@ A02100:
   Domian: 计算机网络
   Level: CCF-A
   Name: ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: sigcomm/sigcomm
   URL: http://dblp.uni-trier.de/db/conf/sigcomm/index.html
@@ -672,7 +947,8 @@ A02101:
   Domian: 计算机网络
   Level: CCF-A
   Name: ACM International Conference on Mobile Computing and Networking
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: mobicom/mobicom
   URL: http://dblp.uni-trier.de/db/conf/mobicom/
@@ -681,7 +957,8 @@ A02102:
   Domian: 计算机网络
   Level: CCF-A
   Name: IEEE International Conference on Computer Communications
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: infocom/infocom
   URL: http://dblp.uni-trier.de/db/conf/infocom/
@@ -690,7 +967,8 @@ A02103:
   Domian: 计算机网络
   Level: CCF-A
   Name: Symposium on Network System Design and Implementation
-  Publisher: USENIX
+  Publisher: 
+    - USENIX
   Type: conf
   Path: nsdi/nsdi
   URL: http://dblp.uni-trier.de/db/conf/nsdi/
@@ -700,7 +978,8 @@ A03100:
   Domian: 网络与信息安全
   Level: CCF-A
   Name: ACM Conference on Computer and Communications Security
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: ccs/ccs
   URL: http://dblp.uni-trier.de/db/conf/ccs/
@@ -709,7 +988,8 @@ A03101:
   Domian: 网络与信息安全
   Level: CCF-A
   Name: International Conference on the Theory and Applications of Cryptographic Techniques
-  Publisher: Springer
+  Publisher: 
+    - Springer
   Type: conf
   Path: eurocrypt/eurocrypt
   URL: http://dblp.uni-trier.de/db/conf/eurocrypt/
@@ -718,7 +998,8 @@ A03102:
   Domian: 网络与信息安全
   Level: CCF-A
   Name: IEEE Symposium on Security and Privacy
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: sp/sp
   URL: http://dblp.uni-trier.de/db/conf/sp/
@@ -727,7 +1008,8 @@ A03103:
   Domian: 网络与信息安全
   Level: CCF-A
   Name: International Cryptology Conference
-  Publisher: Springer
+  Publisher: 
+    - Springer
   Type: conf
   Path: crypto/crypto
   URL: http://dblp.uni-trier.de/db/conf/crypto/
@@ -736,7 +1018,8 @@ A03104:
   Domian: 网络与信息安全
   Level: CCF-A
   Name: USENIX Security Symposium
-  Publisher: USENIX Association
+  Publisher: 
+    - USENIX Association
   Type: conf
   Path: uss/uss
   URL: http://dblp.uni-trier.de/db/conf/uss/
@@ -745,7 +1028,8 @@ A03105:
   Domian: 网络与信息安全
   Level: CCF-A
   Name: Network and Distributed System Security Symposium
-  Publisher: ISOC
+  Publisher: 
+    - ISOC
   Type: conf
   Path: ndss/ndss
   URL: http://dblp.uni-trier.de/db/conf/ndss/
@@ -755,7 +1039,8 @@ A04100:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: ACM SIGPLAN Conference on Programming Language Design and Implementation
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: pldi/pldi
   URL: http://dblp.uni-trier.de/db/conf/pldi/
@@ -764,7 +1049,8 @@ A04101:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf-journals
   Path: PACMPL
   URL: http://dblp.uni-trier.de/db/conf/popl/
@@ -773,7 +1059,8 @@ A04102:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: sigsoft/fse
   URL: http://dblp.uni-trier.de/db/conf/sigsoft/
@@ -782,7 +1069,8 @@ A04103:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: ACM Symposium on Operating Systems Principles
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: sosp/sosp
   URL: http://dblp.uni-trier.de/db/conf/sosp/
@@ -791,7 +1079,8 @@ A04104:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: Conference on Object-Oriented Programming Systems, Languages, and Applications
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf-journals
   Path: PACMPL
   URL: http://dblp.uni-trier.de/db/conf/oopsla/
@@ -807,7 +1096,9 @@ A04105:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: International Conference on Automated Software Engineering
-  Publisher: ACM, IEEE
+  Publisher: 
+    - ACM
+    - IEEE
   Type: conf
   Path: kbse/ase
   URL: http://dblp.uni-trier.de/db/conf/kbse/
@@ -816,7 +1107,9 @@ A04106:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: International Conference on Software Engineering
-  Publisher: ACM, IEEE
+  Publisher: 
+    - ACM
+    - IEEE
   Type: conf
   Path: icse/icse
   URL: http://dblp.uni-trier.de/db/conf/icse/
@@ -825,7 +1118,8 @@ A04107:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: International Symposium on Software Testing and Analysis
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: issta/issta
   URL: http://dblp.uni-trier.de/db/conf/issta/
@@ -834,7 +1128,8 @@ A04108:
   Domian: 软件工程/系统软件/程序设计语言
   Level: CCF-A
   Name: USENIX Symposium on Operating Systems Design and Implementation
-  Publisher: USENIX
+  Publisher: 
+    - USENIX
   Type: conf
   Path: osdi/osdi
   URL: http://dblp.uni-trier.de/db/conf/osdi/
@@ -844,7 +1139,8 @@ A05100:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: ACM SIGMOD Conference
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: sigmod/sigmod
   URL: http://dblp.uni-trier.de/db/conf/sigmod/
@@ -853,7 +1149,8 @@ A05101:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: kdd/kdd
   URL: http://dblp.uni-trier.de/db/conf/kdd/
@@ -862,7 +1159,8 @@ A05102:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: IEEE International Conference on Data Engineering
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: icde/icde
   URL: http://dblp.uni-trier.de/db/conf/icde/
@@ -871,7 +1169,8 @@ A05103:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: International ACM SIGIR Conference on Research and Development in Information Retrieval
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: sigir/sigir
   URL: http://dblp.uni-trier.de/db/conf/sigir/
@@ -880,7 +1179,9 @@ A05104:
   Domian: 数据库/数据挖掘/内容检索
   Level: CCF-A
   Name: International Conference on Very Large Data Bases
-  Publisher: ACM, Morgan Kaufmann
+  Publisher: 
+    - ACM
+    - Morgan Kaufmann
   Type: conf
   Path: vldb/phd
   URL: http://dblp.uni-trier.de/db/conf/vldb/
@@ -890,7 +1191,8 @@ A06100:
   Domian: 计算机图形学与多媒体
   Level: CCF-A
   Name: ACM International Conference on Multimedia
-  Publisher: ACM
+  Publisher:
+    - ACM
   Type: conf
   Path: mm/mm
   URL: http://dblp.uni-trier.de/db/conf/mm/
@@ -899,7 +1201,8 @@ A06101:
   Domian: 计算机图形学与多媒体
   Level: CCF-A
   Name: ACM Special Interest Group on Computer Graphics
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: siggraph/siggraph
   URL: http://dblp.uni-trier.de/db/conf/siggraph/index.html
@@ -908,7 +1211,8 @@ A06102:
   Domian: 计算机图形学与多媒体
   Level: CCF-A
   Name: IEEE Virtual Reality
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: vr/vr
   URL: http://dblp.uni-trier.de/db/conf/vr/
@@ -917,7 +1221,8 @@ A06103:
   Domian: 计算机图形学与多媒体
   Level: CCF-A
   Name: IEEE Visualization Conference
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: visualization/visualization
   URL: http://dblp.uni-trier.de/db/conf/visualization/index.html
@@ -927,7 +1232,8 @@ A07100:
   Domian: 人工智能
   Level: CCF-A
   Name: AAAI Conference on Artificial Intelligence
-  Publisher: AAAI
+  Publisher: 
+    - AAAI
   Type: conf
   Path: aaai/aaai
   URL: http://dblp.uni-trier.de/db/conf/aaai/
@@ -936,7 +1242,8 @@ A07101:
   Domian: 人工智能
   Level: CCF-A
   Name: Conference on Neural Information Processing Systems
-  Publisher: MIT Press
+  Publisher: 
+    - MIT Press
   Type: conf
   Path: nips/neurips
   URL: http://dblp.uni-trier.de/db/conf/nips/
@@ -945,7 +1252,8 @@ A07102:
   Domian: 人工智能
   Level: CCF-A
   Name: Annual Meeting of the Association for Computational Linguistics
-  Publisher: ACL
+  Publisher: 
+    - ACL
   Type: conf
   Path: acl/acl
   URL: http://dblp.uni-trier.de/db/conf/acl/
@@ -954,7 +1262,8 @@ A07103:
   Domian: 人工智能
   Level: CCF-A
   Name: IEEE/CVF Computer Vision and Pattern Recognition Conference
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: cvpr/cvpr
   URL: http://dblp.uni-trier.de/db/conf/cvpr/
@@ -963,7 +1272,8 @@ A07104:
   Domian: 人工智能
   Level: CCF-A
   Name: International Conference on Machine Learning
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: icml/icml
   URL: http://dblp.uni-trier.de/db/conf/icml/
@@ -972,17 +1282,53 @@ A07105:
   Domian: 人工智能
   Level: CCF-A
   Name: International Joint Conference on Artificial Intelligence
-  Publisher: Morgan Kaufmann
+  Publisher: 
+    - Morgan Kaufmann
   Type: conf
   Path: ijcai/ijcai
   URL: http://dblp.uni-trier.de/db/conf/ijcai/
+# A081:
+# A091:
+A09100:
+  Acronym: WWW
+  Domian: 交叉/综合/新兴
+  Level: CCF-A
+  Name: International World Wide Web Conference
+  Publisher: 
+    - ACM
+  Type: conf
+  Path: www/www
+  URL: http://dblp.uni-trier.de/db/conf/www/
+A09101:
+  Acronym: RTSS
+  Domian: 交叉/综合/新兴
+  Level: CCF-A
+  Name: IEEE Real-Time Systems Symposium
+  Publisher: 
+    - IEEE
+  Type: conf
+  Path: rtss/rtss
+  URL: http://dblp.uni-trier.de/db/conf/rtss/
+A09102:
+  Acronym: WINE
+  Domian: 交叉/综合/新兴
+  Level: CCF-A
+  Name: Conference on Web and Internet Economics
+  Publisher: 
+    - Springer
+  Type: conf
+  Path: wine/wine
+  URL: https://dblp.org/db/conf/wine/index.html
+# B类会议
+# B011:
 # B021:
 B02100:
   Acronym: SenSys
   Domian: 计算机网络
   Level: CCF-B
   Name: ACM Conference on Embedded Networked Sensor Systems
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: sensys
   URL: http://dblp.uni-trier.de/db/conf/sensys/
@@ -991,7 +1337,8 @@ B02101:
   Domian: 计算机网络
   Level: CCF-B
   Name: ACM International Conference on Emerging Networking Experiments and Technologies
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: conext/conext
   URL: http://dblp.uni-trier.de/db/conf/conext/
@@ -1000,7 +1347,8 @@ B02102:
   Domian: 计算机网络
   Level: CCF-B
   Name: IEEE International Conference on Sensing, Communication, and Networking
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: secon/secon
   URL: http://dblp.uni-trier.de/db/conf/secon/
@@ -1009,7 +1357,9 @@ B02103:
   Domian: 计算机网络
   Level: CCF-B
   Name: International Conference on Information Processing in Sensor Networks
-  Publisher: ACM, IEEE
+  Publisher: 
+    - ACM
+    - IEEE
   Type: conf
   Path: ipsn/ipsn
   URL: http://dblp.uni-trier.de/db/conf/ipsn/
@@ -1018,7 +1368,8 @@ B02104:
   Domian: 计算机网络
   Level: CCF-B
   Name: ACM International Conference on Mobile Systems, Applications, and Services
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: mobisys
   URL: http://dblp.uni-trier.de/db/conf/mobisys/
@@ -1027,7 +1378,8 @@ B02105:
   Domian: 计算机网络
   Level: CCF-B
   Name: IEEE International Conference on Network Protocols
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: icnp/icnp
   URL: http://dblp.uni-trier.de/db/conf/icnp/
@@ -1036,7 +1388,9 @@ B02106:
   Domian: 计算机网络
   Level: CCF-B
   Name: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing
-  Publisher: ACM, IEEE
+  Publisher: 
+    - ACM
+    - IEEE
   Type: conf
   Path: mobihoc/mobihoc
   URL: http://dblp.uni-trier.de/db/conf/mobihoc/
@@ -1045,7 +1399,8 @@ B02107:
   Domian: 计算机网络
   Level: CCF-B
   Name: International Workshop on Network and Operating System Support for Digital Audio and Video
-  Publisher: ACM
+  Publisher: 
+    - ACM
   Type: conf
   Path: nossdav/nossdav
   URL: http://dblp.uni-trier.de/db/conf/nossdav/
@@ -1054,7 +1409,8 @@ B02108:
   Domian: 计算机网络
   Level: CCF-B
   Name: IEEE/ACM International Workshop on Quality of Service
-  Publisher: IEEE
+  Publisher: 
+    - IEEE
   Type: conf
   Path: iwqos/iwqos
   URL: http://dblp.uni-trier.de/db/conf/iwqos/
@@ -1063,62 +1419,126 @@ B02109:
   Domian: 计算机网络
   Level: CCF-B
   Name: ACM Internet Measurement Conference
-  Publisher: ACM, USENIX
+  Publisher: 
+    - ACM
+    - USENIX
   Type: conf
   Path: imc/imc
   URL: http://dblp.uni-trier.de/db/conf/imc/
 # B031:
 B03100:
-  Acronym: CCS
+  Acronym: ACSAC
   Domian: 网络与信息安全
   Level: CCF-B
-  Name: ACM Conference on Computer and Communications Security
-  Publisher: ACM
+  Name: Annual Computer Security Applications Conference
+  Publisher: 
+    - IEEE
   Type: conf
-  Path: ccs/ccs
-  URL: http://dblp.uni-trier.de/db/conf/ccs/
+  Path: acsac/acsac
+  URL: http://dblp.uni-trier.de/db/conf/acsac/
 B03101:
-  Acronym: EUROCRYPT
+  Acronym: ASIACRYPT
   Domian: 网络与信息安全
   Level: CCF-B
-  Name: International Conference on the Theory and Applications of Cryptographic Techniques
-  Publisher: Springer
+  Name: Annual International Conference on the Theory and Application of Cryptology and Information Security
+  Publisher: 
+    - Springer
   Type: conf
-  Path: eurocrypt/eurocrypt
-  URL: http://dblp.uni-trier.de/db/conf/eurocrypt/
+  Path: asiacrypt/asiacrypt
+  URL: http://dblp.uni-trier.de/db/conf/asiacrypt/
 B03102:
-  Acronym: S&P
+  Acronym: ESORICS
   Domian: 网络与信息安全
   Level: CCF-B
-  Name: IEEE Symposium on Security and Privacy
-  Publisher: IEEE
+  Name: European Symposium on Research in Computer Security
+  Publisher: 
+    - Springer
   Type: conf
-  Path: sp/sp
-  URL: http://dblp.uni-trier.de/db/conf/sp/
+  Path: esorics/esorics
+  URL: http://dblp.uni-trier.de/db/conf/esorics/
 B03103:
-  Acronym: CRYPTO
+  Acronym: FSE
   Domian: 网络与信息安全
   Level: CCF-B
-  Name: International Cryptology Conference
-  Publisher: Springer
+  Name: Fast Software Encryption
+  Publisher: 
+    - Springer
   Type: conf
-  Path: crypto/crypto
-  URL: http://dblp.uni-trier.de/db/conf/crypto/
+  Path: fse/fse
+  URL: http://dblp.uni-trier.de/db/conf/fse/
 B03104:
-  Acronym: USENIX Security
+  Acronym: CSFW
   Domian: 网络与信息安全
   Level: CCF-B
-  Name: USENIX Security Symposium
-  Publisher: USENIX Association
+  Name: IEEE Computer Security Foundations Workshop
+  Publisher: 
+    - IEEE
   Type: conf
-  Path: uss/uss
-  URL: http://dblp.uni-trier.de/db/conf/uss/
+  Path: csfw/csfw
+  URL: http://dblp.uni-trier.de/db/conf/csfw/
 B03105:
-  Acronym: NDSS
+  Acronym: SRDS
   Domian: 网络与信息安全
   Level: CCF-B
-  Name: Network and Distributed System Security Symposium
-  Publisher: ISOC
+  Name: IEEE International Symposium on Reliable Distributed Systems
+  Publisher: 
+    - IEEE
   Type: conf
-  Path: ndss/ndss
-  URL: http://dblp.uni-trier.de/db/conf/ndss/
+  Path: srds/srds
+  URL: http://dblp.uni-trier.de/db/conf/srds/
+B03106:
+  Acronym: CHES
+  Domian: 网络与信息安全
+  Level: CCF-B
+  Name: International Conference on Cryptographic Hardware and Embedded Systems
+  Publisher: 
+    - Springer
+  Type: conf
+  Path: ches/ches
+  URL: http://dblp.uni-trier.de/db/conf/ches/
+B03107:
+  Acronym: DSN
+  Domian: 网络与信息安全
+  Level: CCF-B
+  Name: International Conference on Dependable Systems and Networks
+  Publisher: 
+    - IEEE
+    - IFIP
+  Type: conf
+  Path: dsn/dsn
+  URL: http://dblp.uni-trier.de/db/conf/dsn/
+B03108:
+  Acronym: RAID
+  Domian: 网络与信息安全
+  Level: CCF-B
+  Name: International Symposium on Recent Advances in Intrusion Detection
+  Publisher: 
+    - Springer
+  Type: conf
+  Path: raid/raid
+  URL: http://dblp.uni-trier.de/db/conf/raid/
+B03109:
+  Acronym: PKC
+  Domian: 网络与信息安全
+  Level: CCF-B
+  Name: International Workshop on Practice and Theory in Public Key Cryptography
+  Publisher: 
+  Type: conf
+  Path: pkc/pkc
+  URL: http://dblp.uni-trier.de/db/conf/pkc/
+B03110:
+  Acronym: TCC
+  Domian: 网络与信息安全
+  Level: CCF-B
+  Name: Theory of Cryptography Conference
+  Publisher: 
+    - Springer
+  Type: conf
+  Path: tcc/tcc
+  URL: http://dblp.uni-trier.de/db/conf/tcc/
+# B041
+# B051
+# B061
+# B071
+# B081
+# B091
