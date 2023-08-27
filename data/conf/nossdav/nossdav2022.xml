@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59646">:facetid:toc:\"db/conf/nossdav/nossdav2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">175.20</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="41057628">:facetid:toc:db/conf/nossdav/nossdav2022.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="605938">
+<info><authors><author pid="97/2274-1">Yu Liu 0001</author><author pid="257/8237">Linhui Wei</author><author pid="19/7657">Heming Zhao</author><author pid="243/1718">Jingming Shan</author><author pid="49/6857">Yumei Wang</author></authors><title>Geometry-guided compact compression for light field image using graph convolutional networks.</title><venue>NOSSDAV</venue><pages>15-21</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/0001WZSW22</key><doi>10.1145/3534088.3534345</doi><ee>https://doi.org/10.1145/3534088.3534345</ee><url>https://dblp.org/rec/conf/nossdav/0001WZSW22</url></info>
+<url>URL#605938</url>
+</hit>
+<hit score="1" id="605939">
+<info><authors><author pid="304/1299">Xuezhi Wang 0007</author><author pid="150/6757">Guanyu Gao</author><author pid="23/11077">Xiaohu Wu</author><author pid="158/9194">Yan Lyu</author><author pid="10/2312-1">Weiwei Wu 0001</author></authors><title>Dynamic DNN model selection and inference off loading for video analytics with edge-cloud collaboration.</title><venue>NOSSDAV</venue><pages>64-70</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/0007GWL022</key><doi>10.1145/3534088.3534352</doi><ee>https://doi.org/10.1145/3534088.3534352</ee><url>https://dblp.org/rec/conf/nossdav/0007GWL022</url></info>
+<url>URL#605939</url>
+</hit>
+<hit score="1" id="605940">
+<info><authors><author pid="24/8772">Ahmed Ali-Eldin</author><author pid="345/5951">Chirag Goel</author><author pid="345/5916">Mayank Jha</author><author pid="89/5615-25">Bo Chen 0025</author><author pid="45/3224">Klara Nahrstedt</author><author pid="s/PrashantJShenoy">Prashant J. Shenoy</author></authors><title>CAVE: caching 360° videos at the edge.</title><venue>NOSSDAV</venue><pages>50-56</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/Ali-EldinGJ0NS22</key><doi>10.1145/3534088.3534350</doi><ee>https://doi.org/10.1145/3534088.3534350</ee><url>https://dblp.org/rec/conf/nossdav/Ali-EldinGJ0NS22</url></info>
+<url>URL#605940</url>
+</hit>
+<hit score="1" id="605941">
+<info><authors><author pid="253/1007">Haihan Duan</author><author pid="67/3117">Junhua Liao</author><author pid="318/6551">Lehao Lin</author><author pid="52/2830-2">Wei Cai 0002</author></authors><title>FLAD: a human-centered video content flaw detection system for meeting recordings.</title><venue>NOSSDAV</venue><pages>43-49</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/DuanLL022</key><doi>10.1145/3534088.3534349</doi><ee>https://doi.org/10.1145/3534088.3534349</ee><url>https://dblp.org/rec/conf/nossdav/DuanLL022</url></info>
+<url>URL#605941</url>
+</hit>
+<hit score="1" id="605942">
+<info><authors><author pid="243/3649">Soonbin Lee</author><author pid="227/4978">JongBeom Jeong</author><author pid="34/2551">Eun-Seok Ryu</author></authors><title>Atlas level rate distortion optimization for 6DoF immersive video compression.</title><venue>NOSSDAV</venue><pages>78-84</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LeeJR22</key><doi>10.1145/3534088.3534354</doi><ee>https://doi.org/10.1145/3534088.3534354</ee><url>https://dblp.org/rec/conf/nossdav/LeeJR22</url></info>
+<url>URL#605942</url>
+</hit>
+<hit score="1" id="605943">
+<info><authors><author pid="18/3173">Na Li</author><author pid="64/424-1">Yao Liu 0001</author></authors><title>Applying VertexShuffle toward 360-degree video super-resolution.</title><venue>NOSSDAV</venue><pages>71-77</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LiL22</key><doi>10.1145/3534088.3534353</doi><ee>https://doi.org/10.1145/3534088.3534353</ee><url>https://dblp.org/rec/conf/nossdav/LiL22</url></info>
+<url>URL#605943</url>
+</hit>
+<hit score="1" id="605944">
+<info><authors><author pid="36/7666">Zelong Wang</author><author pid="66/2693">Zhenxiao Luo</author><author pid="74/8189">Miao Hu</author><author pid="52/328-1">Di Wu 0001</author><author pid="175/6869">Youlong Cao</author><author pid="22/6620">Yi Qin</author></authors><title>Revisiting super-resolution for internet video streaming.</title><venue>NOSSDAV</venue><pages>8-14</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/WangLH0CQ22</key><doi>10.1145/3534088.3534344</doi><ee>https://doi.org/10.1145/3534088.3534344</ee><url>https://dblp.org/rec/conf/nossdav/WangLH0CQ22</url></info>
+<url>URL#605944</url>
+</hit>
+<hit score="1" id="605945">
+<info><authors><author pid="58/2484">Nan Wu</author><author pid="312/6541">Ruizhi Cheng</author><author pid="47/3276">Songqing Chen</author><author pid="00/3507">Bo Han 0001</author></authors><title>Preserving privacy in mobile spatial computing.</title><venue>NOSSDAV</venue><pages>1-7</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/WuCC022</key><doi>10.1145/3534088.3534343</doi><ee>https://doi.org/10.1145/3534088.3534343</ee><url>https://dblp.org/rec/conf/nossdav/WuCC022</url></info>
+<url>URL#605945</url>
+</hit>
+<hit score="1" id="605946">
+<info><authors><author pid="190/5597">Xiaokun Xu</author><author pid="c/MClaypool">Mark Claypool</author></authors><title>Measurement of the responses of cloud-based game streaming to network congestion.</title><venue>NOSSDAV</venue><pages>22-28</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/XuC22</key><doi>10.1145/3534088.3534346</doi><ee>https://doi.org/10.1145/3534088.3534346</ee><url>https://dblp.org/rec/conf/nossdav/XuC22</url></info>
+<url>URL#605946</url>
+</hit>
+<hit score="1" id="605947">
+<info><authors><author pid="325/2176">Mihail Yanev</author><author pid="168/4511">Stephen McQuistin</author><author pid="87/3859">Colin Perkins</author></authors><title>Does TCP new congestion window validation improve HTTP adaptive streaming performance?</title><venue>NOSSDAV</venue><pages>29-35</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/YanevMP22</key><doi>10.1145/3534088.3534347</doi><ee>https://doi.org/10.1145/3534088.3534347</ee><url>https://dblp.org/rec/conf/nossdav/YanevMP22</url></info>
+<url>URL#605947</url>
+</hit>
+<hit score="1" id="605948">
+<info><authors><author pid="319/7706">Danfu Yuan</author><author pid="299/1169">Yuanhong Zhang</author><author pid="17/6858">Weizhan Zhang</author><author pid="276/3179">Xuncheng Liu</author><author pid="150/8534">Haipeng Du</author><author pid="32/1858">Qinghua Zheng</author></authors><title>PRIOR: deep reinforced adaptive video streaming with attention-based throughput prediction.</title><venue>NOSSDAV</venue><pages>36-42</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/YuanZZLDZ22</key><doi>10.1145/3534088.3534348</doi><ee>https://doi.org/10.1145/3534088.3534348</ee><url>https://dblp.org/rec/conf/nossdav/YuanZZLDZ22</url></info>
+<url>URL#605948</url>
+</hit>
+<hit score="1" id="605949">
+<info><authors><author pid="252/0731">Ziehen Zhu</author><author pid="207/5323">Xianglong Feng</author><author pid="183/5561">Zhongze Tang</author><author pid="06/4489">Nan Jiang</author><author pid="55/3523-1">Tian Guo 0001</author><author pid="16/2866">Lisong Xu</author><author pid="54/3497-1">Sheng Wei 0001</author></authors><title>Power-efficient live virtual reality streaming using edge offloading.</title><venue>NOSSDAV</venue><pages>57-63</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhuFTJ0X022</key><doi>10.1145/3534088.3534351</doi><ee>https://doi.org/10.1145/3534088.3534351</ee><url>https://dblp.org/rec/conf/nossdav/ZhuFTJ0X022</url></info>
+<url>URL#605949</url>
+</hit>
+<hit score="1" id="640909">
+<info><authors><author pid="28/10126">Zhisheng Yan</author><author pid="14/5092">Michael Zink</author><author pid="29/4867-13">Yong Liu 0013</author></authors><title>Proceedings of the 32nd ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2022, Athlone, Ireland, 17 June 2022</title><venue>NOSSDAV</venue><publisher>ACM</publisher><year>2022</year><type>Editorship</type><key>conf/nossdav/2022</key><doi>10.1145/3534088</doi><ee>https://doi.org/10.1145/3534088</ee><url>https://dblp.org/rec/conf/nossdav/2022</url></info>
+<url>URL#640909</url>
+</hit>
+</hits>
+</result>

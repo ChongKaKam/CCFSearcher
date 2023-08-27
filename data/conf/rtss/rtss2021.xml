@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59395">:facetid:toc:\"db/conf/rtss/rtss2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">174.97</time>
+<completions total="1" computed="1" sent="1">
+<c sc="53" dc="53" oc="53" id="41061790">:facetid:toc:db/conf/rtss/rtss2021.bht</c>
+</completions>
+<hits total="53" computed="53" sent="53" first="0">
+<hit score="1" id="1075139">
+<info><authors><author pid="208/0838">Tanya Amert</author><author pid="252/3776">Zelin Tong</author><author pid="227/5460">Sergey Voronov</author><author pid="221/5097">Joshua Bakita</author><author pid="s/FDonelsonSmith">F. Donelson Smith</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>TimeWall: Enabling Time Partitioning for Real-Time Multicore+Accelerator Platforms.</title><venue>RTSS</venue><pages>455-468</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/AmertTVBSA21</key><doi>10.1109/RTSS52674.2021.00048</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00048</ee><url>https://dblp.org/rec/conf/rtss/AmertTVBSA21</url></info>
+<url>URL#1075139</url>
+</hit>
+<hit score="1" id="1075140">
+<info><authors><author pid="201/7969">Tobias Blaß</author><author pid="201/8076">Daniel Casini</author><author pid="243/3849">Sergey Bozhko</author><author pid="19/2942">Björn B. Brandenburg</author></authors><title>A ROS 2 Response-Time Analysis Exploiting Starvation Freedom and Execution-Time Variance.</title><venue>RTSS</venue><pages>41-53</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BlassCBB21</key><doi>10.1109/RTSS52674.2021.00016</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00016</ee><url>https://dblp.org/rec/conf/rtss/BlassCBB21</url></info>
+<url>URL#1075140</url>
+</hit>
+<hit score="1" id="1075141">
+<info><authors><author pid="243/3849">Sergey Bozhko</author><author pid="166/7057">Georg von der Brüggen</author><author pid="19/2942">Björn B. Brandenburg</author></authors><title>Monte Carlo Response-Time Analysis.</title><venue>RTSS</venue><pages>342-355</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BozhkoBB21</key><doi>10.1109/RTSS52674.2021.00039</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00039</ee><url>https://dblp.org/rec/conf/rtss/BozhkoBB21</url></info>
+<url>URL#1075141</url>
+</hit>
+<hit score="1" id="1075142">
+<info><authors><author pid="166/7057">Georg von der Brüggen</author><author pid="24/1802">Nico Piatkowski</author><author pid="163/9343">Kuan-Hsun Chen</author><author pid="70/1961">Jian-Jia Chen</author><author pid="m/KatharinaMorik">Katharina Morik</author><author pid="19/2942">Björn B. Brandenburg</author></authors><title>Efficiently Approximating the Worst-Case Deadline Failure Probability Under EDF.</title><venue>RTSS</venue><pages>214-226</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BruggenPCCMB21</key><doi>10.1109/RTSS52674.2021.00029</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00029</ee><url>https://dblp.org/rec/conf/rtss/BruggenPCCMB21</url></info>
+<url>URL#1075142</url>
+</hit>
+<hit score="1" id="1075143">
+<info><authors><author pid="220/8720">Youngeun Cho</author><author pid="39/2322">Dongmin Shin</author><author pid="172/6420">JaeSeung Park</author><author pid="38/2822">Chang-Gun Lee</author></authors><title>Conditionally Optimal Parallelization of Real-Time DAG Tasks for Global EDF.</title><venue>RTSS</venue><pages>188-200</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ChoSPL21</key><doi>10.1109/RTSS52674.2021.00027</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00027</ee><url>https://dblp.org/rec/conf/rtss/ChoSPL21</url></info>
+<url>URL#1075143</url>
+</hit>
+<hit score="1" id="1075144">
+<info><authors><author pid="321/0214">Blandine Djika</author><author pid="17/6957">Frank Singhoff</author><author pid="52/5700">Alain Plantec</author><author pid="44/1755">Georges Edouard Kouamou</author></authors><title>Work-in-Progress: Models and Tools to Detect Real-Time Scheduling Anomalies.</title><venue>RTSS</venue><pages>540-543</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/DjikaSPK21</key><doi>10.1109/RTSS52674.2021.00060</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00060</ee><url>https://dblp.org/rec/conf/rtss/DjikaSPK21</url></info>
+<url>URL#1075144</url>
+</hit>
+<hit score="1" id="1075145">
+<info><authors><author pid="276/0882">Kalyani Dole</author><author pid="65/3925">Ashutosh Gupta</author><author pid="174/1975">John Komp</author><author pid="k/SNKrishna">Shankaranarayanan Krishna</author><author pid="06/5756">Ashutosh Trivedi 0001</author></authors><title>Event-Triggered and Time-Triggered Duration Calculus for Model-Free Reinforcement Learning.</title><venue>RTSS</venue><pages>240-252</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/DoleGKKT21</key><doi>10.1109/RTSS52674.2021.00031</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00031</ee><url>https://dblp.org/rec/conf/rtss/DoleGKKT21</url></info>
+<url>URL#1075145</url>
+</hit>
+<hit score="1" id="1075146">
+<info><authors><author pid="46/9578">Pontus Ekberg</author><author pid="b/SKBaruah">Sanjoy K. Baruah</author></authors><title>Partitioned Scheduling of Recurrent Real-Time Tasks.</title><venue>RTSS</venue><pages>356-367</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/EkbergB21</key><doi>10.1109/RTSS52674.2021.00040</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00040</ee><url>https://dblp.org/rec/conf/rtss/EkbergB21</url></info>
+<url>URL#1075146</url>
+</hit>
+<hit score="1" id="1075147">
+<info><authors><author pid="132/8094">Chenchen Fu</author><author pid="274/3675">Xiaoxing Qiu</author><author pid="224/5488">Zelin Yun</author><author pid="80/806-2">Song Han 0002</author><author pid="10/2312-1">Weiwei Wu 0001</author><author pid="x/ChunJasonXue">Chun Jason Xue</author></authors><title>Keep Fresh: Real-Time Data Retrieval with Speed Adaptation in Mobile Cyber-Physical Systems.</title><venue>RTSS</venue><pages>304-315</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/FuQYHWX21</key><doi>10.1109/RTSS52674.2021.00036</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00036</ee><url>https://dblp.org/rec/conf/rtss/FuQYHWX21</url></info>
+<url>URL#1075147</url>
+</hit>
+<hit score="1" id="1075148">
+<info><authors><author pid="279/6835">Gautam Gala</author><author pid="320/9936">Javier Castillo Rivera</author><author pid="29/2442">Gerhard Fohler</author></authors><title>Work-in-Progress: Cloud Computing for Time-Triggered Safety-Critical Systems.</title><venue>RTSS</venue><pages>516-519</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GalaRF21</key><doi>10.1109/RTSS52674.2021.00054</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00054</ee><url>https://dblp.org/rec/conf/rtss/GalaRF21</url></info>
+<url>URL#1075148</url>
+</hit>
+<hit score="1" id="1075149">
+<info><authors><author pid="252/6934">Yiqin Gao</author><author pid="72/9357">Guillaume Pallez</author><author pid="r/YvesRobert">Yves Robert</author><author pid="14/3872">Frédéric Vivien</author></authors><title>Work-in-Progress: Evaluating Task Dropping Strategies for Overloaded Real-Time Systems.</title><venue>RTSS</venue><pages>528-531</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GaoPRV21</key><doi>10.1109/RTSS52674.2021.00057</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00057</ee><url>https://dblp.org/rec/conf/rtss/GaoPRV21</url></info>
+<url>URL#1075149</url>
+</hit>
+<hit score="1" id="1075150">
+<info><authors><author pid="321/0361">Alban Gruin</author><author pid="146/2894">Thomas Carle</author><author pid="46/5584">Hugues Cassé</author><author pid="52/2597">Christine Rochange</author></authors><title>Speculative Execution and Timing Predictability in an Open Source RISC-V Core.</title><venue>RTSS</venue><pages>393-404</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GruinCCR21</key><doi>10.1109/RTSS52674.2021.00043</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00043</ee><url>https://dblp.org/rec/conf/rtss/GruinCCR21</url></info>
+<url>URL#1075150</url>
+</hit>
+<hit score="1" id="1075151">
+<info><authors><author pid="256/4929">Mario Günzel</author><author pid="321/0059">Harun Teper</author><author pid="163/9343">Kuan-Hsun Chen</author><author pid="166/7057">Georg von der Brüggen</author><author pid="70/1961">Jian-Jia Chen</author></authors><title>Work-in-Progress: Evaluation Framework for Self-Suspending Schedulability Tests.</title><venue>RTSS</venue><pages>532-535</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GunzelTCBC21</key><doi>10.1109/RTSS52674.2021.00058</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00058</ee><url>https://dblp.org/rec/conf/rtss/GunzelTCBC21</url></info>
+<url>URL#1075151</url>
+</hit>
+<hit score="1" id="1075152">
+<info><authors><author pid="256/4929">Mario Günzel</author><author pid="208/0854">Niklas Ueter</author><author pid="70/1961">Jian-Jia Chen</author></authors><title>Suspension-Aware Fixed-Priority Schedulability Test with Arbitrary Deadlines and Arrival Curves.</title><venue>RTSS</venue><pages>418-430</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GunzelUC21</key><doi>10.1109/RTSS52674.2021.00045</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00045</ee><url>https://dblp.org/rec/conf/rtss/GunzelUC21</url></info>
+<url>URL#1075152</url>
+</hit>
+<hit score="1" id="1075153">
+<info><authors><author pid="274/6412">Baoshen Guo</author><author pid="42/1503-8">Shuai Wang 0008</author><author pid="89/5503">Yi Ding</author><author pid="54/1738">Guang Wang</author><author pid="150/5543">Suining He</author><author pid="15/8612">Desheng Zhang</author><author pid="h/TianHe">Tian He 0001</author></authors><title>Concurrent Order Dispatch for Instant Delivery with Time-Constrained Actor-Critic Reinforcement Learning.</title><venue>RTSS</venue><pages>176-187</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GuoWDWHZH21</key><doi>10.1109/RTSS52674.2021.00026</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00026</ee><url>https://dblp.org/rec/conf/rtss/GuoWDWHZH21</url></info>
+<url>URL#1075153</url>
+</hit>
+<hit score="1" id="1075154">
+<info><authors><author pid="144/4344">Seyedmehdi Hosseinimotlagh</author><author pid="321/0194">Daniel Enright</author><author pid="s/ChristianRShelton">Christian R. Shelton</author><author pid="19/5798-1">Hyoseung Kim 0001</author></authors><title>Data-Driven Structured Thermal Modeling for COTS Multi-core Processors.</title><venue>RTSS</venue><pages>201-213</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Hosseinimotlagh21</key><doi>10.1109/RTSS52674.2021.00028</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00028</ee><url>https://dblp.org/rec/conf/rtss/Hosseinimotlagh21</url></info>
+<url>URL#1075154</url>
+</hit>
+<hit score="1" id="1075155">
+<info><authors><author pid="228/4900">Sena Hounsinou</author><author pid="305/9074">Vijay Banerjee</author><author pid="321/0172">Chunhao Peng</author><author pid="130/9116">Monowar Hasan</author><author pid="76/7561">Gedare Bloom</author></authors><title>Work-in-Progress: Enabling Secure Boot for Real-Time Restart-Based Cyber-Physical Systems.</title><venue>RTSS</venue><pages>524-527</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HounsinouBPHB21</key><doi>10.1109/RTSS52674.2021.00056</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00056</ee><url>https://dblp.org/rec/conf/rtss/HounsinouBPHB21</url></info>
+<url>URL#1075155</url>
+</hit>
+<hit score="1" id="1075156">
+<info><authors><author pid="228/4900">Sena Hounsinou</author><author pid="313/5917">Mark Stidd</author><author pid="238/8638">Uchenna Ezeobi</author><author pid="207/6400">Habeeb Olufowobi</author><author pid="58/7582">Mitra Nasri</author><author pid="76/7561">Gedare Bloom</author></authors><title>Vulnerability of Controller Area Network to Schedule-Based Attacks.</title><venue>RTSS</venue><pages>495-507</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HounsinouSEONB21</key><doi>10.1109/RTSS52674.2021.00051</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00051</ee><url>https://dblp.org/rec/conf/rtss/HounsinouSEONB21</url></info>
+<url>URL#1075156</url>
+</hit>
+<hit score="1" id="1075157">
+<info><authors><author pid="82/378-3">Ming Hu 0003</author><author pid="250/2076">Jiepin Ding</author><author pid="83/5342-2">Min Zhang 0002</author><author pid="99/4576">Frédéric Mallet</author><author pid="95/573">Mingsong Chen</author></authors><title>Enumeration and Deduction Driven Co-Synthesis of CCSL Specifications using Reinforcement Learning.</title><venue>RTSS</venue><pages>227-239</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HuDZMC21</key><doi>10.1109/RTSS52674.2021.00030</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00030</ee><url>https://dblp.org/rec/conf/rtss/HuDZMC21</url></info>
+<url>URL#1075157</url>
+</hit>
+<hit score="1" id="1075158">
+<info><authors><author pid="50/4629-4">Zhe Jiang 0004</author><author pid="199/5323">Xiaotian Dai 0001</author><author pid="06/898">Neil C. Audsley</author></authors><title>HIART-MCS: High Resilience and Approximated Computing Architecture for Imprecise Mixed-Criticality Systems.</title><venue>RTSS</venue><pages>290-303</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/JiangDA21</key><doi>10.1109/RTSS52674.2021.00035</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00035</ee><url>https://dblp.org/rec/conf/rtss/JiangDA21</url></info>
+<url>URL#1075158</url>
+</hit>
+<hit score="1" id="1075159">
+<info><authors><author pid="38/555-4">Xu Jiang 0004</author><author pid="45/5411">Nan Guan</author><author pid="320/9977">Haochun Liang</author><author pid="07/11244-1">Yue Tang 0001</author><author pid="54/3557">Lei Qiao</author><author pid="y/WangYi">Wang Yi 0001</author></authors><title>Virtually-Federated Scheduling of Parallel Real-Time Tasks.</title><venue>RTSS</venue><pages>482-494</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/JiangGLTQW21</key><doi>10.1109/RTSS52674.2021.00050</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00050</ee><url>https://dblp.org/rec/conf/rtss/JiangGLTQW21</url></info>
+<url>URL#1075159</url>
+</hit>
+<hit score="1" id="1075160">
+<info><authors><author pid="45/7839">Jingyan Jiang</author><author pid="224/0762">Ziyue Luo</author><author pid="65/10436">Chenghao Hu</author><author pid="311/9301">Zhaoliang He</author><author pid="95/6543-1">Zhi Wang 0001</author><author pid="34/3173">Shutao Xia</author><author pid="34/3772-1">Chuan Wu 0001</author></authors><title>Joint Model and Data Adaptation for Cloud Inference Serving.</title><venue>RTSS</venue><pages>279-289</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/JiangLHHWXW21</key><doi>10.1109/RTSS52674.2021.00034</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00034</ee><url>https://dblp.org/rec/conf/rtss/JiangLHHWXW21</url></info>
+<url>URL#1075160</url>
+</hit>
+<hit score="1" id="1075161">
+<info><authors><author pid="21/3839-16">Wei Jiang 0016</author><author pid="320/9853">Xinke Liao</author><author pid="10/6219">Jinyu Zhan</author><author pid="55/6803">Ke Jiang</author></authors><title>Work-in-Progress: Improving Resilience of Distributed Real-Time Applications via Security and Fault Tolerance Co-Design.</title><venue>RTSS</venue><pages>536-539</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/JiangLZJ21</key><doi>10.1109/RTSS52674.2021.00059</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00059</ee><url>https://dblp.org/rec/conf/rtss/JiangLZJ21</url></info>
+<url>URL#1075161</url>
+</hit>
+<hit score="1" id="1075162">
+<info><authors><author pid="81/6774">Woo-Sung Kang</author><author pid="32/10300">Kilho Lee</author><author pid="39/1801-1">Jinkyu Lee 0001</author><author pid="45/4154">Insik Shin</author><author pid="46/11077">Hoon Sung Chwa</author></authors><title>LaLaRAND: Flexible Layer-by-Layer CPU/GPU Scheduling for Real-Time DNN Tasks.</title><venue>RTSS</venue><pages>329-341</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KangLLSC21</key><doi>10.1109/RTSS52674.2021.00038</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00038</ee><url>https://dblp.org/rec/conf/rtss/KangLLSC21</url></info>
+<url>URL#1075162</url>
+</hit>
+<hit score="1" id="1075163">
+<info><authors><author pid="19/5798-1">Hyoseung Kim 0001</author><author pid="45/3063">Dionisio de Niz</author><author pid="39/4827">Björn Andersson</author><author pid="26/6023">Mark H. Klein</author><author pid="34/1183">John P. Lehoczky</author></authors><title>Addressing Multi-core Timing Interference using Co-Runner Locking.</title><venue>RTSS</venue><pages>54-67</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KimNAKL21</key><doi>10.1109/RTSS52674.2021.00017</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00017</ee><url>https://dblp.org/rec/conf/rtss/KimNAKL21</url></info>
+<url>URL#1075163</url>
+</hit>
+<hit score="1" id="1075164">
+<info><authors><author pid="242/6131">Ipsita Koley</author><author pid="270/3077">Sunandan Adhikary</author><author pid="89/4589">Soumyajit Dey</author></authors><title>Catch Me If You Learn: Real-Time Attack Detection and Mitigation in Learning Enabled CPS.</title><venue>RTSS</venue><pages>136-148</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KoleyAD21</key><doi>10.1109/RTSS52674.2021.00023</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00023</ee><url>https://dblp.org/rec/conf/rtss/KoleyAD21</url></info>
+<url>URL#1075164</url>
+</hit>
+<hit score="1" id="1075165">
+<info><authors><author pid="68/6399">Xingwu Liu</author><author pid="321/0149">Zizhao Chen</author><author pid="97/4989">Xin Han</author><author pid="93/6084-2">Zhenyu Sun 0002</author><author pid="39/4489">Zhishan Guo</author></authors><title>Tighter Bounds of Speedup Factor of Partitioned EDF for Constrained-Deadline Sporadic Tasks.</title><venue>RTSS</venue><pages>431-440</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LiuCHSG21</key><doi>10.1109/RTSS52674.2021.00046</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00046</ee><url>https://dblp.org/rec/conf/rtss/LiuCHSG21</url></info>
+<url>URL#1075165</url>
+</hit>
+<hit score="1" id="1075166">
+<info><authors><author pid="320/9762">Marco Maida</author><author pid="243/3849">Sergey Bozhko</author><author pid="19/2942">Björn B. Brandenburg</author></authors><title>Work-in-Progress: Automatically Generated Response-Time Proofs as Evidence of Timeliness.</title><venue>RTSS</venue><pages>512-515</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MaidaBB21</key><doi>10.1109/RTSS52674.2021.00053</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00053</ee><url>https://dblp.org/rec/conf/rtss/MaidaBB21</url></info>
+<url>URL#1075166</url>
+</hit>
+<hit score="1" id="1075167">
+<info><authors><author pid="262/6161">Srijeeta Maity</author><author pid="139/9327">Anirban Ghose</author><author pid="89/4589">Soumyajit Dey</author><author pid="27/366">Sangyoung Park</author><author pid="c/SamarjitChakraborty">Samarjit Chakraborty</author></authors><title>Work-in-Progress: Cooling by Core-Idling: Thermal-Aware Thread Scheduling for Mobile Multicore Processors.</title><venue>RTSS</venue><pages>520-523</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MaityGDPC21</key><doi>10.1109/RTSS52674.2021.00055</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00055</ee><url>https://dblp.org/rec/conf/rtss/MaityGDPC21</url></info>
+<url>URL#1075167</url>
+</hit>
+<hit score="1" id="1075168">
+<info><authors><author pid="53/8452">Ernesto Massa</author><author pid="07/2481">George Lima 0001</author><author pid="39/4827">Björn Andersson</author><author pid="80/2060">Vinicius Petrucci</author></authors><title>Heterogeneous Quasi-Partitioned Scheduling.</title><venue>RTSS</venue><pages>266-278</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MassaLAP21</key><doi>10.1109/RTSS52674.2021.00033</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00033</ee><url>https://dblp.org/rec/conf/rtss/MassaLAP21</url></info>
+<url>URL#1075168</url>
+</hit>
+<hit score="1" id="1075169">
+<info><authors><author pid="45/3063">Dionisio de Niz</author><author pid="39/4827">Björn Andersson</author><author pid="19/5798-1">Hyoseung Kim 0001</author><author pid="26/6023">Mark H. Klein</author><author pid="34/1183">John P. Lehoczky</author></authors><title>Resilient Mixed-Trust Scheduling.</title><venue>RTSS</venue><pages>368-379</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NizAKKL21</key><doi>10.1109/RTSS52674.2021.00041</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00041</ee><url>https://dblp.org/rec/conf/rtss/NizAKKL21</url></info>
+<url>URL#1075169</url>
+</hit>
+<hit score="1" id="1075170">
+<info><authors><author pid="321/0163">Claire Nord</author><author pid="296/1983">Shai Caspin</author><author pid="185/1709">Catherine E. Nemitz</author><author pid="s/HowardEShrobe">Howard E. Shrobe</author><author pid="14/5114">Hamed Okhravi</author><author pid="a/JamesHAnderson">James H. Anderson</author><author pid="157/1187">Nathan Burow</author><author pid="66/5887">Bryan C. Ward</author></authors><title>TORTIS: Retry-Free Software Transactional Memory for Real-Time Systems.</title><venue>RTSS</venue><pages>469-481</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NordCNSOABW21</key><doi>10.1109/RTSS52674.2021.00049</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00049</ee><url>https://dblp.org/rec/conf/rtss/NordCNSOABW21</url></info>
+<url>URL#1075170</url>
+</hit>
+<hit score="1" id="1075171">
+<info><authors><author pid="179/3198">Jonas Peeck</author><author pid="168/2772">Mischa Möstl</author><author pid="11/3363">Tasuku Ishigooka</author><author pid="e/RolfErnst">Rolf Ernst</author></authors><title>A Middleware Protocol for Time-Critical Wireless Communication of Large Data Samples.</title><venue>RTSS</venue><pages>1-13</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/PeeckMIE21</key><doi>10.1109/RTSS52674.2021.00013</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00013</ee><url>https://dblp.org/rec/conf/rtss/PeeckMIE21</url></info>
+<url>URL#1075171</url>
+</hit>
+<hit score="1" id="1075172">
+<info><authors><author pid="308/6395">Sayra Ranjha</author><author pid="58/7582">Mitra Nasri</author><author pid="62/7802">Geoffrey Nelissen</author></authors><title>Work-in-Progress: Partial-Order Reduction in Reachability-Based Response-Time Analyses.</title><venue>RTSS</venue><pages>544-547</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/RanjhaNN21</key><doi>10.1109/RTSS52674.2021.00061</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00061</ee><url>https://dblp.org/rec/conf/rtss/RanjhaNN21</url></info>
+<url>URL#1075172</url>
+</hit>
+<hit score="1" id="1075173">
+<info><authors><author pid="251/4990">Radha Reddy</author><author pid="a/LuisAlmeida">Luís Almeida 0001</author><author pid="225/5117">Miguel Gutiérrez Gaitán</author><author pid="179/3273">Harrison Kurunathan</author><author pid="83/1310">Pedro M. Santos 0002</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>Work-in-Progress: Worst-Case Response Time of Intersection Management Protocols.</title><venue>RTSS</venue><pages>556-559</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ReddyAGKST21</key><doi>10.1109/RTSS52674.2021.00064</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00064</ee><url>https://dblp.org/rec/conf/rtss/ReddyAGKST21</url></info>
+<url>URL#1075173</url>
+</hit>
+<hit score="1" id="1075174">
+<info><authors><author pid="181/1829">Federico Reghenzani</author><author pid="201/7981">Ashikahmed Bhuiyan</author><author pid="16/4949">William Fornaciari</author><author pid="39/4489">Zhishan Guo</author></authors><title>A Multi-Level DPM Approach for Real-Time DAG Tasks in Heterogeneous Processors.</title><venue>RTSS</venue><pages>14-26</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ReghenzaniBFG21</key><doi>10.1109/RTSS52674.2021.00014</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00014</ee><url>https://dblp.org/rec/conf/rtss/ReghenzaniBFG21</url></info>
+<url>URL#1075174</url>
+</hit>
+<hit score="1" id="1075175">
+<info><authors><author pid="181/1829">Federico Reghenzani</author><author pid="303/8129">Filippo Sciamanna</author><author pid="16/4949">William Fornaciari</author></authors><title>Work-in-Progress: Run-Time pWCET Estimation and Quality Monitoring.</title><venue>RTSS</venue><pages>552-555</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ReghenzaniSF21</key><doi>10.1109/RTSS52674.2021.00063</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00063</ee><url>https://dblp.org/rec/conf/rtss/ReghenzaniSF21</url></info>
+<url>URL#1075175</url>
+</hit>
+<hit score="1" id="1075176">
+<info><authors><author pid="119/9062">Francesco Restuccia</author><author pid="153/0102">Alessandro Biondi 0001</author></authors><title>Time-Predictable Acceleration of Deep Neural Networks on FPGA SoC Platforms.</title><venue>RTSS</venue><pages>441-454</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/RestucciaB21</key><doi>10.1109/RTSS52674.2021.00047</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00047</ee><url>https://dblp.org/rec/conf/rtss/RestucciaB21</url></info>
+<url>URL#1075176</url>
+</hit>
+<hit score="1" id="1075177">
+<info><authors><author pid="268/4821">Gero Schwäricke</author><author pid="132/6725">Rohan Tabish</author><author pid="25/3790">Rodolfo Pellizzoni</author><author pid="19/5387">Renato Mancuso 0001</author><author pid="77/9720">Andrea Bastoni</author><author pid="162/7703">Alexander Zuepke</author><author pid="86/450">Marco Caccamo</author></authors><title>A Real-Time Virtio-Based Framework for Predictable Inter-VM Communication.</title><venue>RTSS</venue><pages>27-40</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SchwarickeTPMBZ21</key><doi>10.1109/RTSS52674.2021.00015</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00015</ee><url>https://dblp.org/rec/conf/rtss/SchwarickeTPMBZ21</url></info>
+<url>URL#1075177</url>
+</hit>
+<hit score="1" id="1075178">
+<info><authors><author pid="292/1383">Mohsen Shekarisaz</author><author pid="t/LotharThiele">Lothar Thiele</author><author pid="24/3786">Mehdi Kargahi</author></authors><title>Automatic Energy-Hotspot Detection and Elimination in Real-Time Deeply Embedded Systems.</title><venue>RTSS</venue><pages>97-109</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ShekarisazTK21</key><doi>10.1109/RTSS52674.2021.00020</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00020</ee><url>https://dblp.org/rec/conf/rtss/ShekarisazTK21</url></info>
+<url>URL#1075178</url>
+</hit>
+<hit score="1" id="1075179">
+<info><authors><author pid="179/3256">Nitin Shivaraman</author><author pid="268/1612">Patrick Schuster</author><author pid="08/3377">Saravanan Ramanathan</author><author pid="73/1708">Arvind Easwaran</author><author pid="96/4490">Sebastian Steinhorst</author></authors><title>Cluster-Based Network Time Synchronization for Resilience with Energy Efficiency.</title><venue>RTSS</venue><pages>149-161</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ShivaramanSRES21</key><doi>10.1109/RTSS52674.2021.00024</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00024</ee><url>https://dblp.org/rec/conf/rtss/ShivaramanSRES21</url></info>
+<url>URL#1075179</url>
+</hit>
+<hit score="1" id="1075180">
+<info><authors><author pid="320/9806">Srinidhi Srinivasan</author><author pid="62/7802">Geoffrey Nelissen</author><author pid="35/2125">Reinder J. Bril</author></authors><title>Work-in-Progress: Analysis of TSN Time-Aware Shapers using Schedule Abstraction Graphs.</title><venue>RTSS</venue><pages>508-511</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SrinivasanNB21</key><doi>10.1109/RTSS52674.2021.00052</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00052</ee><url>https://dblp.org/rec/conf/rtss/SrinivasanNB21</url></info>
+<url>URL#1075180</url>
+</hit>
+<hit score="1" id="1075181">
+<info><authors><author pid="14/9961">Jinghao Sun</author><author pid="45/5411">Nan Guan</author><author pid="39/4489">Zhishan Guo</author><author pid="321/0377">Yekai Xue</author><author pid="85/93">Jing He</author><author pid="99/4218">Guozhen Tan</author></authors><title>Calculating Worst-Case Response Time Bounds for OpenMP Programs with Loop Structures.</title><venue>RTSS</venue><pages>123-135</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SunGGXHT21</key><doi>10.1109/RTSS52674.2021.00022</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00022</ee><url>https://dblp.org/rec/conf/rtss/SunGGXHT21</url></info>
+<url>URL#1075181</url>
+</hit>
+<hit score="1" id="1075182">
+<info><authors><author pid="41/3231">Stephen Tang</author><author pid="227/5460">Sergey Voronov</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>Extending EDF for Soft Real-Time Scheduling on Unrelated Multiprocessors.</title><venue>RTSS</venue><pages>253-265</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/TangVA21</key><doi>10.1109/RTSS52674.2021.00032</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00032</ee><url>https://dblp.org/rec/conf/rtss/TangVA21</url></info>
+<url>URL#1075182</url>
+</hit>
+<hit score="1" id="1075183">
+<info><authors><author pid="208/0854">Niklas Ueter</author><author pid="256/4929">Mario Günzel</author><author pid="70/1961">Jian-Jia Chen</author></authors><title>Response-Time Analysis and Optimization for Probabilistic Conditional Parallel DAG Tasks.</title><venue>RTSS</venue><pages>380-392</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/UeterGC21</key><doi>10.1109/RTSS52674.2021.00042</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00042</ee><url>https://dblp.org/rec/conf/rtss/UeterGC21</url></info>
+<url>URL#1075183</url>
+</hit>
+<hit score="1" id="1075184">
+<info><authors><author pid="227/5460">Sergey Voronov</author><author pid="41/3231">Stephen Tang</author><author pid="208/0838">Tanya Amert</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>AI Meets Real-Time: Addressing Real-World Complexities in Graph Response-Time Analysis.</title><venue>RTSS</venue><pages>82-96</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/VoronovTAA21</key><doi>10.1109/RTSS52674.2021.00019</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00019</ee><url>https://dblp.org/rec/conf/rtss/VoronovTAA21</url></info>
+<url>URL#1075184</url>
+</hit>
+<hit score="1" id="1075185">
+<info><authors><author pid="75/3158">Zhe Wang</author><author pid="35/962">Kunal Agrawal</author><author pid="37/2868">Jeremy T. Fineman</author></authors><title>Sub-Linear Overhead in Static Schedules for Fault-Tolerant Transmission.</title><venue>RTSS</venue><pages>405-417</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/WangAF21</key><doi>10.1109/RTSS52674.2021.00044</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00044</ee><url>https://dblp.org/rec/conf/rtss/WangAF21</url></info>
+<url>URL#1075185</url>
+</hit>
+<hit score="1" id="1075186">
+<info><authors><author pid="189/7596">Yidi Wang</author><author pid="228/5594">Mohsen Karimi</author><author pid="251/0212">Yecheng Xiang</author><author pid="19/5798-1">Hyoseung Kim 0001</author></authors><title>Balancing Energy Efficiency and Real-Time Performance in GPU Scheduling.</title><venue>RTSS</venue><pages>110-122</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/WangKXK21</key><doi>10.1109/RTSS52674.2021.00021</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00021</ee><url>https://dblp.org/rec/conf/rtss/WangKXK21</url></info>
+<url>URL#1075186</url>
+</hit>
+<hit score="1" id="1075187">
+<info><authors><author pid="15/6146-9">Peng Wu 0009</author><author pid="132/8094">Chenchen Fu</author><author pid="35/8397">Tianyu Wang</author><author pid="78/6881">Minming Li</author><author pid="55/6332">Yingchao Zhao 0001</author><author pid="x/ChunJasonXue">Chun Jason Xue</author><author pid="80/806-2">Song Han 0002</author></authors><title>Composite Resource Scheduling for Networked Control Systems.</title><venue>RTSS</venue><pages>162-175</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/WuFWLZXH21</key><doi>10.1109/RTSS52674.2021.00025</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00025</ee><url>https://dblp.org/rec/conf/rtss/WuFWLZXH21</url></info>
+<url>URL#1075187</url>
+</hit>
+<hit score="1" id="1075188">
+<info><authors><author pid="251/0212">Yecheng Xiang</author><author pid="189/7596">Yidi Wang</author><author pid="243/6496">Hyunjong Choi</author><author pid="228/5594">Mohsen Karimi</author><author pid="19/5798-1">Hyoseung Kim 0001</author></authors><title>AegisDNN: Dependable and Timely Execution of DNN Tasks with SGX.</title><venue>RTSS</venue><pages>68-81</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/XiangWCKK21</key><doi>10.1109/RTSS52674.2021.00018</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00018</ee><url>https://dblp.org/rec/conf/rtss/XiangWCKK21</url></info>
+<url>URL#1075188</url>
+</hit>
+<hit score="1" id="1075189">
+<info><authors><author pid="270/0369">Yaswanth Yadlapalli</author><author pid="95/6404-5">Cong Liu 0005</author></authors><title>LAG-Based Analysis Techniques for Scheduling Multiprocessor Hard Real-Time Sporadic DAGs.</title><venue>RTSS</venue><pages>316-328</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/YadlapalliL21</key><doi>10.1109/RTSS52674.2021.00037</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00037</ee><url>https://dblp.org/rec/conf/rtss/YadlapalliL21</url></info>
+<url>URL#1075189</url>
+</hit>
+<hit score="1" id="1075190">
+<info><authors><author pid="305/1657">Atsushi Yano</author><author pid="20/621">Takuya Azumi</author></authors><title>Work-in-Progress: Reinforcement Learning-Based DAG Scheduling Algorithm in Clustered Many-Core Platform.</title><venue>RTSS</venue><pages>548-551</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/YanoA21</key><doi>10.1109/RTSS52674.2021.00062</doi><ee>https://doi.org/10.1109/RTSS52674.2021.00062</ee><url>https://dblp.org/rec/conf/rtss/YanoA21</url></info>
+<url>URL#1075190</url>
+</hit>
+<hit score="1" id="1101433">
+<info><title>42nd IEEE Real-Time Systems Symposium, RTSS 2021, Dortmund, Germany, December 7-10, 2021</title><venue>RTSS</venue><publisher>IEEE</publisher><year>2021</year><type>Editorship</type><key>conf/rtss/2021</key><doi>10.1109/RTSS52674.2021</doi><ee>https://doi.org/10.1109/RTSS52674.2021</ee><url>https://dblp.org/rec/conf/rtss/2021</url></info>
+<url>URL#1101433</url>
+</hit>
+</hits>
+</result>

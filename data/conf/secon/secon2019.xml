@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59472">:facetid:toc:\"db/conf/secon/secon2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">182.87</time>
+<completions total="1" computed="1" sent="1">
+<c sc="84" dc="84" oc="84" id="41063425">:facetid:toc:db/conf/secon/secon2019.bht</c>
+</completions>
+<hits total="84" computed="84" sent="84" first="0">
+<hit score="1" id="1945471">
+<info><authors><author pid="159/1636">Ali Mohamed AbdelAziz</author><author pid="46/5176">Amin A. Shoukry</author><author pid="37/7589">Walid Gomaa 0001</author><author pid="52/727">Moustafa Youssef 0001</author></authors><title>Trans-Sense: Real Time Transportation Schedule Estimation Using Smart Phones.</title><venue>SECON</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AbdelAzizSGY19</key><doi>10.1109/SAHCN.2019.8824808</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824808</ee><url>https://dblp.org/rec/conf/secon/AbdelAzizSGY19</url></info>
+<url>URL#1945471</url>
+</hit>
+<hit score="1" id="1945472">
+<info><authors><author pid="96/10125">Alaa Awad Abdellatif</author><author pid="180/8696">Lutfi Samara</author><author pid="34/9386">Amr Mohamed 0001</author><author pid="130/9027">Abdulla K. Al-Ali</author><author pid="41/1019">Aiman Erbad</author><author pid="15/1123">Mohsen Guizani</author></authors><title>Compress or Interfere?</title><venue>SECON</venue><pages>1-6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AbdellatifSMAEG19</key><doi>10.1109/SAHCN.2019.8824824</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824824</ee><url>https://dblp.org/rec/conf/secon/AbdellatifSMAEG19</url></info>
+<url>URL#1945472</url>
+</hit>
+<hit score="1" id="1945473">
+<info><authors><author pid="208/2193">Hisham Abuella</author><author pid="71/7908">Sabit Ekin</author></authors><title>A New Paradigm for Non-contact Vitals Monitoring using Visible Light Sensing.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AbuellaE19</key><doi>10.1109/SAHCN.2019.8824819</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824819</ee><url>https://dblp.org/rec/conf/secon/AbuellaE19</url></info>
+<url>URL#1945473</url>
+</hit>
+<hit score="1" id="1945474">
+<info><authors><author pid="248/4663">Anil Acharya</author><author pid="31/10644">Yantian Hou</author><author pid="40/1837">Ying Mao</author><author pid="126/4495">Min Xian</author><author pid="03/11190">Jiawei Yuan</author></authors><title>Workload-Aware Task Placement in Edge-Assisted Human Re-identification.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AcharyaHMXY19</key><doi>10.1109/SAHCN.2019.8824869</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824869</ee><url>https://dblp.org/rec/conf/secon/AcharyaHMXY19</url></info>
+<url>URL#1945474</url>
+</hit>
+<hit score="1" id="1945475">
+<info><authors><author pid="240/6994">Sriramya Bhamidipati</author><author pid="48/1338">Kyeong Jin Kim</author><author pid="77/6730-3">Hongbo Sun 0003</author><author pid="10/3164">Philip V. Orlik</author></authors><title>Wide-Area GPS Time Monitoring Against Spoofing Using Belief Propagation.</title><venue>SECON</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/BhamidipatiKSO19</key><doi>10.1109/SAHCN.2019.8824812</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824812</ee><url>https://dblp.org/rec/conf/secon/BhamidipatiKSO19</url></info>
+<url>URL#1945475</url>
+</hit>
+<hit score="1" id="1945476">
+<info><authors><author pid="42/3320">Christian Callegari</author><author pid="248/4843">Elena Bucchianeri</author><author pid="80/6788">Stefano Giordano</author><author pid="04/374">Michele Pagano</author></authors><title>Real Time Attack Detection with Deep Learning.</title><venue>SECON</venue><pages>1-5</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CallegariBGP19</key><doi>10.1109/SAHCN.2019.8824811</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824811</ee><url>https://dblp.org/rec/conf/secon/CallegariBGP19</url></info>
+<url>URL#1945476</url>
+</hit>
+<hit score="1" id="1945477">
+<info><authors><author pid="229/3215">Maqsood Ahamed Abdul Careem</author><author pid="164/8807">Jorge Gomez</author><author pid="68/4307">Dola Saha</author><author pid="81/7078">Aveek Dutta</author></authors><title>HiPER-V: A High Precision Radio Frequency Vehicle for Aerial Measurements.</title><venue>SECON</venue><pages>1-6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CareemGSD19</key><doi>10.1109/SAHCN.2019.8824903</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824903</ee><url>https://dblp.org/rec/conf/secon/CareemGSD19</url></info>
+<url>URL#1945477</url>
+</hit>
+<hit score="1" id="1945478">
+<info><authors><author pid="236/3085">Ravishankar Chamarajnagar</author><author pid="48/1535">Ashwin Ashok</author></authors><title>Integrity Threat Identification for Distributed IoT in Precision Agriculture.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChamarajnagarA19</key><doi>10.1109/SAHCN.2019.8824841</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824841</ee><url>https://dblp.org/rec/conf/secon/ChamarajnagarA19</url></info>
+<url>URL#1945478</url>
+</hit>
+<hit score="1" id="1945479">
+<info><authors><author pid="236/3085">Ravishankar Chamarajnagar</author><author pid="48/1535">Ashwin Ashok</author></authors><title>Privacy Invasion through Smarthome IoT Sensing.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChamarajnagarA19a</key><doi>10.1109/SAHCN.2019.8824933</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824933</ee><url>https://dblp.org/rec/conf/secon/ChamarajnagarA19a</url></info>
+<url>URL#1945479</url>
+</hit>
+<hit score="1" id="1945480">
+<info><authors><author pid="48/4792-23">Yang Chen 0023</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Network Function Deployment with Balanced Server and Link Resources in Tree Topologies.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Chen019</key><doi>10.1109/SAHCN.2019.8824852</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824852</ee><url>https://dblp.org/rec/conf/secon/Chen019</url></info>
+<url>URL#1945480</url>
+</hit>
+<hit score="1" id="1945481">
+<info><authors><author pid="124/6911">Haipeng Dai</author><author pid="w/WeiWang2">Wei Wang 0002</author><author pid="l/AlexXLiu">Alex X. Liu</author><author pid="65/10844">Kang Ling</author><author pid="135/6009">Jiajun Sun</author></authors><title>Speech Based Human Authentication on Smartphones.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Dai0LLS19</key><doi>10.1109/SAHCN.2019.8824958</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824958</ee><url>https://dblp.org/rec/conf/secon/Dai0LLS19</url></info>
+<url>URL#1945481</url>
+</hit>
+<hit score="1" id="1945482">
+<info><authors><author pid="86/99">Kapil R. Dandekar</author><author pid="177/8799">Simon Begashaw</author><author pid="158/8012">Marko Jacovic</author><author pid="18/7822">Alex Lackpour</author><author pid="182/9271">Ilhaan Rasheed</author><author pid="199/7717">Xaime Rivas Rey</author><author pid="32/1135">Cem Sahin</author><author pid="248/4853">Sharif Shaher</author><author pid="86/766">Geoffrey Mainland</author></authors><title>Grid Software Defined Radio Network Testbed for Hybrid Measurement and Emulation.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DandekarBJLRRSS19</key><doi>10.1109/SAHCN.2019.8824901</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824901</ee><url>https://dblp.org/rec/conf/secon/DandekarBJLRRSS19</url></info>
+<url>URL#1945482</url>
+</hit>
+<hit score="1" id="1945483">
+<info><authors><author pid="163/7838">Yufeng Deng</author><author pid="40/3934-24">Dong Wang 0024</author><author pid="04/2024-12">Qian Zhang 0012</author><author pid="124/6274">Run Zhao</author></authors><title>MType: A Magnetic Field-based Typing System on the Hand for Around-Device Interaction.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Deng00Z19</key><doi>10.1109/SAHCN.2019.8824942</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824942</ee><url>https://dblp.org/rec/conf/secon/Deng00Z19</url></info>
+<url>URL#1945483</url>
+</hit>
+<hit score="1" id="1945484">
+<info><authors><author pid="161/2796">Saandeep Depatla</author><author pid="73/3144">Yasamin Mostofi</author></authors><title>Occupancy Analytics in Retail Stores Using Wireless Signals.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DepatlaM19</key><doi>10.1109/SAHCN.2019.8824911</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824911</ee><url>https://dblp.org/rec/conf/secon/DepatlaM19</url></info>
+<url>URL#1945484</url>
+</hit>
+<hit score="1" id="1945485">
+<info><authors><author pid="218/6294">Thembelihle Dlamini</author><author pid="202/9813">Ángel Fernández Gambín</author></authors><title>Adaptive Resource Management for a Virtualized Computing Platform within Edge Computing.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DlaminiG19</key><doi>10.1109/SAHCN.2019.8824927</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824927</ee><url>https://dblp.org/rec/conf/secon/DlaminiG19</url></info>
+<url>URL#1945485</url>
+</hit>
+<hit score="1" id="1945486">
+<info><authors><author pid="133/3894">Ahmad A. Aziz El-Banna</author><author pid="248/5143">Ahmed B. Zaky</author><author pid="158/3467">Basem M. ElHalawany</author><author pid="h/JoshuaZhexueHuang">Joshua Zhexue Huang</author><author pid="34/4445">Kaishun Wu</author></authors><title>Machine Learning Based Dynamic Cooperative Transmission Framework for IoUT Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/El-BannaZEHW19</key><doi>10.1109/SAHCN.2019.8824858</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824858</ee><url>https://dblp.org/rec/conf/secon/El-BannaZEHW19</url></info>
+<url>URL#1945486</url>
+</hit>
+<hit score="1" id="1945487">
+<info><authors><author pid="69/4238">Ming Feng</author><author pid="43/6008-2">Hao Xu 0002</author></authors><title>MSNET-Blockchain: A New Framework for Securing Mobile Satellite Communication Network.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/FengX19</key><doi>10.1109/SAHCN.2019.8824889</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824889</ee><url>https://dblp.org/rec/conf/secon/FengX19</url></info>
+<url>URL#1945487</url>
+</hit>
+<hit score="1" id="1945488">
+<info><authors><author pid="195/7423">Tianchong Gao</author><author pid="92/2954-1">Feng Li 0001</author></authors><title>Privacy-Preserving Sketching for Online Social Network Data Publication.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Gao019</key><doi>10.1109/SAHCN.2019.8824823</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824823</ee><url>https://dblp.org/rec/conf/secon/Gao019</url></info>
+<url>URL#1945488</url>
+</hit>
+<hit score="1" id="1945489">
+<info><authors><author pid="203/9302">Maoning Guan</author><author pid="136/2177">Wenqiang Chen</author><author pid="222/5431">Yandao Huang</author><author pid="33/1726">Rukhsana Ruby</author><author pid="34/4445">Kaishun Wu</author></authors><title>FaceInput: A Hand-Free and Secure Text Entry System through Facial Vibration.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GuanCHRW19</key><doi>10.1109/SAHCN.2019.8824990</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824990</ee><url>https://dblp.org/rec/conf/secon/GuanCHRW19</url></info>
+<url>URL#1945489</url>
+</hit>
+<hit score="1" id="1945490">
+<info><authors><author pid="27/4744-12">Ashish Gupta 0012</author><author pid="126/2508">Hari Prabhat Gupta</author><author pid="124/3022">Tanima Dutta</author></authors><title>Early Classification Approach for Multivariate Time Series using Sensors of Different Sampling Rate.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GuptaGD19</key><doi>10.1109/SAHCN.2019.8824960</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824960</ee><url>https://dblp.org/rec/conf/secon/GuptaGD19</url></info>
+<url>URL#1945490</url>
+</hit>
+<hit score="1" id="1945491">
+<info><authors><author pid="193/8573">Mohammed Hirzallah</author><author pid="28/6937">Yong Xiao</author><author pid="47/2755">Marwan Krunz</author></authors><title>MatchMaker: An Inter-operator Network Sharing Framework in Unlicensed Bands.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HirzallahXK19</key><doi>10.1109/SAHCN.2019.8824920</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824920</ee><url>https://dblp.org/rec/conf/secon/HirzallahXK19</url></info>
+<url>URL#1945491</url>
+</hit>
+<hit score="1" id="1945492">
+<info><authors><author pid="248/4966">Rainer Hofmann</author><author pid="71/7545">Carlo Alberto Boano</author><author pid="r/KayRomer">Kay Römer</author></authors><title>X-Burst: Enabling Multi-Platform Cross-Technology Communication between Constrained IoT Devices.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HofmannBR19</key><doi>10.1109/SAHCN.2019.8824880</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824880</ee><url>https://dblp.org/rec/conf/secon/HofmannBR19</url></info>
+<url>URL#1945492</url>
+</hit>
+<hit score="1" id="1945493">
+<info><authors><author pid="96/7838">Jing Hou</author><author pid="57/2405">Li Sun</author><author pid="56/2124">Tao Shu</author><author pid="28/6937">Yong Xiao</author><author pid="47/2755">Marwan Krunz</author></authors><title>Strategic Network Infrastructure Sharing through Backup Reservation in a Competitive Environment.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HouSSXK19</key><doi>10.1109/SAHCN.2019.8824849</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824849</ee><url>https://dblp.org/rec/conf/secon/HouSSXK19</url></info>
+<url>URL#1945493</url>
+</hit>
+<hit score="1" id="1945494">
+<info><authors><author pid="209/1822">He-Yen Hsieh</author><author pid="53/1886">Jenq-Shiou Leu</author><author pid="248/5185">Sheng-An Huang</author></authors><title>Implementing a Real-Time Image Captioning Service for Scene Identification Using Embedded System.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HsiehLH19</key><doi>10.1109/SAHCN.2019.8824961</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824961</ee><url>https://dblp.org/rec/conf/secon/HsiehLH19</url></info>
+<url>URL#1945494</url>
+</hit>
+<hit score="1" id="1945495">
+<info><authors><author pid="133/3852">Zhenxian Hu</author><author pid="79/1810">Guangtao Xue</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="l/MingluLi">Minglu Li 0001</author></authors><title>NB-IoT Network Monitoring and Diagnosing.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HuXC019</key><doi>10.1109/SAHCN.2019.8824793</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824793</ee><url>https://dblp.org/rec/conf/secon/HuXC019</url></info>
+<url>URL#1945495</url>
+</hit>
+<hit score="1" id="1945496">
+<info><authors><author pid="248/4841">Wenxiong Hua</author><author pid="68/4815">Xiang Cui</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="79/1482">Panlong Yang</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Parallel Feedback Communications for Magnetic MIMO Wireless Power Transfer System.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HuaCZYL19</key><doi>10.1109/SAHCN.2019.8824881</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824881</ee><url>https://dblp.org/rec/conf/secon/HuaCZYL19</url></info>
+<url>URL#1945496</url>
+</hit>
+<hit score="1" id="1945497">
+<info><authors><author pid="222/5431">Yandao Huang</author><author pid="136/2177">Wenqiang Chen</author><author pid="80/4761">Hongjie Chen</author><author pid="49/3800-2">Lu Wang 0002</author><author pid="34/4445">Kaishun Wu</author></authors><title>G-Fall: Device-free and Training-free Fall Detection with Geophones.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HuangCC0W19</key><doi>10.1109/SAHCN.2019.8824827</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824827</ee><url>https://dblp.org/rec/conf/secon/HuangCC0W19</url></info>
+<url>URL#1945497</url>
+</hit>
+<hit score="1" id="1945498">
+<info><authors><author pid="125/2191">Mohsen Joneidi</author><author pid="148/2238">Hassan Yazdani</author><author pid="76/1546">Azadeh Vosoughi</author><author pid="71/2488">Nazanin Rahnavard</author></authors><title>Source Localization and Tracking for Dynamic Radio Cartography using Directional Antennas.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/JoneidiYVR19</key><doi>10.1109/SAHCN.2019.8824872</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824872</ee><url>https://dblp.org/rec/conf/secon/JoneidiYVR19</url></info>
+<url>URL#1945498</url>
+</hit>
+<hit score="1" id="1945499">
+<info><authors><author pid="199/8878">Ashwija Reddy Korenda</author><author pid="70/8821">Fatemeh Afghah</author><author pid="178/3641">Bertrand Cambou</author><author pid="211/3640">Christopher Robert Philabaum</author></authors><title>A Proof of Concept SRAM-based Physically Unclonable Function (PUF) Key Generation Mechanism for IoT Devices.</title><venue>SECON</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KorendaACP19</key><doi>10.1109/SAHCN.2019.8824887</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824887</ee><url>https://dblp.org/rec/conf/secon/KorendaACP19</url></info>
+<url>URL#1945499</url>
+</hit>
+<hit score="1" id="1945500">
+<info><authors><author pid="240/7472">Preti Kumari</author><author pid="126/2508">Hari Prabhat Gupta</author><author pid="124/3022">Tanima Dutta</author></authors><title>An Adaptive Power level Allocation Model in LoRa for Internet of Things.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KumariGD19</key><doi>10.1109/SAHCN.2019.8824909</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824909</ee><url>https://dblp.org/rec/conf/secon/KumariGD19</url></info>
+<url>URL#1945500</url>
+</hit>
+<hit score="1" id="1945501">
+<info><authors><author pid="240/7472">Preti Kumari</author><author pid="126/2508">Hari Prabhat Gupta</author><author pid="124/3022">Tanima Dutta</author></authors><title>A Stackelberg Game based River Water Pollution Monitoring System using LoRa Technology.</title><venue>SECON</venue><pages>1-5</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KumariGD19a</key><doi>10.1109/SAHCN.2019.8824964</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824964</ee><url>https://dblp.org/rec/conf/secon/KumariGD19a</url></info>
+<url>URL#1945501</url>
+</hit>
+<hit score="1" id="1945502">
+<info><authors><author pid="186/4434">Chulyoung Kwak</author><author pid="00/1314">Seongwon Kim</author><author pid="186/4482">Soonwon Ka</author><author pid="123/7334">Jihwan Lee</author><author pid="c/SunghyunChoi">Sunghyun Choi 0001</author></authors><title>No Entry: Anti-Noise Energy Detector for Chirp-Based Acoustic Communication.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KwakKKLC19</key><doi>10.1109/SAHCN.2019.8824986</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824986</ee><url>https://dblp.org/rec/conf/secon/KwakKKLC19</url></info>
+<url>URL#1945502</url>
+</hit>
+<hit score="1" id="1945503">
+<info><authors><author pid="95/7132">Ding Li</author><author pid="98/3150">Wenzhong Li</author><author pid="02/3450-1">Xiaoliang Wang 0001</author><author pid="14/5079">Cam-Tu Nguyen</author><author pid="24/3318">Sanglu Lu</author></authors><title>ActiveTracker: Uncovering the Trajectory of App Activities over Encrypted Internet Traffic Streams.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiL0NL19</key><doi>10.1109/SAHCN.2019.8824928</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824928</ee><url>https://dblp.org/rec/conf/secon/LiL0NL19</url></info>
+<url>URL#1945503</url>
+</hit>
+<hit score="1" id="1945504">
+<info><authors><author pid="206/5336-1">Kehan Li 0001</author><author pid="248/4971">Zebo Liu</author><author pid="07/7178">Shibo He</author><author pid="55/2484-1">Jiming Chen 0001</author></authors><title>TF2AN: A Temporal-Frequency Fusion Attention Network for Spectrum Energy Level Prediction.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiLHC19</key><doi>10.1109/SAHCN.2019.8824794</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824794</ee><url>https://dblp.org/rec/conf/secon/LiLHC19</url></info>
+<url>URL#1945504</url>
+</hit>
+<hit score="1" id="1945505">
+<info><authors><author pid="24/8037">Chi Lin</author><author pid="210/7045">Chunyang Guo</author><author pid="28/9430">Wan Du</author><author pid="06/6599-1">Jing Deng 0001</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author></authors><title>Maximizing Energy Efficiency of Period-Area Coverage with UAVs for Wireless Rechargeable Sensor Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LinGD00W19</key><doi>10.1109/SAHCN.2019.8824918</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824918</ee><url>https://dblp.org/rec/conf/secon/LinGD00W19</url></info>
+<url>URL#1945505</url>
+</hit>
+<hit score="1" id="1945506">
+<info><authors><author pid="24/8037">Chi Lin</author><author pid="10/2674">Feng Gao</author><author pid="124/6911">Haipeng Dai</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author></authors><title>When Wireless Charging Meets Fresnel Zones: Even Obstacles Can Enhance Charging Efficiency.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LinGD0W19</key><doi>10.1109/SAHCN.2019.8824816</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824816</ee><url>https://dblp.org/rec/conf/secon/LinGD0W19</url></info>
+<url>URL#1945506</url>
+</hit>
+<hit score="1" id="1945507">
+<info><authors><author pid="227/8045">Hansi Liu</author><author pid="31/10610">Pengfei Ren</author><author pid="132/6759">Shubham Jain</author><author pid="143/1369">Mohannad Murad</author><author pid="87/88">Marco Gruteser</author><author pid="84/4809-2">Fan Bai 0002</author></authors><title>FusionEye: Perception Sharing for Connected Vehicles and its Bandwidth-Accuracy Trade-offs.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiuRJMGB19</key><doi>10.1109/SAHCN.2019.8824839</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824839</ee><url>https://dblp.org/rec/conf/secon/LiuRJMGB19</url></info>
+<url>URL#1945507</url>
+</hit>
+<hit score="1" id="1945508">
+<info><authors><author pid="178/5624">Youjing Lu</author><author pid="07/6378-6">Fan Wu 0006</author><author pid="68/3428">Shaojie Tang</author><author pid="23/7909">Linghe Kong</author><author pid="51/1742">Guihai Chen</author></authors><title>Pushing the Limit of CSI-based Activity Recognition: An Enhanced Approach via Packet Reconstruction.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Lu0TKC19</key><doi>10.1109/SAHCN.2019.8824896</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824896</ee><url>https://dblp.org/rec/conf/secon/Lu0TKC19</url></info>
+<url>URL#1945508</url>
+</hit>
+<hit score="1" id="1945509">
+<info><authors><author pid="248/5012">Ananya Mahanti</author><author pid="46/7459">Wei-Han Chen</author><author pid="82/2823">Prasun Sinha</author></authors><title>DuoRelay: Parallel Interference Nulling using Full-duplex Relaying.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/MahantiCS19</key><doi>10.1109/SAHCN.2019.8824966</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824966</ee><url>https://dblp.org/rec/conf/secon/MahantiCS19</url></info>
+<url>URL#1945509</url>
+</hit>
+<hit score="1" id="1945510">
+<info><authors><author pid="248/5050">Adeel A. Malik</author><author pid="118/7021">Deepak K. Tosh</author><author pid="97/9748">Uttam Ghosh</author></authors><title>Non-Intrusive Deployment of Blockchain in Establishing Cyber-Infrastructure for Smart City.</title><venue>SECON</venue><pages>1-6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/MalikTG19</key><doi>10.1109/SAHCN.2019.8824921</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824921</ee><url>https://dblp.org/rec/conf/secon/MalikTG19</url></info>
+<url>URL#1945510</url>
+</hit>
+<hit score="1" id="1945511">
+<info><authors><author pid="246/2699">Mohammad Mohammadinodoushan</author><author pid="178/3641">Bertrand Cambou</author><author pid="211/3640">Christopher Robert Philabaum</author><author pid="41/6112">David Hély</author><author pid="211/3886">Duane Booher</author></authors><title>Implementation of Password Management System Using Ternary Addressable PUF Generator.</title><venue>SECON</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Mohammadinodoushan19</key><doi>10.1109/SAHCN.2019.8824792</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824792</ee><url>https://dblp.org/rec/conf/secon/Mohammadinodoushan19</url></info>
+<url>URL#1945511</url>
+</hit>
+<hit score="1" id="1945512">
+<info><authors><author pid="210/0346">Kurian Polachan</author><author pid="90/6732">Prabhakar T. Venkata</author><author pid="127/7227">Chandramani Singh</author><author pid="248/5016">Deepak Panchapakesan</author></authors><title>Quality of Control Assessment for Tactile Cyber-Physical Systems.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/PolachanVSP19</key><doi>10.1109/SAHCN.2019.8824814</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824814</ee><url>https://dblp.org/rec/conf/secon/PolachanVSP19</url></info>
+<url>URL#1945512</url>
+</hit>
+<hit score="1" id="1945513">
+<info><authors><author pid="49/7729">Mehdi Rahmati</author><author pid="184/4429">Vidyasagar Sadhu</author><author pid="47/3212">Dario Pompili</author></authors><title>ECO-UW IoT: Eco-friendly Reliable and Persistent Data Transmission in Underwater Internet of Things.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/RahmatiSP19</key><doi>10.1109/SAHCN.2019.8824906</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824906</ee><url>https://dblp.org/rec/conf/secon/RahmatiSP19</url></info>
+<url>URL#1945513</url>
+</hit>
+<hit score="1" id="1945514">
+<info><authors><author pid="43/4318">Ram Ramanathan</author><author pid="233/3392">Christophe Servaes</author><author pid="233/3383">Warren Ramanathan</author><author pid="170/2095">Ayush Dusia</author><author pid="s/AdarshpalSSethi">Adarshpal S. Sethi</author></authors><title>Long-Range Short-Burst Mobile Mesh Networking: Architecture and Evaluation.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/RamanathanSRDS19</key><doi>10.1109/SAHCN.2019.8824803</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824803</ee><url>https://dblp.org/rec/conf/secon/RamanathanSRDS19</url></info>
+<url>URL#1945514</url>
+</hit>
+<hit score="1" id="1945515">
+<info><authors><author pid="162/9031">Matthew Rantanen</author><author pid="02/5332">Nicholas Mastronarde</author><author pid="16/3940">Jeffrey Hudack</author><author pid="89/1614">Karthik Dantu</author></authors><title>Decentralized Task Allocation in Lossy Networks: A Simulation Study.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/RantanenMHD19</key><doi>10.1109/SAHCN.2019.8824898</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824898</ee><url>https://dblp.org/rec/conf/secon/RantanenMHD19</url></info>
+<url>URL#1945515</url>
+</hit>
+<hit score="1" id="1945516">
+<info><authors><author pid="248/4684">Madhan E. S.</author><author pid="97/9748">Uttam Ghosh</author><author pid="118/7021">Deepak K. Tosh</author><author pid="248/4485">Mandal K.</author><author pid="248/5266">E. Murali</author><author pid="91/7301">Soumalya Ghosh</author></authors><title>An Improved Communications in Cyber Physical System Architecture, Protocols and Applications.</title><venue>SECON</venue><pages>1-6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SGTKMG19</key><doi>10.1109/SAHCN.2019.8824845</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824845</ee><url>https://dblp.org/rec/conf/secon/SGTKMG19</url></info>
+<url>URL#1945516</url>
+</hit>
+<hit score="1" id="1945517">
+<info><authors><author pid="184/4429">Vidyasagar Sadhu</author><author pid="49/7729">Mehdi Rahmati</author><author pid="47/3212">Dario Pompili</author></authors><title>MOSFET-based Ultra-low-power Realization of Analog Joint Source-Channel Coding for IoTs.</title><venue>SECON</venue><pages>1-3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SadhuRP19</key><doi>10.1109/SAHCN.2019.8824940</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824940</ee><url>https://dblp.org/rec/conf/secon/SadhuRP19</url></info>
+<url>URL#1945517</url>
+</hit>
+<hit score="1" id="1945518">
+<info><authors><author pid="01/1945">Yalin E. Sagduyu</author><author pid="00/3680-1">Yi Shi 0001</author><author pid="01/10889">Tugba Erpek</author></authors><title>IoT Network Security from the Perspective of Adversarial Deep Learning.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Sagduyu0E19</key><doi>10.1109/SAHCN.2019.8824956</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824956</ee><url>https://dblp.org/rec/conf/secon/Sagduyu0E19</url></info>
+<url>URL#1945518</url>
+</hit>
+<hit score="1" id="1945519">
+<info><authors><author pid="248/5150">Nima Seyedtalebi</author></authors><title>Algorithms for Provisioning Edge Computing Resources to Minimize Data Transport Costs.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Seyedtalebi19</key><doi>10.1109/SAHCN.2019.8824847</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824847</ee><url>https://dblp.org/rec/conf/secon/Seyedtalebi19</url></info>
+<url>URL#1945519</url>
+</hit>
+<hit score="1" id="1945520">
+<info><authors><author pid="132/1668">Adnan Shahid</author><author pid="243/3936">Jaron Fontaine</author><author pid="150/6492">Miguel Camelo</author><author pid="180/1198">Jetmir Haxhibeqiri</author><author pid="237/0277">Martijn Saelens</author><author pid="06/9245">Zaheer Khan 0001</author><author pid="77/5355">Ingrid Moerman</author><author pid="34/1837">Eli De Poorter</author></authors><title>A Convolutional Neural Network Approach for Classification of LPWAN Technologies: Sigfox, LoRA and IEEE 802.15.4g.</title><venue>SECON</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShahidFCHS0MP19</key><doi>10.1109/SAHCN.2019.8824856</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824856</ee><url>https://dblp.org/rec/conf/secon/ShahidFCHS0MP19</url></info>
+<url>URL#1945520</url>
+</hit>
+<hit score="1" id="1945521">
+<info><authors><author pid="215/4327">Alireza Shamsoshoara</author><author pid="16/7641">Mehrdad Khaledi</author><author pid="70/8821">Fatemeh Afghah</author><author pid="83/8819">Abolfazl Razi</author><author pid="122/5084">Jonathan D. Ashdown</author><author pid="215/5087">Kurt A. Turck</author></authors><title>A Solution for Dynamic Spectrum Management in Mission-Critical UAV Networks.</title><venue>SECON</venue><pages>1-6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShamsoshoaraKAR19</key><doi>10.1109/SAHCN.2019.8824917</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824917</ee><url>https://dblp.org/rec/conf/secon/ShamsoshoaraKAR19</url></info>
+<url>URL#1945521</url>
+</hit>
+<hit score="1" id="1945522">
+<info><authors><author pid="163/3440">Jiacheng Shang</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Enabling Secure Voice Input on Augmented Reality Headsets using Internal Body Voice.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Shang019</key><doi>10.1109/SAHCN.2019.8824980</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824980</ee><url>https://dblp.org/rec/conf/secon/Shang019</url></info>
+<url>URL#1945522</url>
+</hit>
+<hit score="1" id="1945523">
+<info><authors><author pid="s/ChangShu-8">Chang Shu 0008</author><author pid="89/887">Zhiwei Zhao</author><author pid="248/4511">Yunpeng Han</author><author pid="96/3727">Geyong Min</author></authors><title>Dependency-Aware and Latency-Optimal Computation Offloading for Multi-User Edge Computing Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShuZHM19</key><doi>10.1109/SAHCN.2019.8824941</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824941</ee><url>https://dblp.org/rec/conf/secon/ShuZHM19</url></info>
+<url>URL#1945523</url>
+</hit>
+<hit score="1" id="1945524">
+<info><authors><author pid="248/5203">Jimin Son</author><author pid="248/4821">Sungwoo Jo</author><author pid="248/4610">Sun-Kyu Jung</author><author pid="248/4909">Hyun-Tak Kim</author></authors><title>Ultralow Power Wireless-Fire-Alarm-System using a VO2-Based Metal-Insulator-Transition Device.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SonJJK19</key><doi>10.1109/SAHCN.2019.8824962</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824962</ee><url>https://dblp.org/rec/conf/secon/SonJJK19</url></info>
+<url>URL#1945524</url>
+</hit>
+<hit score="1" id="1945525">
+<info><authors><author pid="186/4448">Theodore Stone</author><author pid="186/4423">Nathaniel Stone</author><author pid="12/7491">Puneet Jain</author><author pid="01/7909">Yurong Jiang</author><author pid="10/5900">Kyu-Han Kim</author><author pid="n/SrihariNelakuditi">Srihari Nelakuditi</author></authors><title>Towards Scalable Video Analytics at the Edge.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/StoneSJJKN19</key><doi>10.1109/SAHCN.2019.8824876</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824876</ee><url>https://dblp.org/rec/conf/secon/StoneSJJKN19</url></info>
+<url>URL#1945525</url>
+</hit>
+<hit score="1" id="1945526">
+<info><authors><author pid="167/4164">Boyuan Sun</author><author pid="m/QiangMa7">Qiang Ma 0007</author><author pid="05/7548-1">Zhichao Cao 0001</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>iTracker: Towards Sustained Self-Tracking in Dynamic Feature Environment with Smartphones.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Sun0CL19</key><doi>10.1109/SAHCN.2019.8824883</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824883</ee><url>https://dblp.org/rec/conf/secon/Sun0CL19</url></info>
+<url>URL#1945526</url>
+</hit>
+<hit score="1" id="1945527">
+<info><authors><author pid="239/4714">Xinyu Tong</author><author pid="17/5705-40">Hao Li 0040</author><author pid="89/1428">Xiaohua Tian</author><author pid="96/1149">Xinbing Wang</author></authors><title>Triangular Antenna Layout Facilitates Deployability of CSI Indoor Localization Systems.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/TongLTW19</key><doi>10.1109/SAHCN.2019.8824894</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824894</ee><url>https://dblp.org/rec/conf/secon/TongLTW19</url></info>
+<url>URL#1945527</url>
+</hit>
+<hit score="1" id="1945528">
+<info><authors><author pid="133/4851">Tuyen X. Tran</author><author pid="51/1208">Kevin Chan</author><author pid="47/3212">Dario Pompili</author></authors><title>COSTA: Cost-aware Service Caching and Task Offloading Assignment in Mobile-Edge Computing.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/TranCP19</key><doi>10.1109/SAHCN.2019.8824854</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824854</ee><url>https://dblp.org/rec/conf/secon/TranCP19</url></info>
+<url>URL#1945528</url>
+</hit>
+<hit score="1" id="1945529">
+<info><authors><author pid="214/6628">Hoang Duy Trinh</author><author pid="18/3312">Lorenza Giupponi</author><author pid="60/712">Paolo Dini</author></authors><title>Urban Anomaly Detection by processing Mobile Traffic Traces with LSTM Neural Networks.</title><venue>SECON</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/TrinhGD19</key><doi>10.1109/SAHCN.2019.8824981</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824981</ee><url>https://dblp.org/rec/conf/secon/TrinhGD19</url></info>
+<url>URL#1945529</url>
+</hit>
+<hit score="1" id="1945530">
+<info><authors><author pid="199/8895">Vidushi Vashishth</author><author pid="199/8940">Anshuman Chhabra</author><author pid="99/11050">Deepak Kumar Sharma</author></authors><title>A Machine Learning Approach Using Classifier Cascades for Optimal Routing in Opportunistic Internet of Things Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/VashishthCS19</key><doi>10.1109/SAHCN.2019.8824952</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824952</ee><url>https://dblp.org/rec/conf/secon/VashishthCS19</url></info>
+<url>URL#1945530</url>
+</hit>
+<hit score="1" id="1945531">
+<info><authors><author pid="248/4998">Davide Vecchia</author><author pid="177/2754">Pablo Corbalán</author><author pid="157/4429">Timofei Istomin</author><author pid="65/4458">Gian Pietro Picco</author></authors><title>Playing with Fire: Exploring Concurrent Transmissions in Ultra-wideband Radios.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/VecchiaCIP19</key><doi>10.1109/SAHCN.2019.8824929</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824929</ee><url>https://dblp.org/rec/conf/secon/VecchiaCIP19</url></info>
+<url>URL#1945531</url>
+</hit>
+<hit score="1" id="1945532">
+<info><authors><author pid="43/1941">Weiguo Wang</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="11/1735-4">Yuan He 0004</author><author pid="188/8787">Xiuzhen Guo</author></authors><title>AdaComm: Tracing Channel Dynamics for Reliable Cross-Technology Communication.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Wang00G19</key><doi>10.1109/SAHCN.2019.8824843</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824843</ee><url>https://dblp.org/rec/conf/secon/Wang00G19</url></info>
+<url>URL#1945532</url>
+</hit>
+<hit score="1" id="1945533">
+<info><authors><author pid="42/512">Weijun Wang</author><author pid="124/6911">Haipeng Dai</author><author pid="16/1278-1">Chao Dong 0001</author><author pid="91/8079-1">Fu Xiao 0001</author><author pid="73/1713-3">Xiao Cheng 0003</author><author pid="51/1742">Guihai Chen</author></authors><title>VISIT: Placement of Unmanned Aerial Vehicles for Anisotropic Monitoring Tasks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangDDXCC19</key><doi>10.1109/SAHCN.2019.8824867</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824867</ee><url>https://dblp.org/rec/conf/secon/WangDDXCC19</url></info>
+<url>URL#1945533</url>
+</hit>
+<hit score="1" id="1945534">
+<info><authors><author pid="50/5696">Nian Wang</author><author pid="87/5809">Zhe Zhang</author><author pid="67/4008">Jing Xiao</author><author pid="51/5556">Li Cui</author></authors><title>DeepLap: A Deep Learning based Non-Specific Low Back Pain Symptomatic Muscles Recognition System.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangZXC19</key><doi>10.1109/SAHCN.2019.8824868</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824868</ee><url>https://dblp.org/rec/conf/secon/WangZXC19</url></info>
+<url>URL#1945534</url>
+</hit>
+<hit score="1" id="1945535">
+<info><authors><author pid="235/0902">Ebram Kamal William</author><author pid="28/6329">Mun Choon Chan</author></authors><title>InDP: In-Network Data Processing for Wireless Sensor Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WilliamC19</key><doi>10.1109/SAHCN.2019.8824851</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824851</ee><url>https://dblp.org/rec/conf/secon/WilliamC19</url></info>
+<url>URL#1945535</url>
+</hit>
+<hit score="1" id="1945536">
+<info><authors><author pid="248/5271">William Xia</author><author pid="175/1389">Michele Polese</author><author pid="44/8332">Marco Mezzavilla</author><author pid="10/11046">Giuseppe Loianno</author><author pid="36/6881">Sundeep Rangan</author><author pid="14/2991">Michele Zorzi</author></authors><title>Millimeter Wave Remote UAV Control and Communications for Public Safety Scenarios.</title><venue>SECON</venue><pages>1-7</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XiaPMLRZ19</key><doi>10.1109/SAHCN.2019.8824919</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824919</ee><url>https://dblp.org/rec/conf/secon/XiaPMLRZ19</url></info>
+<url>URL#1945536</url>
+</hit>
+<hit score="1" id="1945537">
+<info><authors><author pid="28/6937">Yong Xiao</author><author pid="47/2755">Marwan Krunz</author><author pid="26/1498-2">Haris Volos 0002</author><author pid="29/6286">Takashi Bando</author></authors><title>Driving in the Fog: Latency Measurement, Modeling, and Optimization of LTE-based Fog Computing for Smart Vehicles.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XiaoK0B19</key><doi>10.1109/SAHCN.2019.8824922</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824922</ee><url>https://dblp.org/rec/conf/secon/XiaoK0B19</url></info>
+<url>URL#1945537</url>
+</hit>
+<hit score="1" id="1945538">
+<info><authors><author pid="20/6608">Hua Xue</author><author pid="85/3615">Jiadi Yu</author><author pid="02/6595">Yanmin Zhu</author><author pid="49/2793-8">Li Lu 0008</author><author pid="115/6477">Shiyou Qian</author><author pid="l/MingluLi">Minglu Li 0001</author></authors><title>WiZoom: Accurate Multipath Profiling using Commodity WiFi Devices with Limited Bandwidth.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XueYZLQ019</key><doi>10.1109/SAHCN.2019.8824859</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824859</ee><url>https://dblp.org/rec/conf/secon/XueYZLQ019</url></info>
+<url>URL#1945538</url>
+</hit>
+<hit score="1" id="1945539">
+<info><authors><author pid="238/9450">Songzhou Yang</author><author pid="11/1735-4">Yuan He 0004</author><author pid="98/3341-2">Xiaolong Zheng 0002</author></authors><title>FoVR: Attention-based VR Streaming through Bandwidth-limited Wireless Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangH019</key><doi>10.1109/SAHCN.2019.8824804</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824804</ee><url>https://dblp.org/rec/conf/secon/YangH019</url></info>
+<url>URL#1945539</url>
+</hit>
+<hit score="1" id="1945540">
+<info><authors><author pid="00/5867-25">Chao Yang 0025</author><author pid="27/10801">Xuyu Wang</author><author pid="52/3003">Shiwen Mao</author></authors><title>SparseTag: High-Precision Backscatter Indoor Localization with Sparse RFID Tag Arrays.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangWM19</key><doi>10.1109/SAHCN.2019.8824865</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824865</ee><url>https://dblp.org/rec/conf/secon/YangWM19</url></info>
+<url>URL#1945540</url>
+</hit>
+<hit score="1" id="1945541">
+<info><authors><author pid="130/0282">Masoud Zarifneshat</author><author pid="14/5505-1">Li Xiao 0001</author><author pid="64/10812">Jiliang Tang</author></authors><title>Learning-based Blockage Prediction for Robust Links in Dynamic Millimeter Wave Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Zarifneshat0T19</key><doi>10.1109/SAHCN.2019.8824987</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824987</ee><url>https://dblp.org/rec/conf/secon/Zarifneshat0T19</url></info>
+<url>URL#1945541</url>
+</hit>
+<hit score="1" id="1945542">
+<info><authors><author pid="140/4567">Nicola Roberto Zema</author><author pid="69/3298">Dominique Quadri</author><author pid="05/3990-1">Steven Martin 0001</author><author pid="204/6260">Omar Shrit</author></authors><title>Formation control of a mono-operated UAV fleet through ad-hoc communications: a Q-learning approach.</title><venue>SECON</venue><pages>1-6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZemaQ0S19</key><doi>10.1109/SAHCN.2019.8824932</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824932</ee><url>https://dblp.org/rec/conf/secon/ZemaQ0S19</url></info>
+<url>URL#1945542</url>
+</hit>
+<hit score="1" id="1945543">
+<info><authors><author pid="91/2798-5">Jialin Zhang 0005</author><author pid="22/849-1">Wei Liang 0001</author><author pid="46/999-26">Bo Yang 0026</author><author pid="31/7910-1">Meng Zheng 0001</author><author pid="210/3908">Huaguang Shi</author><author pid="43/4399">Seung Ho Hong</author></authors><title>Nearly-Optimal Resource Allocation for Coexisting Industrial Wireless Networks with Line Topologies.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Zhang000SH19</key><doi>10.1109/SAHCN.2019.8824818</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824818</ee><url>https://dblp.org/rec/conf/secon/Zhang000SH19</url></info>
+<url>URL#1945543</url>
+</hit>
+<hit score="1" id="1945544">
+<info><authors><author pid="95/3760">Xiangyu Zhang</author><author pid="69/691">Xiaowen Gong</author></authors><title>Online Data Quality Learning for Quality-Aware Crowdsensing.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangG19</key><doi>10.1109/SAHCN.2019.8824861</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824861</ee><url>https://dblp.org/rec/conf/secon/ZhangG19</url></info>
+<url>URL#1945544</url>
+</hit>
+<hit score="1" id="1945545">
+<info><authors><author pid="83/4809">Xiaofei Zhang</author><author pid="65/8230">Chong Han</author><author pid="69/5181">Xudong Wang</author></authors><title>Joint Beamforming-Power-Bandwidth Allocation in Terahertz NOMA Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangHW19</key><doi>10.1109/SAHCN.2019.8824971</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824971</ee><url>https://dblp.org/rec/conf/secon/ZhangHW19</url></info>
+<url>URL#1945545</url>
+</hit>
+<hit score="1" id="1945546">
+<info><authors><author pid="97/8704">Lei Zhang</author><author pid="87/1453">Zhirui Wang</author><author pid="27/3367">Liu Yang</author></authors><title>Commercial Wi-Fi Based Fall Detection with Environment Influence Mitigation.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangWY19</key><doi>10.1109/SAHCN.2019.8824989</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824989</ee><url>https://dblp.org/rec/conf/secon/ZhangWY19</url></info>
+<url>URL#1945546</url>
+</hit>
+<hit score="1" id="1945547">
+<info><authors><author pid="94/689">Shigeng Zhang</author><author pid="89/8178">Chengwei Yang</author><author pid="122/5217">Xiaoyan Kui</author><author pid="75/2669-1">Jianxin Wang 0001</author><author pid="13/5407-1">Xuan Liu 0001</author><author pid="01/267-1">Song Guo 0001</author></authors><title>ReActor: Real-time and Accurate Contactless Gesture Recognition with RFID.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangYKW0019</key><doi>10.1109/SAHCN.2019.8824853</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824853</ee><url>https://dblp.org/rec/conf/secon/ZhangYKW0019</url></info>
+<url>URL#1945547</url>
+</hit>
+<hit score="1" id="1945548">
+<info><authors><author pid="124/6274">Run Zhao</author><author pid="40/3934-24">Dong Wang 0024</author><author pid="04/2024-12">Qian Zhang 0012</author><author pid="121/7527">Haonan Chen</author><author pid="228/5733">Huatao Xu</author></authors><title>PEC: Synthetic Aperture RFID Localization with Aperture Position Error Compensation.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Zhao00CX19</key><doi>10.1109/SAHCN.2019.8824882</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824882</ee><url>https://dblp.org/rec/conf/secon/Zhao00CX19</url></info>
+<url>URL#1945548</url>
+</hit>
+<hit score="1" id="1945549">
+<info><authors><author pid="230/1013">Yuxi Zhao</author><author pid="69/691">Xiaowen Gong</author></authors><title>Truthful Quality-Aware Data Crowdsensing for Machine Learning.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhaoG19</key><doi>10.1109/SAHCN.2019.8824888</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824888</ee><url>https://dblp.org/rec/conf/secon/ZhaoG19</url></info>
+<url>URL#1945549</url>
+</hit>
+<hit score="1" id="1945550">
+<info><authors><author pid="89/887">Zhiwei Zhao</author><author pid="96/3727">Geyong Min</author><author pid="248/5331">Yaoyao Pang</author><author pid="76/9788">Weifeng Gao</author><author pid="236/3110">Jiamei Lv</author></authors><title>Towards Fast and Reliable WiFi Authentication by Utilizing Visible Light Diversity.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhaoMPGL19</key><doi>10.1109/SAHCN.2019.8824935</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824935</ee><url>https://dblp.org/rec/conf/secon/ZhaoMPGL19</url></info>
+<url>URL#1945550</url>
+</hit>
+<hit score="1" id="1945551">
+<info><authors><author pid="190/4457">Yuchen Zhu</author><author pid="46/999-26">Bo Yang 0026</author><author pid="99/76-1">Min Liu 0001</author><author pid="20/6301">Zhongcheng Li</author></authors><title>Pharos: A Rapid Neighbor Discovery Algorithm for Power-Restricted Wireless Sensor Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Zhu00L19</key><doi>10.1109/SAHCN.2019.8824821</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824821</ee><url>https://dblp.org/rec/conf/secon/Zhu00L19</url></info>
+<url>URL#1945551</url>
+</hit>
+<hit score="1" id="1945552">
+<info><authors><author pid="229/9836">Yinan Zhu</author></authors><title>Service Station Positioning for Mobile Charger in Wireless Rechargeable Sensor Networks.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Zhu19</key><doi>10.1109/SAHCN.2019.8824900</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824900</ee><url>https://dblp.org/rec/conf/secon/Zhu19</url></info>
+<url>URL#1945552</url>
+</hit>
+<hit score="1" id="1945553">
+<info><authors><author pid="248/4835">Xiyuan Zhu</author><author pid="130/6750">Wurong Shih</author><author pid="90/6246">Yahong Rosa Zheng</author></authors><title>Underwater Datalogger for Accurate Position and Location Estmation and Tracking.</title><venue>SECON</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhuSZ19</key><doi>10.1109/SAHCN.2019.8824963</doi><ee>https://doi.org/10.1109/SAHCN.2019.8824963</ee><url>https://dblp.org/rec/conf/secon/ZhuSZ19</url></info>
+<url>URL#1945553</url>
+</hit>
+<hit score="1" id="1973747">
+<info><title>16th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2019, Boston, MA, USA, June 10-13, 2019</title><venue>SECON</venue><publisher>IEEE</publisher><year>2019</year><type>Editorship</type><key>conf/secon/2019</key><ee>https://ieeexplore.ieee.org/xpl/conhome/8822235/proceeding</ee><url>https://dblp.org/rec/conf/secon/2019</url></info>
+<url>URL#1973747</url>
+</hit>
+</hits>
+</result>

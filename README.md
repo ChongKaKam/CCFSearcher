@@ -27,7 +27,31 @@ import os
 
 #### 3.1 应该是这样运行的
 
-[还在画……]
+打开 `search_paper.py`：
+
+搜索过的期刊或者会议会缓存到本地，因此第一次使用需要下载文件运行时间较长。
+
+```python
+if __name__=="__main__":
+    # Domian:
+    #   - 01 计算机体系结构/并行与分布计算/存储系统
+    #   - 02 计算机网络
+    #   - 03 网络与信息安全
+    #   - 04 软件工程/系统软件/程序设计语言
+    #   - 05 数据库/数据挖掘/内容检索
+    #   - 06 计算机图形学与多媒体
+    #   - 07 人工智能
+    #   - 08 计算机科学理论
+    #   - 09 交叉/综合/新兴
+    input_str = "network anomaly detection"
+    level = 'AB'	# 'ABC', 'AB', 'A'...
+    paper_type = ['journals', 'conf'] 	# or ['journals'], ['conf']
+    domain_list = ['02','05','09']		# the code in the list shown above
+    year_range = [2018, 2023]			# [from, to]
+    # run
+    run = PaperSearch('./config.yaml')
+    run.search(input_str, level, paper_type, domain_list, year_range)
+```
 
 #### 3.2 核心文件介绍
 

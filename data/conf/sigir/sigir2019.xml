@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59357">:facetid:toc:\"db/conf/sigir/sigir2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">199.45</time>
+<completions total="1" computed="1" sent="1">
+<c sc="263" dc="263" oc="263" id="41065134">:facetid:toc:db/conf/sigir/sigir2019.bht</c>
+</completions>
+<hits total="263" computed="263" sent="263" first="0">
+<hit score="1" id="1948305">
+<info><authors><author pid="158/4640">Xueyu Mao 0001</author><author pid="77/2477">Saayan Mitra</author><author pid="23/3439-1">Sheng Li 0001</author></authors><title>Training Streaming Factorization Machines with Alternating Least Squares.</title><venue>SIGIR</venue><pages>1185-1188</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/0001ML19</key><doi>10.1145/3331184.3331374</doi><ee>https://doi.org/10.1145/3331184.3331374</ee><url>https://dblp.org/rec/conf/sigir/0001ML19</url></info>
+<url>URL#1948305</url>
+</hit>
+<hit score="1" id="1948306">
+<info><authors><author pid="f/NicolaFerro">Nicola Ferro 0001</author><author pid="s/MarkSanderson">Mark Sanderson</author></authors><title>Improving the Accuracy of System Performance Estimation by Using Shards.</title><venue>SIGIR</venue><pages>805-814</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/0001S19</key><doi>10.1145/3331184.3338062</doi><ee>https://doi.org/10.1145/3331184.3338062</ee><url>https://dblp.org/rec/conf/sigir/0001S19</url></info>
+<url>URL#1948306</url>
+</hit>
+<hit score="1" id="1948307">
+<info><authors><author pid="47/6529-5">Ke Chen 0005</author><author pid="76/847-6">Lei Feng 0006</author><author pid="287/7572">Qingkuang Chen</author><author pid="67/6383-1">Gang Chen 0001</author><author pid="21/5967">Lidan Shou</author></authors><title>EXACT: Attributed Entity Extraction By Annotating Texts.</title><venue>SIGIR</venue><pages>1349-1352</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/0005FC0S19</key><doi>10.1145/3331184.3331391</doi><ee>https://doi.org/10.1145/3331184.3331391</ee><url>https://dblp.org/rec/conf/sigir/0005FC0S19</url></info>
+<url>URL#1948307</url>
+</hit>
+<hit score="1" id="1948308">
+<info><authors><author pid="83/3714-6">Shuo Zhang 0006</author><author pid="85/4125">Krisztian Balog</author></authors><title>Web Table Extraction, Retrieval and Augmentation.</title><venue>SIGIR</venue><pages>1409-1410</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/0006B19</key><doi>10.1145/3331184.3331385</doi><ee>https://doi.org/10.1145/3331184.3331385</ee><url>https://dblp.org/rec/conf/sigir/0006B19</url></info>
+<url>URL#1948308</url>
+</hit>
+<hit score="1" id="1948309">
+<info><authors><author pid="245/1810">Ghodai Abdelrahman</author><author pid="97/6505-2">Qing Wang 0002</author></authors><title>Knowledge Tracing with Sequential Key-Value Memory Networks.</title><venue>SIGIR</venue><pages>175-184</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AbdelrahmanW19</key><doi>10.1145/3331184.3331195</doi><ee>https://doi.org/10.1145/3331184.3331195</ee><url>https://dblp.org/rec/conf/sigir/AbdelrahmanW19</url></info>
+<url>URL#1948309</url>
+</hit>
+<hit score="1" id="1948312">
+<info><authors><author pid="25/8468">Aman Agarwal</author><author pid="245/1856">Kenta Takatsu</author><author pid="220/3318">Ivan Zaitsev</author><author pid="j/ThorstenJoachims">Thorsten Joachims</author></authors><title>A General Framework for Counterfactual Learning-to-Rank.</title><venue>SIGIR</venue><pages>5-14</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AgarwalTZJ19</key><doi>10.1145/3331184.3331202</doi><ee>https://doi.org/10.1145/3331184.3331202</ee><url>https://dblp.org/rec/conf/sigir/AgarwalTZJ19</url></info>
+<url>URL#1948312</url>
+</hit>
+<hit score="1" id="1948313">
+<info><authors><author pid="a/MaristellaAgosti">Maristella Agosti</author><author pid="29/5588">Giorgio Maria Di Nunzio</author><author pid="31/791">Stefano Marchesin 0001</author></authors><title>An Analysis of Query Reformulation Techniques for Precision Medicine.</title><venue>SIGIR</venue><pages>973-976</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AgostiN019</key><doi>10.1145/3331184.3331289</doi><ee>https://doi.org/10.1145/3331184.3331289</ee><url>https://dblp.org/rec/conf/sigir/AgostiN019</url></info>
+<url>URL#1948313</url>
+</hit>
+<hit score="1" id="1948314">
+<info><authors><author pid="183/0576">Wasi Uddin Ahmad</author><author pid="18/2428">Kai-Wei Chang</author><author pid="05/6545">Hongning Wang</author></authors><title>Context Attentive Document Ranking and Query Suggestion.</title><venue>SIGIR</venue><pages>385-394</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AhmadCW19</key><doi>10.1145/3331184.3331246</doi><ee>https://doi.org/10.1145/3331184.3331246</ee><url>https://dblp.org/rec/conf/sigir/AhmadCW19</url></info>
+<url>URL#1948314</url>
+</hit>
+<hit score="1" id="1948315">
+<info><authors><author pid="159/6520">Ali Ahmadvand</author><author pid="245/1850">Jason Ingyu Choi</author><author pid="26/1185">Eugene Agichtein</author></authors><title>Contextual Dialogue Act Classification for Open-Domain Conversational Agents.</title><venue>SIGIR</venue><pages>1273-1276</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AhmadvandCA19</key><doi>10.1145/3331184.3331375</doi><ee>https://doi.org/10.1145/3331184.3331375</ee><url>https://dblp.org/rec/conf/sigir/AhmadvandCA19</url></info>
+<url>URL#1948315</url>
+</hit>
+<hit score="1" id="1948318">
+<info><authors><author pid="69/8171">Dyaa Albakour</author><author pid="27/4157">Miguel Martinez</author><author pid="196/3943">Sylvia Tippmann</author><author pid="67/7965">Ahmet Aker</author><author pid="153/7731">Jonathan Stray</author><author pid="09/2430">Shiri Dori-Hacohen</author><author pid="40/3383">Alberto Barrón-Cedeño</author></authors><title>Third International Workshop on Recent Trends in News Information Retrieval (NewsIR&apos;19).</title><venue>SIGIR</venue><pages>1429-1431</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AlbakourMTASDB19</key><doi>10.1145/3331184.3331646</doi><ee>https://doi.org/10.1145/3331184.3331646</ee><url>https://dblp.org/rec/conf/sigir/AlbakourMTASDB19</url></info>
+<url>URL#1948318</url>
+</hit>
+<hit score="1" id="1948319">
+<info><authors><author pid="163/2615">Amal Alharbi</author><author pid="68/6">Mark Stevenson</author></authors><title>A Dataset of Systematic Review Updates.</title><venue>SIGIR</venue><pages>1257-1260</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AlharbiS19</key><doi>10.1145/3331184.3331358</doi><ee>https://doi.org/10.1145/3331184.3331358</ee><url>https://dblp.org/rec/conf/sigir/AlharbiS19</url></info>
+<url>URL#1948319</url>
+</hit>
+<hit score="1" id="1948320">
+<info><authors><author pid="178/6008">Mohammad Aliannejadi</author><author pid="150/5324">Hamed Zamani</author><author pid="c/FabioCrestani">Fabio Crestani</author><author pid="c/WBruceCroft">W. Bruce Croft</author></authors><title>Asking Clarifying Questions in Open-Domain Information-Seeking Conversations.</title><venue>SIGIR</venue><pages>475-484</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AliannejadiZCC19</key><doi>10.1145/3331184.3331265</doi><ee>https://doi.org/10.1145/3331184.3331265</ee><url>https://dblp.org/rec/conf/sigir/AliannejadiZCC19</url></info>
+<url>URL#1948320</url>
+</hit>
+<hit score="1" id="1948322">
+<info><authors><author pid="a/OmarAlonso">Omar Alonso</author><author pid="07/6901">Vasileios Kandylas</author><author pid="203/0190">Serge-Eric Tremblay</author></authors><title>Social Knowledge Graph Explorer.</title><venue>SIGIR</venue><pages>1317-1320</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AlonsoKT19</key><doi>10.1145/3331184.3331410</doi><ee>https://doi.org/10.1145/3331184.3331410</ee><url>https://dblp.org/rec/conf/sigir/AlonsoKT19</url></info>
+<url>URL#1948322</url>
+</hit>
+<hit score="1" id="1948324">
+<info><authors><author pid="245/1776">Aymé Arango</author><author pid="12/6407-1">Jorge Pérez 0001</author><author pid="83/6509">Barbara Poblete</author></authors><title>Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation.</title><venue>SIGIR</venue><pages>45-54</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ArangoPP19</key><doi>10.1145/3331184.3331262</doi><ee>https://doi.org/10.1145/3331184.3331262</ee><url>https://dblp.org/rec/conf/sigir/ArangoPP19</url></info>
+<url>URL#1948324</url>
+</hit>
+<hit score="1" id="1948325">
+<info><authors><author pid="88/4556">Azin Ashkan</author><author pid="95/2272">Donald Metzler</author></authors><title>Revisiting Online Personal Search Metrics with the User in Mind.</title><venue>SIGIR</venue><pages>625-634</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AshkanM19</key><doi>10.1145/3331184.3331266</doi><ee>https://doi.org/10.1145/3331184.3331266</ee><url>https://dblp.org/rec/conf/sigir/AshkanM19</url></info>
+<url>URL#1948325</url>
+</hit>
+<hit score="1" id="1948326">
+<info><authors><author pid="227/3380">Arian Askari</author><author pid="245/1847">Asal Jalilvand</author><author pid="01/1096">Mahmood Neshati</author></authors><title>On Anonymous Commenting: A Greedy Approach to Balance Utilization and Anonymity for Instagram Users.</title><venue>SIGIR</venue><pages>1225-1228</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AskariJN19</key><doi>10.1145/3331184.3331364</doi><ee>https://doi.org/10.1145/3331184.3331364</ee><url>https://dblp.org/rec/conf/sigir/AskariJN19</url></info>
+<url>URL#1948326</url>
+</hit>
+<hit score="1" id="1948327">
+<info><authors><author pid="224/2054">Pepa Atanasova</author><author pid="205/1966">Georgi Karadzhov</author><author pid="167/4832">Yasen Kiprov</author><author pid="19/1947">Preslav Nakov</author><author pid="s/FabrizioSebastiani">Fabrizio Sebastiani 0001</author></authors><title>Evaluating Variable-Length Multiple-Option Lists in Chatbots and Mobile Search.</title><venue>SIGIR</venue><pages>997-1000</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AtanasovaKKN019</key><doi>10.1145/3331184.3331308</doi><ee>https://doi.org/10.1145/3331184.3331308</ee><url>https://dblp.org/rec/conf/sigir/AtanasovaKKN019</url></info>
+<url>URL#1948327</url>
+</hit>
+<hit score="1" id="1948328">
+<info><authors><author pid="29/4018">Leif Azzopardi</author><author pid="m/AlistairMoffat">Alistair Moffat</author><author pid="84/6088-1">Paul Thomas 0001</author><author pid="22/6562">Guido Zuccon</author></authors><title>Building Economic Models and Measures of Search.</title><venue>SIGIR</venue><pages>1401-1402</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AzzopardiMTZ19</key><doi>10.1145/3331184.3331379</doi><ee>https://doi.org/10.1145/3331184.3331379</ee><url>https://dblp.org/rec/conf/sigir/AzzopardiMTZ19</url></info>
+<url>URL#1948328</url>
+</hit>
+<hit score="1" id="1948329">
+<info><authors><author pid="29/4018">Leif Azzopardi</author><author pid="84/6088-1">Paul Thomas 0001</author><author pid="m/AlistairMoffat">Alistair Moffat</author></authors><title>cwl_eval: An Evaluation Tool for Information Retrieval.</title><venue>SIGIR</venue><pages>1321-1324</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/AzzopardiTM19</key><doi>10.1145/3331184.3331398</doi><ee>https://doi.org/10.1145/3331184.3331398</ee><url>https://dblp.org/rec/conf/sigir/AzzopardiTM19</url></info>
+<url>URL#1948329</url>
+</hit>
+<hit score="1" id="1948330">
+<info><authors><author pid="140/4333">Ting Bai</author><author pid="193/4216">Lixin Zou</author><author pid="52/8700">Wayne Xin Zhao</author><author pid="74/5694-1">Pan Du 0001</author><author pid="97/2834-1">Weidong Liu 0001</author><author pid="n/JianYunNie">Jian-Yun Nie</author><author pid="w/JRWen">Ji-Rong Wen</author></authors><title>CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation.</title><venue>SIGIR</venue><pages>675-684</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BaiZZDLNW19</key><doi>10.1145/3331184.3331199</doi><ee>https://doi.org/10.1145/3331184.3331199</ee><url>https://dblp.org/rec/conf/sigir/BaiZZDLNW19</url></info>
+<url>URL#1948330</url>
+</hit>
+<hit score="1" id="1948331">
+<info><authors><author pid="85/4125">Krisztian Balog</author><author pid="28/1966">Filip Radlinski</author><author pid="220/3428">Shushan Arakelyan</author></authors><title>Transparent, Scrutable and Explainable User Models for Personalized Recommendation.</title><venue>SIGIR</venue><pages>265-274</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BalogRA19</key><doi>10.1145/3331184.3331211</doi><ee>https://doi.org/10.1145/3331184.3331211</ee><url>https://dblp.org/rec/conf/sigir/BalogRA19</url></info>
+<url>URL#1948331</url>
+</hit>
+<hit score="1" id="1948332">
+<info><authors><author pid="234/7619">Manash Pratim Barman</author><author pid="136/7882">Amit Awekar</author><author pid="245/1801">Sambhav Kothari</author></authors><title>Decoding The Style And Bias of Song Lyrics.</title><venue>SIGIR</venue><pages>1165-1168</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BarmanAK19</key><doi>10.1145/3331184.3331363</doi><ee>https://doi.org/10.1145/3331184.3331363</ee><url>https://dblp.org/rec/conf/sigir/BarmanAK19</url></info>
+<url>URL#1948332</url>
+</hit>
+<hit score="1" id="1948334">
+<info><authors><author pid="210/8217">Rodger Benham</author></authors><title>Evaluating Risk-Sensitive Text Retrieval.</title><venue>SIGIR</venue><pages>1455</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Benham19</key><doi>10.1145/3331184.3331423</doi><ee>https://doi.org/10.1145/3331184.3331423</ee><url>https://dblp.org/rec/conf/sigir/Benham19</url></info>
+<url>URL#1948334</url>
+</hit>
+<hit score="1" id="1948338">
+<info><authors><author pid="231/0969">Ranran Bian</author><author pid="23/1879">Yun Sing Koh</author><author pid="d/GDobbie">Gillian Dobbie</author><author pid="29/5391">Anna Divoli</author></authors><title>Network Embedding and Change Modeling in Dynamic Heterogeneous Networks.</title><venue>SIGIR</venue><pages>861-864</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BianKDD19</key><doi>10.1145/3331184.3331273</doi><ee>https://doi.org/10.1145/3331184.3331273</ee><url>https://dblp.org/rec/conf/sigir/BianKDD19</url></info>
+<url>URL#1948338</url>
+</hit>
+<hit score="1" id="1948340">
+<info><authors><author pid="84/1386">Guillaume Bouchard</author><author pid="50/6478">Guido Caldarelli</author><author pid="59/5877">Vassilis Plachouras</author></authors><title>ROME 2019: Workshop on Reducing Online Misinformation Exposure.</title><venue>SIGIR</venue><pages>1426-1428</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BouchardCP19</key><doi>10.1145/3331184.3331645</doi><ee>https://doi.org/10.1145/3331184.3331645</ee><url>https://dblp.org/rec/conf/sigir/BouchardCP19</url></info>
+<url>URL#1948340</url>
+</hit>
+<hit score="1" id="1948341">
+<info><authors><author pid="238/4306">Rafika Boutalbi</author><author pid="24/8729">Lazhar Labiod</author><author pid="63/1468">Mohamed Nadif</author></authors><title>Sparse Tensor Co-clustering as a Tool for Document Categorization.</title><venue>SIGIR</venue><pages>1157-1160</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BoutalbiLN19</key><doi>10.1145/3331184.3331360</doi><ee>https://doi.org/10.1145/3331184.3331360</ee><url>https://dblp.org/rec/conf/sigir/BoutalbiLN19</url></info>
+<url>URL#1948341</url>
+</hit>
+<hit score="1" id="1948344">
+<info><authors><author pid="62/4319-1">Sebastian Bruch</author><author pid="36/11143">Masrour Zoghi</author><author pid="80/4305">Michael Bendersky</author><author pid="n/MarcNajork">Marc Najork</author></authors><title>Revisiting Approximate Metric Optimization in the Age of Deep Neural Networks.</title><venue>SIGIR</venue><pages>1241-1244</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BruchZBN19</key><doi>10.1145/3331184.3331347</doi><ee>https://doi.org/10.1145/3331184.3331347</ee><url>https://dblp.org/rec/conf/sigir/BruchZBN19</url></info>
+<url>URL#1948344</url>
+</hit>
+<hit score="1" id="1948345">
+<info><authors><author pid="222/3219">Andrew Burnie</author><author pid="36/3270">Emine Yilmaz</author></authors><title>An Analysis of the Change in Discussions on Social Media with Bitcoin Price.</title><venue>SIGIR</venue><pages>889-892</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/BurnieY19</key><doi>10.1145/3331184.3331304</doi><ee>https://doi.org/10.1145/3331184.3331304</ee><url>https://dblp.org/rec/conf/sigir/BurnieY19</url></info>
+<url>URL#1948345</url>
+</hit>
+<hit score="1" id="1948348">
+<info><authors><author pid="135/1259">Sérgio D. Canuto</author><author pid="62/7444">Thiago Salles</author><author pid="68/3720">Thierson Couto Rosa</author><author pid="45/1395">Marcos André Gonçalves</author></authors><title>Similarity-Based Synthetic Document Representations for Meta-Feature Generation in Text Classification.</title><venue>SIGIR</venue><pages>355-364</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CanutoSRG19</key><doi>10.1145/3331184.3331239</doi><ee>https://doi.org/10.1145/3331184.3331239</ee><url>https://dblp.org/rec/conf/sigir/CanutoSRG19</url></info>
+<url>URL#1948348</url>
+</hit>
+<hit score="1" id="1948349">
+<info><authors><author pid="c/RobertGCapra">Robert Capra</author><author pid="90/4580">Jaime Arguello</author></authors><title>Using Trails to Support Users with Tasks of Varying Scope.</title><venue>SIGIR</venue><pages>977-980</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CapraA19</key><doi>10.1145/3331184.3331290</doi><ee>https://doi.org/10.1145/3331184.3331290</ee><url>https://dblp.org/rec/conf/sigir/CapraA19</url></info>
+<url>URL#1948349</url>
+</hit>
+<hit score="1" id="1948352">
+<info><authors><author pid="143/3629">Matteo Catena</author><author pid="f/OphirFrieder">Ophir Frieder</author><author pid="119/6603">Cristina Ioana Muntean</author><author pid="56/1965">Franco Maria Nardini</author><author pid="p/RaffaelePerego">Raffaele Perego 0001</author><author pid="44/5123">Nicola Tonellotto</author></authors><title>Enhanced News Retrieval: Passages Lead the Way!</title><venue>SIGIR</venue><pages>1269-1272</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CatenaFMN0T19</key><doi>10.1145/3331184.3331373</doi><ee>https://doi.org/10.1145/3331184.3331373</ee><url>https://dblp.org/rec/conf/sigir/CatenaFMN0T19</url></info>
+<url>URL#1948352</url>
+</hit>
+<hit score="1" id="1948353">
+<info><authors><author pid="143/3629">Matteo Catena</author><author pid="44/5123">Nicola Tonellotto</author></authors><title>Multiple Query Processing via Logic Function Factoring.</title><venue>SIGIR</venue><pages>937-940</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CatenaT19</key><doi>10.1145/3331184.3331297</doi><ee>https://doi.org/10.1145/3331184.3331297</ee><url>https://dblp.org/rec/conf/sigir/CatenaT19</url></info>
+<url>URL#1948353</url>
+</hit>
+<hit score="1" id="1948354">
+<info><authors><author pid="245/1771">Zi Chai</author><author pid="07/1521">Xiaojun Wan 0001</author><author pid="87/6853">Zhao Zhang</author><author pid="245/1848">Minjie Li</author></authors><title>Harvesting Drug Effectiveness from Social Media.</title><venue>SIGIR</venue><pages>55-64</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChaiWZL19</key><doi>10.1145/3331184.3331263</doi><ee>https://doi.org/10.1145/3331184.3331263</ee><url>https://dblp.org/rec/conf/sigir/ChaiWZL19</url></info>
+<url>URL#1948354</url>
+</hit>
+<hit score="1" id="1948355">
+<info><authors><author pid="204/0118">Suthee Chaidaroon</author><author pid="96/361-8">Yi Fang 0008</author><author pid="78/8779">Min Xie 0002</author><author pid="13/6944">Alessandro Magnani</author></authors><title>Neural Compatibility Ranking for Text-based Fashion Matching.</title><venue>SIGIR</venue><pages>1229-1232</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChaidaroonFXM19</key><doi>10.1145/3331184.3331365</doi><ee>https://doi.org/10.1145/3331184.3331365</ee><url>https://dblp.org/rec/conf/sigir/ChaidaroonFXM19</url></info>
+<url>URL#1948355</url>
+</hit>
+<hit score="1" id="1948356">
+<info><authors><author pid="69/7536">Praveen Chandar</author><author pid="222/1208">Jean Garcia-Gathright</author><author pid="222/1260">Christine Hosey</author><author pid="222/1257">Brian St. Thomas</author><author pid="88/4239">Jennifer Thom</author></authors><title>Developing Evaluation Metrics for Instant Search Using Mixed Methods Methods.</title><venue>SIGIR</venue><pages>925-928</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChandarGHTT19</key><doi>10.1145/3331184.3331293</doi><ee>https://doi.org/10.1145/3331184.3331293</ee><url>https://dblp.org/rec/conf/sigir/ChandarGHTT19</url></info>
+<url>URL#1948356</url>
+</hit>
+<hit score="1" id="1948357">
+<info><authors><author pid="132/5349">Muthu Kumar Chandrasekaran</author><author pid="59/561">Philipp Mayr 0001</author><author pid="202/1809">Michihiro Yasunaga</author><author pid="80/2274">Dayne Freitag</author><author pid="r/DragomirRRadev">Dragomir R. Radev</author><author pid="k/MinYenKan">Min-Yen Kan</author></authors><title>Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2019).</title><venue>SIGIR</venue><pages>1441-1443</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChandrasekaranM19</key><doi>10.1145/3331184.3331650</doi><ee>https://doi.org/10.1145/3331184.3331650</ee><url>https://dblp.org/rec/conf/sigir/ChandrasekaranM19</url></info>
+<url>URL#1948357</url>
+</hit>
+<hit score="1" id="1948359">
+<info><authors><author pid="83/6331-17">Xu Chen 0017</author><author pid="32/6638">Hanxiong Chen</author><author pid="38/10816">Hongteng Xu</author><author pid="82/7829">Yongfeng Zhang</author><author pid="20/8038-2">Yixin Cao 0002</author><author pid="95/6861-3">Zheng Qin 0003</author><author pid="z/HongyuanZha">Hongyuan Zha</author></authors><title>Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network: Towards Visually Explainable Recommendation.</title><venue>SIGIR</venue><pages>765-774</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenCXZ0QZ19</key><doi>10.1145/3331184.3331254</doi><ee>https://doi.org/10.1145/3331184.3331254</ee><url>https://dblp.org/rec/conf/sigir/ChenCXZ0QZ19</url></info>
+<url>URL#1948359</url>
+</hit>
+<hit score="1" id="1948360">
+<info><authors><author pid="152/6215">Cen Chen</author><author pid="245/1803">Chilin Fu</author><author pid="31/9079">Xu Hu</author><author pid="48/5176">Xiaolu Zhang</author><author pid="99/3847-11">Jun Zhou 0011</author><author pid="82/6624-5">Xiaolong Li 0005</author><author pid="98/5980">Forrest Sheng Bao</author></authors><title>Reinforcement Learning for User Intent Prediction in Customer Service Bots.</title><venue>SIGIR</venue><pages>1265-1268</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenFHZZLB19</key><doi>10.1145/3331184.3331370</doi><ee>https://doi.org/10.1145/3331184.3331370</ee><url>https://dblp.org/rec/conf/sigir/ChenFHZZLB19</url></info>
+<url>URL#1948360</url>
+</hit>
+<hit score="1" id="1948361">
+<info><authors><author pid="177/6602">Chung-Chi Chen 0001</author><author pid="23/10489">Hen-Hsen Huang</author><author pid="84/3130">Hsin-Hsi Chen</author></authors><title>Numeral Attachment with Auxiliary Tasks.</title><venue>SIGIR</venue><pages>1161-1164</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenHC19</key><doi>10.1145/3331184.3331361</doi><ee>https://doi.org/10.1145/3331184.3331361</ee><url>https://dblp.org/rec/conf/sigir/ChenHC19</url></info>
+<url>URL#1948361</url>
+</hit>
+<hit score="1" id="1948362">
+<info><authors><author pid="173/2608">Muhao Chen</author><author pid="63/7183">Chris Quirk</author></authors><title>Embedding Edge-attributed Relational Hierarchies.</title><venue>SIGIR</venue><pages>873-876</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenQ19</key><doi>10.1145/3331184.3331278</doi><ee>https://doi.org/10.1145/3331184.3331278</ee><url>https://dblp.org/rec/conf/sigir/ChenQ19</url></info>
+<url>URL#1948362</url>
+</hit>
+<hit score="1" id="1948363">
+<info><authors><author pid="52/295-3">Yifan Chen 0003</author><author pid="168/4596">Pengjie Ren</author><author pid="w/YangWang23">Yang Wang 0023</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>Bayesian Personalized Feature Interaction Selection for Factorization Machines.</title><venue>SIGIR</venue><pages>665-674</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenRWR19</key><doi>10.1145/3331184.3331196</doi><ee>https://doi.org/10.1145/3331184.3331196</ee><url>https://dblp.org/rec/conf/sigir/ChenRWR19</url></info>
+<url>URL#1948363</url>
+</hit>
+<hit score="1" id="1948365">
+<info><authors><author pid="217/4891">Daoyuan Chen</author><author pid="02/1640-7">Min Yang 0007</author><author pid="20/134-2">Hai-Tao Zheng 0002</author><author pid="127/6999">Yaliang Li</author><author pid="01/8558-1">Ying Shen 0001</author></authors><title>Answer-enhanced Path-aware Relation Detection over Knowledge Base.</title><venue>SIGIR</venue><pages>1021-1024</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenYZLS19</key><doi>10.1145/3331184.3331328</doi><ee>https://doi.org/10.1145/3331184.3331328</ee><url>https://dblp.org/rec/conf/sigir/ChenYZLS19</url></info>
+<url>URL#1948365</url>
+</hit>
+<hit score="1" id="1948366">
+<info><authors><author pid="145/6239-2">Xueqin Chen 0002</author><author pid="88/2172">Kunpeng Zhang</author><author pid="63/3122-2">Fan Zhou 0002</author><author pid="66/974">Goce Trajcevski</author><author pid="73/9481">Ting Zhong</author><author pid="33/2071">Fengli Zhang</author></authors><title>Information Cascades Modeling via Deep Multi-Task Learning.</title><venue>SIGIR</venue><pages>885-888</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenZ0TZZ19</key><doi>10.1145/3331184.3331288</doi><ee>https://doi.org/10.1145/3331184.3331288</ee><url>https://dblp.org/rec/conf/sigir/ChenZ0TZZ19</url></info>
+<url>URL#1948366</url>
+</hit>
+<hit score="1" id="1948367">
+<info><authors><author pid="63/713-1">Chong Chen 0001</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="163/7308-3">Chenyang Wang 0003</author><author pid="169/1390">Weizhi Ma</author><author pid="78/6881">Minming Li</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="40/1949">Shaoping Ma</author></authors><title>An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation.</title><venue>SIGIR</venue><pages>225-234</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChenZWMLLM19</key><doi>10.1145/3331184.3331192</doi><ee>https://doi.org/10.1145/3331184.3331192</ee><url>https://dblp.org/rec/conf/sigir/ChenZWMLLM19</url></info>
+<url>URL#1948367</url>
+</hit>
+<hit score="1" id="1948368">
+<info><authors><author pid="78/5975">Meng-Fen Chiang</author><author pid="l/EePengLim">Ee-Peng Lim</author><author pid="14/716">Wang-Chien Lee</author><author pid="210/0872">Xavier Jayaraj Siddarth Ashok</author><author pid="11/11036">Philips Kokoh Prasetyo</author></authors><title>One-Class Order Embedding for Dependency Relation Prediction.</title><venue>SIGIR</venue><pages>205-214</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChiangLLAP19</key><doi>10.1145/3331184.3331249</doi><ee>https://doi.org/10.1145/3331184.3331249</ee><url>https://dblp.org/rec/conf/sigir/ChiangLLAP19</url></info>
+<url>URL#1948368</url>
+</hit>
+<hit score="1" id="1948370">
+<info><authors><author pid="228/7989">Minseok Cho</author><author pid="219/5487">Gyeongbok Lee</author><author pid="h/SeungwonHwang">Seung-won Hwang</author></authors><title>Explanatory and Actionable Debugging for Machine Learning: A TableQA Demonstration.</title><venue>SIGIR</venue><pages>1333-1336</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ChoLH19</key><doi>10.1145/3331184.3331404</doi><ee>https://doi.org/10.1145/3331184.3331404</ee><url>https://dblp.org/rec/conf/sigir/ChoLH19</url></info>
+<url>URL#1948370</url>
+</hit>
+<hit score="1" id="1948372">
+<info><authors><author pid="245/1822">Ryan Clancy</author><author pid="f/NicolaFerro">Nicola Ferro 0001</author><author pid="73/906">Claudia Hauff</author><author pid="00/7739">Jimmy Lin</author><author pid="18/6321">Tetsuya Sakai</author><author pid="245/1784">Ze Zhong Wu</author></authors><title>The SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019).</title><venue>SIGIR</venue><pages>1432-1434</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Clancy0HLSW19</key><doi>10.1145/3331184.3331647</doi><ee>https://doi.org/10.1145/3331184.3331647</ee><url>https://dblp.org/rec/conf/sigir/Clancy0HLSW19</url></info>
+<url>URL#1948372</url>
+</hit>
+<hit score="1" id="1948374">
+<info><authors><author pid="245/1822">Ryan Clancy</author><author pid="89/3967">Toke Eskildsen</author><author pid="181/0664">Nick Ruest</author><author pid="00/7739">Jimmy Lin</author></authors><title>Solr Integration in the Anserini Information Retrieval Toolkit.</title><venue>SIGIR</venue><pages>1285-1288</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ClancyERL19</key><doi>10.1145/3331184.3331401</doi><ee>https://doi.org/10.1145/3331184.3331401</ee><url>https://dblp.org/rec/conf/sigir/ClancyERL19</url></info>
+<url>URL#1948374</url>
+</hit>
+<hit score="1" id="1948375">
+<info><authors><author pid="245/1822">Ryan Clancy</author><author pid="31/7077">Jaejun Lee</author><author pid="245/1857">Zeynep Akkalyoncu Yilmaz</author><author pid="00/7739">Jimmy Lin</author></authors><title>Information Retrieval Meets Scalable Text Analytics: Solr Integration with Spark.</title><venue>SIGIR</venue><pages>1313-1316</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ClancyLYL19</key><doi>10.1145/3331184.3331395</doi><ee>https://doi.org/10.1145/3331184.3331395</ee><url>https://dblp.org/rec/conf/sigir/ClancyLYL19</url></info>
+<url>URL#1948375</url>
+</hit>
+<hit score="1" id="1948377">
+<info><authors><author pid="c/GVCormack">Gordon V. Cormack</author><author pid="122/5875">Maura R. Grossman</author></authors><title>Unbiased Low-Variance Estimators for Precision and Related Information Retrieval Effectiveness Measures.</title><venue>SIGIR</venue><pages>945-948</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CormackG19</key><doi>10.1145/3331184.3331355</doi><ee>https://doi.org/10.1145/3331184.3331355</ee><url>https://dblp.org/rec/conf/sigir/CormackG19</url></info>
+<url>URL#1948377</url>
+</hit>
+<hit score="1" id="1948378">
+<info><authors><author pid="c/GVCormack">Gordon V. Cormack</author><author pid="122/5875">Maura R. Grossman</author></authors><title>Quantifying Bias and Variance of System Rankings.</title><venue>SIGIR</venue><pages>1089-1092</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CormackG19a</key><doi>10.1145/3331184.3331356</doi><ee>https://doi.org/10.1145/3331184.3331356</ee><url>https://dblp.org/rec/conf/sigir/CormackG19a</url></info>
+<url>URL#1948378</url>
+</hit>
+<hit score="1" id="1948379">
+<info><authors><author pid="c/GVCormack">Gordon V. Cormack</author><author pid="83/4184-1">Haotian Zhang 0001</author><author pid="180/3165">Nimesh Ghelani</author><author pid="160/1276">Mustafa Abualsaud</author><author pid="07/801">Mark D. Smucker</author><author pid="122/5875">Maura R. Grossman</author><author pid="240/8662">Shahin Rahbariasl</author><author pid="33/11411">Amira Ghenai</author></authors><title>Dynamic Sampling Meets Pooling.</title><venue>SIGIR</venue><pages>1217-1220</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CormackZGASGRG19</key><doi>10.1145/3331184.3331354</doi><ee>https://doi.org/10.1145/3331184.3331354</ee><url>https://dblp.org/rec/conf/sigir/CormackZGASGRG19</url></info>
+<url>URL#1948379</url>
+</hit>
+<hit score="1" id="1948380">
+<info><authors><author pid="151/3211">Anita Crescenzi</author><author pid="86/6196">Yuan Li</author><author pid="116/1633">Yinglong Zhang</author><author pid="c/RobertGCapra">Robert Capra</author></authors><title>Towards Better Support for Exploratory Search through an Investigation of Notes-to-self and Notes-to-share.</title><venue>SIGIR</venue><pages>1093-1096</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CrescenziLZC19</key><doi>10.1145/3331184.3331309</doi><ee>https://doi.org/10.1145/3331184.3331309</ee><url>https://dblp.org/rec/conf/sigir/CrescenziLZC19</url></info>
+<url>URL#1948380</url>
+</hit>
+<hit score="1" id="1948381">
+<info><authors><author pid="c/WBruceCroft">W. Bruce Croft</author></authors><title>The Importance of Interaction for Information Retrieval.</title><venue>SIGIR</venue><pages>1-2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Croft19</key><doi>10.1145/3331184.3331185</doi><ee>https://doi.org/10.1145/3331184.3331185</ee><url>https://dblp.org/rec/conf/sigir/Croft19</url></info>
+<url>URL#1948381</url>
+</hit>
+<hit score="1" id="1948382">
+<info><authors><author pid="162/4595">Chen Cui</author><author pid="38/1956">Wenjie Wang</author><author pid="147/9141">Xuemeng Song</author><author pid="47/6668">Minlie Huang</author><author pid="90/10573">Xin-Shun Xu</author><author pid="92/8277">Liqiang Nie</author></authors><title>User Attention-guided Multimodal Dialog Systems.</title><venue>SIGIR</venue><pages>445-454</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/CuiWSHXN19</key><doi>10.1145/3331184.3331226</doi><ee>https://doi.org/10.1145/3331184.3331226</ee><url>https://dblp.org/rec/conf/sigir/CuiWSHXN19</url></info>
+<url>URL#1948382</url>
+</hit>
+<hit score="1" id="1948383">
+<info><authors><author pid="148/4531">Zhuyun Dai</author><author pid="c/JamesPCallan">Jamie Callan</author></authors><title>Deeper Text Understanding for IR with Contextual Neural Language Modeling.</title><venue>SIGIR</venue><pages>985-988</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/DaiC19</key><doi>10.1145/3331184.3331303</doi><ee>https://doi.org/10.1145/3331184.3331303</ee><url>https://dblp.org/rec/conf/sigir/DaiC19</url></info>
+<url>URL#1948383</url>
+</hit>
+<hit score="1" id="1948384">
+<info><authors><author pid="37/7848">Jon Degenhardt</author><author pid="09/9727">Surya Kallumadi</author><author pid="12/11339">Utkarsh Porwal</author><author pid="t/ATrotman">Andrew Trotman</author></authors><title>ECOM&apos;19: The SIGIR 2019 Workshop on eCommerce.</title><venue>SIGIR</venue><pages>1421-1422</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/DegenhardtKPT19</key><doi>10.1145/3331184.3331643</doi><ee>https://doi.org/10.1145/3331184.3331643</ee><url>https://dblp.org/rec/conf/sigir/DegenhardtKPT19</url></info>
+<url>URL#1948384</url>
+</hit>
+<hit score="1" id="1948385">
+<info><authors><author pid="157/0381">Priya Deshpande</author></authors><title>Biomedical Heterogeneous Data Integration and Rank Retrieval using Data Bridges.</title><venue>SIGIR</venue><pages>1449</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Deshpande19</key><doi>10.1145/3331184.3331417</doi><ee>https://doi.org/10.1145/3331184.3331417</ee><url>https://dblp.org/rec/conf/sigir/Deshpande19</url></info>
+<url>URL#1948385</url>
+</hit>
+<hit score="1" id="1948387">
+<info><authors><author pid="85/5754">Laura Dietz</author></authors><title>ENT Rank: Retrieving Entities for Topical Information Needs through Entity-Neighbor-Text Relations.</title><venue>SIGIR</venue><pages>215-224</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Dietz19</key><doi>10.1145/3331184.3331257</doi><ee>https://doi.org/10.1145/3331184.3331257</ee><url>https://dblp.org/rec/conf/sigir/Dietz19</url></info>
+<url>URL#1948387</url>
+</hit>
+<hit score="1" id="1948390">
+<info><authors><author pid="225/2174">Dennis Dosso</author><author pid="71/3148">Gianmaria Silvello</author></authors><title>A Scalable Virtual Document-Based Keyword Search System for RDF Datasets.</title><venue>SIGIR</venue><pages>965-968</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/DossoS19</key><doi>10.1145/3331184.3331284</doi><ee>https://doi.org/10.1145/3331184.3331284</ee><url>https://dblp.org/rec/conf/sigir/DossoS19</url></info>
+<url>URL#1948390</url>
+</hit>
+<hit score="1" id="1948391">
+<info><authors><author pid="157/6372">Alexey Drutsa</author><author pid="117/9143">Gleb Gusev</author><author pid="117/4229">Eugene Kharitonov</author><author pid="245/1842">Denis Kulemyakin</author><author pid="12/2720">Pavel Serdyukov</author><author pid="227/3364">Igor Yashkov</author></authors><title>Effective Online Evaluation for Web Search.</title><venue>SIGIR</venue><pages>1399-1400</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/DrutsaGKKSY19</key><doi>10.1145/3331184.3331378</doi><ee>https://doi.org/10.1145/3331184.3331378</ee><url>https://dblp.org/rec/conf/sigir/DrutsaGKKSY19</url></info>
+<url>URL#1948391</url>
+</hit>
+<hit score="1" id="1948392">
+<info><authors><author pid="217/2512">Lorik Dumani</author><author pid="s/RalfSchenkel">Ralf Schenkel</author></authors><title>A Systematic Comparison of Methods for Finding Good Premises for Claims.</title><venue>SIGIR</venue><pages>957-960</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/DumaniS19</key><doi>10.1145/3331184.3331282</doi><ee>https://doi.org/10.1145/3331184.3331282</ee><url>https://dblp.org/rec/conf/sigir/DumaniS19</url></info>
+<url>URL#1948392</url>
+</hit>
+<hit score="1" id="1948393">
+<info><authors><author pid="69/7949">Michael D. Ekstrand</author><author pid="58/2337">Robin Burke</author><author pid="38/2451-1">Fernando Diaz 0001</author></authors><title>Fairness and Discrimination in Retrieval and Recommendation.</title><venue>SIGIR</venue><pages>1403-1404</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/EkstrandBD19</key><doi>10.1145/3331184.3331380</doi><ee>https://doi.org/10.1145/3331184.3331380</ee><url>https://dblp.org/rec/conf/sigir/EkstrandBD19</url></info>
+<url>URL#1948393</url>
+</hit>
+<hit score="1" id="1948394">
+<info><authors><author pid="17/2976-1">Yang Fang 0001</author><author pid="07/668-2">Xiang Zhao 0002</author><author pid="227/9225">Peixin Huang</author><author pid="87/5207">Weidong Xiao</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>M-HIN: Complex Embeddings for Heterogeneous Information Networks via Metagraphs.</title><venue>SIGIR</venue><pages>913-916</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Fang0HXR19</key><doi>10.1145/3331184.3331281</doi><ee>https://doi.org/10.1145/3331184.3331281</ee><url>https://dblp.org/rec/conf/sigir/Fang0HXR19</url></info>
+<url>URL#1948394</url>
+</hit>
+<hit score="1" id="1948395">
+<info><authors><author pid="230/3737">Zhichong Fang</author><author pid="25/8468">Aman Agarwal</author><author pid="j/ThorstenJoachims">Thorsten Joachims</author></authors><title>Intervention Harvesting for Context-Dependent Examination-Bias Estimation.</title><venue>SIGIR</venue><pages>825-834</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/FangAJ19</key><doi>10.1145/3331184.3331238</doi><ee>https://doi.org/10.1145/3331184.3331238</ee><url>https://dblp.org/rec/conf/sigir/FangAJ19</url></info>
+<url>URL#1948395</url>
+</hit>
+<hit score="1" id="1948396">
+<info><authors><author pid="210/4445">Gloria Feher</author><author pid="135/5777">Andreas Spitz</author><author pid="g/MichaelGertz">Michael Gertz 0001</author></authors><title>Retrieving Multi-Entity Associations: An Evaluation of Combination Modes for Word Embeddings.</title><venue>SIGIR</venue><pages>1169-1172</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/FeherSG19</key><doi>10.1145/3331184.3331366</doi><ee>https://doi.org/10.1145/3331184.3331366</ee><url>https://dblp.org/rec/conf/sigir/FeherSG19</url></info>
+<url>URL#1948396</url>
+</hit>
+<hit score="1" id="1948398">
+<info><authors><author pid="160/8285">Zeon Trevor Fernando</author><author pid="66/445">Jaspreet Singh</author><author pid="02/7062">Avishek Anand</author></authors><title>A study on the Interpretability of Neural Retrieval Models using DeepSHAP.</title><venue>SIGIR</venue><pages>1005-1008</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/FernandoSA19</key><doi>10.1145/3331184.3331312</doi><ee>https://doi.org/10.1145/3331184.3331312</ee><url>https://dblp.org/rec/conf/sigir/FernandoSA19</url></info>
+<url>URL#1948398</url>
+</hit>
+<hit score="1" id="1948399">
+<info><authors><author pid="148/5046">Nicolas Fiorini</author></authors><title>Find Relevant Cases in All Cases: Your Journey at Doctrine.</title><venue>SIGIR</venue><pages>1393-1394</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Fiorini19</key><doi>10.1145/3331184.3331441</doi><ee>https://doi.org/10.1145/3331184.3331441</ee><url>https://dblp.org/rec/conf/sigir/Fiorini19</url></info>
+<url>URL#1948399</url>
+</hit>
+<hit score="1" id="1948400">
+<info><authors><author pid="204/0095">Anton Firsov</author><author pid="245/1780">Vladimir Bugay</author><author pid="245/1851">Anton Karpenko</author></authors><title>USEing Transfer Learning in Retrieval of Statistical Data.</title><venue>SIGIR</venue><pages>1391-1392</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/FirsovBK19</key><doi>10.1145/3331184.3331427</doi><ee>https://doi.org/10.1145/3331184.3331427</ee><url>https://dblp.org/rec/conf/sigir/FirsovBK19</url></info>
+<url>URL#1948400</url>
+</hit>
+<hit score="1" id="1948401">
+<info><authors><author pid="245/1797">Hao-Ming Fu</author><author pid="45/160">Pu-Jen Cheng</author></authors><title>Learning Unsupervised Semantic Document Representation for Fine-grained Aspect-based Sentiment Analysis.</title><venue>SIGIR</venue><pages>1105-1108</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/FuC19</key><doi>10.1145/3331184.3331320</doi><ee>https://doi.org/10.1145/3331184.3331320</ee><url>https://dblp.org/rec/conf/sigir/FuC19</url></info>
+<url>URL#1948401</url>
+</hit>
+<hit score="1" id="1948402">
+<info><authors><author pid="237/9723">Hrishikesh Ganu</author><author pid="237/9824">Mithun Ghosh</author><author pid="245/1773">Freddy Jose</author><author pid="238/0021">Shashi Roshan</author></authors><title>AgentBuddy: an IR System based on Bandit Algorithms to Reduce Cognitive Load for Customer Care Agents.</title><venue>SIGIR</venue><pages>1301-1304</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GanuGJR19</key><doi>10.1145/3331184.3331408</doi><ee>https://doi.org/10.1145/3331184.3331408</ee><url>https://dblp.org/rec/conf/sigir/GanuGJR19</url></info>
+<url>URL#1948402</url>
+</hit>
+<hit score="1" id="1948403">
+<info><authors><author pid="225/8655">Diksha Garg</author><author pid="38/5674">Priyanka Gupta</author><author pid="42/811">Pankaj Malhotra</author><author pid="16/4559">Lovekesh Vig</author><author pid="54/3265">Gautam Shroff</author></authors><title>Sequence and Time Aware Neighborhood for Session-based Recommendations: STAN.</title><venue>SIGIR</venue><pages>1069-1072</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GargGMVS19</key><doi>10.1145/3331184.3331322</doi><ee>https://doi.org/10.1145/3331184.3331322</ee><url>https://dblp.org/rec/conf/sigir/GargGMVS19</url></info>
+<url>URL#1948403</url>
+</hit>
+<hit score="1" id="1948404">
+<info><authors><author pid="228/2581">Songwei Ge</author><author pid="245/1778">Curtis Xuan</author><author pid="s/RuihuaSong">Ruihua Song</author><author pid="42/1607">Chao Zou</author><author pid="49/3283">Wei Liu</author><author pid="98/2691">Jin Zhou</author></authors><title>From Text to Sound: A Preliminary Study on Retrieving Sound Effects to Radio Stories.</title><venue>SIGIR</venue><pages>865-868</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GeXSZLZ19</key><doi>10.1145/3331184.3331274</doi><ee>https://doi.org/10.1145/3331184.3331274</ee><url>https://dblp.org/rec/conf/sigir/GeXSZLZ19</url></info>
+<url>URL#1948404</url>
+</hit>
+<hit score="1" id="1948406">
+<info><authors><author pid="167/4892">Souvick Ghosh</author></authors><title>Informing the Design of Conversational IR Systems: Framework and Result Presentation.</title><venue>SIGIR</venue><pages>1454</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Ghosh19</key><doi>10.1145/3331184.3331422</doi><ee>https://doi.org/10.1145/3331184.3331422</ee><url>https://dblp.org/rec/conf/sigir/Ghosh19</url></info>
+<url>URL#1948406</url>
+</hit>
+<hit score="1" id="1948407">
+<info><authors><author pid="118/3830">Anastasia Giachanou</author><author pid="05/3463">Paolo Rosso</author><author pid="c/FabioCrestani">Fabio Crestani</author></authors><title>Leveraging Emotional Signals for Credibility Detection.</title><venue>SIGIR</venue><pages>877-880</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GiachanouRC19</key><doi>10.1145/3331184.3331285</doi><ee>https://doi.org/10.1145/3331184.3331285</ee><url>https://dblp.org/rec/conf/sigir/GiachanouRC19</url></info>
+<url>URL#1948407</url>
+</hit>
+<hit score="1" id="1948408">
+<info><authors><author pid="222/1272">Gregory Goren</author></authors><title>Ranking Robustness In Adversarial Retrieval Settings.</title><venue>SIGIR</venue><pages>1446</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Goren19</key><doi>10.1145/3331184.3331414</doi><ee>https://doi.org/10.1145/3331184.3331414</ee><url>https://dblp.org/rec/conf/sigir/Goren19</url></info>
+<url>URL#1948408</url>
+</hit>
+<hit score="1" id="1948411">
+<info><authors><author pid="135/6973">Tao Gui</author><author pid="21/6121">Peng Liu</author><author pid="52/323-1">Qi Zhang 0001</author><author pid="85/20">Liang Zhu</author><author pid="205/9010">Minlong Peng</author><author pid="67/8389">Yunhua Zhou</author><author pid="05/6735-1">Xuanjing Huang 0001</author></authors><title>Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning.</title><venue>SIGIR</venue><pages>535-544</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GuiLZZPZH19</key><doi>10.1145/3331184.3331237</doi><ee>https://doi.org/10.1145/3331184.3331237</ee><url>https://dblp.org/rec/conf/sigir/GuiLZZPZH19</url></info>
+<url>URL#1948411</url>
+</hit>
+<hit score="1" id="1948412">
+<info><authors><author pid="158/7446">Yangyang Guo</author><author pid="07/8503-1">Zhiyong Cheng 0001</author><author pid="92/8277">Liqiang Nie</author><author pid="63/1829">Yibing Liu</author><author pid="97/7016-1">Yinglong Wang 0001</author><author pid="09/3613">Mohan S. Kankanhalli</author></authors><title>Quantifying and Alleviating the Language Prior Problem in Visual Question Answering.</title><venue>SIGIR</venue><pages>75-84</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GuoCNLWK19</key><doi>10.1145/3331184.3331186</doi><ee>https://doi.org/10.1145/3331184.3331186</ee><url>https://dblp.org/rec/conf/sigir/GuoCNLWK19</url></info>
+<url>URL#1948412</url>
+</hit>
+<hit score="1" id="1948413">
+<info><authors><author pid="02/146">Jiafeng Guo</author><author pid="188/2160">Yixing Fan</author><author pid="46/2563">Xiang Ji</author><author pid="44/912">Xueqi Cheng</author></authors><title>MatchZoo: A Learning, Practicing, and Developing System for Neural Text Matching.</title><venue>SIGIR</venue><pages>1297-1300</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GuoFJC19</key><doi>10.1145/3331184.3331403</doi><ee>https://doi.org/10.1145/3331184.3331403</ee><url>https://dblp.org/rec/conf/sigir/GuoFJC19</url></info>
+<url>URL#1948413</url>
+</hit>
+<hit score="1" id="1948414">
+<info><authors><author pid="02/7667">Weiwei Guo</author><author pid="77/9023">Huiji Gao</author><author pid="31/626">Jun Shi</author><author pid="96/6993">Bo Long</author></authors><title>Deep Natural Language Processing for Search Systems.</title><venue>SIGIR</venue><pages>1405-1406</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GuoGSL19</key><doi>10.1145/3331184.3331381</doi><ee>https://doi.org/10.1145/3331184.3331381</ee><url>https://dblp.org/rec/conf/sigir/GuoGSL19</url></info>
+<url>URL#1948414</url>
+</hit>
+<hit score="1" id="1948415">
+<info><authors><author pid="71/6601-6">Wei Guo 0006</author><author pid="24/10003">Ruiming Tang</author><author pid="152/3785">Huifeng Guo</author><author pid="29/6207">Jianhua Han</author><author pid="42/3814-1">Wen Yang 0001</author><author pid="52/149">Yuzhou Zhang</author></authors><title>Order-aware Embedding Neural Network for CTR Prediction.</title><venue>SIGIR</venue><pages>1121-1124</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GuoTGHYZ19</key><doi>10.1145/3331184.3331332</doi><ee>https://doi.org/10.1145/3331184.3331332</ee><url>https://dblp.org/rec/conf/sigir/GuoTGHYZ19</url></info>
+<url>URL#1948415</url>
+</hit>
+<hit score="1" id="1948416">
+<info><authors><author pid="228/1630">Sparsh Gupta</author><author pid="c/VitorRCarvalho">Vitor R. Carvalho</author></authors><title>FAQ Retrieval Using Attentive Matching.</title><venue>SIGIR</venue><pages>929-932</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/GuptaC19</key><doi>10.1145/3331184.3331294</doi><ee>https://doi.org/10.1145/3331184.3331294</ee><url>https://dblp.org/rec/conf/sigir/GuptaC19</url></info>
+<url>URL#1948416</url>
+</hit>
+<hit score="1" id="1948417">
+<info><authors><author pid="12/6422">Viet Ha-Thuc</author><author pid="245/1838">Srinath Aaleti</author><author pid="164/7300">Rongda Zhu</author><author pid="95/7554">Nade Sritanyaratana</author><author pid="245/1814">Corey Chen</author></authors><title>Searching for Communities: a Facebook Way.</title><venue>SIGIR</venue><pages>1381-1382</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Ha-ThucAZSC19</key><doi>10.1145/3331184.3331426</doi><ee>https://doi.org/10.1145/3331184.3331426</ee><url>https://dblp.org/rec/conf/sigir/Ha-ThucAZSC19</url></info>
+<url>URL#1948417</url>
+</hit>
+<hit score="1" id="1948418">
+<info><authors><author pid="245/1799">Dany Haddad</author><author pid="51/2272">Joydeep Ghosh</author></authors><title>Learning More From Less: Towards Strengthening Weak Supervision for Ad-Hoc Retrieval.</title><venue>SIGIR</venue><pages>857-860</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/HaddadG19</key><doi>10.1145/3331184.3331272</doi><ee>https://doi.org/10.1145/3331184.3331272</ee><url>https://dblp.org/rec/conf/sigir/HaddadG19</url></info>
+<url>URL#1948418</url>
+</hit>
+<hit score="1" id="1948419">
+<info><authors><author pid="220/3407">Xianjing Han</author><author pid="147/9141">Xuemeng Song</author><author pid="68/2053">Jianhua Yin</author><author pid="97/7016-1">Yinglong Wang 0001</author><author pid="92/8277">Liqiang Nie</author></authors><title>Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching.</title><venue>SIGIR</venue><pages>785-794</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/HanSYWN19</key><doi>10.1145/3331184.3331245</doi><ee>https://doi.org/10.1145/3331184.3331245</ee><url>https://dblp.org/rec/conf/sigir/HanSYWN19</url></info>
+<url>URL#1948419</url>
+</hit>
+<hit score="1" id="1948420">
+<info><authors><author pid="205/2958">Casper Hansen</author><author pid="57/2217-4">Christian Hansen 0004</author><author pid="49/4269">Stephen Alstrup</author><author pid="s/JakobGrueSimonsen">Jakob Grue Simonsen</author><author pid="16/1917">Christina Lioma</author></authors><title>Contextually Propagated Term Weights for Document Representation.</title><venue>SIGIR</venue><pages>897-900</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Hansen0ASL19</key><doi>10.1145/3331184.3331307</doi><ee>https://doi.org/10.1145/3331184.3331307</ee><url>https://dblp.org/rec/conf/sigir/Hansen0ASL19</url></info>
+<url>URL#1948420</url>
+</hit>
+<hit score="1" id="1948421">
+<info><authors><author pid="205/2958">Casper Hansen</author><author pid="57/2217-4">Christian Hansen 0004</author><author pid="s/JakobGrueSimonsen">Jakob Grue Simonsen</author><author pid="49/4269">Stephen Alstrup</author><author pid="16/1917">Christina Lioma</author></authors><title>Unsupervised Neural Generative Semantic Hashing.</title><venue>SIGIR</venue><pages>735-744</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Hansen0SAL19</key><doi>10.1145/3331184.3331255</doi><ee>https://doi.org/10.1145/3331184.3331255</ee><url>https://dblp.org/rec/conf/sigir/Hansen0SAL19</url></info>
+<url>URL#1948421</url>
+</hit>
+<hit score="1" id="1948423">
+<info><authors><author pid="220/2546">Guoxiu He</author><author pid="162/0109">Yangyang Kang</author><author pid="20/10069">Zhe Gao</author><author pid="132/5378">Zhuoren Jiang</author><author pid="212/2092">Changlong Sun</author><author pid="11/6389">Xiaozhong Liu</author><author pid="98/6613-19">Wei Lu 0019</author><author pid="06/3351">Qiong Zhang</author><author pid="14/1217">Luo Si</author></authors><title>Finding Camouflaged Needle in a Haystack?: Pornographic Products Detection via Berrypicking Tree Model.</title><venue>SIGIR</venue><pages>365-374</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/HeKGJSLLZS19</key><doi>10.1145/3331184.3331197</doi><ee>https://doi.org/10.1145/3331184.3331197</ee><url>https://dblp.org/rec/conf/sigir/HeKGJSLLZS19</url></info>
+<url>URL#1948423</url>
+</hit>
+<hit score="1" id="1948425">
+<info><authors><author pid="238/6322">Sebastian Hofstätter</author><author pid="150/5089">Navid Rekabsaz</author><author pid="42/8700">Carsten Eickhoff</author><author pid="55/6683">Allan Hanbury</author></authors><title>On the Effect of Low-Frequency Terms on Neural-IR Models.</title><venue>SIGIR</venue><pages>1137-1140</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/HofstatterREH19</key><doi>10.1145/3331184.3331344</doi><ee>https://doi.org/10.1145/3331184.3331344</ee><url>https://dblp.org/rec/conf/sigir/HofstatterREH19</url></info>
+<url>URL#1948425</url>
+</hit>
+<hit score="1" id="1948426">
+<info><authors><author pid="226/2616">Hawre Hosseini</author></authors><title>Implicit Entity Recognition, Classification and Linking in Tweets.</title><venue>SIGIR</venue><pages>1448</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Hosseini19</key><doi>10.1145/3331184.3331416</doi><ee>https://doi.org/10.1145/3331184.3331416</ee><url>https://dblp.org/rec/conf/sigir/Hosseini19</url></info>
+<url>URL#1948426</url>
+</hit>
+<hit score="1" id="1948427">
+<info><authors><author pid="11/6278-2">Peng Hu 0002</author><author pid="128/3352">Liangli Zhen</author><author pid="17/6253">Dezhong Peng</author><author pid="84/3210">Pei Liu</author></authors><title>Scalable Deep Multimodal Learning for Cross-Modal Retrieval.</title><venue>SIGIR</venue><pages>635-644</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/HuZPL19</key><doi>10.1145/3331184.3331213</doi><ee>https://doi.org/10.1145/3331184.3331213</ee><url>https://dblp.org/rec/conf/sigir/HuZPL19</url></info>
+<url>URL#1948427</url>
+</hit>
+<hit score="1" id="1948428">
+<info><authors><author pid="219/6931">Yuqi Huo</author><author pid="26/5662">Yao Lu</author><author pid="165/2982">Yulei Niu</author><author pid="53/5234">Zhiwu Lu 0001</author><author pid="w/JRWen">Ji-Rong Wen</author></authors><title>Coarse-to-Fine Grained Classification.</title><venue>SIGIR</venue><pages>1033-1036</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/HuoLNLW19</key><doi>10.1145/3331184.3331336</doi><ee>https://doi.org/10.1145/3331184.3331336</ee><url>https://dblp.org/rec/conf/sigir/HuoLNLW19</url></info>
+<url>URL#1948428</url>
+</hit>
+<hit score="1" id="1948429">
+<info><authors><author pid="204/3749">Wiradee Imrattanatrai</author><author pid="14/7537">Makoto P. Kato</author><author pid="y/MasatoshiYoshikawa">Masatoshi Yoshikawa</author></authors><title>Identifying Entity Properties from Text with Zero-shot Learning.</title><venue>SIGIR</venue><pages>195-204</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ImrattanatraiKY19</key><doi>10.1145/3331184.3331220</doi><ee>https://doi.org/10.1145/3331184.3331220</ee><url>https://dblp.org/rec/conf/sigir/ImrattanatraiKY19</url></info>
+<url>URL#1948429</url>
+</hit>
+<hit score="1" id="1948431">
+<info><authors><author pid="144/7357">Rolf Jagerman</author><author pid="166/3041">Harrie Oosterhuis</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions.</title><venue>SIGIR</venue><pages>15-24</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/JagermanOR19</key><doi>10.1145/3331184.3331269</doi><ee>https://doi.org/10.1145/3331184.3331269</ee><url>https://dblp.org/rec/conf/sigir/JagermanOR19</url></info>
+<url>URL#1948431</url>
+</hit>
+<hit score="1" id="1948433">
+<info><authors><author pid="92/1104">Peng Jiang</author><author pid="10/2088">Yingrui Yang</author><author pid="84/2587">Gann Bierner</author><author pid="237/9447">Fengjie Alex Li</author><author pid="237/9568">Ruhan Wang</author><author pid="56/8053">Azadeh Moghtaderi</author></authors><title>Family History Discovery through Search at Ancestry.</title><venue>SIGIR</venue><pages>1389-1390</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/JiangYBLWM19</key><doi>10.1145/3331184.3331430</doi><ee>https://doi.org/10.1145/3331184.3331430</ee><url>https://dblp.org/rec/conf/sigir/JiangYBLWM19</url></info>
+<url>URL#1948433</url>
+</hit>
+<hit score="1" id="1948434">
+<info><authors><author pid="76/10502">Jimmy</author><author pid="22/6562">Guido Zuccon</author><author pid="96/9899">Bevan Koopman</author><author pid="05/3422">Gianluca Demartini</author></authors><title>Health Cards for Consumer Health Search.</title><venue>SIGIR</venue><pages>35-44</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/JimmyZKD19</key><doi>10.1145/3331184.3331194</doi><ee>https://doi.org/10.1145/3331184.3331194</ee><url>https://dblp.org/rec/conf/sigir/JimmyZKD19</url></info>
+<url>URL#1948434</url>
+</hit>
+<hit score="1" id="1948435">
+<info><authors><author pid="245/1858">Weike Jin</author><author pid="75/7785">Zhou Zhao</author><author pid="245/1837">Mao Gu</author><author pid="50/5754-2">Jun Yu 0002</author><author pid="71/2308-1">Jun Xiao 0001</author><author pid="218/7793">Yueting Zhuang</author></authors><title>Video Dialog via Multi-Grained Convolutional Self-Attention Context Networks.</title><venue>SIGIR</venue><pages>465-474</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/JinZG00Z19</key><doi>10.1145/3331184.3331240</doi><ee>https://doi.org/10.1145/3331184.3331240</ee><url>https://dblp.org/rec/conf/sigir/JinZG00Z19</url></info>
+<url>URL#1948435</url>
+</hit>
+<hit score="1" id="1948436">
+<info><authors><author pid="185/2855">Saikishore Kalloori</author><author pid="92/9835">Tianyu Li</author><author pid="r/FrancescoRicci">Francesco Ricci 0001</author></authors><title>Item Recommendation by Combining Relative and Absolute Feedback Data.</title><venue>SIGIR</venue><pages>933-936</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/KallooriL019</key><doi>10.1145/3331184.3331295</doi><ee>https://doi.org/10.1145/3331184.3331295</ee><url>https://dblp.org/rec/conf/sigir/KallooriL019</url></info>
+<url>URL#1948436</url>
+</hit>
+<hit score="1" id="1948439">
+<info><authors><author pid="245/1770">Lauri Kangassalo</author><author pid="88/5219">Michiel M. A. Spapé</author><author pid="j/GiulioJacucci">Giulio Jacucci</author><author pid="06/4486">Tuukka Ruotsalo</author></authors><title>Why do Users Issue Good Queries?: Neural Correlates of Term Specificity.</title><venue>SIGIR</venue><pages>375-384</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/KangassaloSJR19</key><doi>10.1145/3331184.3331243</doi><ee>https://doi.org/10.1145/3331184.3331243</ee><url>https://dblp.org/rec/conf/sigir/KangassaloSJR19</url></info>
+<url>URL#1948439</url>
+</hit>
+<hit score="1" id="1948442">
+<info><authors><author pid="k/GabriellaKazai">Gabriella Kazai</author><author pid="84/6088-1">Paul Thomas 0001</author><author pid="c/NickCraswell">Nick Craswell</author></authors><title>The Emotion Profile of Web Search.</title><venue>SIGIR</venue><pages>1097-1100</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/KazaiTC19</key><doi>10.1145/3331184.3331314</doi><ee>https://doi.org/10.1145/3331184.3331314</ee><url>https://dblp.org/rec/conf/sigir/KazaiTC19</url></info>
+<url>URL#1948442</url>
+</hit>
+<hit score="1" id="1948443">
+<info><authors><author pid="124/2127">Mayank Kejriwal</author><author pid="211/6778">Runqi Shao</author><author pid="73/4919">Pedro A. Szekely</author></authors><title>Expert-Guided Entity Extraction using Expressive Rules.</title><venue>SIGIR</venue><pages>1353-1356</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/KejriwalSS19</key><doi>10.1145/3331184.3331392</doi><ee>https://doi.org/10.1145/3331184.3331392</ee><url>https://dblp.org/rec/conf/sigir/KejriwalSS19</url></info>
+<url>URL#1948443</url>
+</hit>
+<hit score="1" id="1948444">
+<info><authors><author pid="145/1172">Farhan Khawar</author><author pid="z/NevinLianwenZhang">Nevin L. Zhang</author></authors><title>Cleaned Similarity for Better Memory-Based Recommenders.</title><venue>SIGIR</venue><pages>1193-1196</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/KhawarZ19</key><doi>10.1145/3331184.3331310</doi><ee>https://doi.org/10.1145/3331184.3331310</ee><url>https://dblp.org/rec/conf/sigir/KhawarZ19</url></info>
+<url>URL#1948444</url>
+</hit>
+<hit score="1" id="1948446">
+<info><authors><author pid="95/3462">Andrey Kolobov</author><author pid="31/3175">Yuval Peres</author><author pid="19/2179">Eyal Lubetzky</author><author pid="h/EricHorvitz">Eric Horvitz</author></authors><title>Optimal Freshness Crawl Under Politeness Constraints.</title><venue>SIGIR</venue><pages>495-504</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/KolobovPLH19</key><doi>10.1145/3331184.3331241</doi><ee>https://doi.org/10.1145/3331184.3331241</ee><url>https://dblp.org/rec/conf/sigir/KolobovPLH19</url></info>
+<url>URL#1948446</url>
+</hit>
+<hit score="1" id="1948448">
+<info><authors><author pid="185/6269">Saar Kuzi</author><author pid="178/8691">Abhishek Narwekar</author><author pid="227/2877">Anusri Pampari</author><author pid="z/ChengXiangZhai">ChengXiang Zhai</author></authors><title>Help Me Search: Leveraging User-System Collaboration for Query Construction to Improve Accuracy for Difficult Queries.</title><venue>SIGIR</venue><pages>1221-1224</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/KuziNPZ19</key><doi>10.1145/3331184.3331362</doi><ee>https://doi.org/10.1145/3331184.3331362</ee><url>https://dblp.org/rec/conf/sigir/KuziNPZ19</url></info>
+<url>URL#1948448</url>
+</hit>
+<hit score="1" id="1948449">
+<info><authors><author pid="13/5781">Sudarshan Lamkhede</author><author pid="167/6040">Sudeep Das</author></authors><title>Challenges in Search on Streaming Services: Netflix Case Study.</title><venue>SIGIR</venue><pages>1371-1374</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LamkhedeD19</key><doi>10.1145/3331184.3331440</doi><ee>https://doi.org/10.1145/3331184.3331440</ee><url>https://dblp.org/rec/conf/sigir/LamkhedeD19</url></info>
+<url>URL#1948449</url>
+</hit>
+<hit score="1" id="1948450">
+<info><authors><author pid="218/5623">Yadi Lao</author><author pid="90/514-1">Jun Xu 0001</author><author pid="35/5676-1">Sheng Gao 0001</author><author pid="204/6231">Jun Guo 0002</author><author pid="w/JRWen">Ji-Rong Wen</author></authors><title>Name Entity Recognition with Policy-Value Networks.</title><venue>SIGIR</venue><pages>1245-1248</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LaoXGGW19</key><doi>10.1145/3331184.3331349</doi><ee>https://doi.org/10.1145/3331184.3331349</ee><url>https://dblp.org/rec/conf/sigir/LaoXGGW19</url></info>
+<url>URL#1948450</url>
+</hit>
+<hit score="1" id="1948451">
+<info><authors><author pid="36/11045">Geon Lee</author><author pid="56/3458">Seonggoo Kang</author><author pid="121/4230">Joyce Jiyoung Whang</author></authors><title>Hyperlink Classification via Structured Graph Embedding.</title><venue>SIGIR</venue><pages>1017-1020</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LeeKW19</key><doi>10.1145/3331184.3331325</doi><ee>https://doi.org/10.1145/3331184.3331325</ee><url>https://dblp.org/rec/conf/sigir/LeeKW19</url></info>
+<url>URL#1948451</url>
+</hit>
+<hit score="1" id="1948452">
+<info><authors><author pid="174/6820">Grace E. Lee</author><author pid="78/5155">Aixin Sun</author></authors><title>A Study on Agreement in PICO Span Annotations.</title><venue>SIGIR</venue><pages>1149-1152</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LeeS19</key><doi>10.1145/3331184.3331352</doi><ee>https://doi.org/10.1145/3331184.3331352</ee><url>https://dblp.org/rec/conf/sigir/LeeS19</url></info>
+<url>URL#1948452</url>
+</hit>
+<hit score="1" id="1948453">
+<info><authors><author pid="284/8639-4">Yu Lei 0004</author><author pid="61/5562">Zhitao Wang</author><author pid="33/3999-2">Wenjie Li 0002</author><author pid="157/2982">Hongbin Pei</author></authors><title>Social Attentive Deep Q-network for Recommendation.</title><venue>SIGIR</venue><pages>1189-1192</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LeiWLP19</key><doi>10.1145/3331184.3331302</doi><ee>https://doi.org/10.1145/3331184.3331302</ee><url>https://dblp.org/rec/conf/sigir/LeiWLP19</url></info>
+<url>URL#1948453</url>
+</hit>
+<hit score="1" id="1948454">
+<info><authors><author pid="67/6415">Jochen L. Leidner</author></authors><title>Nobody Said it Would be Easy: A Decade of R&amp;D Projects in Information Access from Thomson over Reuters to Refinitiv.</title><venue>SIGIR</venue><pages>1387-1388</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Leidner19</key><doi>10.1145/3331184.3331444</doi><ee>https://doi.org/10.1145/3331184.3331444</ee><url>https://dblp.org/rec/conf/sigir/Leidner19</url></info>
+<url>URL#1948454</url>
+</hit>
+<hit score="1" id="1948455">
+<info><authors><author pid="224/1974">Cédric Lespagnol</author><author pid="m/JosianeMothe">Josiane Mothe</author><author pid="150/5229">Md Zia Ullah</author></authors><title>Information Nutritional Label and Word Embedding to Estimate Information Check-Worthiness.</title><venue>SIGIR</venue><pages>941-944</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LespagnolMU19</key><doi>10.1145/3331184.3331298</doi><ee>https://doi.org/10.1145/3331184.3331298</ee><url>https://dblp.org/rec/conf/sigir/LespagnolMU19</url></info>
+<url>URL#1948455</url>
+</hit>
+<hit score="1" id="1948457">
+<info><authors><author pid="166/3079">Qiuchi Li</author></authors><title>Multimodal Data Fusion with Quantum Inspiration.</title><venue>SIGIR</venue><pages>1451</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Li19</key><doi>10.1145/3331184.3331419</doi><ee>https://doi.org/10.1145/3331184.3331419</ee><url>https://dblp.org/rec/conf/sigir/Li19</url></info>
+<url>URL#1948457</url>
+</hit>
+<hit score="1" id="1948458">
+<info><authors><author pid="92/2954">Feng Li</author><author pid="155/5156">Zhenrui Chen</author><author pid="71/7813">Pengjie Wang</author><author pid="75/6568">Yi Ren</author><author pid="80/3482">Di Zhang</author><author pid="125/0228">Xiaoyu Zhu</author></authors><title>Graph Intention Network for Click-through Rate Prediction in Sponsored Search.</title><venue>SIGIR</venue><pages>961-964</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiCWRZZ19</key><doi>10.1145/3331184.3331283</doi><ee>https://doi.org/10.1145/3331184.3331283</ee><url>https://dblp.org/rec/conf/sigir/LiCWRZZ19</url></info>
+<url>URL#1948458</url>
+</hit>
+<hit score="1" id="1948459">
+<info><authors><author pid="96/4282">Rui Li</author><author pid="172/2694">Yunjiang Jiang</author><author pid="245/1823">Wenyun Yang</author><author pid="22/8214">Guoyu Tang</author><author pid="87/7759">Songlin Wang</author><author pid="219/6220">Chaoyi Ma</author><author pid="20/6417">Wei He</author><author pid="88/7706">Xi Xiong</author><author pid="38/1284">Yun Xiao</author><author pid="34/4111">Yihong Eric Zhao</author></authors><title>From Semantic Retrieval to Pairwise Ranking: Applying Deep Learning in E-commerce Search.</title><venue>SIGIR</venue><pages>1383-1384</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiJYTWMHXXZ19</key><doi>10.1145/3331184.3331434</doi><ee>https://doi.org/10.1145/3331184.3331434</ee><url>https://dblp.org/rec/conf/sigir/LiJYTWMHXXZ19</url></info>
+<url>URL#1948459</url>
+</hit>
+<hit score="1" id="1948460">
+<info><authors><author pid="125/7007">Xiangsheng Li</author><author pid="174/8367">Jiaxin Mao</author><author pid="188/7759-49">Chao Wang 0049</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="40/1949">Shaoping Ma</author></authors><title>Teach Machine How to Read: Reading Behavior Inspired Relevance Estimation.</title><venue>SIGIR</venue><pages>795-804</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiMWL0M19</key><doi>10.1145/3331184.3331205</doi><ee>https://doi.org/10.1145/3331184.3331205</ee><url>https://dblp.org/rec/conf/sigir/LiMWL0M19</url></info>
+<url>URL#1948460</url>
+</hit>
+<hit score="1" id="1948461">
+<info><authors><author pid="52/9457">Chenliang Li</author><author pid="150/4140">Cong Quan</author><author pid="73/6174">Li Peng</author><author pid="193/0173">Yunwei Qi</author><author pid="242/2645">Yuming Deng</author><author pid="66/521">Libing Wu</author></authors><title>A Capsule Network for Recommendation and Explaining What You Like and Dislike.</title><venue>SIGIR</venue><pages>275-284</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiQPQDW19</key><doi>10.1145/3331184.3331216</doi><ee>https://doi.org/10.1145/3331184.3331216</ee><url>https://dblp.org/rec/conf/sigir/LiQPQDW19</url></info>
+<url>URL#1948461</url>
+</hit>
+<hit score="1" id="1948462">
+<info><authors><author pid="16/6465-12">Cheng Li 0012</author><author pid="76/4874-1">Mingyang Zhang 0001</author><author pid="80/4305">Michael Bendersky</author><author pid="09/43">Hongbo Deng</author><author pid="95/2272">Donald Metzler</author><author pid="n/MarcNajork">Marc Najork</author></authors><title>Multi-view Embedding-based Synonyms for Email Search.</title><venue>SIGIR</venue><pages>575-584</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiZBDMN19</key><doi>10.1145/3331184.3331250</doi><ee>https://doi.org/10.1145/3331184.3331250</ee><url>https://dblp.org/rec/conf/sigir/LiZBDMN19</url></info>
+<url>URL#1948462</url>
+</hit>
+<hit score="1" id="1948464">
+<info><authors><author pid="35/3221">Chen Liang</author><author pid="121/0956">Ziqi Liu</author><author pid="35/837">Bin Liu</author><author pid="99/3847-11">Jun Zhou 0011</author><author pid="82/6624-5">Xiaolong Li 0005</author><author pid="07/5790">Shuang Yang</author><author pid="57/2210">Yuan Qi 0001</author></authors><title>Uncovering Insurance Fraud Conspiracy with Network Learning.</title><venue>SIGIR</venue><pages>1181-1184</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiangLLZLYQ19</key><doi>10.1145/3331184.3331372</doi><ee>https://doi.org/10.1145/3331184.3331372</ee><url>https://dblp.org/rec/conf/sigir/LiangLLZLYQ19</url></info>
+<url>URL#1948464</url>
+</hit>
+<hit score="1" id="1948465">
+<info><authors><author pid="165/2145">Di Liang</author><author pid="198/6963">Fubao Zhang</author><author pid="24/3562">Weidong Zhang</author><author pid="52/323-1">Qi Zhang 0001</author><author pid="218/7289">Jinlan Fu</author><author pid="205/9010">Minlong Peng</author><author pid="135/6973">Tao Gui</author><author pid="05/6735-1">Xuanjing Huang 0001</author></authors><title>Adaptive Multi-Attention Network Incorporating Answer Information for Duplicate Question Detection.</title><venue>SIGIR</venue><pages>95-104</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiangZZ0FPGH19</key><doi>10.1145/3331184.3331228</doi><ee>https://doi.org/10.1145/3331184.3331228</ee><url>https://dblp.org/rec/conf/sigir/LiangZZ0FPGH19</url></info>
+<url>URL#1948465</url>
+</hit>
+<hit score="1" id="1948466">
+<info><authors><author pid="200/0338">Tzu-Heng Lin</author><author pid="76/5013">Chen Gao</author><author pid="93/2334-8">Yong Li 0008</author></authors><title>CROSS: Cross-platform Recommendation for Social E-Commerce.</title><venue>SIGIR</venue><pages>515-524</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LinGL19</key><doi>10.1145/3331184.3331191</doi><ee>https://doi.org/10.1145/3331184.3331191</ee><url>https://dblp.org/rec/conf/sigir/LinGL19</url></info>
+<url>URL#1948466</url>
+</hit>
+<hit score="1" id="1948467">
+<info><authors><author pid="00/7739">Jimmy Lin</author><author pid="71/9062">Peilin Yang</author></authors><title>The Impact of Score Ties on Repeatability in Document Ranking.</title><venue>SIGIR</venue><pages>1125-1128</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LinY19</key><doi>10.1145/3331184.3331339</doi><ee>https://doi.org/10.1145/3331184.3331339</ee><url>https://dblp.org/rec/conf/sigir/LinY19</url></info>
+<url>URL#1948467</url>
+</hit>
+<hit score="1" id="1948469">
+<info><authors><author pid="139/1128">Matteo Lissandrini</author><author pid="135/7623">Davide Mottin</author><author pid="p/ThemisPalpanas">Themis Palpanas</author><author pid="v/YannisVelegrakis">Yannis Velegrakis</author></authors><title>Example-based Search: a New Frontier for Exploratory Search.</title><venue>SIGIR</venue><pages>1411-1412</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LissandriniMPV19</key><doi>10.1145/3331184.3331387</doi><ee>https://doi.org/10.1145/3331184.3331387</ee><url>https://dblp.org/rec/conf/sigir/LissandriniMPV19</url></info>
+<url>URL#1948469</url>
+</hit>
+<hit score="1" id="1948470">
+<info><authors><author pid="220/3207">Robert Litschko</author><author pid="50/11059">Goran Glavas</author><author pid="77/9768">Ivan Vulic</author><author pid="85/5754">Laura Dietz</author></authors><title>Evaluating Resource-Lean Cross-Lingual Embedding Models in Unsupervised Retrieval.</title><venue>SIGIR</venue><pages>1109-1112</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LitschkoGVD19</key><doi>10.1145/3331184.3331324</doi><ee>https://doi.org/10.1145/3331184.3331324</ee><url>https://dblp.org/rec/conf/sigir/LitschkoGVD19</url></info>
+<url>URL#1948470</url>
+</hit>
+<hit score="1" id="1948471">
+<info><authors><author pid="196/0415">Jiqun Liu</author></authors><title>Characterizing the Stages of Complex Tasks.</title><venue>SIGIR</venue><pages>1445</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Liu19</key><doi>10.1145/3331184.3331413</doi><ee>https://doi.org/10.1145/3331184.3331413</ee><url>https://dblp.org/rec/conf/sigir/Liu19</url></info>
+<url>URL#1948471</url>
+</hit>
+<hit score="1" id="1948472">
+<info><authors><author pid="51/10219">Binsheng Liu</author></authors><title>From Query Variations To Learned Relevance Modeling.</title><venue>SIGIR</venue><pages>1450</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Liu19a</key><doi>10.1145/3331184.3331418</doi><ee>https://doi.org/10.1145/3331184.3331418</ee><url>https://dblp.org/rec/conf/sigir/Liu19a</url></info>
+<url>URL#1948472</url>
+</hit>
+<hit score="1" id="1948473">
+<info><authors><author pid="65/6164">Chenghao Liu</author><author pid="03/5189">Tao Lu</author><author pid="10/5630-19">Xin Wang 0019</author><author pid="07/8503-1">Zhiyong Cheng 0001</author><author pid="53/3693">Jianling Sun</author><author pid="h/StevenCHHoi">Steven C. H. Hoi</author></authors><title>Compositional Coding for Collaborative Filtering.</title><venue>SIGIR</venue><pages>145-154</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiuLWCSH19</key><doi>10.1145/3331184.3331206</doi><ee>https://doi.org/10.1145/3331184.3331206</ee><url>https://dblp.org/rec/conf/sigir/LiuLWCSH19</url></info>
+<url>URL#1948473</url>
+</hit>
+<hit score="1" id="1948474">
+<info><authors><author pid="83/6946">Hongtao Liu</author><author pid="136/7955">Fangzhao Wu</author><author pid="21/5941-2">Wenjun Wang 0002</author><author pid="218/1944">Xianchen Wang</author><author pid="163/2737">Pengfei Jiao</author><author pid="212/1864">Chuhan Wu</author><author pid="08/6809-1">Xing Xie 0001</author></authors><title>NRPA: Neural Recommendation with Personalized Attention.</title><venue>SIGIR</venue><pages>1233-1236</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LiuW0WJWX19</key><doi>10.1145/3331184.3331371</doi><ee>https://doi.org/10.1145/3331184.3331371</ee><url>https://dblp.org/rec/conf/sigir/LiuW0WJWX19</url></info>
+<url>URL#1948474</url>
+</hit>
+<hit score="1" id="1948476">
+<info><authors><author pid="53/6317">Xu Lu</author><author pid="99/549-2">Lei Zhu 0002</author><author pid="07/8503-1">Zhiyong Cheng 0001</author><author pid="92/8277">Liqiang Nie</author><author pid="13/6826-1">Huaxiang Zhang 0001</author></authors><title>Online Multi-modal Hashing with Dynamic Query-adaption.</title><venue>SIGIR</venue><pages>715-724</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Lu0CNZ19</key><doi>10.1145/3331184.3331217</doi><ee>https://doi.org/10.1145/3331184.3331217</ee><url>https://dblp.org/rec/conf/sigir/Lu0CNZ19</url></info>
+<url>URL#1948476</url>
+</hit>
+<hit score="1" id="1948477">
+<info><authors><author pid="245/1806">Shuqi Lu</author><author pid="18/5740">Zhicheng Dou</author><author pid="90/514-1">Jun Xu 0001</author><author pid="n/JianYunNie">Jian-Yun Nie</author><author pid="w/JRWen">Ji-Rong Wen</author></authors><title>PSGAN: A Minimax Game for Personalized Search with Limited and Noisy Click Data.</title><venue>SIGIR</venue><pages>555-564</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LuDJNW19</key><doi>10.1145/3331184.3331218</doi><ee>https://doi.org/10.1145/3331184.3331218</ee><url>https://dblp.org/rec/conf/sigir/LuDJNW19</url></info>
+<url>URL#1948477</url>
+</hit>
+<hit score="1" id="1948478">
+<info><authors><author pid="139/0824-2">Xiaolu Lu 0002</author><author pid="61/11469">Soumajit Pramanik</author><author pid="96/7128">Rishiraj Saha Roy</author><author pid="162/9092">Abdalghani Abujabal</author><author pid="68/6229">Yafang Wang</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>Answering Complex Questions by Joining Multi-Document Evidence with Quasi Knowledge Graphs.</title><venue>SIGIR</venue><pages>105-114</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LuPRAWW19</key><doi>10.1145/3331184.3331252</doi><ee>https://doi.org/10.1145/3331184.3331252</ee><url>https://dblp.org/rec/conf/sigir/LuPRAWW19</url></info>
+<url>URL#1948478</url>
+</hit>
+<hit score="1" id="1948479">
+<info><authors><author pid="44/4328">Hongyu Lu</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="169/1390">Weizhi Ma</author><author pid="59/2300">Ce Wang</author><author pid="269/4486">Feng Xia 0006</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="218/7323">Leyu Lin</author><author pid="40/1949">Shaoping Ma</author></authors><title>Effects of User Negative Experience in Mobile News Streaming.</title><venue>SIGIR</venue><pages>705-714</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LuZMWxLLM19</key><doi>10.1145/3331184.3331247</doi><ee>https://doi.org/10.1145/3331184.3331247</ee><url>https://dblp.org/rec/conf/sigir/LuZMWxLLM19</url></info>
+<url>URL#1948479</url>
+</hit>
+<hit score="1" id="1948480">
+<info><authors><author pid="l/ClaudioLucchese">Claudio Lucchese</author><author pid="56/1965">Franco Maria Nardini</author><author pid="125/3197">Rama Kumar Pasumarthi</author><author pid="62/4319-1">Sebastian Bruch</author><author pid="80/4305">Michael Bendersky</author><author pid="67/2661">Xuanhui Wang</author><author pid="166/3041">Harrie Oosterhuis</author><author pid="144/7357">Rolf Jagerman</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>Learning to Rank in Theory and Practice: From Gradient Boosting to Neural Networks and Unbiased Learning.</title><venue>SIGIR</venue><pages>1419-1420</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LuccheseNPBBWOJ19</key><doi>10.1145/3331184.3334824</doi><ee>https://doi.org/10.1145/3331184.3334824</ee><url>https://dblp.org/rec/conf/sigir/LuccheseNPBBWOJ19</url></info>
+<url>URL#1948480</url>
+</hit>
+<hit score="1" id="1948481">
+<info><authors><author pid="245/1859">Christina Lui</author><author pid="b/SSBhowmick">Sourav S. Bhowmick</author><author pid="j/AdamJatowt">Adam Jatowt</author></authors><title>KANDINSKY: Abstract Art-Inspired Visualization of Social Discussions.</title><venue>SIGIR</venue><pages>1345-1348</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LuiBJ19</key><doi>10.1145/3331184.3331411</doi><ee>https://doi.org/10.1145/3331184.3331411</ee><url>https://dblp.org/rec/conf/sigir/LuiBJ19</url></info>
+<url>URL#1948481</url>
+</hit>
+<hit score="1" id="1948482">
+<info><authors><author pid="22/6000">Mihai Lupu</author><author pid="183/0073">Alexandros Bampoulidis</author><author pid="245/1841">Luca Papariello</author></authors><title>A Horizontal Patent Test Collection.</title><venue>SIGIR</venue><pages>1213-1216</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/LupuBP19</key><doi>10.1145/3331184.3331346</doi><ee>https://doi.org/10.1145/3331184.3331346</ee><url>https://dblp.org/rec/conf/sigir/LupuBP19</url></info>
+<url>URL#1948482</url>
+</hit>
+<hit score="1" id="1948483">
+<info><authors><author pid="222/1227">Renfeng Ma</author><author pid="224/5990">Xiangkun Hu</author><author pid="52/323-1">Qi Zhang 0001</author><author pid="05/6735-1">Xuanjing Huang 0001</author><author pid="24/5818">Yu-Gang Jiang</author></authors><title>Hot Topic-Aware Retweet Prediction with Masked Self-attentive Model.</title><venue>SIGIR</venue><pages>525-534</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MaHZHJ19</key><doi>10.1145/3331184.3331236</doi><ee>https://doi.org/10.1145/3331184.3331236</ee><url>https://dblp.org/rec/conf/sigir/MaHZHJ19</url></info>
+<url>URL#1948483</url>
+</hit>
+<hit score="1" id="1948484">
+<info><authors><author pid="245/1800">Muyang Ma</author><author pid="168/4596">Pengjie Ren</author><author pid="126/0783">Yujie Lin</author><author pid="88/1081">Zhumin Chen</author><author pid="91/4845-1">Jun Ma 0001</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>π-Net: A Parallel Information-sharing Network for Shared-account Cross-domain Sequential Recommendations.</title><venue>SIGIR</venue><pages>685-694</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MaRLCMR19</key><doi>10.1145/3331184.3331200</doi><ee>https://doi.org/10.1145/3331184.3331200</ee><url>https://dblp.org/rec/conf/sigir/MaRLCMR19</url></info>
+<url>URL#1948484</url>
+</hit>
+<hit score="1" id="1948486">
+<info><authors><author pid="m/YoelleSMaarek">Yoelle Maarek</author></authors><title>Alexa, Can You Help Me Shop?</title><venue>SIGIR</venue><pages>1369-1370</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Maarek19</key><doi>10.1145/3331184.3331443</doi><ee>https://doi.org/10.1145/3331184.3331443</ee><url>https://dblp.org/rec/conf/sigir/Maarek19</url></info>
+<url>URL#1948486</url>
+</hit>
+<hit score="1" id="1948487">
+<info><authors><author pid="203/8759">Sean MacAvaney</author><author pid="241/6035">Sajad Sotudeh</author><author pid="160/1727">Arman Cohan</author><author pid="46/4886">Nazli Goharian</author><author pid="241/5984">Ish A. Talati</author><author pid="35/10452">Ross W. Filice</author></authors><title>Ontology-Aware Clinical Abstractive Summarization.</title><venue>SIGIR</venue><pages>1013-1016</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MacAvaneySCGTF19</key><doi>10.1145/3331184.3331319</doi><ee>https://doi.org/10.1145/3331184.3331319</ee><url>https://dblp.org/rec/conf/sigir/MacAvaneySCGTF19</url></info>
+<url>URL#1948487</url>
+</hit>
+<hit score="1" id="1948488">
+<info><authors><author pid="203/8759">Sean MacAvaney</author><author pid="49/7109">Andrew Yates</author><author pid="160/1727">Arman Cohan</author><author pid="46/4886">Nazli Goharian</author></authors><title>CEDR: Contextualized Embeddings for Document Ranking.</title><venue>SIGIR</venue><pages>1101-1104</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MacAvaneyYCG19</key><doi>10.1145/3331184.3331317</doi><ee>https://doi.org/10.1145/3331184.3331317</ee><url>https://dblp.org/rec/conf/sigir/MacAvaneyYCG19</url></info>
+<url>URL#1948488</url>
+</hit>
+<hit score="1" id="1948489">
+<info><authors><author pid="203/8759">Sean MacAvaney</author><author pid="49/7109">Andrew Yates</author><author pid="37/10077">Kai Hui 0001</author><author pid="f/OphirFrieder">Ophir Frieder</author></authors><title>Content-Based Weak Supervision for Ad-Hoc Re-Ranking.</title><venue>SIGIR</venue><pages>993-996</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MacAvaneyYHF19</key><doi>10.1145/3331184.3331316</doi><ee>https://doi.org/10.1145/3331184.3331316</ee><url>https://dblp.org/rec/conf/sigir/MacAvaneyYHF19</url></info>
+<url>URL#1948489</url>
+</hit>
+<hit score="1" id="1948490">
+<info><authors><author pid="57/3187">Stuart Mackie</author><author pid="245/1855">David Macdonald</author><author pid="29/4018">Leif Azzopardi</author><author pid="87/6501">Yashar Moshfeghi</author></authors><title>Looking for Opportunities: Challenges in Procurement Search.</title><venue>SIGIR</venue><pages>1397-1398</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MackieMAM19</key><doi>10.1145/3331184.3331428</doi><ee>https://doi.org/10.1145/3331184.3331428</ee><url>https://dblp.org/rec/conf/sigir/MackieMAM19</url></info>
+<url>URL#1948490</url>
+</hit>
+<hit score="1" id="1948491">
+<info><authors><author pid="216/7323">Subhadeep Maji</author><author pid="142/6579">Rohan Kumar</author><author pid="39/1025">Manish Bansal</author><author pid="245/1831">Kalyani Roy</author><author pid="14/1342-8">Mohit Kumar 0008</author><author pid="77/2307-2">Pawan Goyal 0002</author></authors><title>Addressing Vocabulary Gap in E-commerce Search.</title><venue>SIGIR</venue><pages>1073-1076</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MajiKBRKG19</key><doi>10.1145/3331184.3331323</doi><ee>https://doi.org/10.1145/3331184.3331323</ee><url>https://dblp.org/rec/conf/sigir/MajiKBRKG19</url></info>
+<url>URL#1948491</url>
+</hit>
+<hit score="1" id="1948494">
+<info><authors><author pid="188/7008">Pranav Maneriker</author><author pid="202/3156">Nikhita Vedula</author><author pid="174/9140">Hussein S. Al-Olimat</author><author pid="130/7893">Jiayong Liang</author><author pid="245/1820">Omar El-Khoury</author><author pid="11/7608">Ethan J. Kubatko</author><author pid="28/3513">Desheng Liu</author><author pid="t/KThirunarayan">Krishnaprasad Thirunarayan</author><author pid="26/6109">Valerie L. Shalin</author><author pid="s/AmitPSheth">Amit P. Sheth</author><author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author></authors><title>A Pipeline for Disaster Response and Relief Coordination.</title><venue>SIGIR</venue><pages>1337-1340</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ManerikerVALEKL19</key><doi>10.1145/3331184.3331405</doi><ee>https://doi.org/10.1145/3331184.3331405</ee><url>https://dblp.org/rec/conf/sigir/ManerikerVALEKL19</url></info>
+<url>URL#1948494</url>
+</hit>
+<hit score="1" id="1948495">
+<info><authors><author pid="245/1790">Gayle McElvain</author><author pid="245/1832">George Sanchez</author><author pid="42/4035">Seán Matthews</author><author pid="245/1835">Don Teo</author><author pid="72/10825">Filippo Pompili</author><author pid="89/6671">Tonya Custis</author></authors><title>WestSearch Plus: A Non-factoid Question-Answering System for the Legal Domain.</title><venue>SIGIR</venue><pages>1361-1364</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/McElvainSMTPC19</key><doi>10.1145/3331184.3331397</doi><ee>https://doi.org/10.1145/3331184.3331397</ee><url>https://dblp.org/rec/conf/sigir/McElvainSMTPC19</url></info>
+<url>URL#1948495</url>
+</hit>
+<hit score="1" id="1948496">
+<info><authors><author pid="245/1790">Gayle McElvain</author><author pid="245/1832">George Sanchez</author><author pid="245/1835">Don Teo</author><author pid="89/6671">Tonya Custis</author></authors><title>Non-factoid Question Answering in the Legal Domain.</title><venue>SIGIR</venue><pages>1395-1396</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/McElvainSTC19</key><doi>10.1145/3331184.3331431</doi><ee>https://doi.org/10.1145/3331184.3331431</ee><url>https://dblp.org/rec/conf/sigir/McElvainSTC19</url></info>
+<url>URL#1948496</url>
+</hit>
+<hit score="1" id="1948497">
+<info><authors><author pid="245/1798">Nicholas Mendez</author><author pid="245/1844">Kyle De Freitas</author><author pid="190/5207">Inzamam Rahaman</author></authors><title>Demonstrating Requirement Search on a University Degree Search Application.</title><venue>SIGIR</venue><pages>1365-1368</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MendezFR19</key><doi>10.1145/3331184.3331402</doi><ee>https://doi.org/10.1145/3331184.3331402</ee><url>https://dblp.org/rec/conf/sigir/MendezFR19</url></info>
+<url>URL#1948497</url>
+</hit>
+<hit score="1" id="1948498">
+<info><authors><author pid="71/8379">Siyu Mi</author><author pid="36/3589">Jiepu Jiang</author></authors><title>Understanding the Interpretability of Search Result Summaries.</title><venue>SIGIR</venue><pages>989-992</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MiJ19</key><doi>10.1145/3331184.3331306</doi><ee>https://doi.org/10.1145/3331184.3331306</ee><url>https://dblp.org/rec/conf/sigir/MiJ19</url></info>
+<url>URL#1948498</url>
+</hit>
+<hit score="1" id="1948499">
+<info><authors><author pid="169/6326">Matthew Mitsui</author><author pid="04/4087">Chirag Shah</author></authors><title>Bridging Gaps: Predicting User and Task Characteristics from Partial User Information.</title><venue>SIGIR</venue><pages>415-424</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MitsuiS19</key><doi>10.1145/3331184.3331221</doi><ee>https://doi.org/10.1145/3331184.3331221</ee><url>https://dblp.org/rec/conf/sigir/MitsuiS19</url></info>
+<url>URL#1948499</url>
+</hit>
+<hit score="1" id="1948501">
+<info><authors><author pid="64/11155">Alejandro Moreo</author><author pid="s/FabrizioSebastiani">Fabrizio Sebastiani 0001</author></authors><title>Learning to Quantify: Estimating Class Prevalence via Supervised Learning.</title><venue>SIGIR</venue><pages>1415-1416</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Moreo019</key><doi>10.1145/3331184.3331389</doi><ee>https://doi.org/10.1145/3331184.3331389</ee><url>https://dblp.org/rec/conf/sigir/Moreo019</url></info>
+<url>URL#1948501</url>
+</hit>
+<hit score="1" id="1948503">
+<info><authors><author pid="163/3518">Arpan Mukherjee</author><author pid="245/1793">Shubhi Tiwari</author><author pid="218/0339">Tanya Chowdhury</author><author pid="65/2136-2">Tanmoy Chakraborty 0002</author></authors><title>Automatic Curation of Content Tables for Educational Videos.</title><venue>SIGIR</venue><pages>1329-1332</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/MukherjeeTC019</key><doi>10.1145/3331184.3331400</doi><ee>https://doi.org/10.1145/3331184.3331400</ee><url>https://dblp.org/rec/conf/sigir/MukherjeeTC019</url></info>
+<url>URL#1948503</url>
+</hit>
+<hit score="1" id="1948504">
+<info><authors><author pid="56/1965">Franco Maria Nardini</author><author pid="155/5063">Roberto Trani</author><author pid="44/5068">Rossano Venturini</author></authors><title>Fast Approximate Filtering of Search Results Sorted by Attribute.</title><venue>SIGIR</venue><pages>815-824</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/NardiniTV19</key><doi>10.1145/3331184.3331227</doi><ee>https://doi.org/10.1145/3331184.3331227</ee><url>https://dblp.org/rec/conf/sigir/NardiniTV19</url></info>
+<url>URL#1948504</url>
+</hit>
+<hit score="1" id="1948505">
+<info><authors><author pid="241/9630">Mohammad Naseri</author><author pid="150/5324">Hamed Zamani</author></authors><title>Analyzing and Predicting News Popularity in an Instant Messaging Service.</title><venue>SIGIR</venue><pages>1053-1056</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/NaseriZ19</key><doi>10.1145/3331184.3331301</doi><ee>https://doi.org/10.1145/3331184.3331301</ee><url>https://dblp.org/rec/conf/sigir/NaseriZ19</url></info>
+<url>URL#1948505</url>
+</hit>
+<hit score="1" id="1948506">
+<info><authors><author pid="30/8614">Vincent Nguyen</author><author pid="85/1259">Sarvnaz Karimi</author><author pid="206/1650">Brian Jin</author></authors><title>An Experimentation Platform for Precision Medicine.</title><venue>SIGIR</venue><pages>1357-1360</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/NguyenKJ19</key><doi>10.1145/3331184.3331396</doi><ee>https://doi.org/10.1145/3331184.3331396</ee><url>https://dblp.org/rec/conf/sigir/NguyenKJ19</url></info>
+<url>URL#1948506</url>
+</hit>
+<hit score="1" id="1948509">
+<info><authors><author pid="56/11270">Alexandra Olteanu</author><author pid="222/1208">Jean Garcia-Gathright</author><author pid="r/MdRijke">Maarten de Rijke</author><author pid="69/7949">Michael D. Ekstrand</author></authors><title>Workshop on Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval (FACTS-IR).</title><venue>SIGIR</venue><pages>1423-1425</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/OlteanuGRE19</key><doi>10.1145/3331184.3331644</doi><ee>https://doi.org/10.1145/3331184.3331644</ee><url>https://dblp.org/rec/conf/sigir/OlteanuGRE19</url></info>
+<url>URL#1948509</url>
+</hit>
+<hit score="1" id="1948510">
+<info><authors><author pid="96/8654">João R. M. Palotti</author><author pid="194/5258">Harrisen Scells</author><author pid="22/6562">Guido Zuccon</author></authors><title>TrecTools: an Open-source Python Library for Information Retrieval Practitioners Involved in TREC-like Campaigns.</title><venue>SIGIR</venue><pages>1325-1328</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/PalottiSZ19</key><doi>10.1145/3331184.3331399</doi><ee>https://doi.org/10.1145/3331184.3331399</ee><url>https://dblp.org/rec/conf/sigir/PalottiSZ19</url></info>
+<url>URL#1948510</url>
+</hit>
+<hit score="1" id="1948511">
+<info><authors><author pid="215/3837">Feiyang Pan</author><author pid="239/8742">Shuokai Li</author><author pid="71/1982-1">Xiang Ao 0001</author><author pid="96/3886">Pingzhong Tang</author><author pid="14/3700-3">Qing He 0003</author></authors><title>Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings.</title><venue>SIGIR</venue><pages>695-704</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/PanLATH19</key><doi>10.1145/3331184.3331268</doi><ee>https://doi.org/10.1145/3331184.3331268</ee><url>https://dblp.org/rec/conf/sigir/PanLATH19</url></info>
+<url>URL#1948511</url>
+</hit>
+<hit score="1" id="1948513">
+<info><authors><author pid="61/10435">Matthias Petri</author><author pid="m/AlistairMoffat">Alistair Moffat</author><author pid="174/0021">Joel M. Mackenzie</author><author pid="03/489">J. Shane Culpepper</author><author pid="55/4410">Daniel Beck</author></authors><title>Accelerated Query Processing Via Similarity Score Prediction.</title><venue>SIGIR</venue><pages>485-494</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/PetriMMCB19</key><doi>10.1145/3331184.3331207</doi><ee>https://doi.org/10.1145/3331184.3331207</ee><url>https://dblp.org/rec/conf/sigir/PetriMMCB19</url></info>
+<url>URL#1948513</url>
+</hit>
+<hit score="1" id="1948519">
+<info><authors><author pid="87/6573">Martin Potthast</author><author pid="245/1834">Lukas Gienapp</author><author pid="245/1775">Florian Euchner</author><author pid="245/1792">Nick Heilenkötter</author><author pid="245/1812">Nico Weidmann</author><author pid="73/9281">Henning Wachsmuth</author><author pid="69/4806-1">Benno Stein 0001</author><author pid="95/1130">Matthias Hagen</author></authors><title>Argument Search: Assessing Argument Relevance.</title><venue>SIGIR</venue><pages>1117-1120</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/PotthastGEHWWSH19</key><doi>10.1145/3331184.3331327</doi><ee>https://doi.org/10.1145/3331184.3331327</ee><url>https://dblp.org/rec/conf/sigir/PotthastGEHWWSH19</url></info>
+<url>URL#1948519</url>
+</hit>
+<hit score="1" id="1948520">
+<info><authors><author pid="p/1">Pavel Procházka</author><author pid="245/1827">Matej Kocián</author><author pid="245/1824">Jakub Drdák</author><author pid="245/1809">Jan Vrsovský</author><author pid="63/4938">Vladimír Kadlec</author><author pid="118/9541">Jaroslav Kuchar</author></authors><title>Vertical Search Blending: A Real-world Counterfactual Dataset.</title><venue>SIGIR</venue><pages>1237-1240</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ProchazkaKDVKK19</key><doi>10.1145/3331184.3331345</doi><ee>https://doi.org/10.1145/3331184.3331345</ee><url>https://dblp.org/rec/conf/sigir/ProchazkaKDVKK19</url></info>
+<url>URL#1948520</url>
+</hit>
+<hit score="1" id="1948521">
+<info><authors><author pid="148/7268-1">Chen Qu 0001</author><author pid="27/3367-5">Liu Yang 0005</author><author pid="132/3541">Minghui Qiu</author><author pid="c/WBruceCroft">W. Bruce Croft</author><author pid="82/7829">Yongfeng Zhang</author><author pid="148/9178">Mohit Iyyer</author></authors><title>BERT with History Answer Embedding for Conversational Question Answering.</title><venue>SIGIR</venue><pages>1133-1136</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Qu0QCZI19</key><doi>10.1145/3331184.3331341</doi><ee>https://doi.org/10.1145/3331184.3331341</ee><url>https://dblp.org/rec/conf/sigir/Qu0QCZI19</url></info>
+<url>URL#1948521</url>
+</hit>
+<hit score="1" id="1948523">
+<info><authors><author pid="136/2626">Mauricio Quezada</author><author pid="83/6509">Barbara Poblete</author></authors><title>A Lightweight Representation of News Events on Social Media.</title><venue>SIGIR</venue><pages>1049-1052</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/QuezadaP19</key><doi>10.1145/3331184.3331300</doi><ee>https://doi.org/10.1145/3331184.3331300</ee><url>https://dblp.org/rec/conf/sigir/QuezadaP19</url></info>
+<url>URL#1948523</url>
+</hit>
+<hit score="1" id="1948524">
+<info><authors><author pid="46/7258">Dimitrios Rafailidis</author><author pid="c/FabioCrestani">Fabio Crestani</author></authors><title>Adversarial Training for Review-Based Recommendations.</title><venue>SIGIR</venue><pages>1057-1060</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RafailidisC19</key><doi>10.1145/3331184.3331313</doi><ee>https://doi.org/10.1145/3331184.3331313</ee><url>https://dblp.org/rec/conf/sigir/RafailidisC19</url></info>
+<url>URL#1948524</url>
+</hit>
+<hit score="1" id="1948525">
+<info><authors><author pid="240/8662">Shahin Rahbariasl</author><author pid="07/801">Mark D. Smucker</author></authors><title>Time-Limits and Summaries for Faster Relevance Assessing.</title><venue>SIGIR</venue><pages>901-904</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RahbariaslS19</key><doi>10.1145/3331184.3331270</doi><ee>https://doi.org/10.1145/3331184.3331270</ee><url>https://dblp.org/rec/conf/sigir/RahbariaslS19</url></info>
+<url>URL#1948525</url>
+</hit>
+<hit score="1" id="1948526">
+<info><authors><author pid="40/4155">Lakshmi Ramachandran</author><author pid="02/744">Uma Murthy</author></authors><title>Ghosting: Contextualized Query Auto-Completion on Amazon Search.</title><venue>SIGIR</venue><pages>1377-1378</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RamachandranM19</key><doi>10.1145/3331184.3331432</doi><ee>https://doi.org/10.1145/3331184.3331432</ee><url>https://dblp.org/rec/conf/sigir/RamachandranM19</url></info>
+<url>URL#1948526</url>
+</hit>
+<hit score="1" id="1948527">
+<info><authors><author pid="11/1520">Abhinav Rastogi</author><author pid="95/8320">Alexandros Papangelis</author><author pid="164/1120">Rahul Goel</author><author pid="173/9070">Chandra Khatri</author></authors><title>WCIS 2019: 1st Workshop on Conversational Interaction Systems.</title><venue>SIGIR</venue><pages>1435-1437</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RastogiPGK19</key><doi>10.1145/3331184.3331648</doi><ee>https://doi.org/10.1145/3331184.3331648</ee><url>https://dblp.org/rec/conf/sigir/RastogiPGK19</url></info>
+<url>URL#1948527</url>
+</hit>
+<hit score="1" id="1948528">
+<info><authors><author pid="28/7458">Kan Ren</author><author pid="227/2898">Jiarui Qin</author><author pid="189/3599">Yuchen Fang</author><author pid="28/10261-1">Weinan Zhang 0001</author><author pid="86/5344">Lei Zheng</author><author pid="205/2948">Weijie Bian</author><author pid="172/0837">Guorui Zhou</author><author pid="73/1149-15">Jian Xu 0015</author><author pid="43/5685-1">Yong Yu 0001</author><author pid="118/5116">Xiaoqiang Zhu</author><author pid="59/2902">Kun Gai</author></authors><title>Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction.</title><venue>SIGIR</venue><pages>565-574</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RenQF0ZBZXYZG19</key><doi>10.1145/3331184.3331230</doi><ee>https://doi.org/10.1145/3331184.3331230</ee><url>https://dblp.org/rec/conf/sigir/RenQF0ZBZXYZG19</url></info>
+<url>URL#1948528</url>
+</hit>
+<hit score="1" id="1948529">
+<info><authors><author pid="122/5812">Adam Roegiest</author><author pid="99/4565">Edward Lee</author></authors><title>On Tradeoffs Between Document Signature Methods for a Legal Due Diligence Corpus.</title><venue>SIGIR</venue><pages>1001-1004</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RoegiestL19</key><doi>10.1145/3331184.3331311</doi><ee>https://doi.org/10.1145/3331184.3331311</ee><url>https://dblp.org/rec/conf/sigir/RoegiestL19</url></info>
+<url>URL#1948529</url>
+</hit>
+<hit score="1" id="1948530">
+<info><authors><author pid="94/4396">Haggai Roitman</author></authors><title>Normalized Query Commitment Revisited.</title><venue>SIGIR</venue><pages>1085-1088</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Roitman19</key><doi>10.1145/3331184.3331334</doi><ee>https://doi.org/10.1145/3331184.3331334</ee><url>https://dblp.org/rec/conf/sigir/Roitman19</url></info>
+<url>URL#1948530</url>
+</hit>
+<hit score="1" id="1948531">
+<info><authors><author pid="94/4396">Haggai Roitman</author><author pid="10/6232">Oren Kurland</author></authors><title>Query Performance Prediction for Pseudo-Feedback-Based Retrieval.</title><venue>SIGIR</venue><pages>1261-1264</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RoitmanK19</key><doi>10.1145/3331184.3331369</doi><ee>https://doi.org/10.1145/3331184.3331369</ee><url>https://dblp.org/rec/conf/sigir/RoitmanK19</url></info>
+<url>URL#1948531</url>
+</hit>
+<hit score="1" id="1948532">
+<info><authors><author pid="218/5665">Corby Rosset</author><author pid="147/9120-1">Bhaskar Mitra 0001</author><author pid="18/10886">Chenyan Xiong</author><author pid="c/NickCraswell">Nick Craswell</author><author pid="165/6299">Xia Song</author><author pid="166/1601">Saurabh Tiwary</author></authors><title>An Axiomatic Approach to Regularizing Neural Ranking Models.</title><venue>SIGIR</venue><pages>981-984</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RossetMXCST19</key><doi>10.1145/3331184.3331296</doi><ee>https://doi.org/10.1145/3331184.3331296</ee><url>https://dblp.org/rec/conf/sigir/RossetMXCST19</url></info>
+<url>URL#1948532</url>
+</hit>
+<hit score="1" id="1948533">
+<info><authors><author pid="151/2098">Dwaipayan Roy</author><author pid="52/7536">Sumit Bhatia</author><author pid="85/2002">Mandar Mitra</author></authors><title>Selecting Discriminative Terms for Relevance Model.</title><venue>SIGIR</venue><pages>1253-1256</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/RoyBM19</key><doi>10.1145/3331184.3331357</doi><ee>https://doi.org/10.1145/3331184.3331357</ee><url>https://dblp.org/rec/conf/sigir/RoyBM19</url></info>
+<url>URL#1948533</url>
+</hit>
+<hit score="1" id="1948534">
+<info><authors><author pid="70/10055">Tony Russell-Rose</author><author pid="76/7444">Jon Chamberlain</author></authors><title>An Open-Access Platform for Transparent and Reproducible Structured Searching.</title><venue>SIGIR</venue><pages>1293-1296</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Russell-RoseC19</key><doi>10.1145/3331184.3331394</doi><ee>https://doi.org/10.1145/3331184.3331394</ee><url>https://dblp.org/rec/conf/sigir/Russell-RoseC19</url></info>
+<url>URL#1948534</url>
+</hit>
+<hit score="1" id="1948535">
+<info><authors><author pid="18/6321">Tetsuya Sakai</author><author pid="211/0944">Zhaohao Zeng</author></authors><title>Which Diversity Evaluation Measures Are &quot;Good&quot;?</title><venue>SIGIR</venue><pages>595-604</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/SakaiZ19</key><doi>10.1145/3331184.3331215</doi><ee>https://doi.org/10.1145/3331184.3331215</ee><url>https://dblp.org/rec/conf/sigir/SakaiZ19</url></info>
+<url>URL#1948535</url>
+</hit>
+<hit score="1" id="1948536">
+<info><authors><author pid="241/5250">Wataru Sakata</author><author pid="17/3630">Tomohide Shibata</author><author pid="153/5529">Ribeka Tanaka</author><author pid="42/2149">Sadao Kurohashi</author></authors><title>FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance.</title><venue>SIGIR</venue><pages>1113-1116</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/SakataSTK19</key><doi>10.1145/3331184.3331326</doi><ee>https://doi.org/10.1145/3331184.3331326</ee><url>https://dblp.org/rec/conf/sigir/SakataSTK19</url></info>
+<url>URL#1948536</url>
+</hit>
+<hit score="1" id="1948537">
+<info><authors><author pid="164/7344">Rashmi Sankepally</author></authors><title>Event Information Retrieval from Text.</title><venue>SIGIR</venue><pages>1447</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Sankepally19</key><doi>10.1145/3331184.3331415</doi><ee>https://doi.org/10.1145/3331184.3331415</ee><url>https://dblp.org/rec/conf/sigir/Sankepally19</url></info>
+<url>URL#1948537</url>
+</hit>
+<hit score="1" id="1948538">
+<info><authors><author pid="211/1420">Hernan Sarmiento</author></authors><title>A Domain-Independent and Multilingual Approach for Crisis Event Detection and Understanding.</title><venue>SIGIR</venue><pages>1457</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Sarmiento19</key><doi>10.1145/3331184.3331425</doi><ee>https://doi.org/10.1145/3331184.3331425</ee><url>https://dblp.org/rec/conf/sigir/Sarmiento19</url></info>
+<url>URL#1948538</url>
+</hit>
+<hit score="1" id="1948539">
+<info><authors><author pid="143/4477">Mahmoud F. Sayed</author><author pid="o/DouglasWOard">Douglas W. Oard</author></authors><title>Jointly Modeling Relevance and Sensitivity for Search Among Sensitive Content.</title><venue>SIGIR</venue><pages>615-624</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/SayedO19</key><doi>10.1145/3331184.3331256</doi><ee>https://doi.org/10.1145/3331184.3331256</ee><url>https://dblp.org/rec/conf/sigir/SayedO19</url></info>
+<url>URL#1948539</url>
+</hit>
+<hit score="1" id="1948542">
+<info><authors><author pid="s/CordeliaSchmid">Cordelia Schmid</author></authors><title>Automatic Understanding of the Visual World.</title><venue>SIGIR</venue><pages>3-4</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Schmid19</key><doi>10.1145/3331184.3340264</doi><ee>https://doi.org/10.1145/3331184.3340264</ee><url>https://dblp.org/rec/conf/sigir/Schmid19</url></info>
+<url>URL#1948542</url>
+</hit>
+<hit score="1" id="1948543">
+<info><authors><author pid="234/3925">Taihua Shao</author><author pid="71/2935">Fei Cai</author><author pid="15/4365">Honghui Chen</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>Length-adaptive Neural Network for Answer Selection.</title><venue>SIGIR</venue><pages>869-872</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ShaoCCR19</key><doi>10.1145/3331184.3331277</doi><ee>https://doi.org/10.1145/3331184.3331277</ee><url>https://dblp.org/rec/conf/sigir/ShaoCCR19</url></info>
+<url>URL#1948543</url>
+</hit>
+<hit score="1" id="1948544">
+<info><authors><author pid="135/7121">Jinjin Shao</author><author pid="117/9197">Shiyu Ji</author><author pid="67/1120-9">Tao Yang 0009</author></authors><title>Privacy-aware Document Ranking with Neural Signals.</title><venue>SIGIR</venue><pages>305-314</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ShaoJ019</key><doi>10.1145/3331184.3331189</doi><ee>https://doi.org/10.1145/3331184.3331189</ee><url>https://dblp.org/rec/conf/sigir/ShaoJ019</url></info>
+<url>URL#1948544</url>
+</hit>
+<hit score="1" id="1948545">
+<info><authors><author pid="218/0399">Yunqiu Shao</author><author pid="174/8367">Jiaxin Mao</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="40/1949">Shaoping Ma</author></authors><title>Towards Context-Aware Evaluation for Image Search.</title><venue>SIGIR</venue><pages>1209-1212</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ShaoML0M19</key><doi>10.1145/3331184.3331343</doi><ee>https://doi.org/10.1145/3331184.3331343</ee><url>https://dblp.org/rec/conf/sigir/ShaoML0M19</url></info>
+<url>URL#1948545</url>
+</hit>
+<hit score="1" id="1948549">
+<info><authors><author pid="39/2380">Lixin Su</author><author pid="02/146">Jiafeng Guo</author><author pid="188/2160">Yixing Fan</author><author pid="00/6040">Yanyan Lan</author><author pid="44/912">Xueqi Cheng</author></authors><title>Controlling Risk of Web Question Answering.</title><venue>SIGIR</venue><pages>115-124</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/SuGFLC19</key><doi>10.1145/3331184.3331261</doi><ee>https://doi.org/10.1145/3331184.3331261</ee><url>https://dblp.org/rec/conf/sigir/SuGFLC19</url></info>
+<url>URL#1948549</url>
+</hit>
+<hit score="1" id="1948550">
+<info><authors><author pid="42/6896-3">Ting Su 0003</author><author pid="02/2224">Craig Macdonald</author><author pid="21/141">Iadh Ounis</author></authors><title>Ensembles of Recurrent Networks for Classifying the Relationship of Fake News Titles.</title><venue>SIGIR</venue><pages>893-896</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/SuMO19</key><doi>10.1145/3331184.3331305</doi><ee>https://doi.org/10.1145/3331184.3331305</ee><url>https://dblp.org/rec/conf/sigir/SuMO19</url></info>
+<url>URL#1948550</url>
+</hit>
+<hit score="1" id="1948551">
+<info><authors><author pid="245/1779">Changchang Sun</author><author pid="147/9141">Xuemeng Song</author><author pid="183/9198">Fuli Feng</author><author pid="52/8700">Wayne Xin Zhao</author><author pid="55/2270">Hao Zhang</author><author pid="92/8277">Liqiang Nie</author></authors><title>Supervised Hierarchical Cross-Modal Hashing.</title><venue>SIGIR</venue><pages>725-734</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/SunSFZZN19</key><doi>10.1145/3331184.3331229</doi><ee>https://doi.org/10.1145/3331184.3331229</ee><url>https://dblp.org/rec/conf/sigir/SunSFZZN19</url></info>
+<url>URL#1948551</url>
+</hit>
+<hit score="1" id="1948552">
+<info><authors><author pid="211/7692">Zhiqing Sun</author><author pid="181/2667-5">Jian Tang 0005</author><author pid="74/5694-1">Pan Du 0001</author><author pid="161/4814">Zhi-Hong Deng</author><author pid="n/JianYunNie">Jian-Yun Nie</author></authors><title>DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases.</title><venue>SIGIR</venue><pages>755-764</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/SunTDDN19</key><doi>10.1145/3331184.3331219</doi><ee>https://doi.org/10.1145/3331184.3331219</ee><url>https://dblp.org/rec/conf/sigir/SunTDDN19</url></info>
+<url>URL#1948552</url>
+</hit>
+<hit score="1" id="1948554">
+<info><authors><author pid="207/7684">Raphael Tang</author><author pid="02/4537">Ferhan Türe</author><author pid="00/7739">Jimmy Lin</author></authors><title>Yelling at Your TV: An Analysis of Speech Recognition Errors and Subsequent User Behavior on Entertainment Systems.</title><venue>SIGIR</venue><pages>853-856</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TangTL19</key><doi>10.1145/3331184.3331271</doi><ee>https://doi.org/10.1145/3331184.3331271</ee><url>https://dblp.org/rec/conf/sigir/TangTL19</url></info>
+<url>URL#1948554</url>
+</hit>
+<hit score="1" id="1948555">
+<info><authors><author pid="86/5264">Yiyi Tao</author><author pid="218/7475">Yiling Jia</author><author pid="84/864">Nan Wang</author><author pid="05/6545">Hongning Wang</author></authors><title>The FacT: Taming Latent Factor Models for Explainability with Factorization Trees.</title><venue>SIGIR</venue><pages>295-304</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TaoJWW19</key><doi>10.1145/3331184.3331244</doi><ee>https://doi.org/10.1145/3331184.3331244</ee><url>https://dblp.org/rec/conf/sigir/TaoJWW19</url></info>
+<url>URL#1948555</url>
+</hit>
+<hit score="1" id="1948557">
+<info><authors><author pid="245/1813">Charles Thomas 0007</author><author pid="29/7184">Richard McCreadie</author><author pid="21/141">Iadh Ounis</author></authors><title>Event Tracker: A Text Analytics Platform for Use During Disasters.</title><venue>SIGIR</venue><pages>1341-1344</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ThomasMO19</key><doi>10.1145/3331184.3331406</doi><ee>https://doi.org/10.1145/3331184.3331406</ee><url>https://dblp.org/rec/conf/sigir/ThomasMO19</url></info>
+<url>URL#1948557</url>
+</hit>
+<hit score="1" id="1948558">
+<info><authors><author pid="69/8013">Viet-Anh Tran</author><author pid="15/8762">Romain Hennequin</author><author pid="201/7407">Jimena Royo-Letelier</author><author pid="88/8762">Manuel Moussallam</author></authors><title>Improving Collaborative Metric Learning with Efficient Negative Sampling.</title><venue>SIGIR</venue><pages>1201-1204</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TranHRM19</key><doi>10.1145/3331184.3331337</doi><ee>https://doi.org/10.1145/3331184.3331337</ee><url>https://dblp.org/rec/conf/sigir/TranHRM19</url></info>
+<url>URL#1948558</url>
+</hit>
+<hit score="1" id="1948559">
+<info><authors><author pid="160/1121">Brandon Tran</author><author pid="55/1130">Maryam Karimzadehgan</author><author pid="125/3197">Rama Kumar Pasumarthi</author><author pid="80/4305">Michael Bendersky</author><author pid="95/2272">Donald Metzler</author></authors><title>Domain Adaptation for Enterprise Email Search.</title><venue>SIGIR</venue><pages>25-34</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TranKPBM19</key><doi>10.1145/3331184.3331204</doi><ee>https://doi.org/10.1145/3331184.3331204</ee><url>https://dblp.org/rec/conf/sigir/TranKPBM19</url></info>
+<url>URL#1948559</url>
+</hit>
+<hit score="1" id="1948560">
+<info><authors><author pid="242/7881">Lucas Vinh Tran</author><author pid="163/4020">Tuan-Anh Nguyen Pham</author><author pid="188/6350">Yi Tay</author><author pid="155/1107">Yiding Liu</author><author pid="33/3180">Gao Cong</author><author pid="l/XiaoliLi">Xiaoli Li 0001</author></authors><title>Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation.</title><venue>SIGIR</venue><pages>255-264</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TranPTLCL19</key><doi>10.1145/3331184.3331251</doi><ee>https://doi.org/10.1145/3331184.3331251</ee><url>https://dblp.org/rec/conf/sigir/TranPTLCL19</url></info>
+<url>URL#1948560</url>
+</hit>
+<hit score="1" id="1948561">
+<info><authors><author pid="181/2525-5">Thanh Tran 0005</author><author pid="242/9183">Renee Sweeney</author><author pid="22/8024">Kyumin Lee</author></authors><title>Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation.</title><venue>SIGIR</venue><pages>245-254</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TranSL19</key><doi>10.1145/3331184.3331234</doi><ee>https://doi.org/10.1145/3331184.3331234</ee><url>https://dblp.org/rec/conf/sigir/TranSL19</url></info>
+<url>URL#1948561</url>
+</hit>
+<hit score="1" id="1948562">
+<info><authors><author pid="31/8339">Kosetsu Tsukuda</author><author pid="38/7252">Satoru Fukayama</author><author pid="85/1753">Masataka Goto</author></authors><title>ABCPRec: Adaptively Bridging Consumer and Producer Roles for User-Generated Content Recommendation.</title><venue>SIGIR</venue><pages>1197-1200</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TsukudaFG19</key><doi>10.1145/3331184.3331335</doi><ee>https://doi.org/10.1145/3331184.3331335</ee><url>https://dblp.org/rec/conf/sigir/TsukudaFG19</url></info>
+<url>URL#1948562</url>
+</hit>
+<hit score="1" id="1948563">
+<info><authors><author pid="64/6704">Xinhui Tu</author><author pid="h/XiangjiHuang">Jimmy X. Huang</author><author pid="36/349-3">Jing Luo 0003</author><author pid="236/1950">Runjie Zhu</author><author pid="89/4362">Tingting He</author></authors><title>Parrot: A Python-based Interactive Platform for Information Retrieval Research.</title><venue>SIGIR</venue><pages>1289-1292</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TuH0ZH19</key><doi>10.1145/3331184.3331393</doi><ee>https://doi.org/10.1145/3331184.3331393</ee><url>https://dblp.org/rec/conf/sigir/TuH0ZH19</url></info>
+<url>URL#1948563</url>
+</hit>
+<hit score="1" id="1948564">
+<info><authors><author pid="02/4537">Ferhan Türe</author><author pid="134/5708">Jinfeng Rao</author><author pid="207/7684">Raphael Tang</author><author pid="00/7739">Jimmy Lin</author></authors><title>Challenges and Opportunities in Understanding Spoken Queries Directed at Modern Entertainment Platforms.</title><venue>SIGIR</venue><pages>1375-1376</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/TureRTL19</key><doi>10.1145/3331184.3331433</doi><ee>https://doi.org/10.1145/3331184.3331433</ee><url>https://dblp.org/rec/conf/sigir/TureRTL19</url></info>
+<url>URL#1948564</url>
+</hit>
+<hit score="1" id="1948565">
+<info><authors><author pid="76/8700">Julián Urbano</author><author pid="132/5659">Harlley Lima</author><author pid="88/3884">Alan Hanjalic</author></authors><title>Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors.</title><venue>SIGIR</venue><pages>505-514</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/UrbanoLH19</key><doi>10.1145/3331184.3331259</doi><ee>https://doi.org/10.1145/3331184.3331259</ee><url>https://dblp.org/rec/conf/sigir/UrbanoLH19</url></info>
+<url>URL#1948565</url>
+</hit>
+<hit score="1" id="1948566">
+<info><authors><author pid="76/8700">Julián Urbano</author><author pid="132/5659">Harlley Lima</author><author pid="88/3884">Alan Hanjalic</author></authors><title>A New Perspective on Score Standardization.</title><venue>SIGIR</venue><pages>1061-1064</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/UrbanoLH19a</key><doi>10.1145/3331184.3331315</doi><ee>https://doi.org/10.1145/3331184.3331315</ee><url>https://dblp.org/rec/conf/sigir/UrbanoLH19a</url></info>
+<url>URL#1948566</url>
+</hit>
+<hit score="1" id="1948567">
+<info><authors><author pid="176/8145">Emmanuel Vallée</author><author pid="36/3129">Delphine Charlet</author><author pid="169/1151">Gabriel Marzinotto</author><author pid="37/3221">Fabrice Clérot</author><author pid="37/6649">Frank Meyer</author></authors><title>How to Deal with Scarce Annotations in Answer Selection.</title><venue>SIGIR</venue><pages>917-920</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ValleeCMCM19</key><doi>10.1145/3331184.3331291</doi><ee>https://doi.org/10.1145/3331184.3331291</ee><url>https://dblp.org/rec/conf/sigir/ValleeCMCM19</url></info>
+<url>URL#1948567</url>
+</hit>
+<hit score="1" id="1948568">
+<info><authors><author pid="174/2205">Theodore Vasiloudis</author><author pid="171/1451">Hyunsu Cho</author><author pid="39/6674">Henrik Boström</author></authors><title>Block-distributed Gradient Boosted Trees.</title><venue>SIGIR</venue><pages>1025-1028</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/VasiloudisCB19</key><doi>10.1145/3331184.3331331</doi><ee>https://doi.org/10.1145/3331184.3331331</ee><url>https://dblp.org/rec/conf/sigir/VasiloudisCB19</url></info>
+<url>URL#1948568</url>
+</hit>
+<hit score="1" id="1948570">
+<info><authors><author pid="63/9927">Manisha Verma</author><author pid="41/7272">Debasis Ganguly</author></authors><title>LIRME: Locally Interpretable Ranking Model Explanation.</title><venue>SIGIR</venue><pages>1281-1284</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/VermaG19</key><doi>10.1145/3331184.3331377</doi><ee>https://doi.org/10.1145/3331184.3331377</ee><url>https://dblp.org/rec/conf/sigir/VermaG19</url></info>
+<url>URL#1948570</url>
+</hit>
+<hit score="1" id="1948572">
+<info><authors><author pid="167/0323">Nguyen Vo</author><author pid="22/8024">Kyumin Lee</author></authors><title>Learning from Fact-checkers: Analysis and Generation of Fact-checking Language.</title><venue>SIGIR</venue><pages>335-344</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/VoL19</key><doi>10.1145/3331184.3331248</doi><ee>https://doi.org/10.1145/3331184.3331248</ee><url>https://dblp.org/rec/conf/sigir/VoL19</url></info>
+<url>URL#1948572</url>
+</hit>
+<hit score="1" id="1948573">
+<info><authors><author pid="59/10289">Michael Völske</author><author pid="196/0840">Ehsan Fatehifar</author><author pid="69/4806-1">Benno Stein 0001</author><author pid="95/1130">Matthias Hagen</author></authors><title>Query-Task Mapping.</title><venue>SIGIR</venue><pages>969-972</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/VolskeFSH19</key><doi>10.1145/3331184.3331286</doi><ee>https://doi.org/10.1145/3331184.3331286</ee><url>https://dblp.org/rec/conf/sigir/VolskeFSH19</url></info>
+<url>URL#1948573</url>
+</hit>
+<hit score="1" id="1948575">
+<info><authors><author pid="31/2864-10">Xiang Wang 0010</author><author pid="59/1007">Xiangnan He 0001</author><author pid="93/6765-1">Meng Wang 0001</author><author pid="183/9198">Fuli Feng</author><author pid="24/6606">Tat-Seng Chua</author></authors><title>Neural Graph Collaborative Filtering.</title><venue>SIGIR</venue><pages>165-174</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Wang0WFC19</key><doi>10.1145/3331184.3331267</doi><ee>https://doi.org/10.1145/3331184.3331267</ee><url>https://dblp.org/rec/conf/sigir/Wang0WFC19</url></info>
+<url>URL#1948575</url>
+</hit>
+<hit score="1" id="1948576">
+<info><authors><author pid="70/4949">Junyan Wang</author><author pid="21/1048-2">Peng Zhang 0002</author><author pid="82/6384">Cheng Zhang</author><author pid="47/6784-1">Dawei Song 0001</author></authors><title>SCSS-LIE: A Novel Synchronous Collaborative Search System with a Live Interactive Engine.</title><venue>SIGIR</venue><pages>1309-1312</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Wang0Z019</key><doi>10.1145/3331184.3331407</doi><ee>https://doi.org/10.1145/3331184.3331407</ee><url>https://dblp.org/rec/conf/sigir/Wang0Z019</url></info>
+<url>URL#1948576</url>
+</hit>
+<hit score="1" id="1948577">
+<info><authors><author pid="169/1793">Benyou Wang</author></authors><title>Dynamic Content Monitoring and Exploration using Vector Spaces.</title><venue>SIGIR</venue><pages>1444</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Wang19</key><doi>10.1145/3331184.3331412</doi><ee>https://doi.org/10.1145/3331184.3331412</ee><url>https://dblp.org/rec/conf/sigir/Wang19</url></info>
+<url>URL#1948577</url>
+</hit>
+<hit score="1" id="1948578">
+<info><authors><author pid="90/4693">Pengfei Wang</author><author pid="32/6638">Hanxiong Chen</author><author pid="132/3535">Yadong Zhu</author><author pid="98/917">Huawei Shen</author><author pid="82/7829">Yongfeng Zhang</author></authors><title>Unified Collaborative Filtering over Graph Embeddings.</title><venue>SIGIR</venue><pages>155-164</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangCZSZ19</key><doi>10.1145/3331184.3331224</doi><ee>https://doi.org/10.1145/3331184.3331224</ee><url>https://dblp.org/rec/conf/sigir/WangCZSZ19</url></info>
+<url>URL#1948578</url>
+</hit>
+<hit score="1" id="1948579">
+<info><authors><author pid="90/4693-9">Pengfei Wang 0009</author><author pid="08/3627">Yu Fan</author><author pid="07/7831">Shuzi Niu</author><author pid="158/1178-5">Ze Yang 0005</author><author pid="82/7829">Yongfeng Zhang</author><author pid="02/146">Jiafeng Guo</author></authors><title>Hierarchical Matching Network for Crime Classification.</title><venue>SIGIR</venue><pages>325-334</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangFNYZG19</key><doi>10.1145/3331184.3331223</doi><ee>https://doi.org/10.1145/3331184.3331223</ee><url>https://dblp.org/rec/conf/sigir/WangFNYZG19</url></info>
+<url>URL#1948579</url>
+</hit>
+<hit score="1" id="1948581">
+<info><authors><author pid="35/7092-238">Wei Wang 0238</author><author pid="125/5437">Saghar Hosseini</author><author pid="147/9148">Ahmed Hassan Awadallah</author><author pid="33/6188">Paul N. Bennett</author><author pid="63/7183">Chris Quirk</author></authors><title>Context-Aware Intent Identification in Email Conversations.</title><venue>SIGIR</venue><pages>585-594</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangHABQ19</key><doi>10.1145/3331184.3331260</doi><ee>https://doi.org/10.1145/3331184.3331260</ee><url>https://dblp.org/rec/conf/sigir/WangHABQ19</url></info>
+<url>URL#1948581</url>
+</hit>
+<hit score="1" id="1948582">
+<info><authors><author pid="163/2233">Huazheng Wang</author><author pid="220/3974">Sonwoo Kim</author><author pid="220/4184">Eric McCord-Snook</author><author pid="183/0579">Qingyun Wu</author><author pid="05/6545">Hongning Wang</author></authors><title>Variance Reduction in Gradient Exploration for Online Learning to Rank.</title><venue>SIGIR</venue><pages>835-844</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangKMWW19</key><doi>10.1145/3331184.3331264</doi><ee>https://doi.org/10.1145/3331184.3331264</ee><url>https://dblp.org/rec/conf/sigir/WangKMWW19</url></info>
+<url>URL#1948582</url>
+</hit>
+<hit score="1" id="1948583">
+<info><authors><author pid="245/1833">Meirui Wang</author><author pid="168/4596">Pengjie Ren</author><author pid="119/5859">Lei Mei</author><author pid="88/1081">Zhumin Chen</author><author pid="91/4845-1">Jun Ma 0001</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>A Collaborative Session-based Recommendation Approach with Parallel Memory Modules.</title><venue>SIGIR</venue><pages>345-354</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangRMCMR19</key><doi>10.1145/3331184.3331210</doi><ee>https://doi.org/10.1145/3331184.3331210</ee><url>https://dblp.org/rec/conf/sigir/WangRMCMR19</url></info>
+<url>URL#1948583</url>
+</hit>
+<hit score="1" id="1948584">
+<info><authors><author pid="31/6192">Xiaoli Wang</author><author pid="245/1816">Rongzhen Wang</author><author pid="20/3716">Zhifeng Bao</author><author pid="245/1802">Jiayin Liang</author><author pid="98/6613-15">Wei Lu 0015</author></authors><title>Effective Medical Archives Processing Using Knowledge Graphs.</title><venue>SIGIR</venue><pages>1141-1144</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangWBLL19</key><doi>10.1145/3331184.3331350</doi><ee>https://doi.org/10.1145/3331184.3331350</ee><url>https://dblp.org/rec/conf/sigir/WangWBLL19</url></info>
+<url>URL#1948584</url>
+</hit>
+<hit score="1" id="1948585">
+<info><authors><author pid="93/96">Chang Wang</author><author pid="18/3872">Bang Wang</author><author pid="37/1682-5">Wei Xiang 0005</author><author pid="33/2798-1">Minghua Xu 0001</author></authors><title>Encoding Syntactic Dependency and Topical Information for Social Emotion Classification.</title><venue>SIGIR</venue><pages>881-884</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangWXX19</key><doi>10.1145/3331184.3331287</doi><ee>https://doi.org/10.1145/3331184.3331287</ee><url>https://dblp.org/rec/conf/sigir/WangWXX19</url></info>
+<url>URL#1948585</url>
+</hit>
+<hit score="1" id="1948586">
+<info><authors><author pid="57/3195-1">Weiqing Wang 0001</author><author pid="04/10606">Hongzhi Yin</author><author pid="117/5520">Xingzhong Du</author><author pid="68/11145">Wen Hua</author><author pid="35/4145">Yongjun Li</author><author pid="88/302">Quoc Viet Hung Nguyen</author></authors><title>Online User Representation Learning Across Heterogeneous Social Networks.</title><venue>SIGIR</venue><pages>545-554</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangYDHLN19</key><doi>10.1145/3331184.3331258</doi><ee>https://doi.org/10.1145/3331184.3331258</ee><url>https://dblp.org/rec/conf/sigir/WangYDHLN19</url></info>
+<url>URL#1948586</url>
+</hit>
+<hit score="1" id="1948587">
+<info><authors><author pid="183/0924">Bingning Wang</author><author pid="84/8277">Ting Yao</author><author pid="52/323">Qi Zhang</author><author pid="95/8">Jingfang Xu</author><author pid="245/1781">Zhixing Tian</author><author pid="42/4903">Kang Liu 0001</author><author pid="47/2026-1">Jun Zhao 0001</author></authors><title>Document Gated Reader for Open-Domain Question Answering.</title><venue>SIGIR</venue><pages>85-94</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangYZXT0019</key><doi>10.1145/3331184.3331190</doi><ee>https://doi.org/10.1145/3331184.3331190</ee><url>https://dblp.org/rec/conf/sigir/WangYZXT0019</url></info>
+<url>URL#1948587</url>
+</hit>
+<hit score="1" id="1948589">
+<info><authors><author pid="03/4540">Zijian Wang</author><author pid="181/2621-6">Zheng Zhang 0006</author><author pid="182/2414">Yadan Luo</author><author pid="70/6862">Zi Huang</author></authors><title>Deep Collaborative Discrete Hashing with Semantic-Invariant Structure.</title><venue>SIGIR</venue><pages>905-908</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WangZLH19</key><doi>10.1145/3331184.3331275</doi><ee>https://doi.org/10.1145/3331184.3331275</ee><url>https://dblp.org/rec/conf/sigir/WangZLH19</url></info>
+<url>URL#1948589</url>
+</hit>
+<hit score="1" id="1948591">
+<info><authors><author pid="132/1369">Penghui Wei</author><author pid="16/2159">Wenji Mao</author></authors><title>Modeling Transferable Topics for Cross-Target Stance Detection.</title><venue>SIGIR</venue><pages>1173-1176</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WeiM19</key><doi>10.1145/3331184.3331367</doi><ee>https://doi.org/10.1145/3331184.3331367</ee><url>https://dblp.org/rec/conf/sigir/WeiM19</url></info>
+<url>URL#1948591</url>
+</hit>
+<hit score="1" id="1948592">
+<info><authors><author pid="w/RyenWWhite">Ryen W. White</author><author pid="147/9148">Ahmed Hassan Awadallah</author><author pid="47/1233">Robert Sim</author></authors><title>Task Completion Detection: A Study in the Context of Intelligent Systems.</title><venue>SIGIR</venue><pages>405-414</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WhiteAS19</key><doi>10.1145/3331184.3331187</doi><ee>https://doi.org/10.1145/3331184.3331187</ee><url>https://dblp.org/rec/conf/sigir/WhiteAS19</url></info>
+<url>URL#1948592</url>
+</hit>
+<hit score="1" id="1948593">
+<info><authors><author pid="121/4148">Alfan Farizki Wicaksono</author></authors><title>Measuring Job Search Effectiveness.</title><venue>SIGIR</venue><pages>1453</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Wicaksono19</key><doi>10.1145/3331184.3331421</doi><ee>https://doi.org/10.1145/3331184.3331421</ee><url>https://dblp.org/rec/conf/sigir/Wicaksono19</url></info>
+<url>URL#1948593</url>
+</hit>
+<hit score="1" id="1948594">
+<info><authors><author pid="59/8213">Kyle Williams</author><author pid="136/7904">Seyyed Hadi Hashemi</author><author pid="26/1674">Imed Zitouni</author></authors><title>Automatic Task Completion Flows from Web APIs.</title><venue>SIGIR</venue><pages>1009-1012</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WilliamsHZ19</key><doi>10.1145/3331184.3331318</doi><ee>https://doi.org/10.1145/3331184.3331318</ee><url>https://dblp.org/rec/conf/sigir/WilliamsHZ19</url></info>
+<url>URL#1948594</url>
+</hit>
+<hit score="1" id="1948595">
+<info><authors><author pid="213/1759">Marco Wrzalik</author></authors><title>Document Distance Metric Learning in an Interactive Exploration Process.</title><venue>SIGIR</venue><pages>1452</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Wrzalik19</key><doi>10.1145/3331184.3331420</doi><ee>https://doi.org/10.1145/3331184.3331420</ee><url>https://dblp.org/rec/conf/sigir/Wrzalik19</url></info>
+<url>URL#1948595</url>
+</hit>
+<hit score="1" id="1948596">
+<info><authors><author pid="161/0064">Ga Wu</author><author pid="64/8750">Mohamed Reda Bouadjenek</author><author pid="88/3374">Scott Sanner</author></authors><title>One-Class Collaborative Filtering with the Queryable Variational Autoencoder.</title><venue>SIGIR</venue><pages>921-924</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WuBS19</key><doi>10.1145/3331184.3331292</doi><ee>https://doi.org/10.1145/3331184.3331292</ee><url>https://dblp.org/rec/conf/sigir/WuBS19</url></info>
+<url>URL#1948596</url>
+</hit>
+<hit score="1" id="1948597">
+<info><authors><author pid="204/0172">Zhijing Wu 0001</author><author pid="174/8367">Jiaxin Mao</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="40/1949">Shaoping Ma</author></authors><title>Investigating Passage-level Relevance and Its Role in Document-level Relevance Judgment.</title><venue>SIGIR</venue><pages>605-614</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WuML0M19</key><doi>10.1145/3331184.3331233</doi><ee>https://doi.org/10.1145/3331184.3331233</ee><url>https://dblp.org/rec/conf/sigir/WuML0M19</url></info>
+<url>URL#1948597</url>
+</hit>
+<hit score="1" id="1948598">
+<info><authors><author pid="121/4234">Le Wu</author><author pid="222/1261">Peijie Sun</author><author pid="134/3987">Yanjie Fu</author><author pid="59/1501">Richang Hong</author><author pid="134/4020">Xiting Wang</author><author pid="93/6765-1">Meng Wang 0001</author></authors><title>A Neural Influence Diffusion Model for Social Recommendation.</title><venue>SIGIR</venue><pages>235-244</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WuSFHWW19</key><doi>10.1145/3331184.3331214</doi><ee>https://doi.org/10.1145/3331184.3331214</ee><url>https://dblp.org/rec/conf/sigir/WuSFHWW19</url></info>
+<url>URL#1948598</url>
+</hit>
+<hit score="1" id="1948599">
+<info><authors><author pid="161/0064">Ga Wu</author><author pid="22/1815">Maksims Volkovs</author><author pid="230/3594">Chee Loong Soon</author><author pid="88/3374">Scott Sanner</author><author pid="136/1496">Himanshu Rai</author></authors><title>Noise Contrastive Estimation for One-Class Collaborative Filtering.</title><venue>SIGIR</venue><pages>135-144</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WuVSSR19</key><doi>10.1145/3331184.3331201</doi><ee>https://doi.org/10.1145/3331184.3331201</ee><url>https://dblp.org/rec/conf/sigir/WuVSSR19</url></info>
+<url>URL#1948599</url>
+</hit>
+<hit score="1" id="1948600">
+<info><authors><author pid="95/6985-14">Wei Wu 0014</author><author pid="19/2405-1">Rui Yan 0001</author></authors><title>Deep Chit-Chat: Deep Learning for Chatbots.</title><venue>SIGIR</venue><pages>1413-1414</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/WuY19</key><doi>10.1145/3331184.3331388</doi><ee>https://doi.org/10.1145/3331184.3331388</ee><url>https://dblp.org/rec/conf/sigir/WuY19</url></info>
+<url>URL#1948600</url>
+</hit>
+<hit score="1" id="1948602">
+<info><authors><author pid="151/4542">Yikun Xian</author><author pid="146/6971">Zuohui Fu</author><author pid="m/SMuthukrishnan">S. Muthukrishnan 0001</author><author pid="86/1747">Gerard de Melo</author><author pid="82/7829">Yongfeng Zhang</author></authors><title>Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.</title><venue>SIGIR</venue><pages>285-294</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/XianFMMZ19</key><doi>10.1145/3331184.3331203</doi><ee>https://doi.org/10.1145/3331184.3331203</ee><url>https://dblp.org/rec/conf/sigir/XianFMMZ19</url></info>
+<url>URL#1948602</url>
+</hit>
+<hit score="1" id="1948603">
+<info><authors><author pid="73/7820">Long Xiang</author><author pid="43/2474-16">Bo Tang 0016</author><author pid="39/647">Chuan Yang</author></authors><title>Accelerating Exact Inner Product Retrieval by CPU-GPU Systems.</title><venue>SIGIR</venue><pages>1277-1280</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/XiangTY19</key><doi>10.1145/3331184.3331376</doi><ee>https://doi.org/10.1145/3331184.3331376</ee><url>https://dblp.org/rec/conf/sigir/XiangTY19</url></info>
+<url>URL#1948603</url>
+</hit>
+<hit score="1" id="1948605">
+<info><authors><author pid="95/5789">Fei Xiao</author><author pid="78/6727">Zhen Wang</author><author pid="241/9737">Haikuan Huang</author><author pid="51/5022-7">Jun Huang 0007</author><author pid="16/3283">Xi Chen</author><author pid="09/43">Hongbo Deng</author><author pid="132/3541">Minghui Qiu</author><author pid="45/1397">Xiaoli Gong</author></authors><title>AliISA: Creating an Interactive Search Experience in E-commerce Platforms.</title><venue>SIGIR</venue><pages>1305-1308</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/XiaoWHHCDQG19</key><doi>10.1145/3331184.3331409</doi><ee>https://doi.org/10.1145/3331184.3331409</ee><url>https://dblp.org/rec/conf/sigir/XiaoWHHCDQG19</url></info>
+<url>URL#1948605</url>
+</hit>
+<hit score="1" id="1948606">
+<info><authors><author pid="35/1895-3">Xin Xin 0003</author><author pid="59/1007">Xiangnan He 0001</author><author pid="82/7829">Yongfeng Zhang</author><author pid="z/YongdongZhang">Yongdong Zhang 0001</author><author pid="84/5102">Joemon M. Jose</author></authors><title>Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation.</title><venue>SIGIR</venue><pages>125-134</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Xin0ZZJ19</key><doi>10.1145/3331184.3331188</doi><ee>https://doi.org/10.1145/3331184.3331188</ee><url>https://dblp.org/rec/conf/sigir/Xin0ZZJ19</url></info>
+<url>URL#1948606</url>
+</hit>
+<hit score="1" id="1948607">
+<info><authors><author pid="222/1222">Luyan Xu</author><author pid="32/3943-1">Xuan Zhou 0001</author><author pid="130/0365">Ujwal Gadiraju</author></authors><title>Revealing the Role of User Moods in Struggling Search Tasks.</title><venue>SIGIR</venue><pages>1249-1252</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Xu0G19</key><doi>10.1145/3331184.3331353</doi><ee>https://doi.org/10.1145/3331184.3331353</ee><url>https://dblp.org/rec/conf/sigir/Xu0G19</url></info>
+<url>URL#1948607</url>
+</hit>
+<hit score="1" id="1948608">
+<info><authors><author pid="89/2166">Chunlin Xu</author><author pid="38/1761-2">Zhiwei Lin 0002</author><author pid="w/ShengliWu">Shengli Wu 0001</author><author pid="39/721-1">Hui Wang 0001</author></authors><title>Multi-Level Matching Networks for Text Matching.</title><venue>SIGIR</venue><pages>949-952</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/XuLWW19</key><doi>10.1145/3331184.3331276</doi><ee>https://doi.org/10.1145/3331184.3331276</ee><url>https://dblp.org/rec/conf/sigir/XuLWW19</url></info>
+<url>URL#1948608</url>
+</hit>
+<hit score="1" id="1948610">
+<info><authors><author pid="72/4772">Xun Yang</author><author pid="59/1007">Xiangnan He 0001</author><author pid="31/2864-10">Xiang Wang 0010</author><author pid="228/1391">Yunshan Ma</author><author pid="183/9198">Fuli Feng</author><author pid="93/6765-1">Meng Wang 0001</author><author pid="24/6606">Tat-Seng Chua</author></authors><title>Interpretable Fashion Matching with Rich Attributes.</title><venue>SIGIR</venue><pages>775-784</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Yang0WMF0C19</key><doi>10.1145/3331184.3331242</doi><ee>https://doi.org/10.1145/3331184.3331242</ee><url>https://dblp.org/rec/conf/sigir/Yang0WMF0C19</url></info>
+<url>URL#1948610</url>
+</hit>
+<hit score="1" id="1948611">
+<info><authors><author pid="57/3385">Xiao Yang</author><author pid="91/4165">Zhi Guo</author><author pid="198/5483">Zongyao Ding</author></authors><title>Beyond Keyword Targeting: An End-to-End Ad Retrieval Framework for Sponsored Search.</title><venue>SIGIR</venue><pages>1385-1386</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YangGD19</key><doi>10.1145/3331184.3331429</doi><ee>https://doi.org/10.1145/3331184.3331429</ee><url>https://dblp.org/rec/conf/sigir/YangGD19</url></info>
+<url>URL#1948611</url>
+</hit>
+<hit score="1" id="1948612">
+<info><authors><author pid="127/0482">Eugene Yang</author><author pid="l/DavidDLewis">David D. Lewis</author><author pid="f/OphirFrieder">Ophir Frieder</author></authors><title>Text Retrieval Priors for Bayesian Logistic Regression.</title><venue>SIGIR</venue><pages>1045-1048</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YangLF19</key><doi>10.1145/3331184.3331299</doi><ee>https://doi.org/10.1145/3331184.3331299</ee><url>https://dblp.org/rec/conf/sigir/YangLF19</url></info>
+<url>URL#1948612</url>
+</hit>
+<hit score="1" id="1948613">
+<info><authors><author pid="03/1094-17">Wei Yang 0017</author><author pid="160/8097">Kuang Lu</author><author pid="71/9062">Peilin Yang</author><author pid="00/7739">Jimmy Lin</author></authors><title>Critically Examining the &quot;Neural Hype&quot;: Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models.</title><venue>SIGIR</venue><pages>1129-1132</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YangLYL19</key><doi>10.1145/3331184.3331340</doi><ee>https://doi.org/10.1145/3331184.3331340</ee><url>https://dblp.org/rec/conf/sigir/YangLYL19</url></info>
+<url>URL#1948613</url>
+</hit>
+<hit score="1" id="1948614">
+<info><authors><author pid="224/8146">Xuejiao Yang</author><author pid="18/3872">Bang Wang</author></authors><title>Local Matrix Approximation based on Graph Random Walk.</title><venue>SIGIR</venue><pages>1037-1040</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YangW19</key><doi>10.1145/3331184.3331338</doi><ee>https://doi.org/10.1145/3331184.3331338</ee><url>https://dblp.org/rec/conf/sigir/YangW19</url></info>
+<url>URL#1948614</url>
+</hit>
+<hit score="1" id="1948615">
+<info><authors><author pid="204/3583">An-Zi Yen</author><author pid="23/10489">Hen-Hsen Huang</author><author pid="84/3130">Hsin-Hsi Chen</author></authors><title>Personal Knowledge Base Construction from Text-based Lifelogs.</title><venue>SIGIR</venue><pages>185-194</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YenHC19</key><doi>10.1145/3331184.3331209</doi><ee>https://doi.org/10.1145/3331184.3331209</ee><url>https://dblp.org/rec/conf/sigir/YenHC19</url></info>
+<url>URL#1948615</url>
+</hit>
+<hit score="1" id="1948616">
+<info><authors><author pid="222/1251">Puxuan Yu</author><author pid="71/5479">Zhiqi Huang</author><author pid="13/7406">Razieh Rahimi</author><author pid="10/4537">James Allan</author></authors><title>Corpus-based Set Expansion with Lexical Features and Distributed Representations.</title><venue>SIGIR</venue><pages>1153-1156</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YuHRA19</key><doi>10.1145/3331184.3331359</doi><ee>https://doi.org/10.1145/3331184.3331359</ee><url>https://dblp.org/rec/conf/sigir/YuHRA19</url></info>
+<url>URL#1948616</url>
+</hit>
+<hit score="1" id="1948617">
+<info><authors><author pid="19/772">Feng Yuan</author><author pid="56/6651-1">Lina Yao 0001</author><author pid="b/BoualemBenatallah">Boualem Benatallah</author></authors><title>Adversarial Collaborative Neural Network for Robust Recommendation.</title><venue>SIGIR</venue><pages>1065-1068</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YuanYB19</key><doi>10.1145/3331184.3331321</doi><ee>https://doi.org/10.1145/3331184.3331321</ee><url>https://dblp.org/rec/conf/sigir/YuanYB19</url></info>
+<url>URL#1948617</url>
+</hit>
+<hit score="1" id="1948618">
+<info><authors><author pid="72/6305">Seongjun Yun</author><author pid="214/7699">Raehyun Kim</author><author pid="204/2947">Miyoung Ko</author><author pid="k/JaewooKang">Jaewoo Kang</author></authors><title>SAIN: Self-Attentive Integration Network for Recommendation.</title><venue>SIGIR</venue><pages>1205-1208</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/YunKKK19</key><doi>10.1145/3331184.3331342</doi><ee>https://doi.org/10.1145/3331184.3331342</ee><url>https://dblp.org/rec/conf/sigir/YunKKK19</url></info>
+<url>URL#1948618</url>
+</hit>
+<hit score="1" id="1948619">
+<info><authors><author pid="245/1772">Fabio Zampieri</author><author pid="184/4597">Kevin Roitero</author><author pid="03/489">J. Shane Culpepper</author><author pid="10/6232">Oren Kurland</author><author pid="74/4701">Stefano Mizzaro</author></authors><title>On Topic Difficulty in IR Evaluation: The Effect of Systems, Corpora, and System Components.</title><venue>SIGIR</venue><pages>909-912</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZampieriRCKM19</key><doi>10.1145/3331184.3331279</doi><ee>https://doi.org/10.1145/3331184.3331279</ee><url>https://dblp.org/rec/conf/sigir/ZampieriRCKM19</url></info>
+<url>URL#1948619</url>
+</hit>
+<hit score="1" id="1948620">
+<info><authors><author pid="152/9311">Fattane Zarrinkalam</author><author pid="166/4506">Hossein Fani</author><author pid="25/806">Ebrahim Bagheri</author></authors><title>Extracting, Mining and Predicting Users&apos; Interests from Social Networks.</title><venue>SIGIR</venue><pages>1407-1408</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZarrinkalamFB19</key><doi>10.1145/3331184.3331383</doi><ee>https://doi.org/10.1145/3331184.3331383</ee><url>https://dblp.org/rec/conf/sigir/ZarrinkalamFB19</url></info>
+<url>URL#1948620</url>
+</hit>
+<hit score="1" id="1948621">
+<info><authors><author pid="36/5623">Rabih Zbib</author><author pid="77/349">Lingjun Zhao</author><author pid="54/3374">Damianos G. Karakos</author><author pid="34/6415">William Hartmann</author><author pid="136/8673">Jay DeYoung</author><author pid="10/3565">Zhongqiang Huang</author><author pid="82/1160">Zhuolin Jiang</author><author pid="245/1821">Noah Rivkin</author><author pid="03/4043-2">Le Zhang 0002</author><author pid="57/1658">Richard M. Schwartz</author><author pid="26/5183">John Makhoul</author></authors><title>Neural-Network Lexical Translation for Cross-lingual IR from Text and Speech.</title><venue>SIGIR</venue><pages>645-654</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZbibZKHDHJRZSM19</key><doi>10.1145/3331184.3331222</doi><ee>https://doi.org/10.1145/3331184.3331222</ee><url>https://dblp.org/rec/conf/sigir/ZbibZKHDHJRZSM19</url></info>
+<url>URL#1948621</url>
+</hit>
+<hit score="1" id="1948622">
+<info><authors><author pid="245/1783">Oleg Zendel</author><author pid="68/7271">Anna Shtok</author><author pid="62/8700">Fiana Raiber</author><author pid="10/6232">Oren Kurland</author><author pid="03/489">J. Shane Culpepper</author></authors><title>Information Needs, Queries, and Query Performance Prediction.</title><venue>SIGIR</venue><pages>395-404</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZendelSRKC19</key><doi>10.1145/3331184.3331253</doi><ee>https://doi.org/10.1145/3331184.3331253</ee><url>https://dblp.org/rec/conf/sigir/ZendelSRKC19</url></info>
+<url>URL#1948622</url>
+</hit>
+<hit score="1" id="1948625">
+<info><authors><author pid="89/5992">Li Zhang</author><author pid="83/3714-6">Shuo Zhang 0006</author><author pid="85/4125">Krisztian Balog</author></authors><title>Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval.</title><venue>SIGIR</venue><pages>1029-1032</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Zhang0B19</key><doi>10.1145/3331184.3331333</doi><ee>https://doi.org/10.1145/3331184.3331333</ee><url>https://dblp.org/rec/conf/sigir/Zhang0B19</url></info>
+<url>URL#1948625</url>
+</hit>
+<hit score="1" id="1948626">
+<info><authors><author pid="203/8270-1">Ruqing Zhang 0001</author><author pid="02/146">Jiafeng Guo</author><author pid="188/2160">Yixing Fan</author><author pid="00/6040">Yanyan Lan</author><author pid="44/912">Xueqi Cheng</author></authors><title>Outline Generation: Understanding the Inherent Content Structure of Documents.</title><venue>SIGIR</venue><pages>745-754</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhangGFLC19</key><doi>10.1145/3331184.3331208</doi><ee>https://doi.org/10.1145/3331184.3331208</ee><url>https://dblp.org/rec/conf/sigir/ZhangGFLC19</url></info>
+<url>URL#1948626</url>
+</hit>
+<hit score="1" id="1948627">
+<info><authors><author pid="94/4084">Chen Zhang</author><author pid="166/3079">Qiuchi Li</author><author pid="47/6784-1">Dawei Song 0001</author></authors><title>Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.</title><venue>SIGIR</venue><pages>1145-1148</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhangL019</key><doi>10.1145/3331184.3331351</doi><ee>https://doi.org/10.1145/3331184.3331351</ee><url>https://dblp.org/rec/conf/sigir/ZhangL019</url></info>
+<url>URL#1948627</url>
+</hit>
+<hit score="1" id="1948628">
+<info><authors><author pid="92/2293">Zhu Zhang</author><author pid="43/7732">Zhijie Lin</author><author pid="75/7785">Zhou Zhao</author><author pid="242/8026">Zhenxin Xiao</author></authors><title>Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos.</title><venue>SIGIR</venue><pages>655-664</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhangLZX19</key><doi>10.1145/3331184.3331235</doi><ee>https://doi.org/10.1145/3331184.3331235</ee><url>https://dblp.org/rec/conf/sigir/ZhangLZX19</url></info>
+<url>URL#1948628</url>
+</hit>
+<hit score="1" id="1948629">
+<info><authors><author pid="82/7829">Yongfeng Zhang</author><author pid="174/8367">Jiaxin Mao</author><author pid="169/1808">Qingyao Ai</author></authors><title>SIGIR 2019 Tutorial on Explainable Recommendation and Search.</title><venue>SIGIR</venue><pages>1417-1418</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhangMA19</key><doi>10.1145/3331184.3331390</doi><ee>https://doi.org/10.1145/3331184.3331390</ee><url>https://dblp.org/rec/conf/sigir/ZhangMA19</url></info>
+<url>URL#1948629</url>
+</hit>
+<hit score="1" id="1948630">
+<info><authors><author pid="233/2874">Hongfei Zhang</author><author pid="165/6299">Xia Song</author><author pid="18/10886">Chenyan Xiong</author><author pid="218/5665">Corby Rosset</author><author pid="33/6188">Paul N. Bennett</author><author pid="c/NickCraswell">Nick Craswell</author><author pid="166/1601">Saurabh Tiwary</author></authors><title>Generic Intent Representation in Web Search.</title><venue>SIGIR</venue><pages>65-74</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhangSXRBCT19</key><doi>10.1145/3331184.3331198</doi><ee>https://doi.org/10.1145/3331184.3331198</ee><url>https://dblp.org/rec/conf/sigir/ZhangSXRBCT19</url></info>
+<url>URL#1948630</url>
+</hit>
+<hit score="1" id="1948631">
+<info><authors><author pid="23/8208">Jiayi Zhang</author><author pid="194/2515">Chongyang Tao</author><author pid="199/3992">Zhenjing Xu</author><author pid="224/5533">Qiaojing Xie</author><author pid="181/2832">Wei Chen</author><author pid="19/2405-1">Rui Yan 0001</author></authors><title>EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation.</title><venue>SIGIR</venue><pages>435-444</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhangTXXCY19</key><doi>10.1145/3331184.3331193</doi><ee>https://doi.org/10.1145/3331184.3331193</ee><url>https://dblp.org/rec/conf/sigir/ZhangTXXCY19</url></info>
+<url>URL#1948631</url>
+</hit>
+<hit score="1" id="1948633">
+<info><authors><author pid="82/7829">Yongfeng Zhang</author><author pid="64/6544-1">Yi Zhang 0001</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="04/4087">Chirag Shah</author></authors><title>EARS 2019: The 2nd International Workshop on ExplainAble Recommendation and Search.</title><venue>SIGIR</venue><pages>1438-1440</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhangZ0S19</key><doi>10.1145/3331184.3331649</doi><ee>https://doi.org/10.1145/3331184.3331649</ee><url>https://dblp.org/rec/conf/sigir/ZhangZ0S19</url></info>
+<url>URL#1948633</url>
+</hit>
+<hit score="1" id="1948634">
+<info><authors><author pid="98/3487-3">He Zhao 0003</author><author pid="82/11518">Zhunchen Luo</author><author pid="11/4926">Chong Feng</author><author pid="122/3873">Yuming Ye</author></authors><title>A Context-based Framework for Resource Citation Classification in Scientific Literatures.</title><venue>SIGIR</venue><pages>1041-1044</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhaoLFY19</key><doi>10.1145/3331184.3331348</doi><ee>https://doi.org/10.1145/3331184.3331348</ee><url>https://dblp.org/rec/conf/sigir/ZhaoLFY19</url></info>
+<url>URL#1948634</url>
+</hit>
+<hit score="1" id="1948635">
+<info><authors><author pid="86/5344-1">Lei Zheng 0001</author><author pid="165/2097">Ziwei Fan</author><author pid="96/9436">Chun-Ta Lu</author><author pid="10/239-1">Jiawei Zhang 0001</author><author pid="y/PhilipSYu">Philip S. Yu</author></authors><title>Gated Spectral Units: Modeling Co-evolving Patterns for Sequential Recommendation.</title><venue>SIGIR</venue><pages>1077-1080</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhengFLZY19</key><doi>10.1145/3331184.3331329</doi><ee>https://doi.org/10.1145/3331184.3331329</ee><url>https://dblp.org/rec/conf/sigir/ZhengFLZY19</url></info>
+<url>URL#1948635</url>
+</hit>
+<hit score="1" id="1948636">
+<info><authors><author pid="86/5344-1">Lei Zheng 0001</author><author pid="169/7349">Chaozhuo Li</author><author pid="96/9436">Chun-Ta Lu</author><author pid="10/239-1">Jiawei Zhang 0001</author><author pid="y/PhilipSYu">Philip S. Yu</author></authors><title>Deep Distribution Network: Addressing the Data Sparsity Issue for Top-N Recommendation.</title><venue>SIGIR</venue><pages>1081-1084</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhengLLZY19</key><doi>10.1145/3331184.3331330</doi><ee>https://doi.org/10.1145/3331184.3331330</ee><url>https://dblp.org/rec/conf/sigir/ZhengLLZY19</url></info>
+<url>URL#1948636</url>
+</hit>
+<hit score="1" id="1948637">
+<info><authors><author pid="204/0083">Yukun Zheng</author><author pid="174/8367">Jiaxin Mao</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="239/4433">Zixin Ye</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="40/1949">Shaoping Ma</author></authors><title>Human Behavior Inspired Machine Reading Comprehension.</title><venue>SIGIR</venue><pages>425-434</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhengMLYZM19</key><doi>10.1145/3331184.3331231</doi><ee>https://doi.org/10.1145/3331184.3331231</ee><url>https://dblp.org/rec/conf/sigir/ZhengMLYZM19</url></info>
+<url>URL#1948637</url>
+</hit>
+<hit score="1" id="1948639">
+<info><authors><author pid="05/3403">Xin Zhou</author><author pid="29/5889">Yating Zhang</author><author pid="11/6389">Xiaozhong Liu</author><author pid="212/2092">Changlong Sun</author><author pid="14/1217">Luo Si</author></authors><title>Legal Intelligence for E-commerce: Multi-task Learning by Leveraging Multiview Dispute Representation.</title><venue>SIGIR</venue><pages>315-324</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhouZLSS19</key><doi>10.1145/3331184.3331212</doi><ee>https://doi.org/10.1145/3331184.3331212</ee><url>https://dblp.org/rec/conf/sigir/ZhouZLSS19</url></info>
+<url>URL#1948639</url>
+</hit>
+<hit score="1" id="1948640">
+<info><authors><author pid="224/4375">Zhenlong Zhu</author><author pid="60/4429">Ruixuan Li 0001</author><author pid="245/1815">Minghui Shan</author><author pid="79/5796-3">Yuhua Li 0003</author><author pid="05/3191">Lu Gao</author><author pid="52/3194">Fei Wang</author><author pid="142/9148">Jixing Xu</author><author pid="85/8279">Xiwu Gu</author></authors><title>TDP: Personalized Taxi Demand Prediction Based on Heterogeneous Graph Embedding.</title><venue>SIGIR</venue><pages>1177-1180</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhuLSLGWXG19</key><doi>10.1145/3331184.3331368</doi><ee>https://doi.org/10.1145/3331184.3331368</ee><url>https://dblp.org/rec/conf/sigir/ZhuLSLGWXG19</url></info>
+<url>URL#1948640</url>
+</hit>
+<hit score="1" id="1948641">
+<info><authors><author pid="215/3325">Yaoming Zhu</author><author pid="242/8160">Juncheng Wan</author><author pid="56/321">Zhiming Zhou</author><author pid="218/6794">Liheng Chen</author><author pid="82/4490">Lin Qiu</author><author pid="28/10261-1">Weinan Zhang 0001</author><author pid="42/4142-2">Xin Jiang 0002</author><author pid="43/5685-1">Yong Yu 0001</author></authors><title>Triple-to-Text: Converting RDF Triples into High-Quality Natural Languages via Optimizing an Inverse KL Divergence.</title><venue>SIGIR</venue><pages>455-464</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZhuWZCQ0J019</key><doi>10.1145/3331184.3331232</doi><ee>https://doi.org/10.1145/3331184.3331232</ee><url>https://dblp.org/rec/conf/sigir/ZhuWZCQ0J019</url></info>
+<url>URL#1948641</url>
+</hit>
+<hit score="1" id="1948642">
+<info><authors><author pid="245/1785">Kevin Zielnicki</author></authors><title>Simulacra and Selection: Clothing Set Recommendation at Stitch Fix.</title><venue>SIGIR</venue><pages>1379-1380</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Zielnicki19</key><doi>10.1145/3331184.3331442</doi><ee>https://doi.org/10.1145/3331184.3331442</ee><url>https://dblp.org/rec/conf/sigir/Zielnicki19</url></info>
+<url>URL#1948642</url>
+</hit>
+<hit score="1" id="1948643">
+<info><authors><author pid="219/5449">Steven Zimmerman</author><author pid="237/0578">Alistair Thorpe</author><author pid="13/3902">Chris Fox</author><author pid="07/1751">Udo Kruschwitz</author></authors><title>Investigating the Interplay Between Searchers&apos; Privacy Concerns and Their Search Behavior.</title><venue>SIGIR</venue><pages>953-956</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/ZimmermanTFK19</key><doi>10.1145/3331184.3331280</doi><ee>https://doi.org/10.1145/3331184.3331280</ee><url>https://dblp.org/rec/conf/sigir/ZimmermanTFK19</url></info>
+<url>URL#1948643</url>
+</hit>
+<hit score="1" id="1948644">
+<info><authors><author pid="200/5842">Markus Zlabinger</author></authors><title>Efficient and Effective Text-Annotation through Active Learning.</title><venue>SIGIR</venue><pages>1456</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigir/Zlabinger19</key><doi>10.1145/3331184.3331424</doi><ee>https://doi.org/10.1145/3331184.3331424</ee><url>https://dblp.org/rec/conf/sigir/Zlabinger19</url></info>
+<url>URL#1948644</url>
+</hit>
+<hit score="1" id="1973818">
+<info><authors><author pid="15/2146">Benjamin Piwowarski</author><author pid="c/MaxChevalier">Max Chevalier</author><author pid="76/309">Éric Gaussier</author><author pid="m/YoelleSMaarek">Yoelle Maarek</author><author pid="n/JianYunNie">Jian-Yun Nie</author><author pid="98/1631">Falk Scholer</author></authors><title>Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2019, Paris, France, July 21-25, 2019.</title><venue>SIGIR</venue><publisher>ACM</publisher><year>2019</year><type>Editorship</type><key>conf/sigir/2019</key><doi>10.1145/3331184</doi><ee>https://doi.org/10.1145/3331184</ee><url>https://dblp.org/rec/conf/sigir/2019</url></info>
+<url>URL#1973818</url>
+</hit>
+</hits>
+</result>

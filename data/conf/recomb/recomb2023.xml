@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="60041">:facetid:toc:\"db/conf/recomb/recomb2023.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">171.69</time>
+<completions total="1" computed="1" sent="1">
+<c sc="12" dc="12" oc="12" id="41060939">:facetid:toc:db/conf/recomb/recomb2023.bht</c>
+</completions>
+<hits total="12" computed="12" sent="12" first="0">
+<hit score="1" id="184217">
+<info><authors><author pid="345/7968">Ghanshyam Chandra</author><author pid="25/5723">Chirag Jain</author></authors><title>Sequence to Graph Alignment Using Gap-Sensitive Co-linear Chaining.</title><venue>RECOMB</venue><pages>58-73</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ChandraJ23</key><doi>10.1007/978-3-031-29119-7_4</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_4</ee><url>https://dblp.org/rec/conf/recomb/ChandraJ23</url></info>
+<url>URL#184217</url>
+</hit>
+<hit score="1" id="184218">
+<info><authors><author pid="76/9998">Ziqi Chen</author><author pid="29/7048">Martin Renqiang Min</author><author pid="08/3722">Hongyu Guo</author><author pid="12/1338">Chao Cheng</author><author pid="30/11009">Trevor Clancy</author><author pid="28/1717">Xia Ning</author></authors><title>T-Cell Receptor Optimization with Reinforcement Learning and Mutation Polices for Precision Immunotherapy.</title><venue>RECOMB</venue><pages>174-191</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ChenMGCCN23</key><doi>10.1007/978-3-031-29119-7_11</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_11</ee><url>https://dblp.org/rec/conf/recomb/ChenMGCCN23</url></info>
+<url>URL#184218</url>
+</hit>
+<hit score="1" id="184219">
+<info><authors><author pid="345/8032">Bing-Xue Du</author><author pid="14/5580">Yi Xu</author><author pid="y/SiuMingYiu">Siu-Ming Yiu</author><author pid="26/6190-11">Hui Yu 0011</author><author pid="05/2421">Jian-Yu Shi</author></authors><title>MTGL-ADMET: A Novel Multi-task Graph Learning Framework for ADMET Prediction Enhanced by Status-Theory and Maximum Flow.</title><venue>RECOMB</venue><pages>85-103</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/DuXYYS23</key><doi>10.1007/978-3-031-29119-7_6</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_6</ee><url>https://dblp.org/rec/conf/recomb/DuXYYS23</url></info>
+<url>URL#184219</url>
+</hit>
+<hit score="1" id="184220">
+<info><authors><author pid="225/8953">Jason Fan</author><author pid="309/0843">Jamshed Khan</author><author pid="204/0111">Giulio Ermanno Pibiri</author><author pid="66/8401">Rob Patro</author></authors><title>Spectrum Preserving Tilings Enable Sparse and Modular Reference Indexing.</title><venue>RECOMB</venue><pages>21-40</pages><year>2023</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/FanKPP23</key><doi>10.1007/978-3-031-29119-7_2</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_2</ee><url>https://dblp.org/rec/conf/recomb/FanKPP23</url></info>
+<url>URL#184220</url>
+</hit>
+<hit score="1" id="184221">
+<info><authors><author pid="277/1067">Spencer Krieger</author><author pid="k/JDKececioglu">John D. Kececioglu</author></authors><title>Computing Shortest Hyperpaths for Pathway Inference in Cellular Reaction Networks.</title><venue>RECOMB</venue><pages>155-173</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/KriegerK23</key><doi>10.1007/978-3-031-29119-7_10</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_10</ee><url>https://dblp.org/rec/conf/recomb/KriegerK23</url></info>
+<url>URL#184221</url>
+</hit>
+<hit score="1" id="184222">
+<info><authors><author pid="345/7563">Runpeng Luo</author><author pid="74/2577-1">Yu Lin 0001</author></authors><title>VStrains: De Novo Reconstruction of Viral Strains via Iterative Path Extraction from Assembly Graphs.</title><venue>RECOMB</venue><pages>3-20</pages><year>2023</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/LuoL23</key><doi>10.1007/978-3-031-29119-7_1</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_1</ee><url>https://dblp.org/rec/conf/recomb/LuoL23</url></info>
+<url>URL#184222</url>
+</hit>
+<hit score="1" id="184223">
+<info><authors><author pid="345/8134">Shikha Mallick</author><author pid="90/2736">Sahely Bhadra</author></authors><title>CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks.</title><venue>RECOMB</venue><pages>104-119</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/MallickB23</key><doi>10.1007/978-3-031-29119-7_7</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_7</ee><url>https://dblp.org/rec/conf/recomb/MallickB23</url></info>
+<url>URL#184223</url>
+</hit>
+<hit score="1" id="184224">
+<info><authors><author pid="244/8761">Soufiane Mourragui</author><author pid="85/4677">Marco Loog</author><author pid="319/6489">Mirrelijn M. van Nee</author><author pid="17/6124">Mark A. van de Wiel</author><author pid="66/1184">Marcel J. T. Reinders</author><author pid="15/5717">Lodewyk F. A. Wessels</author></authors><title>Percolate: An Exponential Family JIVE Model to Design DNA-Based Predictors of Drug Response.</title><venue>RECOMB</venue><pages>120-138</pages><year>2023</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/MourraguiLNWRW23</key><doi>10.1007/978-3-031-29119-7_8</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_8</ee><url>https://dblp.org/rec/conf/recomb/MourraguiLNWRW23</url></info>
+<url>URL#184224</url>
+</hit>
+<hit score="1" id="184225">
+<info><authors><author pid="319/2344">Yasamin Tabatabaee</author><author pid="42/5427">Sébastien Roch</author><author pid="w/TandyWarnow">Tandy J. Warnow</author></authors><title>Statistically Consistent Rooting of Species Trees Under the Multispecies Coalescent Model.</title><venue>RECOMB</venue><pages>41-57</pages><year>2023</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/TabatabaeeRW23</key><doi>10.1007/978-3-031-29119-7_3</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_3</ee><url>https://dblp.org/rec/conf/recomb/TabatabaeeRW23</url></info>
+<url>URL#184225</url>
+</hit>
+<hit score="1" id="184226">
+<info><authors><author pid="91/10340">Weizhong Zheng</author><author pid="345/8225">John H. C. Fong</author><author pid="345/8202">Yuk Kei Wan</author><author pid="345/8076">Athena H. Y. Chu</author><author pid="186/9317">Yuanhua Huang</author><author pid="345/8069">Alan S. L. Wong</author><author pid="78/5950">Joshua W. K. Ho</author></authors><title>Translation Rate Prediction and Regulatory Motif Discovery with Multi-task Learning.</title><venue>RECOMB</venue><pages>139-154</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ZhengFWCHWH23</key><doi>10.1007/978-3-031-29119-7_9</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_9</ee><url>https://dblp.org/rec/conf/recomb/ZhengFWCHWH23</url></info>
+<url>URL#184226</url>
+</hit>
+<hit score="1" id="184227">
+<info><authors><author pid="254/5973">Xiaogen Zhou</author><author pid="14/5778">Zhiqiang Li</author><author pid="74/10649-1">Tong Tong 0001</author></authors><title>DM-Net: A Dual-Model Network for Automated Biomedical Image Diagnosis.</title><venue>RECOMB</venue><pages>74-84</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ZhouLT23</key><doi>10.1007/978-3-031-29119-7_5</doi><ee>https://doi.org/10.1007/978-3-031-29119-7_5</ee><url>https://dblp.org/rec/conf/recomb/ZhouLT23</url></info>
+<url>URL#184227</url>
+</hit>
+<hit score="1" id="197196">
+<info><authors><author pid="90/3951">Haixu Tang</author></authors><title>Research in Computational Molecular Biology - 27th Annual International Conference, RECOMB 2023, Istanbul, Turkey, April 16-19, 2023, Proceedings</title><venue>RECOMB</venue><venue>Lecture Notes in Computer Science</venue><volume>13976</volume><publisher>Springer</publisher><year>2023</year><type>Editorship</type><access>open</access><key>conf/recomb/2023</key><doi>10.1007/978-3-031-29119-7</doi><ee>https://doi.org/10.1007/978-3-031-29119-7</ee><url>https://dblp.org/rec/conf/recomb/2023</url></info>
+<url>URL#197196</url>
+</hit>
+</hits>
+</result>

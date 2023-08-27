@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59448">:facetid:toc:\"db/conf/conext/conext2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">177.70</time>
+<completions total="1" computed="1" sent="1">
+<c sc="33" dc="33" oc="33" id="41027749">:facetid:toc:db/conf/conext/conext2018.bht</c>
+</completions>
+<hits total="33" computed="33" sent="33" first="0">
+<hit score="1" id="2214409">
+<info><authors><author pid="164/8691">François Aubry</author><author pid="29/7759">Stefano Vissicchio</author><author pid="91/2043">Olivier Bonaventure</author><author pid="13/1302">Yves Deville</author></authors><title>Robustly disjoint paths with segment routing.</title><venue>CoNEXT</venue><pages>204-216</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AubryVBD18</key><doi>10.1145/3281411.3281424</doi><ee>https://doi.org/10.1145/3281411.3281424</ee><url>https://dblp.org/rec/conf/conext/AubryVBD18</url></info>
+<url>URL#2214409</url>
+</hit>
+<hit score="1" id="2214410">
+<info><authors><author pid="202/5498">Roshan Sai Ayyalasomayajula</author><author pid="149/9280">Deepak Vasisht</author><author pid="52/10159">Dinesh Bharadia</author></authors><title>BLoc: CSI-based accurate localization for BLE tags.</title><venue>CoNEXT</venue><pages>126-138</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Ayyalasomayajula18</key><doi>10.1145/3281411.3281428</doi><ee>https://doi.org/10.1145/3281411.3281428</ee><url>https://dblp.org/rec/conf/conext/Ayyalasomayajula18</url></info>
+<url>URL#2214410</url>
+</hit>
+<hit score="1" id="2214411">
+<info><authors><author pid="115/5126">Ghufran Baig</author><author pid="99/683">Ian A. Kash</author><author pid="16/2843">Bozidar Radunovic</author><author pid="76/1767">Thomas Karagiannis</author><author pid="54/4031">Lili Qiu</author></authors><title>Interference management for unlicensed users in shared CBRS spectrum.</title><venue>CoNEXT</venue><pages>333-345</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BaigKRKQ18</key><doi>10.1145/3281411.3281417</doi><ee>https://doi.org/10.1145/3281411.3281417</ee><url>https://dblp.org/rec/conf/conext/BaigKRKQ18</url></info>
+<url>URL#2214411</url>
+</hit>
+<hit score="1" id="2214412">
+<info><authors><author pid="140/7690">Ran Ben-Basat</author><author pid="139/7090">Gil Einziger</author><author pid="68/2276">Isaac Keslassy</author><author pid="65/1175">Ariel Orda</author><author pid="183/0710">Shay Vargaftik</author><author pid="30/1777">Erez Waisbard</author></authors><title>Memento: making sliding windows efficient for heavy hitters.</title><venue>CoNEXT</venue><pages>254-266</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Ben-BasatEKOVW18</key><doi>10.1145/3281411.3281427</doi><ee>https://doi.org/10.1145/3281411.3281427</ee><url>https://dblp.org/rec/conf/conext/Ben-BasatEKOVW18</url></info>
+<url>URL#2214412</url>
+</hit>
+<hit score="1" id="2214413">
+<info><authors><author pid="191/5334">Jona Beysens</author><author pid="209/2993">Ander Galisteo</author><author pid="97/6505-7">Qing Wang 0007</author><author pid="211/4665">Diego Juara</author><author pid="07/1247">Domenico Giustiniano</author><author pid="72/4438">Sofie Pollin</author></authors><title>DenseVLC: a cell-free massive MIMO system with distributed LEDs.</title><venue>CoNEXT</venue><pages>320-332</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BeysensG0JGP18</key><doi>10.1145/3281411.3281423</doi><ee>https://doi.org/10.1145/3281411.3281423</ee><url>https://dblp.org/rec/conf/conext/BeysensG0JGP18</url></info>
+<url>URL#2214413</url>
+</hit>
+<hit score="1" id="2214414">
+<info><authors><author pid="47/7850">Ayon Chakraborty</author><author pid="33/8356">Eugene Chai</author><author pid="42/3793">Karthikeyan Sundaresan</author><author pid="84/3606">Amir Khojastepour</author><author pid="67/43">Sampath Rangarajan</author></authors><title>SkyRAN: a self-organizing LTE RAN in the sky.</title><venue>CoNEXT</venue><pages>280-292</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ChakrabortyCSKR18</key><doi>10.1145/3281411.3281437</doi><ee>https://doi.org/10.1145/3281411.3281437</ee><url>https://dblp.org/rec/conf/conext/ChakrabortyCSKR18</url></info>
+<url>URL#2214414</url>
+</hit>
+<hit score="1" id="2214415">
+<info><authors><author pid="89/1207">Junguk Cho</author><author pid="02/1650">Ryan Stutsman</author><author pid="m/JEvanderMerwe">Jacobus E. van der Merwe</author></authors><title>MobileStream: a scalable, programmable and evolvable mobile core control plane platform.</title><venue>CoNEXT</venue><pages>293-306</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ChoSM18</key><doi>10.1145/3281411.3281442</doi><ee>https://doi.org/10.1145/3281411.3281442</ee><url>https://dblp.org/rec/conf/conext/ChoSM18</url></info>
+<url>URL#2214415</url>
+</hit>
+<hit score="1" id="2214416">
+<info><authors><author pid="162/5250">Byungkwon Choi</author><author pid="82/5577">Jeongmin Kim</author><author pid="230/6818">Daeyang Cho</author><author pid="172/5401">Seong Min Kim</author><author pid="12/5388">Dongsu Han</author></authors><title>APPx: an automated app acceleration framework for low latency mobile app.</title><venue>CoNEXT</venue><pages>27-40</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ChoiKCKH18</key><doi>10.1145/3281411.3281416</doi><ee>https://doi.org/10.1145/3281411.3281416</ee><url>https://dblp.org/rec/conf/conext/ChoiKCKH18</url></info>
+<url>URL#2214416</url>
+</hit>
+<hit score="1" id="2214417">
+<info><authors><author pid="177/6606">Christoph Dietzel</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="120/4535">Matthias Wichtlhuber</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>Stellar: network attack mitigation using advanced blackholing.</title><venue>CoNEXT</venue><pages>152-164</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/DietzelSWF18</key><doi>10.1145/3281411.3281413</doi><ee>https://doi.org/10.1145/3281411.3281413</ee><url>https://dblp.org/rec/conf/conext/DietzelSWF18</url></info>
+<url>URL#2214417</url>
+</hit>
+<hit score="1" id="2214418">
+<info><authors><author pid="230/6819">Abdullah Bin Faisal</author><author pid="206/9143">Hafiz Mohsin Bashir</author><author pid="98/776">Ihsan Ayyub Qazi</author><author pid="75/3860">Zartash Afzal Uzmi</author><author pid="d/FahadRafiqueDogar">Fahad R. Dogar</author></authors><title>Workload adaptive flow scheduling.</title><venue>CoNEXT</venue><pages>241-253</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/FaisalBQUD18</key><doi>10.1145/3281411.3281429</doi><ee>https://doi.org/10.1145/3281411.3281429</ee><url>https://dblp.org/rec/conf/conext/FaisalBQUD18</url></info>
+<url>URL#2214418</url>
+</hit>
+<hit score="1" id="2214420">
+<info><authors><author pid="150/5452">Alexander Frömmgen</author><author pid="156/5430">Denny Stohr</author><author pid="25/4201">Boris Koldehofe</author><author pid="30/6511">Amr Rizk</author></authors><title>Don&apos;t repeat yourself: seamless execution and analysis of extensive network experiments.</title><venue>CoNEXT</venue><pages>20-26</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/FrommgenSKR18</key><doi>10.1145/3281411.3281420</doi><ee>https://doi.org/10.1145/3281411.3281420</ee><url>https://dblp.org/rec/conf/conext/FrommgenSKR18</url></info>
+<url>URL#2214420</url>
+</hit>
+<hit score="1" id="2214422">
+<info><authors><author pid="86/9074">Victor Heorhiadi</author><author pid="184/0472">Sanjay Chandrasekaran</author><author pid="r/MichaelKReiter">Michael K. Reiter</author><author pid="45/4044">Vyas Sekar</author></authors><title>Intent-driven composition of resource-management SDN applications.</title><venue>CoNEXT</venue><pages>86-97</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HeorhiadiCRS18</key><doi>10.1145/3281411.3281431</doi><ee>https://doi.org/10.1145/3281411.3281431</ee><url>https://dblp.org/rec/conf/conext/HeorhiadiCRS18</url></info>
+<url>URL#2214422</url>
+</hit>
+<hit score="1" id="2214424">
+<info><authors><author pid="167/6311">Toke Høiland-Jørgensen</author><author pid="230/6802">Jesper Dangaard Brouer</author><author pid="67/10369">Daniel Borkmann</author><author pid="230/6826">John Fastabend</author><author pid="53/8633">Tom Herbert</author><author pid="230/6797">David Ahern</author><author pid="25/721">David Miller</author></authors><title>The eXpress data path: fast programmable packet processing in the operating system kernel.</title><venue>CoNEXT</venue><pages>54-66</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Hoiland-Jorgensen18</key><doi>10.1145/3281411.3281443</doi><ee>https://doi.org/10.1145/3281411.3281443</ee><url>https://dblp.org/rec/conf/conext/Hoiland-Jorgensen18</url></info>
+<url>URL#2214424</url>
+</hit>
+<hit score="1" id="2214425">
+<info><authors><author pid="146/7150">Hassan Iqbal</author><author pid="20/2099">Muhammad Hamad Alizai</author><author pid="98/776">Ihsan Ayyub Qazi</author><author pid="27/481">Olaf Landsiedel</author><author pid="75/3860">Zartash Afzal Uzmi</author></authors><title>Scylla: interleaving multiple IoT stacks on a single radio.</title><venue>CoNEXT</venue><pages>346-352</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/IqbalAQLU18</key><doi>10.1145/3281411.3281412</doi><ee>https://doi.org/10.1145/3281411.3281412</ee><url>https://dblp.org/rec/conf/conext/IqbalAQLU18</url></info>
+<url>URL#2214425</url>
+</hit>
+<hit score="1" id="2214426">
+<info><authors><author pid="230/6809">Jesper Stenbjerg Jensen</author><author pid="230/6823">Troels Beck Krøgh</author><author pid="230/6795">Jonas Sand Madsen</author><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="s/JiriSrba">Jirí Srba</author><author pid="230/6816">Marc Tom Thorgersen</author></authors><title>P-Rex: fast verification of MPLS networks with multiple link failures.</title><venue>CoNEXT</venue><pages>217-227</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/JensenKM0ST18</key><doi>10.1145/3281411.3281432</doi><ee>https://doi.org/10.1145/3281411.3281432</ee><url>https://dblp.org/rec/conf/conext/JensenKM0ST18</url></info>
+<url>URL#2214426</url>
+</hit>
+<hit score="1" id="2214427">
+<info><authors><author pid="190/1205">Sukrit Kalra</author><author pid="230/6824">Rishabh Sanghi</author><author pid="09/4218">Mohan Dhawan</author></authors><title>Blockchain-based real-time cheat prevention and robustness for multi-player online games.</title><venue>CoNEXT</venue><pages>178-190</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KalraSD18</key><doi>10.1145/3281411.3281438</doi><ee>https://doi.org/10.1145/3281411.3281438</ee><url>https://dblp.org/rec/conf/conext/KalraSD18</url></info>
+<url>URL#2214427</url>
+</hit>
+<hit score="1" id="2214428">
+<info><authors><author pid="177/6680">Uri Klarman</author><author pid="127/2799">Marcel Flores</author><author pid="k/AleksandarKuzmanovic">Aleksandar Kuzmanovic</author></authors><title>Mining the web with webcoin.</title><venue>CoNEXT</venue><pages>165-177</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KlarmanFK18</key><doi>10.1145/3281411.3281415</doi><ee>https://doi.org/10.1145/3281411.3281415</ee><url>https://dblp.org/rec/conf/conext/KlarmanFK18</url></info>
+<url>URL#2214428</url>
+</hit>
+<hit score="1" id="2214429">
+<info><authors><author pid="185/5705">Sameer G. Kulkarni</author><author pid="151/5134">Guyue Liu</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author><author pid="94/5821">Mayutan Arumaithurai</author><author pid="w/TimothyWood">Timothy Wood 0001</author><author pid="33/4231">Xiaoming Fu 0001</author></authors><title>REINFORCE: achieving efficient failure resiliency for network function virtualization based services.</title><venue>CoNEXT</venue><pages>41-53</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KulkarniLRA0018</key><doi>10.1145/3281411.3281441</doi><ee>https://doi.org/10.1145/3281411.3281441</ee><url>https://dblp.org/rec/conf/conext/KulkarniLRA0018</url></info>
+<url>URL#2214429</url>
+</hit>
+<hit score="1" id="2214430">
+<info><authors><author pid="75/10203-2">Hangyu Li 0002</author><author pid="01/5265-1">Hong Xu 0001</author><author pid="32/1518">Sarana Nutanong</author></authors><title>Bohr: similarity aware geo-distributed data analytics.</title><venue>CoNEXT</venue><pages>267-279</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/LiXN18</key><doi>10.1145/3281411.3281418</doi><ee>https://doi.org/10.1145/3281411.3281418</ee><url>https://dblp.org/rec/conf/conext/LiXN18</url></info>
+<url>URL#2214430</url>
+</hit>
+<hit score="1" id="2214431">
+<info><authors><author pid="99/7415">Pedro de B. Marcos</author><author pid="78/9826">Marco Chiesa</author><author pid="120/4579">Lucas F. Müller</author><author pid="158/4356">Pradeeban Kathiravelu</author><author pid="177/6606">Christoph Dietzel</author><author pid="24/5715">Marco Canini</author><author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author></authors><title>Dynam-IX: a dynamic interconnection eXchange.</title><venue>CoNEXT</venue><pages>228-240</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/MarcosCMKDCB18</key><doi>10.1145/3281411.3281419</doi><ee>https://doi.org/10.1145/3281411.3281419</ee><url>https://dblp.org/rec/conf/conext/MarcosCMKDCB18</url></info>
+<url>URL#2214431</url>
+</hit>
+<hit score="1" id="2214433">
+<info><authors><author pid="129/2290">Miguel C. Neves</author><author pid="207/6596">Lucas Freire</author><author pid="89/1649">Alberto E. Schaeffer Filho</author><author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author></authors><title>Verification of P4 programs in feasible time using assertions.</title><venue>CoNEXT</venue><pages>73-85</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/NevesFFB18</key><doi>10.1145/3281411.3281421</doi><ee>https://doi.org/10.1145/3281411.3281421</ee><url>https://dblp.org/rec/conf/conext/NevesFFB18</url></info>
+<url>URL#2214433</url>
+</hit>
+<hit score="1" id="2214434">
+<info><authors><author pid="27/8332">Dang Tu Nguyen</author><author pid="69/6818">Chengyu Song</author><author pid="31/8302">Zhiyun Qian</author><author pid="k/SrikanthVKrishnamurthy">Srikanth V. Krishnamurthy</author><author pid="87/2240">Edward J. M. Colbert</author><author pid="m/PatrickDrewMcDaniel">Patrick D. McDaniel</author></authors><title>IotSan: fortifying the safety of IoT systems.</title><venue>CoNEXT</venue><pages>191-203</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/NguyenSQKCM18</key><doi>10.1145/3281411.3281440</doi><ee>https://doi.org/10.1145/3281411.3281440</ee><url>https://dblp.org/rec/conf/conext/NguyenSQKCM18</url></info>
+<url>URL#2214434</url>
+</hit>
+<hit score="1" id="2214435">
+<info><authors><author pid="67/229-3">Kai Niu 0003</author><author pid="68/10002">Fusang Zhang</author><author pid="75/198-1">Jie Xiong 0001</author><author pid="40/1491-49">Xiang Li 0049</author><author pid="205/5894">Enze Yi</author><author pid="83/1359-1">Daqing Zhang 0001</author></authors><title>Boosting fine-grained activity sensing by embracing wireless multipath effects.</title><venue>CoNEXT</venue><pages>139-151</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/NiuZXLY018</key><doi>10.1145/3281411.3281425</doi><ee>https://doi.org/10.1145/3281411.3281425</ee><url>https://dblp.org/rec/conf/conext/NiuZXLY018</url></info>
+<url>URL#2214435</url>
+</hit>
+<hit score="1" id="2214437">
+<info><authors><author pid="230/6827">Shinik Park</author><author pid="28/2595">Jinsung Lee</author><author pid="164/6574">Junseon Kim</author><author pid="61/6668">Ji Hoon Lee</author><author pid="30/4930">Sangtae Ha</author><author pid="49/6532">Kyunghan Lee</author></authors><title>ExLL: an extremely low-latency congestion control for mobile cellular networks.</title><venue>CoNEXT</venue><pages>307-319</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ParkLKLHL18</key><doi>10.1145/3281411.3281430</doi><ee>https://doi.org/10.1145/3281411.3281430</ee><url>https://dblp.org/rec/conf/conext/ParkLKLHL18</url></info>
+<url>URL#2214437</url>
+</hit>
+<hit score="1" id="2214440">
+<info><authors><author pid="163/7315">Yanyuan Qin</author><author pid="73/5618-2">Shuai Hao 0002</author><author pid="37/3815">Krishna R. Pattipati</author><author pid="54/476-1">Feng Qian 0001</author><author pid="71/3761">Subhabrata Sen</author><author pid="06/1909-1">Bing Wang 0001</author><author pid="139/0461">Chaoqun Yue</author></authors><title>ABR streaming of VBR-encoded videos: characterization, challenges, and solutions.</title><venue>CoNEXT</venue><pages>366-378</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/QinHP0S0Y18</key><doi>10.1145/3281411.3281439</doi><ee>https://doi.org/10.1145/3281411.3281439</ee><url>https://dblp.org/rec/conf/conext/QinHP0S0Y18</url></info>
+<url>URL#2214440</url>
+</hit>
+<hit score="1" id="2214443">
+<info><authors><author pid="r/JieRen-7">Jie Ren 0007</author><author pid="60/2139">Xiaoming Wang</author><author pid="49/8377">Jianbin Fang</author><author pid="25/2643">Yansong Feng</author><author pid="15/6233">Dongxiao Zhu</author><author pid="82/11518">Zhunchen Luo</author><author pid="94/190-5">Jie Zheng 0005</author><author pid="w/ZhengWang1">Zheng Wang 0001</author></authors><title>Proteus: network-aware web browsing on heterogeneous mobile systems.</title><venue>CoNEXT</venue><pages>379-392</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/RenWFFZLZW18</key><doi>10.1145/3281411.3281422</doi><ee>https://doi.org/10.1145/3281411.3281422</ee><url>https://dblp.org/rec/conf/conext/RenWFFZLZW18</url></info>
+<url>URL#2214443</url>
+</hit>
+<hit score="1" id="2214444">
+<info><authors><author pid="203/1276">Josep Xavier Salvat</author><author pid="213/7634">Lanfranco Zanzi</author><author pid="41/8398">Andres Garcia-Saavedra</author><author pid="132/7802">Vincenzo Sciancalepore</author><author pid="42/2579">Xavier Costa-Pérez</author></authors><title>Overbooking network slices through yield-driven end-to-end orchestration.</title><venue>CoNEXT</venue><pages>353-365</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SalvatZGSC18</key><doi>10.1145/3281411.3281435</doi><ee>https://doi.org/10.1145/3281411.3281435</ee><url>https://dblp.org/rec/conf/conext/SalvatZGSC18</url></info>
+<url>URL#2214444</url>
+</hit>
+<hit score="1" id="2214445">
+<info><authors><author pid="186/8831">Martino Trevisan</author><author pid="160/8766">Danilo Giordano</author><author pid="08/4676">Idilio Drago</author><author pid="18/6316">Marco Mellia</author><author pid="65/4645">Maurizio M. Munafò</author></authors><title>Five years at the edge: watching internet from the ISP network.</title><venue>CoNEXT</venue><pages>1-12</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/TrevisanGDMM18</key><doi>10.1145/3281411.3281433</doi><ee>https://doi.org/10.1145/3281411.3281433</ee><url>https://dblp.org/rec/conf/conext/TrevisanGDMM18</url></info>
+<url>URL#2214445</url>
+</hit>
+<hit score="1" id="2214447">
+<info><authors><author pid="228/8224">Mathieu Xhonneux</author><author pid="77/11465">Fabien Duchene</author><author pid="91/2043">Olivier Bonaventure</author></authors><title>Leveraging eBPF for programmable network functions with IPv6 segment routing.</title><venue>CoNEXT</venue><pages>67-72</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/XhonneuxDB18</key><doi>10.1145/3281411.3281426</doi><ee>https://doi.org/10.1145/3281411.3281426</ee><url>https://dblp.org/rec/conf/conext/XhonneuxDB18</url></info>
+<url>URL#2214447</url>
+</hit>
+<hit score="1" id="2214448">
+<info><authors><author pid="142/1755">Xiufeng Xie</author><author pid="s/KangGShin">Kang G. Shin</author><author pid="17/7735-1">Hamed Yousefi 0001</author><author pid="150/5543">Suining He</author></authors><title>Wireless CSI-based head tracking in the driver seat.</title><venue>CoNEXT</venue><pages>112-125</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/XieSYH18</key><doi>10.1145/3281411.3281414</doi><ee>https://doi.org/10.1145/3281411.3281414</ee><url>https://dblp.org/rec/conf/conext/XieSYH18</url></info>
+<url>URL#2214448</url>
+</hit>
+<hit score="1" id="2214449">
+<info><authors><author pid="25/1888">Peng Zheng</author><author pid="49/7538">Theophilus Benson</author><author pid="62/921">Chengchen Hu</author></authors><title>P4Visor: lightweight virtualization and composition primitives for building and testing modular programs.</title><venue>CoNEXT</venue><pages>98-111</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZhengBH18</key><doi>10.1145/3281411.3281436</doi><ee>https://doi.org/10.1145/3281411.3281436</ee><url>https://dblp.org/rec/conf/conext/ZhengBH18</url></info>
+<url>URL#2214449</url>
+</hit>
+<hit score="1" id="2214450">
+<info><authors><author pid="91/1881">Torsten Zimmermann</author><author pid="166/0213">Benedikt Wolters</author><author pid="75/6403">Oliver Hohlfeld</author><author pid="w/KlausWehrle">Klaus Wehrle</author></authors><title>Is the web ready for HTTP/2 server push?</title><venue>CoNEXT</venue><pages>13-19</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZimmermannWHW18</key><doi>10.1145/3281411.3281434</doi><ee>https://doi.org/10.1145/3281411.3281434</ee><url>https://dblp.org/rec/conf/conext/ZimmermannWHW18</url></info>
+<url>URL#2214450</url>
+</hit>
+<hit score="1" id="2357581">
+<info><authors><author pid="88/3080">Xenofontas A. Dimitropoulos</author><author pid="28/5074">Alberto Dainotti</author><author pid="51/7546">Laurent Vanbever</author><author pid="49/7538">Theophilus Benson</author></authors><title>Proceedings of the 14th International Conference on emerging Networking EXperiments and Technologies, CoNEXT 2018, Heraklion, Greece, December 04-07, 2018</title><venue>CoNEXT</venue><publisher>ACM</publisher><year>2018</year><type>Editorship</type><key>conf/conext/2018</key><ee>http://dl.acm.org/citation.cfm?id=3281411</ee><url>https://dblp.org/rec/conf/conext/2018</url></info>
+<url>URL#2357581</url>
+</hit>
+</hits>
+</result>

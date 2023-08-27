@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59759">:facetid:toc:\"db/conf/imc/imc2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">196.53</time>
+<completions total="1" computed="1" sent="1">
+<c sc="55" dc="55" oc="55" id="41047563">:facetid:toc:db/conf/imc/imc2021.bht</c>
+</completions>
+<hits total="55" computed="55" sent="55" first="0">
+<hit score="1" id="1033939">
+<info><authors><author pid="224/2363">Gautam Akiwate</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="68/4966">Kimberly C. Claffy</author></authors><title>Risky BIZness: risks derived from registrar name management.</title><venue>Internet Measurement Conference</venue><pages>673-686</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AkiwateSVC21</key><doi>10.1145/3487552.3487816</doi><ee>https://doi.org/10.1145/3487552.3487816</ee><url>https://dblp.org/rec/conf/imc/AkiwateSVC21</url></info>
+<url>URL#1033939</url>
+</hit>
+<hit score="1" id="1033940">
+<info><authors><author pid="303/0974">Taha Albakour</author><author pid="147/1125">Oliver Gasser</author><author pid="12/1817">Robert Beverly</author><author pid="88/6355">Georgios Smaragdakis</author></authors><title>Third time&apos;s not a charm: exploiting SNMPv3 for router fingerprinting.</title><venue>Internet Measurement Conference</venue><pages>150-164</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AlbakourGBS21</key><doi>10.1145/3487552.3487848</doi><ee>https://doi.org/10.1145/3487552.3487848</ee><url>https://dblp.org/rec/conf/imc/AlbakourGBS21</url></info>
+<url>URL#1033940</url>
+</hit>
+<hit score="1" id="1033941">
+<info><authors><author pid="222/3040">Maxwell Aliapoulios</author><author pid="305/3104">Kejsi Take</author><author pid="250/8788">Prashanth Ramakrishna</author><author pid="238/0010">Daniel Borkan</author><author pid="305/3306">Beth Goldberg</author><author pid="55/5331">Jeffrey Sorensen</author><author pid="179/4718">Anna Turner</author><author pid="93/655">Rachel Greenstadt</author><author pid="00/3175">Tobias Lauinger</author><author pid="58/4016">Damon McCoy</author></authors><title>A large-scale characterization of online incitements to harassment across platforms.</title><venue>Internet Measurement Conference</venue><pages>621-638</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AliapouliosTRBG21</key><doi>10.1145/3487552.3487852</doi><ee>https://doi.org/10.1145/3487552.3487852</ee><url>https://dblp.org/rec/conf/imc/AliapouliosTRBG21</url></info>
+<url>URL#1033941</url>
+</hit>
+<hit score="1" id="1033942">
+<info><authors><author pid="122/3298">Mário Almeida</author><author pid="241/6273">Stefanos Laskaridis</author><author pid="154/4273">Abhinav Mehrotra</author><author pid="228/7987">Lukasz Dudziak</author><author pid="92/131">Ilias Leontiadis</author><author pid="03/2663">Nicholas D. Lane</author></authors><title>Smart at what cost?: characterising mobile deep neural networks in the wild.</title><venue>Internet Measurement Conference</venue><pages>658-672</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AlmeidaLMDLL21</key><doi>10.1145/3487552.3487863</doi><ee>https://doi.org/10.1145/3487552.3487863</ee><url>https://dblp.org/rec/conf/imc/AlmeidaLMDLL21</url></info>
+<url>URL#1033942</url>
+</hit>
+<hit score="1" id="1033943">
+<info><authors><author pid="300/9139">Abdul Haddi Amjad</author><author pid="292/9338">Danial Saleem</author><author pid="172/6776">Muhammad Ali Gulzar</author><author pid="83/9528">Zubair Shafiq</author><author pid="59/3605">Fareed Zaffar</author></authors><title>TrackerSift: untangling mixed tracking and functional web resources.</title><venue>Internet Measurement Conference</venue><pages>569-576</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AmjadSGSZ21</key><doi>10.1145/3487552.3487855</doi><ee>https://doi.org/10.1145/3487552.3487855</ee><url>https://dblp.org/rec/conf/imc/AmjadSGSZ21</url></info>
+<url>URL#1033943</url>
+</hit>
+<hit score="1" id="1033944">
+<info><authors><author pid="01/2456">Todd Arnold</author><author pid="74/7371">Jia He</author><author pid="255/5076">Weifan Jiang</author><author pid="24/3165">Matt Calder</author><author pid="80/186">Ítalo Cunha</author><author pid="87/7704">Vasileios Giotsas</author><author pid="66/2080">Ethan Katz-Bassett</author></authors><title>Corrigendum: cloud provider connectivity in the flat internet.</title><venue>Internet Measurement Conference</venue><pages>763-764</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ArnoldHJCCGK21</key><doi>10.1145/3487552.3487818</doi><ee>https://doi.org/10.1145/3487552.3487818</ee><url>https://dblp.org/rec/conf/imc/ArnoldHJCCGK21</url></info>
+<url>URL#1033944</url>
+</hit>
+<hit score="1" id="1033945">
+<info><authors><author pid="247/6994">Sana Asif</author><author pid="158/8006">Byungjin Jun</author><author pid="b/FabianEBustamante">Fabián E. Bustamante</author><author pid="29/11081">John P. Rula</author></authors><title>Networked systems as witnesses: association between content demand, human mobility and an infection spread.</title><venue>Internet Measurement Conference</venue><pages>487-506</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AsifJBR21</key><doi>10.1145/3487552.3487831</doi><ee>https://doi.org/10.1145/3487552.3487831</ee><url>https://dblp.org/rec/conf/imc/AsifJBR21</url></info>
+<url>URL#1033945</url>
+</hit>
+<hit score="1" id="1033946">
+<info><authors><author pid="199/3241">José González Cabañas</author><author pid="76/4893">Ángel Cuevas</author><author pid="79/5634">Rubén Cuevas</author><author pid="304/3595">Juan López-Fernández</author><author pid="37/3550">David García 0001</author></authors><title>Unique on Facebook: formulation and evidence of (nano)targeting individual users with non-PII data.</title><venue>Internet Measurement Conference</venue><pages>464-479</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/CabanasCCL021</key><doi>10.1145/3487552.3487861</doi><ee>https://doi.org/10.1145/3487552.3487861</ee><url>https://dblp.org/rec/conf/imc/CabanasCCL021</url></info>
+<url>URL#1033946</url>
+</hit>
+<hit score="1" id="1033947">
+<info><authors><author pid="163/1845">Esteban Carisimo</author><author pid="179/5476">Alexander Gamero-Garrido</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="28/5074">Alberto Dainotti</author></authors><title>Identifying ASes of state-owned internet operators.</title><venue>Internet Measurement Conference</venue><pages>687-702</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/CarisimoGSD21</key><doi>10.1145/3487552.3487822</doi><ee>https://doi.org/10.1145/3487552.3487822</ee><url>https://dblp.org/rec/conf/imc/CarisimoGSD21</url></info>
+<url>URL#1033947</url>
+</hit>
+<hit score="1" id="1033948">
+<info><authors><author pid="50/2529">Hyunseok Chang</author><author pid="01/6280">Matteo Varvello</author><author pid="01/4221">Fang Hao</author><author pid="72/5978">Sarit Mukherjee</author></authors><title>Can you see me now?: a measurement study of Zoom, Webex, and Meet.</title><venue>Internet Measurement Conference</venue><pages>216-228</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ChangVHM21</key><doi>10.1145/3487552.3487847</doi><ee>https://doi.org/10.1145/3487552.3487847</ee><url>https://dblp.org/rec/conf/imc/ChangVHM21</url></info>
+<url>URL#1033948</url>
+</hit>
+<hit score="1" id="1033949">
+<info><authors><author pid="295/3165">Peiqing Chen</author><author pid="254/5900-1">Yuhan Wu 0001</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="49/8398">Junchen Jiang</author><author pid="166/6255">Zaoxing Liu</author></authors><title>Precise error estimation for sketch-based flow measurement.</title><venue>Internet Measurement Conference</venue><pages>113-121</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ChenW0JL21</key><doi>10.1145/3487552.3487856</doi><ee>https://doi.org/10.1145/3487552.3487856</ee><url>https://dblp.org/rec/conf/imc/ChenW0JL21</url></info>
+<url>URL#1033949</url>
+</hit>
+<hit score="1" id="1033950">
+<info><authors><author pid="305/3278">Rishabh Chhabra</author><author pid="224/9376">Paul Murley</author><author pid="66/3984-6">Deepak Kumar 0006</author><author pid="20/2967">Michael Bailey</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>Measuring DNS-over-HTTPS performance around the world.</title><venue>Internet Measurement Conference</venue><pages>351-365</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ChhabraM0BW21</key><doi>10.1145/3487552.3487849</doi><ee>https://doi.org/10.1145/3487552.3487849</ee><url>https://dblp.org/rec/conf/imc/ChhabraM0BW21</url></info>
+<url>URL#1033950</url>
+</hit>
+<hit score="1" id="1033951">
+<info><authors><author pid="305/3305">The Khang Dang</author><author pid="164/5721">Nitinder Mohan</author><author pid="224/0753">Lorenzo Corneo</author><author pid="220/3405">Aleksandr Zavodovski</author><author pid="57/6706">Jörg Ott</author><author pid="11/1704">Jussi Kangasharju</author></authors><title>Cloudy with a chance of short RTTs: analyzing cloud connectivity in the internet.</title><venue>Internet Measurement Conference</venue><pages>62-79</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DangMCZOK21</key><doi>10.1145/3487552.3487854</doi><ee>https://doi.org/10.1145/3487552.3487854</ee><url>https://dblp.org/rec/conf/imc/DangMCZOK21</url></info>
+<url>URL#1033951</url>
+</hit>
+<hit score="1" id="1033952">
+<info><authors><author pid="236/5179">Laura Edelson</author><author pid="305/3143">Minh-Kha Nguyen</author><author pid="305/3166">Ian Goldstein</author><author pid="88/10325">Oana Goga</author><author pid="58/4016">Damon McCoy</author><author pid="00/3175">Tobias Lauinger</author></authors><title>Understanding engagement with U.S. (mis)information news sources on Facebook.</title><venue>Internet Measurement Conference</venue><pages>444-463</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/EdelsonNGGML21</key><doi>10.1145/3487552.3487859</doi><ee>https://doi.org/10.1145/3487552.3487859</ee><url>https://dblp.org/rec/conf/imc/EdelsonNGGML21</url></info>
+<url>URL#1033952</url>
+</hit>
+<hit score="1" id="1033953">
+<info><authors><author pid="305/3117">Kathrin Elmenhorst</author><author pid="192/3487">Bertram Schütz</author><author pid="93/317">Nils Aschenbruck</author><author pid="10/9977">Simone Basso</author></authors><title>Web censorship measurements of HTTP/3 over QUIC.</title><venue>Internet Measurement Conference</venue><pages>276-282</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ElmenhorstSAB21</key><doi>10.1145/3487552.3487836</doi><ee>https://doi.org/10.1145/3487552.3487836</ee><url>https://dblp.org/rec/conf/imc/ElmenhorstSAB21</url></info>
+<url>URL#1033953</url>
+</hit>
+<hit score="1" id="1033954">
+<info><authors><author pid="290/4908">Daniel Goßen</author><author pid="33/1453">Hugo Jonker</author><author pid="04/10244">Stefan Karsch</author><author pid="225/4793">Benjamin Krumnow</author><author pid="305/3455">David Roefs</author></authors><title>HLISA: towards a more reliable measurement tool.</title><venue>Internet Measurement Conference</venue><pages>380-389</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GossenJKKR21</key><doi>10.1145/3487552.3487843</doi><ee>https://doi.org/10.1145/3487552.3487843</ee><url>https://dblp.org/rec/conf/imc/GossenJKKR21</url></info>
+<url>URL#1033954</url>
+</hit>
+<hit score="1" id="1033955">
+<info><authors><author pid="98/6487">Nestor Hernandez</author><author pid="198/1034">Ruben Recabarren</author><author pid="20/4777">Bogdan Carbunar</author><author pid="75/7215">Syed Ishtiaque Ahmed</author></authors><title>RacketStore: measurements of ASO deception in Google play via mobile and app usage.</title><venue>Internet Measurement Conference</venue><pages>639-657</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HernandezRCA21</key><doi>10.1145/3487552.3487837</doi><ee>https://doi.org/10.1145/3487552.3487837</ee><url>https://dblp.org/rec/conf/imc/HernandezRCA21</url></info>
+<url>URL#1033955</url>
+</hit>
+<hit score="1" id="1033956">
+<info><authors><author pid="278/3983">Dhananjay Jagtap</author><author pid="52/4311">Alex Yen</author><author pid="305/3432">Huanlei Wu</author><author pid="77/3626">Aaron Schulman</author><author pid="86/11187">Pat Pannuto</author></authors><title>Federated infrastructure: usage, patterns, and insights from &quot;the people&apos;s network&quot;.</title><venue>Internet Measurement Conference</venue><pages>22-36</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/JagtapYWSP21</key><doi>10.1145/3487552.3487846</doi><ee>https://doi.org/10.1145/3487552.3487846</ee><url>https://dblp.org/rec/conf/imc/JagtapYWSP21</url></info>
+<url>URL#1033956</url>
+</hit>
+<hit score="1" id="1033957">
+<info><authors><author pid="255/5076">Weifan Jiang</author><author pid="43/4720">Tao Luo</author><author pid="93/3280">Thomas Koch</author><author pid="141/9087">Yunfan Zhang</author><author pid="66/2080">Ethan Katz-Bassett</author><author pid="24/3165">Matt Calder</author></authors><title>Towards identifying networks with internet clients using public data.</title><venue>Internet Measurement Conference</venue><pages>753-762</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/JiangLKZKC21</key><doi>10.1145/3487552.3487844</doi><ee>https://doi.org/10.1145/3487552.3487844</ee><url>https://dblp.org/rec/conf/imc/JiangLKZKC21</url></info>
+<url>URL#1033957</url>
+</hit>
+<hit score="1" id="1033958">
+<info><authors><author pid="143/5662">Thomas Krenc</author><author pid="12/1817">Robert Beverly</author><author pid="88/6355">Georgios Smaragdakis</author></authors><title>AS-level BGP community usage classification.</title><venue>Internet Measurement Conference</venue><pages>577-592</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KrencBS21</key><doi>10.1145/3487552.3487865</doi><ee>https://doi.org/10.1145/3487552.3487865</ee><url>https://dblp.org/rec/conf/imc/KrencBS21</url></info>
+<url>URL#1033958</url>
+</hit>
+<hit score="1" id="1033959">
+<info><authors><author pid="218/5259">Dhruv Kuchhal</author><author pid="53/10825">Frank Li 0001</author></authors><title>Knock and talk: investigating local network communications on websites.</title><venue>Internet Measurement Conference</venue><pages>550-568</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KuchhalL21</key><doi>10.1145/3487552.3487857</doi><ee>https://doi.org/10.1145/3487552.3487857</ee><url>https://dblp.org/rec/conf/imc/KuchhalL21</url></info>
+<url>URL#1033959</url>
+</hit>
+<hit score="1" id="1033960">
+<info><authors><author pid="181/2853-17">Kai Li 0017</author><author pid="09/1770">Yuzhe Tang</author><author pid="24/7389">Jiaqi Chen</author><author pid="25/4764">Yibo Wang</author><author pid="278/1184">Xianghong Liu</author></authors><title>TopoShot: uncovering Ethereum&apos;s network topology leveraging replacement transactions.</title><venue>Internet Measurement Conference</venue><pages>302-319</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LiTCWL21</key><doi>10.1145/3487552.3487814</doi><ee>https://doi.org/10.1145/3487552.3487814</ee><url>https://dblp.org/rec/conf/imc/LiTCWL21</url></info>
+<url>URL#1033960</url>
+</hit>
+<hit score="1" id="1033961">
+<info><authors><author pid="249/3123-1">Enze Liu 0001</author><author pid="224/2363">Gautam Akiwate</author><author pid="163/4064">Mattijs Jonker</author><author pid="168/9526">Ariana Mirian</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author></authors><title>Who&apos;s got your mail?: characterizing mail service provider usage.</title><venue>Internet Measurement Conference</venue><pages>122-136</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LiuAJMSV21</key><doi>10.1145/3487552.3487820</doi><ee>https://doi.org/10.1145/3487552.3487820</ee><url>https://dblp.org/rec/conf/imc/LiuAJMSV21</url></info>
+<url>URL#1033961</url>
+</hit>
+<hit score="1" id="1033962">
+<info><authors><author pid="198/3346">Zane Ma</author><author pid="305/3202">James Austgen</author><author pid="34/3008">Joshua Mason</author><author pid="143/5673">Zakir Durumeric</author><author pid="20/2967">Michael Bailey</author></authors><title>Tracing your roots: exploring the TLS trust anchor ecosystem.</title><venue>Internet Measurement Conference</venue><pages>179-194</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MaAMDB21</key><doi>10.1145/3487552.3487813</doi><ee>https://doi.org/10.1145/3487552.3487813</ee><url>https://dblp.org/rec/conf/imc/MaAMDB21</url></info>
+<url>URL#1033962</url>
+</hit>
+<hit score="1" id="1033963">
+<info><authors><author pid="272/4220">Kyle MacMillan</author><author pid="136/8000">Tarun Mangla</author><author pid="293/9013">James Saxon</author><author pid="87/840">Nick Feamster</author></authors><title>Measuring the performance and network utilization of popular video conferencing applications.</title><venue>Internet Measurement Conference</venue><pages>229-244</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MacMillanMSF21</key><doi>10.1145/3487552.3487842</doi><ee>https://doi.org/10.1145/3487552.3487842</ee><url>https://dblp.org/rec/conf/imc/MacMillanMSF21</url></info>
+<url>URL#1033963</url>
+</hit>
+<hit score="1" id="1033964">
+<info><authors><author pid="184/0200">Antonis Manousis</author><author pid="148/4763">Harshil Shah</author><author pid="117/4350">Henry Milner</author><author pid="87/660">Yan Li</author><author pid="z/HuiZhang1">Hui Zhang 0001</author><author pid="45/4044">Vyas Sekar</author></authors><title>The shape of view: an alert system for video viewership anomalies.</title><venue>Internet Measurement Conference</venue><pages>245-260</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ManousisSML0S21</key><doi>10.1145/3487552.3487819</doi><ee>https://doi.org/10.1145/3487552.3487819</ee><url>https://dblp.org/rec/conf/imc/ManousisSML0S21</url></info>
+<url>URL#1033964</url>
+</hit>
+<hit score="1" id="1033965">
+<info><authors><author pid="168/4511">Stephen McQuistin</author><author pid="26/10229">Mladen Karan</author><author pid="139/4712">Prashant Khare</author><author pid="87/3859">Colin Perkins</author><author pid="85/85">Gareth Tyson</author><author pid="06/3180">Matthew Purver</author><author pid="239/9551">Patrick Healey</author><author pid="180/3746">Waleed Iqbal</author><author pid="74/2204">Junaid Qadir 0001</author><author pid="99/11343">Ignacio Castro</author></authors><title>Characterising the IETF through the lens of RFC deployment.</title><venue>Internet Measurement Conference</venue><pages>137-149</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/McQuistinKKPTPH21</key><doi>10.1145/3487552.3487821</doi><ee>https://doi.org/10.1145/3487552.3487821</ee><url>https://dblp.org/rec/conf/imc/McQuistinKKPTPH21</url></info>
+<url>URL#1033965</url>
+</hit>
+<hit score="1" id="1033966">
+<info><authors><author pid="139/9735">Johnnatan Messias</author><author pid="248/2254">Mohamed Alzayat</author><author pid="c/BChandrasekaran2">Balakrishnan Chandrasekaran 0002</author><author pid="g/PKrishnaGummadi">Krishna P. Gummadi</author><author pid="10/7062">Patrick Loiseau</author><author pid="31/3833">Alan Mislove</author></authors><title>Selfish &amp; opaque transaction ordering in the Bitcoin blockchain: the case for chain neutrality.</title><venue>Internet Measurement Conference</venue><pages>320-335</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MessiasA0GLM21</key><doi>10.1145/3487552.3487823</doi><ee>https://doi.org/10.1145/3487552.3487823</ee><url>https://dblp.org/rec/conf/imc/MessiasA0GLM21</url></info>
+<url>URL#1033966</url>
+</hit>
+<hit score="1" id="1033967">
+<info><authors><author pid="68/9978">Ricky K. P. Mok</author><author pid="305/3388">Hongyu Zou</author><author pid="92/1942">Rui Yang</author><author pid="28/4486">Tom Koch</author><author pid="66/2080">Ethan Katz-Bassett</author><author pid="68/4966">Kimberly C. Claffy</author></authors><title>Measuring the network performance of Google cloud platform.</title><venue>Internet Measurement Conference</venue><pages>54-61</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MokZYKKC21</key><doi>10.1145/3487552.3487862</doi><ee>https://doi.org/10.1145/3487552.3487862</ee><url>https://dblp.org/rec/conf/imc/MokZYKKC21</url></info>
+<url>URL#1033967</url>
+</hit>
+<hit score="1" id="1033968">
+<info><authors><author pid="76/5048">Giovane C. M. Moura</author><author pid="40/7634">Sebastian Castro</author><author pid="h/JohnSHeidemann">John S. Heidemann</author><author pid="53/6495">Wes Hardaker</author></authors><title>TsuNAME: exploiting misconfiguration and vulnerability to DDoS DNS.</title><venue>Internet Measurement Conference</venue><pages>398-418</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MouraCHH21</key><doi>10.1145/3487552.3487824</doi><ee>https://doi.org/10.1145/3487552.3487824</ee><url>https://dblp.org/rec/conf/imc/MouraCHH21</url></info>
+<url>URL#1033968</url>
+</hit>
+<hit score="1" id="1033969">
+<info><authors><author pid="185/0838">Marcin Nawrocki</author><author pid="144/4431">Raphael Hiesgen</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>QUICsand: quantifying QUIC reconnaissance scans and DoS flooding events.</title><venue>Internet Measurement Conference</venue><pages>283-291</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/NawrockiHSW21</key><doi>10.1145/3487552.3487840</doi><ee>https://doi.org/10.1145/3487552.3487840</ee><url>https://dblp.org/rec/conf/imc/NawrockiHSW21</url></info>
+<url>URL#1033969</url>
+</hit>
+<hit score="1" id="1033970">
+<info><authors><author pid="185/0838">Marcin Nawrocki</author><author pid="163/4064">Mattijs Jonker</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>The far side of DNS amplification: tracing the DDoS attack ecosystem from the internet core.</title><venue>Internet Measurement Conference</venue><pages>419-434</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/NawrockiJSW21</key><doi>10.1145/3487552.3487835</doi><ee>https://doi.org/10.1145/3487552.3487835</ee><url>https://dblp.org/rec/conf/imc/NawrockiJSW21</url></info>
+<url>URL#1033970</url>
+</hit>
+<hit score="1" id="1033971">
+<info><authors><author pid="245/4357">Eugenio Nerio Nemmi</author><author pid="265/6089">Francesco Sassi</author><author pid="223/6903">Massimo La Morgia</author><author pid="234/7672">Cecilia Testart</author><author pid="m/AlessandroMai">Alessandro Mei</author><author pid="28/5074">Alberto Dainotti</author></authors><title>The parallel lives of autonomous systems: ASN allocations vs. BGP.</title><venue>Internet Measurement Conference</venue><pages>593-611</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/NemmiSMTMD21</key><doi>10.1145/3487552.3487838</doi><ee>https://doi.org/10.1145/3487552.3487838</ee><url>https://dblp.org/rec/conf/imc/NemmiSMTMD21</url></info>
+<url>URL#1033971</url>
+</hit>
+<hit score="1" id="1033972">
+<info><authors><author pid="275/2621">Muhammad Talha Paracha</author><author pid="69/7759">Daniel J. Dubois</author><author pid="50/7563">Narseo Vallina-Rodriguez</author><author pid="48/6854">David R. Choffnes</author></authors><title>IoTLS: understanding TLS usage in consumer IoT devices.</title><venue>Internet Measurement Conference</venue><pages>165-178</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ParachaDVC21</key><doi>10.1145/3487552.3487830</doi><ee>https://doi.org/10.1145/3487552.3487830</ee><url>https://dblp.org/rec/conf/imc/ParachaDVC21</url></info>
+<url>URL#1033972</url>
+</hit>
+<hit score="1" id="1033973">
+<info><authors><author pid="171/4483">Adithya Abraham Philip</author><author pid="251/1782">Ranysha Ware</author><author pid="305/3105">Rukshani Athapathu</author><author pid="37/8465">Justine Sherry</author><author pid="45/4044">Vyas Sekar</author></authors><title>Revisiting TCP congestion control throughput models &amp; fairness properties at scale.</title><venue>Internet Measurement Conference</venue><pages>96-103</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PhilipWASS21</key><doi>10.1145/3487552.3487834</doi><ee>https://doi.org/10.1145/3487552.3487834</ee><url>https://dblp.org/rec/conf/imc/PhilipWASS21</url></info>
+<url>URL#1033973</url>
+</hit>
+<hit score="1" id="1033974">
+<info><authors><author pid="305/3128">Tara Poteat</author><author pid="53/10825">Frank Li 0001</author></authors><title>Who you gonna call?: an empirical evaluation of website security.txt deployment.</title><venue>Internet Measurement Conference</venue><pages>526-532</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PoteatL21</key><doi>10.1145/3487552.3487841</doi><ee>https://doi.org/10.1145/3487552.3487841</ee><url>https://dblp.org/rec/conf/imc/PoteatL21</url></info>
+<url>URL#1033974</url>
+</hit>
+<hit score="1" id="1033975">
+<info><authors><author pid="277/0393">Lars Prehn</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>How biased is our validation (data) for AS relationships?</title><venue>Internet Measurement Conference</venue><pages>612-620</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PrehnF21</key><doi>10.1145/3487552.3487825</doi><ee>https://doi.org/10.1145/3487552.3487825</ee><url>https://dblp.org/rec/conf/imc/PrehnF21</url></info>
+<url>URL#1033975</url>
+</hit>
+<hit score="1" id="1033976">
+<info><authors><author pid="246/5857">Kaihua Qin</author><author pid="246/6069">Liyi Zhou</author><author pid="294/9079">Pablo Gamito</author><author pid="14/11314">Philipp Jovanovic</author><author pid="138/9020">Arthur Gervais</author></authors><title>An empirical study of DeFi liquidations: incentives, risks, and instabilities.</title><venue>Internet Measurement Conference</venue><pages>336-350</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/QinZGJG21</key><doi>10.1145/3487552.3487811</doi><ee>https://doi.org/10.1145/3487552.3487811</ee><url>https://dblp.org/rec/conf/imc/QinZGJG21</url></info>
+<url>URL#1033976</url>
+</hit>
+<hit score="1" id="1033977">
+<info><authors><author pid="184/0878">Audrey Randall</author><author pid="249/3123-1">Enze Liu 0001</author><author pid="34/10957">Ramakrishna Padmanabhan</author><author pid="224/2363">Gautam Akiwate</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="77/3626">Aaron Schulman</author></authors><title>Home is where the hijacking is: understanding DNS interception by residential routers.</title><venue>Internet Measurement Conference</venue><pages>390-397</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RandallLPAVSS21</key><doi>10.1145/3487552.3487817</doi><ee>https://doi.org/10.1145/3487552.3487817</ee><url>https://dblp.org/rec/conf/imc/RandallLPAVSS21</url></info>
+<url>URL#1033977</url>
+</hit>
+<hit score="1" id="1033978">
+<info><authors><author pid="185/5733">Erik C. Rye</author><author pid="12/1817">Robert Beverly</author><author pid="68/4966">Kimberly C. Claffy</author></authors><title>Follow the scent: defeating IPv6 prefix rotation privacy.</title><venue>Internet Measurement Conference</venue><pages>739-752</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RyeBC21</key><doi>10.1145/3487552.3487829</doi><ee>https://doi.org/10.1145/3487552.3487829</ee><url>https://dblp.org/rec/conf/imc/RyeBC21</url></info>
+<url>URL#1033978</url>
+</hit>
+<hit score="1" id="1033979">
+<info><authors><author pid="194/2387">Anirudh Sabnis</author><author pid="s/RameshKSitaraman">Ramesh K. Sitaraman</author></authors><title>TRAGEN: a synthetic trace generator for realistic cache simulations.</title><venue>Internet Measurement Conference</venue><pages>366-379</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SabnisS21</key><doi>10.1145/3487552.3487845</doi><ee>https://doi.org/10.1145/3487552.3487845</ee><url>https://dblp.org/rec/conf/imc/SabnisS21</url></info>
+<url>URL#1033979</url>
+</hit>
+<hit score="1" id="1033980">
+<info><authors><author pid="244/2276">Constantin Sander</author><author pid="258/4726">Leo Blöcher</author><author pid="w/KlausWehrle">Klaus Wehrle</author><author pid="143/4759">Jan Rüth</author></authors><title>Sharding and HTTP/2 connection reuse revisited: why are there still redundant connections?</title><venue>Internet Measurement Conference</venue><pages>292-301</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SanderBWR21</key><doi>10.1145/3487552.3487832</doi><ee>https://doi.org/10.1145/3487552.3487832</ee><url>https://dblp.org/rec/conf/imc/SanderBWR21</url></info>
+<url>URL#1033980</url>
+</hit>
+<hit score="1" id="1033981">
+<info><authors><author pid="194/3128">Bruce Spang</author><author pid="303/4923">Veronica Hannan</author><author pid="303/4646">Shravya Kunamalla</author><author pid="76/6860">Te-Yuan Huang</author><author pid="m/NickMcKeown">Nick McKeown</author><author pid="80/1071">Ramesh Johari</author></authors><title>Unbiased experiments in congested networks.</title><venue>Internet Measurement Conference</venue><pages>80-95</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SpangHKHMJ21</key><doi>10.1145/3487552.3487851</doi><ee>https://doi.org/10.1145/3487552.3487851</ee><url>https://dblp.org/rec/conf/imc/SpangHKHMJ21</url></info>
+<url>URL#1033981</url>
+</hit>
+<hit score="1" id="1033982">
+<info><authors><author pid="172/6486">Shreyas Srinivasa</author><author pid="74/997">Jens Myrup Pedersen</author><author pid="140/6565">Emmanouil Vasilomanolakis</author></authors><title>Open for hire: attack trends and misconfiguration pitfalls of IoT devices.</title><venue>Internet Measurement Conference</venue><pages>195-215</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SrinivasaPV21</key><doi>10.1145/3487552.3487833</doi><ee>https://doi.org/10.1145/3487552.3487833</ee><url>https://dblp.org/rec/conf/imc/SrinivasaPV21</url></info>
+<url>URL#1033982</url>
+</hit>
+<hit score="1" id="1033983">
+<info><authors><author pid="220/5515">Parth Thakkar</author><author pid="239/4919">Rohan Saxena</author><author pid="p/VenkataNPadmanabhan">Venkata N. Padmanabhan</author></authors><title>AutoSens: inferring latency sensitivity of user activity through natural experiments.</title><venue>Internet Measurement Conference</venue><pages>15-21</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ThakkarSP21</key><doi>10.1145/3487552.3487839</doi><ee>https://doi.org/10.1145/3487552.3487839</ee><url>https://dblp.org/rec/conf/imc/ThakkarSP21</url></info>
+<url>URL#1033983</url>
+</hit>
+<hit score="1" id="1033984">
+<info><authors><author pid="305/3308">Alisha Ukani</author><author pid="168/9526">Ariana Mirian</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author></authors><title>Locked-in during lock-down: undergraduate life on the internet in a pandemic.</title><venue>Internet Measurement Conference</venue><pages>480-486</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/UkaniMS21</key><doi>10.1145/3487552.3487828</doi><ee>https://doi.org/10.1145/3487552.3487828</ee><url>https://dblp.org/rec/conf/imc/UkaniMS21</url></info>
+<url>URL#1033984</url>
+</hit>
+<hit score="1" id="1033985">
+<info><authors><author pid="78/4994">Zhaohua Wang</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="04/1868">Guangming Liu</author><author pid="305/3224">Yunfei Chen 0011</author><author pid="48/86">Qinghua Wu</author><author pid="155/5744">Gang Cheng</author></authors><title>Examination of WAN traffic characteristics in a large-scale data center network.</title><venue>Internet Measurement Conference</venue><pages>1-14</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Wang0LCWC21</key><doi>10.1145/3487552.3487860</doi><ee>https://doi.org/10.1145/3487552.3487860</ee><url>https://dblp.org/rec/conf/imc/Wang0LCWC21</url></info>
+<url>URL#1033985</url>
+</hit>
+<hit score="1" id="1033986">
+<info><authors><author pid="143/0845">Mengwei Xu</author><author pid="67/2275">Zhe Fu</author><author pid="35/573">Xiao Ma</author><author pid="89/5992">Li Zhang</author><author pid="129/5233">Yanan Li</author><author pid="54/476-1">Feng Qian 0001</author><author pid="73/8637">Shangguang Wang</author><author pid="75/6627">Ke Li</author><author pid="65/2850">Jingyu Yang</author><author pid="08/2161">Xuanzhe Liu</author></authors><title>From cloud to edge: a first look at public edge platforms.</title><venue>Internet Measurement Conference</venue><pages>37-53</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/XuFMZLQWLYL21</key><doi>10.1145/3487552.3487815</doi><ee>https://doi.org/10.1145/3487552.3487815</ee><url>https://dblp.org/rec/conf/imc/XuFMZLQWLYL21</url></info>
+<url>URL#1033986</url>
+</hit>
+<hit score="1" id="1033987">
+<info><authors><author pid="259/6190">Diwen Xue</author><author pid="270/2465">Reethika Ramesh</author><author pid="305/3341">Valdik S. S</author><author pid="270/2407">Leonid Evdokimov</author><author pid="305/3161">Andrey Viktorov</author><author pid="305/3463">Arham Jain</author><author pid="60/8733">Eric Wustrow</author><author pid="10/9977">Simone Basso</author><author pid="24/973">Roya Ensafi</author></authors><title>Throttling Twitter: an emerging censorship technique in Russia.</title><venue>Internet Measurement Conference</venue><pages>435-443</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/XueRSEVJWBE21</key><doi>10.1145/3487552.3487858</doi><ee>https://doi.org/10.1145/3487552.3487858</ee><url>https://dblp.org/rec/conf/imc/XueRSEVJWBE21</url></info>
+<url>URL#1033987</url>
+</hit>
+<hit score="1" id="1033988">
+<info><authors><author pid="299/5160">Yutian Yan</author><author pid="212/1284">Tengfei Tu</author><author pid="305/3208">Lijian Zhao</author><author pid="39/10084">Yuchen Zhou</author><author pid="57/7210-1">Weihang Wang 0001</author></authors><title>Understanding the performance of webassembly applications.</title><venue>Internet Measurement Conference</venue><pages>533-549</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/YanTZZ021</key><doi>10.1145/3487552.3487827</doi><ee>https://doi.org/10.1145/3487552.3487827</ee><url>https://dblp.org/rec/conf/imc/YanTZZ021</url></info>
+<url>URL#1033988</url>
+</hit>
+<hit score="1" id="1033989">
+<info><authors><author pid="202/7659">Eric Zeng</author><author pid="217/4562">Miranda Wei</author><author pid="300/2633">Theo Gregersen</author><author pid="k/TadayoshiKohno">Tadayoshi Kohno</author><author pid="23/2758">Franziska Roesner</author></authors><title>Polls, clickbait, and commemorative $2 bills: problematic political advertising on news and media websites around the 2020 U.S. elections.</title><venue>Internet Measurement Conference</venue><pages>507-525</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZengWGKR21</key><doi>10.1145/3487552.3487850</doi><ee>https://doi.org/10.1145/3487552.3487850</ee><url>https://dblp.org/rec/conf/imc/ZengWGKR21</url></info>
+<url>URL#1033989</url>
+</hit>
+<hit score="1" id="1033990">
+<info><authors><author pid="214/6089">Zesen Zhang</author><author pid="189/5385">Alexander Marder</author><author pid="68/9978">Ricky K. P. Mok</author><author pid="11/3626">Bradley Huffaker</author><author pid="12/4563">Matthew Luckie</author><author pid="68/4966">Kimberly C. Claffy</author><author pid="77/3626">Aaron Schulman</author></authors><title>Inferring regional access network topologies: methods and applications.</title><venue>Internet Measurement Conference</venue><pages>720-738</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZhangMMHLCS21</key><doi>10.1145/3487552.3487812</doi><ee>https://doi.org/10.1145/3487552.3487812</ee><url>https://dblp.org/rec/conf/imc/ZhangMMHLCS21</url></info>
+<url>URL#1033990</url>
+</hit>
+<hit score="1" id="1033991">
+<info><authors><author pid="175/1273">Johannes Zirngibl</author><author pid="305/3080">Philippe Buschmann</author><author pid="202/1845">Patrick Sattler</author><author pid="238/9785">Benedikt Jaeger</author><author pid="305/3110">Juliane Aulbach</author><author pid="c/GeorgCarle">Georg Carle</author></authors><title>It&apos;s over 9000: analyzing early QUIC deployments with the standardization on the horizon.</title><venue>Internet Measurement Conference</venue><pages>261-275</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZirngiblBSJAC21</key><doi>10.1145/3487552.3487826</doi><ee>https://doi.org/10.1145/3487552.3487826</ee><url>https://dblp.org/rec/conf/imc/ZirngiblBSJAC21</url></info>
+<url>URL#1033991</url>
+</hit>
+<hit score="1" id="1033992">
+<info><authors><author pid="305/3227">Maya Ziv</author><author pid="227/0738">Liz Izhikevich</author><author pid="201/9217">Kimberly Ruth</author><author pid="305/3254">Katherine Izhikevich</author><author pid="143/5673">Zakir Durumeric</author></authors><title>ASdb: a system for classifying owners of autonomous systems.</title><venue>Internet Measurement Conference</venue><pages>703-719</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZivIRID21</key><doi>10.1145/3487552.3487853</doi><ee>https://doi.org/10.1145/3487552.3487853</ee><url>https://dblp.org/rec/conf/imc/ZivIRID21</url></info>
+<url>URL#1033992</url>
+</hit>
+<hit score="1" id="1100737">
+<info><authors><author pid="03/6428">Dave Levin</author><author pid="31/3833">Alan Mislove</author><author pid="150/8002">Johanna Amann</author><author pid="12/4563">Matthew Luckie</author></authors><title>IMC &apos;21: ACM Internet Measurement Conference, Virtual Event, USA, November 2-4, 2021</title><venue>Internet Measurement Conference</venue><publisher>ACM</publisher><year>2021</year><type>Editorship</type><key>conf/imc/2021</key><doi>10.1145/3487552</doi><ee>https://doi.org/10.1145/3487552</ee><url>https://dblp.org/rec/conf/imc/2021</url></info>
+<url>URL#1100737</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59533">:facetid:toc:\"db/conf/ipsn/ipsn2023.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">188.27</time>
+<completions total="1" computed="1" sent="1">
+<c sc="59" dc="59" oc="59" id="41048639">:facetid:toc:db/conf/ipsn/ipsn2023.bht</c>
+</completions>
+<hits total="59" computed="59" sent="59" first="0">
+<hit score="1" id="172819">
+<info><authors><author pid="223/9902-2">Aditya Arun 0002</author><author pid="93/10604">William Hunter</author><author pid="52/10159">Dinesh Bharadia</author></authors><title>Demo Abstract: Accessible WiFi sensing leveraging Robot Operating System.</title><venue>IPSN</venue><pages>356-357</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/0002HB23</key><doi>10.1145/3583120.3589817</doi><ee>https://doi.org/10.1145/3583120.3589817</ee><url>https://dblp.org/rec/conf/ipsn/0002HB23</url></info>
+<url>URL#172819</url>
+</hit>
+<hit score="1" id="172820">
+<info><authors><author pid="339/6630">Haoyang Wang 0012</author><author pid="339/6783">Fanhang Man</author><author pid="152/5077">Zihan Wang</author><author pid="42/7844">Yuxuan Liu</author><author pid="41/9922">Xinlei Chen</author><author pid="22/10126">Wenbo Ding</author></authors><title>Poster Abstract: TENG-enabled Self-powered Human-machine Interfaces for the Metaverse.</title><venue>IPSN</venue><pages>306-307</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/0012MWLCD23</key><doi>10.1145/3583120.3589820</doi><ee>https://doi.org/10.1145/3583120.3589820</ee><url>https://dblp.org/rec/conf/ipsn/0012MWLCD23</url></info>
+<url>URL#172820</url>
+</hit>
+<hit score="1" id="172821">
+<info><authors><author pid="197/0145">Murtadha Aldeer</author><author pid="75/5247">Yuan Sun</author><author pid="346/2474">Nandana Pai</author><author pid="252/3707">Joseph Florentine</author><author pid="263/7533">Justin Yu</author><author pid="53/4663-1">Jorge Ortiz 0001</author></authors><title>Poster Abstract: A Testbed for Context Representation in Physical Spaces.</title><venue>IPSN</venue><pages>336-337</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AldeerSPFY023</key><doi>10.1145/3583120.3589838</doi><ee>https://doi.org/10.1145/3583120.3589838</ee><url>https://dblp.org/rec/conf/ipsn/AldeerSPFY023</url></info>
+<url>URL#172821</url>
+</hit>
+<hit score="1" id="172822">
+<info><authors><author pid="197/0145">Murtadha Aldeer</author><author pid="278/3930">David Waterworth</author><author pid="346/2658">Parth Jain</author><author pid="20/10238">Xiang Meng</author><author pid="55/3942">Richard P. Martin</author><author pid="53/4663-1">Jorge Ortiz 0001</author></authors><title>Poster Abstract: A Radar Based User Discrimination System for Medication Adherence Monitoring.</title><venue>IPSN</venue><pages>338-339</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AldeerWJMM023</key><doi>10.1145/3583120.3589839</doi><ee>https://doi.org/10.1145/3583120.3589839</ee><url>https://dblp.org/rec/conf/ipsn/AldeerWJMM023</url></info>
+<url>URL#172822</url>
+</hit>
+<hit score="1" id="172823">
+<info><authors><author pid="346/2644">Jawaher Alharbi</author><author pid="45/4421">Arshad Jhumka</author></authors><title>Poster Abstract: Checkpointing in Transiently Powered IoT Networks.</title><venue>IPSN</venue><pages>316-317</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AlharbiJ23</key><doi>10.1145/3583120.3589827</doi><ee>https://doi.org/10.1145/3583120.3589827</ee><url>https://dblp.org/rec/conf/ipsn/AlharbiJ23</url></info>
+<url>URL#172823</url>
+</hit>
+<hit score="1" id="172824">
+<info><authors><author pid="238/4536">Andreas Biri</author><author pid="136/1076">Reto Da Forno</author><author pid="346/2422">Tobias Kuonen</author><author pid="188/9393">Fabian Mager</author><author pid="41/2357">Marco Zimmerling</author><author pid="t/LotharThiele">Lothar Thiele</author></authors><title>Hydra: Concurrent Coordination for Fault-tolerant Networking.</title><venue>IPSN</venue><pages>219-232</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BiriFKMZT23</key><doi>10.1145/3583120.3587047</doi><ee>https://doi.org/10.1145/3583120.3587047</ee><url>https://dblp.org/rec/conf/ipsn/BiriFKMZT23</url></info>
+<url>URL#172824</url>
+</hit>
+<hit score="1" id="172825">
+<info><authors><author pid="227/5571">Alex Cabral</author></authors><title>PhD Forum Abstract: Designing Large-Scale Wireless Urban Environmental Sensor Networks.</title><venue>IPSN</venue><pages>342-343</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Cabral23</key><doi>10.1145/3583120.3589565</doi><ee>https://doi.org/10.1145/3583120.3589565</ee><url>https://dblp.org/rec/conf/ipsn/Cabral23</url></info>
+<url>URL#172825</url>
+</hit>
+<hit score="1" id="172826">
+<info><authors><author pid="181/2732">Tao Cheng</author><author pid="l/ShiNingLi">Shining Li</author><author pid="88/1017">Feng Jiao</author><author pid="88/3327">Yan Pan</author></authors><title>WibZig: Reliable and Commodity-device Compatible PHY-CTC via Chip Emulation in Phase.</title><venue>IPSN</venue><pages>191-204</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ChengLJP23</key><doi>10.1145/3583120.3587046</doi><ee>https://doi.org/10.1145/3583120.3587046</ee><url>https://dblp.org/rec/conf/ipsn/ChengLJP23</url></info>
+<url>URL#172826</url>
+</hit>
+<hit score="1" id="172827">
+<info><authors><author pid="97/5935">Lillian Clark</author><author pid="346/2201">Sampad Mohanty</author><author pid="87/2250">Bhaskar Krishnamachari</author></authors><title>Poster Abstract: SMILE: Robust Network Localization via Sparse and Low-Rank Matrix Decomposition.</title><venue>IPSN</venue><pages>322-323</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ClarkMK23</key><doi>10.1145/3583120.3589831</doi><ee>https://doi.org/10.1145/3583120.3589831</ee><url>https://dblp.org/rec/conf/ipsn/ClarkMK23</url></info>
+<url>URL#172827</url>
+</hit>
+<hit score="1" id="172828">
+<info><authors><author pid="268/2312">Jesse R. Codling</author><author pid="346/2785">Jeffrey D. Shulkin</author><author pid="274/6496-1">Yiwen Dong 0001</author><author pid="218/2216">Jiale Zhang</author><author pid="182/1935">Hugo Latapie</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author></authors><title>Demo Abstract: FreePulse Heart Rate Monitoring System using Ambient Structural Vibrations.</title><venue>IPSN</venue><pages>364-365</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/CodlingS0ZLN023</key><doi>10.1145/3583120.3589812</doi><ee>https://doi.org/10.1145/3583120.3589812</ee><url>https://dblp.org/rec/conf/ipsn/CodlingS0ZLN023</url></info>
+<url>URL#172828</url>
+</hit>
+<hit score="1" id="172829">
+<info><authors><author pid="346/2665">Jared Ray Coleman</author></authors><title>PhD Forum Abstract: Cooperative Problem-Solving with Systems of Constrained Mobile Agents.</title><venue>IPSN</venue><pages>346-347</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Coleman23</key><doi>10.1145/3583120.3589568</doi><ee>https://doi.org/10.1145/3583120.3589568</ee><url>https://dblp.org/rec/conf/ipsn/Coleman23</url></info>
+<url>URL#172829</url>
+</hit>
+<hit score="1" id="172830">
+<info><authors><author pid="226/9268">Kaiyan Cui</author><author pid="82/6362-18">Qiang Yang 0018</author><author pid="08/9937">Yuanqing Zheng</author><author pid="96/6606">Jinsong Han</author></authors><title>mmRipple: Communicating with mmWave Radars through Smartphone Vibration.</title><venue>IPSN</venue><pages>149-162</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/CuiYZH23</key><doi>10.1145/3583120.3586956</doi><ee>https://doi.org/10.1145/3583120.3586956</ee><url>https://dblp.org/rec/conf/ipsn/CuiYZH23</url></info>
+<url>URL#172830</url>
+</hit>
+<hit score="1" id="172831">
+<info><authors><author pid="252/3690">Yimin Dai</author><author pid="228/5965">Xian Shuai</author><author pid="00/5179">Rui Tan</author><author pid="63/4542">Guoliang Xing</author></authors><title>Interpersonal Distance Tracking with mmWave Radar and IMUs.</title><venue>IPSN</venue><pages>123-135</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/DaiSTX23</key><doi>10.1145/3583120.3586958</doi><ee>https://doi.org/10.1145/3583120.3586958</ee><url>https://dblp.org/rec/conf/ipsn/DaiSTX23</url></info>
+<url>URL#172831</url>
+</hit>
+<hit score="1" id="172832">
+<info><authors><author pid="203/8667">Lin Duan</author><author pid="21/5521">Ying Chen</author><author pid="58/7552">Maria Gorlatova</author></authors><title>Demo Abstract: BiGuide: A Bi-level Data Acquisition Guidance for Object Detection on Mobile Devices.</title><venue>IPSN</venue><pages>368-369</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/DuanCG23</key><doi>10.1145/3583120.3589809</doi><ee>https://doi.org/10.1145/3583120.3589809</ee><url>https://dblp.org/rec/conf/ipsn/DuanCG23</url></info>
+<url>URL#172832</url>
+</hit>
+<hit score="1" id="172833">
+<info><authors><author pid="304/4665">Sangjun Eom</author><author pid="256/7504">Ritvik Janamsetty</author><author pid="296/3903">Majda Hadziahmetovic</author><author pid="74/7446">Miroslav Pajic</author><author pid="58/7552">Maria Gorlatova</author></authors><title>Demo Abstract: Edge-based Augmented Reality Guidance System for Retinal Laser Therapy via Feature Matching.</title><venue>IPSN</venue><pages>366-367</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/EomJHPG23</key><doi>10.1145/3583120.3589814</doi><ee>https://doi.org/10.1145/3583120.3589814</ee><url>https://dblp.org/rec/conf/ipsn/EomJHPG23</url></info>
+<url>URL#172833</url>
+</hit>
+<hit score="1" id="172834">
+<info><authors><author pid="346/2836">Justin Feng</author><author pid="346/2820">Timothy Jacques</author><author pid="71/9428">Omid Abari</author><author pid="139/9042">Nader Sehatbakhsh</author></authors><title>Everything has its Bad Side and Good Side: Turning Processors to Low Overhead Radios Using Side-Channels.</title><venue>IPSN</venue><pages>288-301</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/FengJAS23</key><doi>10.1145/3583120.3586959</doi><ee>https://doi.org/10.1145/3583120.3586959</ee><url>https://dblp.org/rec/conf/ipsn/FengJAS23</url></info>
+<url>URL#172834</url>
+</hit>
+<hit score="1" id="172835">
+<info><authors><author pid="346/2836">Justin Feng</author><author pid="346/2820">Timothy Jacques</author><author pid="71/9428">Omid Abari</author><author pid="139/9042">Nader Sehatbakhsh</author></authors><title>Demo Abstract: Leveraging Side-Channels to Turn Processors into Low Overhead Radios.</title><venue>IPSN</venue><pages>360-361</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/FengJAS23a</key><doi>10.1145/3583120.3589813</doi><ee>https://doi.org/10.1145/3583120.3589813</ee><url>https://dblp.org/rec/conf/ipsn/FengJAS23a</url></info>
+<url>URL#172835</url>
+</hit>
+<hit score="1" id="172836">
+<info><authors><author pid="263/2278">Angelo Feraudo</author></authors><title>PhD Forum Abstract: Vehicular-based Support to Cooperative Edge Computing based Applications in Next-gen Networks.</title><venue>IPSN</venue><pages>352-353</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Feraudo23</key><doi>10.1145/3583120.3589571</doi><ee>https://doi.org/10.1145/3583120.3589571</ee><url>https://dblp.org/rec/conf/ipsn/Feraudo23</url></info>
+<url>URL#172836</url>
+</hit>
+<hit score="1" id="172837">
+<info><authors><author pid="346/2848">Raúl De La Fuente</author><author pid="44/6300">Thomas Watteyne</author></authors><title>Poster Abstract: Hands-on Evaluation of Kinéis Satellite IoT Technology.</title><venue>IPSN</venue><pages>334-335</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/FuenteW23</key><doi>10.1145/3583120.3589837</doi><ee>https://doi.org/10.1145/3583120.3589837</ee><url>https://dblp.org/rec/conf/ipsn/FuenteW23</url></info>
+<url>URL#172837</url>
+</hit>
+<hit score="1" id="172838">
+<info><authors><author pid="194/5827">Kai Geissdoerfer</author><author pid="203/0944">Ingmar Splitt</author><author pid="41/2357">Marco Zimmerling</author></authors><title>Demo Abstract: Building Battery-free Devices with Riotee✱.</title><venue>IPSN</venue><pages>354-355</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GeissdoerferSZ23</key><doi>10.1145/3583120.3589808</doi><ee>https://doi.org/10.1145/3583120.3589808</ee><url>https://dblp.org/rec/conf/ipsn/GeissdoerferSZ23</url></info>
+<url>URL#172838</url>
+</hit>
+<hit score="1" id="172839">
+<info><authors><author pid="289/6062">Seyed Keyarash Ghiasi</author><author pid="346/2797">Vivian Dsouza</author><author pid="l/KoenLangendoen">Koen Langendoen</author><author pid="z/MarcoZuniga">Marco Zuniga</author></authors><title>SpectraLux: Towards Exploiting the Full Spectrum with Passive VLC.</title><venue>IPSN</venue><pages>274-287</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GhiasiDLZ23</key><doi>10.1145/3583120.3586966</doi><ee>https://doi.org/10.1145/3583120.3586966</ee><url>https://dblp.org/rec/conf/ipsn/GhiasiDLZ23</url></info>
+<url>URL#172839</url>
+</hit>
+<hit score="1" id="172840">
+<info><authors><author pid="340/7343">Zhuangzhuang Gu</author><author pid="146/0105">Sanjib Sur</author></authors><title>Poster Abstract: mmWaveNet: Indoor Point Cloud Generation from Millimeter-Wave Devices.</title><venue>IPSN</venue><pages>308-309</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GuS23</key><doi>10.1145/3583120.3589822</doi><ee>https://doi.org/10.1145/3583120.3589822</ee><url>https://dblp.org/rec/conf/ipsn/GuS23</url></info>
+<url>URL#172840</url>
+</hit>
+<hit score="1" id="172841">
+<info><authors><author pid="247/4860">Saptarshi Hazra</author><author pid="19/3469">Fehmi Ben Abdesslem</author><author pid="46/5016">Thiemo Voigt</author></authors><title>Poster Abstract: Battery-free Neighbor Discovery.</title><venue>IPSN</venue><pages>318-319</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/HazraAV23</key><doi>10.1145/3583120.3589829</doi><ee>https://doi.org/10.1145/3583120.3589829</ee><url>https://dblp.org/rec/conf/ipsn/HazraAV23</url></info>
+<url>URL#172841</url>
+</hit>
+<hit score="1" id="172842">
+<info><authors><author pid="346/2485">Jizheng He</author><author pid="323/2531">Thomas Horton King</author><author pid="340/7245">Chun-Kai Yao</author><author pid="266/9832">Akarsh Prabhakara</author><author pid="299/6254">Mohamad Alipour</author><author pid="44/8737">Swarun Kumar</author><author pid="02/630">Anthony Rowe 0001</author><author pid="180/7169">Elahe Soltanaghai</author></authors><title>Demo Abstract: Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As &quot;Phase Carriers&quot;.</title><venue>IPSN</venue><pages>358-359</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/HeKYPAKRS23</key><doi>10.1145/3583120.3589815</doi><ee>https://doi.org/10.1145/3583120.3589815</ee><url>https://dblp.org/rec/conf/ipsn/HeKYPAKRS23</url></info>
+<url>URL#172842</url>
+</hit>
+<hit score="1" id="172843">
+<info><authors><author pid="257/5577">Arvin Hekmati</author></authors><title>PhD Forum Abstract: DDoS attack detection in IoT systems using Neural Networks.</title><venue>IPSN</venue><pages>340-341</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Hekmati23</key><doi>10.1145/3583120.3589564</doi><ee>https://doi.org/10.1145/3583120.3589564</ee><url>https://dblp.org/rec/conf/ipsn/Hekmati23</url></info>
+<url>URL#172843</url>
+</hit>
+<hit score="1" id="172844">
+<info><authors><author pid="118/8687">Kaiyuan Hou</author><author pid="188/9399">Stephen Xia</author><author pid="339/6610">Emily Bejerano</author><author pid="125/0678">Junyi Wu</author><author pid="j/XiaofanJiang">Xiaofan Jiang 0001</author></authors><title>ARSteth: Enabling Home Self-Screening with AR-Assisted Intelligent Stethoscopes.</title><venue>IPSN</venue><pages>205-218</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/HouXBW023</key><doi>10.1145/3583120.3586962</doi><ee>https://doi.org/10.1145/3583120.3586962</ee><url>https://dblp.org/rec/conf/ipsn/HouXBW023</url></info>
+<url>URL#172844</url>
+</hit>
+<hit score="1" id="172845">
+<info><authors><author pid="70/5618-3">Hua Huang 0003</author><author pid="346/2668">Rahul Sidramappa Hoskeri</author><author pid="346/2543">Yangqing Sun</author></authors><title>Poster Abstract: Driving Behavior Monitoring with Unobtrusive Smart-glasses.</title><venue>IPSN</venue><pages>328-329</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/HuangHS23</key><doi>10.1145/3583120.3589834</doi><ee>https://doi.org/10.1145/3583120.3589834</ee><url>https://dblp.org/rec/conf/ipsn/HuangHS23</url></info>
+<url>URL#172845</url>
+</hit>
+<hit score="1" id="172846">
+<info><authors><author pid="207/1727">Ishani Janveja</author><author pid="125/6600">Jiaming Wang</author><author pid="224/2356">Junfeng Guan</author><author pid="224/2097">Suraj Jog</author><author pid="13/8398">Haitham Hassanieh</author></authors><title>WINC: A Wireless IoT Network for Multi-Noise Source Cancellation.</title><venue>IPSN</venue><pages>110-122</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JanvejaWGJH23</key><doi>10.1145/3583120.3586964</doi><ee>https://doi.org/10.1145/3583120.3586964</ee><url>https://dblp.org/rec/conf/ipsn/JanvejaWGJH23</url></info>
+<url>URL#172846</url>
+</hit>
+<hit score="1" id="172847">
+<info><authors><author pid="228/5948">Zhehao Jiang</author><author pid="228/5904">Neiwen Ling</author><author pid="57/4206">Xuan Huang</author><author pid="293/0250">Shuyao Shi</author><author pid="235/2650">Chenhao Wu</author><author pid="50/5365">Xiaoguang Zhao</author><author pid="57/1273-2">Zhenyu Yan 0002</author><author pid="63/4542">Guoliang Xing</author></authors><title>CoEdge: A Cooperative Edge System for Distributed Real-Time Deep Learning Tasks.</title><venue>IPSN</venue><pages>53-66</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JiangLHSWZ0X23</key><doi>10.1145/3583120.3586955</doi><ee>https://doi.org/10.1145/3583120.3586955</ee><url>https://dblp.org/rec/conf/ipsn/JiangLHSWZ0X23</url></info>
+<url>URL#172847</url>
+</hit>
+<hit score="1" id="172848">
+<info><authors><author pid="323/2531">Thomas Horton King</author><author pid="346/2485">Jizheng He</author><author pid="340/7245">Chun-Kai Yao</author><author pid="266/9832">Akarsh Prabhakara</author><author pid="299/6254">Mohamad Alipour</author><author pid="44/8737">Swarun Kumar</author><author pid="02/630">Anthony Rowe 0001</author><author pid="180/7169">Elahe Soltanaghai</author></authors><title>Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As &quot;Phase Carriers&quot;.</title><venue>IPSN</venue><pages>136-148</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KingHYPAKRS23</key><doi>10.1145/3583120.3586965</doi><ee>https://doi.org/10.1145/3583120.3586965</ee><url>https://dblp.org/rec/conf/ipsn/KingHYPAKRS23</url></info>
+<url>URL#172848</url>
+</hit>
+<hit score="1" id="172849">
+<info><authors><author pid="346/2608">Dechabhol Kotheeranurak</author><author pid="201/2728">Orathai Sangpetch</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author></authors><title>Poster Abstract: Long-Term Inventory Flow Management System Tracking Using Doorway Monitoring.</title><venue>IPSN</venue><pages>324-325</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KotheeranurakSN23</key><doi>10.1145/3583120.3589832</doi><ee>https://doi.org/10.1145/3583120.3589832</ee><url>https://dblp.org/rec/conf/ipsn/KotheeranurakSN23</url></info>
+<url>URL#172849</url>
+</hit>
+<hit score="1" id="172850">
+<info><authors><author pid="19/1764">Seulki Lee</author></authors><title>MicroDeblur: Image Motion Deblurring on Microcontroller-based Vision Systems.</title><venue>IPSN</venue><pages>233-246</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Lee23</key><doi>10.1145/3583120.3586970</doi><ee>https://doi.org/10.1145/3583120.3586970</ee><url>https://dblp.org/rec/conf/ipsn/Lee23</url></info>
+<url>URL#172850</url>
+</hit>
+<hit score="1" id="172851">
+<info><authors><author pid="190/9812">Jiajie Li</author><author pid="270/8342">Amani Abusafia</author><author pid="189/1450">Abdallah Lakhdari</author><author pid="01/458">Athman Bouguettaya</author></authors><title>Activity-based Profiling for Energy Harvesting Estimation.</title><venue>IPSN</venue><pages>326-327</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LiALB23</key><doi>10.1145/3583120.3589833</doi><ee>https://doi.org/10.1145/3583120.3589833</ee><url>https://dblp.org/rec/conf/ipsn/LiALB23</url></info>
+<url>URL#172851</url>
+</hit>
+<hit score="1" id="172852">
+<info><authors><author pid="83/7820">Chenglong Li</author><author pid="171/0907">Cunlu Li</author><author pid="170/9943">Wenwen Fu</author><author pid="75/4601">Tao Li</author><author pid="96/5513">Baosheng Wang</author></authors><title>Poster Abstract: A Network-on-Chip Router Architecture for Industrial Internet-of-Thing Gateways.</title><venue>IPSN</venue><pages>302-303</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LiLFLW23</key><doi>10.1145/3583120.3589818</doi><ee>https://doi.org/10.1145/3583120.3589818</ee><url>https://dblp.org/rec/conf/ipsn/LiLFLW23</url></info>
+<url>URL#172852</url>
+</hit>
+<hit score="1" id="172853">
+<info><authors><author pid="226/3653">Boya Liu</author><author pid="211/7582">Chaojie Gu</author><author pid="07/7178">Shibo He</author><author pid="55/2484-1">Jiming Chen 0001</author></authors><title>LoPhy: A Resilient and Fast Covert Channel over LoRa PHY.</title><venue>IPSN</venue><pages>1-13</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LiuGH023</key><doi>10.1145/3583120.3586952</doi><ee>https://doi.org/10.1145/3583120.3586952</ee><url>https://dblp.org/rec/conf/ipsn/LiuGH023</url></info>
+<url>URL#172853</url>
+</hit>
+<hit score="1" id="172854">
+<info><authors><author pid="150/4981">Yanchen Liu</author><author pid="02/291">Yu Ji</author><author pid="31/3520">Minghui Zhao</author><author pid="j/XiaofanJiang">Xiaofan Jiang 0001</author><author pid="24/1975">Xia Zhou</author><author pid="92/5285">Changxi Zheng</author></authors><title>Demo Abstract: Seamless High-Speed Optical Communication for Mobile Wide-Area Using Diffused Infrared Laser.</title><venue>IPSN</venue><pages>370-371</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LiuJZ0ZZ23</key><doi>10.1145/3583120.3589811</doi><ee>https://doi.org/10.1145/3583120.3589811</ee><url>https://dblp.org/rec/conf/ipsn/LiuJZ0ZZ23</url></info>
+<url>URL#172854</url>
+</hit>
+<hit score="1" id="172855">
+<info><authors><author pid="39/6028">Wenjie Luo</author></authors><title>PhD Forum Abstract: Integrating Prior Knowledge and Machine Learning Techniques for Efficient AIoT Sensing.</title><venue>IPSN</venue><pages>350-351</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Luo23</key><doi>10.1145/3583120.3589570</doi><ee>https://doi.org/10.1145/3583120.3589570</ee><url>https://dblp.org/rec/conf/ipsn/Luo23</url></info>
+<url>URL#172855</url>
+</hit>
+<hit score="1" id="172856">
+<info><authors><author pid="291/9468">Sayedsepehr Mosavat</author><author pid="15/1762-1">Matteo Zella</author><author pid="35/3498">Marcus Handte</author><author pid="177/2752">Alexander Julian Golkowski</author><author pid="65/3060">Pedro José Marrón</author></authors><title>Experience: ARISTOTLE: wAke-up ReceIver-based, STar tOpology baTteryLEss sensor network.</title><venue>IPSN</venue><pages>177-190</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MosavatZHGM23</key><doi>10.1145/3583120.3586961</doi><ee>https://doi.org/10.1145/3583120.3586961</ee><url>https://dblp.org/rec/conf/ipsn/MosavatZHGM23</url></info>
+<url>URL#172856</url>
+</hit>
+<hit score="1" id="172857">
+<info><authors><author pid="276/1188">Keondo Park</author><author pid="346/2847">You Rim Choi</author><author pid="346/2642">Inhoe Lee</author><author pid="05/9097">Hyung-Sin Kim</author></authors><title>PointSplit: Towards On-device 3D Object Detection with Heterogeneous Low-power Accelerators.</title><venue>IPSN</venue><pages>67-81</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ParkCLK23</key><doi>10.1145/3583120.3587045</doi><ee>https://doi.org/10.1145/3583120.3587045</ee><url>https://dblp.org/rec/conf/ipsn/ParkCLK23</url></info>
+<url>URL#172857</url>
+</hit>
+<hit score="1" id="172858">
+<info><authors><author pid="252/0610">Daniel F. Perez-Ramirez</author><author pid="150/7352">Carlos M. Pérez-Penichet</author><author pid="92/2319">Nicolas Tsiftes</author><author pid="46/5016">Thiemo Voigt</author><author pid="03/3188">Dejan Kostic</author><author pid="53/3303">Magnus Boman</author></authors><title>DeepGANTT: A Scalable Deep Learning Scheduler for Backscatter Networks.</title><venue>IPSN</venue><pages>163-176</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Perez-RamirezPT23</key><doi>10.1145/3583120.3586957</doi><ee>https://doi.org/10.1145/3583120.3586957</ee><url>https://dblp.org/rec/conf/ipsn/Perez-RamirezPT23</url></info>
+<url>URL#172858</url>
+</hit>
+<hit score="1" id="172859">
+<info><authors><author pid="266/9832">Akarsh Prabhakara</author></authors><title>PhD Forum Abstract: Pushing the limits of high resolution sensing with single-chip mmWave radar.</title><venue>IPSN</venue><pages>348-349</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Prabhakara23</key><doi>10.1145/3583120.3589569</doi><ee>https://doi.org/10.1145/3583120.3589569</ee><url>https://dblp.org/rec/conf/ipsn/Prabhakara23</url></info>
+<url>URL#172859</url>
+</hit>
+<hit score="1" id="172860">
+<info><authors><author pid="261/2085">M. Arif Rahman</author><author pid="346/2477">Keshara Weerasinghe</author><author pid="191/7854">Lahiru N. S. Wijayasingha</author><author pid="80/7769">Homa Alemzadeh</author><author pid="63/2761">Ronald D. Williams</author><author pid="s/JohnAStankovic">John A. Stankovic</author></authors><title>Poster Abstract: SenseEMS - Towards A Hand Activity Recognition and Monitoring System for Emergency Medical Services.</title><venue>IPSN</venue><pages>310-311</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/RahmanWWAWS23</key><doi>10.1145/3583120.3589823</doi><ee>https://doi.org/10.1145/3583120.3589823</ee><url>https://dblp.org/rec/conf/ipsn/RahmanWWAWS23</url></info>
+<url>URL#172860</url>
+</hit>
+<hit score="1" id="172861">
+<info><authors><author pid="346/2186">Seungwoo Shim</author><author pid="292/0942">Hyeonho Shin</author><author pid="346/2432">Myeongkyun Cho</author><author pid="51/343">Youngki Lee</author><author pid="31/7062">Jinwoo Shin</author><author pid="55/10607">Song Min Kim</author></authors><title>Mosaic: Extremely Low-resolution RFID Vision for Visually-anonymized Action Recognition.</title><venue>IPSN</venue><pages>247-260</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ShimSCLSK23</key><doi>10.1145/3583120.3586968</doi><ee>https://doi.org/10.1145/3583120.3586968</ee><url>https://dblp.org/rec/conf/ipsn/ShimSCLSK23</url></info>
+<url>URL#172861</url>
+</hit>
+<hit score="1" id="172862">
+<info><authors><author pid="241/6300">Marie Siew</author><author pid="346/2379">Shoba Arunasalam</author><author pid="236/2488">Yichen Ruan</author><author pid="323/5006">Ziwei Zhu</author><author pid="87/221">Lili Su</author><author pid="42/6940">Stratis Ioannidis</author><author pid="72/5346">Edmund Yeh</author><author pid="40/9937">Carlee Joe-Wong</author></authors><title>Poster Abstract: Fair Training of Multiple Federated Learning Models on Resource Constrained Network Devices.</title><venue>IPSN</venue><pages>330-331</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SiewARZSIYJ23</key><doi>10.1145/3583120.3589835</doi><ee>https://doi.org/10.1145/3583120.3589835</ee><url>https://dblp.org/rec/conf/ipsn/SiewARZSIYJ23</url></info>
+<url>URL#172862</url>
+</hit>
+<hit score="1" id="172863">
+<info><authors><author pid="346/2370">Enrico Soprana</author><author pid="217/5036">Matteo Trobinger</author><author pid="248/4998">Davide Vecchia</author><author pid="65/4458">Gian Pietro Picco</author></authors><title>Network On or Off? Instant Global Binary Decisions over UWB with Flick.</title><venue>IPSN</venue><pages>261-273</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SopranaTVP23</key><doi>10.1145/3583120.3586967</doi><ee>https://doi.org/10.1145/3583120.3586967</ee><url>https://dblp.org/rec/conf/ipsn/SopranaTVP23</url></info>
+<url>URL#172863</url>
+</hit>
+<hit score="1" id="172864">
+<info><authors><author pid="164/7470">Zehua Sun</author><author pid="50/4043">Tao Ni</author><author pid="312/1504">Huanqi Yang</author><author pid="73/4566-8">Kai Liu 0008</author><author pid="50/671-93">Yu Zhang 0093</author><author pid="65/4916">Tao Gu</author><author pid="98/7731">Weitao Xu</author></authors><title>FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks.</title><venue>IPSN</venue><pages>14-26</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SunNYLZGX23</key><doi>10.1145/3583120.3586963</doi><ee>https://doi.org/10.1145/3583120.3586963</ee><url>https://dblp.org/rec/conf/ipsn/SunNYLZGX23</url></info>
+<url>URL#172864</url>
+</hit>
+<hit score="1" id="172865">
+<info><authors><author pid="164/7470">Zehua Sun</author><author pid="50/4043">Tao Ni</author><author pid="312/1504">Huanqi Yang</author><author pid="73/4566-8">Kai Liu 0008</author><author pid="50/671-93">Yu Zhang 0093</author><author pid="65/4916">Tao Gu</author><author pid="98/7731">Weitao Xu</author></authors><title>Demo Abstract: A Novel Firmware Update Over-The-Air System for LoRa Networks.</title><venue>IPSN</venue><pages>362-363</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SunNYLZGX23a</key><doi>10.1145/3583120.3589816</doi><ee>https://doi.org/10.1145/3583120.3589816</ee><url>https://dblp.org/rec/conf/ipsn/SunNYLZGX23a</url></info>
+<url>URL#172865</url>
+</hit>
+<hit score="1" id="172866">
+<info><authors><author pid="346/2374">Jiazhao Wang</author><author pid="55/7618">Wenchao Jiang</author><author pid="55/7770">Wenjun Jiang</author><author pid="207/1798">Ruofeng Liu</author></authors><title>Demo Abstract: Using Neural Networks as Modulators for IoT Gateways.</title><venue>IPSN</venue><pages>372-373</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WangJJL23</key><doi>10.1145/3583120.3589810</doi><ee>https://doi.org/10.1145/3583120.3589810</ee><url>https://dblp.org/rec/conf/ipsn/WangJJL23</url></info>
+<url>URL#172866</url>
+</hit>
+<hit score="1" id="172867">
+<info><authors><author pid="75/5056-12">Tong Wu 0012</author><author pid="346/2431">Navid Salami Pargoo</author><author pid="53/4663-1">Jorge Ortiz 0001</author></authors><title>Poster Abstract: Multi-sensor Fusion for In-cabin Vehicular Sensing Applications.</title><venue>IPSN</venue><pages>332-333</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WuP023</key><doi>10.1145/3583120.3589836</doi><ee>https://doi.org/10.1145/3583120.3589836</ee><url>https://dblp.org/rec/conf/ipsn/WuP023</url></info>
+<url>URL#172867</url>
+</hit>
+<hit score="1" id="172868">
+<info><authors><author pid="86/8501">Kang Yang</author><author pid="149/9332">Yuning Chen</author><author pid="346/2198">Xuanren Chen</author><author pid="28/9430">Wan Du</author></authors><title>Link Quality Modeling for LoRa Networks in Orchards.</title><venue>IPSN</venue><pages>27-39</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/YangCCD23</key><doi>10.1145/3583120.3586969</doi><ee>https://doi.org/10.1145/3583120.3586969</ee><url>https://dblp.org/rec/conf/ipsn/YangCCD23</url></info>
+<url>URL#172868</url>
+</hit>
+<hit score="1" id="172869">
+<info><authors><author pid="54/8513">Xiaofan Yu</author></authors><title>PhD Forum Abstract: Intelligence beyond the Edge in IoT.</title><venue>IPSN</venue><pages>344-345</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Yu23</key><doi>10.1145/3583120.3589567</doi><ee>https://doi.org/10.1145/3583120.3589567</ee><url>https://dblp.org/rec/conf/ipsn/Yu23</url></info>
+<url>URL#172869</url>
+</hit>
+<hit score="1" id="172870">
+<info><authors><author pid="47/722">Yue Zhang</author><author pid="251/5406">Zhizhang Hu</author><author pid="320/4176">Uri Berger</author><author pid="98/10484">Shijia Pan</author></authors><title>CMA: Cross-Modal Association Between Wearable and Structural Vibration Signal Segments for Indoor Occupant Sensing.</title><venue>IPSN</venue><pages>96-109</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangHBP23</key><doi>10.1145/3583120.3586960</doi><ee>https://doi.org/10.1145/3583120.3586960</ee><url>https://dblp.org/rec/conf/ipsn/ZhangHBP23</url></info>
+<url>URL#172870</url>
+</hit>
+<hit score="1" id="172871">
+<info><authors><author pid="47/722">Yue Zhang</author><author pid="251/5406">Zhizhang Hu</author><author pid="320/4176">Uri Berger</author><author pid="98/10484">Shijia Pan</author></authors><title>Poster Abstract: Integrating On- and Off-body Sensing for Young Adults Failure to Launch (FTL) Behavior Profiling.</title><venue>IPSN</venue><pages>320-321</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangHBP23a</key><doi>10.1145/3583120.3589830</doi><ee>https://doi.org/10.1145/3583120.3589830</ee><url>https://dblp.org/rec/conf/ipsn/ZhangHBP23a</url></info>
+<url>URL#172871</url>
+</hit>
+<hit score="1" id="172872">
+<info><authors><author pid="174/3198">Ziyang Zhang</author><author pid="55/2893">Huan Li</author><author pid="50/2082">Yang Zhao</author><author pid="305/9647">Changyao Lin</author><author pid="03/2134-1">Jie Liu 0001</author></authors><title>POS: An Operator Scheduling Framework for Multi-model Inference on Edge Intelligent Computing.</title><venue>IPSN</venue><pages>1</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangLZL023</key><doi>10.1145/3583120.3586953</doi><ee>https://doi.org/10.1145/3583120.3586953</ee><url>https://dblp.org/rec/conf/ipsn/ZhangLZL023</url></info>
+<url>URL#172872</url>
+</hit>
+<hit score="1" id="172873">
+<info><authors><author pid="235/0642">Yongzhao Zhang</author><author pid="02/3812">Hao Pan</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="54/4031">Lili Qiu</author><author pid="09/2321">Yu Lu</author><author pid="79/1810">Guangtao Xue</author><author pid="85/3615">Jiadi Yu</author><author pid="214/2000-1">Feng Lyu 0001</author><author pid="82/5517">Haonan Wang</author></authors><title>Addressing Practical Challenges in Acoustic Sensing To Enable Fast Motion Tracking.</title><venue>IPSN</venue><pages>82-95</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangP0QLXY0W23</key><doi>10.1145/3583120.3586954</doi><ee>https://doi.org/10.1145/3583120.3586954</ee><url>https://dblp.org/rec/conf/ipsn/ZhangP0QLXY0W23</url></info>
+<url>URL#172873</url>
+</hit>
+<hit score="1" id="172874">
+<info><authors><author pid="218/2216">Jiale Zhang</author><author pid="346/2732">Shweta Pati</author><author pid="268/2312">Jesse R. Codling</author><author pid="151/0368">Adeola Bannis</author><author pid="170/2528">Carlos Ruiz Dominguez</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author></authors><title>Poster Abstract: Vibration-Based Object Classification with Structural Response of Ambient Music.</title><venue>IPSN</venue><pages>314-315</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangPCBDN023</key><doi>10.1145/3583120.3589825</doi><ee>https://doi.org/10.1145/3583120.3589825</ee><url>https://dblp.org/rec/conf/ipsn/ZhangPCBDN023</url></info>
+<url>URL#172874</url>
+</hit>
+<hit score="1" id="172875">
+<info><authors><author pid="174/3198">Ziyang Zhang</author><author pid="50/2082">Yang Zhao</author><author pid="03/2134-1">Jie Liu 0001</author></authors><title>Poster Abstract: DVFO: Dynamic Voltage, Frequency and Offloading for Efficient AI on Edge Devices.</title><venue>IPSN</venue><pages>304-305</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangZL23</key><doi>10.1145/3583120.3589819</doi><ee>https://doi.org/10.1145/3583120.3589819</ee><url>https://dblp.org/rec/conf/ipsn/ZhangZL23</url></info>
+<url>URL#172875</url>
+</hit>
+<hit score="1" id="172876">
+<info><authors><author pid="323/3096">Quanling Zhao</author><author pid="54/8513">Xiaofan Yu</author><author pid="s/TajanaSimunic">Tajana Rosing</author></authors><title>Poster Abstract: Attentive Multimodal Learning on Sensor Data using Hyperdimensional Computing.</title><venue>IPSN</venue><pages>312-313</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhaoYR23</key><doi>10.1145/3583120.3589824</doi><ee>https://doi.org/10.1145/3583120.3589824</ee><url>https://dblp.org/rec/conf/ipsn/ZhaoYR23</url></info>
+<url>URL#172876</url>
+</hit>
+<hit score="1" id="196945">
+<info><title>The 22nd International Conference on Information Processing in Sensor Networks, IPSN 2023, San Antonio, TX, USA, May 9-12, 2023</title><venue>IPSN</venue><publisher>ACM</publisher><year>2023</year><type>Editorship</type><key>conf/ipsn/2023</key><doi>10.1145/3583120</doi><ee>https://doi.org/10.1145/3583120</ee><url>https://dblp.org/rec/conf/ipsn/2023</url></info>
+<url>URL#196945</url>
+</hit>
+</hits>
+</result>

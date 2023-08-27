@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59389">:facetid:toc:\"db/conf/rtss/rtss2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">174.68</time>
+<completions total="1" computed="1" sent="1">
+<c sc="44" dc="44" oc="44" id="41061789">:facetid:toc:db/conf/rtss/rtss2020.bht</c>
+</completions>
+<hits total="44" computed="44" sent="44" first="0">
+<hit score="1" id="1512630">
+<info><authors><author pid="137/0299-1">Kecheng Yang 0001</author><author pid="27/1207-2">Zheng Dong 0002</author></authors><title>Mixed-Criticality Scheduling in Compositional Real-Time Systems with Multiple Budget Estimates.</title><venue>RTSS</venue><pages>25-37</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0001D20</key><doi>10.1109/RTSS49844.2020.00014</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00014</ee><url>https://dblp.org/rec/conf/rtss/0001D20</url></info>
+<url>URL#1512630</url>
+</hit>
+<hit score="1" id="1512631">
+<info><authors><author pid="116/8682-4">Shuai Zhao 0004</author><author pid="199/5323">Xiaotian Dai 0001</author><author pid="b/IainBate">Iain Bate</author><author pid="b/AlanBurns">Alan Burns 0001</author><author pid="67/3746">Wanli Chang 0001</author></authors><title>DAG Scheduling and Analysis on Multiprocessor Systems: Exploitation of Parallelism and Dependency.</title><venue>RTSS</venue><pages>128-140</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/00040BB020</key><doi>10.1109/RTSS49844.2020.00022</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00022</ee><url>https://dblp.org/rec/conf/rtss/00040BB020</url></info>
+<url>URL#1512631</url>
+</hit>
+<hit score="1" id="1512632">
+<info><authors><author pid="50/4629-4">Zhe Jiang 0004</author><author pid="137/0299-1">Kecheng Yang 0001</author><author pid="11/5001">Nathan Fisher</author><author pid="06/898">Neil C. Audsley</author><author pid="27/1207-2">Zheng Dong 0002</author></authors><title>Pythia-MCS: Enabling Quarter-Clairvoyance in I/O-Driven Mixed-Criticality Systems.</title><venue>RTSS</venue><pages>38-50</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/00040FAD20</key><doi>10.1109/RTSS49844.2020.00015</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00015</ee><url>https://dblp.org/rec/conf/rtss/00040FAD20</url></info>
+<url>URL#1512632</url>
+</hit>
+<hit score="1" id="1512633">
+<info><authors><author pid="166/8570-6">Jatin Arora 0006</author><author pid="65/8364">Cláudio Maia</author><author pid="153/1818">Syed Aftab Rashid</author><author pid="62/7802">Geoffrey Nelissen</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>Work-In-Progress: WCRT Analysis for the 3-Phase Task Model in Partitioned Scheduling.</title><venue>RTSS</venue><pages>407-410</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0006MRNT20</key><doi>10.1109/RTSS49844.2020.00050</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00050</ee><url>https://dblp.org/rec/conf/rtss/0006MRNT20</url></info>
+<url>URL#1512633</url>
+</hit>
+<hit score="1" id="1512634">
+<info><authors><author pid="35/962">Kunal Agrawal</author><author pid="b/SKBaruah">Sanjoy K. Baruah</author><author pid="39/4489">Zhishan Guo</author><author pid="l/JingLi25">Jing Li 0025</author><author pid="222/5967">Sudharsan Vaidhun</author></authors><title>Hard-Real-Time Routing in Probabilistic Graphs to Minimize Expected Delay.</title><venue>RTSS</venue><pages>63-75</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/AgrawalBG0V20</key><doi>10.1109/RTSS49844.2020.00017</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00017</ee><url>https://dblp.org/rec/conf/rtss/AgrawalBG0V20</url></info>
+<url>URL#1512634</url>
+</hit>
+<hit score="1" id="1512635">
+<info><authors><author pid="13/5546">Benny Akesson</author><author pid="58/7582">Mitra Nasri</author><author pid="62/7802">Geoffrey Nelissen</author><author pid="62/3654">Sebastian Altmeyer</author><author pid="44/5372">Robert I. Davis 0001</author></authors><title>An Empirical Survey-based Study into Industry Practice in Real-time Systems.</title><venue>RTSS</venue><pages>3-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/AkessonNNAD20</key><doi>10.1109/RTSS49844.2020.00012</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00012</ee><url>https://dblp.org/rec/conf/rtss/AkessonNNAD20</url></info>
+<url>URL#1512635</url>
+</hit>
+<hit score="1" id="1512636">
+<info><authors><author pid="169/2130">Luis Fernando Arcaro</author><author pid="169/2001">Karila Palma Silva</author><author pid="15/1283">Rômulo Silva de Oliveira</author><author pid="a/LuisAlmeida">Luís Almeida 0001</author></authors><title>Reliability Test based on a Binomial Experiment for Probabilistic Worst-Case Execution Times.</title><venue>RTSS</venue><pages>51-62</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ArcaroSOA20</key><doi>10.1109/RTSS49844.2020.00016</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00016</ee><url>https://dblp.org/rec/conf/rtss/ArcaroSOA20</url></info>
+<url>URL#1512636</url>
+</hit>
+<hit score="1" id="1512637">
+<info><authors><author pid="184/3699">Hyeongboo Baek</author><author pid="245/8152">Jaeheon Kwak</author><author pid="39/1801-1">Jinkyu Lee 0001</author></authors><title>Non-Preemptive Real-Time Multiprocessor Scheduling Beyond Work-Conserving.</title><venue>RTSS</venue><pages>102-114</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BaekK020</key><doi>10.1109/RTSS49844.2020.00020</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00020</ee><url>https://dblp.org/rec/conf/rtss/BaekK020</url></info>
+<url>URL#1512637</url>
+</hit>
+<hit score="1" id="1512638">
+<info><authors><author pid="b/SKBaruah">Sanjoy K. Baruah</author></authors><title>Work in Progress: The ILP-Tractability of Schedulability Analysis Problems.</title><venue>RTSS</venue><pages>391-394</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Baruah20</key><doi>10.1109/RTSS49844.2020.00046</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00046</ee><url>https://dblp.org/rec/conf/rtss/Baruah20</url></info>
+<url>URL#1512638</url>
+</hit>
+<hit score="1" id="1512639">
+<info><authors><author pid="b/AlanBurns">Alan Burns 0001</author><author pid="44/5372">Robert I. Davis 0001</author></authors><title>Schedulability Analysis for Adaptive Mixed Criticality Systems with Arbitrary Deadlines and Semi-Clairvoyance.</title><venue>RTSS</venue><pages>12-24</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BurnsD20</key><doi>10.1109/RTSS49844.2020.00013</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00013</ee><url>https://dblp.org/rec/conf/rtss/BurnsD20</url></info>
+<url>URL#1512639</url>
+</hit>
+<hit score="1" id="1512640">
+<info><authors><author pid="273/2527">Gabriella D&apos;Andrea</author><author pid="169/2371">Giacomo Valente</author></authors><title>Work-In-Progress: Cyber-Physical Systems and Dynamic Partial Reconfiguration Scalability: opportunities and challenges.</title><venue>RTSS</venue><pages>399-402</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/DAndreaV20</key><doi>10.1109/RTSS49844.2020.00048</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00048</ee><url>https://dblp.org/rec/conf/rtss/DAndreaV20</url></info>
+<url>URL#1512640</url>
+</hit>
+<hit score="1" id="1512641">
+<info><authors><author pid="175/4534">Vishal Deep</author><author pid="286/5599">Vishak Narayanan</author><author pid="163/8921">Mathew L. Wymore</author><author pid="32/2358">Daji Qiao</author><author pid="136/7930">Henry Duwe</author></authors><title>HARC: A Heterogeneous Array of Redundant Persistent Clocks for Batteryless, Intermittently-Powered Systems.</title><venue>RTSS</venue><pages>270-282</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/DeepNWQD20</key><doi>10.1109/RTSS49844.2020.00033</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00033</ee><url>https://dblp.org/rec/conf/rtss/DeepNWQD20</url></info>
+<url>URL#1512641</url>
+</hit>
+<hit score="1" id="1512642">
+<info><authors><author pid="202/6557">Ciro Donnarumma</author><author pid="153/0102">Alessandro Biondi 0001</author><author pid="201/9666">Francesco De Rosa</author><author pid="78/1169">Stefano Di Carlo</author></authors><title>Integrating Online Safety-related Memory Tests in Multicore Real-Time Systems.</title><venue>RTSS</venue><pages>296-307</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/DonnarummaBRC20</key><doi>10.1109/RTSS49844.2020.00035</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00035</ee><url>https://dblp.org/rec/conf/rtss/DonnarummaBRC20</url></info>
+<url>URL#1512642</url>
+</hit>
+<hit score="1" id="1512643">
+<info><authors><author pid="46/9578">Pontus Ekberg</author></authors><title>Rate-Monotonic Schedulability of Implicit-Deadline Tasks is NP-hard Beyond Liu and Layland&apos;s Bound.</title><venue>RTSS</venue><pages>308-318</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Ekberg20</key><doi>10.1109/RTSS49844.2020.00036</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00036</ee><url>https://dblp.org/rec/conf/rtss/Ekberg20</url></info>
+<url>URL#1512643</url>
+</hit>
+<hit score="1" id="1512644">
+<info><authors><author pid="61/3875-2">David Griffin 0002</author><author pid="b/IainBate">Iain Bate</author><author pid="44/5372">Robert I. Davis 0001</author></authors><title>Generating Utilization Vectors for the Systematic Evaluation of Schedulability Tests.</title><venue>RTSS</venue><pages>76-88</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GriffinBD20</key><doi>10.1109/RTSS49844.2020.00018</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00018</ee><url>https://dblp.org/rec/conf/rtss/GriffinBD20</url></info>
+<url>URL#1512644</url>
+</hit>
+<hit score="1" id="1512645">
+<info><authors><author pid="167/2226">Salah Hessien</author><author pid="65/4298-2">Mohamed Hassan 0002</author></authors><title>The Best of All Worlds: Improving Predictability at the Performance of Conventional Coherence with No Protocol Modifications.</title><venue>RTSS</venue><pages>218-230</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HessienH20</key><doi>10.1109/RTSS49844.2020.00029</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00029</ee><url>https://dblp.org/rec/conf/rtss/HessienH20</url></info>
+<url>URL#1512645</url>
+</hit>
+<hit score="1" id="1512646">
+<info><authors><author pid="11/10378">Wonseok Jang</author><author pid="278/8080">Hansaem Jeong</author><author pid="86/4711">Kyungtae Kang</author><author pid="d/NikilDDutt">Nikil D. Dutt</author><author pid="11/7792">Jong-Chan Kim</author></authors><title>R-TOD: Real-Time Object Detector with Minimized End-to-End Delay for Autonomous Driving.</title><venue>RTSS</venue><pages>191-204</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/JangJKDK20</key><doi>10.1109/RTSS49844.2020.00027</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00027</ee><url>https://dblp.org/rec/conf/rtss/JangJKDK20</url></info>
+<url>URL#1512646</url>
+</hit>
+<hit score="1" id="1512647">
+<info><authors><author pid="286/5311">Marwan Wehaiba el Khazen</author><author pid="135/1065">Adriana Gogonel</author><author pid="18/2956">Liliana Cucu-Grosjean</author></authors><title>Work-in-Progress: Lessons learnt from creating an Extreme Value Library in Python.</title><venue>RTSS</venue><pages>415-418</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KhazenGC20</key><doi>10.1109/RTSS49844.2020.00052</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00052</ee><url>https://dblp.org/rec/conf/rtss/KhazenGC20</url></info>
+<url>URL#1512647</url>
+</hit>
+<hit score="1" id="1512648">
+<info><authors><author pid="286/5351">Kossivi Kougblenou</author><author pid="266/2155">Rihab Bennour</author><author pid="135/1065">Adriana Gogonel</author><author pid="18/2956">Liliana Cucu-Grosjean</author></authors><title>Work-in-Progress: Towards representative measurement protocols.</title><venue>RTSS</venue><pages>419-422</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KougblenouBGC20</key><doi>10.1109/RTSS49844.2020.00053</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00053</ee><url>https://dblp.org/rec/conf/rtss/KougblenouBGC20</url></info>
+<url>URL#1512648</url>
+</hit>
+<hit score="1" id="1512649">
+<info><authors><author pid="166/5424">Shengzhong Liu</author><author pid="148/1920">Shuochao Yao</author><author pid="192/6728">Xinzhe Fu</author><author pid="132/6725">Rohan Tabish</author><author pid="124/1418">Simon Yu</author><author pid="161/3147">Ayoosh Bansal</author><author pid="34/8375">Heechul Yun</author><author pid="67/5282">Lui Sha</author><author pid="a/TarekFAbdelzaher">Tarek F. Abdelzaher</author></authors><title>On Removing Algorithmic Priority Inversion from Mission-critical Machine Inference Pipelines.</title><venue>RTSS</venue><pages>319-332</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LiuYFTYBYSA20</key><doi>10.1109/RTSS49844.2020.00037</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00037</ee><url>https://dblp.org/rec/conf/rtss/LiuYFTYBYSA20</url></info>
+<url>URL#1512649</url>
+</hit>
+<hit score="1" id="1512650">
+<info><authors><author pid="286/5359">Andrew Louie</author><author pid="c/AMKCheng">Albert M. K. Cheng</author></authors><title>Work-In-Progress: Designing a Server-Side Progressive JPEG Encoder for Real-Time Applications.</title><venue>RTSS</venue><pages>379-382</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LouieC20</key><doi>10.1109/RTSS49844.2020.00043</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00043</ee><url>https://dblp.org/rec/conf/rtss/LouieC20</url></info>
+<url>URL#1512650</url>
+</hit>
+<hit score="1" id="1512651">
+<info><authors><author pid="257/5781">Giann Spilere Nandi</author><author pid="98/6226">David Pereira</author><author pid="40/5853">José Proença</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>Work-In-Progress: a DSL for the safe deployment of Runtime Monitors in Cyber-Physical Systems.</title><venue>RTSS</venue><pages>395-398</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NandiPPT20</key><doi>10.1109/RTSS49844.2020.00047</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00047</ee><url>https://dblp.org/rec/conf/rtss/NandiPPT20</url></info>
+<url>URL#1512651</url>
+</hit>
+<hit score="1" id="1512652">
+<info><authors><author pid="13/3636">Linwei Niu</author><author pid="79/2597">Danda B. Rawat</author></authors><title>Energy-Constrained Standby-Sparing for Weakly Hard Real-Time Systems.</title><venue>RTSS</venue><pages>257-269</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NiuR20</key><doi>10.1109/RTSS49844.2020.00032</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00032</ee><url>https://dblp.org/rec/conf/rtss/NiuR20</url></info>
+<url>URL#1512652</url>
+</hit>
+<hit score="1" id="1512653">
+<info><authors><author pid="45/3063">Dionisio de Niz</author><author pid="39/4827">Björn Andersson</author><author pid="19/5798-1">Hyoseung Kim 0001</author><author pid="74/2158">Mark Klein</author><author pid="34/1183">John P. Lehoczky</author></authors><title>Work-In-Progress: Toward Precomputation in Real-Time Mixed-Trust Scheduling.</title><venue>RTSS</venue><pages>411-414</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NizAKKL20</key><doi>10.1109/RTSS49844.2020.00051</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00051</ee><url>https://dblp.org/rec/conf/rtss/NizAKKL20</url></info>
+<url>URL#1512653</url>
+</hit>
+<hit score="1" id="1512654">
+<info><authors><author pid="286/5542">Suhail Nogd</author><author pid="62/7802">Geoffrey Nelissen</author><author pid="58/7582">Mitra Nasri</author><author pid="19/2942">Björn B. Brandenburg</author></authors><title>Response-Time Analysis for Non-Preemptive Global Scheduling with FIFO Spin Locks.</title><venue>RTSS</venue><pages>115-127</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NogdNNB20</key><doi>10.1109/RTSS49844.2020.00021</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00021</ee><url>https://dblp.org/rec/conf/rtss/NogdNNB20</url></info>
+<url>URL#1512654</url>
+</hit>
+<hit score="1" id="1512655">
+<info><authors><author pid="180/1894">Dominic Oehlert</author><author pid="286/5081">Edward Umaña Williams</author><author pid="65/6364">Heiko Falk</author></authors><title>Work-In-Progress: Fine-Grained On-Chip Energy Measurement of a Real-Time Multi-Core Processor.</title><venue>RTSS</venue><pages>383-386</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/OehlertWF20</key><doi>10.1109/RTSS49844.2020.00044</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00044</ee><url>https://dblp.org/rec/conf/rtss/OehlertWF20</url></info>
+<url>URL#1512655</url>
+</hit>
+<hit score="1" id="1512656">
+<info><authors><author pid="37/10300">Taeju Park</author><author pid="286/5348">Jiarui Lyu</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>Optimal Priority Assignment for Multiple CAN/CAN-FD Buses with a Central Gateway.</title><venue>RTSS</venue><pages>153-165</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ParkLS20</key><doi>10.1109/RTSS49844.2020.00024</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00024</ee><url>https://dblp.org/rec/conf/rtss/ParkLS20</url></info>
+<url>URL#1512656</url>
+</hit>
+<hit score="1" id="1512657">
+<info><authors><author pid="12/9837">Javier Pérez-Rodríguez</author><author pid="68/2193">Patrick Meumeu Yomsi</author></authors><title>Work-in-Progress: Towards a fine-grain thermal model for uniform multi-core processors.</title><venue>RTSS</venue><pages>403-406</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Perez-Rodriguez20</key><doi>10.1109/RTSS49844.2020.00049</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00049</ee><url>https://dblp.org/rec/conf/rtss/Perez-Rodriguez20</url></info>
+<url>URL#1512657</url>
+</hit>
+<hit score="1" id="1512658">
+<info><authors><author pid="202/5982">Stefan Reif</author><author pid="179/3222">Phillip Raffeck</author><author pid="32/8549">Peter Ulbrich</author><author pid="26/6488">Wolfgang Schröder-Preikschat</author></authors><title>Work In Progress: Control-Flow Migration for Data-Locality Optimisation in Multi-Core Real-Time Systems.</title><venue>RTSS</venue><pages>371-374</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ReifRUS20</key><doi>10.1109/RTSS49844.2020.00041</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00041</ee><url>https://dblp.org/rec/conf/rtss/ReifRUS20</url></info>
+<url>URL#1512658</url>
+</hit>
+<hit score="1" id="1512659">
+<info><authors><author pid="268/2455">Niklas Reusch</author><author pid="32/2105">Paul Pop</author><author pid="82/4882">Silviu S. Craciunas</author></authors><title>Work-In-Progress: Safe and Secure Configuration Synthesis for TSN using Constraint Programming.</title><venue>RTSS</venue><pages>387-390</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ReuschPC20</key><doi>10.1109/RTSS49844.2020.00045</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00045</ee><url>https://dblp.org/rec/conf/rtss/ReuschPC20</url></info>
+<url>URL#1512659</url>
+</hit>
+<hit score="1" id="1512660">
+<info><authors><author pid="179/3270">Debayan Roy</author><author pid="161/3087">Sumana Ghosh</author><author pid="66/5923-2">Qi Zhu 0002</author><author pid="86/450">Marco Caccamo</author><author pid="c/SamarjitChakraborty">Samarjit Chakraborty</author></authors><title>GoodSpread: Criticality-Aware Static Scheduling of CPS with Multi-QoS Resources.</title><venue>RTSS</venue><pages>178-190</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/RoyG0CC20</key><doi>10.1109/RTSS49844.2020.00026</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00026</ee><url>https://dblp.org/rec/conf/rtss/RoyG0CC20</url></info>
+<url>URL#1512660</url>
+</hit>
+<hit score="1" id="1512661">
+<info><authors><author pid="268/1944">Matheus Schuh</author><author pid="64/2083">Claire Maiza</author><author pid="74/6780">Joël Goossens</author><author pid="74/1263">Pascal Raymond</author><author pid="47/6611">Benoît Dupont de Dinechin</author></authors><title>A study of predictable execution models implementation for industrial data-flow applications on a multi-core platform with shared banked memory.</title><venue>RTSS</venue><pages>283-295</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SchuhMGRD20</key><doi>10.1109/RTSS49844.2020.00034</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00034</ee><url>https://dblp.org/rec/conf/rtss/SchuhMGRD20</url></info>
+<url>URL#1512661</url>
+</hit>
+<hit score="1" id="1512662">
+<info><authors><author pid="241/7477">Parul Sohal</author><author pid="132/6725">Rohan Tabish</author><author pid="50/4725">Ulrich Drepper</author><author pid="19/5387">Renato Mancuso 0001</author></authors><title>E-WarP: A System-wide Framework for Memory Bandwidth Profiling and Management.</title><venue>RTSS</venue><pages>345-357</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SohalTD020</key><doi>10.1109/RTSS49844.2020.00039</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00039</ee><url>https://dblp.org/rec/conf/rtss/SohalTD020</url></info>
+<url>URL#1512662</url>
+</hit>
+<hit score="1" id="1512663">
+<info><authors><author pid="132/1936">Miriam García Soto</author><author pid="74/6354">Pavithra Prabhakar</author></authors><title>Hybridization for Stability Verification of Nonlinear Switched Systems.</title><venue>RTSS</venue><pages>244-256</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SotoP20</key><doi>10.1109/RTSS49844.2020.00031</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00031</ee><url>https://dblp.org/rec/conf/rtss/SotoP20</url></info>
+<url>URL#1512663</url>
+</hit>
+<hit score="1" id="1512664">
+<info><authors><author pid="41/3231">Stephen Tang</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>Towards Practical Multiprocessor EDF with Affinities.</title><venue>RTSS</venue><pages>89-101</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/TangA20</key><doi>10.1109/RTSS49844.2020.00019</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00019</ee><url>https://dblp.org/rec/conf/rtss/TangA20</url></info>
+<url>URL#1512664</url>
+</hit>
+<hit score="1" id="1512665">
+<info><authors><author pid="07/11244-1">Yue Tang 0001</author><author pid="05/7678">Zhiwei Feng</author><author pid="45/5411">Nan Guan</author><author pid="38/555-4">Xu Jiang 0004</author><author pid="23/4249">Mingsong Lv</author><author pid="95/63">Qingxu Deng</author><author pid="y/WangYi">Wang Yi 0001</author></authors><title>Response Time Analysis and Priority Assignment of Processing Chains on ROS2 Executors.</title><venue>RTSS</venue><pages>231-243</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/TangFG0LD020</key><doi>10.1109/RTSS49844.2020.00030</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00030</ee><url>https://dblp.org/rec/conf/rtss/TangFG0LD020</url></info>
+<url>URL#1512665</url>
+</hit>
+<hit score="1" id="1512666">
+<info><authors><author pid="286/5130">Elena Torre</author><author pid="c/AMKCheng">Albert M. K. Cheng</author></authors><title>Work-In-Progress: Fault Tolerance in a Two-State Checkpointing Regularity-Based System.</title><venue>RTSS</venue><pages>375-378</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/TorreC20</key><doi>10.1109/RTSS49844.2020.00042</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00042</ee><url>https://dblp.org/rec/conf/rtss/TorreC20</url></info>
+<url>URL#1512666</url>
+</hit>
+<hit score="1" id="1512667">
+<info><authors><author pid="286/5500">Serban Vadineanu</author><author pid="58/7582">Mitra Nasri</author></authors><title>Robust and Accurate Period Inference using Regression-Based Techniques.</title><venue>RTSS</venue><pages>358-370</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/VadineanuN20</key><doi>10.1109/RTSS49844.2020.00040</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00040</ee><url>https://dblp.org/rec/conf/rtss/VadineanuN20</url></info>
+<url>URL#1512667</url>
+</hit>
+<hit score="1" id="1512668">
+<info><authors><author pid="w/ReinhardWilhelm">Reinhard Wilhelm</author></authors><title>Real Time Spent on Real Time.</title><venue>RTSS</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Wilhelm20</key><doi>10.1109/RTSS49844.2020.00011</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00011</ee><url>https://dblp.org/rec/conf/rtss/Wilhelm20</url></info>
+<url>URL#1512668</url>
+</hit>
+<hit score="1" id="1512669">
+<info><authors><author pid="147/1038">Guoqi Xie</author><author pid="286/5313">Haijie Gong</author><author pid="121/2543">Yunbo Han</author><author pid="c/SamarjitChakraborty">Samarjit Chakraborty</author><author pid="67/3746">Wanli Chang 0001</author></authors><title>A Real-Time CAN-CAN Gateway with Tight Latency Analysis and Targeted Priority Assignment.</title><venue>RTSS</venue><pages>141-152</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/XieGHC020</key><doi>10.1109/RTSS49844.2020.00023</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00023</ee><url>https://dblp.org/rec/conf/rtss/XieGHC020</url></info>
+<url>URL#1512669</url>
+</hit>
+<hit score="1" id="1512670">
+<info><authors><author pid="37/1629">Lin Zhang</author><author pid="24/1518-2">Xin Chen 0002</author><author pid="32/8375">Fanxin Kong</author><author pid="48/6119">Alvaro A. Cárdenas</author></authors><title>Real-Time Attack-Recovery for Cyber-Physical Systems Using Linear Approximations.</title><venue>RTSS</venue><pages>205-217</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ZhangCKC20</key><doi>10.1109/RTSS49844.2020.00028</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00028</ee><url>https://dblp.org/rec/conf/rtss/ZhangCKC20</url></info>
+<url>URL#1512670</url>
+</hit>
+<hit score="1" id="1512671">
+<info><authors><author pid="199/8712">Yecheng Zhao</author><author pid="279/5933">Runzhi Zhou</author><author pid="63/2279-1">Haibo Zeng 0001</author></authors><title>An Optimization Framework for Real-Time Systems with Sustainable Schedulability Analysis.</title><venue>RTSS</venue><pages>333-344</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ZhaoZZ20</key><doi>10.1109/RTSS49844.2020.00038</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00038</ee><url>https://dblp.org/rec/conf/rtss/ZhaoZZ20</url></info>
+<url>URL#1512671</url>
+</hit>
+<hit score="1" id="1512672">
+<info><authors><author pid="160/1659">Zimeng Zhou</author><author pid="224/5488">Zelin Yun</author><author pid="132/8094">Chenchen Fu</author><author pid="x/ChunJasonXue">Chun Jason Xue</author><author pid="80/806-2">Song Han 0002</author></authors><title>Maintaining Real-Time Data Freshness in Wireless Powered Communication Networks.</title><venue>RTSS</venue><pages>166-177</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ZhouYFX020</key><doi>10.1109/RTSS49844.2020.00025</doi><ee>https://doi.org/10.1109/RTSS49844.2020.00025</ee><url>https://dblp.org/rec/conf/rtss/ZhouYFX020</url></info>
+<url>URL#1512672</url>
+</hit>
+<hit score="1" id="1540952">
+<info><title>41st IEEE Real-Time Systems Symposium, RTSS 2020, Houston, TX, USA, December 1-4, 2020</title><venue>RTSS</venue><publisher>IEEE</publisher><year>2020</year><type>Editorship</type><key>conf/rtss/2020</key><doi>10.1109/RTSS49844.2020</doi><ee>https://doi.org/10.1109/RTSS49844.2020</ee><url>https://dblp.org/rec/conf/rtss/2020</url></info>
+<url>URL#1540952</url>
+</hit>
+</hits>
+</result>

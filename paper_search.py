@@ -31,8 +31,24 @@ class PaperSearch:
         print('results are shown in', self.searchcore.output.output_path)
 
 if __name__=='__main__':
+    # Domian:
+    #   - 01 计算机体系结构/并行与分布计算/存储系统
+    #   - 02 计算机网络
+    #   - 03 网络与信息安全
+    #   - 04 软件工程/系统软件/程序设计语言
+    #   - 05 数据库/数据挖掘/内容检索
+    #   - 06 计算机图形学与多媒体
+    #   - 07 人工智能
+    #   - 08 计算机科学理论
+    #   - 09 交叉/综合/新兴
+    input_str = 'network anomaly detection'
+    level = 'AB'
+    paper_type = ['conf']
+    domain_list = ['02', '03', '05', '09']
+    year_range = [2018, 2023]
+    # run
     print('run at', datetime.datetime.today().ctime())
     good = PaperSearch('./config.yaml')
-    good.search('network anomaly detection ', 'A', ['conf'], ['02','03','05','09'], [2020,2023])
+    good.search(input_str, level, paper_type, domain_list, year_range)
 
     

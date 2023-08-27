@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59555">:facetid:toc:\"db/conf/icnp/icnp2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">193.66</time>
+<completions total="1" computed="1" sent="1">
+<c sc="75" dc="75" oc="75" id="41043975">:facetid:toc:db/conf/icnp/icnp2021.bht</c>
+</completions>
+<hits total="75" computed="75" sent="75" first="0">
+<hit score="1" id="1018508">
+<info><authors><author pid="35/7092-190">Wei Wang 0190</author><author pid="76/1820-45">Xin Liu 0045</author><author pid="07/4410-9">Yao Yao 0009</author><author pid="42/5105-1">Ting Zhu 0001</author></authors><title>Exploiting WiFi AP for Simultaneous Data Dissemination among WiFi and ZigBee Devices.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/019000Z21</key><doi>10.1109/ICNP52444.2021.9651982</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651982</ee><url>https://dblp.org/rec/conf/icnp/019000Z21</url></info>
+<url>URL#1018508</url>
+</hit>
+<hit score="1" id="1018509">
+<info><authors><author pid="63/2255">Usman Ahmed</author><author pid="41/912">Jerry Chun-Wei Lin</author><author pid="57/9993">Gautam Srivastava 0001</author></authors><title>Generative Ensemble Learning for Mitigating Adversarial Malware Detection in IoT.</title><venue>ICNP</venue><pages>1-5</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AhmedLS21</key><doi>10.1109/ICNP52444.2021.9651917</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651917</ee><url>https://dblp.org/rec/conf/icnp/AhmedLS21</url></info>
+<url>URL#1018509</url>
+</hit>
+<hit score="1" id="1018510">
+<info><authors><author pid="309/5640">José Álamos</author><author pid="177/2745">Peter Kietzmann</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>Poster: DSME-LoRa - A Flexible MAC for LoRa.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AlamosKSW21</key><doi>10.1109/ICNP52444.2021.9651945</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651945</ee><url>https://dblp.org/rec/conf/icnp/AlamosKSW21</url></info>
+<url>URL#1018510</url>
+</hit>
+<hit score="1" id="1018511">
+<info><authors><author pid="298/1907">Guillermo Bernárdez</author><author pid="195/6253">José Suárez-Varela</author><author pid="05/6916">Albert López</author><author pid="47/6534">Bo Wu</author><author pid="142/3788">Shihan Xiao</author><author pid="175/6883">Xiangle Cheng</author><author pid="54/4261">Pere Barlet-Ros</author><author pid="42/2223">Albert Cabellos-Aparicio</author></authors><title>Is Machine Learning Ready for Traffic Engineering Optimization?</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BernardezSLWXCB21</key><doi>10.1109/ICNP52444.2021.9651930</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651930</ee><url>https://dblp.org/rec/conf/icnp/BernardezSLWXCB21</url></info>
+<url>URL#1018511</url>
+</hit>
+<hit score="1" id="1018512">
+<info><authors><author pid="70/4252">Saleem N. Bhatti</author><author pid="309/5638">Gregor Haywood</author><author pid="177/1467">Ryo Yanagida</author></authors><title>End-to-End Privacy for Identity &amp; Location with IP.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BhattiHY21</key><doi>10.1109/ICNP52444.2021.9651909</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651909</ee><url>https://dblp.org/rec/conf/icnp/BhattiHY21</url></info>
+<url>URL#1018512</url>
+</hit>
+<hit score="1" id="1018513">
+<info><authors><author pid="22/3090-1">Giuseppe Bianchi 0001</author><author pid="26/1345">Alberto La Rosa</author><author pid="279/3951">Gabriele Restuccia</author></authors><title>RIOT-AKA: cellular-like authentication over IoT devices.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BianchiRR21</key><doi>10.1109/ICNP52444.2021.9651952</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651952</ee><url>https://dblp.org/rec/conf/icnp/BianchiRR21</url></info>
+<url>URL#1018513</url>
+</hit>
+<hit score="1" id="1018514">
+<info><authors><author pid="96/2251">Sara Bitan</author><author pid="163/3831">Adi Molkho</author></authors><title>STIP: A new model of trusted network.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BitanM21</key><doi>10.1109/ICNP52444.2021.9651913</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651913</ee><url>https://dblp.org/rec/conf/icnp/BitanM21</url></info>
+<url>URL#1018514</url>
+</hit>
+<hit score="1" id="1018515">
+<info><authors><author pid="25/7045">Yang Cao</author><author pid="84/3178">Shao-Yu Lien</author><author pid="98/153">Ying-Chang Liang</author></authors><title>Multi-tier Collaborative Deep Reinforcement Learning for Non-terrestrial Network Empowered Vehicular Connections.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/CaoLL21</key><doi>10.1109/ICNP52444.2021.9651962</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651962</ee><url>https://dblp.org/rec/conf/icnp/CaoLL21</url></info>
+<url>URL#1018515</url>
+</hit>
+<hit score="1" id="1018516">
+<info><authors><author pid="276/0087">Peirui Cao</author><author pid="90/10156">Shizhen Zhao</author><author pid="207/2304">Min Yee Teh</author><author pid="276/3196">Yunzhuo Liu</author><author pid="96/1149">Xinbing Wang</author></authors><title>TROD: Evolving From Electrical Data Center to Optical Data Center.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/CaoZTLW21</key><doi>10.1109/ICNP52444.2021.9651977</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651977</ee><url>https://dblp.org/rec/conf/icnp/CaoZTLW21</url></info>
+<url>URL#1018516</url>
+</hit>
+<hit score="1" id="1018517">
+<info><authors><author pid="14/2352">Jiali Chen</author><author pid="181/2860-1">Yang Qin 0001</author></authors><title>Reducing Block Propagation Delay in Blockchain Networks via Guarantee Verification.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ChenQ21</key><doi>10.1109/ICNP52444.2021.9651926</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651926</ee><url>https://dblp.org/rec/conf/icnp/ChenQ21</url></info>
+<url>URL#1018517</url>
+</hit>
+<hit score="1" id="1018518">
+<info><authors><author pid="11/1394">Qian Chen</author><author pid="75/3699">Jiliang Wang</author></authors><title>AlignTrack: Push the Limit of LoRa Collision Decoding.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ChenW21</key><doi>10.1109/ICNP52444.2021.9651985</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651985</ee><url>https://dblp.org/rec/conf/icnp/ChenW21</url></info>
+<url>URL#1018518</url>
+</hit>
+<hit score="1" id="1018519">
+<info><authors><author pid="237/7601">Xia Cheng</author><author pid="70/5884">Mo Sha 0001</author></authors><title>ATRIA: Autonomous Traffic-Aware Scheduling for Industrial Wireless Sensor-Actuator Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Cheng021</key><doi>10.1109/ICNP52444.2021.9651914</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651914</ee><url>https://dblp.org/rec/conf/icnp/Cheng021</url></info>
+<url>URL#1018519</url>
+</hit>
+<hit score="1" id="1018520">
+<info><authors><author pid="239/3510">Kristjon Ciko</author><author pid="19/4234">Michael Welzl</author><author pid="18/11498">Peyman Teymoori</author></authors><title>PEP-DNA: A Performance Enhancing Proxy for Deploying Network Architectures.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/CikoWT21</key><doi>10.1109/ICNP52444.2021.9651953</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651953</ee><url>https://dblp.org/rec/conf/icnp/CikoWT21</url></info>
+<url>URL#1018520</url>
+</hit>
+<hit score="1" id="1018521">
+<info><authors><author pid="294/8803">Penglai Cui</author><author pid="78/4696">Heng Pan</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="231/6109">Jiaoren Wu</author><author pid="294/8478">Shengzhuo Zhang</author><author pid="231/6619">Xingwu Yang</author><author pid="73/10888">Hongtao Guan</author><author pid="01/2888">Gaogang Xie</author></authors><title>NetFC: Enabling Accurate Floating-point Arithmetic on Programmable Switches.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/CuiP0WZYGX21</key><doi>10.1109/ICNP52444.2021.9651946</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651946</ee><url>https://dblp.org/rec/conf/icnp/CuiP0WZYGX21</url></info>
+<url>URL#1018521</url>
+</hit>
+<hit score="1" id="1018522">
+<info><authors><author pid="19/2460">Souvik Das</author><author pid="15/542">Kamil Saraç</author></authors><title>Poster: Private Internet: A Global End-to-End Service Model.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DasS21</key><doi>10.1109/ICNP52444.2021.9651920</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651920</ee><url>https://dblp.org/rec/conf/icnp/DasS21</url></info>
+<url>URL#1018522</url>
+</hit>
+<hit score="1" id="1018523">
+<info><authors><author pid="204/0452">Jacob Davis</author><author pid="69/6101">Casey T. Deccio</author></authors><title>Advertising DNS Protocol Use to Mitigate DDoS Attacks.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DavisD21</key><doi>10.1109/ICNP52444.2021.9651929</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651929</ee><url>https://dblp.org/rec/conf/icnp/DavisD21</url></info>
+<url>URL#1018523</url>
+</hit>
+<hit score="1" id="1018524">
+<info><authors><author pid="37/5655">Yutao Dong</author><author pid="181/2689-6">Qing Li 0006</author><author pid="99/6289">Richard O. Sinnott</author><author pid="74/1552-1">Yong Jiang 0001</author><author pid="34/3173">Shutao Xia</author></authors><title>ISP Self-Operated BGP Anomaly Detection Based on Weakly Supervised Learning.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DongLS0X21</key><doi>10.1109/ICNP52444.2021.9651957</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651957</ee><url>https://dblp.org/rec/conf/icnp/DongLS0X21</url></info>
+<url>URL#1018524</url>
+</hit>
+<hit score="1" id="1018525">
+<info><authors><author pid="18/1520">Lei Du</author><author pid="190/5589">Ru Huo</author></authors><title>Real-time Video Transmission Optimization Based on Edge Computing in IIoT.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DuH21</key><doi>10.1109/ICNP52444.2021.9651927</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651927</ee><url>https://dblp.org/rec/conf/icnp/DuH21</url></info>
+<url>URL#1018525</url>
+</hit>
+<hit score="1" id="1018526">
+<info><authors><author pid="13/6441-2">Hao Du 0002</author><author pid="98/4623">Supeng Leng</author><author pid="40/3669">Jianhua He</author><author pid="245/1598">Longyu Zhou</author></authors><title>Digital Twin Based Trajectory Prediction for Platoons of Connected Intelligent Vehicles.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DuLHZ21</key><doi>10.1109/ICNP52444.2021.9651970</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651970</ee><url>https://dblp.org/rec/conf/icnp/DuLHZ21</url></info>
+<url>URL#1018526</url>
+</hit>
+<hit score="1" id="1018527">
+<info><authors><author pid="204/1946">Xinle Du</author><author pid="29/3826-14">Tong Li 0014</author><author pid="19/360">Lei Xu</author><author pid="73/3928-3">Kai Zheng 0003</author><author pid="03/8774-1">Meng Shen 0001</author><author pid="47/6534">Bo Wu</author><author pid="181/2626-2">Ke Xu 0002</author></authors><title>R-AQM: Reverse ACK Active Queue Management in Multi-tenant Data Centers.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DuLX0SWX21</key><doi>10.1109/ICNP52444.2021.9651922</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651922</ee><url>https://dblp.org/rec/conf/icnp/DuLX0SWX21</url></info>
+<url>URL#1018527</url>
+</hit>
+<hit score="1" id="1018528">
+<info><authors><author pid="227/1131">Stephanie Alvarez Fernandez</author><author pid="117/8932">Marco A. M. Marinho</author><author pid="309/5642">Majid Vakilzadeh</author><author pid="87/1880">Alexey V. Vinel</author></authors><title>Highway On-Ramp Merging for Mixed Traffic: Recent Advances and Future Trends.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/FernandezMVV21</key><doi>10.1109/ICNP52444.2021.9651989</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651989</ee><url>https://dblp.org/rec/conf/icnp/FernandezMVV21</url></info>
+<url>URL#1018528</url>
+</hit>
+<hit score="1" id="1018529">
+<info><authors><author pid="137/6623">Sahil Gupta</author><author pid="207/8090">Devashish Gosain</author><author pid="209/8666">Garegin Grigoryan</author><author pid="68/3930">Minseok Kwon</author><author pid="249/3494">H. B. Acharya</author></authors><title>Demo: Simple Deep Packet Inspection with P4.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GuptaGGKA21</key><doi>10.1109/ICNP52444.2021.9651973</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651973</ee><url>https://dblp.org/rec/conf/icnp/GuptaGGKA21</url></info>
+<url>URL#1018529</url>
+</hit>
+<hit score="1" id="1018530">
+<info><authors><author pid="39/2405-6">Ying He 0006</author><author pid="50/1242">Yuhang Wang</author><author pid="22/8016">Qiuzhen Lin</author><author pid="08/2185-1">Jianqiang Li 0001</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>A Fast-adaptive Edge Resource Allocation Strategy for Dynamic Vehicular Networks.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HeWLLL21</key><doi>10.1109/ICNP52444.2021.9651981</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651981</ee><url>https://dblp.org/rec/conf/icnp/HeWLLL21</url></info>
+<url>URL#1018530</url>
+</hit>
+<hit score="1" id="1018531">
+<info><authors><author pid="294/6287">Shunsuke Higuchi</author><author pid="56/3376">Yuki Koizumi</author><author pid="151/7481">Junji Takemasa</author><author pid="36/6615">Atsushi Tagami</author><author pid="38/5203">Toru Hasegawa</author></authors><title>Learned FIB: Fast IP Forwarding without Longest Prefix Matching.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HiguchiKTTH21</key><doi>10.1109/ICNP52444.2021.9651956</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651956</ee><url>https://dblp.org/rec/conf/icnp/HiguchiKTTH21</url></info>
+<url>URL#1018531</url>
+</hit>
+<hit score="1" id="1018532">
+<info><authors><author pid="116/0938">Jinbin Hu</author><author pid="13/4208-1">Jiawei Huang 0001</author><author pid="78/2545">Zhaoyi Li</author><author pid="52/6049">Yijun Li</author><author pid="55/7618">Wenchao Jiang</author><author pid="c/KaiChen5">Kai Chen 0005</author><author pid="75/2669-1">Jianxin Wang 0001</author><author pid="h/TianHe">Tian He 0001</author></authors><title>RPO: Receiver-driven Transport Protocol Using Opportunistic Transmission in Data Center.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HuHLLJC0021</key><doi>10.1109/ICNP52444.2021.9651980</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651980</ee><url>https://dblp.org/rec/conf/icnp/HuHLLJC0021</url></info>
+<url>URL#1018532</url>
+</hit>
+<hit score="1" id="1018533">
+<info><authors><author pid="217/7394">Jason Hussey</author><author pid="309/5646">Ethan Taylor</author><author pid="90/4845">Kerri Stone</author><author pid="91/2315">Tracy Camp</author></authors><title>Poster: Data Collection for ML Classification of Encrypted Messaging Applications.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HusseyTSC21</key><doi>10.1109/ICNP52444.2021.9651948</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651948</ee><url>https://dblp.org/rec/conf/icnp/HusseyTSC21</url></info>
+<url>URL#1018533</url>
+</hit>
+<hit score="1" id="1018534">
+<info><authors><author pid="88/2246">Lin Jin</author><author pid="73/5618-1">Shuai Hao 0001</author><author pid="75/6434-1">Yan Huang 0001</author><author pid="81/4036">Haining Wang</author><author pid="70/10305">Chase Cotton</author></authors><title>DNSonChain: Delegating Privacy-Preserved DNS Resolution to Blockchain.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/JinHHWC21</key><doi>10.1109/ICNP52444.2021.9651951</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651951</ee><url>https://dblp.org/rec/conf/icnp/JinHHWC21</url></info>
+<url>URL#1018534</url>
+</hit>
+<hit score="1" id="1018535">
+<info><authors><author pid="242/0398">Ralf Kundel</author><author pid="309/5635">Nehal Baganal Krishna</author><author pid="267/2834">Christoph Gärtner</author><author pid="192/0792">Tobias Meuser</author><author pid="30/6511">Amr Rizk</author></authors><title>Poster: Reverse-Path Congestion Notification: Accelerating the Congestion Control Feedback Loop.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KundelKGMR21</key><doi>10.1109/ICNP52444.2021.9651961</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651961</ee><url>https://dblp.org/rec/conf/icnp/KundelKGMR21</url></info>
+<url>URL#1018535</url>
+</hit>
+<hit score="1" id="1018536">
+<info><authors><author pid="148/1959">Zeqi Lai</author><author pid="51/8276">Hewu Li</author><author pid="52/323">Qi Zhang</author><author pid="61/591">Qian Wu</author><author pid="82/4905">Jianping Wu</author></authors><title>Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LaiLZWW21</key><doi>10.1109/ICNP52444.2021.9651950</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651950</ee><url>https://dblp.org/rec/conf/icnp/LaiLZWW21</url></info>
+<url>URL#1018536</url>
+</hit>
+<hit score="1" id="1018537">
+<info><authors><author pid="148/1959">Zeqi Lai</author><author pid="61/591">Qian Wu</author><author pid="51/8276">Hewu Li</author><author pid="135/7092">Mingyang Lv</author><author pid="82/4905">Jianping Wu</author></authors><title>OrbitCast: Exploiting Mega-Constellations for Low-Latency Earth Observation.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LaiWLLW21</key><doi>10.1109/ICNP52444.2021.9651919</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651919</ee><url>https://dblp.org/rec/conf/icnp/LaiWLLW21</url></info>
+<url>URL#1018537</url>
+</hit>
+<hit score="1" id="1018538">
+<info><authors><author pid="309/5634">Yiran Lei</author><author pid="36/2728-8">Yu Zhou 0008</author><author pid="229/8795">Yunsenxiao Lin</author><author pid="18/6055">Mingwei Xu</author><author pid="20/8967-1">Yangyang Wang 0001</author></authors><title>DOVE: Diagnosis-driven SLO Violation Detection.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LeiZLXW21</key><doi>10.1109/ICNP52444.2021.9651986</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651986</ee><url>https://dblp.org/rec/conf/icnp/LeiZLXW21</url></info>
+<url>URL#1018538</url>
+</hit>
+<hit score="1" id="1018539">
+<info><authors><author pid="183/1876">Qianru Li</author><author pid="98/3313-1">Chunyi Peng 0001</author></authors><title>Reconfiguring Cell Selection in 4G/5G Networks.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Li021</key><doi>10.1109/ICNP52444.2021.9651984</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651984</ee><url>https://dblp.org/rec/conf/icnp/Li021</url></info>
+<url>URL#1018539</url>
+</hit>
+<hit score="1" id="1018540">
+<info><authors><author pid="14/5410-3">Ning Li 0003</author><author pid="78/713-3">Xin Yuan 0003</author><author pid="00/6614">José-Fernán Martínez</author><author pid="186/8978">Vicente Hernández Díaz</author></authors><title>The Trapezoidal Sketch for Frequency Estimation in Network Flow.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiYMD21</key><doi>10.1109/ICNP52444.2021.9651949</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651949</ee><url>https://dblp.org/rec/conf/icnp/LiYMD21</url></info>
+<url>URL#1018540</url>
+</hit>
+<hit score="1" id="1018541">
+<info><authors><author pid="118/4321">Yunzhi Lin</author><author pid="151/6230">Shouxi Luo</author></authors><title>Poster: Accelerate Cross-Device Federated Learning With Semi-Reliable Model Multicast Over The Air.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LinL21</key><doi>10.1109/ICNP52444.2021.9651964</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651964</ee><url>https://dblp.org/rec/conf/icnp/LinL21</url></info>
+<url>URL#1018541</url>
+</hit>
+<hit score="1" id="1018542">
+<info><authors><author pid="61/3234-13">Qiang Liu 0013</author><author pid="42/1257">Nakjung Choi</author><author pid="78/744-2">Tao Han 0002</author></authors><title>Constraint-Aware Deep Reinforcement Learning for End-to-End Resource Orchestration in Mobile Networks.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuCH21</key><doi>10.1109/ICNP52444.2021.9651934</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651934</ee><url>https://dblp.org/rec/conf/icnp/LiuCH21</url></info>
+<url>URL#1018542</url>
+</hit>
+<hit score="1" id="1018543">
+<info><authors><author pid="209/9896">Shihao Liu</author><author pid="08/5283">Wanming Luo</author><author pid="66/5686">Xu Zhou</author><author pid="77/377">Bin Yang</author><author pid="279/2371">Yihao Jia</author><author pid="06/4240">Zhe Chen</author><author pid="35/6161">Sheng Jiang</author></authors><title>OBF: A Guaranteed IP Lookup Performance Scheme for Flexible IP Using One Bloom Filter.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuLZYJCJ21</key><doi>10.1109/ICNP52444.2021.9651925</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651925</ee><url>https://dblp.org/rec/conf/icnp/LiuLZYJCJ21</url></info>
+<url>URL#1018543</url>
+</hit>
+<hit score="1" id="1018544">
+<info><authors><author pid="197/1075">Natchanon Luangsomboon</author><author pid="l/JLiebeherr">Jörg Liebeherr</author></authors><title>HLS: A Packet Scheduler for Hierarchical Fairness.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LuangsomboonL21</key><doi>10.1109/ICNP52444.2021.9651972</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651972</ee><url>https://dblp.org/rec/conf/icnp/LuangsomboonL21</url></info>
+<url>URL#1018544</url>
+</hit>
+<hit score="1" id="1018545">
+<info><authors><author pid="219/6220">Chaoyi Ma</author><author pid="71/3583-4">Haibo Wang 0004</author><author pid="222/5461">Olufemi O. Odegbile</author><author pid="c/ShigangChen">Shigang Chen</author></authors><title>Virtual Filter for Non-duplicate Sampling.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MaWOC21</key><doi>10.1109/ICNP52444.2021.9651974</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651974</ee><url>https://dblp.org/rec/conf/icnp/MaWOC21</url></info>
+<url>URL#1018545</url>
+</hit>
+<hit score="1" id="1018546">
+<info><authors><author pid="218/0562">Viyom Mittal</author><author pid="203/0130">Mohammad Jahanian</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author></authors><title>DEMO: FLARE: Federated Active Learning Assisted by Naming for Responding to Emergencies.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MittalJR21</key><doi>10.1109/ICNP52444.2021.9651978</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651978</ee><url>https://dblp.org/rec/conf/icnp/MittalJR21</url></info>
+<url>URL#1018546</url>
+</hit>
+<hit score="1" id="1018547">
+<info><authors><author pid="261/2022">Sourav Panda</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author><author pid="b/LaxmiNBhuyan">Laxmi N. Bhuyan</author></authors><title>pMACH: Power and Migration Aware Container scHeduling.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/PandaRB21</key><doi>10.1109/ICNP52444.2021.9651911</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651911</ee><url>https://dblp.org/rec/conf/icnp/PandaRB21</url></info>
+<url>URL#1018547</url>
+</hit>
+<hit score="1" id="1018548">
+<info><authors><author pid="119/2595">Konstantinos Poularakis</author><author pid="202/1662">Qiaofeng Qin</author><author pid="38/2945">Franck Le</author><author pid="07/790">Sastry Kompella</author><author pid="03/3843">Leandros Tassiulas</author></authors><title>Generalizable and Interpretable Deep Learning for Network Congestion Prediction.</title><venue>ICNP</venue><pages>1-10</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/PoularakisQLKT21</key><doi>10.1109/ICNP52444.2021.9651937</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651937</ee><url>https://dblp.org/rec/conf/icnp/PoularakisQLKT21</url></info>
+<url>URL#1018548</url>
+</hit>
+<hit score="1" id="1018549">
+<info><authors><author pid="276/5915">Osama Shahid</author><author pid="281/2049">Viraaji Mothukuri</author><author pid="31/7462">Seyedamin Pouriyeh</author><author pid="13/4425">Reza M. Parizi</author><author pid="67/1486">Hossain Shahriar</author></authors><title>Detecting Network Attacks using Federated Learning for IoT Devices.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ShahidMPPS21</key><doi>10.1109/ICNP52444.2021.9651915</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651915</ee><url>https://dblp.org/rec/conf/icnp/ShahidMPPS21</url></info>
+<url>URL#1018549</url>
+</hit>
+<hit score="1" id="1018550">
+<info><authors><author pid="218/6048">Rana Shahout</author><author pid="f/RoyFriedman">Roy Friedman</author><author pid="213/0815">Dolev Adas</author></authors><title>CELL: Counter Estimation for Per-flow Traffic in Streams and Sliding Windows.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ShahoutFA21</key><doi>10.1109/ICNP52444.2021.9651924</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651924</ee><url>https://dblp.org/rec/conf/icnp/ShahoutFA21</url></info>
+<url>URL#1018550</url>
+</hit>
+<hit score="1" id="1018551">
+<info><authors><author pid="224/6325">Siyuan Sheng</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="25/4018">Patrick P. C. Lee</author></authors><title>DeltaINT: Toward General In-band Network Telemetry with Extremely Low Bandwidth Overhead.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Sheng0L21</key><doi>10.1109/ICNP52444.2021.9651963</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651963</ee><url>https://dblp.org/rec/conf/icnp/Sheng0L21</url></info>
+<url>URL#1018551</url>
+</hit>
+<hit score="1" id="1018552">
+<info><authors><author pid="266/9848">Russell Shirey</author><author pid="163/8803">Sanjay Rao</author><author pid="51/3744">Shreyas Sundaram</author></authors><title>Chimera: exploiting UAS flight path information to optimize heterogeneous data transmission.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ShireyRS21</key><doi>10.1109/ICNP52444.2021.9651923</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651923</ee><url>https://dblp.org/rec/conf/icnp/ShireyRS21</url></info>
+<url>URL#1018552</url>
+</hit>
+<hit score="1" id="1018553">
+<info><authors><author pid="186/7896">Radhika Sukapuram</author><author pid="309/5636">Ranjan Patowary</author><author pid="77/3938">Gautam Barua</author></authors><title>Loss-freedom, Order-preservation and No-buffering: Pick Any Two During Flow Migration in Network Functions.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SukapuramPB21</key><doi>10.1109/ICNP52444.2021.9651954</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651954</ee><url>https://dblp.org/rec/conf/icnp/SukapuramPB21</url></info>
+<url>URL#1018553</url>
+</hit>
+<hit score="1" id="1018554">
+<info><authors><author pid="09/1171">Kai Sun</author><author pid="130/9834-1">Zhimeng Yin 0001</author><author pid="68/925">Weiwei Chen</author><author pid="42/1503-8">Shuai Wang 0008</author><author pid="44/8352">Zeyu Zhang</author><author pid="h/TianHe">Tian He 0001</author></authors><title>Partial Symbol Recovery for Interference Resilience in Low-Power Wide Area Networks.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Sun0CWZ021</key><doi>10.1109/ICNP52444.2021.9651936</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651936</ee><url>https://dblp.org/rec/conf/icnp/Sun0CWZ021</url></info>
+<url>URL#1018554</url>
+</hit>
+<hit score="1" id="1018555">
+<info><authors><author pid="10/670">Yijun Sun</author><author pid="145/8541">Zehua Guo 0001</author><author pid="276/2394">Songshi Dou</author><author pid="99/6243-1">Junjie Zhang 0001</author><author pid="16/1660">Changlin Li</author><author pid="78/11070">Xiang Ouyang</author></authors><title>Poster: Enabling Fast Forwarding in Hybrid Software-Defined Networks.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Sun0D0LO21</key><doi>10.1109/ICNP52444.2021.9651943</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651943</ee><url>https://dblp.org/rec/conf/icnp/Sun0D0LO21</url></info>
+<url>URL#1018555</url>
+</hit>
+<hit score="1" id="1018556">
+<info><authors><author pid="62/3689">Yu Sun</author><author pid="24/8037">Chi Lin</author><author pid="124/6911">Haipeng Dai</author><author pid="90/4693">Pengfei Wang</author><author pid="68/8775">Jiankang Ren</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author></authors><title>Recycling Wasted Energy for Mobile Charging.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SunLDWRWW21</key><doi>10.1109/ICNP52444.2021.9651967</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651967</ee><url>https://dblp.org/rec/conf/icnp/SunLDWRWW21</url></info>
+<url>URL#1018556</url>
+</hit>
+<hit score="1" id="1018557">
+<info><authors><author pid="243/8054">Muhammad Naeem Tahir</author><author pid="27/3847">Marcos Katz</author><author pid="214/6124">Zunera Javed</author></authors><title>Poster: Connected Vehicles using Short-range (Wi-Fi &amp; IEEE 802.11p) and Long-range Cellular Networks (LTE &amp; 5G).</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TahirKJ21</key><doi>10.1109/ICNP52444.2021.9651959</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651959</ee><url>https://dblp.org/rec/conf/icnp/TahirKJ21</url></info>
+<url>URL#1018557</url>
+</hit>
+<hit score="1" id="1018558">
+<info><authors><author pid="301/8323">Weiqian Tan</author><author pid="175/6589">Binwei Wu</author></authors><title>Long-distance Deterministic Transmission among TSN Networks: Converging CQF and DIP.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TanW21</key><doi>10.1109/ICNP52444.2021.9651955</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651955</ee><url>https://dblp.org/rec/conf/icnp/TanW21</url></info>
+<url>URL#1018558</url>
+</hit>
+<hit score="1" id="1018559">
+<info><authors><author pid="11/3417">Zuoyin Tang</author><author pid="40/3669">Jianhua He</author><author pid="234/5246">Steven Knowles Flanagan</author><author pid="309/5637">Phillip Procter</author><author pid="69/764-1">Ling Cheng 0001</author></authors><title>Cooperative Connected Smart Road Infrastructure and Autonomous Vehicles for Safe Driving.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TangHFPC21</key><doi>10.1109/ICNP52444.2021.9651941</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651941</ee><url>https://dblp.org/rec/conf/icnp/TangHFPC21</url></info>
+<url>URL#1018559</url>
+</hit>
+<hit score="1" id="1018560">
+<info><authors><author pid="00/9809">Bing Tian</author><author pid="c/XiaofengChen">Xiaofeng Chen</author><author pid="135/8997">Jiawen Wang</author><author pid="47/4826">Dong Li</author><author pid="40/3934">Dong Wang</author><author pid="309/5639">Liangliang Zhi</author><author pid="70/3585">Keting Yin</author></authors><title>A Blockchain-based Trusted Testing System of Electric Power Materials.</title><venue>ICNP</venue><pages>1-5</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TianCWLWZY21</key><doi>10.1109/ICNP52444.2021.9651966</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651966</ee><url>https://dblp.org/rec/conf/icnp/TianCWLWZY21</url></info>
+<url>URL#1018560</url>
+</hit>
+<hit score="1" id="1018561">
+<info><authors><author pid="193/5719">Felipe Valle</author><author pid="164/6571">Martin Cooney</author><author pid="72/9953">Konstantin Mikhaylov</author><author pid="87/1880">Alexey V. Vinel</author></authors><title>The integration of UAVs to the C-ITS Stack.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ValleCMV21</key><doi>10.1109/ICNP52444.2021.9651976</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651976</ee><url>https://dblp.org/rec/conf/icnp/ValleCMV21</url></info>
+<url>URL#1018561</url>
+</hit>
+<hit score="1" id="1018562">
+<info><authors><author pid="245/8239">Xizheng Wang</author><author pid="24/858-1">Guo Chen 0001</author><author pid="309/5630">Xijin Yin</author><author pid="78/7704">Huichen Dai</author><author pid="122/5219">Bojie Li</author><author pid="60/7673">Binzhang Fu</author><author pid="42/5784">Kun Tan</author></authors><title>StaR: Breaking the Scalability Limit for RDMA.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WangCYDLFT21</key><doi>10.1109/ICNP52444.2021.9651935</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651935</ee><url>https://dblp.org/rec/conf/icnp/WangCYDLFT21</url></info>
+<url>URL#1018562</url>
+</hit>
+<hit score="1" id="1018563">
+<info><authors><author pid="71/3583">Haibo Wang</author><author pid="08/17">Tao Gao</author><author pid="227/7193">Weizhen Dang</author><author pid="199/9992">Jing&apos;an Xue</author><author pid="218/8811">Jiahao Cao</author><author pid="20/8277">Fenghua Li</author><author pid="18/6008-1">Jilong Wang 0001</author></authors><title>Hopping on Spectrum: Measuring and Boosting a Large-scale Dual-band Wireless Network.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WangGDXCL021</key><doi>10.1109/ICNP52444.2021.9651921</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651921</ee><url>https://dblp.org/rec/conf/icnp/WangGDXCL021</url></info>
+<url>URL#1018563</url>
+</hit>
+<hit score="1" id="1018564">
+<info><authors><author pid="50/1242">Yuhang Wang</author><author pid="39/2405">Ying He</author><author pid="142/3443">Minhui Dong</author></authors><title>Resource Allocation in Vehicular Networks with Multi-UAV Served Edge Computing.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WangHD21</key><doi>10.1109/ICNP52444.2021.9651916</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651916</ee><url>https://dblp.org/rec/conf/icnp/WangHD21</url></info>
+<url>URL#1018564</url>
+</hit>
+<hit score="1" id="1018565">
+<info><authors><author pid="175/6589">Binwei Wu</author><author pid="125/5249">Jiasen Wang</author><author pid="62/6975">Yanyan Wang</author><author pid="301/8323">Weiqian Tan</author><author pid="04/2098">Yudong Huang</author></authors><title>Achieving Deterministic Service in Mobile Edge Computing (MEC) Networks.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WuWWTH21</key><doi>10.1109/ICNP52444.2021.9651958</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651958</ee><url>https://dblp.org/rec/conf/icnp/WuWWTH21</url></info>
+<url>URL#1018565</url>
+</hit>
+<hit score="1" id="1018566">
+<info><authors><author pid="118/4505">Kaicheng Yang</author><author pid="08/8174">Yuanpeng Li</author><author pid="196/8629">Zirui Liu</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="36/2728">Yu Zhou</author><author pid="187/9864">Jintao He</author><author pid="199/9992">Jing&apos;an Xue</author><author pid="94/6503">Tong Zhao</author><author pid="254/7850">Zhengyi Jia</author><author pid="23/10161">Yongqiang Yang</author></authors><title>SketchINT: Empowering INT with TowerSketch for Per-flow Per-switch Measurement.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YangLLYZHXZJY21</key><doi>10.1109/ICNP52444.2021.9651940</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651940</ee><url>https://dblp.org/rec/conf/icnp/YangLLYZHXZJY21</url></info>
+<url>URL#1018566</url>
+</hit>
+<hit score="1" id="1018567">
+<info><authors><author pid="29/3081">Fan Yang</author><author pid="309/5643">Zerui Tian</author></authors><title>MRPGA: A Genetic-Algorithm-based In-network Caching for Information-Centric Networking.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YangT21</key><doi>10.1109/ICNP52444.2021.9651960</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651960</ee><url>https://dblp.org/rec/conf/icnp/YangT21</url></info>
+<url>URL#1018567</url>
+</hit>
+<hit score="1" id="1018568">
+<info><authors><author pid="273/1828">Ruyi Yao</author><author pid="219/1027">Cong Luo</author><author pid="266/7436">Xuandong Liu</author><author pid="93/3987">Ying Wan</author><author pid="35/837-1">Bin Liu 0001</author><author pid="75/5928">Wenjun Li</author><author pid="61/3906-10">Yang Xu 0010</author></authors><title>MagicTCAM: A Multiple-TCAM Scheme for Fast TCAM Update.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YaoLLWLLX21</key><doi>10.1109/ICNP52444.2021.9651965</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651965</ee><url>https://dblp.org/rec/conf/icnp/YaoLLWLLX21</url></info>
+<url>URL#1018568</url>
+</hit>
+<hit score="1" id="1018569">
+<info><authors><author pid="248/6084">Minghao Ye</author><author pid="99/6243-1">Junjie Zhang 0001</author><author pid="145/8541">Zehua Guo 0001</author><author pid="48/1215">H. Jonathan Chao</author></authors><title>Federated Traffic Engineering with Supervised Learning in Multi-region Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Ye00C21</key><doi>10.1109/ICNP52444.2021.9651918</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651918</ee><url>https://dblp.org/rec/conf/icnp/Ye00C21</url></info>
+<url>URL#1018569</url>
+</hit>
+<hit score="1" id="1018570">
+<info><authors><author pid="288/9125">Mingsheng Yin</author><author pid="133/4851">Tuyen X. Tran</author><author pid="92/9826">Abhigyan Sharma</author><author pid="44/8332">Marco Mezzavilla</author><author pid="36/6881">Sundeep Rangan</author></authors><title>Demo: SkyRoute, a Fast and Realistic UAV Cellular Simulation Framework.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YinTSMR21</key><doi>10.1109/ICNP52444.2021.9651932</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651932</ee><url>https://dblp.org/rec/conf/icnp/YinTSMR21</url></info>
+<url>URL#1018570</url>
+</hit>
+<hit score="1" id="1018571">
+<info><authors><author pid="308/2572">Hebin Yu</author><author pid="162/1613">Jiaqi Zheng</author><author pid="308/2220">Zhuoxuan Du</author><author pid="51/1742">Guihai Chen</author></authors><title>MPLibra: Complementing the Benefits of Classic and Learning-based Multipath Congestion Control.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YuZDC21</key><doi>10.1109/ICNP52444.2021.9651987</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651987</ee><url>https://dblp.org/rec/conf/icnp/YuZDC21</url></info>
+<url>URL#1018571</url>
+</hit>
+<hit score="1" id="1018572">
+<info><authors><author pid="309/5633">Linir Zamir</author><author pid="309/5641">Aman Shaan</author><author pid="89/2552">Mehrdad Nojoumian</author></authors><title>ISRaft Consensus Algorithm for Autonomous Units.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZamirSN21</key><doi>10.1109/ICNP52444.2021.9651979</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651979</ee><url>https://dblp.org/rec/conf/icnp/ZamirSN21</url></info>
+<url>URL#1018572</url>
+</hit>
+<hit score="1" id="1018573">
+<info><authors><author pid="204/5313">Gaoxiong Zeng</author><author pid="264/4333">Jianxin Qiu</author><author pid="05/4612">Yifei Yuan</author><author pid="16/8505">Hongqiang Liu</author><author pid="181/2839">Kai Chen</author></authors><title>FlashPass: Proactive Congestion Control for Shallow-buffered WAN.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZengQYLC21</key><doi>10.1109/ICNP52444.2021.9651988</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651988</ee><url>https://dblp.org/rec/conf/icnp/ZengQYLC21</url></info>
+<url>URL#1018573</url>
+</hit>
+<hit score="1" id="1018574">
+<info><authors><author pid="97/8704-157">Lei Zhang 0157</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="275/7703">Junchen Pan</author><author pid="74/1552-1">Yong Jiang 0001</author></authors><title>Deadline-Aware Transmission Control for Real-Time Video Streaming.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Zhang0PJ21</key><doi>10.1109/ICNP52444.2021.9651971</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651971</ee><url>https://dblp.org/rec/conf/icnp/Zhang0PJ21</url></info>
+<url>URL#1018574</url>
+</hit>
+<hit score="1" id="1018575">
+<info><authors><author pid="170/9703">Chuwen Zhang</author><author pid="271/5802">Zhikang Chen</author><author pid="55/5450-1">Haoyu Song 0001</author><author pid="273/1828">Ruyi Yao</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="67/6649-4">Yi Wang 0004</author><author pid="300/7548">Ji Miao</author><author pid="35/837-1">Bin Liu 0001</author></authors><title>PIPO: Efficient Programmable Scheduling for Time Sensitive Networking.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangC0YXWML21</key><doi>10.1109/ICNP52444.2021.9651944</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651944</ee><url>https://dblp.org/rec/conf/icnp/ZhangC0YXWML21</url></info>
+<url>URL#1018575</url>
+</hit>
+<hit score="1" id="1018576">
+<info><authors><author pid="04/527-2">Jiao Zhang 0002</author><author pid="191/8212">Yuxuan Gao</author><author pid="268/4540">Shubo Wen</author><author pid="26/11343">Tian Pan 0001</author><author pid="34/808-5">Tao Huang 0005</author></authors><title>Loom: Switch-based Cloud Load Balancer with Compressed States.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangGW0H21</key><doi>10.1109/ICNP52444.2021.9651928</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651928</ee><url>https://dblp.org/rec/conf/icnp/ZhangGW0H21</url></info>
+<url>URL#1018576</url>
+</hit>
+<hit score="1" id="1018577">
+<info><authors><author pid="84/6889">Jie Zhang</author><author pid="87/5241">Chuan Ma</author><author pid="35/7092">Wei Wang</author><author pid="73/3928-3">Kai Zheng 0003</author><author pid="91/2346-1">Yong Cui 0001</author></authors><title>Poster: EasyTrans: Enable Fast Iteration of Transport Protocol.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangMWZ021</key><doi>10.1109/ICNP52444.2021.9651910</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651910</ee><url>https://dblp.org/rec/conf/icnp/ZhangMWZ021</url></info>
+<url>URL#1018577</url>
+</hit>
+<hit score="1" id="1018578">
+<info><authors><author pid="04/527-2">Jiao Zhang 0002</author><author pid="296/4814">Jiaming Shi</author><author pid="275/3904">Xiaolong Zhong</author><author pid="309/5644">Zirui Wan</author><author pid="15/4658">Yu Tian</author><author pid="26/11343">Tian Pan 0001</author><author pid="34/808-5">Tao Huang 0005</author></authors><title>Receiver-Driven RDMA Congestion Control by Differentiating Congestion Types in Datacenter Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangSZWTPH21</key><doi>10.1109/ICNP52444.2021.9651938</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651938</ee><url>https://dblp.org/rec/conf/icnp/ZhangSZWTPH21</url></info>
+<url>URL#1018578</url>
+</hit>
+<hit score="1" id="1018579">
+<info><authors><author pid="309/5631">YuXin Zhao</author></authors><title>Poster : Loading Programmable Data Plane Programs to Virtual Plane.</title><venue>ICNP</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Zhao21</key><doi>10.1109/ICNP52444.2021.9651939</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651939</ee><url>https://dblp.org/rec/conf/icnp/Zhao21</url></info>
+<url>URL#1018579</url>
+</hit>
+<hit score="1" id="1018580">
+<info><authors><author pid="65/3277">Zhenyu Zhou</author><author pid="y/XiaoweiYang">Xiaowei Yang 0001</author></authors><title>Speeding Up TCP with Selective Loss Prevention.</title><venue>ICNP</venue><pages>1-6</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Zhou021</key><doi>10.1109/ICNP52444.2021.9651983</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651983</ee><url>https://dblp.org/rec/conf/icnp/Zhou021</url></info>
+<url>URL#1018580</url>
+</hit>
+<hit score="1" id="1018581">
+<info><authors><author pid="137/5221">Jianer Zhou</author><author pid="153/1588">Xinyi Qiu</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="85/85">Gareth Tyson</author><author pid="181/2689-6">Qing Li 0006</author><author pid="167/9016">Jingpu Duan</author><author pid="67/6649-4">Yi Wang 0004</author></authors><title>Antelope: A Framework for Dynamic Selection of Congestion Control Algorithms.</title><venue>ICNP</venue><pages>1-11</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhouQLTLDW21</key><doi>10.1109/ICNP52444.2021.9651912</doi><ee>https://doi.org/10.1109/ICNP52444.2021.9651912</ee><url>https://dblp.org/rec/conf/icnp/ZhouQLTLDW21</url></info>
+<url>URL#1018581</url>
+</hit>
+<hit score="1" id="1100556">
+<info><title>29th IEEE International Conference on Network Protocols, ICNP 2021, Dallas, TX, USA, November 1-5, 2021</title><venue>ICNP</venue><publisher>IEEE</publisher><year>2021</year><type>Editorship</type><key>conf/icnp/2021</key><doi>10.1109/ICNP52444.2021</doi><ee>https://doi.org/10.1109/ICNP52444.2021</ee><url>https://dblp.org/rec/conf/icnp/2021</url></info>
+<url>URL#1100556</url>
+</hit>
+</hits>
+</result>

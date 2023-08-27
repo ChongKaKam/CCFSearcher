@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59547">:facetid:toc:\"db/conf/icnp/icnp2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">183.78</time>
+<completions total="1" computed="1" sent="1">
+<c sc="56" dc="56" oc="56" id="41043972">:facetid:toc:db/conf/icnp/icnp2018.bht</c>
+</completions>
+<hits total="56" computed="56" sent="56" first="0">
+<hit score="1" id="2269258">
+<info><authors><author pid="23/100">Ahmed Saeed 0001</author><author pid="a/MHAmmar">Mostafa H. Ammar</author><author pid="z/EllenWZegura">Ellen W. Zegura</author><author pid="63/4747">Khaled Harras</author></authors><title>If you can&apos;t Beat Them, Augment Them: Improving Local WiFi with Only Above-Driver Changes.</title><venue>ICNP</venue><pages>378-388</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/0001AZH18</key><doi>10.1109/ICNP.2018.00053</doi><ee>https://doi.org/10.1109/ICNP.2018.00053</ee><url>https://dblp.org/rec/conf/icnp/0001AZH18</url></info>
+<url>URL#2269258</url>
+</hit>
+<hit score="1" id="2269259">
+<info><authors><author pid="135/0994">Ashkan Aghdai</author><author pid="35/4416">Mark Huang</author><author pid="44/2435">David Dai</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="48/1215">H. Jonathan Chao</author></authors><title>Transparent Edge Gateway for Mobile Networks.</title><venue>ICNP</venue><pages>412-417</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AghdaiHDXC18</key><doi>10.1109/ICNP.2018.00057</doi><ee>https://doi.org/10.1109/ICNP.2018.00057</ee><url>https://dblp.org/rec/conf/icnp/AghdaiHDXC18</url></info>
+<url>URL#2269259</url>
+</hit>
+<hit score="1" id="2269260">
+<info><authors><author pid="46/4715">Kamran Ali</author><author pid="l/AlexXLiu">Alex X. Liu</author><author pid="01/7553">Ioannis Pefkianakis</author><author pid="10/5900">Kyu-Han Kim</author></authors><title>Distributed Spectrum Sharing for Enterprise Powerline Communication Networks.</title><venue>ICNP</venue><pages>367-377</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AliLPK18</key><doi>10.1109/ICNP.2018.00052</doi><ee>https://doi.org/10.1109/ICNP.2018.00052</ee><url>https://dblp.org/rec/conf/icnp/AliLPK18</url></info>
+<url>URL#2269260</url>
+</hit>
+<hit score="1" id="2269261">
+<info><authors><author pid="209/8672">Walid A. Y. Aljoby</author><author pid="10/5630-40">Xin Wang 0040</author><author pid="89/6622">Tom Z. J. Fu</author><author pid="70/3312">Richard T. B. Ma</author></authors><title>On SDN-Enabled Online and Dynamic Bandwidth Allocation for Stream Analytics.</title><venue>ICNP</venue><pages>209-219</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AljobyWFM18</key><doi>10.1109/ICNP.2018.00030</doi><ee>https://doi.org/10.1109/ICNP.2018.00030</ee><url>https://dblp.org/rec/conf/icnp/AljobyWFM18</url></info>
+<url>URL#2269261</url>
+</hit>
+<hit score="1" id="2269262">
+<info><authors><author pid="227/7786">Avi Asayag</author><author pid="208/4301">Gad Cohen</author><author pid="227/7850">Ido Grayevsky</author><author pid="180/1071">Maya Leshkowitz</author><author pid="48/2092">Ori Rottenstreich</author><author pid="188/5771">Ronen Tamari</author><author pid="199/2130">David Yakira</author></authors><title>A Fair Consensus Protocol for Transaction Ordering.</title><venue>ICNP</venue><pages>55-65</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AsayagCGLRTY18</key><doi>10.1109/ICNP.2018.00016</doi><ee>https://doi.org/10.1109/ICNP.2018.00016</ee><url>https://dblp.org/rec/conf/icnp/AsayagCGLRTY18</url></info>
+<url>URL#2269262</url>
+</hit>
+<hit score="1" id="2269263">
+<info><authors><author pid="140/7690">Ran Ben-Basat</author><author pid="32/2568">Xiaoqi Chen</author><author pid="139/7090">Gil Einziger</author><author pid="48/2092">Ori Rottenstreich</author></authors><title>Efficient Measurement on Programmable Switches Using Probabilistic Recirculation.</title><venue>ICNP</venue><pages>313-323</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Ben-BasatCER18</key><doi>10.1109/ICNP.2018.00047</doi><ee>https://doi.org/10.1109/ICNP.2018.00047</ee><url>https://dblp.org/rec/conf/icnp/Ben-BasatCER18</url></info>
+<url>URL#2269263</url>
+</hit>
+<hit score="1" id="2269264">
+<info><authors><author pid="174/4909">Gonglong Chen</author><author pid="92/748-1">Wei Dong 0001</author></authors><title>JamCloak: Reactive Jamming Attack over Cross-Technology Communication Links.</title><venue>ICNP</venue><pages>34-43</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Chen018</key><doi>10.1109/ICNP.2018.00014</doi><ee>https://doi.org/10.1109/ICNP.2018.00014</ee><url>https://dblp.org/rec/conf/icnp/Chen018</url></info>
+<url>URL#2269264</url>
+</hit>
+<hit score="1" id="2269265">
+<info><authors><author pid="91/6670">Kang Chen</author><author pid="206/1684">Mijanur Rahaman Palash</author></authors><title>CADIA: Towards Decoupling the Congestion Control for Multipath TCP.</title><venue>ICNP</venue><pages>143-153</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ChenP18</key><doi>10.1109/ICNP.2018.00024</doi><ee>https://doi.org/10.1109/ICNP.2018.00024</ee><url>https://dblp.org/rec/conf/icnp/ChenP18</url></info>
+<url>URL#2269265</url>
+</hit>
+<hit score="1" id="2269266">
+<info><authors><author pid="48/4792-23">Yang Chen 0023</author><author pid="w/JieWu1">Jie Wu 0001</author><author pid="67/8454-1">Bo Ji 0001</author></authors><title>Virtual Network Function Deployment in Tree-Structured Networks.</title><venue>ICNP</venue><pages>132-142</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ChenWJ18</key><doi>10.1109/ICNP.2018.00023</doi><ee>https://doi.org/10.1109/ICNP.2018.00023</ee><url>https://dblp.org/rec/conf/icnp/ChenWJ18</url></info>
+<url>URL#2269266</url>
+</hit>
+<hit score="1" id="2269267">
+<info><authors><author pid="222/4171">Matthew L. Daggitt</author><author pid="g/TimothyGGriffin">Timothy G. Griffin</author></authors><title>Rate of Convergence of Increasing Path-Vector Routing Protocols.</title><venue>ICNP</venue><pages>335-345</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DaggittG18</key><doi>10.1109/ICNP.2018.00049</doi><ee>https://doi.org/10.1109/ICNP.2018.00049</ee><url>https://dblp.org/rec/conf/icnp/DaggittG18</url></info>
+<url>URL#2269267</url>
+</hit>
+<hit score="1" id="2269268">
+<info><authors><author pid="122/0556">Huynh Tu Dang</author><author pid="188/3598">Jaco Hofmann</author><author pid="51/3710">Yang Liu</author><author pid="15/8395">Marjan Radi</author><author pid="144/6240">Dejan Vucinic</author><author pid="49/6828">Robert Soulé</author><author pid="90/2612">Fernando Pedone</author></authors><title>Consensus for Non-volatile Main Memory.</title><venue>ICNP</venue><pages>406-411</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DangHLRVSP18</key><doi>10.1109/ICNP.2018.00056</doi><ee>https://doi.org/10.1109/ICNP.2018.00056</ee><url>https://dblp.org/rec/conf/icnp/DangHLRVSP18</url></info>
+<url>URL#2269268</url>
+</hit>
+<hit score="1" id="2269269">
+<info><authors><author pid="229/8847">Tharun Kumar Dangeti</author><author pid="229/8816">Venkata Keerthy S</author><author pid="91/10859">Ramakrishna Upadrasta</author></authors><title>P4LLVM: An LLVM Based P4 Compiler.</title><venue>ICNP</venue><pages>424-429</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DangetiSU18</key><doi>10.1109/ICNP.2018.00059</doi><ee>https://doi.org/10.1109/ICNP.2018.00059</ee><url>https://dblp.org/rec/conf/icnp/DangetiSU18</url></info>
+<url>URL#2269269</url>
+</hit>
+<hit score="1" id="2269270">
+<info><authors><author pid="218/8732">Vitalii Demianiuk</author><author pid="50/1870">Sergey I. Nikolenko</author><author pid="167/4287">Pavel Chuprikov</author><author pid="93/1311">Kirill Kogan</author></authors><title>New Alternatives to Optimize Policy Classifiers.</title><venue>ICNP</venue><pages>121-131</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DemianiukNCK18</key><doi>10.1109/ICNP.2018.00022</doi><ee>https://doi.org/10.1109/ICNP.2018.00022</ee><url>https://dblp.org/rec/conf/icnp/DemianiukNCK18</url></info>
+<url>URL#2269270</url>
+</hit>
+<hit score="1" id="2269271">
+<info><authors><author pid="208/4811">Guillem Duran</author><author pid="42/6276">José Valero Cuadra</author><author pid="69/5015">José María Amigó García</author><author pid="229/8773">Angel Gimenez Pastor</author><author pid="00/850">Oscar Martínez Bonastre</author></authors><title>Stabilizing Chaotic Behavior of RED.</title><venue>ICNP</venue><pages>241-242</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DuranCGPB18</key><doi>10.1109/ICNP.2018.00033</doi><ee>https://doi.org/10.1109/ICNP.2018.00033</ee><url>https://dblp.org/rec/conf/icnp/DuranCGPB18</url></info>
+<url>URL#2269271</url>
+</hit>
+<hit score="1" id="2269272">
+<info><authors><author pid="229/8762">Yixiao Gao</author><author pid="06/7124">Yuchen Yang</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="162/1613">Jiaqi Zheng</author><author pid="98/5039">Bing Mao</author><author pid="51/1742">Guihai Chen</author></authors><title>DCQCN+: Taming Large-Scale Incast Congestion in RDMA over Ethernet Networks.</title><venue>ICNP</venue><pages>110-120</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GaoYCZMC18</key><doi>10.1109/ICNP.2018.00021</doi><ee>https://doi.org/10.1109/ICNP.2018.00021</ee><url>https://dblp.org/rec/conf/icnp/GaoYCZMC18</url></info>
+<url>URL#2269272</url>
+</hit>
+<hit score="1" id="2269273">
+<info><authors><author pid="77/2018">David García</author><author pid="47/8777">Jasone Astorga</author><author pid="07/6968">Eduardo Jacob</author></authors><title>Innovating at the Connected Industry: SDN and NFV Experiences and Lessons Learned.</title><venue>ICNP</venue><pages>245-246</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GarciaAJ18</key><doi>10.1109/ICNP.2018.00035</doi><ee>https://doi.org/10.1109/ICNP.2018.00035</ee><url>https://dblp.org/rec/conf/icnp/GarciaAJ18</url></info>
+<url>URL#2269273</url>
+</hit>
+<hit score="1" id="2269274">
+<info><authors><author pid="222/8152">Chavoosh Ghasemi</author><author pid="17/7735-1">Hamed Yousefi 0001</author><author pid="s/KangGShin">Kang G. Shin</author><author pid="81/3293-1">Beichuan Zhang 0001</author></authors><title>A Fast and Memory-Efficient Trie Structure for Name-Based Packet Forwarding.</title><venue>ICNP</venue><pages>302-312</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GhasemiYSZ18</key><doi>10.1109/ICNP.2018.00046</doi><ee>https://doi.org/10.1109/ICNP.2018.00046</ee><url>https://dblp.org/rec/conf/icnp/GhasemiYSZ18</url></info>
+<url>URL#2269274</url>
+</hit>
+<hit score="1" id="2269275">
+<info><authors><author pid="41/219">Liang Gu</author><author pid="95/8929">Ran Ju</author><author pid="136/4569">Zhaogui Xu</author><author pid="48/1097">Jin Li</author><author pid="92/2954">Feng Li</author></authors><title>LTSM: Lightweight and Time Sliced Measurement for Link State.</title><venue>ICNP</venue><pages>243-244</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GuJXLL18</key><doi>10.1109/ICNP.2018.00034</doi><ee>https://doi.org/10.1109/ICNP.2018.00034</ee><url>https://dblp.org/rec/conf/icnp/GuJXLL18</url></info>
+<url>URL#2269275</url>
+</hit>
+<hit score="1" id="2269276">
+<info><authors><author pid="13/4208-1">Jiawei Huang 0001</author><author pid="216/8253">Wenjun Lv</author><author pid="229/8830">Weihe Li</author><author pid="75/2669-1">Jianxin Wang 0001</author><author pid="h/TianHe">Tian He 0001</author></authors><title>QDAPS: Queueing Delay Aware Packet Spraying for Load Balancing in Data Center.</title><venue>ICNP</venue><pages>66-76</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HuangLLW018</key><doi>10.1109/ICNP.2018.00017</doi><ee>https://doi.org/10.1109/ICNP.2018.00017</ee><url>https://dblp.org/rec/conf/icnp/HuangLLW018</url></info>
+<url>URL#2269276</url>
+</hit>
+<hit score="1" id="2269277">
+<info><authors><author pid="229/8751">Mohibi Hussain</author><author pid="c/JonCrowcroft">Jon Crowcroft</author></authors><title>Kiram and WOE: Distributed Denial of Service Attacks in Named-Data Networking.</title><venue>ICNP</venue><pages>255-256</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HussainC18</key><doi>10.1109/ICNP.2018.00040</doi><ee>https://doi.org/10.1109/ICNP.2018.00040</ee><url>https://dblp.org/rec/conf/icnp/HussainC18</url></info>
+<url>URL#2269277</url>
+</hit>
+<hit score="1" id="2269278">
+<info><authors><author pid="201/1866">Radek Isa</author><author pid="141/9380">Pavel Benácek</author><author pid="38/6903">Viktor Pus</author></authors><title>Verification of Generated RTL from P4 Source Code.</title><venue>ICNP</venue><pages>444-445</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/IsaBP18</key><doi>10.1109/ICNP.2018.00065</doi><ee>https://doi.org/10.1109/ICNP.2018.00065</ee><url>https://dblp.org/rec/conf/icnp/IsaBP18</url></info>
+<url>URL#2269278</url>
+</hit>
+<hit score="1" id="2269279">
+<info><authors><author pid="193/6745">Chengkun Jiang</author><author pid="11/1735-4">Yuan He 0004</author><author pid="33/6937-2">Meng Jin 0002</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="220/7067">Junchen Guo</author></authors><title>Canon: Exploiting Channel Diversity for Reliable Parallel Decoding in Backscatter Communication.</title><venue>ICNP</venue><pages>356-366</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/JiangHJZG18</key><doi>10.1109/ICNP.2018.00051</doi><ee>https://doi.org/10.1109/ICNP.2018.00051</ee><url>https://dblp.org/rec/conf/icnp/JiangHJZG18</url></info>
+<url>URL#2269279</url>
+</hit>
+<hit score="1" id="2269280">
+<info><authors><author pid="120/7504">Yasaman Keshtkarjahromi</author><author pid="149/2323">Yuxuan Xing</author><author pid="27/825">Hulya Seferoglu</author></authors><title>Dynamic Heterogeneity-Aware Coded Cooperative Computation at the Edge.</title><venue>ICNP</venue><pages>23-33</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Keshtkarjahromi18</key><doi>10.1109/ICNP.2018.00013</doi><ee>https://doi.org/10.1109/ICNP.2018.00013</ee><url>https://dblp.org/rec/conf/icnp/Keshtkarjahromi18</url></info>
+<url>URL#2269280</url>
+</hit>
+<hit score="1" id="2269281">
+<info><authors><author pid="98/4371-2">Rakesh Kumar 0002</author><author pid="177/6545">Vignesh Babu</author><author pid="n/DavidMNicol">David M. Nicol</author></authors><title>Network Coding for Critical Infrastructure Networks.</title><venue>ICNP</venue><pages>436-437</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KumarBN18</key><doi>10.1109/ICNP.2018.00061</doi><ee>https://doi.org/10.1109/ICNP.2018.00061</ee><url>https://dblp.org/rec/conf/icnp/KumarBN18</url></info>
+<url>URL#2269281</url>
+</hit>
+<hit score="1" id="2269282">
+<info><authors><author pid="99/8883">Chanhee Lee</author><author pid="164/1673">Changhoon Yoon</author><author pid="84/3319">Seungwon Shin</author><author pid="49/8463">Sang Kil Cha</author></authors><title>INDAGO: A New Framework For Detecting Malicious SDN Applications.</title><venue>ICNP</venue><pages>220-230</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LeeYSC18</key><doi>10.1109/ICNP.2018.00031</doi><ee>https://doi.org/10.1109/ICNP.2018.00031</ee><url>https://dblp.org/rec/conf/icnp/LeeYSC18</url></info>
+<url>URL#2269282</url>
+</hit>
+<hit score="1" id="2269283">
+<info><authors><author pid="229/8804">Benjamin Lewis</author><author pid="194/1671">Lyndon Fawcett</author><author pid="134/2967">Matthew Broadbent</author><author pid="r/NicholasJPRace">Nicholas J. P. Race</author></authors><title>Using P4 to Enable Scalable Intents in Software Defined Networks.</title><venue>ICNP</venue><pages>442-443</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LewisFBR18</key><doi>10.1109/ICNP.2018.00064</doi><ee>https://doi.org/10.1109/ICNP.2018.00064</ee><url>https://dblp.org/rec/conf/icnp/LewisFBR18</url></info>
+<url>URL#2269283</url>
+</hit>
+<hit score="1" id="2269284">
+<info><authors><author pid="55/6910">Ye Li</author><author pid="39/3657-4">Hong Xie 0004</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Quantifying Deployability &amp; Evolvability of Future Internet Architectures via Economic Models.</title><venue>ICNP</venue><pages>324-334</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Li0L18</key><doi>10.1109/ICNP.2018.00048</doi><ee>https://doi.org/10.1109/ICNP.2018.00048</ee><url>https://dblp.org/rec/conf/icnp/Li0L18</url></info>
+<url>URL#2269284</url>
+</hit>
+<hit score="1" id="2269285">
+<info><authors><author pid="187/6783">Changfu Lin</author><author pid="229/8794">Jingjing Zhan</author><author pid="54/2930">Hanhua Chen</author><author pid="81/7419">Jie Tan</author><author pid="98/4156">Hai Jin 0001</author></authors><title>Ares: A High Performance and Fault-Tolerant Distributed Stream Processing System.</title><venue>ICNP</venue><pages>176-186</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LinZCT018</key><doi>10.1109/ICNP.2018.00027</doi><ee>https://doi.org/10.1109/ICNP.2018.00027</ee><url>https://dblp.org/rec/conf/icnp/LinZCT018</url></info>
+<url>URL#2269285</url>
+</hit>
+<hit score="1" id="2269286">
+<info><authors><author pid="202/5022">Zhengzheng Liu</author><author pid="79/3662">Jun Bi</author><author pid="36/2728-8">Yu Zhou 0008</author><author pid="20/8967-1">Yangyang Wang 0001</author><author pid="229/8795">Yunsenxiao Lin</author></authors><title>NetVision: Towards Network Telemetry as a Service.</title><venue>ICNP</venue><pages>247-248</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuBZWL18</key><doi>10.1109/ICNP.2018.00036</doi><ee>https://doi.org/10.1109/ICNP.2018.00036</ee><url>https://dblp.org/rec/conf/icnp/LiuBZWL18</url></info>
+<url>URL#2269286</url>
+</hit>
+<hit score="1" id="2269287">
+<info><authors><author pid="61/3234-13">Qiang Liu 0013</author><author pid="78/744-2">Tao Han 0002</author></authors><title>DARE: Dynamic Adaptive Mobile Augmented Reality with Edge Computing.</title><venue>ICNP</venue><pages>1-11</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuH18</key><doi>10.1109/ICNP.2018.00011</doi><ee>https://doi.org/10.1109/ICNP.2018.00011</ee><url>https://dblp.org/rec/conf/icnp/LiuH18</url></info>
+<url>URL#2269287</url>
+</hit>
+<hit score="1" id="2269288">
+<info><authors><author pid="61/3234-13">Qiang Liu 0013</author><author pid="78/744-2">Tao Han 0002</author></authors><title>Demo Abstract: Themis: Cross-Domain Resource Orchestration and Virtualization in Cellular Computing Networks.</title><venue>ICNP</venue><pages>257-258</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuH18a</key><doi>10.1109/ICNP.2018.00041</doi><ee>https://doi.org/10.1109/ICNP.2018.00041</ee><url>https://dblp.org/rec/conf/icnp/LiuH18a</url></info>
+<url>URL#2269288</url>
+</hit>
+<hit score="1" id="2269289">
+<info><authors><author pid="45/279">Isaías Martinez-Yelmo</author><author pid="204/8535">Joaquin Alvarez-Horcajo</author><author pid="229/8826">Miguel Briso-Montiano</author><author pid="204/8610">Diego Lopez-Pajares</author><author pid="93/9975">Elisa Rojas</author></authors><title>ARP-P4: A Hybrid ARP-Path/P4Runtime Switch.</title><venue>ICNP</venue><pages>438-439</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Martinez-YelmoA18</key><doi>10.1109/ICNP.2018.00062</doi><ee>https://doi.org/10.1109/ICNP.2018.00062</ee><url>https://dblp.org/rec/conf/icnp/Martinez-YelmoA18</url></info>
+<url>URL#2269289</url>
+</hit>
+<hit score="1" id="2269290">
+<info><authors><author pid="229/8838">Costas Michaelides</author><author pid="160/6806">Maria Iloridou</author><author pid="77/2216">Fotini-Niovi Pavlidou</author></authors><title>In Search of the Lost Nodes in BANs.</title><venue>ICNP</venue><pages>249-250</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MichaelidesIP18</key><doi>10.1109/ICNP.2018.00037</doi><ee>https://doi.org/10.1109/ICNP.2018.00037</ee><url>https://dblp.org/rec/conf/icnp/MichaelidesIP18</url></info>
+<url>URL#2269290</url>
+</hit>
+<hit score="1" id="2269291">
+<info><authors><author pid="188/6680">Rui Miguel</author><author pid="147/7546">Salvatore Signorello</author><author pid="21/8398">Fernando M. V. Ramos</author></authors><title>Named Data Networking with Programmable Switches.</title><venue>ICNP</venue><pages>400-405</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MiguelSR18</key><doi>10.1109/ICNP.2018.00055</doi><ee>https://doi.org/10.1109/ICNP.2018.00055</ee><url>https://dblp.org/rec/conf/icnp/MiguelSR18</url></info>
+<url>URL#2269291</url>
+</hit>
+<hit score="1" id="2269292">
+<info><authors><author pid="229/8851">Yonatan Piasetzky</author><author pid="190/1358">Matty Kadosh</author><author pid="229/8798">Marian Pritsak</author><author pid="229/8824">Omer Shabtai</author><author pid="229/8766">Alan Lo</author><author pid="76/3136">Guohan Lu</author></authors><title>Switch ASIC Programmability in Hybrid Mode.</title><venue>ICNP</venue><pages>448-449</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/PiasetzkyKPSLL18</key><doi>10.1109/ICNP.2018.00067</doi><ee>https://doi.org/10.1109/ICNP.2018.00067</ee><url>https://dblp.org/rec/conf/icnp/PiasetzkyKPSLL18</url></info>
+<url>URL#2269292</url>
+</hit>
+<hit score="1" id="2269293">
+<info><authors><author pid="229/8754">Benoit Pit-Claudel</author><author pid="203/0827">Yoann Desmouceaux</author><author pid="183/1763">Pierre Pfister</author><author pid="203/0789">Mark Townsley</author><author pid="65/6165">Thomas H. Clausen</author></authors><title>Stateless Load-Aware Load Balancing in P4.</title><venue>ICNP</venue><pages>418-423</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Pit-ClaudelDPTC18</key><doi>10.1109/ICNP.2018.00058</doi><ee>https://doi.org/10.1109/ICNP.2018.00058</ee><url>https://dblp.org/rec/conf/icnp/Pit-ClaudelDPTC18</url></info>
+<url>URL#2269293</url>
+</hit>
+<hit score="1" id="2269294">
+<info><authors><author pid="229/5379">Ruben Ricart-Sanchez</author><author pid="83/6233">Pedro Malagón</author><author pid="96/7053">Jose M. Alcaraz Calero</author><author pid="19/1924-1">Qi Wang 0001</author></authors><title>Hardware-Accelerated Firewall for 5G Mobile Networks.</title><venue>ICNP</venue><pages>446-447</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Ricart-SanchezM18</key><doi>10.1109/ICNP.2018.00066</doi><ee>https://doi.org/10.1109/ICNP.2018.00066</ee><url>https://dblp.org/rec/conf/icnp/Ricart-SanchezM18</url></info>
+<url>URL#2269294</url>
+</hit>
+<hit score="1" id="2269295">
+<info><authors><author pid="124/3530">Satadal Sengupta</author><author pid="52/6987">Niloy Ganguly</author><author pid="28/9571">Sandip Chakraborty</author><author pid="74/1771">Pradipta De</author></authors><title>HotDASH: Hotspot Aware Adaptive Video Streaming Using Deep Reinforcement Learning.</title><venue>ICNP</venue><pages>165-175</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SenguptaGCD18</key><doi>10.1109/ICNP.2018.00026</doi><ee>https://doi.org/10.1109/ICNP.2018.00026</ee><url>https://dblp.org/rec/conf/icnp/SenguptaGCD18</url></info>
+<url>URL#2269295</url>
+</hit>
+<hit score="1" id="2269296">
+<info><authors><author pid="146/0131">Rinku Shah</author><author pid="205/3108">Aniket Shirke</author><author pid="229/8778">Akash Trehan</author><author pid="51/6299">Mythili Vutukuru</author><author pid="48/2303">Purushottam Kulkarni</author></authors><title>pcube: Primitives for Network Data Plane Programming.</title><venue>ICNP</venue><pages>430-435</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ShahSTVK18</key><doi>10.1109/ICNP.2018.00060</doi><ee>https://doi.org/10.1109/ICNP.2018.00060</ee><url>https://dblp.org/rec/conf/icnp/ShahSTVK18</url></info>
+<url>URL#2269296</url>
+</hit>
+<hit score="1" id="2269297">
+<info><authors><author pid="146/0131">Rinku Shah</author><author pid="51/6299">Mythili Vutukuru</author><author pid="48/2303">Purushottam Kulkarni</author></authors><title>Cuttlefish: Hierarchical SDN Controllers with Adaptive Offload.</title><venue>ICNP</venue><pages>198-208</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ShahVK18</key><doi>10.1109/ICNP.2018.00029</doi><ee>https://doi.org/10.1109/ICNP.2018.00029</ee><url>https://dblp.org/rec/conf/icnp/ShahVK18</url></info>
+<url>URL#2269297</url>
+</hit>
+<hit score="1" id="2269298">
+<info><authors><author pid="14/5514-1">Muhammad Shahzad 0001</author><author pid="229/8776">Anirudh Ganji</author></authors><title>IoTm: A Lightweight Framework for Fine-Grained Measurements of IoT Performance Metrics.</title><venue>ICNP</venue><pages>12-22</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ShahzadG18</key><doi>10.1109/ICNP.2018.00012</doi><ee>https://doi.org/10.1109/ICNP.2018.00012</ee><url>https://dblp.org/rec/conf/icnp/ShahzadG18</url></info>
+<url>URL#2269298</url>
+</hit>
+<hit score="1" id="2269299">
+<info><authors><author pid="137/3349">Danfeng Shan</author><author pid="05/6995">Fengyuan Ren</author><author pid="76/185-5">Peng Cheng 0005</author><author pid="06/11343-1">Ran Shu 0001</author><author pid="95/4962">Chuanxiong Guo</author></authors><title>Micro-Burst in Data Centers: Observations, Analysis, and Mitigations.</title><venue>ICNP</venue><pages>88-98</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ShanRCSG18</key><doi>10.1109/ICNP.2018.00019</doi><ee>https://doi.org/10.1109/ICNP.2018.00019</ee><url>https://dblp.org/rec/conf/icnp/ShanRCSG18</url></info>
+<url>URL#2269299</url>
+</hit>
+<hit score="1" id="2269300">
+<info><authors><author pid="133/3868">Ramanujan K. Sheshadri</author><author pid="42/3793">Karthikeyan Sundaresan</author><author pid="33/8356">Eugene Chai</author><author pid="67/43">Sampath Rangarajan</author><author pid="92/442">Dimitrios Koutsonikolas</author></authors><title>ELI: Empowering LTE with Interference Awareness in Unlicensed Spectrum.</title><venue>ICNP</venue><pages>280-290</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SheshadriSCRK18</key><doi>10.1109/ICNP.2018.00044</doi><ee>https://doi.org/10.1109/ICNP.2018.00044</ee><url>https://dblp.org/rec/conf/icnp/SheshadriSCRK18</url></info>
+<url>URL#2269300</url>
+</hit>
+<hit score="1" id="2269301">
+<info><authors><author pid="190/7310">Jeferson Santiago da Silva</author><author pid="202/2930">Thibaut Stimpfling</author><author pid="194/3924">Thomas Luinaud</author><author pid="224/0028">Bachir Fradj</author><author pid="25/9976">Bochra Boughzala</author></authors><title>One for All, All for One: A Heterogeneous Data Plane for Flexible P4 Processing.</title><venue>ICNP</venue><pages>440-441</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SilvaSLFB18</key><doi>10.1109/ICNP.2018.00063</doi><ee>https://doi.org/10.1109/ICNP.2018.00063</ee><url>https://dblp.org/rec/conf/icnp/SilvaSLFB18</url></info>
+<url>URL#2269301</url>
+</hit>
+<hit score="1" id="2269302">
+<info><authors><author pid="121/2717">Xiaoye Steven Sun</author><author pid="87/10380">Yiting Xia</author><author pid="150/5567">Simbarashe Dzinamarira</author><author pid="192/2245">Xin Sunny Huang</author><author pid="81/6181-2">Dingming Wu 0002</author><author pid="35/2683">T. S. Eugene Ng</author></authors><title>Republic: Data Multicast Meets Hybrid Rack-Level Interconnections in Data Center.</title><venue>ICNP</venue><pages>77-87</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SunXDH0N18</key><doi>10.1109/ICNP.2018.00018</doi><ee>https://doi.org/10.1109/ICNP.2018.00018</ee><url>https://dblp.org/rec/conf/icnp/SunXDH0N18</url></info>
+<url>URL#2269302</url>
+</hit>
+<hit score="1" id="2269303">
+<info><authors><author pid="229/8787">Masahiro Terauchi</author><author pid="86/7403">Kohei Watabe</author><author pid="46/3765">Kenji Nakagawa</author></authors><title>Model-Less Approach of Network Traffic for Accurate Packet Loss Simulations.</title><venue>ICNP</venue><pages>251-252</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TerauchiWN18</key><doi>10.1109/ICNP.2018.00038</doi><ee>https://doi.org/10.1109/ICNP.2018.00038</ee><url>https://dblp.org/rec/conf/icnp/TerauchiWN18</url></info>
+<url>URL#2269303</url>
+</hit>
+<hit score="1" id="2269304">
+<info><authors><author pid="00/9">Kazuaki Ueda</author><author pid="36/6615">Atsushi Tagami</author></authors><title>ICN Performance Enhancing Proxies for the Global Content Distribution.</title><venue>ICNP</venue><pages>253-254</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/UedaT18</key><doi>10.1109/ICNP.2018.00039</doi><ee>https://doi.org/10.1109/ICNP.2018.00039</ee><url>https://dblp.org/rec/conf/icnp/UedaT18</url></info>
+<url>URL#2269304</url>
+</hit>
+<hit score="1" id="2269305">
+<info><authors><author pid="42/1503-8">Shuai Wang 0008</author><author pid="130/9834-1">Zhimeng Yin 0001</author><author pid="89/6527-2">Zhijun Li 0002</author><author pid="h/TianHe">Tian He 0001</author></authors><title>Networking Support For Physical-Layer Cross-Technology Communication.</title><venue>ICNP</venue><pages>259-269</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WangYL018</key><doi>10.1109/ICNP.2018.00042</doi><ee>https://doi.org/10.1109/ICNP.2018.00042</ee><url>https://dblp.org/rec/conf/icnp/WangYL018</url></info>
+<url>URL#2269305</url>
+</hit>
+<hit score="1" id="2269306">
+<info><authors><author pid="73/9964">Guanhao Wu</author><author pid="95/6947-1">Xiaofeng Gao 0001</author><author pid="69/510-48">Tao Chen 0048</author><author pid="63/778">Hao Zhou</author><author pid="23/7909">Linghe Kong</author><author pid="51/1742">Guihai Chen</author></authors><title>Shifter: A Consistent Multicast Routing Update Scheme in Software-Defined Networks.</title><venue>ICNP</venue><pages>346-355</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WuGCZKC18</key><doi>10.1109/ICNP.2018.00050</doi><ee>https://doi.org/10.1109/ICNP.2018.00050</ee><url>https://dblp.org/rec/conf/icnp/WuGCZKC18</url></info>
+<url>URL#2269306</url>
+</hit>
+<hit score="1" id="2269307">
+<info><authors><author pid="46/7725">Xiaoying Zhang</author><author pid="39/3657-4">Hong Xie 0004</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Sybil Detection in Social-Activity Networks: Modeling, Algorithms and Evaluations.</title><venue>ICNP</venue><pages>44-54</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Zhang0L18</key><doi>10.1109/ICNP.2018.00015</doi><ee>https://doi.org/10.1109/ICNP.2018.00015</ee><url>https://dblp.org/rec/conf/icnp/Zhang0L18</url></info>
+<url>URL#2269307</url>
+</hit>
+<hit score="1" id="2269308">
+<info><authors><author pid="99/8966">Yangming Zhao</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="174/4798">Jingyuan Fan</author><author pid="176/5853">Tong Guan</author><author pid="60/6865">Chunming Qiao</author></authors><title>RPC: Joint Online Reducer Placement and Coflow Bandwidth Scheduling for Clusters.</title><venue>ICNP</venue><pages>187-197</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhaoTFGQ18</key><doi>10.1109/ICNP.2018.00028</doi><ee>https://doi.org/10.1109/ICNP.2018.00028</ee><url>https://dblp.org/rec/conf/icnp/ZhaoTFGQ18</url></info>
+<url>URL#2269308</url>
+</hit>
+<hit score="1" id="2269309">
+<info><authors><author pid="116/8571">Zhilong Zheng</author><author pid="79/3662">Jun Bi</author><author pid="68/7989">Haiping Wang</author><author pid="01/6072-5">Chen Sun 0005</author><author pid="29/1429-5">Heng Yu 0005</author><author pid="02/2870">Hongxin Hu</author><author pid="12/4000-1">Kai Gao 0001</author><author pid="82/4905">Jianping Wu</author></authors><title>Grus: Enabling Latency SLOs for GPU-Accelerated NFV Systems.</title><venue>ICNP</venue><pages>154-164</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhengBWSYHGW18</key><doi>10.1109/ICNP.2018.00025</doi><ee>https://doi.org/10.1109/ICNP.2018.00025</ee><url>https://dblp.org/rec/conf/icnp/ZhengBWSYHGW18</url></info>
+<url>URL#2269309</url>
+</hit>
+<hit score="1" id="2269310">
+<info><authors><author pid="162/1613">Jiaqi Zheng</author><author pid="229/8840">Qiufang Ma</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="50/3402-61">Bo Li 0061</author><author pid="124/6911">Haipeng Dai</author><author pid="01/5265-1">Hong Xu 0001</author><author pid="51/1742">Guihai Chen</author><author pid="87/3074">Qiang Ni</author></authors><title>Hermes: Utility-Aware Network Update in Software-Defined WANs.</title><venue>ICNP</venue><pages>231-240</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhengMTLD0CN18</key><doi>10.1109/ICNP.2018.00032</doi><ee>https://doi.org/10.1109/ICNP.2018.00032</ee><url>https://dblp.org/rec/conf/icnp/ZhengMTLD0CN18</url></info>
+<url>URL#2269310</url>
+</hit>
+<hit score="1" id="2269311">
+<info><authors><author pid="203/9651">Shuxin Zhong</author><author pid="203/9499">Yu-Xuan Qiu</author><author pid="33/1726">Rukhsana Ruby</author><author pid="49/3800-2">Lu Wang 0002</author><author pid="34/4445">Kaishun Wu</author></authors><title>SIDE: Semi-Distributed Mechanical Equilibrium Based UAV Deployment.</title><venue>ICNP</venue><pages>270-279</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhongQR0W18</key><doi>10.1109/ICNP.2018.00043</doi><ee>https://doi.org/10.1109/ICNP.2018.00043</ee><url>https://dblp.org/rec/conf/icnp/ZhongQR0W18</url></info>
+<url>URL#2269311</url>
+</hit>
+<hit score="1" id="2269312">
+<info><authors><author pid="36/2728-8">Yu Zhou 0008</author><author pid="79/3662">Jun Bi</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="12/4000-1">Kai Gao 0001</author><author pid="82/6384-12">Cheng Zhang 0012</author><author pid="224/2165">Jiamin Cao</author><author pid="20/8967-1">Yangyang Wang 0001</author></authors><title>KeySight: Troubleshooting Programmable Switches via Scalable High-Coverage Behavior Tracking.</title><venue>ICNP</venue><pages>291-301</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhouBYGZCW18</key><doi>10.1109/ICNP.2018.00045</doi><ee>https://doi.org/10.1109/ICNP.2018.00045</ee><url>https://dblp.org/rec/conf/icnp/ZhouBYGZCW18</url></info>
+<url>URL#2269312</url>
+</hit>
+<hit score="1" id="2358421">
+<info><title>2018 IEEE 26th International Conference on Network Protocols, ICNP 2018, Cambridge, UK, September 25-27, 2018</title><venue>ICNP</venue><publisher>IEEE Computer Society</publisher><year>2018</year><type>Editorship</type><key>conf/icnp/2018</key><ee>https://ieeexplore.ieee.org/xpl/conhome/8526479/proceeding</ee><url>https://dblp.org/rec/conf/icnp/2018</url></info>
+<url>URL#2358421</url>
+</hit>
+</hits>
+</result>

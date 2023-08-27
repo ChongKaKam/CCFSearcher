@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59300">:facetid:toc:\"db/conf/mobicom/mobicom2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">200.80</time>
+<completions total="1" computed="1" sent="1">
+<c sc="113" dc="113" oc="113" id="41055767">:facetid:toc:db/conf/mobicom/mobicom2019.bht</c>
+</completions>
+<hits total="113" computed="113" sent="113" first="0">
+<hit score="1" id="1926346">
+<info><authors><author pid="68/3020-1">Seunghyun Yoon 0001</author><author pid="71/2230">Jin-Hee Cho</author><author pid="k/DongSeongKim">Dong Seong Kim 0001</author><author pid="22/5222">Terrence J. Moore</author><author pid="221/5255">Frederica Free-Nelson</author><author pid="86/2194">Hyuk Lim</author></authors><title>Poster: Address Shuffling based Moving Target Defense for In-Vehicle Software-Defined Networks.</title><venue>MobiCom</venue><pages>103:1-103:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/0001CKMNL19</key><doi>10.1145/3300061.3343392</doi><ee>https://doi.org/10.1145/3300061.3343392</ee><url>https://dblp.org/rec/conf/mobicom/0001CKMNL19</url></info>
+<url>URL#1926346</url>
+</hit>
+<hit score="1" id="1926347">
+<info><authors><author pid="05/2700-1">Bo Cheng 0001</author><author pid="70/720-2">Ming Wang 0002</author><author pid="63/6051">Junliang Chen</author></authors><title>Poster: Energy Efficient Mobile Video Transmission over Wireless Networks in IoT Applications.</title><venue>MobiCom</venue><pages>83:1-83:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/0001WC19</key><doi>10.1145/3300061.3343383</doi><ee>https://doi.org/10.1145/3300061.3343383</ee><url>https://dblp.org/rec/conf/mobicom/0001WC19</url></info>
+<url>URL#1926347</url>
+</hit>
+<hit score="1" id="1926349">
+<info><authors><author pid="222/5396">Shivang Aggarwal</author><author pid="166/5846">Swetank Kumar Saha</author><author pid="254/5606">Pranab Dash</author><author pid="211/9501">Jiayi Meng</author><author pid="251/1411">Arvind Thirumurugan</author><author pid="92/442">Dimitrios Koutsonikolas</author><author pid="93/89">Y. Charlie Hu</author></authors><title>Poster: Can Mobile Hardware Keep Up with Today&apos;s Gigabit Wireless Technologies?</title><venue>MobiCom</venue><pages>77:1-77:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/AggarwalSDMTKH19</key><doi>10.1145/3300061.3343398</doi><ee>https://doi.org/10.1145/3300061.3343398</ee><url>https://dblp.org/rec/conf/mobicom/AggarwalSDMTKH19</url></info>
+<url>URL#1926349</url>
+</hit>
+<hit score="1" id="1926353">
+<info><authors><author pid="189/1742">Namwon An</author><author pid="86/2194">Hyuk Lim</author></authors><title>Poster: Protecting Control Planes in In-Band Software-Defined Wireless Networks.</title><venue>MobiCom</venue><pages>78:1-78:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/AnL19</key><doi>10.1145/3300061.3343396</doi><ee>https://doi.org/10.1145/3300061.3343396</ee><url>https://dblp.org/rec/conf/mobicom/AnL19</url></info>
+<url>URL#1926353</url>
+</hit>
+<hit score="1" id="1926354">
+<info><authors><author pid="203/8833">Zhenlin An</author><author pid="50/2484-25">Lei Yang 0025</author><author pid="148/1927">Qiongzheng Lin</author></authors><title>Demo: Activating Wireless Voice for E-Toll Collection Systems with Zero Start-up Cost.</title><venue>MobiCom</venue><pages>58:1-58:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/AnYL19</key><doi>10.1145/3300061.3343363</doi><ee>https://doi.org/10.1145/3300061.3343363</ee><url>https://dblp.org/rec/conf/mobicom/AnYL19</url></info>
+<url>URL#1926354</url>
+</hit>
+<hit score="1" id="1926356">
+<info><authors><author pid="08/5351">Ganesh Ananthanarayanan</author><author pid="55/3521">Yunxin Liu</author><author pid="64/10521">Yuanchao Shu</author></authors><title>HotEdgeVideo&apos;19: Workshop on Hot Topics in Video Analytics and Intelligent Edges.</title><venue>MobiCom</venue><pages>107:1</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Ananthanarayanan19a</key><doi>10.1145/3300061.3355630</doi><ee>https://doi.org/10.1145/3300061.3355630</ee><url>https://dblp.org/rec/conf/mobicom/Ananthanarayanan19a</url></info>
+<url>URL#1926356</url>
+</hit>
+<hit score="1" id="1926358">
+<info><authors><author pid="152/9913">Jose A. Ayala-Romero</author><author pid="41/8398">Andres Garcia-Saavedra</author><author pid="25/10042">Marco Gramaglia</author><author pid="42/2579">Xavier Costa-Pérez</author><author pid="b/AlbertBanchs">Albert Banchs</author><author pid="21/930">Juan J. Alcaraz</author></authors><title>vrAIn: A Deep Learning Approach Tailoring Computing and Radio Resources in Virtualized RANs.</title><venue>MobiCom</venue><pages>30:1-30:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Ayala-RomeroGGC19</key><doi>10.1145/3300061.3345431</doi><ee>https://doi.org/10.1145/3300061.3345431</ee><url>https://dblp.org/rec/conf/mobicom/Ayala-RomeroGGC19</url></info>
+<url>URL#1926358</url>
+</hit>
+<hit score="1" id="1926359">
+<info><authors><author pid="152/9913">Jose A. Ayala-Romero</author><author pid="41/8398">Andres Garcia-Saavedra</author><author pid="25/10042">Marco Gramaglia</author><author pid="42/2579">Xavier Costa-Pérez</author><author pid="b/AlbertBanchs">Albert Banchs</author><author pid="21/930">Juan J. Alcaraz</author></authors><title>Demo: vrAIn Proof-of-Concept - A Deep Learning Approach for Virtualized RAN Resource Control.</title><venue>MobiCom</venue><pages>59:1-59:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Ayala-RomeroGGC19a</key><doi>10.1145/3300061.3343370</doi><ee>https://doi.org/10.1145/3300061.3343370</ee><url>https://dblp.org/rec/conf/mobicom/Ayala-RomeroGGC19a</url></info>
+<url>URL#1926359</url>
+</hit>
+<hit score="1" id="1926360">
+<info><authors><author pid="39/6825">Yang Bai</author><author pid="35/295-1">Jian Liu 0001</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="49/2793-8">Li Lu 0008</author><author pid="85/3615">Jiadi Yu</author></authors><title>Poster: Inaudible High-throughput Communication Through Acoustic Signals.</title><venue>MobiCom</venue><pages>79:1-79:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BaiLC0Y19</key><doi>10.1145/3300061.3343405</doi><ee>https://doi.org/10.1145/3300061.3343405</ee><url>https://dblp.org/rec/conf/mobicom/BaiLC0Y19</url></info>
+<url>URL#1926360</url>
+</hit>
+<hit score="1" id="1926361">
+<info><authors><author pid="115/5126">Ghufran Baig</author><author pid="24/6837">Jian He</author><author pid="115/5150">Mubashir Adnan Qureshi</author><author pid="54/4031">Lili Qiu</author><author pid="222/9000">Guohai Chen</author><author pid="27/7017">Peng Chen</author><author pid="246/2306">Yinliang Hu</author></authors><title>Jigsaw: Robust Live 4K Video Streaming.</title><venue>MobiCom</venue><pages>14:1-14:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BaigHQQCCH19</key><doi>10.1145/3300061.3300127</doi><ee>https://doi.org/10.1145/3300061.3300127</ee><url>https://dblp.org/rec/conf/mobicom/BaigHQQCCH19</url></info>
+<url>URL#1926361</url>
+</hit>
+<hit score="1" id="1926362">
+<info><authors><author pid="124/3088">Arjun Bakshi</author><author pid="203/8154">Yifan Mao</author><author pid="73/1997-1">Kannan Srinivasan 0001</author><author pid="p/SParathasarathy">Srinivasan Parthasarathy 0001</author></authors><title>Fast and Efficient Cross Band Channel Prediction Using Machine Learning.</title><venue>MobiCom</venue><pages>37:1-37:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BakshiMSP19</key><doi>10.1145/3300061.3345438</doi><ee>https://doi.org/10.1145/3300061.3345438</ee><url>https://dblp.org/rec/conf/mobicom/BakshiMSP19</url></info>
+<url>URL#1926362</url>
+</hit>
+<hit score="1" id="1926363">
+<info><authors><author pid="163/9035">Arjun Balasingam</author><author pid="16/5251">Manu Bansal</author><author pid="122/5224">Rakesh Misra</author><author pid="75/3719">Kanthi Nagaraj</author><author pid="56/4941">Rahul Tandra</author><author pid="50/1133">Sachin Katti</author><author pid="77/3626">Aaron Schulman</author></authors><title>Detecting if LTE is the Bottleneck with BurstTracker.</title><venue>MobiCom</venue><pages>1:1-1:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BalasingamBMNTK19</key><doi>10.1145/3300061.3300140</doi><ee>https://doi.org/10.1145/3300061.3300140</ee><url>https://dblp.org/rec/conf/mobicom/BalasingamBMNTK19</url></info>
+<url>URL#1926363</url>
+</hit>
+<hit score="1" id="1926364">
+<info><authors><author pid="18/5065">Suzan Bayhan</author><author pid="42/64">Eirini-Eleni Tsiropoulou</author></authors><title>CHANTS&apos;19: 14th Workshop on Challenged Networks.</title><venue>MobiCom</venue><pages>106:1-106:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BayhanT19</key><doi>10.1145/3300061.3355634</doi><ee>https://doi.org/10.1145/3300061.3355634</ee><url>https://dblp.org/rec/conf/mobicom/BayhanT19</url></info>
+<url>URL#1926364</url>
+</hit>
+<hit score="1" id="1926369">
+<info><authors><author pid="77/9956">Apurv Bhartia</author><author pid="89/5615">Bo Chen</author><author pid="208/4204">Derrick Pallas</author><author pid="164/8031">Waldin Stone</author></authors><title>ClientMarshal: Regaining Control from Wireless Clients for Better Experience.</title><venue>MobiCom</venue><pages>6:1-6:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BhartiaCPS19</key><doi>10.1145/3300061.3300135</doi><ee>https://doi.org/10.1145/3300061.3300135</ee><url>https://dblp.org/rec/conf/mobicom/BhartiaCPS19</url></info>
+<url>URL#1926369</url>
+</hit>
+<hit score="1" id="1926370">
+<info><authors><author pid="199/6561">George Boateng</author><author pid="234/6227">Vivian Genaro Motti</author><author pid="74/10105-1">Varun Mishra 0001</author><author pid="199/6547">John A. Batsis</author><author pid="143/9139">Josiah D. Hester</author><author pid="k/DavidKotz">David Kotz</author></authors><title>Experience: Design, Development and Evaluation of a Wearable Device for mHealth Applications.</title><venue>MobiCom</venue><pages>31:1-31:14</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BoatengMMBHK19</key><doi>10.1145/3300061.3345432</doi><ee>https://doi.org/10.1145/3300061.3345432</ee><url>https://dblp.org/rec/conf/mobicom/BoatengMMBHK19</url></info>
+<url>URL#1926370</url>
+</hit>
+<hit score="1" id="1926371">
+<info><authors><author pid="199/6561">George Boateng</author><author pid="179/5445">Prabhakaran Santhanam</author><author pid="248/9781">Janina Lüscher</author><author pid="196/6375">Urte Scholz</author><author pid="05/6574">Tobias Kowatsch</author></authors><title>Poster: DyMand - An Open-Source Mobile and Wearable System for Assessing Couples&apos; Dyadic Management of Chronic Diseases.</title><venue>MobiCom</venue><pages>80:1-80:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BoatengSLSK19</key><doi>10.1145/3300061.3343399</doi><ee>https://doi.org/10.1145/3300061.3343399</ee><url>https://dblp.org/rec/conf/mobicom/BoatengSLSK19</url></info>
+<url>URL#1926371</url>
+</hit>
+<hit score="1" id="1926373">
+<info><authors><author pid="205/8017">Nam Bui</author><author pid="206/0037">Nhat Pham</author><author pid="254/5419">Jessica Jacqueline Barnitz</author><author pid="254/5108">Zhanan Zou</author><author pid="99/10437-2">Phuc Nguyen 0002</author><author pid="299/0529-2">Hoang Truong 0002</author><author pid="70/6258">Taeho Kim</author><author pid="126/7648">Nicholas Farrow</author><author pid="52/5285-1">Anh Nguyen 0001</author><author pid="239/8028">Jianliang Xiao</author><author pid="180/1334">Robin R. Deterding</author><author pid="54/7220">Thang N. Dinh</author><author pid="12/8574">Tam Vu 0001</author></authors><title>eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User&apos;s Ear.</title><venue>MobiCom</venue><pages>53:1-53:17</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/BuiPBZNTKFNXDDV19</key><doi>10.1145/3300061.3345454</doi><ee>https://doi.org/10.1145/3300061.3345454</ee><url>https://dblp.org/rec/conf/mobicom/BuiPBZNTKFNXDDV19</url></info>
+<url>URL#1926373</url>
+</hit>
+<hit score="1" id="1926376">
+<info><authors><author pid="35/5301">Pedro Casas</author><author pid="73/8197">Florian Wamser</author><author pid="b/FabianEBustamante">Fabián E. Bustamante</author><author pid="48/6854">David R. Choffnes</author></authors><title>Internet-QoE 2019: 4th Internet-QoE Workshop on QoE-based Analysis and Management of Data Communication Networks.</title><venue>MobiCom</venue><pages>108:1-108:2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/CasasWBC19</key><doi>10.1145/3300061.3355631</doi><ee>https://doi.org/10.1145/3300061.3355631</ee><url>https://dblp.org/rec/conf/mobicom/CasasWBC19</url></info>
+<url>URL#1926376</url>
+</hit>
+<hit score="1" id="1926377">
+<info><authors><author pid="136/2177">Wenqiang Chen</author><author pid="13/3479">Lin Chen</author><author pid="222/5431">Yandao Huang</author><author pid="58/4582-3">Xinyu Zhang 0003</author><author pid="49/3800-2">Lu Wang 0002</author><author pid="33/1726">Rukhsana Ruby</author><author pid="34/4445">Kaishun Wu</author></authors><title>Taprint: Secure Text Input for Commodity Smart Wristbands.</title><venue>MobiCom</venue><pages>17:1-17:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChenCHZWRW19</key><doi>10.1145/3300061.3300124</doi><ee>https://doi.org/10.1145/3300061.3300124</ee><url>https://dblp.org/rec/conf/mobicom/ChenCHZWRW19</url></info>
+<url>URL#1926377</url>
+</hit>
+<hit score="1" id="1926378">
+<info><authors><author pid="149/4695">Tingjun Chen</author><author pid="184/4403">Mahmood Baraani Dastjerdi</author><author pid="252/1057">Jackson Welles</author><author pid="98/2691-1">Jin Zhou 0001</author><author pid="01/10276">Harish Krishnaswamy</author><author pid="18/6910">Gil Zussman</author></authors><title>Poster: Enabling Wideband Full-Duplex Wireless via Frequency-Domain Equalization.</title><venue>MobiCom</venue><pages>82:1-82:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChenDWZKZ19</key><doi>10.1145/3300061.3343406</doi><ee>https://doi.org/10.1145/3300061.3343406</ee><url>https://dblp.org/rec/conf/mobicom/ChenDWZKZ19</url></info>
+<url>URL#1926378</url>
+</hit>
+<hit score="1" id="1926379">
+<info><authors><author pid="149/4695">Tingjun Chen</author><author pid="184/4403">Mahmood Baraani Dastjerdi</author><author pid="98/2691-1">Jin Zhou 0001</author><author pid="01/10276">Harish Krishnaswamy</author><author pid="18/6910">Gil Zussman</author></authors><title>Wideband Full-Duplex Wireless via Frequency-Domain Equalization: Design and Experimentation.</title><venue>MobiCom</venue><pages>3:1-3:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChenDZKZ19</key><doi>10.1145/3300061.3300138</doi><ee>https://doi.org/10.1145/3300061.3300138</ee><url>https://dblp.org/rec/conf/mobicom/ChenDZKZ19</url></info>
+<url>URL#1926379</url>
+</hit>
+<hit score="1" id="1926381">
+<info><authors><author pid="69/157-10">Lu Chen 0010</author><author pid="67/5807">Fang Liu</author><author pid="73/1997-1">Kannan Srinivasan 0001</author></authors><title>Verification: Constructive and Destructive Full Duplex Relays.</title><venue>MobiCom</venue><pages>44:1-44:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChenLS19</key><doi>10.1145/3300061.3345445</doi><ee>https://doi.org/10.1145/3300061.3345445</ee><url>https://dblp.org/rec/conf/mobicom/ChenLS19</url></info>
+<url>URL#1926381</url>
+</hit>
+<hit score="1" id="1926382">
+<info><authors><author pid="246/2222">Chun-Yu (Daniel) Chen</author><author pid="26/3991">Bo-Yao Lin</author><author pid="246/2152">Junding Wang</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>Keep Others from Peeking at Your Mobile Device Screen!</title><venue>MobiCom</venue><pages>22:1-22:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChenLWS19</key><doi>10.1145/3300061.3300119</doi><ee>https://doi.org/10.1145/3300061.3300119</ee><url>https://dblp.org/rec/conf/mobicom/ChenLWS19</url></info>
+<url>URL#1926382</url>
+</hit>
+<hit score="1" id="1926383">
+<info><authors><author pid="246/2222">Chun-Yu (Daniel) Chen</author><author pid="26/3991">Bo-Yao Lin</author><author pid="246/2152">Junding Wang</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>Keep Others from Peeking at Your Mobile Device Screen!</title><venue>MobiCom</venue><pages>81:1-81:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChenLWS19a</key><doi>10.1145/3300061.3343384</doi><ee>https://doi.org/10.1145/3300061.3343384</ee><url>https://dblp.org/rec/conf/mobicom/ChenLWS19a</url></info>
+<url>URL#1926383</url>
+</hit>
+<hit score="1" id="1926384">
+<info><authors><author pid="79/3609">Lien-Wu Chen</author><author pid="254/5341">Chih-Cheng Tsao</author><author pid="254/5235">Chien-Chung Li</author><author pid="74/10694">Yu-Chun Lo</author><author pid="254/5427">Wen-Hsiang Huang</author><author pid="175/3324">Hao Chen</author></authors><title>Demo: All-You-Can-Bike - A Street View and Virtual Reality Based Cyber-Physical System for Bikers through IoT Technologies.</title><venue>MobiCom</venue><pages>60:1-60:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChenTLLHC19</key><doi>10.1145/3300061.3343367</doi><ee>https://doi.org/10.1145/3300061.3343367</ee><url>https://dblp.org/rec/conf/mobicom/ChenTLLHC19</url></info>
+<url>URL#1926384</url>
+</hit>
+<hit score="1" id="1926385">
+<info><authors><author pid="209/7353">Yonghun Choi</author><author pid="243/0069">Seonghoon Park</author><author pid="46/4787">Hojung Cha</author></authors><title>Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-enabled Mobile Devices.</title><venue>MobiCom</venue><pages>48:1-48:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ChoiPC19</key><doi>10.1145/3300061.3345449</doi><ee>https://doi.org/10.1145/3300061.3345449</ee><url>https://dblp.org/rec/conf/mobicom/ChoiPC19</url></info>
+<url>URL#1926385</url>
+</hit>
+<hit score="1" id="1926387">
+<info><authors><author pid="254/5184">Aidan Curtis</author><author pid="254/5394">Amruta Pai</author><author pid="50/2102">Jian Cao</author><author pid="254/5151">Nidal Moukaddam</author><author pid="45/284">Ashutosh Sabharwal</author></authors><title>HealthSense: Software-defined Mobile-based Clinical Trials.</title><venue>MobiCom</venue><pages>32:1-32:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/CurtisPCMS19</key><doi>10.1145/3300061.3345433</doi><ee>https://doi.org/10.1145/3300061.3345433</ee><url>https://dblp.org/rec/conf/mobicom/CurtisPCMS19</url></info>
+<url>URL#1926387</url>
+</hit>
+<hit score="1" id="1926389">
+<info><authors><author pid="154/8616">Mallesham Dasari</author><author pid="180/7169">Elahe Soltanaghaei</author><author pid="167/9048">Chia-Yi Yeh</author></authors><title>S3&apos;19 - Wireless of the Students, by the Students, and for the Students Workshop.</title><venue>MobiCom</venue><pages>110:1-110:2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/DasariSY19</key><doi>10.1145/3300061.3355632</doi><ee>https://doi.org/10.1145/3300061.3355632</ee><url>https://dblp.org/rec/conf/mobicom/DasariSY19</url></info>
+<url>URL#1926389</url>
+</hit>
+<hit score="1" id="1926391">
+<info><authors><author pid="53/2896">Jian Ding</author><author pid="99/2097">Ranveer Chandra</author></authors><title>Towards Low Cost Soil Sensing Using Wi-Fi.</title><venue>MobiCom</venue><pages>39:1-39:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/DingC19</key><doi>10.1145/3300061.3345440</doi><ee>https://doi.org/10.1145/3300061.3345440</ee><url>https://dblp.org/rec/conf/mobicom/DingC19</url></info>
+<url>URL#1926391</url>
+</hit>
+<hit score="1" id="1926392">
+<info><authors><author pid="53/2896">Jian Ding</author><author pid="99/2097">Ranveer Chandra</author></authors><title>Strobe - Towards Low Cost Soil Sensing Using Wi-Fi.</title><venue>MobiCom</venue><pages>84:1-84:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/DingC19a</key><doi>10.1145/3300061.3343389</doi><ee>https://doi.org/10.1145/3300061.3343389</ee><url>https://dblp.org/rec/conf/mobicom/DingC19a</url></info>
+<url>URL#1926392</url>
+</hit>
+<hit score="1" id="1926393">
+<info><authors><author pid="254/5413">Karyn Doke</author><author pid="254/5555">Nachuan Chengwang</author><author pid="214/5955">Andrew Boggio-Dandry</author><author pid="38/8070">Petko Bogdanov</author><author pid="44/9450">Mariya Zheleva</author></authors><title>DEMO: EApp: Improving Rural Emergency Preparedness and Response.</title><venue>MobiCom</venue><pages>61:1-61:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/DokeCBBZ19</key><doi>10.1145/3300061.3343380</doi><ee>https://doi.org/10.1145/3300061.3343380</ee><url>https://dblp.org/rec/conf/mobicom/DokeCBBZ19</url></info>
+<url>URL#1926393</url>
+</hit>
+<hit score="1" id="1926397">
+<info><authors><author pid="254/5159">Yuanhao Feng</author><author pid="79/1482">Panlong Yang</author><author pid="44/2799">Yanyong Zhang</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="96/4424">Ziyang Chen</author><author pid="11/539">Gang Huang</author></authors><title>Demo: The RFID Can Hear Your Music Play.</title><venue>MobiCom</venue><pages>62:1-62:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/FengYZ0CH19</key><doi>10.1145/3300061.3343379</doi><ee>https://doi.org/10.1145/3300061.3343379</ee><url>https://dblp.org/rec/conf/mobicom/FengYZ0CH19</url></info>
+<url>URL#1926397</url>
+</hit>
+<hit score="1" id="1926398">
+<info><authors><author pid="181/3405">Akshay Gadre</author><author pid="44/8737">Swarun Kumar</author></authors><title>Poster: Wireless Network Functions in the Era of Low-Power IoT.</title><venue>MobiCom</venue><pages>85:1-85:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/GadreK19</key><doi>10.1145/3300061.3343387</doi><ee>https://doi.org/10.1145/3300061.3343387</ee><url>https://dblp.org/rec/conf/mobicom/GadreK19</url></info>
+<url>URL#1926398</url>
+</hit>
+<hit score="1" id="1926399">
+<info><authors><author pid="160/8486">Chuhan Gao</author><author pid="185/3990">Mehrdad Hessar</author><author pid="c/KrishnaChintalapudi">Krishna Chintalapudi</author><author pid="74/4695">Bodhi Priyantha</author></authors><title>Blind Distributed MU-MIMO for IoT Networking over VHF Narrowband Spectrum.</title><venue>MobiCom</venue><pages>26:1-26:17</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/GaoHCP19</key><doi>10.1145/3300061.3345427</doi><ee>https://doi.org/10.1145/3300061.3345427</ee><url>https://dblp.org/rec/conf/mobicom/GaoHCP19</url></info>
+<url>URL#1926399</url>
+</hit>
+<hit score="1" id="1926400">
+<info><authors><author pid="85/5048">Fei Ge</author><author pid="19/642">Liansheng Tan</author><author pid="94/1991">Xun Gao</author><author pid="53/1330">Juan Luo</author><author pid="10/4661-168">Wei Zhang 0168</author><author pid="20/2039">Ming Liu</author></authors><title>Poster: Enhancing Capacity in Multi-hop Wireless Networks by Joint Node Units.</title><venue>MobiCom</venue><pages>86:1-86:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/GeTGLZL19</key><doi>10.1145/3300061.3343390</doi><ee>https://doi.org/10.1145/3300061.3343390</ee><url>https://dblp.org/rec/conf/mobicom/GeTGLZL19</url></info>
+<url>URL#1926400</url>
+</hit>
+<hit score="1" id="1926402">
+<info><authors><author pid="150/5917">Branden Ghena</author><author pid="158/8217">Joshua Adkins</author><author pid="91/10470">Longfei Shangguan</author><author pid="j/KyleJamieson">Kyle Jamieson</author><author pid="91/2665">Philip Alexander Levis</author><author pid="40/5390">Prabal Dutta</author></authors><title>Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity.</title><venue>MobiCom</venue><pages>43:1-43:12</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/GhenaASJLD19</key><doi>10.1145/3300061.3345444</doi><ee>https://doi.org/10.1145/3300061.3345444</ee><url>https://dblp.org/rec/conf/mobicom/GhenaASJLD19</url></info>
+<url>URL#1926402</url>
+</hit>
+<hit score="1" id="1926407">
+<info><authors><author pid="38/769">Carlos Guestrin</author></authors><title>4 Systems Perspectives into Human-Centered Machine Learning.</title><venue>MobiCom</venue><pages>57:1-57:2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Guestrin19</key><doi>10.1145/3300061.3356017</doi><ee>https://doi.org/10.1145/3300061.3356017</ee><url>https://dblp.org/rec/conf/mobicom/Guestrin19</url></info>
+<url>URL#1926407</url>
+</hit>
+<hit score="1" id="1926408">
+<info><authors><author pid="231/4005">Yitao He</author><author pid="231/3971">Junyu Bian</author><author pid="239/4714">Xinyu Tong</author><author pid="254/5515">Zihui Qian</author><author pid="83/4805">Wei Zhu</author><author pid="89/1428">Xiaohua Tian</author><author pid="96/1149">Xinbing Wang</author></authors><title>Canceling Inaudible Voice Commands Against Voice Control Systems.</title><venue>MobiCom</venue><pages>28:1-28:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/HeBTQZTW19</key><doi>10.1145/3300061.3345429</doi><ee>https://doi.org/10.1145/3300061.3345429</ee><url>https://dblp.org/rec/conf/mobicom/HeBTQZTW19</url></info>
+<url>URL#1926408</url>
+</hit>
+<hit score="1" id="1926409">
+<info><authors><author pid="42/963-2">Liang He 0002</author><author pid="23/7909">Linghe Kong</author><author pid="85/5485">Ziyang Liu</author><author pid="64/10521">Yuanchao Shu</author><author pid="95/6404-5">Cong Liu 0005</author></authors><title>Diagnosing Vehicles with Automotive Batteries.</title><venue>MobiCom</venue><pages>15:1-15:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/HeKLSL19</key><doi>10.1145/3300061.3300126</doi><ee>https://doi.org/10.1145/3300061.3300126</ee><url>https://dblp.org/rec/conf/mobicom/HeKLSL19</url></info>
+<url>URL#1926409</url>
+</hit>
+<hit score="1" id="1926410">
+<info><authors><author pid="185/3990">Mehrdad Hessar</author><author pid="84/8689">Ali Najafi</author><author pid="179/4839">Vikram Iyer</author><author pid="63/3113">Shyamnath Gollakota</author></authors><title>Demo: TinySDR, A Software-Defined Radio Platform for Internet of Things.</title><venue>MobiCom</venue><pages>63:1-63:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/HessarNIG19</key><doi>10.1145/3300061.3343373</doi><ee>https://doi.org/10.1145/3300061.3343373</ee><url>https://dblp.org/rec/conf/mobicom/HessarNIG19</url></info>
+<url>URL#1926410</url>
+</hit>
+<hit score="1" id="1926412">
+<info><authors><author pid="167/5933">Jiahui Hou</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="222/5477">Peide Zhu</author><author pid="246/2190">Zefan Wang</author><author pid="w/YuWang3">Yu Wang 0003</author><author pid="176/5924">Jianwei Qian</author><author pid="79/1482">Panlong Yang</author></authors><title>SignSpeaker: A Real-time, High-Precision SmartWatch-based Sign Language Translator.</title><venue>MobiCom</venue><pages>24:1-24:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Hou0ZW0QY19</key><doi>10.1145/3300061.3300117</doi><ee>https://doi.org/10.1145/3300061.3300117</ee><url>https://dblp.org/rec/conf/mobicom/Hou0ZW0QY19</url></info>
+<url>URL#1926412</url>
+</hit>
+<hit score="1" id="1926415">
+<info><authors><author pid="179/4839">Vikram Iyer</author><author pid="118/3387">Rajalakshmi Nandakumar</author><author pid="193/8001">Anran Wang</author><author pid="85/8136">Sawyer B. Fuller</author><author pid="63/3113">Shyamnath Gollakota</author></authors><title>Living IoT: A Flying Wireless Platform on Live Insects.</title><venue>MobiCom</venue><pages>5:1-5:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/IyerNWFG19</key><doi>10.1145/3300061.3300136</doi><ee>https://doi.org/10.1145/3300061.3300136</ee><url>https://dblp.org/rec/conf/mobicom/IyerNWFG19</url></info>
+<url>URL#1926415</url>
+</hit>
+<hit score="1" id="1926416">
+<info><authors><author pid="43/9768">Yubing Jian</author><author pid="38/4522-1">Mohit Agarwal 0001</author><author pid="69/10440-1">Yuchen Liu 0001</author><author pid="b/DMBlough">Douglas M. Blough</author><author pid="36/5013">Raghupathy Sivakumar</author></authors><title>Poster: Hawkeye - Predictive Positioning of a Ceiling-Mounted Mobile AP in mmWave WLANs for Maximizing Line-of-sight.</title><venue>MobiCom</venue><pages>87:1-87:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/JianALBS19</key><doi>10.1145/3300061.3343395</doi><ee>https://doi.org/10.1145/3300061.3343395</ee><url>https://dblp.org/rec/conf/mobicom/JianALBS19</url></info>
+<url>URL#1926416</url>
+</hit>
+<hit score="1" id="1926418">
+<info><authors><author pid="128/9277">Haojian Jin</author><author pid="153/8510">Jingxian Wang</author><author pid="44/8737">Swarun Kumar</author><author pid="h/JasonIHong">Jason I. Hong</author></authors><title>Software-Defined Cooking using a Microwave Oven.</title><venue>MobiCom</venue><pages>40:1-40:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/JinWKH19</key><doi>10.1145/3300061.3345441</doi><ee>https://doi.org/10.1145/3300061.3345441</ee><url>https://dblp.org/rec/conf/mobicom/JinWKH19</url></info>
+<url>URL#1926418</url>
+</hit>
+<hit score="1" id="1926419">
+<info><authors><author pid="128/9277">Haojian Jin</author><author pid="153/8510">Jingxian Wang</author><author pid="44/8737">Swarun Kumar</author><author pid="h/JasonIHong">Jason I. Hong</author></authors><title>Software-Defined Cooking (SDC) using a Microwave Oven.</title><venue>MobiCom</venue><pages>64:1-64:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/JinWKH19a</key><doi>10.1145/3300061.3343368</doi><ee>https://doi.org/10.1145/3300061.3343368</ee><url>https://dblp.org/rec/conf/mobicom/JinWKH19a</url></info>
+<url>URL#1926419</url>
+</hit>
+<hit score="1" id="1926420">
+<info><authors><author pid="158/8006">Byungjin Jun</author><author pid="b/FabianEBustamante">Fabián E. Bustamante</author><author pid="246/2296">Sung Yoon Whang</author><author pid="14/5053">Zachary S. Bischof</author></authors><title>AMP up your Mobile Web Experience: Characterizing the Impact of Google&apos;s Accelerated Mobile Project.</title><venue>MobiCom</venue><pages>4:1-4:14</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/JunBWB19</key><doi>10.1145/3300061.3300137</doi><ee>https://doi.org/10.1145/3300061.3300137</ee><url>https://dblp.org/rec/conf/mobicom/JunBWB19</url></info>
+<url>URL#1926420</url>
+</hit>
+<hit score="1" id="1926421">
+<info><authors><author pid="172/2902">Soowon Kang</author><author pid="246/2077">Hyeonwoo Choi</author><author pid="121/7522">Sooyoung Park</author><author pid="164/7984">Chunjong Park</author><author pid="37/1760">Jemin Lee</author><author pid="32/1994">Uichin Lee</author><author pid="28/1552">Sung-Ju Lee</author></authors><title>Fire in Your Hands: Understanding Thermal Behavior of Smartphones.</title><venue>MobiCom</venue><pages>13:1-13:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/KangCPPLLL19</key><doi>10.1145/3300061.3300128</doi><ee>https://doi.org/10.1145/3300061.3300128</ee><url>https://dblp.org/rec/conf/mobicom/KangCPPLLL19</url></info>
+<url>URL#1926421</url>
+</hit>
+<hit score="1" id="1926422">
+<info><authors><author pid="217/3796">Arata Kato</author><author pid="24/181">Mineo Takai</author><author pid="06/2673">Susumu Ishihara</author></authors><title>Demo: Wireless LAN Emulator Using Wireless Network Tap Device for Testing a Vehicular Network System.</title><venue>MobiCom</venue><pages>65:1-65:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/KatoTI19</key><doi>10.1145/3300061.3343376</doi><ee>https://doi.org/10.1145/3300061.3343376</ee><url>https://dblp.org/rec/conf/mobicom/KatoTI19</url></info>
+<url>URL#1926422</url>
+</hit>
+<hit score="1" id="1926427">
+<info><authors><author pid="188/2951">Da-Hye Kim</author><author pid="222/8388">Muhammad Rusyadi Ramli</author><author pid="68/5422">Jae-Min Lee</author><author pid="k/DongSeongKim2">Dong-Seong Kim 0002</author></authors><title>Poster: SeamFarm - Distributed Data Analytic for Precision Agriculture based on Seamless Computing.</title><venue>MobiCom</venue><pages>88:1-88:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/KimRLK19</key><doi>10.1145/3300061.3343400</doi><ee>https://doi.org/10.1145/3300061.3343400</ee><url>https://dblp.org/rec/conf/mobicom/KimRLK19</url></info>
+<url>URL#1926427</url>
+</hit>
+<hit score="1" id="1926428">
+<info><authors><author pid="217/4988">Belal Korany</author><author pid="198/5382">Chitra R. Karanam</author><author pid="22/4111">Hong Cai</author><author pid="73/3144">Yasamin Mostofi</author></authors><title>XModal-ID: Using WiFi for Through-Wall Person Identification from Candidate Video Footage.</title><venue>MobiCom</venue><pages>36:1-36:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/KoranyKCM19</key><doi>10.1145/3300061.3345437</doi><ee>https://doi.org/10.1145/3300061.3345437</ee><url>https://dblp.org/rec/conf/mobicom/KoranyKCM19</url></info>
+<url>URL#1926428</url>
+</hit>
+<hit score="1" id="1926430">
+<info><authors><author pid="175/2372">Shruti Lall</author><author pid="129/1940">Uma Parthavi Moravapalle</author><author pid="36/5013">Raghupathy Sivakumar</author></authors><title>Poster: While You Were Sleeping - Time-Shifted Prefetching of YouTube Videos to Reduce Peak-time Cellular Data Usage.</title><venue>MobiCom</venue><pages>89:1-89:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LallMS19</key><doi>10.1145/3300061.3343393</doi><ee>https://doi.org/10.1145/3300061.3343393</ee><url>https://dblp.org/rec/conf/mobicom/LallMS19</url></info>
+<url>URL#1926430</url>
+</hit>
+<hit score="1" id="1926432">
+<info><authors><author pid="222/5910">Taegyeong Lee</author><author pid="142/5264">Zhiqi Lin</author><author pid="17/8037">Saumay Pushp</author><author pid="77/8119">Caihua Li</author><author pid="55/3521">Yunxin Liu</author><author pid="51/343">Youngki Lee</author><author pid="54/6929">Fengyuan Xu</author><author pid="94/8865">Chenren Xu</author><author pid="94/5689">Lintao Zhang</author><author pid="09/2409">Junehwa Song</author></authors><title>Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX.</title><venue>MobiCom</venue><pages>46:1-46:17</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LeeLPLLLXXZS19</key><doi>10.1145/3300061.3345447</doi><ee>https://doi.org/10.1145/3300061.3345447</ee><url>https://dblp.org/rec/conf/mobicom/LeeLPLLLXXZS19</url></info>
+<url>URL#1926432</url>
+</hit>
+<hit score="1" id="1926433">
+<info><authors><author pid="247/5940">Royson Lee</author><author pid="169/2322">Stylianos I. Venieris</author><author pid="228/7987">Lukasz Dudziak</author><author pid="69/3637">Sourav Bhattacharya</author><author pid="03/2663">Nicholas D. Lane</author></authors><title>MobiSR: Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors.</title><venue>MobiCom</venue><pages>54:1-54:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LeeVDBL19</key><doi>10.1145/3300061.3345455</doi><ee>https://doi.org/10.1145/3300061.3345455</ee><url>https://dblp.org/rec/conf/mobicom/LeeVDBL19</url></info>
+<url>URL#1926433</url>
+</hit>
+<hit score="1" id="1926434">
+<info><authors><author pid="247/5940">Royson Lee</author><author pid="169/2322">Stylianos I. Venieris</author><author pid="228/7987">Lukasz Dudziak</author><author pid="69/3637">Sourav Bhattacharya</author><author pid="03/2663">Nicholas D. Lane</author></authors><title>Poster: MobiSR - Efficient On-Device Super-Resolution through Heterogeneous Mobile Processors.</title><venue>MobiCom</venue><pages>90:1-90:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LeeVDBL19a</key><doi>10.1145/3300061.3343410</doi><ee>https://doi.org/10.1145/3300061.3343410</ee><url>https://dblp.org/rec/conf/mobicom/LeeVDBL19a</url></info>
+<url>URL#1926434</url>
+</hit>
+<hit score="1" id="1926436">
+<info><authors><author pid="45/1827-1">Xiaopeng Li 0001</author><author pid="254/5150">Fengyao Yan</author><author pid="08/2047">Fei Zuo</author><author pid="81/583-1">Qiang Zeng 0001</author><author pid="153/5297">Lannan Luo</author></authors><title>Touch Well Before Use: Intuitive and Secure Authentication for IoT Devices.</title><venue>MobiCom</venue><pages>33:1-33:17</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LiYZ0L19</key><doi>10.1145/3300061.3345434</doi><ee>https://doi.org/10.1145/3300061.3345434</ee><url>https://dblp.org/rec/conf/mobicom/LiYZ0L19</url></info>
+<url>URL#1926436</url>
+</hit>
+<hit score="1" id="1926437">
+<info><authors><author pid="148/1927">Qiongzheng Lin</author><author pid="203/8833">Zhenlin An</author><author pid="50/2484-25">Lei Yang 0025</author></authors><title>Rebooting Ultrasonic Positioning Systems for Ultrasound-incapable Smart Devices.</title><venue>MobiCom</venue><pages>2:1-2:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LinAY19</key><doi>10.1145/3300061.3300139</doi><ee>https://doi.org/10.1145/3300061.3300139</ee><url>https://dblp.org/rec/conf/mobicom/LinAY19</url></info>
+<url>URL#1926437</url>
+</hit>
+<hit score="1" id="1926438">
+<info><authors><author pid="13/5407-8">Xuan Liu 0008</author><author pid="05/2700-1">Bo Cheng 0001</author><author pid="93/6765-18">Meng Wang 0018</author><author pid="63/6051">Junliang Chen</author></authors><title>Poster: Edge-cloud Enhancement - Latency-aware Virtual Cluster Placement for Supporting Cloud Applications in Mobile Edge Networks.</title><venue>MobiCom</venue><pages>91:1-91:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Liu0WC19</key><doi>10.1145/3300061.3343388</doi><ee>https://doi.org/10.1145/3300061.3343388</ee><url>https://dblp.org/rec/conf/mobicom/Liu0WC19</url></info>
+<url>URL#1926438</url>
+</hit>
+<hit score="1" id="1926440">
+<info><authors><author pid="69/8167">Luyang Liu</author><author pid="72/2639">Hongyu Li</author><author pid="87/88">Marco Gruteser</author></authors><title>Edge Assisted Real-time Object Detection for Mobile Augmented Reality.</title><venue>MobiCom</venue><pages>25:1-25:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LiuLG19</key><doi>10.1145/3300061.3300116</doi><ee>https://doi.org/10.1145/3300061.3300116</ee><url>https://dblp.org/rec/conf/mobicom/LiuLG19</url></info>
+<url>URL#1926440</url>
+</hit>
+<hit score="1" id="1926441">
+<info><authors><author pid="78/6365-2">Hongbo Liu 0002</author><author pid="02/1556">Zhihua Li</author><author pid="254/5174">Yucheng Xie</author><author pid="254/5315">Ruizhe Jiang</author><author pid="59/2227-3">Yan Wang 0003</author><author pid="55/9656">Xiaonan Guo</author><author pid="18/2343-1">Yingying Chen 0001</author></authors><title>Poster: Video Chat Scam Detection Leveraging Screen Light Reflection.</title><venue>MobiCom</venue><pages>92:1-92:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LiuLXJWGC19</key><doi>10.1145/3300061.3343403</doi><ee>https://doi.org/10.1145/3300061.3343403</ee><url>https://dblp.org/rec/conf/mobicom/LiuLXJWGC19</url></info>
+<url>URL#1926441</url>
+</hit>
+<hit score="1" id="1926443">
+<info><authors><author pid="35/9612">Philip Lundrigan</author><author pid="45/3974">Neal Patwari</author><author pid="95/161">Sneha Kumar Kasera</author></authors><title>On-Off Noise Power Communication.</title><venue>MobiCom</venue><pages>35:1-35:14</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/LundriganPK19</key><doi>10.1145/3300061.3345436</doi><ee>https://doi.org/10.1145/3300061.3345436</ee><url>https://dblp.org/rec/conf/mobicom/LundriganPK19</url></info>
+<url>URL#1926443</url>
+</hit>
+<hit score="1" id="1926444">
+<info><authors><author pid="68/7912-1">Dong Ma 0001</author><author pid="178/9755">Guohao Lan</author><author pid="10/2899">Mahbub Hassan</author><author pid="01/6410">Wen Hu</author><author pid="227/8127">Mushfika Baishakhi Upama</author><author pid="97/907-2">Ashraf Uddin 0002</author><author pid="52/727">Moustafa Youssef 0001</author></authors><title>SolarGest: Ubiquitous and Battery-free Gesture Recognition using Solar Cells.</title><venue>MobiCom</venue><pages>12:1-12:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/MaLHHU0Y19</key><doi>10.1145/3300061.3300129</doi><ee>https://doi.org/10.1145/3300061.3300129</ee><url>https://dblp.org/rec/conf/mobicom/MaLHHU0Y19</url></info>
+<url>URL#1926444</url>
+</hit>
+<hit score="1" id="1926446">
+<info><authors><author pid="117/3760">Wenguang Mao</author><author pid="65/3367">Mei Wang</author><author pid="09/5042">Wei Sun</author><author pid="54/4031">Lili Qiu</author><author pid="141/2021">Swadhin Pradhan</author><author pid="91/699-1">Yi-Chao Chen 0001</author></authors><title>RNN-Based Room Scale Hand Motion Tracking.</title><venue>MobiCom</venue><pages>38:1-38:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/MaoWSQPC19</key><doi>10.1145/3300061.3345439</doi><ee>https://doi.org/10.1145/3300061.3345439</ee><url>https://dblp.org/rec/conf/mobicom/MaoWSQPC19</url></info>
+<url>URL#1926446</url>
+</hit>
+<hit score="1" id="1926447">
+<info><authors><author pid="37/5216">Maja J. Mataric</author></authors><title>Human-Machine and Human-Robot Interaction for Long-Term User Engagement and Behavior Change.</title><venue>MobiCom</venue><pages>56:1-56:2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Mataric19</key><doi>10.1145/3300061.3300141</doi><ee>https://doi.org/10.1145/3300061.3300141</ee><url>https://dblp.org/rec/conf/mobicom/Mataric19</url></info>
+<url>URL#1926447</url>
+</hit>
+<hit score="1" id="1926451">
+<info><authors><author pid="42/11518">Ashkan Nikravesh</author><author pid="132/8476">Yihua Guo</author><author pid="19/8561-1">Xiao Zhu 0001</author><author pid="54/476-1">Feng Qian 0001</author><author pid="91/584">Z. Morley Mao</author></authors><title>MP-H2: A Client-only Multipath Solution for HTTP/2.</title><venue>MobiCom</venue><pages>10:1-10:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/NikraveshGZ0M19</key><doi>10.1145/3300061.3300131</doi><ee>https://doi.org/10.1145/3300061.3300131</ee><url>https://dblp.org/rec/conf/mobicom/NikraveshGZ0M19</url></info>
+<url>URL#1926451</url>
+</hit>
+<hit score="1" id="1926452">
+<info><authors><author pid="140/7997">Sangeun Oh</author><author pid="242/8508">Ahyeon Kim</author><author pid="48/6642">Sunjae Lee</author><author pid="32/10300">Kilho Lee</author><author pid="201/5448">Dae R. Jeong</author><author pid="22/4235">Steven Y. Ko</author><author pid="45/4154">Insik Shin</author></authors><title>FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device Interaction.</title><venue>MobiCom</venue><pages>42:1-42:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/OhKLLJKS19</key><doi>10.1145/3300061.3345443</doi><ee>https://doi.org/10.1145/3300061.3345443</ee><url>https://dblp.org/rec/conf/mobicom/OhKLLJKS19</url></info>
+<url>URL#1926452</url>
+</hit>
+<hit score="1" id="1926453">
+<info><authors><author pid="140/7997">Sangeun Oh</author><author pid="242/8508">Ahyeon Kim</author><author pid="48/6642">Sunjae Lee</author><author pid="32/10300">Kilho Lee</author><author pid="201/5448">Dae R. Jeong</author><author pid="22/4235">Steven Y. Ko</author><author pid="45/4154">Insik Shin</author></authors><title>FLUID: Multi-device Mobile Platform for Flexible User Interface Distribution.</title><venue>MobiCom</venue><pages>66:1-66:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/OhKLLJKS19a</key><doi>10.1145/3300061.3343366</doi><ee>https://doi.org/10.1145/3300061.3343366</ee><url>https://dblp.org/rec/conf/mobicom/OhKLLJKS19a</url></info>
+<url>URL#1926453</url>
+</hit>
+<hit score="1" id="1926455">
+<info><authors><author pid="02/3812">Hao Pan</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="235/0627">Lanqing Yang</author><author pid="79/1810">Guangtao Xue</author><author pid="04/7985">Chuang-Wen You</author><author pid="39/1697-1">Xiaoyu Ji 0001</author></authors><title>mQRCode: Secure QR Code Using Nonlinearity of Spatial Frequency in Light.</title><venue>MobiCom</venue><pages>27:1-27:18</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/PanCYXYJ19</key><doi>10.1145/3300061.3345428</doi><ee>https://doi.org/10.1145/3300061.3345428</ee><url>https://dblp.org/rec/conf/mobicom/PanCYXYJ19</url></info>
+<url>URL#1926455</url>
+</hit>
+<hit score="1" id="1926456">
+<info><authors><author pid="02/3812">Hao Pan</author><author pid="235/0627">Lanqing Yang</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="79/1810">Guangtao Xue</author><author pid="04/7985">Chuang-Wen You</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="42/9340">Pai-Yen Chen</author></authors><title>Poster: Secure Visible Light Communication based on Nonlinearity of Spatial Frequency in Light.</title><venue>MobiCom</venue><pages>93:1-93:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/PanYCXYJC19</key><doi>10.1145/3300061.3343391</doi><ee>https://doi.org/10.1145/3300061.3343391</ee><url>https://dblp.org/rec/conf/mobicom/PanYCXYJC19</url></info>
+<url>URL#1926456</url>
+</hit>
+<hit score="1" id="1926457">
+<info><authors><author pid="01/7553">Yiannis Pefkianakis</author><author pid="16/656">Kate Ching-Ju Lin</author></authors><title>WiNTECH&apos;19: Workshop on Wireless Network Testbeds, Experimental evaluation &amp; CHaracterization.</title><venue>MobiCom</venue><pages>112:1-112:2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/PefkianakisL19</key><doi>10.1145/3300061.3355636</doi><ee>https://doi.org/10.1145/3300061.3355636</ee><url>https://dblp.org/rec/conf/mobicom/PefkianakisL19</url></info>
+<url>URL#1926457</url>
+</hit>
+<hit score="1" id="1926458">
+<info><authors><author pid="183/1433">Timothy J. Pierson</author><author pid="153/0607">Travis Peters</author><author pid="00/13">Ronald A. Peterson</author><author pid="k/DavidKotz">David Kotz</author></authors><title>Proximity Detection with Single-Antenna IoT Devices.</title><venue>MobiCom</venue><pages>21:1-21:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/PiersonPPK19</key><doi>10.1145/3300061.3300120</doi><ee>https://doi.org/10.1145/3300061.3300120</ee><url>https://dblp.org/rec/conf/mobicom/PiersonPPK19</url></info>
+<url>URL#1926458</url>
+</hit>
+<hit score="1" id="1926460">
+<info><authors><author pid="31/9459">Catia Prandi</author><author pid="83/4258">Silvia Mirri</author><author pid="87/6423">Giovanni Pau 0001</author></authors><title>SMAS&apos;19: 1st ACM Workshop on Emerging Smart Technologies and Infrastructures for Smart Mobility and Sustainability.</title><venue>MobiCom</venue><pages>111:1-111:2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/PrandiM019</key><doi>10.1145/3300061.3355633</doi><ee>https://doi.org/10.1145/3300061.3355633</ee><url>https://dblp.org/rec/conf/mobicom/PrandiM019</url></info>
+<url>URL#1926460</url>
+</hit>
+<hit score="1" id="1926461">
+<info><authors><author pid="12/7085">Muhammad Taqi Raza</author><author pid="55/758">Songwu Lu</author></authors><title>A Systematic Way to LTE Testing.</title><venue>MobiCom</venue><pages>7:1-7:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/RazaL19</key><doi>10.1145/3300061.3300134</doi><ee>https://doi.org/10.1145/3300061.3300134</ee><url>https://dblp.org/rec/conf/mobicom/RazaL19</url></info>
+<url>URL#1926461</url>
+</hit>
+<hit score="1" id="1926463">
+<info><authors><author pid="155/9779">João G. P. Rodrigues</author><author pid="20/682">Ana Aguiar</author></authors><title>Extracting 3D Maps from Crowdsourced GNSS Skyview Data.</title><venue>MobiCom</venue><pages>55:1-55:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/RodriguesA19</key><doi>10.1145/3300061.3345456</doi><ee>https://doi.org/10.1145/3300061.3345456</ee><url>https://dblp.org/rec/conf/mobicom/RodriguesA19</url></info>
+<url>URL#1926463</url>
+</hit>
+<hit score="1" id="1926464">
+<info><authors><author pid="155/9779">João G. P. Rodrigues</author><author pid="20/682">Ana Aguiar</author></authors><title>Demo: Extracting 3D Maps from Crowdsourced GNSS Skyview Data.</title><venue>MobiCom</venue><pages>67:1-67:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/RodriguesA19a</key><doi>10.1145/3300061.3343381</doi><ee>https://doi.org/10.1145/3300061.3343381</ee><url>https://dblp.org/rec/conf/mobicom/RodriguesA19a</url></info>
+<url>URL#1926464</url>
+</hit>
+<hit score="1" id="1926465">
+<info><authors><author pid="166/5846">Swetank Kumar Saha</author><author pid="222/5396">Shivang Aggarwal</author><author pid="254/5532">Rohan Pathak</author><author pid="92/442">Dimitrios Koutsonikolas</author><author pid="07/3803">Joerg Widmer</author></authors><title>MuSher: An Agile Multipath-TCP Scheduler for Dual-Band 802.11ad/ac Wireless LANs.</title><venue>MobiCom</venue><pages>34:1-34:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/SahaAPKW19</key><doi>10.1145/3300061.3345435</doi><ee>https://doi.org/10.1145/3300061.3345435</ee><url>https://dblp.org/rec/conf/mobicom/SahaAPKW19</url></info>
+<url>URL#1926465</url>
+</hit>
+<hit score="1" id="1926466">
+<info><authors><author pid="167/9231">Amit Samanta 0001</author><author pid="41/9922">Xinlei Chen</author><author pid="93/2334-8">Yong Li 0008</author></authors><title>Poster: FlexDP-Flexible Data Plane for ENFV.</title><venue>MobiCom</venue><pages>94:1-94:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/SamantaCL19</key><doi>10.1145/3300061.3343382</doi><ee>https://doi.org/10.1145/3300061.3343382</ee><url>https://dblp.org/rec/conf/mobicom/SamantaCL19</url></info>
+<url>URL#1926466</url>
+</hit>
+<hit score="1" id="1926470">
+<info><authors><author pid="49/10586">Spencer Sevilla</author><author pid="178/2825-11">Matthew Johnson 0011</author><author pid="254/5294">Pat Kosakanchit</author><author pid="315/0300">Jenny T. Liang</author><author pid="02/1303">Kurtis Heimerl</author></authors><title>Experiences: Design, Implementation, and Deployment of CoLTE, a Community LTE Solution.</title><venue>MobiCom</venue><pages>45:1-45:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Sevilla0KLH19</key><doi>10.1145/3300061.3345446</doi><ee>https://doi.org/10.1145/3300061.3345446</ee><url>https://dblp.org/rec/conf/mobicom/Sevilla0KLH19</url></info>
+<url>URL#1926470</url>
+</hit>
+<hit score="1" id="1926471">
+<info><authors><author pid="49/10586">Spencer Sevilla</author><author pid="178/2825-11">Matthew Johnson 0011</author><author pid="254/5294">Pat Kosakanchit</author><author pid="315/0300">Jenny T. Liang</author><author pid="02/1303">Kurtis Heimerl</author></authors><title>Demo: An All-in-One Community LTE Network.</title><venue>MobiCom</venue><pages>68:1-68:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/SevillaJKLH19</key><doi>10.1145/3300061.3343371</doi><ee>https://doi.org/10.1145/3300061.3343371</ee><url>https://dblp.org/rec/conf/mobicom/SevillaJKLH19</url></info>
+<url>URL#1926471</url>
+</hit>
+<hit score="1" id="1926472">
+<info><authors><author pid="02/4241">Zhiyong Shan</author><author pid="222/5870">Raina Samuel</author><author pid="46/2869">Iulian Neamtiu</author></authors><title>Device Administrator Use and Abuse in Android: Detection and Characterization.</title><venue>MobiCom</venue><pages>51:1-51:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ShanSN19</key><doi>10.1145/3300061.3345452</doi><ee>https://doi.org/10.1145/3300061.3345452</ee><url>https://dblp.org/rec/conf/mobicom/ShanSN19</url></info>
+<url>URL#1926472</url>
+</hit>
+<hit score="1" id="1926473">
+<info><authors><author pid="254/5683">Jayanth Shenoy</author><author pid="254/5557">Aditya Tyagi</author><author pid="254/5250">Meha Halabe</author><author pid="j/ChristineJulien">Christine Julien 0001</author></authors><title>Demo: A Practical Application of Visible Light Communication: Opportunistic Sharing of Encryption Keys.</title><venue>MobiCom</venue><pages>69:1-69:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ShenoyTHJ19</key><doi>10.1145/3300061.3343377</doi><ee>https://doi.org/10.1145/3300061.3343377</ee><url>https://dblp.org/rec/conf/mobicom/ShenoyTHJ19</url></info>
+<url>URL#1926473</url>
+</hit>
+<hit score="1" id="1926475">
+<info><authors><author pid="178/8081">Sarah Ali Siddiqui</author><author pid="141/6156">Adnan Mahmood</author><author pid="147/9092">Wei Emma Zhang</author><author pid="s/QuanZSheng">Quan Z. Sheng</author></authors><title>Poster: A Machine Learning based Hybrid Trust Management Heuristic for Vehicular Ad hoc Networks.</title><venue>MobiCom</venue><pages>95:1-95:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/SiddiquiMZS19</key><doi>10.1145/3300061.3343404</doi><ee>https://doi.org/10.1145/3300061.3343404</ee><url>https://dblp.org/rec/conf/mobicom/SiddiquiMZS19</url></info>
+<url>URL#1926475</url>
+</hit>
+<hit score="1" id="1926476">
+<info><authors><author pid="33/851">Ljiljana Simic</author><author pid="62/8333">Parth H. Pathak</author></authors><title>mmNets&apos;19: The 3rd ACM Workshop on Millimeter-Wave Networks and Sensing Systems.</title><venue>MobiCom</venue><pages>109:1-109:2</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/SimicP19</key><doi>10.1145/3300061.3355635</doi><ee>https://doi.org/10.1145/3300061.3355635</ee><url>https://dblp.org/rec/conf/mobicom/SimicP19</url></info>
+<url>URL#1926476</url>
+</hit>
+<hit score="1" id="1926478">
+<info><authors><author pid="07/201">Nishant Sinha</author><author pid="48/1535">Ashwin Ashok</author></authors><title>Poster: In-situ Water-Quality Monitoring System through Ultraviolet Sensing Using Off-the-Shelf Cameras.</title><venue>MobiCom</venue><pages>96:1-96:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/SinhaA19</key><doi>10.1145/3300061.3343397</doi><ee>https://doi.org/10.1145/3300061.3343397</ee><url>https://dblp.org/rec/conf/mobicom/SinhaA19</url></info>
+<url>URL#1926478</url>
+</hit>
+<hit score="1" id="1926481">
+<info><authors><author pid="180/7169">Elahe Soltanaghaei</author><author pid="206/3180">Mahmoud Elnaggar</author><author pid="254/5303">Katie Kleeman</author><author pid="00/1215">Kamin Whitehouse</author><author pid="122/4774">Cody H. Fleming</author></authors><title>Characterizing Uncertainties of Wireless Channels in Connected Vehicles.</title><venue>MobiCom</venue><pages>97:1-97:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/SoltanaghaeiEKW19</key><doi>10.1145/3300061.3343409</doi><ee>https://doi.org/10.1145/3300061.3343409</ee><url>https://dblp.org/rec/conf/mobicom/SoltanaghaeiEKW19</url></info>
+<url>URL#1926481</url>
+</hit>
+<hit score="1" id="1926487">
+<info><authors><author pid="96/7040">Lan-Da Van</author><author pid="88/1509">Chun-Hao Chang</author><author pid="254/5334">Kit-Lun Tong</author><author pid="41/8359">Kun-Ru Wu</author><author pid="254/5404">Ling-Yan Zhang</author><author pid="25/5808">Yu-Chee Tseng</author></authors><title>Demo: Tagging IoT Data in a Drone View.</title><venue>MobiCom</venue><pages>70:1-70:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/VanCTWZT19</key><doi>10.1145/3300061.3343378</doi><ee>https://doi.org/10.1145/3300061.3343378</ee><url>https://dblp.org/rec/conf/mobicom/VanCTWZT19</url></info>
+<url>URL#1926487</url>
+</hit>
+<hit score="1" id="1926489">
+<info><authors><author pid="132/8415">Ambuj Varshney</author><author pid="207/1791">Andreas Soleiman</author><author pid="46/5016">Thiemo Voigt</author></authors><title>TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes.</title><venue>MobiCom</venue><pages>50:1-50:17</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/VarshneySV19</key><doi>10.1145/3300061.3345451</doi><ee>https://doi.org/10.1145/3300061.3345451</ee><url>https://dblp.org/rec/conf/mobicom/VarshneySV19</url></info>
+<url>URL#1926489</url>
+</hit>
+<hit score="1" id="1926492">
+<info><authors><author pid="93/6765-18">Meng Wang 0018</author><author pid="05/2700-1">Bo Cheng 0001</author><author pid="63/6051">Junliang Chen</author></authors><title>Poster: A Linear Programming Approach for SFC Placement in Mobile Edge Computing.</title><venue>MobiCom</venue><pages>99:1-99:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Wang0C19</key><doi>10.1145/3300061.3343394</doi><ee>https://doi.org/10.1145/3300061.3343394</ee><url>https://dblp.org/rec/conf/mobicom/Wang0C19</url></info>
+<url>URL#1926492</url>
+</hit>
+<hit score="1" id="1926493">
+<info><authors><author pid="54/1738">Guang Wang</author><author pid="178/0791">Xiuyuan Chen</author><author pid="21/3626-19">Fan Zhang 0019</author><author pid="w/YangWang15">Yang Wang 0015</author><author pid="15/8612">Desheng Zhang</author></authors><title>Experience: Understanding Long-Term Evolving Patterns of Shared Electric Vehicle Networks.</title><venue>MobiCom</venue><pages>9:1-9:12</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/WangCZWZ19</key><doi>10.1145/3300061.3300132</doi><ee>https://doi.org/10.1145/3300061.3300132</ee><url>https://dblp.org/rec/conf/mobicom/WangCZWZ19</url></info>
+<url>URL#1926493</url>
+</hit>
+<hit score="1" id="1926494">
+<info><authors><author pid="193/8001">Anran Wang</author><author pid="236/4443">Jacob E. Sunshine</author><author pid="63/3113">Shyamnath Gollakota</author></authors><title>Contactless Infant Monitoring using White Noise.</title><venue>MobiCom</venue><pages>52:1-52:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/WangSG19</key><doi>10.1145/3300061.3345453</doi><ee>https://doi.org/10.1145/3300061.3345453</ee><url>https://dblp.org/rec/conf/mobicom/WangSG19</url></info>
+<url>URL#1926494</url>
+</hit>
+<hit score="1" id="1926495">
+<info><authors><author pid="193/8001">Anran Wang</author><author pid="236/4443">Jacob E. Sunshine</author><author pid="63/3113">Shyamnath Gollakota</author></authors><title>Poster: Contactless Infant Monitoring using White Noise.</title><venue>MobiCom</venue><pages>100:1-100:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/WangSG19a</key><doi>10.1145/3300061.3343401</doi><ee>https://doi.org/10.1145/3300061.3343401</ee><url>https://dblp.org/rec/conf/mobicom/WangSG19a</url></info>
+<url>URL#1926495</url>
+</hit>
+<hit score="1" id="1926496">
+<info><authors><author pid="211/0532">Purui Wang</author><author pid="41/5979">Yue Wu</author><author pid="94/8865">Chenren Xu</author></authors><title>Poster: Polarization-based QAM for Visible Light Backscatter Communication.</title><venue>MobiCom</venue><pages>98:1-98:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/WangWX19</key><doi>10.1145/3300061.3343385</doi><ee>https://doi.org/10.1145/3300061.3343385</ee><url>https://dblp.org/rec/conf/mobicom/WangWX19</url></info>
+<url>URL#1926496</url>
+</hit>
+<hit score="1" id="1926497">
+<info><authors><author pid="54/1738">Guang Wang</author><author pid="15/8612">Desheng Zhang</author></authors><title>Poster: Understanding Long-Term Mobility and Charging Evolving of Shared EV Networks.</title><venue>MobiCom</venue><pages>101:1-101:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/WangZ19</key><doi>10.1145/3300061.3343402</doi><ee>https://doi.org/10.1145/3300061.3343402</ee><url>https://dblp.org/rec/conf/mobicom/WangZ19</url></info>
+<url>URL#1926497</url>
+</hit>
+<hit score="1" id="1926498">
+<info><authors><author pid="02/736-77">Jing Wang 0077</author><author pid="47/6006">Yufan Zheng</author><author pid="207/1795">Yunzhe Ni</author><author pid="94/8865">Chenren Xu</author><author pid="54/476-1">Feng Qian 0001</author><author pid="232/2105">Wangyang Li</author><author pid="232/1888">Wantong Jiang</author><author pid="226/4171">Yihua Cheng</author><author pid="58/5381">Zhuo Cheng</author><author pid="75/10258">Yuanjie Li</author><author pid="142/1755">Xiufeng Xie</author><author pid="65/2709">Yi Sun</author><author pid="67/5020">Zhongfeng Wang</author></authors><title>An Active-Passive Measurement Study of TCP Performance over LTE on High-speed Rails.</title><venue>MobiCom</venue><pages>18:1-18:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/WangZNXQLJCCLXS19</key><doi>10.1145/3300061.3300123</doi><ee>https://doi.org/10.1145/3300061.3300123</ee><url>https://dblp.org/rec/conf/mobicom/WangZNXQLJCCLXS19</url></info>
+<url>URL#1926498</url>
+</hit>
+<hit score="1" id="1926502">
+<info><authors><author pid="41/5979">Yue Wu</author><author pid="211/0532">Purui Wang</author><author pid="94/8865">Chenren Xu</author></authors><title>Demo: Improving Visible Light Backscatter Communication with Delayed Superimposition Modulation.</title><venue>MobiCom</venue><pages>71:1-71:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/WuWX19</key><doi>10.1145/3300061.3343364</doi><ee>https://doi.org/10.1145/3300061.3343364</ee><url>https://dblp.org/rec/conf/mobicom/WuWX19</url></info>
+<url>URL#1926502</url>
+</hit>
+<hit score="1" id="1926503">
+<info><authors><author pid="48/3627">Zhenggui Xiang</author></authors><title>Poster: Causal Inference of Smartphone App Choice.</title><venue>MobiCom</venue><pages>102:1-102:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Xiang19</key><doi>10.1145/3300061.3343386</doi><ee>https://doi.org/10.1145/3300061.3343386</ee><url>https://dblp.org/rec/conf/mobicom/Xiang19</url></info>
+<url>URL#1926503</url>
+</hit>
+<hit score="1" id="1926504">
+<info><authors><author pid="69/2068">Ning Xiao</author><author pid="79/1482">Panlong Yang</author><author pid="59/9033">Yubo Yan</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="167/5933">Jiahui Hou</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>DF-Mose: Device-Free Motion Sensing with Wireless Backscattering.</title><venue>MobiCom</venue><pages>72:1-72:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/XiaoYYZHL19</key><doi>10.1145/3300061.3343374</doi><ee>https://doi.org/10.1145/3300061.3343374</ee><url>https://dblp.org/rec/conf/mobicom/XiaoYYZHL19</url></info>
+<url>URL#1926504</url>
+</hit>
+<hit score="1" id="1926505">
+<info><authors><author pid="167/5888">Yaxiong Xie</author><author pid="75/198-1">Jie Xiong 0001</author><author pid="87/4982-1">Mo Li 0001</author><author pid="j/KyleJamieson">Kyle Jamieson</author></authors><title>mD-Track: Leveraging Multi-Dimensionality for Passive Indoor Wi-Fi Tracking.</title><venue>MobiCom</venue><pages>8:1-8:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Xie0LJ19</key><doi>10.1145/3300061.3300133</doi><ee>https://doi.org/10.1145/3300061.3300133</ee><url>https://dblp.org/rec/conf/mobicom/Xie0LJ19</url></info>
+<url>URL#1926505</url>
+</hit>
+<hit score="1" id="1926506">
+<info><authors><author pid="142/1755">Xiufeng Xie</author><author pid="10/5900">Kyu-Han Kim</author></authors><title>Source Compression with Bounded DNN Perception Loss for IoT Edge Computer Vision.</title><venue>MobiCom</venue><pages>47:1-47:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/XieK19</key><doi>10.1145/3300061.3345448</doi><ee>https://doi.org/10.1145/3300061.3345448</ee><url>https://dblp.org/rec/conf/mobicom/XieK19</url></info>
+<url>URL#1926506</url>
+</hit>
+<hit score="1" id="1926508">
+<info><authors><author pid="57/1273-2">Zhenyu Yan 0002</author><author pid="29/4368-1">Qun Song 0001</author><author pid="00/5179">Rui Tan</author><author pid="37/4190-147">Yang Li 0147</author><author pid="16/3792">Adams Wai-Kin Kong</author></authors><title>Towards Touch-to-Access Device Authentication Using Induced Body Electric Potentials.</title><venue>MobiCom</venue><pages>23:1-23:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/YanSTLK19</key><doi>10.1145/3300061.3300118</doi><ee>https://doi.org/10.1145/3300061.3300118</ee><url>https://dblp.org/rec/conf/mobicom/YanSTLK19</url></info>
+<url>URL#1926508</url>
+</hit>
+<hit score="1" id="1926509">
+<info><authors><author pid="83/5855">Qifan Yang</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="27/2403">Yunhao Liu 0001</author><author pid="33/4048">Hai Long</author><author pid="246/2275">Yuanchao Huang</author><author pid="96/3223">Jiaming He</author><author pid="90/7566">Tianyin Xu</author><author pid="23/7560">Ennan Zhai</author></authors><title>Mobile Gaming on Personal Computers with Direct Android Emulation.</title><venue>MobiCom</venue><pages>19:1-19:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Yang0LLHHXZ19</key><doi>10.1145/3300061.3300122</doi><ee>https://doi.org/10.1145/3300061.3300122</ee><url>https://dblp.org/rec/conf/mobicom/Yang0LLHHXZ19</url></info>
+<url>URL#1926509</url>
+</hit>
+<hit score="1" id="1926510">
+<info><authors><author pid="16/4505-10">Yu Yang 0010</author><author pid="217/5708">Xiaoyang Xie</author><author pid="162/3674">Zhihan Fang</author><author pid="21/3626-19">Fan Zhang 0019</author><author pid="w/YangWang15">Yang Wang 0015</author><author pid="15/8612">Desheng Zhang</author></authors><title>VeMo: Enabling Transparent Vehicular Mobility Modeling at Individual Levels with Full Penetration.</title><venue>MobiCom</venue><pages>11:1-11:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/YangXFZWZ19</key><doi>10.1145/3300061.3300130</doi><ee>https://doi.org/10.1145/3300061.3300130</ee><url>https://dblp.org/rec/conf/mobicom/YangXFZWZ19</url></info>
+<url>URL#1926510</url>
+</hit>
+<hit score="1" id="1926511">
+<info><authors><author pid="83/5855">Qifan Yang</author><author pid="252/1188">Xinlei Yang</author><author pid="61/1951-1">Zhenhua Li 0001</author><author pid="27/2403">Yunhao Liu 0001</author><author pid="133/0537">Rui Zhou</author><author pid="254/5362">Guoyang Du</author><author pid="254/5497">Ziwen Wu</author><author pid="90/7566">Tianyin Xu</author><author pid="23/7560">Ennan Zhai</author></authors><title>Demo: Mobile Gaming on Personal Computers with Direct Android Emulation.</title><venue>MobiCom</venue><pages>73:1-73:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/YangY0LZDWXZ19</key><doi>10.1145/3300061.3343372</doi><ee>https://doi.org/10.1145/3300061.3343372</ee><url>https://dblp.org/rec/conf/mobicom/YangY0LZDWXZ19</url></info>
+<url>URL#1926511</url>
+</hit>
+<hit score="1" id="1926513">
+<info><authors><author pid="158/4697">Yijing Zeng</author><author pid="179/2245">Varun Chandrasekaran</author><author pid="345/5455-1">Suman Banerjee 0001</author><author pid="07/1247">Domenico Giustiniano</author></authors><title>A Framework for Analyzing Spectrum Characteristics in Large Spatio-temporal Scales.</title><venue>MobiCom</venue><pages>49:1-49:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZengCBG19</key><doi>10.1145/3300061.3345450</doi><ee>https://doi.org/10.1145/3300061.3345450</ee><url>https://dblp.org/rec/conf/mobicom/ZengCBG19</url></info>
+<url>URL#1926513</url>
+</hit>
+<hit score="1" id="1926514">
+<info><authors><author pid="217/8449">Hanbin Zhang</author><author pid="14/5979-1">Chen Song 0001</author><author pid="158/8262">Aosen Wang</author><author pid="183/1735">Chenhan Xu</author><author pid="27/1131">Dongmei Li</author><author pid="11/6689">Wenyao Xu</author></authors><title>PDVocal: Towards Privacy-preserving Parkinson&apos;s Disease Detection using Non-speech Body Sounds.</title><venue>MobiCom</venue><pages>16:1-16:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Zhang0WXLX19</key><doi>10.1145/3300061.3300125</doi><ee>https://doi.org/10.1145/3300061.3300125</ee><url>https://dblp.org/rec/conf/mobicom/Zhang0WXLX19</url></info>
+<url>URL#1926514</url>
+</hit>
+<hit score="1" id="1926515">
+<info><authors><author pid="41/8454">Shasha Zhang</author><author pid="245/1426">Shuyu Song</author><author pid="29/3081">Fan Yang</author><author pid="122/3088">Rongpeng Li</author><author pid="66/175">Zhifeng Zhao</author><author pid="82/1228-1">Honggang Zhang 0001</author></authors><title>Demo: The Design and Implementation of Intelligent Software Defined Security Framework.</title><venue>MobiCom</venue><pages>74:1-74:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZhangSYLZZ19</key><doi>10.1145/3300061.3343365</doi><ee>https://doi.org/10.1145/3300061.3343365</ee><url>https://dblp.org/rec/conf/mobicom/ZhangSYLZZ19</url></info>
+<url>URL#1926515</url>
+</hit>
+<hit score="1" id="1926516">
+<info><authors><author pid="204/3436">Diana Zhang</author><author pid="153/8510">Jingxian Wang</author><author pid="246/9492">Junsu Jang</author><author pid="75/8471">Junbo Zhang</author><author pid="44/8737">Swarun Kumar</author></authors><title>On the Feasibility of Wi-Fi Based Material Sensing.</title><venue>MobiCom</venue><pages>41:1-41:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZhangWJZK19</key><doi>10.1145/3300061.3345442</doi><ee>https://doi.org/10.1145/3300061.3345442</ee><url>https://dblp.org/rec/conf/mobicom/ZhangWJZK19</url></info>
+<url>URL#1926516</url>
+</hit>
+<hit score="1" id="1926517">
+<info><authors><author pid="254/5404">Ling-Yan Zhang</author><author pid="41/8359">Kun-Ru Wu</author><author pid="246/7742">Ting-Yuan Ke</author><author pid="89/9915">Chih-Hsiang Wang</author><author pid="25/5808">Yu-Chee Tseng</author></authors><title>Demo: A ROS-based Robot with Distributed Sensors for Seamless People Tracking.</title><venue>MobiCom</venue><pages>75:1-75:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZhangWKWT19</key><doi>10.1145/3300061.3343369</doi><ee>https://doi.org/10.1145/3300061.3343369</ee><url>https://dblp.org/rec/conf/mobicom/ZhangWKWT19</url></info>
+<url>URL#1926517</url>
+</hit>
+<hit score="1" id="1926519">
+<info><authors><author pid="54/2752-2">Lan Zhang 0002</author><author pid="146/3837">Daren Zheng</author><author pid="232/5583">Zhengtao Wu</author><author pid="254/5352">Mengjing Liu</author><author pid="08/9064">Mu Yuan</author><author pid="58/2012">Feng Han</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Poster: Cross Labelling and Learning Unknown Activities Among Multimodal Sensing Data.</title><venue>MobiCom</venue><pages>104:1-104:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZhangZWLYHL19</key><doi>10.1145/3300061.3343407</doi><ee>https://doi.org/10.1145/3300061.3343407</ee><url>https://dblp.org/rec/conf/mobicom/ZhangZWLYHL19</url></info>
+<url>URL#1926519</url>
+</hit>
+<hit score="1" id="1926520">
+<info><authors><author pid="196/5052-1">Tianming Zhao 0001</author><author pid="59/2227-3">Yan Wang 0003</author><author pid="35/295-1">Jian Liu 0001</author><author pid="18/2343-1">Yingying Chen 0001</author></authors><title>Demo: Toward Continuous User Authentication Using PPG in Commodity Wrist-worn Wearables.</title><venue>MobiCom</venue><pages>76:1-76:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/Zhao0L019</key><doi>10.1145/3300061.3343375</doi><ee>https://doi.org/10.1145/3300061.3343375</ee><url>https://dblp.org/rec/conf/mobicom/Zhao0L019</url></info>
+<url>URL#1926520</url>
+</hit>
+<hit score="1" id="1926521">
+<info><authors><author pid="194/0429">Renjie Zhao</author><author pid="160/3973">Fengyuan Zhu</author><author pid="246/2023">Yuda Feng</author><author pid="162/8790">Siyuan Peng</author><author pid="89/1428">Xiaohua Tian</author><author pid="26/6190-2">Hui Yu 0002</author><author pid="96/1149">Xinbing Wang</author></authors><title>OFDMA-Enabled Wi-Fi Backscatter.</title><venue>MobiCom</venue><pages>20:1-20:15</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZhaoZFPTYW19</key><doi>10.1145/3300061.3300121</doi><ee>https://doi.org/10.1145/3300061.3300121</ee><url>https://dblp.org/rec/conf/mobicom/ZhaoZFPTYW19</url></info>
+<url>URL#1926521</url>
+</hit>
+<hit score="1" id="1926523">
+<info><authors><author pid="32/5505">Anfu Zhou</author><author pid="40/7819">Huanhuan Zhang</author><author pid="251/4516">Guangyuan Su</author><author pid="61/2087">Leilei Wu</author><author pid="254/5196">Ruoxuan Ma</author><author pid="26/10617">Zhen Meng</author><author pid="58/4582-3">Xinyu Zhang 0003</author><author pid="142/1755">Xiufeng Xie</author><author pid="04/6217">Huadong Ma</author><author pid="95/10521">Xiaojiang Chen</author></authors><title>Learning to Coordinate Video Codec with Transport Protocol for Mobile Video Telephony.</title><venue>MobiCom</venue><pages>29:1-29:16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZhouZSWMMZXMC19</key><doi>10.1145/3300061.3345430</doi><ee>https://doi.org/10.1145/3300061.3345430</ee><url>https://dblp.org/rec/conf/mobicom/ZhouZSWMMZXMC19</url></info>
+<url>URL#1926523</url>
+</hit>
+<hit score="1" id="1926524">
+<info><authors><author pid="32/5505">Anfu Zhou</author><author pid="40/7819">Huanhuan Zhang</author><author pid="251/4516">Guangyuan Su</author><author pid="61/2087">Leilei Wu</author><author pid="254/5196">Ruoxuan Ma</author><author pid="26/10617">Zhen Meng</author><author pid="58/4582-3">Xinyu Zhang 0003</author><author pid="142/1755">Xiufeng Xie</author><author pid="04/6217">Huadong Ma</author><author pid="95/10521">Xiaojiang Chen</author></authors><title>Poster: Optimizing Mobile Video Telephony Using Deep Imitation Learning.</title><venue>MobiCom</venue><pages>105:1-105:3</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobicom/ZhouZSWMMZXMC19a</key><doi>10.1145/3300061.3343408</doi><ee>https://doi.org/10.1145/3300061.3343408</ee><url>https://dblp.org/rec/conf/mobicom/ZhouZSWMMZXMC19a</url></info>
+<url>URL#1926524</url>
+</hit>
+<hit score="1" id="1973333">
+<info><authors><author pid="b/StephenABrewster">Stephen A. Brewster</author><author pid="46/3111">Geraldine Fitzpatrick</author><author pid="50/2321">Anna L. Cox</author><author pid="61/6121">Vassilis Kostakos</author></authors><title>The 25th Annual International Conference on Mobile Computing and Networking, MobiCom 2019, Los Cabos, Mexico, October 21-25, 2019.</title><venue>MobiCom</venue><publisher>ACM</publisher><year>2019</year><type>Editorship</type><key>conf/mobicom/2019</key><doi>10.1145/3300061</doi><ee>https://doi.org/10.1145/3300061</ee><url>https://dblp.org/rec/conf/mobicom/2019</url></info>
+<url>URL#1973333</url>
+</hit>
+</hits>
+</result>

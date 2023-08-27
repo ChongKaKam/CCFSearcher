@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59740">:facetid:toc:\"db/conf/imc/imc2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">173.63</time>
+<completions total="1" computed="1" sent="1">
+<c sc="55" dc="55" oc="55" id="41047562">:facetid:toc:db/conf/imc/imc2020.bht</c>
+</completions>
+<hits total="55" computed="55" sent="55" first="0">
+<hit score="1" id="1473608">
+<info><authors><author pid="64/237-1">Zinan Lin 0001</author><author pid="185/6686">Alankar Jain</author><author pid="82/4206-39">Chen Wang 0039</author><author pid="141/9910">Giulia Fanti</author><author pid="45/4044">Vyas Sekar</author></authors><title>Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions.</title><venue>Internet Measurement Conference</venue><pages>464-483</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/0001JWFS20</key><doi>10.1145/3419394.3423643</doi><ee>https://doi.org/10.1145/3419394.3423643</ee><url>https://dblp.org/rec/conf/imc/0001JWFS20</url></info>
+<url>URL#1473608</url>
+</hit>
+<hit score="1" id="1473609">
+<info><authors><author pid="224/2363">Gautam Akiwate</author><author pid="163/4064">Mattijs Jonker</author><author pid="193/3162">Raffaele Sommese</author><author pid="168/9474">Ian D. Foster</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="68/4966">kc claffy</author></authors><title>Unresolved Issues: Prevalence, Persistence, and Perils of Lame Delegations.</title><venue>Internet Measurement Conference</venue><pages>281-294</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AkiwateJSFVSC20</key><doi>10.1145/3419394.3423623</doi><ee>https://doi.org/10.1145/3419394.3423623</ee><url>https://dblp.org/rec/conf/imc/AkiwateJSFVSC20</url></info>
+<url>URL#1473609</url>
+</hit>
+<hit score="1" id="1473610">
+<info><authors><author pid="277/0378">Alice</author><author pid="277/0375">Bob</author><author pid="277/0389">Carol</author><author pid="277/0395">Jan Beznazwy</author><author pid="22/1797">Amir Houmansadr</author></authors><title>How China Detects and Blocks Shadowsocks.</title><venue>Internet Measurement Conference</venue><pages>111-124</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AliceBCBH20</key><doi>10.1145/3419394.3423644</doi><ee>https://doi.org/10.1145/3419394.3423644</ee><url>https://dblp.org/rec/conf/imc/AliceBCBH20</url></info>
+<url>URL#1473610</url>
+</hit>
+<hit score="1" id="1473611">
+<info><authors><author pid="31/1402">Mark Allman</author></authors><title>Putting DNS in Context.</title><venue>Internet Measurement Conference</venue><pages>309-316</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Allman20</key><doi>10.1145/3419394.3423659</doi><ee>https://doi.org/10.1145/3419394.3423659</ee><url>https://dblp.org/rec/conf/imc/Allman20</url></info>
+<url>URL#1473611</url>
+</hit>
+<hit score="1" id="1473612">
+<info><authors><author pid="170/8795">Scott Anderson</author><author pid="38/9326">Carol Barford</author><author pid="b/PaulBarford">Paul Barford</author></authors><title>Five Alarms: Assessing the Vulnerability of US Cellular Communication Infrastructure to Wildfires.</title><venue>Internet Measurement Conference</venue><pages>162-175</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AndersonBB20</key><doi>10.1145/3419394.3423663</doi><ee>https://doi.org/10.1145/3419394.3423663</ee><url>https://dblp.org/rec/conf/imc/AndersonBB20</url></info>
+<url>URL#1473612</url>
+</hit>
+<hit score="1" id="1473613">
+<info><authors><author pid="227/3452">Waqar Aqeel</author><author pid="c/BChandrasekaran2">Balakrishnan Chandrasekaran 0002</author><author pid="f/AnjaFeldmann">Anja Feldmann</author><author pid="m/BruceMMaggs">Bruce M. Maggs</author></authors><title>On Landing and Internal Web Pages: The Strange Case of Jekyll and Hyde in Web Performance Measurement.</title><venue>Internet Measurement Conference</venue><pages>680-695</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Aqeel0FM20</key><doi>10.1145/3419394.3423626</doi><ee>https://doi.org/10.1145/3419394.3423626</ee><url>https://dblp.org/rec/conf/imc/Aqeel0FM20</url></info>
+<url>URL#1473613</url>
+</hit>
+<hit score="1" id="1473614">
+<info><authors><author pid="01/2456">Todd Arnold</author><author pid="74/7371">Jia He</author><author pid="255/5076">Weifan Jiang</author><author pid="24/3165">Matt Calder</author><author pid="80/186">Ítalo Cunha</author><author pid="87/7704">Vasileios Giotsas</author><author pid="66/2080">Ethan Katz-Bassett</author></authors><title>Cloud Provider Connectivity in the Flat Internet.</title><venue>Internet Measurement Conference</venue><pages>230-246</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ArnoldHJCCGK20</key><doi>10.1145/3419394.3423613</doi><ee>https://doi.org/10.1145/3419394.3423613</ee><url>https://dblp.org/rec/conf/imc/ArnoldHJCCGK20</url></info>
+<url>URL#1473614</url>
+</hit>
+<hit score="1" id="1473615">
+<info><authors><author pid="203/1819">Debopam Bhattacherjee</author><author pid="227/3452">Waqar Aqeel</author><author pid="196/6501">Gregory Laughlin</author><author pid="m/BruceMMaggs">Bruce M. Maggs</author><author pid="78/8146">Ankit Singla</author></authors><title>A Bird&apos;s Eye View of the World&apos;s Fastest Networks.</title><venue>Internet Measurement Conference</venue><pages>521-527</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BhattacherjeeAL20</key><doi>10.1145/3419394.3423620</doi><ee>https://doi.org/10.1145/3419394.3423620</ee><url>https://dblp.org/rec/conf/imc/BhattacherjeeAL20</url></info>
+<url>URL#1473615</url>
+</hit>
+<hit score="1" id="1473616">
+<info><authors><author pid="161/2671">Timm Böttger</author><author pid="142/4788">Ghida Ibrahim</author><author pid="277/0376">Ben Vallis</author></authors><title>How the Internet reacted to Covid-19: A perspective from Facebook&apos;s Edge Network.</title><venue>Internet Measurement Conference</venue><pages>34-41</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BottgerIV20</key><doi>10.1145/3419394.3423621</doi><ee>https://doi.org/10.1145/3419394.3423621</ee><url>https://dblp.org/rec/conf/imc/BottgerIV20</url></info>
+<url>URL#1473616</url>
+</hit>
+<hit score="1" id="1473617">
+<info><authors><author pid="252/1042">Markus Dahlmanns</author><author pid="277/0381">Johannes Lohmöller</author><author pid="224/2389">Ina Berenice Fink</author><author pid="182/4743">Jan Pennekamp</author><author pid="w/KlausWehrle">Klaus Wehrle</author><author pid="126/0576">Martin Henze</author></authors><title>Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments.</title><venue>Internet Measurement Conference</venue><pages>101-110</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DahlmannsLFPWH20</key><doi>10.1145/3419394.3423666</doi><ee>https://doi.org/10.1145/3419394.3423666</ee><url>https://dblp.org/rec/conf/imc/DahlmannsLFPWH20</url></info>
+<url>URL#1473617</url>
+</hit>
+<hit score="1" id="1473618">
+<info><authors><author pid="69/6101">Casey T. Deccio</author><author pid="277/0392">Alden Hilton</author><author pid="277/0374">Michael Briggs</author><author pid="277/0382">Trevin Avery</author><author pid="134/8370">Robert Richardson</author></authors><title>Behind Closed Doors: A Network Tale of Spoofing, Intrusion, and False DNS Security.</title><venue>Internet Measurement Conference</venue><pages>65-77</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DeccioHBAR20</key><doi>10.1145/3419394.3423649</doi><ee>https://doi.org/10.1145/3419394.3423649</ee><url>https://dblp.org/rec/conf/imc/DeccioHBAR20</url></info>
+<url>URL#1473618</url>
+</hit>
+<hit score="1" id="1473619">
+<info><authors><author pid="163/1834">Shehroze Farooqi</author><author pid="248/1636">Álvaro Feal</author><author pid="00/3175">Tobias Lauinger</author><author pid="58/4016">Damon McCoy</author><author pid="83/9528">Zubair Shafiq</author><author pid="50/7563">Narseo Vallina-Rodriguez</author></authors><title>Understanding Incentivized Mobile App Installs on Google Play Store.</title><venue>Internet Measurement Conference</venue><pages>696-709</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/FarooqiFLMSV20</key><doi>10.1145/3419394.3423662</doi><ee>https://doi.org/10.1145/3419394.3423662</ee><url>https://dblp.org/rec/conf/imc/FarooqiFLMSV20</url></info>
+<url>URL#1473619</url>
+</hit>
+<hit score="1" id="1473620">
+<info><authors><author pid="f/AnjaFeldmann">Anja Feldmann</author><author pid="147/1125">Oliver Gasser</author><author pid="188/5868">Franziska Lichtblau</author><author pid="49/3895">Enric Pujol</author><author pid="17/9081">Ingmar Poese</author><author pid="177/6606">Christoph Dietzel</author><author pid="65/6748">Daniel Wagner</author><author pid="120/4535">Matthias Wichtlhuber</author><author pid="98/3527">Juan Tapiador</author><author pid="50/7563">Narseo Vallina-Rodriguez</author><author pid="75/6403">Oliver Hohlfeld</author><author pid="88/6355">Georgios Smaragdakis</author></authors><title>The Lockdown Effect: Implications of the COVID-19 Pandemic on Internet Traffic.</title><venue>Internet Measurement Conference</venue><pages>1-18</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/FeldmannGLPPDWW20</key><doi>10.1145/3419394.3423658</doi><ee>https://doi.org/10.1145/3419394.3423658</ee><url>https://dblp.org/rec/conf/imc/FeldmannGLPPDWW20</url></info>
+<url>URL#1473620</url>
+</hit>
+<hit score="1" id="1473621">
+<info><authors><author pid="13/7972">Romain Fontugne</author><author pid="182/2331">Anant Shah</author><author pid="02/4751">Kenjiro Cho</author></authors><title>Persistent Last-mile Congestion: Not so Uncommon.</title><venue>Internet Measurement Conference</venue><pages>420-427</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/FontugneSC20</key><doi>10.1145/3419394.3423648</doi><ee>https://doi.org/10.1145/3419394.3423648</ee><url>https://dblp.org/rec/conf/imc/FontugneSC20</url></info>
+<url>URL#1473621</url>
+</hit>
+<hit score="1" id="1473622">
+<info><authors><author pid="87/7704">Vasileios Giotsas</author><author pid="93/3280">Thomas Koch</author><author pid="119/6754">Elverton C. Fazzion</author><author pid="80/186">Ítalo Cunha</author><author pid="24/3165">Matt Calder</author><author pid="45/2026">Harsha V. Madhyastha</author><author pid="66/2080">Ethan Katz-Bassett</author></authors><title>Reduce, Reuse, Recycle: Repurposing Existing Measurements to Identify Stale Traceroutes.</title><venue>Internet Measurement Conference</venue><pages>247-265</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GiotsasKFCCMK20</key><doi>10.1145/3419394.3423654</doi><ee>https://doi.org/10.1145/3419394.3423654</ee><url>https://dblp.org/rec/conf/imc/GiotsasKFCCMK20</url></info>
+<url>URL#1473622</url>
+</hit>
+<hit score="1" id="1473623">
+<info><authors><author pid="215/3488">Caitlin Gray</author><author pid="277/0399">Clemens Mosig</author><author pid="81/5952">Randy Bush</author><author pid="72/952">Cristel Pelsser</author><author pid="72/6960">Matthew Roughan</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>BGP Beacons, Network Tomography, and Bayesian Computation to Locate Route Flap Damping.</title><venue>Internet Measurement Conference</venue><pages>492-505</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GrayMBPRSW20</key><doi>10.1145/3419394.3423624</doi><ee>https://doi.org/10.1145/3419394.3423624</ee><url>https://dblp.org/rec/conf/imc/GrayMBPRSW20</url></info>
+<url>URL#1473623</url>
+</hit>
+<hit score="1" id="1473624">
+<info><authors><author pid="169/9600">Maximilian Hils</author><author pid="228/4088">Daniel W. Woods</author><author pid="52/6295">Rainer Böhme</author></authors><title>Measuring the Emergence of Consent Management on the Web.</title><venue>Internet Measurement Conference</venue><pages>317-332</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HilsWB20</key><doi>10.1145/3419394.3423647</doi><ee>https://doi.org/10.1145/3419394.3423647</ee><url>https://dblp.org/rec/conf/imc/HilsWB20</url></info>
+<url>URL#1473624</url>
+</hit>
+<hit score="1" id="1473625">
+<info><authors><author pid="247/5191">Mohamad Hoseini</author><author pid="210/0839">Philipe F. Melo</author><author pid="190/5292">Manoel Junior</author><author pid="90/2878">Fabrício Benevenuto</author><author pid="c/BChandrasekaran2">Balakrishnan Chandrasekaran 0002</author><author pid="f/AnjaFeldmann">Anja Feldmann</author><author pid="184/5969">Savvas Zannettou</author></authors><title>Demystifying the Messaging Platforms&apos; Ecosystem Through the Lens of Twitter.</title><venue>Internet Measurement Conference</venue><pages>345-359</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HoseiniMJB0FZ20</key><doi>10.1145/3419394.3423651</doi><ee>https://doi.org/10.1145/3419394.3423651</ee><url>https://dblp.org/rec/conf/imc/HoseiniMJB0FZ20</url></info>
+<url>URL#1473625</url>
+</hit>
+<hit score="1" id="1473626">
+<info><authors><author pid="180/2610">Yuchen Huang</author><author pid="r/MRabinovich">Michael Rabinovich</author><author pid="152/9836">Rami Al-Dalky</author></authors><title>FlashRoute: Efficient Traceroute on a Massive Scale.</title><venue>Internet Measurement Conference</venue><pages>443-455</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HuangRA20</key><doi>10.1145/3419394.3423619</doi><ee>https://doi.org/10.1145/3419394.3423619</ee><url>https://dblp.org/rec/conf/imc/HuangRA20</url></info>
+<url>URL#1473626</url>
+</hit>
+<hit score="1" id="1473627">
+<info><authors><author pid="208/4336">Zitong Jin</author><author pid="93/5648">Xingang Shi</author><author pid="37/1091">Yan Yang</author><author pid="77/5776">Xia Yin</author><author pid="58/5311">Zhiliang Wang</author><author pid="82/4905">Jianping Wu</author></authors><title>TopoScope: Recover AS Relationships From Fragmentary Observations.</title><venue>Internet Measurement Conference</venue><pages>266-280</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/JinSYYWW20</key><doi>10.1145/3419394.3423627</doi><ee>https://doi.org/10.1145/3419394.3423627</ee><url>https://dblp.org/rec/conf/imc/JinSYYWW20</url></info>
+<url>URL#1473627</url>
+</hit>
+<hit score="1" id="1473628">
+<info><authors><author pid="172/8986">Aqsa Kashaf</author><author pid="45/4044">Vyas Sekar</author><author pid="84/1053">Yuvraj Agarwal</author></authors><title>Analyzing Third Party Service Dependencies in Modern Web Services: Have We Learned from the Mirai-Dyn Incident?</title><venue>Internet Measurement Conference</venue><pages>634-647</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KashafSA20</key><doi>10.1145/3419394.3423664</doi><ee>https://doi.org/10.1145/3419394.3423664</ee><url>https://dblp.org/rec/conf/imc/KashafSA20</url></info>
+<url>URL#1473628</url>
+</hit>
+<hit score="1" id="1473629">
+<info><authors><author pid="165/3696">Simon Kassing</author><author pid="203/1819">Debopam Bhattacherjee</author><author pid="277/0386">André Baptista Águas</author><author pid="277/0400">Jens Eirik Saethre</author><author pid="78/8146">Ankit Singla</author></authors><title>Exploring the &quot;Internet from space&quot; with Hypatia.</title><venue>Internet Measurement Conference</venue><pages>214-229</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KassingBASS20</key><doi>10.1145/3419394.3423635</doi><ee>https://doi.org/10.1145/3419394.3423635</ee><url>https://dblp.org/rec/conf/imc/KassingBASS20</url></info>
+<url>URL#1473629</url>
+</hit>
+<hit score="1" id="1473630">
+<info><authors><author pid="19/3710">John Kristoff</author><author pid="81/5952">Randy Bush</author><author pid="20/4340">Chris Kanich</author><author pid="119/6496">George Michaelson</author><author pid="189/5668">Amreesh Phokeer</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>On Measuring RPKI Relying Parties.</title><venue>Internet Measurement Conference</venue><pages>484-491</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KristoffBKMPSW20</key><doi>10.1145/3419394.3423622</doi><ee>https://doi.org/10.1145/3419394.3423622</ee><url>https://dblp.org/rec/conf/imc/KristoffBKMPSW20</url></info>
+<url>URL#1473630</url>
+</hit>
+<hit score="1" id="1473631">
+<info><authors><author pid="67/2580-6">Song Li 0006</author><author pid="28/8733">Yinzhi Cao</author></authors><title>Who Touched My Browser Fingerprint?: A Large-scale Measurement Study and Classification of Fingerprint Dynamics.</title><venue>Internet Measurement Conference</venue><pages>370-385</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LiC20</key><doi>10.1145/3419394.3423614</doi><ee>https://doi.org/10.1145/3419394.3423614</ee><url>https://dblp.org/rec/conf/imc/LiC20</url></info>
+<url>URL#1473631</url>
+</hit>
+<hit score="1" id="1473632">
+<info><authors><author pid="53/10825">Frank Li 0001</author><author pid="38/7225">David Freeman 0001</author></authors><title>Towards A User-Level Understanding of IPv6 Behavior.</title><venue>Internet Measurement Conference</venue><pages>428-442</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LiF20</key><doi>10.1145/3419394.3423618</doi><ee>https://doi.org/10.1145/3419394.3423618</ee><url>https://dblp.org/rec/conf/imc/LiF20</url></info>
+<url>URL#1473632</url>
+</hit>
+<hit score="1" id="1473633">
+<info><authors><author pid="31/4627">Shucheng Liu</author><author pid="14/5053">Zachary S. Bischof</author><author pid="277/0396">Ishaan Madan</author><author pid="277/0384">Peter K. Chan</author><author pid="b/FabianEBustamante">Fabián E. Bustamante</author></authors><title>Out of Sight, Not Out of Mind: A User-View on the Criticality of the Submarine Cable Network.</title><venue>Internet Measurement Conference</venue><pages>194-200</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LiuBMCB20</key><doi>10.1145/3419394.3423633</doi><ee>https://doi.org/10.1145/3419394.3423633</ee><url>https://dblp.org/rec/conf/imc/LiuBMCB20</url></info>
+<url>URL#1473633</url>
+</hit>
+<hit score="1" id="1473634">
+<info><authors><author pid="12/4563">Matthew Luckie</author><author pid="189/5385">Alexander Marder</author><author pid="277/0398">Marianne Fletcher</author><author pid="11/3626">Bradley Huffaker</author><author pid="68/4966">kc claffy</author></authors><title>Learning to Extract and Use ASNs in Hostnames.</title><venue>Internet Measurement Conference</venue><pages>386-392</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LuckieMFHC20</key><doi>10.1145/3419394.3423639</doi><ee>https://doi.org/10.1145/3419394.3423639</ee><url>https://dblp.org/rec/conf/imc/LuckieMFHC20</url></info>
+<url>URL#1473634</url>
+</hit>
+<hit score="1" id="1473635">
+<info><authors><author pid="31/10646">Andra Lutu</author><author pid="158/8006">Byungjin Jun</author><author pid="09/2252">Alessandro Finamore</author><author pid="b/FabianEBustamante">Fabián E. Bustamante</author><author pid="03/3645">Diego Perino</author></authors><title>Where Things Roam: Uncovering Cellular IoT/M2M Connectivity.</title><venue>Internet Measurement Conference</venue><pages>147-161</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LutuJFBP20</key><doi>10.1145/3419394.3423661</doi><ee>https://doi.org/10.1145/3419394.3423661</ee><url>https://dblp.org/rec/conf/imc/LutuJFBP20</url></info>
+<url>URL#1473635</url>
+</hit>
+<hit score="1" id="1473636">
+<info><authors><author pid="31/10646">Andra Lutu</author><author pid="03/3645">Diego Perino</author><author pid="04/11">Marcelo Bagnulo</author><author pid="94/1167">Enrique Frías-Martínez</author><author pid="226/4728">Javad Khangosstar</author></authors><title>A Characterization of the COVID-19 Pandemic Impact on a Mobile Network Operator Traffic.</title><venue>Internet Measurement Conference</venue><pages>19-33</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LutuPBFK20</key><doi>10.1145/3419394.3423655</doi><ee>https://doi.org/10.1145/3419394.3423655</ee><url>https://dblp.org/rec/conf/imc/LutuPBFK20</url></info>
+<url>URL#1473636</url>
+</hit>
+<hit score="1" id="1473637">
+<info><authors><author pid="249/3120">Kelvin Mai</author><author pid="69/561">Xi Qin</author><author pid="249/3141">Neil Ortiz Silva</author><author pid="77/11022">Jason Molina</author><author pid="48/6119">Alvaro A. Cárdenas</author></authors><title>Uncharted Networks: A First Measurement Study of the Bulk Power System.</title><venue>Internet Measurement Conference</venue><pages>201-213</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MaiQSMC20</key><doi>10.1145/3419394.3423630</doi><ee>https://doi.org/10.1145/3419394.3423630</ee><url>https://dblp.org/rec/conf/imc/MaiQSMC20</url></info>
+<url>URL#1473637</url>
+</hit>
+<hit score="1" id="1473638">
+<info><authors><author pid="251/9651">David J. Major</author><author pid="259/7385">Ross Teixeira</author><author pid="116/8542">Jonathan R. Mayer</author></authors><title>No WAN&apos;s Land: Mapping U.S. Broadband Coverage with Millions of Address Queries to ISPs.</title><venue>Internet Measurement Conference</venue><pages>393-419</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MajorTM20</key><doi>10.1145/3419394.3423652</doi><ee>https://doi.org/10.1145/3419394.3423652</ee><url>https://dblp.org/rec/conf/imc/MajorTM20</url></info>
+<url>URL#1473638</url>
+</hit>
+<hit score="1" id="1473639">
+<info><authors><author pid="99/7415">Pedro de B. Marcos</author><author pid="277/0393">Lars Prehn</author><author pid="217/1003">Lucas Leal</author><author pid="28/5074">Alberto Dainotti</author><author pid="f/AnjaFeldmann">Anja Feldmann</author><author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author></authors><title>AS-Path Prepending: there is no rose without a thorn.</title><venue>Internet Measurement Conference</venue><pages>506-520</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MarcosPLDFB20</key><doi>10.1145/3419394.3423642</doi><ee>https://doi.org/10.1145/3419394.3423642</ee><url>https://dblp.org/rec/conf/imc/MarcosPLDFB20</url></info>
+<url>URL#1473639</url>
+</hit>
+<hit score="1" id="1473640">
+<info><authors><author pid="216/8573">Sourena Maroofi</author><author pid="06/10585">Maciej Korczynski</author><author pid="d/AndrzejDuda">Andrzej Duda</author></authors><title>Are You Human?: Resilience of Phishing Detection to Evasion Techniques Based on Human Verification.</title><venue>Internet Measurement Conference</venue><pages>78-86</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MaroofiKD20</key><doi>10.1145/3419394.3423632</doi><ee>https://doi.org/10.1145/3419394.3423632</ee><url>https://dblp.org/rec/conf/imc/MaroofiKD20</url></info>
+<url>URL#1473640</url>
+</hit>
+<hit score="1" id="1473641">
+<info><authors><author pid="117/1997">Srdjan Matic</author><author pid="155/4391">Costas Iordanou</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="04/5326">Nikolaos Laoutaris</author></authors><title>Identifying Sensitive URLs atWeb-Scale.</title><venue>Internet Measurement Conference</venue><pages>619-633</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MaticISL20</key><doi>10.1145/3419394.3423653</doi><ee>https://doi.org/10.1145/3419394.3423653</ee><url>https://dblp.org/rec/conf/imc/MaticISL20</url></info>
+<url>URL#1473641</url>
+</hit>
+<hit score="1" id="1473642">
+<info><authors><author pid="76/5048">Giovane C. M. Moura</author><author pid="40/7634">Sebastian Castro</author><author pid="53/6495">Wes Hardaker</author><author pid="181/3705">Maarten Wullink</author><author pid="41/1548">Cristian Hesselman</author></authors><title>Clouding up the Internet: how centralized is DNS traffic becoming?</title><venue>Internet Measurement Conference</venue><pages>42-49</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MouraCHWH20</key><doi>10.1145/3419394.3423625</doi><ee>https://doi.org/10.1145/3419394.3423625</ee><url>https://dblp.org/rec/conf/imc/MouraCHWH20</url></info>
+<url>URL#1473642</url>
+</hit>
+<hit score="1" id="1473643">
+<info><authors><author pid="12/303">Moritz Müller</author><author pid="89/10024">Willem Toorop</author><author pid="90/8396">Taejoong Chung</author><author pid="209/8246">Jelte Jansen</author><author pid="155/5773">Roland van Rijswijk-Deij</author></authors><title>The Reality of Algorithm Agility: Studying the DNSSEC Algorithm Life-Cycle.</title><venue>Internet Measurement Conference</venue><pages>295-308</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MullerTCJR20</key><doi>10.1145/3419394.3423638</doi><ee>https://doi.org/10.1145/3419394.3423638</ee><url>https://dblp.org/rec/conf/imc/MullerTCJR20</url></info>
+<url>URL#1473643</url>
+</hit>
+<hit score="1" id="1473644">
+<info><authors><author pid="08/3080">Arvind Narayanan</author><author pid="166/2795">Eman Ramadan</author><author pid="241/0548">Rishabh Mehta</author><author pid="142/2109">Xinyue Hu</author><author pid="249/2350">Qingxu Liu</author><author pid="277/0387">Rostand A. K. Fezeu</author><author pid="277/0391">Udhaya Kumar Dayalan</author><author pid="118/5298">Saurabh Verma</author><author pid="277/0380">Peiqi Ji</author><author pid="75/4601">Tao Li</author><author pid="54/476-1">Feng Qian 0001</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>Lumos5G: Mapping and Predicting Commercial mmWave 5G Throughput.</title><venue>Internet Measurement Conference</venue><pages>176-193</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/NarayananRMHLFD20</key><doi>10.1145/3419394.3423629</doi><ee>https://doi.org/10.1145/3419394.3423629</ee><url>https://dblp.org/rec/conf/imc/NarayananRMHLFD20</url></info>
+<url>URL#1473644</url>
+</hit>
+<hit score="1" id="1473645">
+<info><authors><author pid="78/4696">Heng Pan</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="32/7673">Jianbo Dong</author><author pid="11/5229">Zheng Cao</author><author pid="277/0401">Tao Lan</author><author pid="80/3482">Di Zhang</author><author pid="85/85">Gareth Tyson</author><author pid="01/2888">Gaogang Xie</author></authors><title>Dissecting the Communication Latency in Distributed Deep Sparse Learning.</title><venue>Internet Measurement Conference</venue><pages>528-534</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Pan0DCLZTX20</key><doi>10.1145/3419394.3423637</doi><ee>https://doi.org/10.1145/3419394.3423637</ee><url>https://dblp.org/rec/conf/imc/Pan0DCLZTX20</url></info>
+<url>URL#1473645</url>
+</hit>
+<hit score="1" id="1473646">
+<info><authors><author pid="243/2583-1">Daniel Perez 0001</author><author pid="200/0316">Jiahua Xu</author><author pid="46/2924">Benjamin Livshits</author></authors><title>Revisiting Transactional Statistics of High-scalability Blockchains.</title><venue>Internet Measurement Conference</venue><pages>535-550</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PerezXL20</key><doi>10.1145/3419394.3423628</doi><ee>https://doi.org/10.1145/3419394.3423628</ee><url>https://dblp.org/rec/conf/imc/PerezXL20</url></info>
+<url>URL#1473646</url>
+</hit>
+<hit score="1" id="1473647">
+<info><authors><author pid="270/2488">Ram Sundara Raman</author><author pid="270/2407">Leonid Evdokimov</author><author pid="60/8733">Eric Wustrow</author><author pid="h/JAlexHalderman">J. Alex Halderman</author><author pid="24/973">Roya Ensafi</author></authors><title>Investigating Large Scale HTTPS Interception in Kazakhstan.</title><venue>Internet Measurement Conference</venue><pages>125-132</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RamanEWHE20</key><doi>10.1145/3419394.3423665</doi><ee>https://doi.org/10.1145/3419394.3423665</ee><url>https://dblp.org/rec/conf/imc/RamanEWHE20</url></info>
+<url>URL#1473647</url>
+</hit>
+<hit score="1" id="1473648">
+<info><authors><author pid="217/1012">Sivaramakrishnan Ramanathan</author><author pid="277/0383">Anushah Hossain</author><author pid="89/6100">Jelena Mirkovic</author><author pid="89/6345">Minlan Yu</author><author pid="29/7562-1">Sadia Afroz 0001</author></authors><title>Quantifying the Impact of Blocklisting in the Age of Address Reuse.</title><venue>Internet Measurement Conference</venue><pages>360-369</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RamanathanHMYA20</key><doi>10.1145/3419394.3423657</doi><ee>https://doi.org/10.1145/3419394.3423657</ee><url>https://dblp.org/rec/conf/imc/RamanathanHMYA20</url></info>
+<url>URL#1473648</url>
+</hit>
+<hit score="1" id="1473649">
+<info><authors><author pid="184/0878">Audrey Randall</author><author pid="249/3123-1">Enze Liu 0001</author><author pid="224/2363">Gautam Akiwate</author><author pid="34/10957">Ramakrishna Padmanabhan</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="77/3626">Aaron Schulman</author></authors><title>Trufflehunter: Cache Snooping Rare Domains at Large Public DNS Resolvers.</title><venue>Internet Measurement Conference</venue><pages>50-64</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RandallLAPVSS20</key><doi>10.1145/3419394.3423640</doi><ee>https://doi.org/10.1145/3419394.3423640</ee><url>https://dblp.org/rec/conf/imc/RandallLAPVSS20</url></info>
+<url>URL#1473649</url>
+</hit>
+<hit score="1" id="1473650">
+<info><authors><author pid="29/11081">John P. Rula</author><author pid="01/7272">Philipp Richter</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="46/4345">Arthur W. Berger</author></authors><title>Who&apos;s left behind?: Measuring Adoption of Application Updates at Scale.</title><venue>Internet Measurement Conference</venue><pages>710-723</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RulaRSB20</key><doi>10.1145/3419394.3423656</doi><ee>https://doi.org/10.1145/3419394.3423656</ee><url>https://dblp.org/rec/conf/imc/RulaRSB20</url></info>
+<url>URL#1473650</url>
+</hit>
+<hit score="1" id="1473651">
+<info><authors><author pid="185/5733">Erik C. Rye</author><author pid="12/8780">Jeremy Blackburn</author><author pid="12/1817">Robert Beverly</author></authors><title>Reading In-Between the Lines: An Analysis of Dissenter.</title><venue>Internet Measurement Conference</venue><pages>133-146</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RyeBB20</key><doi>10.1145/3419394.3423615</doi><ee>https://doi.org/10.1145/3419394.3423615</ee><url>https://dblp.org/rec/conf/imc/RyeBB20</url></info>
+<url>URL#1473651</url>
+</hit>
+<hit score="1" id="1473652">
+<info><authors><author pid="224/2144">Said Jawad Saidi</author><author pid="174/4807">Anna Maria Mandalari</author><author pid="173/0601">Roman Kolcun</author><author pid="33/5454">Hamed Haddadi</author><author pid="69/7759">Daniel J. Dubois</author><author pid="48/6854">David R. Choffnes</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>A Haystack Full of Needles: Scalable Detection of IoT Devices in the Wild.</title><venue>Internet Measurement Conference</venue><pages>87-100</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SaidiMKHDCSF20</key><doi>10.1145/3419394.3423650</doi><ee>https://doi.org/10.1145/3419394.3423650</ee><url>https://dblp.org/rec/conf/imc/SaidiMKHDCSF20</url></info>
+<url>URL#1473652</url>
+</hit>
+<hit score="1" id="1473653">
+<info><authors><author pid="241/7186">Shaown Sarker</author><author pid="241/6870">Jordan Jueckstock</author><author pid="22/1459">Alexandros Kapravelos</author></authors><title>Hiding in Plain Site: Detecting JavaScript Obfuscation through Concealed Browser API Usage.</title><venue>Internet Measurement Conference</venue><pages>648-661</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SarkerJK20</key><doi>10.1145/3419394.3423616</doi><ee>https://doi.org/10.1145/3419394.3423616</ee><url>https://dblp.org/rec/conf/imc/SarkerJK20</url></info>
+<url>URL#1473653</url>
+</hit>
+<hit score="1" id="1473654">
+<info><authors><author pid="170/4794">Camelia Simoiu</author><author pid="49/10638">Ali Zand</author><author pid="68/8283">Kurt Thomas</author><author pid="20/7004">Elie Bursztein</author></authors><title>Who is targeted by email-based phishing and malware?: Measuring factors that differentiate risk.</title><venue>Internet Measurement Conference</venue><pages>567-576</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SimoiuZTB20</key><doi>10.1145/3419394.3423617</doi><ee>https://doi.org/10.1145/3419394.3423617</ee><url>https://dblp.org/rec/conf/imc/SimoiuZTB20</url></info>
+<url>URL#1473654</url>
+</hit>
+<hit score="1" id="1473655">
+<info><authors><author pid="199/2194">Sudheesh Singanamalla</author><author pid="252/6085">Esther Han Beol Jang</author><author pid="93/6067">Richard J. Anderson</author><author pid="k/TadayoshiKohno">Tadayoshi Kohno</author><author pid="02/1303">Kurtis Heimerl</author></authors><title>Accept the Risk and Continue: Measuring the Long Tail of Government https Adoption.</title><venue>Internet Measurement Conference</venue><pages>577-597</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SinganamallaJAK20</key><doi>10.1145/3419394.3423645</doi><ee>https://doi.org/10.1145/3419394.3423645</ee><url>https://dblp.org/rec/conf/imc/SinganamallaJAK20</url></info>
+<url>URL#1473655</url>
+</hit>
+<hit score="1" id="1473656">
+<info><authors><author pid="193/3162">Raffaele Sommese</author><author pid="45/2226">Leandro Marcio Bertholdo</author><author pid="224/2363">Gautam Akiwate</author><author pid="163/4064">Mattijs Jonker</author><author pid="155/5773">Roland van Rijswijk-Deij</author><author pid="28/5074">Alberto Dainotti</author><author pid="68/4966">kc claffy</author><author pid="59/2521">Anna Sperotto</author></authors><title>MAnycast2: Using Anycast to Measure Anycast.</title><venue>Internet Measurement Conference</venue><pages>456-463</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SommeseBAJRDCS20</key><doi>10.1145/3419394.3423646</doi><ee>https://doi.org/10.1145/3419394.3423646</ee><url>https://dblp.org/rec/conf/imc/SommeseBAJRDCS20</url></info>
+<url>URL#1473656</url>
+</hit>
+<hit score="1" id="1473657">
+<info><authors><author pid="259/1706">Karthika Subramani</author><author pid="198/6792">Xingzi Yuan</author><author pid="198/6823">Omid Setayeshfar</author><author pid="133/2036">Phani Vadrevu</author><author pid="31/9698">Kyu Hyung Lee</author><author pid="60/6768">Roberto Perdisci</author></authors><title>When Push Comes to Ads: Measuring the Rise of (Malicious) Push Advertising.</title><venue>Internet Measurement Conference</venue><pages>724-737</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SubramaniYSVLP20</key><doi>10.1145/3419394.3423631</doi><ee>https://doi.org/10.1145/3419394.3423631</ee><url>https://dblp.org/rec/conf/imc/SubramaniYSVLP20</url></info>
+<url>URL#1473657</url>
+</hit>
+<hit score="1" id="1473658">
+<info><authors><author pid="204/9456">Pelayo Vallina</author><author pid="221/3626">Victor Le Pochat</author><author pid="248/1636">Álvaro Feal</author><author pid="210/2451">Marius Paraschiv</author><author pid="220/5536">Julien Gamba</author><author pid="03/360">Tim Burke</author><author pid="75/6403">Oliver Hohlfeld</author><author pid="98/3527">Juan Tapiador</author><author pid="50/7563">Narseo Vallina-Rodriguez</author></authors><title>Mis-shapes, Mistakes, Misfits: An Analysis of Domain Classification Services.</title><venue>Internet Measurement Conference</venue><pages>598-618</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VallinaPFPGBHTV20</key><doi>10.1145/3419394.3423660</doi><ee>https://doi.org/10.1145/3419394.3423660</ee><url>https://dblp.org/rec/conf/imc/VallinaPFPGBHTV20</url></info>
+<url>URL#1473658</url>
+</hit>
+<hit score="1" id="1473659">
+<info><authors><author pid="127/7549">Giridhari Venkatadri</author><author pid="31/3833">Alan Mislove</author></authors><title>On the Potential for Discrimination via Composition.</title><venue>Internet Measurement Conference</venue><pages>333-344</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VenkatadriM20</key><doi>10.1145/3419394.3423641</doi><ee>https://doi.org/10.1145/3419394.3423641</ee><url>https://dblp.org/rec/conf/imc/VenkatadriM20</url></info>
+<url>URL#1473659</url>
+</hit>
+<hit score="1" id="1473660">
+<info><authors><author pid="249/1830">Anh V. Vu</author><author pid="261/2529-1">Jack Hughes 0001</author><author pid="161/1056">Ildiko Pete</author><author pid="170/0238">Ben Collier</author><author pid="248/1659">Yi Ting Chua 0001</author><author pid="213/8587">Ilia Shumailov</author><author pid="181/3695">Alice Hutchings</author></authors><title>Turning Up the Dial: the Evolution of a Cybercrime Market Through Set-up, Stable, and Covid-19 Eras.</title><venue>Internet Measurement Conference</venue><pages>551-566</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VuHPCCSH20</key><doi>10.1145/3419394.3423636</doi><ee>https://doi.org/10.1145/3419394.3423636</ee><url>https://dblp.org/rec/conf/imc/VuHPCCSH20</url></info>
+<url>URL#1473660</url>
+</hit>
+<hit score="1" id="1473661">
+<info><authors><author pid="248/0261">Gerry Wan</author><author pid="227/0738">Liz Izhikevich</author><author pid="150/5960">David Adrian</author><author pid="66/3013">Katsunari Yoshioka</author><author pid="42/1058">Ralph Holz</author><author pid="08/6024">Christian Rossow</author><author pid="143/5673">Zakir Durumeric</author></authors><title>On the Origin of Scanning: The Impact of Location on Internet-Wide Scans.</title><venue>Internet Measurement Conference</venue><pages>662-679</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/WanIAYHRD20</key><doi>10.1145/3419394.3424214</doi><ee>https://doi.org/10.1145/3419394.3424214</ee><url>https://dblp.org/rec/conf/imc/WanIAYHRD20</url></info>
+<url>URL#1473661</url>
+</hit>
+<hit score="1" id="1540256">
+<info><title>IMC &apos;20: ACM Internet Measurement Conference, Virtual Event, USA, October 27-29, 2020</title><venue>Internet Measurement Conference</venue><publisher>ACM</publisher><year>2020</year><type>Editorship</type><key>conf/imc/2020</key><doi>10.1145/3419394</doi><ee>https://doi.org/10.1145/3419394</ee><url>https://dblp.org/rec/conf/imc/2020</url></info>
+<url>URL#1540256</url>
+</hit>
+</hits>
+</result>

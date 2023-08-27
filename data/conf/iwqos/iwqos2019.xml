@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59655">:facetid:toc:\"db/conf/iwqos/iwqos2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">192.01</time>
+<completions total="1" computed="1" sent="1">
+<c sc="43" dc="43" oc="43" id="41051620">:facetid:toc:db/conf/iwqos/iwqos2019.bht</c>
+</completions>
+<hits total="43" computed="43" sent="43" first="0">
+<hit score="1" id="1915959">
+<info><authors><author pid="145/8541">Zehua Guo 0001</author><author pid="222/5921">Wendi Feng</author><author pid="91/3699-2">Sen Liu 0002</author><author pid="55/7618">Wenchao Jiang</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>RetroFlow: maintaining control resiliency and flow programmability for software-defined WANs.</title><venue>IWQoS</venue><pages>1:1-1:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/0001FLJXZ19</key><doi>10.1145/3326285.3329036</doi><ee>https://doi.org/10.1145/3326285.3329036</ee><url>https://dblp.org/rec/conf/iwqos/0001FLJXZ19</url></info>
+<url>URL#1915959</url>
+</hit>
+<hit score="1" id="1915960">
+<info><authors><author pid="09/8662">Hui Cai</author><author pid="41/4923-3">Fan Ye 0003</author><author pid="10/2031-1">Yuanyuan Yang 0001</author><author pid="02/6595">Yanmin Zhu</author><author pid="17/2703-2">Jie Li 0002</author></authors><title>Towards privacy-preserving data trading for web browsing history.</title><venue>IWQoS</venue><pages>25:1-25:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/Cai0YZL19</key><doi>10.1145/3326285.3329060</doi><ee>https://doi.org/10.1145/3326285.3329060</ee><url>https://dblp.org/rec/conf/iwqos/Cai0YZL19</url></info>
+<url>URL#1915960</url>
+</hit>
+<hit score="1" id="1915961">
+<info><authors><author pid="232/7964">Mahdi Dolati</author><author pid="78/4129">Majid Ghaderi</author><author pid="96/4551">Ahmad Khonsari</author></authors><title>Proactive inter-datacenter multicast with realtime and bulk transfers.</title><venue>IWQoS</venue><pages>24:1-24:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/DolatiGK19</key><doi>10.1145/3326285.3329059</doi><ee>https://doi.org/10.1145/3326285.3329059</ee><url>https://dblp.org/rec/conf/iwqos/DolatiGK19</url></info>
+<url>URL#1915961</url>
+</hit>
+<hit score="1" id="1915962">
+<info><authors><author pid="49/3073-4">Yifan Gong 0004</author><author pid="l/BaochunLi">Baochun Li</author><author pid="86/2829">Ben Liang 0001</author><author pid="156/4008-1">Zheng Zhan 0001</author></authors><title>Chic: experience-driven scheduling in machine learning clusters.</title><venue>IWQoS</venue><pages>30:1-30:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GongLLZ19</key><doi>10.1145/3326285.3329065</doi><ee>https://doi.org/10.1145/3326285.3329065</ee><url>https://dblp.org/rec/conf/iwqos/GongLLZ19</url></info>
+<url>URL#1915962</url>
+</hit>
+<hit score="1" id="1915963">
+<info><authors><author pid="95/5907">Jing Guo</author><author pid="243/0235">Zihao Chang</author><author pid="42/8496">Sa Wang</author><author pid="25/4799">Haiyang Ding</author><author pid="192/8535">Yihui Feng</author><author pid="96/8058">Liang Mao</author><author pid="08/6937">Yungang Bao</author></authors><title>Who limits the resource efficiency of my datacenter: an analysis of Alibaba datacenter traces.</title><venue>IWQoS</venue><pages>39:1-39:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GuoCWDFMB19</key><doi>10.1145/3326285.3329074</doi><ee>https://doi.org/10.1145/3326285.3329074</ee><url>https://dblp.org/rec/conf/iwqos/GuoCWDFMB19</url></info>
+<url>URL#1915963</url>
+</hit>
+<hit score="1" id="1915964">
+<info><authors><author pid="243/0215">Ruoyang Guo</author><author pid="05/4546">Bo Qin</author><author pid="172/5536">Yuncheng Wu</author><author pid="243/0195">Ruixuan Liu</author><author pid="52/4150-1">Hong Chen 0001</author><author pid="03/6827-1">Cuiping Li 0001</author></authors><title>MixGeo: efficient secure range queries on encrypted dense spatial data in the cloud.</title><venue>IWQoS</venue><pages>29:1-29:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GuoQWLCL19</key><doi>10.1145/3326285.3329064</doi><ee>https://doi.org/10.1145/3326285.3329064</ee><url>https://dblp.org/rec/conf/iwqos/GuoQWLCL19</url></info>
+<url>URL#1915964</url>
+</hit>
+<hit score="1" id="1915965">
+<info><authors><author pid="167/5933">Jiahui Hou</author><author pid="176/5924">Jianwei Qian</author><author pid="w/YuWang3">Yu Wang 0003</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="91/7389">Haohua Du</author><author pid="64/8022">Linlin Chen</author></authors><title>ML defense: against prediction API threats in cloud-based machine learning service.</title><venue>IWQoS</venue><pages>7:1-7:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HouQ0LDC19</key><doi>10.1145/3326285.3329042</doi><ee>https://doi.org/10.1145/3326285.3329042</ee><url>https://dblp.org/rec/conf/iwqos/HouQ0LDC19</url></info>
+<url>URL#1915965</url>
+</hit>
+<hit score="1" id="1915966">
+<info><authors><author pid="53/9131-1">Qin Hu 0001</author><author pid="79/5305-1">Shengling Wang 0001</author><author pid="c/XiuzhenCheng">Xiuzhen Cheng 0001</author></authors><title>A game theoretic analysis on block withholding attacks using the zero-determinant strategy.</title><venue>IWQoS</venue><pages>41:1-41:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/Hu0C19</key><doi>10.1145/3326285.3329076</doi><ee>https://doi.org/10.1145/3326285.3329076</ee><url>https://dblp.org/rec/conf/iwqos/Hu0C19</url></info>
+<url>URL#1915966</url>
+</hit>
+<hit score="1" id="1915967">
+<info><authors><author pid="167/1434">Zhiyao Hu</author><author pid="254/0830-1">Dongsheng Li 0001</author><author pid="76/5416-3">Yiming Zhang 0003</author><author pid="74/6501">Deke Guo</author><author pid="90/10939">Ziyang Li</author></authors><title>Branch scheduling: dag-aware scheduling for speeding up data-parallel jobs.</title><venue>IWQoS</venue><pages>36:1-36:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HuLZGL19</key><doi>10.1145/3326285.3329071</doi><ee>https://doi.org/10.1145/3326285.3329071</ee><url>https://dblp.org/rec/conf/iwqos/HuLZGL19</url></info>
+<url>URL#1915967</url>
+</hit>
+<hit score="1" id="1915968">
+<info><authors><author pid="40/5044-1">Xi Huang 0001</author><author pid="195/5744">Simeng Bian</author><author pid="98/549">Ziyu Shao</author><author pid="01/5265-1">Hong Xu 0001</author></authors><title>Predictive switch-controller association and control devolution for SDN systems.</title><venue>IWQoS</venue><pages>35:1-35:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HuangBSX19</key><doi>10.1145/3326285.3329070</doi><ee>https://doi.org/10.1145/3326285.3329070</ee><url>https://dblp.org/rec/conf/iwqos/HuangBSX19</url></info>
+<url>URL#1915968</url>
+</hit>
+<hit score="1" id="1915969">
+<info><authors><author pid="72/11367">Yunzhi Li</author><author pid="176/3482">Yidan Hu</author><author pid="60/2536-7">Rui Zhang 0007</author><author pid="83/888">Yanchao Zhang</author><author pid="88/1734">Terri Hedgpeth</author></authors><title>Secure indoor positioning against signal strength attacks via optimized multi-voting.</title><venue>IWQoS</venue><pages>33:1-33:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiHZZH19</key><doi>10.1145/3326285.3329068</doi><ee>https://doi.org/10.1145/3326285.3329068</ee><url>https://dblp.org/rec/conf/iwqos/LiHZZH19</url></info>
+<url>URL#1915969</url>
+</hit>
+<hit score="1" id="1915970">
+<info><authors><author pid="33/2805">Ang Li</author><author pid="75/4601">Tao Li</author><author pid="04/3348-91">Yan Zhang 0091</author><author pid="00/6528">Lili Zhang</author><author pid="83/888">Yanchao Zhang</author></authors><title>SocialDistance: how far are you from verified users in online social media?</title><venue>IWQoS</venue><pages>40:1-40:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiLZZZ19</key><doi>10.1145/3326285.3329075</doi><ee>https://doi.org/10.1145/3326285.3329075</ee><url>https://dblp.org/rec/conf/iwqos/LiLZZZ19</url></info>
+<url>URL#1915970</url>
+</hit>
+<hit score="1" id="1915971">
+<info><authors><author pid="59/2144">Juan Li</author><author pid="w/JieWu1">Jie Wu 0001</author><author pid="02/6595">Yanmin Zhu</author></authors><title>Selecting optimal mobile users for long-term environmental monitoring by crowdsourcing.</title><venue>IWQoS</venue><pages>8:1-8:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiWZ19</key><doi>10.1145/3326285.3329043</doi><ee>https://doi.org/10.1145/3326285.3329043</ee><url>https://dblp.org/rec/conf/iwqos/LiWZ19</url></info>
+<url>URL#1915971</url>
+</hit>
+<hit score="1" id="1915972">
+<info><authors><author pid="128/7756">Xinbo Liu</author><author pid="04/1262-2">Jiliang Zhang 0002</author><author pid="70/5926">Yaping Lin</author><author pid="05/4746">He Li</author></authors><title>ATMPA: attacking machine learning-based malware visualization detection methods via adversarial examples.</title><venue>IWQoS</venue><pages>38:1-38:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/Liu0LL19</key><doi>10.1145/3326285.3329073</doi><ee>https://doi.org/10.1145/3326285.3329073</ee><url>https://dblp.org/rec/conf/iwqos/Liu0LL19</url></info>
+<url>URL#1915972</url>
+</hit>
+<hit score="1" id="1915973">
+<info><authors><author pid="65/10314">Yutong Liu</author><author pid="23/7909">Linghe Kong</author><author pid="97/9976">Muhammad Hassan</author><author pid="49/225-5">Long Cheng 0005</author><author pid="79/1810">Guangtao Xue</author><author pid="51/1742">Guihai Chen</author></authors><title>Litedge: towards light-weight edge computing for efficient wireless surveillance system.</title><venue>IWQoS</venue><pages>31:1-31:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuKH0XC19</key><doi>10.1145/3326285.3329066</doi><ee>https://doi.org/10.1145/3326285.3329066</ee><url>https://dblp.org/rec/conf/iwqos/LiuKH0XC19</url></info>
+<url>URL#1915973</url>
+</hit>
+<hit score="1" id="1915974">
+<info><authors><author pid="243/0241">Liuyan Liu</author><author pid="02/3687">Haisheng Tan</author><author pid="157/6062">Shaofeng H.-C. Jiang</author><author pid="147/1606">Zhenhua Han</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="74/3859-1">Hong Huang 0001</author></authors><title>Dependent task placement and scheduling with function configuration in edge computing.</title><venue>IWQoS</venue><pages>20:1-20:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuTJHL019</key><doi>10.1145/3326285.3329055</doi><ee>https://doi.org/10.1145/3326285.3329055</ee><url>https://dblp.org/rec/conf/iwqos/LiuTJHL019</url></info>
+<url>URL#1915974</url>
+</hit>
+<hit score="1" id="1915975">
+<info><authors><author pid="21/2715-3">Lei Liu 0003</author><author pid="98/3011-3">Song Xu 0003</author><author pid="88/1307-1">Jia Hu 0001</author><author pid="82/5713">Lizhen Cui</author><author pid="96/3727">Geyong Min</author></authors><title>Balancing of the quality-of-service, energy and revenue of base stations in wireless networks via tullock contests.</title><venue>IWQoS</venue><pages>26:1-26:8</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuXHCM19</key><doi>10.1145/3326285.3329061</doi><ee>https://doi.org/10.1145/3326285.3329061</ee><url>https://dblp.org/rec/conf/iwqos/LiuXHCM19</url></info>
+<url>URL#1915975</url>
+</hit>
+<hit score="1" id="1915976">
+<info><authors><author pid="56/10016">Long Luo</author><author pid="125/2922">Klaus-Tycho Foerster</author><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="94/60">Hongfang Yu</author></authors><title>DaRTree: deadline-aware multicast transfers in reconfigurable wide-area networks.</title><venue>IWQoS</venue><pages>28:1-28:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LuoF0Y19</key><doi>10.1145/3326285.3329063</doi><ee>https://doi.org/10.1145/3326285.3329063</ee><url>https://dblp.org/rec/conf/iwqos/LuoF0Y19</url></info>
+<url>URL#1915976</url>
+</hit>
+<hit score="1" id="1915977">
+<info><authors><author pid="166/1871">Yuchuan Luo</author><author pid="j/XiaohuaJia">Xiaohua Jia</author><author pid="191/7808">Huayi Duan</author><author pid="18/2771-1">Cong Wang 0001</author><author pid="43/3362-2">Ming Xu 0002</author><author pid="98/902">Shaojing Fu</author></authors><title>pRide: private ride request for online ride hailing service with secure hardware enclave.</title><venue>IWQoS</venue><pages>27:1-27:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LuoJDWXF19</key><doi>10.1145/3326285.3329062</doi><ee>https://doi.org/10.1145/3326285.3329062</ee><url>https://dblp.org/rec/conf/iwqos/LuoJDWXF19</url></info>
+<url>URL#1915977</url>
+</hit>
+<hit score="1" id="1915978">
+<info><authors><author pid="26/11343">Tian Pan 0001</author><author pid="243/0192">Xingchen Lin</author><author pid="04/527-2">Jiao Zhang 0002</author><author pid="17/5705-11">Hao Li 0011</author><author pid="176/6529">Jianhui Lv</author><author pid="34/808-5">Tao Huang 0005</author><author pid="35/837-1">Bin Liu 0001</author><author pid="81/3293-1">Beichuan Zhang 0001</author></authors><title>NB-cache: non-blocking in-network caching for high-speed content routers.</title><venue>IWQoS</venue><pages>6:1-6:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/PanLZLLHLZ19</key><doi>10.1145/3326285.3329041</doi><ee>https://doi.org/10.1145/3326285.3329041</ee><url>https://dblp.org/rec/conf/iwqos/PanLZLLHLZ19</url></info>
+<url>URL#1915978</url>
+</hit>
+<hit score="1" id="1915979">
+<info><authors><author pid="243/0218">Chunyu Qiao</author><author pid="28/538">Gen Li</author><author pid="75/3699">Jiliang Wang</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>NEIVA: environment identification based video bitrate adaption in cellular networks.</title><venue>IWQoS</venue><pages>3:1-3:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/QiaoLWL19</key><doi>10.1145/3326285.3329038</doi><ee>https://doi.org/10.1145/3326285.3329038</ee><url>https://dblp.org/rec/conf/iwqos/QiaoLWL19</url></info>
+<url>URL#1915979</url>
+</hit>
+<hit score="1" id="1915980">
+<info><authors><author pid="181/2883">Yu Qiao</author><author pid="20/3894-15">Jun Wu 0015</author><author pid="97/8704-86">Lei Zhang 0086</author><author pid="07/146">Chongjun Wang</author></authors><title>Mechanism design for cross-market task crowdsourcing.</title><venue>IWQoS</venue><pages>9:1-9:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/QiaoWZW19</key><doi>10.1145/3326285.3329044</doi><ee>https://doi.org/10.1145/3326285.3329044</ee><url>https://dblp.org/rec/conf/iwqos/QiaoWZW19</url></info>
+<url>URL#1915980</url>
+</hit>
+<hit score="1" id="1915981">
+<info><authors><author pid="214/0431">Gengbiao Shen</author><author pid="181/2689-6">Qing Li 0006</author><author pid="74/1552-1">Yong Jiang 0001</author><author pid="99/6289">Richard O. Sinnott</author><author pid="54/208">Dong Lin</author><author pid="145/8541">Zehua Guo 0001</author><author pid="67/6649-4">Yi Wang 0004</author></authors><title>Chunk-level request-grant-transfer mode for QoE-sensitive video delivery in CDN.</title><venue>IWQoS</venue><pages>12:1-12:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShenLJSL0W19</key><doi>10.1145/3326285.3329047</doi><ee>https://doi.org/10.1145/3326285.3329047</ee><url>https://dblp.org/rec/conf/iwqos/ShenLJSL0W19</url></info>
+<url>URL#1915981</url>
+</hit>
+<hit score="1" id="1915982">
+<info><authors><author pid="122/1520">Jiajie Shen</author><author pid="59/871">Yi Li</author><author pid="27/6390">Yangfan Zhou</author><author pid="10/5630-2">Xin Wang 0002</author></authors><title>Understanding I/O performance of IPFS storage: a client&apos;s perspective.</title><venue>IWQoS</venue><pages>17:1-17:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShenLZW19</key><doi>10.1145/3326285.3329052</doi><ee>https://doi.org/10.1145/3326285.3329052</ee><url>https://dblp.org/rec/conf/iwqos/ShenLZW19</url></info>
+<url>URL#1915982</url>
+</hit>
+<hit score="1" id="1915983">
+<info><authors><author pid="03/8774-1">Meng Shen 0001</author><author pid="119/1034">Jinpeng Zhang</author><author pid="26/2546">Liehuang Zhu</author><author pid="181/2626-2">Ke Xu 0002</author><author pid="22/5535">Xiaojiang Du</author><author pid="140/1612">Yiting Liu</author></authors><title>Encrypted traffic classification of decentralized applications on ethereum using feature fusion.</title><venue>IWQoS</venue><pages>18:1-18:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShenZZ0DL19</key><doi>10.1145/3326285.3329053</doi><ee>https://doi.org/10.1145/3326285.3329053</ee><url>https://dblp.org/rec/conf/iwqos/ShenZZ0DL19</url></info>
+<url>URL#1915983</url>
+</hit>
+<hit score="1" id="1915984">
+<info><authors><author pid="243/0217">Wanxin Shi</author><author pid="181/2689-6">Qing Li 0006</author><author pid="188/7759">Chao Wang</author><author pid="214/0431">Gengbiao Shen</author><author pid="94/1464-1">Weichao Li 0001</author><author pid="22/0">Yu Wu</author><author pid="74/1552-1">Yong Jiang 0001</author></authors><title>LEAP: learning-based smart edge with caching and prefetching for adaptive video streaming.</title><venue>IWQoS</venue><pages>16:1-16:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShiLWSLWJ19</key><doi>10.1145/3326285.3329051</doi><ee>https://doi.org/10.1145/3326285.3329051</ee><url>https://dblp.org/rec/conf/iwqos/ShiLWSLWJ19</url></info>
+<url>URL#1915984</url>
+</hit>
+<hit score="1" id="1915985">
+<info><authors><author pid="62/7578">Ya Su</author><author pid="41/3820">Youjian Zhao</author><author pid="179/4531">Wentao Xia</author><author pid="68/437">Rong Liu</author><author pid="159/1721">Jiahao Bu</author><author pid="93/4160">Jing Zhu</author><author pid="243/0230">Yuanpu Cao</author><author pid="03/1777">Haibin Li</author><author pid="243/0228">Chenhao Niu</author><author pid="243/0188">Yiyin Zhang</author><author pid="72/7693">Zhaogang Wang</author><author pid="p/DanPei">Dan Pei</author></authors><title>CoFlux: robustly correlating KPIs by fluctuations for service troubleshooting.</title><venue>IWQoS</venue><pages>13:1-13:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/SuZXLBZCLNZWP19</key><doi>10.1145/3326285.3329048</doi><ee>https://doi.org/10.1145/3326285.3329048</ee><url>https://dblp.org/rec/conf/iwqos/SuZXLBZCLNZWP19</url></info>
+<url>URL#1915985</url>
+</hit>
+<hit score="1" id="1915986">
+<info><authors><author pid="176/5940">Heyi Tang</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="82/4905">Jianping Wu</author><author pid="y/XiaoweiYang">Xiaowei Yang 0001</author><author pid="164/3739">Zhenjie Yang</author></authors><title>Trigger relationship aware mobile traffic classification.</title><venue>IWQoS</venue><pages>15:1-15:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/Tang0WYY19</key><doi>10.1145/3326285.3329050</doi><ee>https://doi.org/10.1145/3326285.3329050</ee><url>https://dblp.org/rec/conf/iwqos/Tang0WYY19</url></info>
+<url>URL#1915986</url>
+</hit>
+<hit score="1" id="1915987">
+<info><authors><author pid="89/4432">Xiong Wang</author><author pid="23/7909">Linghe Kong</author><author pid="189/4635">Jintao Wu</author><author pid="95/6947-1">Xiaofeng Gao 0001</author><author pid="21/5494">Hang Wang</author><author pid="51/1742">Guihai Chen</author></authors><title>mmHandover: a pre-connection based handover protocol for 5G millimeter wave vehicular networks.</title><venue>IWQoS</venue><pages>2:1-2:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/WangKWGWC19</key><doi>10.1145/3326285.3329037</doi><ee>https://doi.org/10.1145/3326285.3329037</ee><url>https://dblp.org/rec/conf/iwqos/WangKWGWC19</url></info>
+<url>URL#1915987</url>
+</hit>
+<hit score="1" id="1915988">
+<info><authors><author pid="142/0351">Fangxin Wang 0001</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author><author pid="11/3249-1">Wei Gong 0001</author></authors><title>WiCAR: wifi-based in-car activity recognition with multi-adversarial domain adaptation.</title><venue>IWQoS</venue><pages>19:1-19:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/WangLG19</key><doi>10.1145/3326285.3329054</doi><ee>https://doi.org/10.1145/3326285.3329054</ee><url>https://dblp.org/rec/conf/iwqos/WangLG19</url></info>
+<url>URL#1915988</url>
+</hit>
+<hit score="1" id="1915989">
+<info><authors><author pid="133/5336-1">Chong Xiang 0001</author><author pid="68/1277">Xinyu Wang</author><author pid="199/3661">Qingrong Chen</author><author pid="166/1912">Minhui Xue</author><author pid="76/9975">Zhaoyu Gao</author><author pid="22/5702">Haojin Zhu</author><author pid="35/6761">Cailian Chen</author><author pid="243/0194">Qiuhua Fan</author></authors><title>No-jump-into-latency in China&apos;s internet!: toward last-mile hop count based IP geo-localization.</title><venue>IWQoS</venue><pages>42:1-42:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/XiangWCXGZCF19</key><doi>10.1145/3326285.3329077</doi><ee>https://doi.org/10.1145/3326285.3329077</ee><url>https://dblp.org/rec/conf/iwqos/XiangWCXGZCF19</url></info>
+<url>URL#1915989</url>
+</hit>
+<hit score="1" id="1915990">
+<info><authors><author pid="203/0759">Yikai Xiao</author><author pid="151/8940">Qixia Zhang</author><author pid="31/6019">Fangming Liu</author><author pid="58/6299-9">Jia Wang 0009</author><author pid="55/698">Miao Zhao</author><author pid="201/3438">Zhongxing Zhang</author><author pid="131/6330">Jiaxing Zhang</author></authors><title>NFVdeep: adaptive online service function chain deployment with deep reinforcement learning.</title><venue>IWQoS</venue><pages>21:1-21:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/XiaoZLWZZZ19</key><doi>10.1145/3326285.3329056</doi><ee>https://doi.org/10.1145/3326285.3329056</ee><url>https://dblp.org/rec/conf/iwqos/XiaoZLWZZZ19</url></info>
+<url>URL#1915990</url>
+</hit>
+<hit score="1" id="1915991">
+<info><authors><author pid="175/6129">Xianghao Xu</author><author pid="35/5625-1">Fang Wang 0001</author><author pid="16/3631-1">Hong Jiang 0001</author><author pid="174/2042">Yongli Cheng</author><author pid="52/3115-1">Yu Hua 0001</author><author pid="48/5939-1">Dan Feng 0001</author><author pid="224/2392">Yongxuan Zhang</author></authors><title>LOSC: efficient out-of-core graph processing with locality-optimized subgraph construction.</title><venue>IWQoS</venue><pages>34:1-34:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/Xu00C00Z19</key><doi>10.1145/3326285.3329069</doi><ee>https://doi.org/10.1145/3326285.3329069</ee><url>https://dblp.org/rec/conf/iwqos/Xu00C00Z19</url></info>
+<url>URL#1915991</url>
+</hit>
+<hit score="1" id="1915992">
+<info><authors><author pid="57/7992-1">Zichen Xu 0001</author><author pid="99/1798">Christopher Stewart</author><author pid="243/0219">Jiacheng Huang</author></authors><title>Elastic, geo-distributed RAFT.</title><venue>IWQoS</venue><pages>11:1-11:9</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/XuSH19</key><doi>10.1145/3326285.3329046</doi><ee>https://doi.org/10.1145/3326285.3329046</ee><url>https://dblp.org/rec/conf/iwqos/XuSH19</url></info>
+<url>URL#1915992</url>
+</hit>
+<hit score="1" id="1915993">
+<info><authors><author pid="x/KuaiXu">Kuai Xu</author><author pid="224/0803">Yinxin Wan</author><author pid="64/4394">Guoliang Xue</author><author pid="w/FengWang2">Feng Wang 0002</author></authors><title>Multidimensional behavioral profiling of internet-of-things in edge networks.</title><venue>IWQoS</venue><pages>37:1-37:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/XuWXW19</key><doi>10.1145/3326285.3329072</doi><ee>https://doi.org/10.1145/3326285.3329072</ee><url>https://dblp.org/rec/conf/iwqos/XuWXW19</url></info>
+<url>URL#1915993</url>
+</hit>
+<hit score="1" id="1915994">
+<info><authors><author pid="199/9992">Jing&apos;an Xue</author><author pid="227/7193">Weizhen Dang</author><author pid="71/3583">Haibo Wang</author><author pid="18/6008-1">Jilong Wang 0001</author><author pid="79/2151">Hui Wang 0011</author></authors><title>Evaluating performance and inefficient routing of an anycast CDN.</title><venue>IWQoS</venue><pages>14:1-14:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/XueDWWW19</key><doi>10.1145/3326285.3329049</doi><ee>https://doi.org/10.1145/3326285.3329049</ee><url>https://dblp.org/rec/conf/iwqos/XueDWWW19</url></info>
+<url>URL#1915994</url>
+</hit>
+<hit score="1" id="1915995">
+<info><authors><author pid="213/1007">Xiangrui Yang</author><author pid="20/3089">Zhigang Sun</author><author pid="193/6773-2">Junnan Li 0002</author><author pid="142/2046">Jinli Yan</author><author pid="75/4601-8">Tao Li 0008</author><author pid="67/5376-4">Wei Quan 0004</author><author pid="65/4133">Donglai Xu</author><author pid="00/4948">Gianni Antichi</author></authors><title>FAST: enabling fast software/hardware prototype for network experimentation.</title><venue>IWQoS</venue><pages>32:1-32:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/YangSLYLQXA19</key><doi>10.1145/3326285.3329067</doi><ee>https://doi.org/10.1145/3326285.3329067</ee><url>https://dblp.org/rec/conf/iwqos/YangSLYLQXA19</url></info>
+<url>URL#1915995</url>
+</hit>
+<hit score="1" id="1915996">
+<info><authors><author pid="15/1308">Shiwei Zhang</author><author pid="94/1464-1">Weichao Li 0001</author><author pid="144/7556">Daoyuan Wu</author><author pid="74/3468-2">Bo Jin 0002</author><author pid="87/4986">Rocky K. C. Chang</author><author pid="60/206">Debin Gao</author><author pid="67/6649-4">Yi Wang 0004</author><author pid="68/9978">Ricky K. P. Mok</author></authors><title>An empirical study of mobile network behavior and application performance in the wild.</title><venue>IWQoS</venue><pages>4:1-4:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangLWJCGWM19</key><doi>10.1145/3326285.3329039</doi><ee>https://doi.org/10.1145/3326285.3329039</ee><url>https://dblp.org/rec/conf/iwqos/ZhangLWJCGWM19</url></info>
+<url>URL#1915996</url>
+</hit>
+<hit score="1" id="1915997">
+<info><authors><author pid="82/10609-49">Lu Zhang 0049</author><author pid="66/190-9">Chao Li 0009</author><author pid="233/6773-3">Pengyu Wang 0003</author><author pid="55/3521">Yunxin Liu</author><author pid="43/4685-1">Yang Hu 0001</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="99/6797">Minyi Guo</author></authors><title>Characterizing and orchestrating NFV-ready servers for efficient edge data processing.</title><venue>IWQoS</venue><pages>22:1-22:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangLWLHCG19</key><doi>10.1145/3326285.3329057</doi><ee>https://doi.org/10.1145/3326285.3329057</ee><url>https://dblp.org/rec/conf/iwqos/ZhangLWLHCG19</url></info>
+<url>URL#1915997</url>
+</hit>
+<hit score="1" id="1915998">
+<info><authors><author pid="51/4138-11">Yi Zhao 0011</author><author pid="89/1838">Hui Su</author><author pid="50/6759">Liang Zhang</author><author pid="23/2060-2">Dan Wang 0002</author><author pid="181/2626-2">Ke Xu 0002</author></authors><title>Variety matters: a new model for the wireless data market under sponsored data plans.</title><venue>IWQoS</venue><pages>23:1-23:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhaoSZWX19</key><doi>10.1145/3326285.3329058</doi><ee>https://doi.org/10.1145/3326285.3329058</ee><url>https://dblp.org/rec/conf/iwqos/ZhaoSZWX19</url></info>
+<url>URL#1915998</url>
+</hit>
+<hit score="1" id="1915999">
+<info><authors><author pid="162/1613">Jiaqi Zheng</author><author pid="229/8840">Qiufang Ma</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="124/6911">Haipeng Dai</author><author pid="10/4661">Wei Zhang</author><author pid="51/1742">Guihai Chen</author><author pid="77/6324">Gong Zhang</author></authors><title>Orchestrating service chain deployment with plutus in next generation cellular core.</title><venue>IWQoS</venue><pages>10:1-10:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhengMTDZCZ19</key><doi>10.1145/3326285.3329045</doi><ee>https://doi.org/10.1145/3326285.3329045</ee><url>https://dblp.org/rec/conf/iwqos/ZhengMTDZCZ19</url></info>
+<url>URL#1915999</url>
+</hit>
+<hit score="1" id="1916000">
+<info><authors><author pid="36/2728-8">Yu Zhou 0008</author><author pid="79/3662">Jun Bi</author><author pid="229/8795">Yunsenxiao Lin</author><author pid="20/8967-1">Yangyang Wang 0001</author><author pid="03/10352">Dai Zhang</author><author pid="243/0209">Zhaowei Xi</author><author pid="224/2165">Jiamin Cao</author><author pid="01/6072-5">Chen Sun 0005</author></authors><title>P4Tester: efficient runtime rule fault detection for programmable data planes.</title><venue>IWQoS</venue><pages>5:1-5:10</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhouBLWZXCS19</key><doi>10.1145/3326285.3329040</doi><ee>https://doi.org/10.1145/3326285.3329040</ee><url>https://dblp.org/rec/conf/iwqos/ZhouBLWZXCS19</url></info>
+<url>URL#1916000</url>
+</hit>
+<hit score="1" id="1973108">
+<info><title>Proceedings of the International Symposium on Quality of Service, IWQoS 2019, Phoenix, AZ, USA, June 24-25, 2019.</title><venue>IWQoS</venue><publisher>ACM</publisher><year>2019</year><type>Editorship</type><key>conf/iwqos/2019</key><doi>10.1145/3326285</doi><ee>https://doi.org/10.1145/3326285</ee><url>https://dblp.org/rec/conf/iwqos/2019</url></info>
+<url>URL#1973108</url>
+</hit>
+</hits>
+</result>

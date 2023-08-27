@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59665">:facetid:toc:\"db/conf/iwqos/iwqos2023.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">188.33</time>
+<completions total="1" computed="1" sent="1">
+<c sc="79" dc="79" oc="79" id="41051624">:facetid:toc:db/conf/iwqos/iwqos2023.bht</c>
+</completions>
+<hits total="79" computed="79" sent="79" first="0">
+<hit score="1" id="176394">
+<info><authors><author pid="40/3858-3">Quan Chen 0003</author><author pid="01/267-1">Song Guo 0001</author><author pid="96/8862-1">Wenchao Xu 0001</author><author pid="181/2820-93">Jing Li 0093</author><author pid="23/4850">Tuo Shi</author><author pid="14/5155-1">Zhipeng Cai 0001</author><author pid="32/1438-1">Hong Gao 0001</author></authors><title>Optimizing Average AoI with Directional Charging for Wireless-Powered Network Edge.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ChenGXLSCG23</key><doi>10.1109/IWQOS57198.2023.10188771</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188771</ee><url>https://dblp.org/rec/conf/iwqos/ChenGXLSCG23</url></info>
+<url>URL#176394</url>
+</hit>
+<hit score="1" id="176395">
+<info><authors><author pid="197/6182">Xintong Chen</author><author pid="129/1363">Jiangbin Lyu</author><author pid="26/5892-1">Liqun Fu 0001</author></authors><title>IRS-Aided Sectorized Base Station Design and 3D Coverage Performance Analysis.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ChenLF23</key><doi>10.1109/IWQOS57198.2023.10188723</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188723</ee><url>https://dblp.org/rec/conf/iwqos/ChenLF23</url></info>
+<url>URL#176395</url>
+</hit>
+<hit score="1" id="176396">
+<info><authors><author pid="200/0201">Zixuan Chen</author><author pid="29/563">Lei Shi</author><author pid="266/7436">Xuandong Liu</author><author pid="346/7972">Xin Ai 0008</author><author pid="91/3699">Sen Liu</author><author pid="61/3906-10">Yang Xu 0010</author></authors><title>Boosting Distributed Machine Learning Training Through Loss-tolerant Transmission Protocol.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ChenSLALX23</key><doi>10.1109/IWQOS57198.2023.10188699</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188699</ee><url>https://dblp.org/rec/conf/iwqos/ChenSLALX23</url></info>
+<url>URL#176396</url>
+</hit>
+<hit score="1" id="176397">
+<info><authors><author pid="237/7601">Xia Cheng</author><author pid="70/5884">Mo Sha 0001</author></authors><title>Meta-Learning Based Runtime Adaptation for Industrial Wireless Sensor-Actuator Networks.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ChengS23</key><doi>10.1109/IWQOS57198.2023.10188720</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188720</ee><url>https://dblp.org/rec/conf/iwqos/ChengS23</url></info>
+<url>URL#176397</url>
+</hit>
+<hit score="1" id="176398">
+<info><authors><author pid="354/1334">Kunpeng Ding</author><author pid="244/8337">Jiayu Yang</author><author pid="193/3073">Jiangping Han</author><author pid="133/8721">Bobo Wang</author><author pid="06/7035">Ruidong Li</author><author pid="94/5600">Kaiping Xue</author></authors><title>RPBV: Reputation-Based Probabilistic Batch Verification Scheme for Named Data Networking.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/DingYHWLX23</key><doi>10.1109/IWQOS57198.2023.10188736</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188736</ee><url>https://dblp.org/rec/conf/iwqos/DingYHWLX23</url></info>
+<url>URL#176398</url>
+</hit>
+<hit score="1" id="176399">
+<info><authors><author pid="276/2394">Songshi Dou</author><author pid="246/9290">Yongchao He</author><author pid="91/3699-2">Sen Liu 0002</author><author pid="55/8398">Wenfei Wu</author><author pid="145/8541">Zehua Guo 0001</author></authors><title>RateSheriff: Multipath Flow-aware and Resource Efficient Rate Limiter Placement for Data Center Networks.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/DouHLWG23</key><doi>10.1109/IWQOS57198.2023.10188742</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188742</ee><url>https://dblp.org/rec/conf/iwqos/DouHLWG23</url></info>
+<url>URL#176399</url>
+</hit>
+<hit score="1" id="176400">
+<info><authors><author pid="238/8673">Linna Fan</author><author pid="73/2845-4">Lin He 0004</author><author pid="37/9540">Xiaoqing Sun</author><author pid="139/2623">Enhuan Dong</author><author pid="62/2814-1">Jiahai Yang 0001</author><author pid="58/5311">Zhiliang Wang</author><author pid="295/5881">Jinlei Lin</author><author pid="75/9109">Guanglei Song</author></authors><title>GraphIoT: Accurate IoT Identification based on Heterogeneous Graph.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/FanHSDYWLS23</key><doi>10.1109/IWQOS57198.2023.10188710</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188710</ee><url>https://dblp.org/rec/conf/iwqos/FanHSDYWLS23</url></info>
+<url>URL#176400</url>
+</hit>
+<hit score="1" id="176401">
+<info><authors><author pid="128/7669">Jin Fang</author><author pid="201/1240">Gongming Zhao</author><author pid="22/1748">Hongli Xu</author><author pid="186/9734">Zhuolong Yu</author><author pid="354/0978">Bingchen Shen</author><author pid="96/7692">Liguang Xie</author></authors><title>GOAT: Gradient Scheduling with Collaborative In-Network Aggregation for Distributed Training.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/FangZXYSX23</key><doi>10.1109/IWQOS57198.2023.10188783</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188783</ee><url>https://dblp.org/rec/conf/iwqos/FangZXYSX23</url></info>
+<url>URL#176401</url>
+</hit>
+<hit score="1" id="176402">
+<info><authors><author pid="183/8123">Guoju Gao</author><author pid="75/4947-1">He Huang 0001</author><author pid="w/JieWu1">Jie Wu 0001</author><author pid="182/9063">Sijie Huang</author><author pid="51/3199-6">Yang Du 0006</author></authors><title>You Can Trade Your Experience in Distributed Multi-Agent Multi-Armed Bandits.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GaoHWHD23</key><doi>10.1109/IWQOS57198.2023.10188755</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188755</ee><url>https://dblp.org/rec/conf/iwqos/GaoHWHD23</url></info>
+<url>URL#176402</url>
+</hit>
+<hit score="1" id="176403">
+<info><authors><author pid="183/8123">Guoju Gao</author><author pid="343/5945">Zhaorong Qian</author><author pid="75/4947-1">He Huang 0001</author><author pid="51/3199-6">Yang Du 0006</author></authors><title>An Adaptive Counter-Splicing-Based Sketch for Efficient Per-Flow Size Measurement.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GaoQHD23</key><doi>10.1109/IWQOS57198.2023.10188733</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188733</ee><url>https://dblp.org/rec/conf/iwqos/GaoQHD23</url></info>
+<url>URL#176403</url>
+</hit>
+<hit score="1" id="176404">
+<info><authors><author pid="137/0080">Ruipeng Gao</author><author pid="273/9535">Haoyue Zhao</author><author pid="183/6510">Zonglin Xie</author><author pid="176/8147">Ru Zhao</author><author pid="80/4888">Dan Tao</author></authors><title>Energy-Efficient Transmission Scheduling with Guaranteed Data Imputation in MHealth Systems.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GaoZXZT23</key><doi>10.1109/IWQOS57198.2023.10188705</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188705</ee><url>https://dblp.org/rec/conf/iwqos/GaoZXZT23</url></info>
+<url>URL#176404</url>
+</hit>
+<hit score="1" id="176405">
+<info><authors><author pid="257/1688">Shuxin Ge</author><author pid="13/6395-3">Xiaobo Zhou 0003</author><author pid="53/9359">Tie Qiu 0001</author><author pid="135/6954">Guobin Wu</author><author pid="11/649">Xiaotong Wang</author></authors><title>ElasticShare: Ridesharing Order Dispatching with Dynamic Supply-demand Distribution.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GeZQWW23</key><doi>10.1109/IWQOS57198.2023.10188764</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188764</ee><url>https://dblp.org/rec/conf/iwqos/GeZQWW23</url></info>
+<url>URL#176405</url>
+</hit>
+<hit score="1" id="176406">
+<info><authors><author pid="332/3138">Yantao Geng</author><author pid="26/4189-9">Han Zhang 0009</author><author pid="93/5648">Xingang Shi</author><author pid="18/6008-1">Jilong Wang 0001</author><author pid="77/5776">Xia Yin</author><author pid="224/0751">Dongbiao He</author><author pid="92/9401">Yahui Li</author></authors><title>Delay Based Congestion Control for Cross-Datacenter Networks.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GengZSWYHL23</key><doi>10.1109/IWQOS57198.2023.10188700</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188700</ee><url>https://dblp.org/rec/conf/iwqos/GengZSWYHL23</url></info>
+<url>URL#176406</url>
+</hit>
+<hit score="1" id="176407">
+<info><authors><author pid="39/1859">Rong Gu</author><author pid="79/10364">Jiajia Wei</author><author pid="181/2815">Xu Wang</author><author pid="07/3313">Jiahui Wang</author><author pid="124/6911">Haipeng Dai</author><author pid="162/1613">Jiaqi Zheng</author><author pid="354/0583">Baolong Mao</author><author pid="50/4147">Yihua Huang</author></authors><title>Magpie: Efficient Big Data Query System Parameter Optimization based on Pre-selection and Search Pruning Approach.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/GuWWWDZMH23</key><doi>10.1109/IWQOS57198.2023.10188737</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188737</ee><url>https://dblp.org/rec/conf/iwqos/GuWWWDZMH23</url></info>
+<url>URL#176407</url>
+</hit>
+<hit score="1" id="176408">
+<info><authors><author pid="344/9525">Xueqiang Han</author><author pid="96/9826">Biao Han</author><author pid="06/7035">Ruidong Li</author><author pid="03/8230">Xiaolan Ji</author></authors><title>MARS: An Adaptive Multi-Agent DRL-based Scheduler for Multipath QUIC in Dynamic Networks.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HanHLJ23</key><doi>10.1109/IWQOS57198.2023.10188744</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188744</ee><url>https://dblp.org/rec/conf/iwqos/HanHLJ23</url></info>
+<url>URL#176408</url>
+</hit>
+<hit score="1" id="176409">
+<info><authors><author pid="238/6458">Walid A. Hanafy</author><author pid="68/6610">Limin Wang</author><author pid="50/2529">Hyunseok Chang</author><author pid="72/5978">Sarit Mukherjee</author><author pid="43/2247">T. V. Lakshman</author><author pid="s/PrashantJShenoy">Prashant J. Shenoy</author></authors><title>Understanding the Benefits of Hardware-Accelerated Communication in Model-Serving Applications.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HanafyWCMLS23</key><doi>10.1109/IWQOS57198.2023.10188785</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188785</ee><url>https://dblp.org/rec/conf/iwqos/HanafyWCMLS23</url></info>
+<url>URL#176409</url>
+</hit>
+<hit score="1" id="176410">
+<info><authors><author pid="289/8658">Shichang He</author><author pid="13/5407-1">Xuan Liu 0001</author><author pid="94/689">Shigeng Zhang</author><author pid="53/1330">Juan Luo</author></authors><title>A Few-shot-learning-based Method to Object Recognition in Multiple Scenarios.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HeLZL23</key><doi>10.1109/IWQOS57198.2023.10188702</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188702</ee><url>https://dblp.org/rec/conf/iwqos/HeLZL23</url></info>
+<url>URL#176410</url>
+</hit>
+<hit score="1" id="176411">
+<info><authors><author pid="252/1469">Yangfan Huang</author><author pid="55/5255">Yuling Lin</author><author pid="48/10264">Haizhou Du</author><author pid="172/4497">Yijian Chen</author><author pid="50/6802">Haohao Song</author><author pid="23/7909">Linghe Kong</author><author pid="77/7791">Qiao Xiang</author><author pid="72/872">Qiang Li</author><author pid="38/2945">Franck Le</author><author pid="60/3690">Jiwu Shu</author></authors><title>Toward a Unified Framework for Verifying and Interpreting Learning-Based Networking Systems.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HuangLDCSKXLLS23</key><doi>10.1109/IWQOS57198.2023.10188716</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188716</ee><url>https://dblp.org/rec/conf/iwqos/HuangLDCSKXLLS23</url></info>
+<url>URL#176411</url>
+</hit>
+<hit score="1" id="176412">
+<info><authors><author pid="83/179">Huawei Huang</author><author pid="311/4182">Yetong Zhao</author><author pid="z/ZibinZheng">Zibin Zheng</author></authors><title>tMPT: Reconfiguration across Blockchain Shards via Trimmed Merkle Patricia Trie.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/HuangZZ23</key><doi>10.1109/IWQOS57198.2023.10188757</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188757</ee><url>https://dblp.org/rec/conf/iwqos/HuangZZ23</url></info>
+<url>URL#176412</url>
+</hit>
+<hit score="1" id="176413">
+<info><authors><author pid="296/1291">Jananie Jarachanthan</author><author pid="c/LiChen19">Li Chen 0019</author><author pid="42/5065">Fei Xu</author></authors><title>ACTS: Autonomous Cost-Efficient Task Orchestration for Serverless Analytics.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/JarachanthanCX23</key><doi>10.1109/IWQOS57198.2023.10188782</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188782</ee><url>https://dblp.org/rec/conf/iwqos/JarachanthanCX23</url></info>
+<url>URL#176413</url>
+</hit>
+<hit score="1" id="176414">
+<info><authors><author pid="262/1053">Mingtao Ji</author><author pid="354/0243">Chenwei Su</author><author pid="219/6111">Yuting Yan</author><author pid="96/2572">Zhuzhong Qian</author><author pid="69/6137-1">Sheng Zhang 0001</author><author pid="87/1254-38">Yu Chen 0038</author><author pid="296/4868">Tuo Cao</author><author pid="343/2108">Xiaohang Shi</author><author pid="354/0463">Luis Vasquez</author><author pid="69/5116">Baoliu Ye</author></authors><title>Adaptive Provisioning In-band Network Telemetry at Computing Power Network [invited].</title><venue>IWQoS</venue><pages>1-2</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/JiSYQZCCSVY23</key><doi>10.1109/IWQOS57198.2023.10188738</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188738</ee><url>https://dblp.org/rec/conf/iwqos/JiSYQZCCSVY23</url></info>
+<url>URL#176414</url>
+</hit>
+<hit score="1" id="176415">
+<info><authors><author pid="210/0343">Dezhang Kong</author><author pid="239/2971">Zhengyan Zhou</author><author pid="18/1762">Yi Shen</author><author pid="64/3062">Xiang Chen</author><author pid="188/5659">Qiumei Cheng</author><author pid="68/3245">Dong Zhang</author><author pid="97/8329-1">Chunming Wu 0001</author></authors><title>In-band Network Telemetry Manipulation Attacks and Countermeasures in Programmable Networks.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/KongZSCCZW23</key><doi>10.1109/IWQOS57198.2023.10188809</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188809</ee><url>https://dblp.org/rec/conf/iwqos/KongZSCCZW23</url></info>
+<url>URL#176415</url>
+</hit>
+<hit score="1" id="176416">
+<info><authors><author pid="252/1017">Lingang Li</author><author pid="143/0948-1">Yongrui Chen 0001</author><author pid="89/6527">Zhijun Li</author></authors><title>Small Chunks can Talk: Fast Bandwidth Estimation without Filling up the Bottleneck Link.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiCL23</key><doi>10.1109/IWQOS57198.2023.10188775</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188775</ee><url>https://dblp.org/rec/conf/iwqos/LiCL23</url></info>
+<url>URL#176416</url>
+</hit>
+<hit score="1" id="176417">
+<info><authors><author pid="50/3993">Xiaodong Li</author><author pid="235/9564">Zhuochen Fan</author><author pid="12/10840">Haoyu Li</author><author pid="69/7279">Zheng Zhong</author><author pid="326/9040">Jiarui Guo</author><author pid="285/4822">Sheng Long</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="55/5031">Bin Cui 0001</author></authors><title>SteadySketch: Finding Steady Flows in Data Streams.</title><venue>IWQoS</venue><pages>1-9</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiFLZGLYC23</key><doi>10.1109/IWQOS57198.2023.10188743</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188743</ee><url>https://dblp.org/rec/conf/iwqos/LiFLZGLYC23</url></info>
+<url>URL#176417</url>
+</hit>
+<hit score="1" id="176418">
+<info><authors><author pid="21/1600">Jingyi Li</author><author pid="325/4642">Guangjing Huang</author><author pid="241/6945">Liekang Zeng</author><author pid="13/3479">Lin Chen</author><author pid="83/6331">Xu Chen</author></authors><title>Chained-DP: Can We Recycle Privacy Budget?</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiHZCC23</key><doi>10.1109/IWQOS57198.2023.10188774</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188774</ee><url>https://dblp.org/rec/conf/iwqos/LiHZCC23</url></info>
+<url>URL#176418</url>
+</hit>
+<hit score="1" id="176419">
+<info><authors><author pid="83/7820">Chenglong Li</author><author pid="75/4601">Tao Li</author><author pid="193/6773-2">Junnan Li 0002</author><author pid="170/9943">Wenwen Fu</author><author pid="96/5513">Baosheng Wang</author></authors><title>DRA: Ultra-Low Latency Network I/O for TSN Embedded End-Systems.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiLLFW23</key><doi>10.1109/IWQOS57198.2023.10188749</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188749</ee><url>https://dblp.org/rec/conf/iwqos/LiLLFW23</url></info>
+<url>URL#176419</url>
+</hit>
+<hit score="1" id="176420">
+<info><authors><author pid="163/8958">Weicheng Li</author><author pid="65/4062-5">Hui Lu 0005</author><author pid="23/4511">Yanbin Sun</author><author pid="36/10365">Shen Su</author><author pid="20/1461-2">Jing Qiu 0002</author><author pid="73/5444">Zhihong Tian</author></authors><title>Improving Precision of Detecting Deserialization Vulnerabilities with Bytecode Analysis.</title><venue>IWQoS</venue><pages>1-2</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiLSSQT23</key><doi>10.1109/IWQOS57198.2023.10188756</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188756</ee><url>https://dblp.org/rec/conf/iwqos/LiLSSQT23</url></info>
+<url>URL#176420</url>
+</hit>
+<hit score="1" id="176421">
+<info><authors><author pid="17/5705">Hao Li</author><author pid="192/2270">Xianghang Mi</author><author pid="162/5595">Yanzhi Dou</author><author pid="47/401">Shanqing Guo</author></authors><title>An Empirical Study of Storj DCS: Ecosystem, Performance, and Security.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiMDG23</key><doi>10.1109/IWQOS57198.2023.10188691</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188691</ee><url>https://dblp.org/rec/conf/iwqos/LiMDG23</url></info>
+<url>URL#176421</url>
+</hit>
+<hit score="1" id="176422">
+<info><authors><author pid="204/7098">Yuzhu Liang</author><author pid="73/5443">Wenhua Wang</author><author pid="30/338">Xi Zheng</author><author pid="06/2123-1">Qin Liu 0001</author><author pid="56/4499">Liang Wang</author><author pid="25/3246-1">Tian Wang 0001</author></authors><title>Collaborative Edge Service Placement for Maximizing QoS with Distributed Data Cleaning.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiangWZLWW23</key><doi>10.1109/IWQOS57198.2023.10188694</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188694</ee><url>https://dblp.org/rec/conf/iwqos/LiangWZLWW23</url></info>
+<url>URL#176422</url>
+</hit>
+<hit score="1" id="176423">
+<info><authors><author pid="28/374">Hongyan Liu</author><author pid="64/3062">Xiang Chen</author><author pid="18/1762">Yi Shen</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="239/2971">Zhengyan Zhou</author><author pid="68/3245">Dong Zhang</author><author pid="97/8329-1">Chunming Wu 0001</author></authors><title>Vulnerabilities and Attacks of Inter-device Coordination in Programmable Networks.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuCSHZZW23</key><doi>10.1109/IWQOS57198.2023.10188714</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188714</ee><url>https://dblp.org/rec/conf/iwqos/LiuCSHZZW23</url></info>
+<url>URL#176423</url>
+</hit>
+<hit score="1" id="176424">
+<info><authors><author pid="347/4056">Renrui Liu</author><author pid="95/8385">Fuliang Li</author><author pid="138/4338">Chengxi Gao</author><author pid="59/4203">Ce Ji</author><author pid="99/4694-1">Xingwei Wang 0001</author></authors><title>NetDiceSyn: Multi-Property Probabilistic Verification of Network Configurations.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuLGJW23</key><doi>10.1109/IWQOS57198.2023.10188763</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188763</ee><url>https://dblp.org/rec/conf/iwqos/LiuLGJW23</url></info>
+<url>URL#176424</url>
+</hit>
+<hit score="1" id="176425">
+<info><authors><author pid="349/5248">Jiacheng Liu</author><author pid="59/2249">Feilong Tang</author><author pid="64/5725-25">Long Chen 0025</author><author pid="25/3528-12">Xu Li 0012</author><author pid="85/3615">Jiadi Yu</author><author pid="02/6595">Yanmin Zhu</author><author pid="354/1082">Yichuan Yu</author><author pid="32/5167">Yanqin Yang</author></authors><title>EAGLE: Heterogeneous GNN-based Network Performance Analysis.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuTCLYZYY23</key><doi>10.1109/IWQOS57198.2023.10188804</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188804</ee><url>https://dblp.org/rec/conf/iwqos/LiuTCLYZYY23</url></info>
+<url>URL#176425</url>
+</hit>
+<hit score="1" id="176426">
+<info><authors><author pid="31/10523">Dezheng Liu</author><author pid="05/802">Xiaobin Tan</author><author pid="14/3968">Yangyang Liu</author><author pid="246/9368">Shunyi Wang</author><author pid="165/9162-2">Quan Zheng 0002</author><author pid="337/7682">Qianbao Shi</author></authors><title>Joint Upload-Download Transmission Scheme for Low-Latency Mobile Live Video Streaming.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuTLWZS23</key><doi>10.1109/IWQOS57198.2023.10188793</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188793</ee><url>https://dblp.org/rec/conf/iwqos/LiuTLWZS23</url></info>
+<url>URL#176426</url>
+</hit>
+<hit score="1" id="176427">
+<info><authors><author pid="90/5130">Weijie Liu</author><author pid="62/5337">Xiaoxi Zhang</author><author pid="167/9016">Jingpu Duan</author><author pid="40/9937">Carlee Joe-Wong</author><author pid="04/2090">Zhi Zhou</author><author pid="83/6331">Xu Chen</author></authors><title>AdaCoOpt: Leverage the Interplay of Batch Size and Aggregation Frequency for Federated Learning.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LiuZDJZC23</key><doi>10.1109/IWQOS57198.2023.10188807</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188807</ee><url>https://dblp.org/rec/conf/iwqos/LiuZDJZC23</url></info>
+<url>URL#176427</url>
+</hit>
+<hit score="1" id="176428">
+<info><authors><author pid="354/0140">Mingxiang Lu</author><author pid="177/8886">Min Lyu</author><author pid="40/689">Yinlong Xu</author></authors><title>TAG: An Efficient Storage System Towards Transactional and Analytical Processing on Property Graphs.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/LuLX23</key><doi>10.1109/IWQOS57198.2023.10188754</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188754</ee><url>https://dblp.org/rec/conf/iwqos/LuLX23</url></info>
+<url>URL#176428</url>
+</hit>
+<hit score="1" id="176429">
+<info><authors><author pid="354/0060">Yachen Mao</author><author pid="79/1482">Panlong Yang</author><author pid="354/0411">Shanyue Wang</author><author pid="59/9033">Yubo Yan</author></authors><title>STABack: Making Dynamic Backscattering Stable for Fast and Accurate Object Tracking.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/MaoYWY23</key><doi>10.1109/IWQOS57198.2023.10188790</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188790</ee><url>https://dblp.org/rec/conf/iwqos/MaoYWY23</url></info>
+<url>URL#176429</url>
+</hit>
+<hit score="1" id="176430">
+<info><authors><author pid="149/3382">Hao Mei</author><author pid="354/0429">Ruoshi Sun</author><author pid="273/1828">Ruyi Yao</author><author pid="251/4860">Chuhao Chen</author><author pid="219/1027">Cong Luo</author><author pid="200/0201">Zixuan Chen</author><author pid="153/2952">Jiahui Li</author><author pid="91/3699-2">Sen Liu 0002</author><author pid="61/3906-10">Yang Xu 0010</author></authors><title>Rusen: Rule Semantics Enabler toward Fast TCAM Update for Commodity SDN Switches.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/MeiSYCLCLLX23</key><doi>10.1109/IWQOS57198.2023.10188797</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188797</ee><url>https://dblp.org/rec/conf/iwqos/MeiSYCLCLLX23</url></info>
+<url>URL#176430</url>
+</hit>
+<hit score="1" id="176431">
+<info><authors><author pid="354/0357">Yeqing Meng</author><author pid="30/1560">Qianli Zhang</author><author pid="97/2946">Xiangyu Tang</author><author pid="272/6189">Wanhao Zhang</author><author pid="18/6008-1">Jilong Wang 0001</author></authors><title>FTM-RCA: A Fast Two-Stage Multi-dimensional Root-Cause Analysis of Network Anomalies.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/MengZTZW23</key><doi>10.1109/IWQOS57198.2023.10188732</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188732</ee><url>https://dblp.org/rec/conf/iwqos/MengZTZW23</url></info>
+<url>URL#176431</url>
+</hit>
+<hit score="1" id="176432">
+<info><authors><author pid="73/7448">Rui Ren</author><author pid="181/2842">Yang Wang</author><author pid="233/9093">Fengrui Liu</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="85/85">Gareth Tyson</author><author pid="319/0156">Tianhao Miao</author><author pid="01/2888">Gaogang Xie</author></authors><title>Grace: Interpretable Root Cause Analysis by Graph Convolutional Network for Microservices.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/RenWLLTMX23</key><doi>10.1109/IWQOS57198.2023.10188728</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188728</ee><url>https://dblp.org/rec/conf/iwqos/RenWLLTMX23</url></info>
+<url>URL#176432</url>
+</hit>
+<hit score="1" id="176433">
+<info><authors><author pid="73/7448">Rui Ren</author><author pid="181/2842">Yang Wang</author><author pid="233/9093">Fengrui Liu</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="01/2888">Gaogang Xie</author></authors><title>Triple:The Interpretable Deep Learning Anomaly Detection Framework based on Trace-Metric-Log of Microservice.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/RenWLLX23</key><doi>10.1109/IWQOS57198.2023.10188773</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188773</ee><url>https://dblp.org/rec/conf/iwqos/RenWLLX23</url></info>
+<url>URL#176433</url>
+</hit>
+<hit score="1" id="176434">
+<info><authors><author pid="303/3381">Ruitao Shang</author><author pid="42/5065">Fei Xu</author><author pid="354/0255">Zhuoyan Bai</author><author pid="c/LiChen19">Li Chen 0019</author><author pid="04/2090-6">Zhi Zhou 0006</author><author pid="31/6019">Fangming Liu</author></authors><title>spotDNN: Provisioning Spot Instances for Predictable Distributed DNN Training in the Cloud.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShangXBCZL23</key><doi>10.1109/IWQOS57198.2023.10188717</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188717</ee><url>https://dblp.org/rec/conf/iwqos/ShangXBCZL23</url></info>
+<url>URL#176434</url>
+</hit>
+<hit score="1" id="176435">
+<info><authors><author pid="200/8019">Yechao She</author><author pid="78/6881">Minming Li</author><author pid="51/3584">Yang Jin</author><author pid="75/4287">Meng Xu</author><author pid="21/1550-1">Jianping Wang 0001</author><author pid="35/837">Bin Liu</author></authors><title>On-demand Edge Inference Scheduling with Accuracy and Deadline Guarantee.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/SheLJXWL23</key><doi>10.1109/IWQOS57198.2023.10188769</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188769</ee><url>https://dblp.org/rec/conf/iwqos/SheLJXWL23</url></info>
+<url>URL#176435</url>
+</hit>
+<hit score="1" id="176436">
+<info><authors><author pid="99/7970">Shihao Shen</author><author pid="340/4016">Yicheng Feng</author><author pid="143/0845">Mengwei Xu</author><author pid="82/6384">Cheng Zhang</author><author pid="58/6576-1">Xiaofei Wang 0001</author><author pid="80/6234">Wenyu Wang</author><author pid="36/4847">Victor C. M. Leung</author></authors><title>A Holistic QoS View of Crowdsourced Edge Cloud Platform.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShenFXZWWL23</key><doi>10.1109/IWQOS57198.2023.10188726</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188726</ee><url>https://dblp.org/rec/conf/iwqos/ShenFXZWWL23</url></info>
+<url>URL#176436</url>
+</hit>
+<hit score="1" id="176437">
+<info><authors><author pid="61/7773">Linfeng Shen</author><author pid="90/4225-1">Feng Wang 0001</author><author pid="60/7041">Miao Zhang</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author><author pid="133/3350">Gaoyang Liu</author><author pid="69/8331-1">Xiaoyi Fan 0001</author></authors><title>AIoT-Empowered Smart Grid Energy Management with Distributed Control and Non-Intrusive Load Monitoring.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShenWZLLF23</key><doi>10.1109/IWQOS57198.2023.10188781</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188781</ee><url>https://dblp.org/rec/conf/iwqos/ShenWZLLF23</url></info>
+<url>URL#176437</url>
+</hit>
+<hit score="1" id="176438">
+<info><authors><author pid="343/2108">Xiaohang Shi</author><author pid="69/6137-1">Sheng Zhang 0001</author><author pid="81/3800">Ke Cheng</author><author pid="87/1254-38">Yu Chen 0038</author><author pid="286/6658">Andong Zhu</author><author pid="24/3318">Sanglu Lu</author></authors><title>OSCA: Online User-managed Server Selection and Configuration Adaptation for Interactive MAR.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ShiZCCZL23</key><doi>10.1109/IWQOS57198.2023.10188796</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188796</ee><url>https://dblp.org/rec/conf/iwqos/ShiZCCZL23</url></info>
+<url>URL#176438</url>
+</hit>
+<hit score="1" id="176439">
+<info><authors><author pid="75/9109">Guanglei Song</author><author pid="73/2845-4">Lin He 0004</author><author pid="309/8649">Tianyun Zhao</author><author pid="279/6586">Yirui Luo</author><author pid="74/8429">Yichao Wu</author><author pid="238/8673">Linna Fan</author><author pid="83/7820">Chenglong Li</author><author pid="58/5311">Zhiliang Wang</author><author pid="62/2814-1">Jiahai Yang 0001</author></authors><title>Which Doors Are Open: Reinforcement Learning-based Internet-wide Port Scanning.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/SongHZLWFLWY23</key><doi>10.1109/IWQOS57198.2023.10188692</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188692</ee><url>https://dblp.org/rec/conf/iwqos/SongHZLWFLWY23</url></info>
+<url>URL#176439</url>
+</hit>
+<hit score="1" id="176440">
+<info><authors><author pid="188/1236">Shimin Tao</author><author pid="51/8650">Yilun Liu</author><author pid="176/6658">Weibin Meng</author><author pid="281/6684">Zuomin Ren</author><author pid="54/4089">Hao Yang</author><author pid="34/6795">Xun Chen</author><author pid="50/6759">Liang Zhang</author><author pid="284/7995">Yuming Xie</author><author pid="07/2757-1">Chang Su 0001</author><author pid="354/1023">Xiaosong Oiao</author><author pid="353/5581">Weinan Tian</author><author pid="215/4415">Yichen Zhu</author><author pid="78/744">Tao Han</author><author pid="49/5370">Ying Qin</author><author pid="87/6284">Yun Li</author></authors><title>Biglog: Unsupervised Large-scale Pre-training for a Unified Log Representation.</title><venue>IWQoS</venue><pages>1-11</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/TaoLMRYCZXSOTZHQL23</key><doi>10.1109/IWQOS57198.2023.10188759</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188759</ee><url>https://dblp.org/rec/conf/iwqos/TaoLMRYCZXSOTZHQL23</url></info>
+<url>URL#176440</url>
+</hit>
+<hit score="1" id="176441">
+<info><authors><author pid="32/5495">Ye Tian</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="91/7389">Haohua Du</author><author pid="94/8865">Chenren Xu</author><author pid="167/5933">Jiahui Hou</author><author pid="57/11159">Dong Ren</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>BackLip: Passphrase-Independent Lip-reading User Authentication with Backscatter Signals.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/TianZDXHRL23</key><doi>10.1109/IWQOS57198.2023.10188767</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188767</ee><url>https://dblp.org/rec/conf/iwqos/TianZDXHRL23</url></info>
+<url>URL#176441</url>
+</hit>
+<hit score="1" id="176442">
+<info><authors><author pid="354/1344">Rebekah Wang</author></authors><title>Federated Learning with Adaptive Weighted Model Aggregation.</title><venue>IWQoS</venue><pages>1-2</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/Wang23</key><doi>10.1109/IWQOS57198.2023.10188800</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188800</ee><url>https://dblp.org/rec/conf/iwqos/Wang23</url></info>
+<url>URL#176442</url>
+</hit>
+<hit score="1" id="176443">
+<info><authors><author pid="354/1318">Benran Wang</author><author pid="13/3715">Hongyang Chen</author><author pid="13/3788-2">Pengfei Chen 0002</author><author pid="185/8496">Zilong He</author><author pid="248/2943">Guangba Yu</author></authors><title>MARS: Fault Localization in Programmable Networking Systems with Low-cost In-Band Network Telemetry.</title><venue>IWQoS</venue><pages>1-2</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/WangCCHY23</key><doi>10.1109/IWQOS57198.2023.10188760</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188760</ee><url>https://dblp.org/rec/conf/iwqos/WangCCHY23</url></info>
+<url>URL#176443</url>
+</hit>
+<hit score="1" id="176444">
+<info><authors><author pid="354/0860">Weimeng Wang</author><author pid="21/2715">Lei Liu</author><author pid="64/6062">Zhongmin Yan</author></authors><title>Proactive Auto-scaling For Delay-sensitive Service Providers Over Public Clouds.</title><venue>IWQoS</venue><pages>1-9</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/WangLY23</key><doi>10.1109/IWQOS57198.2023.10188731</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188731</ee><url>https://dblp.org/rec/conf/iwqos/WangLY23</url></info>
+<url>URL#176444</url>
+</hit>
+<hit score="1" id="176445">
+<info><authors><author pid="34/4799">Xuan Wang</author><author pid="49/1245">Jia Liu</author><author pid="22/1147">Xi Yu</author><author pid="59/7651">Xingyu Chen</author><author pid="184/7333">Yujie Yu</author><author pid="96/175">Zhihong Zhao</author></authors><title>People Counting with Carry-on RFID Tags.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/WangLYCYZ23</key><doi>10.1109/IWQOS57198.2023.10188704</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188704</ee><url>https://dblp.org/rec/conf/iwqos/WangLYCYZ23</url></info>
+<url>URL#176445</url>
+</hit>
+<hit score="1" id="176446">
+<info><authors><author pid="94/10612">En Wang</author><author pid="339/0736">Zijie Tian</author><author pid="01/6376">Yongjian Yang</author><author pid="87/793">Wenbin Liu</author><author pid="273/2131">Baoju Li</author><author pid="06/4489">Nan Jiang</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Data-Driven Similarity-based Worker Recruitment Towards Multi-task Data Inference for Sparse Mobile Crowdsensing.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/WangTYLLJW23</key><doi>10.1109/IWQOS57198.2023.10188803</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188803</ee><url>https://dblp.org/rec/conf/iwqos/WangTYLLJW23</url></info>
+<url>URL#176446</url>
+</hit>
+<hit score="1" id="176447">
+<info><authors><author pid="00/77">Rui Xing</author><author pid="132/8083">Zhenzhe Zheng</author><author pid="234/3770">Qinya Li</author><author pid="07/6378">Fan Wu</author><author pid="51/1742">Guihai Chen</author></authors><title>Distributed Model Interpretation for Vertical Federated Learning with Feature Discrepancy.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/XingZLWC23</key><doi>10.1109/IWQOS57198.2023.10188708</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188708</ee><url>https://dblp.org/rec/conf/iwqos/XingZLWC23</url></info>
+<url>URL#176447</url>
+</hit>
+<hit score="1" id="176448">
+<info><authors><author pid="297/6718">Qinglin Xun</author><author pid="94/1464-1">Weichao Li 0001</author><author pid="297/6887">Haorui Guo</author><author pid="133/3873">Qianyi Huang</author><author pid="137/5221">Jianer Zhou</author><author pid="167/9016">Jingpu Duan</author><author pid="17/221">Yi Wang</author><author pid="17/10372">Jinbei Zhang</author></authors><title>Enabling Reliable and Efficient Performance Monitoring and Troubleshooting in Datacenter Networks.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/XunLGHZDWZ23</key><doi>10.1109/IWQOS57198.2023.10188787</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188787</ee><url>https://dblp.org/rec/conf/iwqos/XunLGHZDWZ23</url></info>
+<url>URL#176448</url>
+</hit>
+<hit score="1" id="176449">
+<info><authors><author pid="83/89">Yifan Yang</author><author pid="11/3249-1">Wei Gong 0001</author><author pid="16/4505">Yu Yang</author></authors><title>Ambient Backscatter with a Single Commodity AP.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/YangGY23</key><doi>10.1109/IWQOS57198.2023.10188740</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188740</ee><url>https://dblp.org/rec/conf/iwqos/YangGY23</url></info>
+<url>URL#176449</url>
+</hit>
+<hit score="1" id="176450">
+<info><authors><author pid="20/8774">Jiaqi Yao</author><author pid="32/2948-4">Ke Liu 0004</author><author pid="85/6712">Ting Liang</author><author pid="49/7538">Theophilus A. Benson</author><author pid="l/JackYiuBunLee">Jack Y. B. Lee</author><author pid="91/6560">Vaneet Aggarwal</author><author pid="08/6937">Yungang Bao</author><author pid="62/5558">Mingyu Chen 0001</author></authors><title>A Data-Driven Framework for TCP to Achieve Flexible QoS Control in Mobile Data Networks.</title><venue>IWQoS</venue><pages>1-11</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/YaoLLBLABC23</key><doi>10.1109/IWQOS57198.2023.10188765</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188765</ee><url>https://dblp.org/rec/conf/iwqos/YaoLLBLABC23</url></info>
+<url>URL#176450</url>
+</hit>
+<hit score="1" id="176451">
+<info><authors><author pid="248/6084">Minghao Ye</author><author pid="43/4685">Yang Hu</author><author pid="99/6243-1">Junjie Zhang 0001</author><author pid="145/8541">Zehua Guo 0001</author><author pid="48/1215">H. Jonathan Chao</author></authors><title>Reinforcement Learning-based Traffic Engineering for QoS Provisioning and Load Balancing.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/YeHZGC23</key><doi>10.1109/IWQOS57198.2023.10188762</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188762</ee><url>https://dblp.org/rec/conf/iwqos/YeHZGC23</url></info>
+<url>URL#176451</url>
+</hit>
+<hit score="1" id="176452">
+<info><authors><author pid="325/8330">Daheng Yin</author><author pid="75/2871-1">Fang Dong 0001</author><author pid="320/9663">Baijun Chen</author><author pid="139/4309">Dian Shen</author><author pid="41/10471">Ruiting Zhou</author><author pid="34/4714">Xiaolin Guo</author><author pid="257/5755">Zhaowu Huang</author></authors><title>WAEVSR: Enabling Collaborative Live Video Super-Resolution in Wide-Area MEC Environment.</title><venue>IWQoS</venue><pages>1-11</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/YinDCSZGH23</key><doi>10.1109/IWQOS57198.2023.10188713</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188713</ee><url>https://dblp.org/rec/conf/iwqos/YinDCSZGH23</url></info>
+<url>URL#176452</url>
+</hit>
+<hit score="1" id="176453">
+<info><authors><author pid="262/3976">Xinjing Yuan</author><author pid="119/2673">Lingjun Pu</author><author pid="47/91-2">Lei Jiao 0002</author><author pid="58/6576">Xiaofei Wang</author><author pid="124/6672">Meijuan Yang</author><author pid="82/1193">Jingdong Xu</author></authors><title>When Computing Power Network Meets Distributed Machine Learning: An Efficient Federated Split Learning Framework.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/YuanPJWYX23</key><doi>10.1109/IWQOS57198.2023.10188789</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188789</ee><url>https://dblp.org/rec/conf/iwqos/YuanPJWYX23</url></info>
+<url>URL#176453</url>
+</hit>
+<hit score="1" id="176454">
+<info><authors><author pid="08/5937">Deze Zeng</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="284/8639">Yu Lei</author></authors><title>CONTC: A Traffic Control System for Container Overlay Networks.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZengGCL23</key><doi>10.1109/IWQOS57198.2023.10188758</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188758</ee><url>https://dblp.org/rec/conf/iwqos/ZengGCL23</url></info>
+<url>URL#176454</url>
+</hit>
+<hit score="1" id="176455">
+<info><authors><author pid="354/0053">Qingmin Zeng</author><author pid="250/0421">Jianchun Liu</author><author pid="22/1748">Hongli Xu</author><author pid="32/3351">Zhiyuan Wang</author><author pid="61/3906-20">Yang Xu 0020</author><author pid="99/8966">Yangming Zhao</author></authors><title>Enhanced Federated Learning with Adaptive Block-wise Regularization and Knowledge Distillation.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZengLXWXZ23</key><doi>10.1109/IWQOS57198.2023.10188770</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188770</ee><url>https://dblp.org/rec/conf/iwqos/ZengLXWXZ23</url></info>
+<url>URL#176455</url>
+</hit>
+<hit score="1" id="176456">
+<info><authors><author pid="08/5937">Deze Zeng</author><author pid="286/6658">Andong Zhu</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="40/3858-2">Quan Chen 0002</author><author pid="99/6797">Minyi Guo</author></authors><title>On Efficient Packet Batching and Resource Allocation for GPU based NFV Acceleration.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZengZGCG23</key><doi>10.1109/IWQOS57198.2023.10188696</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188696</ee><url>https://dblp.org/rec/conf/iwqos/ZengZGCG23</url></info>
+<url>URL#176456</url>
+</hit>
+<hit score="1" id="176457">
+<info><authors><author pid="324/4020">Huiyou Zhan</author><author pid="02/3687">Haisheng Tan</author><author pid="80/1433">Huang Xu</author><author pid="91/195-43">Chi Zhang 0043</author><author pid="340/0733">Hongqiu Ni</author><author pid="58/4525">Pengfei Zhang</author><author pid="324/4055">Weihua Shan</author><author pid="l/XiangYangLi">Xiangyang Li 0001</author></authors><title>Online Midgress-Sensitive Traffic Allocation for Percentile Charging in Pracitcal CDNs.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhanTXZNZSL23</key><doi>10.1109/IWQOS57198.2023.10188693</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188693</ee><url>https://dblp.org/rec/conf/iwqos/ZhanTXZNZSL23</url></info>
+<url>URL#176457</url>
+</hit>
+<hit score="1" id="176458">
+<info><authors><author pid="55/826">Heng Zhang</author><author pid="303/9138">Shaoyuan Huang</author><author pid="143/0845">Mengwei Xu</author><author pid="74/6501">Deke Guo</author><author pid="58/6576-1">Xiaofei Wang 0001</author><author pid="36/4847">Victor C. M. Leung</author><author pid="80/6234">Wenyu Wang</author></authors><title>How Far Have Edge Clouds Gone? A Spatial-Temporal Analysis of Edge Network Latency In the Wild.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangHXGWLW23</key><doi>10.1109/IWQOS57198.2023.10188741</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188741</ee><url>https://dblp.org/rec/conf/iwqos/ZhangHXGWLW23</url></info>
+<url>URL#176458</url>
+</hit>
+<hit score="1" id="176459">
+<info><authors><author pid="49/4478">Xiao Zhang</author><author pid="339/6821">Griffin Klevering</author><author pid="227/7270">James Mariani</author><author pid="14/5505-1">Li Xiao 0001</author><author pid="m/MattWMutka">Matt W. Mutka</author></authors><title>Boosting Optical Camera Communication via 2D Rolling Blocks.</title><venue>IWQoS</venue><pages>1-4</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangKMXM23</key><doi>10.1109/IWQOS57198.2023.10188746</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188746</ee><url>https://dblp.org/rec/conf/iwqos/ZhangKMXM23</url></info>
+<url>URL#176459</url>
+</hit>
+<hit score="1" id="176460">
+<info><authors><author pid="94/689">Shigeng Zhang</author><author pid="212/6739">Yudong Li</author><author pid="22/7663">Shuxin Chen</author><author pid="64/5016">Xuan Li</author><author pid="07/314-48">Jian Zhang 0048</author></authors><title>A Fast Adversarial Sample Detection Approach for Industrial Internet-of-Things Applications.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangLCLZ23</key><doi>10.1109/IWQOS57198.2023.10188719</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188719</ee><url>https://dblp.org/rec/conf/iwqos/ZhangLCLZ23</url></info>
+<url>URL#176460</url>
+</hit>
+<hit score="1" id="176461">
+<info><authors><author pid="281/4524">Weiyao Zhang</author><author pid="146/8088">Xuying Meng</author><author pid="79/572">Jinyang Li</author><author pid="188/9082">Yequan Wang</author><author pid="76/5703">Yujun Zhang</author></authors><title>Multi-Layer Collaborative Bandit for Multivariate Time Series Anomaly Detection.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangMLWZ23</key><doi>10.1109/IWQOS57198.2023.10188761</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188761</ee><url>https://dblp.org/rec/conf/iwqos/ZhangMLWZ23</url></info>
+<url>URL#176461</url>
+</hit>
+<hit score="1" id="176462">
+<info><authors><author pid="323/0068">Yaoying Zhang</author><author pid="61/591">Qian Wu</author><author pid="148/1959">Zeqi Lai</author><author pid="312/9316">Yangtao Deng</author><author pid="51/8276">Hewu Li</author><author pid="75/10258">Yuanjie Li</author><author pid="95/3736-63">Jun Liu 0063</author></authors><title>Energy Drain Attack in Satellite Internet Constellations.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangWLDLLL23</key><doi>10.1109/IWQOS57198.2023.10188709</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188709</ee><url>https://dblp.org/rec/conf/iwqos/ZhangWLDLLL23</url></info>
+<url>URL#176462</url>
+</hit>
+<hit score="1" id="176463">
+<info><authors><author pid="94/689">Shigeng Zhang</author><author pid="04/2721">Kai Xiao</author><author pid="32/2272">Jianjiang Yu</author><author pid="13/5407-1">Xuan Liu 0001</author><author pid="72/4134-3">Weiping Wang 0003</author></authors><title>Accurate IoT Device Identification based on A Few Network Traffic.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangXYLW23</key><doi>10.1109/IWQOS57198.2023.10188721</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188721</ee><url>https://dblp.org/rec/conf/iwqos/ZhangXYLW23</url></info>
+<url>URL#176463</url>
+</hit>
+<hit score="1" id="176464">
+<info><authors><author pid="42/7674">Yuchao Zhang</author><author pid="318/6422">Huahai Zhang</author><author pid="260/2955">Peizhuang Cong</author><author pid="80/4406">Wendong Wang</author><author pid="181/2626-2">Ke Xu 0002</author></authors><title>Grandet: Cost-aware Traffic Scheduling without Prior Knowledge in SD-WAN.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhangZCWX23</key><doi>10.1109/IWQOS57198.2023.10188706</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188706</ee><url>https://dblp.org/rec/conf/iwqos/ZhangZCWX23</url></info>
+<url>URL#176464</url>
+</hit>
+<hit score="1" id="176465">
+<info><authors><author pid="17/9083">Laiping Zhao</author><author pid="354/1219">Xinan Dai</author><author pid="24/10391">Zhixin Zhao</author><author pid="354/0602">Yusong Xin</author><author pid="148/1971">Yitao Hu</author><author pid="71/4564">Jun Qian</author><author pid="44/5733">Jun Yao</author><author pid="21/6280">Keqiu Li</author></authors><title>High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhaoDZXHQYL23</key><doi>10.1109/IWQOS57198.2023.10188703</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188703</ee><url>https://dblp.org/rec/conf/iwqos/ZhaoDZXHQYL23</url></info>
+<url>URL#176465</url>
+</hit>
+<hit score="1" id="176466">
+<info><authors><author pid="162/1613">Jiaqi Zheng</author><author pid="215/7936">Changrong Wu</author><author pid="334/7739">Tiancheng Lan</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="51/1742">Guihai Chen</author></authors><title>Revisiting Weighted AIMD-based Congestion Control: A Comprehensive Perspective.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhengWLTC23</key><doi>10.1109/IWQOS57198.2023.10188753</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188753</ee><url>https://dblp.org/rec/conf/iwqos/ZhengWLTC23</url></info>
+<url>URL#176466</url>
+</hit>
+<hit score="1" id="176467">
+<info><authors><author pid="339/2086">Bolun Zhu</author><author pid="52/3115-1">Yu Hua 0001</author><author pid="354/0984">Ziyin Long</author><author pid="207/7109">Xue Liu</author></authors><title>CATS: A Computation-Aware Transaction Processing System with Proactive Unlocking.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhuHLL23</key><doi>10.1109/IWQOS57198.2023.10188780</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188780</ee><url>https://dblp.org/rec/conf/iwqos/ZhuHLL23</url></info>
+<url>URL#176467</url>
+</hit>
+<hit score="1" id="176468">
+<info><authors><author pid="342/5281">Tianxiang Zhu</author><author pid="62/5337">Xiaoxi Zhang</author><author pid="167/9016">Jingpu Duan</author><author pid="04/2090">Zhi Zhou</author><author pid="83/6331">Xu Chen</author></authors><title>A Budget-aware Incentive Mechanism for Vehicle-to-Grid via Reinforcement Learning.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhuZDZC23</key><doi>10.1109/IWQOS57198.2023.10188695</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188695</ee><url>https://dblp.org/rec/conf/iwqos/ZhuZDZC23</url></info>
+<url>URL#176468</url>
+</hit>
+<hit score="1" id="176469">
+<info><authors><author pid="354/0786">Qiucheng Zhu</author><author pid="99/8966">Yangming Zhao</author><author pid="22/1748">Hongli Xu</author><author pid="51/769">Liusheng Huang</author><author pid="60/6865">Chunming Qiao</author></authors><title>Integrating All-optical Switching and Entangled Photon Source Placement for Entanglement Routing.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZhuZXHQ23</key><doi>10.1109/IWQOS57198.2023.10188776</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188776</ee><url>https://dblp.org/rec/conf/iwqos/ZhuZXHQ23</url></info>
+<url>URL#176469</url>
+</hit>
+<hit score="1" id="176470">
+<info><authors><author pid="251/8498">Haodong Zou</author><author pid="68/5908">Yupeng Li</author><author pid="304/7679">Xiaowen Chu</author><author pid="195/3108">Changfu Xu</author><author pid="25/3246">Tian Wang</author></authors><title>Improving Fairness in Coexisting 5G and Wi-Fi Network on Unlicensed Band with URLLC.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZouLCXW23</key><doi>10.1109/IWQOS57198.2023.10188806</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188806</ee><url>https://dblp.org/rec/conf/iwqos/ZouLCXW23</url></info>
+<url>URL#176470</url>
+</hit>
+<hit score="1" id="176471">
+<info><authors><author pid="45/6753">Xiang Zou</author><author pid="43/3771-8">Jianwei Liu 0008</author><author pid="96/6606">Jinsong Han</author><author pid="10/264">Wei Xi</author><author pid="95/6543">Zhi Wang</author></authors><title>WiHunter: Enabling Real-time Small Object Detection via Wireless Sensing.</title><venue>IWQoS</venue><pages>1-10</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/iwqos/ZouLHXW23</key><doi>10.1109/IWQOS57198.2023.10188701</doi><ee>https://doi.org/10.1109/IWQoS57198.2023.10188701</ee><url>https://dblp.org/rec/conf/iwqos/ZouLHXW23</url></info>
+<url>URL#176471</url>
+</hit>
+<hit score="1" id="197000">
+<info><title>31st IEEE/ACM International Symposium on Quality of Service, IWQoS 2023, Orlando, FL, USA, June 19-21, 2023</title><venue>IWQoS</venue><publisher>IEEE</publisher><year>2023</year><type>Editorship</type><key>conf/iwqos/2023</key><doi>10.1109/IWQOS57198.2023</doi><ee>https://doi.org/10.1109/IWQoS57198.2023</ee><url>https://dblp.org/rec/conf/iwqos/2023</url></info>
+<url>URL#197000</url>
+</hit>
+</hits>
+</result>

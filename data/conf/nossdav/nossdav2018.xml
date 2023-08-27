@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59626">:facetid:toc:\"db/conf/nossdav/nossdav2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">173.69</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="41057624">:facetid:toc:db/conf/nossdav/nossdav2018.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="2318871">
+<info><authors><author pid="74/7422">David Gómez</author><author pid="215/7269">Juan A. Núñez</author><author pid="221/5929">Isaac Fraile</author><author pid="08/8087">Mario Montagud</author><author pid="18/10714">Sergi Fernández</author></authors><title>TiCMP: A lightweight and efficient Tiled Cubemap projection strategy for Immersive Videos in Web-based players.</title><venue>NOSSDAV</venue><pages>1-6</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/GomezNFMF18</key><doi>10.1145/3210445.3210456</doi><ee>https://doi.org/10.1145/3210445.3210456</ee><url>https://dblp.org/rec/conf/nossdav/GomezNFMF18</url></info>
+<url>URL#2318871</url>
+</hit>
+<hit score="1" id="2318872">
+<info><authors><author pid="211/9285">Hwangje Han</author><author pid="71/4935-2">Minseok Song 0002</author></authors><title>QoE-Aware Video Storage Power Management Based on Hot and Cold Data Classification.</title><venue>NOSSDAV</venue><pages>7-12</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/HanS18</key><doi>10.1145/3210445.3210452</doi><ee>https://doi.org/10.1145/3210445.3210452</ee><url>https://dblp.org/rec/conf/nossdav/HanS18</url></info>
+<url>URL#2318872</url>
+</hit>
+<hit score="1" id="2318873">
+<info><authors><author pid="220/3448">Tianchi Huang</author><author pid="220/3394">Rui-Xiao Zhang</author><author pid="72/4184-3">Chao Zhou 0003</author><author pid="06/2128">Lifeng Sun</author></authors><title>Delay-Constrained Rate Control for Real-Time Video Streaming with Bounded Neural Network.</title><venue>NOSSDAV</venue><pages>13-18</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/HuangZZS18</key><doi>10.1145/3210445.3210446</doi><ee>https://doi.org/10.1145/3210445.3210446</ee><url>https://dblp.org/rec/conf/nossdav/HuangZZS18</url></info>
+<url>URL#2318873</url>
+</hit>
+<hit score="1" id="2318874">
+<info><authors><author pid="92/2954">Feng Li</author><author pid="215/5765">Jae Won Chung</author><author pid="c/MClaypool">Mark Claypool</author></authors><title>Silhouette: Identifying YouTube Video Flows from Encrypted Traffic.</title><venue>NOSSDAV</venue><pages>19-24</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LiCC18</key><doi>10.1145/3210445.3210448</doi><ee>https://doi.org/10.1145/3210445.3210448</ee><url>https://dblp.org/rec/conf/nossdav/LiCC18</url></info>
+<url>URL#2318874</url>
+</hit>
+<hit score="1" id="2318875">
+<info><authors><author pid="144/5251">Chou Mo</author><author pid="127/4823">Guowei Zhu</author><author pid="95/6543-1">Zhi Wang 0001</author><author pid="97/6308-1">Wenwu Zhu 0001</author></authors><title>Understanding Gaming Experience in Mobile Multiplayer Online Battle Arena Games.</title><venue>NOSSDAV</venue><pages>25-30</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/MoZW018</key><doi>10.1145/3210445.3210450</doi><ee>https://doi.org/10.1145/3210445.3210450</ee><url>https://dblp.org/rec/conf/nossdav/MoZW018</url></info>
+<url>URL#2318875</url>
+</hit>
+<hit score="1" id="2318876">
+<info><authors><author pid="198/3957">Afshin Taghavi Nasrabadi</author><author pid="p/RaviPrakash">Ravi Prakash 0001</author></authors><title>Layer-Assisted Adaptive Video Streaming.</title><venue>NOSSDAV</venue><pages>31-36</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/NasrabadiP18</key><doi>10.1145/3210445.3210454</doi><ee>https://doi.org/10.1145/3210445.3210454</ee><url>https://dblp.org/rec/conf/nossdav/NasrabadiP18</url></info>
+<url>URL#2318876</url>
+</hit>
+<hit score="1" id="2318877">
+<info><authors><author pid="179/3429">Haitian Pang</author><author pid="92/2834-1">Lin Gao 0001</author><author pid="203/9708">Qinghua Ding</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author><author pid="06/2128">Lifeng Sun</author></authors><title>Competitive Analysis of Data Sponsoring and Edge Caching for Mobile Video Streaming.</title><venue>NOSSDAV</venue><pages>37-42</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/Pang0DLS18</key><doi>10.1145/3210445.3210451</doi><ee>https://doi.org/10.1145/3210445.3210451</ee><url>https://dblp.org/rec/conf/nossdav/Pang0DLS18</url></info>
+<url>URL#2318877</url>
+</hit>
+<hit score="1" id="2318878">
+<info><authors><author pid="221/5908">Pablo Gil Pereira</author><author pid="53/6562-3">Andreas Schmidt 0003</author><author pid="10/1642">Thorsten Herfet</author></authors><title>Cross-Layer Effects on Training Neural Algorithms for Video Streaming.</title><venue>NOSSDAV</venue><pages>43-48</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/Pereira0H18</key><doi>10.1145/3210445.3210453</doi><ee>https://doi.org/10.1145/3210445.3210453</ee><url>https://dblp.org/rec/conf/nossdav/Pereira0H18</url></info>
+<url>URL#2318878</url>
+</hit>
+<hit score="1" id="2318879">
+<info><authors><author pid="62/10474">Darijo Raca</author><author pid="75/1656">Ahmed H. Zahran</author><author pid="s/CJSreenan">Cormac J. Sreenan</author><author pid="55/596">Rakesh K. Sinha</author><author pid="64/1936">Emir Halepovic</author><author pid="18/6174">Rittwik Jana</author><author pid="29/1676">Vijay Gopalakrishnan</author><author pid="70/186">Balagangadhar G. Bathula</author><author pid="01/6280">Matteo Varvello</author></authors><title>Incorporating Prediction into Adaptive Streaming Algorithms: A QoE Perspective.</title><venue>NOSSDAV</venue><pages>49-54</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/RacaZSSHJGBV18</key><doi>10.1145/3210445.3210457</doi><ee>https://doi.org/10.1145/3210445.3210457</ee><url>https://dblp.org/rec/conf/nossdav/RacaZSSHJGBV18</url></info>
+<url>URL#2318879</url>
+</hit>
+<hit score="1" id="2318880">
+<info><authors><author pid="204/9389">Jacques Samain</author><author pid="93/1700">Giovanna Carofiglio</author><author pid="146/4872">Michele Tortelli</author><author pid="14/3340">Dario Rossi 0001</author></authors><title>A simple yet effective network-assisted signal for enhanced DASH quality of experience.</title><venue>NOSSDAV</venue><pages>55-60</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/SamainCTR18</key><doi>10.1145/3210445.3210447</doi><ee>https://doi.org/10.1145/3210445.3210447</ee><url>https://dblp.org/rec/conf/nossdav/SamainCTR18</url></info>
+<url>URL#2318880</url>
+</hit>
+<hit score="1" id="2318881">
+<info><authors><author pid="221/5913">Jangwoo Son</author><author pid="221/5917">Dongmin Jang</author><author pid="34/2551">Eun-Seok Ryu</author></authors><title>Implementing Motion-Constrained Tile and Viewport Extraction for VR Streaming.</title><venue>NOSSDAV</venue><pages>61-66</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/SonJR18</key><doi>10.1145/3210445.3210455</doi><ee>https://doi.org/10.1145/3210445.3210455</ee><url>https://dblp.org/rec/conf/nossdav/SonJR18</url></info>
+<url>URL#2318881</url>
+</hit>
+<hit score="1" id="2318882">
+<info><authors><author pid="129/1164">Lixing Song</author><author pid="42/6870">Aaron Striegel</author></authors><title>SEWS: A Channel-Aware Stall-Free WiFi Video Streaming Mechanism.</title><venue>NOSSDAV</venue><pages>67-72</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/SongS18</key><doi>10.1145/3210445.3210449</doi><ee>https://doi.org/10.1145/3210445.3210449</ee><url>https://dblp.org/rec/conf/nossdav/SongS18</url></info>
+<url>URL#2318882</url>
+</hit>
+<hit score="1" id="2359175">
+<info><title>Proceedings of the 28th ACM SIGMM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2018, Amsterdam, Netherlands, June 12-15, 2018</title><venue>NOSSDAV</venue><publisher>ACM</publisher><year>2018</year><type>Editorship</type><key>conf/nossdav/2018</key><doi>10.1145/3210445</doi><ee>https://doi.org/10.1145/3210445</ee><url>https://dblp.org/rec/conf/nossdav/2018</url></info>
+<url>URL#2359175</url>
+</hit>
+</hits>
+</result>

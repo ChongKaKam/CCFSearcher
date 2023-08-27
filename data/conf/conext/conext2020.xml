@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59452">:facetid:toc:\"db/conf/conext/conext2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">178.89</time>
+<completions total="1" computed="1" sent="1">
+<c sc="64" dc="64" oc="64" id="41027752">:facetid:toc:db/conf/conext/conext2020.bht</c>
+</completions>
+<hits total="64" computed="64" sent="64" first="0">
+<hit score="1" id="1402019">
+<info><authors><author pid="11/3249-1">Wei Gong 0001</author><author pid="216/0085">Longzhi Yuan</author><author pid="58/10186">Qiwei Wang</author><author pid="34/3125-6">Jia Zhao 0006</author></authors><title>Multiprotocol backscatter for personal IoT sensors.</title><venue>CoNEXT</venue><pages>261-273</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/0001YWZ20</key><doi>10.1145/3386367.3432883</doi><ee>https://doi.org/10.1145/3386367.3432883</ee><url>https://dblp.org/rec/conf/conext/0001YWZ20</url></info>
+<url>URL#1402019</url>
+</hit>
+<hit score="1" id="1402020">
+<info><authors><author pid="38/4600-1">Xiaodong Yi 0001</author><author pid="15/1308">Shiwei Zhang</author><author pid="224/0762">Ziyue Luo</author><author pid="11/2292">Guoping Long</author><author pid="236/6998">Lansong Diao</author><author pid="34/3772-1">Chuan Wu 0001</author><author pid="115/5528">Zhen Zheng</author><author pid="181/2799">Jun Yang</author><author pid="99/2649-16">Wei Lin 0016</author></authors><title>Optimizing distributed training deployment in heterogeneous GPU clusters.</title><venue>CoNEXT</venue><pages>93-107</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/0001ZLLDWZYL20</key><doi>10.1145/3386367.3432728</doi><ee>https://doi.org/10.1145/3386367.3432728</ee><url>https://dblp.org/rec/conf/conext/0001ZLLDWZYL20</url></info>
+<url>URL#1402020</url>
+</hit>
+<hit score="1" id="1402021">
+<info><authors><author pid="50/8499-3">Haoyu Wang 0003</author><author pid="279/5605">Zetian Liu</author><author pid="15/5579">Haiying Shen</author></authors><title>Job scheduling for large-scale machine learning clusters.</title><venue>CoNEXT</venue><pages>108-120</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/0002LS20</key><doi>10.1145/3386367.3432588</doi><ee>https://doi.org/10.1145/3386367.3432588</ee><url>https://dblp.org/rec/conf/conext/0002LS20</url></info>
+<url>URL#1402021</url>
+</hit>
+<hit score="1" id="1402022">
+<info><authors><author pid="62/9566-4">Jan Kucera 0004</author><author pid="140/7690">Ran Ben Basat</author><author pid="253/7482">Mário Kuka</author><author pid="00/4948">Gianni Antichi</author><author pid="89/6345">Minlan Yu</author><author pid="74/838">Michael Mitzenmacher</author></authors><title>Detecting routing loops in the data plane.</title><venue>CoNEXT</venue><pages>466-473</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/0004BKAYM20</key><doi>10.1145/3386367.3431303</doi><ee>https://doi.org/10.1145/3386367.3431303</ee><url>https://dblp.org/rec/conf/conext/0004BKAYM20</url></info>
+<url>URL#1402022</url>
+</hit>
+<hit score="1" id="1402023">
+<info><authors><author pid="17/5705-11">Hao Li 0011</author><author pid="21/1048-11">Peng Zhang 0011</author><author pid="279/5550">Guangda Sun</author><author pid="62/921">Chengchen Hu</author><author pid="137/3349">Danfeng Shan</author><author pid="26/11343">Tian Pan 0001</author><author pid="17/1352-11">Qiang Fu 0011</author></authors><title>A modular compiler for network programming languages.</title><venue>CoNEXT</venue><pages>198-210</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/0011ZSHS0020</key><doi>10.1145/3386367.3432063</doi><ee>https://doi.org/10.1145/3386367.3432063</ee><url>https://dblp.org/rec/conf/conext/0011ZSHS0020</url></info>
+<url>URL#1402023</url>
+</hit>
+<hit score="1" id="1402025">
+<info><authors><author pid="197/7071">Anubhavnidhi Abhashkumar</author><author pid="07/9556">Aaron Gember-Jacobson</author><author pid="a/AdityaAkella">Aditya Akella</author></authors><title>AED: incrementally synthesizing policy-compliant and manageable configurations.</title><venue>CoNEXT</venue><pages>482-495</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AbhashkumarGA20</key><doi>10.1145/3386367.3431304</doi><ee>https://doi.org/10.1145/3386367.3431304</ee><url>https://dblp.org/rec/conf/conext/AbhashkumarGA20</url></info>
+<url>URL#1402025</url>
+</hit>
+<hit score="1" id="1402026">
+<info><authors><author pid="232/0904">Neil Agarwal</author><author pid="01/6280">Matteo Varvello</author><author pid="22/8574">Andrius Aucinas</author><author pid="b/FabianEBustamante">Fabián E. Bustamante</author><author pid="123/3350-1">Ravi Netravali</author></authors><title>Mind the delay: the adverse effects of delay-based TCP on HTTP.</title><venue>CoNEXT</venue><pages>364-370</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AgarwalVAB020</key><doi>10.1145/3386367.3431299</doi><ee>https://doi.org/10.1145/3386367.3431299</ee><url>https://dblp.org/rec/conf/conext/AgarwalVAB020</url></info>
+<url>URL#1402026</url>
+</hit>
+<hit score="1" id="1402027">
+<info><authors><author pid="222/5396">Shivang Aggarwal</author><author pid="259/7656">Urjit Satish Sardesai</author><author pid="259/7661">Viral Sinha</author><author pid="244/8194">Deen Dayal Mohan</author><author pid="279/5568">Moinak Ghoshal</author><author pid="92/442">Dimitrios Koutsonikolas</author></authors><title>LiBRA: learning-based link adaptation leveraging PHY layer information in 60 GHz WLANs.</title><venue>CoNEXT</venue><pages>245-260</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AggarwalSSMGK20</key><doi>10.1145/3386367.3431319</doi><ee>https://doi.org/10.1145/3386367.3431319</ee><url>https://dblp.org/rec/conf/conext/AggarwalSSMGK20</url></info>
+<url>URL#1402027</url>
+</hit>
+<hit score="1" id="1402028">
+<info><authors><author pid="279/5594">Roberto Amoroso</author><author pid="78/1529">Flavio Esposito</author><author pid="45/39">Maria Luisa Merani</author></authors><title>Estimation of traffic matrices via super-resolution and federated learning.</title><venue>CoNEXT</venue><pages>560-561</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AmorosoEM20</key><doi>10.1145/3386367.3431677</doi><ee>https://doi.org/10.1145/3386367.3431677</ee><url>https://dblp.org/rec/conf/conext/AmorosoEM20</url></info>
+<url>URL#1402028</url>
+</hit>
+<hit score="1" id="1402029">
+<info><authors><author pid="65/8421">Hirochika Asai</author></authors><title>Palmtrie: a ternary key matching algorithm for IP packet filtering rules.</title><venue>CoNEXT</venue><pages>323-335</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Asai20</key><doi>10.1145/3386367.3431289</doi><ee>https://doi.org/10.1145/3386367.3431289</ee><url>https://dblp.org/rec/conf/conext/Asai20</url></info>
+<url>URL#1402029</url>
+</hit>
+<hit score="1" id="1402031">
+<info><authors><author pid="162/5287">Tom Barbette</author><author pid="78/9826">Marco Chiesa</author><author pid="m/GQMaguireJr">Gerald Q. Maguire Jr.</author><author pid="03/3188">Dejan Kostic</author></authors><title>Stateless CPU-aware datacenter load-balancing.</title><venue>CoNEXT</venue><pages>548-549</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BarbetteCMK20</key><doi>10.1145/3386367.3431672</doi><ee>https://doi.org/10.1145/3386367.3431672</ee><url>https://dblp.org/rec/conf/conext/BarbetteCMK20</url></info>
+<url>URL#1402031</url>
+</hit>
+<hit score="1" id="1402032">
+<info><authors><author pid="140/7690">Ran Ben Basat</author><author pid="139/7090">Gil Einziger</author><author pid="272/6698">Bilal Tayh</author></authors><title>A faster and more efficient q-MAX algorithm.</title><venue>CoNEXT</venue><pages>538-539</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BasatET20</key><doi>10.1145/3386367.3431671</doi><ee>https://doi.org/10.1145/3386367.3431671</ee><url>https://dblp.org/rec/conf/conext/BasatET20</url></info>
+<url>URL#1402032</url>
+</hit>
+<hit score="1" id="1402033">
+<info><authors><author pid="205/5535">Amaury Van Bemten</author><author pid="231/2856">Nemanja Deric</author><author pid="202/8642">Amir Varasteh</author><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="m/CarmenMasMachuca">Carmen Mas Machuca</author><author pid="147/1082">Andreas Blenk</author><author pid="32/3203">Wolfgang Kellerer</author></authors><title>Chameleon: predictable latency and high utilization with queue-aware and adaptive source routing.</title><venue>CoNEXT</venue><pages>451-465</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BemtenDV0MBK20</key><doi>10.1145/3386367.3432879</doi><ee>https://doi.org/10.1145/3386367.3432879</ee><url>https://dblp.org/rec/conf/conext/BemtenDV0MBK20</url></info>
+<url>URL#1402033</url>
+</hit>
+<hit score="1" id="1402036">
+<info><authors><author pid="180/5790">Pietro Bressana</author><author pid="24/8146">Noa Zilberman</author><author pid="49/6828">Robert Soulé</author></authors><title>Finding hard-to-find data plane bugs with a PTA.</title><venue>CoNEXT</venue><pages>218-231</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BressanaZS20</key><doi>10.1145/3386367.3431313</doi><ee>https://doi.org/10.1145/3386367.3431313</ee><url>https://dblp.org/rec/conf/conext/BressanaZS20</url></info>
+<url>URL#1402036</url>
+</hit>
+<hit score="1" id="1402037">
+<info><authors><author pid="204/5581">Valerio Bruschi</author><author pid="140/7690">Ran Ben Basat</author><author pid="166/6255">Zaoxing Liu</author><author pid="00/4948">Gianni Antichi</author><author pid="22/3090-1">Giuseppe Bianchi 0001</author><author pid="74/838">Michael Mitzenmacher</author></authors><title>DISCOvering the heavy hitters with disaggregated sketches.</title><venue>CoNEXT</venue><pages>536-537</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BruschiBLA0M20</key><doi>10.1145/3386367.3431674</doi><ee>https://doi.org/10.1145/3386367.3431674</ee><url>https://dblp.org/rec/conf/conext/BruschiBLA0M20</url></info>
+<url>URL#1402037</url>
+</hit>
+<hit score="1" id="1402038">
+<info><authors><author pid="227/7176">Nishant Budhdev</author><author pid="137/0874">Raj Joshi</author><author pid="76/9841">Pravein Govindan Kannan</author><author pid="28/6329">Mun Choon Chan</author><author pid="22/5985">Tulika Mitra</author></authors><title>Slicing 5G fronthaul networks using programmable switches.</title><venue>CoNEXT</venue><pages>534-535</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BudhdevJKCM20</key><doi>10.1145/3386367.3431668</doi><ee>https://doi.org/10.1145/3386367.3431668</ee><url>https://dblp.org/rec/conf/conext/BudhdevJKCM20</url></info>
+<url>URL#1402038</url>
+</hit>
+<hit score="1" id="1402040">
+<info><authors><author pid="215/5665">Ahmad Darki</author><author pid="f/MichalisFaloutsos">Michalis Faloutsos</author></authors><title>RIoTMAN: a systematic analysis of IoT malware behavior.</title><venue>CoNEXT</venue><pages>169-182</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/DarkiF20</key><doi>10.1145/3386367.3431317</doi><ee>https://doi.org/10.1145/3386367.3431317</ee><url>https://dblp.org/rec/conf/conext/DarkiF20</url></info>
+<url>URL#1402040</url>
+</hit>
+<hit score="1" id="1402041">
+<info><authors><author pid="53/2896">Jian Ding</author><author pid="18/8966">Rahman Doost-Mohammady</author><author pid="149/9171">Anuj Kalia</author><author pid="27/2552-1">Lin Zhong 0001</author></authors><title>Agora: Real-time massive MIMO baseband processing in software.</title><venue>CoNEXT</venue><pages>232-244</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/DingDK020</key><doi>10.1145/3386367.3431296</doi><ee>https://doi.org/10.1145/3386367.3431296</ee><url>https://dblp.org/rec/conf/conext/DingDK020</url></info>
+<url>URL#1402041</url>
+</hit>
+<hit score="1" id="1402043">
+<info><authors><author pid="224/2185">Marco Faltelli</author><author pid="224/2159">Giacomo Belocchi</author><author pid="q/FrancescoQuaglia">Francesco Quaglia</author><author pid="72/5613">Salvatore Pontarelli</author><author pid="22/3090-1">Giuseppe Bianchi 0001</author></authors><title>Metronome: adaptive and precise intermittent packet retrieval in DPDK.</title><venue>CoNEXT</venue><pages>406-420</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/FaltelliBQP020</key><doi>10.1145/3386367.3432730</doi><ee>https://doi.org/10.1145/3386367.3432730</ee><url>https://dblp.org/rec/conf/conext/FaltelliBQP020</url></info>
+<url>URL#1402043</url>
+</hit>
+<hit score="1" id="1402045">
+<info><authors><author pid="252/4839">Tomer Gilad</author><author pid="224/2315">Neta Rozen Schiff</author><author pid="g/BrightenGodfrey">Philip Brighten Godfrey</author><author pid="62/2645">Costin Raiciu</author><author pid="15/5634">Michael Schapira</author></authors><title>MPCC: online learning multipath transport.</title><venue>CoNEXT</venue><pages>121-135</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GiladSGRS20</key><doi>10.1145/3386367.3433030</doi><ee>https://doi.org/10.1145/3386367.3433030</ee><url>https://dblp.org/rec/conf/conext/GiladSGRS20</url></info>
+<url>URL#1402045</url>
+</hit>
+<hit score="1" id="1402047">
+<info><authors><author pid="192/1291">Swati Goswami</author><author pid="204/2960">Nodir Kodirov</author><author pid="71/7411">Craig Mustard</author><author pid="98/5324">Ivan Beschastnikh</author><author pid="s/MargoISeltzer">Margo I. Seltzer</author></authors><title>Parking packet payload with P4.</title><venue>CoNEXT</venue><pages>274-281</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GoswamiKMBS20</key><doi>10.1145/3386367.3431295</doi><ee>https://doi.org/10.1145/3386367.3431295</ee><url>https://dblp.org/rec/conf/conext/GoswamiKMBS20</url></info>
+<url>URL#1402047</url>
+</hit>
+<hit score="1" id="1402048">
+<info><authors><author pid="279/5628">Buddhi Gunarathne</author><author pid="279/5492">Chiranthana Prabhath</author><author pid="279/5517">Vinura Perera</author><author pid="279/5575">Kutila Gunasekara</author></authors><title>Distributing deep learning inference on edge devices.</title><venue>CoNEXT</venue><pages>556-557</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GunarathnePPG20</key><doi>10.1145/3386367.3431666</doi><ee>https://doi.org/10.1145/3386367.3431666</ee><url>https://dblp.org/rec/conf/conext/GunarathnePPG20</url></info>
+<url>URL#1402048</url>
+</hit>
+<hit score="1" id="1402049">
+<info><authors><author pid="g/HimanshuGupta">Himanshu Gupta 0001</author><author pid="183/1778">Max Curran</author><author pid="193/9280">Caitao Zhan</author></authors><title>Near-optimal multihop scheduling in general circuit-switched networks.</title><venue>CoNEXT</venue><pages>31-45</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GuptaCZ20</key><doi>10.1145/3386367.3432589</doi><ee>https://doi.org/10.1145/3386367.3432589</ee><url>https://dblp.org/rec/conf/conext/GuptaCZ20</url></info>
+<url>URL#1402049</url>
+</hit>
+<hit score="1" id="1402050">
+<info><authors><author pid="151/4130">Osama Haq</author><author pid="150/2168">Cody Doucette</author><author pid="b/JohnWByers">John W. Byers</author><author pid="d/FahadRafiqueDogar">Fahad R. Dogar</author></authors><title>Judicious QoS using cloud overlays.</title><venue>CoNEXT</venue><pages>371-385</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HaqDBD20</key><doi>10.1145/3386367.3431318</doi><ee>https://doi.org/10.1145/3386367.3431318</ee><url>https://dblp.org/rec/conf/conext/HaqDBD20</url></info>
+<url>URL#1402050</url>
+</hit>
+<hit score="1" id="1402051">
+<info><authors><author pid="270/6073">Joris Herbots</author><author pid="77/5063">Maarten Wijnants 0001</author><author pid="51/4423">Wim Lamotte</author><author pid="77/1398">Peter Quax</author></authors><title>Cross-layer metrics sharing for QUICker video streaming.</title><venue>CoNEXT</venue><pages>542-543</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Herbots0LQ20</key><doi>10.1145/3386367.3431901</doi><ee>https://doi.org/10.1145/3386367.3431901</ee><url>https://dblp.org/rec/conf/conext/Herbots0LQ20</url></info>
+<url>URL#1402051</url>
+</hit>
+<hit score="1" id="1402052">
+<info><authors><author pid="h/MRHoseinyFarahabady">M. Reza HoseinyFarahabady</author><author pid="60/739">Javid Taheri</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author><author pid="t/ZahirTari">Zahir Tari</author></authors><title>Auto-tuning of large-scale iterative operations on modern streaming platforms.</title><venue>CoNEXT</venue><pages>554-555</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HoseinyFarahabady20</key><doi>10.1145/3386367.3431680</doi><ee>https://doi.org/10.1145/3386367.3431680</ee><url>https://dblp.org/rec/conf/conext/HoseinyFarahabady20</url></info>
+<url>URL#1402052</url>
+</hit>
+<hit score="1" id="1402053">
+<info><authors><author pid="279/5658">Joel Hypolite</author><author pid="145/2967">John Sonchack</author><author pid="68/985">Shlomo Hershkop</author><author pid="20/10299">Nathan Dautenhahn</author><author pid="d/ADeHon">André DeHon</author><author pid="s/JonathanMSmith">Jonathan M. Smith</author></authors><title>DeepMatch: practical deep packet inspection in the data plane using network processors.</title><venue>CoNEXT</venue><pages>336-350</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HypoliteSHDDS20</key><doi>10.1145/3386367.3431290</doi><ee>https://doi.org/10.1145/3386367.3431290</ee><url>https://dblp.org/rec/conf/conext/HypoliteSHDDS20</url></info>
+<url>URL#1402053</url>
+</hit>
+<hit score="1" id="1402054">
+<info><authors><author pid="144/4964">Peter Gjøl Jensen</author><author pid="243/4990">Dan Kristiansen</author><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="246/8257">Morten Konggaard Schou</author><author pid="279/5561">Bernhard Clemens Schrenk</author><author pid="s/JiriSrba">Jirí Srba</author></authors><title>AalWiNes: a fast and quantitative what-if analysis tool for MPLS networks.</title><venue>CoNEXT</venue><pages>474-481</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/JensenK0SSS20</key><doi>10.1145/3386367.3431308</doi><ee>https://doi.org/10.1145/3386367.3431308</ee><url>https://dblp.org/rec/conf/conext/JensenK0SSS20</url></info>
+<url>URL#1402054</url>
+</hit>
+<hit score="1" id="1402055">
+<info><authors><author pid="188/5904">Theo Jepsen</author><author pid="157/0160">Ali Fattaholmanan</author><author pid="134/3932">Masoud Moshref</author><author pid="15/3253">Nate Foster</author><author pid="53/4439">Antonio Carzaniga</author><author pid="49/6828">Robert Soulé</author></authors><title>Forwarding and routing with packet subscriptions.</title><venue>CoNEXT</venue><pages>282-294</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/JepsenFMFCS20</key><doi>10.1145/3386367.3431315</doi><ee>https://doi.org/10.1145/3386367.3431315</ee><url>https://dblp.org/rec/conf/conext/JepsenFMFCS20</url></info>
+<url>URL#1402055</url>
+</hit>
+<hit score="1" id="1402057">
+<info><authors><author pid="252/3404">Chang Kyung Kim</author><author pid="46/6697">Taeyoung Kim</author><author pid="279/5631">Anna Cho</author><author pid="64/5674">SuKyoung Lee</author></authors><title>Delay-aware distributed caching scheme in edge network.</title><venue>CoNEXT</venue><pages>544-545</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KimKCL20</key><doi>10.1145/3386367.3431664</doi><ee>https://doi.org/10.1145/3386367.3431664</ee><url>https://dblp.org/rec/conf/conext/KimKCL20</url></info>
+<url>URL#1402057</url>
+</hit>
+<hit score="1" id="1402058">
+<info><authors><author pid="00/6853">Young Ki Kim</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Multi-directional CPU resource control in edge computing.</title><venue>CoNEXT</venue><pages>550-551</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KimZ20</key><doi>10.1145/3386367.3431675</doi><ee>https://doi.org/10.1145/3386367.3431675</ee><url>https://dblp.org/rec/conf/conext/KimZ20</url></info>
+<url>URL#1402058</url>
+</hit>
+<hit score="1" id="1402059">
+<info><authors><author pid="98/3396">Amit Klein 0001</author><author pid="279/5630">Elias Heftrig</author><author pid="94/7397">Haya Shulman</author><author pid="90/308">Michael Waidner</author></authors><title>Black-box caches fingerprinting.</title><venue>CoNEXT</venue><pages>564-565</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KleinHSW20</key><doi>10.1145/3386367.3432148</doi><ee>https://doi.org/10.1145/3386367.3432148</ee><url>https://dblp.org/rec/conf/conext/KleinHSW20</url></info>
+<url>URL#1402059</url>
+</hit>
+<hit score="1" id="1402061">
+<info><authors><author pid="45/6553">Wojciech Kozlowski</author><author pid="211/7996">Axel Dahlberg</author><author pid="89/5916">Stephanie Wehner</author></authors><title>Designing a quantum network protocol.</title><venue>CoNEXT</venue><pages>1-16</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KozlowskiDW20</key><doi>10.1145/3386367.3431293</doi><ee>https://doi.org/10.1145/3386367.3431293</ee><url>https://dblp.org/rec/conf/conext/KozlowskiDW20</url></info>
+<url>URL#1402061</url>
+</hit>
+<hit score="1" id="1402063">
+<info><authors><author pid="143/5662">Thomas Krenc</author><author pid="12/1817">Robert Beverly</author><author pid="88/6355">Georgios Smaragdakis</author></authors><title>Keep your communities clean: exploring the routing message impact of BGP communities.</title><venue>CoNEXT</venue><pages>443-450</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KrencBS20</key><doi>10.1145/3386367.3432731</doi><ee>https://doi.org/10.1145/3386367.3432731</ee><url>https://dblp.org/rec/conf/conext/KrencBS20</url></info>
+<url>URL#1402063</url>
+</hit>
+<hit score="1" id="1402065">
+<info><authors><author pid="202/1636">Dayoung Lee</author><author pid="71/4935-2">Minseok Song 0002</author></authors><title>Popularity-based transcoding workload allocation for improving video quality in live streaming systems.</title><venue>CoNEXT</venue><pages>540-541</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Lee020</key><doi>10.1145/3386367.3431665</doi><ee>https://doi.org/10.1145/3386367.3431665</ee><url>https://dblp.org/rec/conf/conext/Lee020</url></info>
+<url>URL#1402065</url>
+</hit>
+<hit score="1" id="1402066">
+<info><authors><author pid="56/8473">Sangtae Lee</author><author pid="33/2332">Youngjoo Shin</author><author pid="21/1967">Junbeom Hur</author></authors><title>Return of version downgrade attack in the era of TLS 1.3.</title><venue>CoNEXT</venue><pages>157-168</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/LeeSH20</key><doi>10.1145/3386367.3431310</doi><ee>https://doi.org/10.1145/3386367.3431310</ee><url>https://dblp.org/rec/conf/conext/LeeSH20</url></info>
+<url>URL#1402066</url>
+</hit>
+<hit score="1" id="1402072">
+<info><authors><author pid="136/8000">Tarun Mangla</author><author pid="64/1936">Emir Halepovic</author><author pid="z/EllenWZegura">Ellen W. Zegura</author><author pid="a/MHAmmar">Mostafa H. Ammar</author></authors><title>Drop the packets: using coarse-grained data to detect video performance issues.</title><venue>CoNEXT</venue><pages>71-77</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ManglaHZA20</key><doi>10.1145/3386367.3431294</doi><ee>https://doi.org/10.1145/3386367.3431294</ee><url>https://dblp.org/rec/conf/conext/ManglaHZA20</url></info>
+<url>URL#1402072</url>
+</hit>
+<hit score="1" id="1402073">
+<info><authors><author pid="207/6326">Jonatas Adilson Marques</author><author pid="l/KirillLevchenko">Kirill Levchenko</author><author pid="g/LPGaspary">Luciano Paschoal Gaspary</author></authors><title>IntSight: diagnosing SLO violations with in-band network telemetry.</title><venue>CoNEXT</venue><pages>421-434</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/MarquesLG20</key><doi>10.1145/3386367.3431306</doi><ee>https://doi.org/10.1145/3386367.3431306</ee><url>https://dblp.org/rec/conf/conext/MarquesLG20</url></info>
+<url>URL#1402073</url>
+</hit>
+<hit score="1" id="1402077">
+<info><authors><author pid="279/5563">Heena Nagda</author><author pid="279/5463">Rakesh Nagda</author><author pid="165/8545">Isaac Pedisich</author><author pid="72/3034">Nik Sultana</author><author pid="75/3108">Boon Thau Loo</author></authors><title>FDP: a teaching and demo platform for SDN.</title><venue>CoNEXT</venue><pages>524-525</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/NagdaNPSL20</key><doi>10.1145/3386367.3431886</doi><ee>https://doi.org/10.1145/3386367.3431886</ee><url>https://dblp.org/rec/conf/conext/NagdaNPSL20</url></info>
+<url>URL#1402077</url>
+</hit>
+<hit score="1" id="1402079">
+<info><authors><author pid="34/10957">Ramakrishna Padmanabhan</author><author pid="29/11081">John P. Rula</author><author pid="01/7272">Philipp Richter</author><author pid="77/10700">Stephen D. Strowes</author><author pid="28/5074">Alberto Dainotti</author></authors><title>DynamIPs: analyzing address assignment practices in IPv4 and IPv6.</title><venue>CoNEXT</venue><pages>55-70</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PadmanabhanRRSD20</key><doi>10.1145/3386367.3431314</doi><ee>https://doi.org/10.1145/3386367.3431314</ee><url>https://dblp.org/rec/conf/conext/PadmanabhanRRSD20</url></info>
+<url>URL#1402079</url>
+</hit>
+<hit score="1" id="1402080">
+<info><authors><author pid="202/7241">Jordi Paillisse</author><author pid="36/6050">Marc Portoles</author><author pid="05/6916">Albert López</author><author pid="128/1194">Alberto Rodríguez-Natal</author><author pid="277/6417">David Iacobacci</author><author pid="277/6175">Johnson Leong</author><author pid="05/7234">Victor Moreno</author><author pid="42/2223">Albert Cabellos</author><author pid="22/4623">Fabio Maino</author><author pid="277/5781">Sanjay Hooda</author></authors><title>SD-access: practical experiences in designing and deploying software defined enterprise networks.</title><venue>CoNEXT</venue><pages>496-508</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PaillissePLRILM20</key><doi>10.1145/3386367.3431288</doi><ee>https://doi.org/10.1145/3386367.3431288</ee><url>https://dblp.org/rec/conf/conext/PaillissePLRILM20</url></info>
+<url>URL#1402080</url>
+</hit>
+<hit score="1" id="1402081">
+<info><authors><author pid="279/5552">Gianluca Perna</author><author pid="186/8831">Martino Trevisan</author><author pid="160/8766">Danilo Giordano</author></authors><title>Realistic testing of RTC applications under mobile networks.</title><venue>CoNEXT</venue><pages>532-533</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PernaTG20</key><doi>10.1145/3386367.3431661</doi><ee>https://doi.org/10.1145/3386367.3431661</ee><url>https://dblp.org/rec/conf/conext/PernaTG20</url></info>
+<url>URL#1402081</url>
+</hit>
+<hit score="1" id="1402082">
+<info><authors><author pid="277/0393">Lars Prehn</author><author pid="188/5868">Franziska Lichtblau</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>When wells run dry: the 2020 IPv4 address market.</title><venue>CoNEXT</venue><pages>46-54</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PrehnLF20</key><doi>10.1145/3386367.3431301</doi><ee>https://doi.org/10.1145/3386367.3431301</ee><url>https://dblp.org/rec/conf/conext/PrehnLF20</url></info>
+<url>URL#1402082</url>
+</hit>
+<hit score="1" id="1402083">
+<info><authors><author pid="204/8118">Xukan Ran</author><author pid="252/4834">Carter Slocum</author><author pid="279/5637">Yi-Zhen Tsai</author><author pid="40/10241">Kittipat Apicharttrisorn</author><author pid="58/7552">Maria Gorlatova</author><author pid="35/9005">Jiasi Chen</author></authors><title>Multi-user augmented reality with communication efficient and spatially consistent virtual objects.</title><venue>CoNEXT</venue><pages>386-398</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/RanSTAGC20</key><doi>10.1145/3386367.3431312</doi><ee>https://doi.org/10.1145/3386367.3431312</ee><url>https://dblp.org/rec/conf/conext/RanSTAGC20</url></info>
+<url>URL#1402083</url>
+</hit>
+<hit score="1" id="1402084">
+<info><authors><author pid="60/2579">Pedro Reviriego</author><author pid="72/5613">Salvatore Pontarelli</author></authors><title>When filtering is not possible caching negatives with fingerprints comes to the rescue.</title><venue>CoNEXT</venue><pages>435-442</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ReviriegoP20</key><doi>10.1145/3386367.3431300</doi><ee>https://doi.org/10.1145/3386367.3431300</ee><url>https://dblp.org/rec/conf/conext/ReviriegoP20</url></info>
+<url>URL#1402084</url>
+</hit>
+<hit score="1" id="1402085">
+<info><authors><author pid="182/6409">Nils Rodday</author><author pid="279/5648">Ruben van Baaren</author><author pid="79/10703">Luuk Hendriks</author><author pid="155/5773">Roland van Rijswijk-Deij</author><author pid="p/AikoPras">Aiko Pras</author><author pid="97/1158">Gabi Dreo</author></authors><title>Evaluating RPKI ROV identification methodologies in automatically generated mininet topologies.</title><venue>CoNEXT</venue><pages>530-531</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/RoddayBHRPD20</key><doi>10.1145/3386367.3431669</doi><ee>https://doi.org/10.1145/3386367.3431669</ee><url>https://dblp.org/rec/conf/conext/RoddayBHRPD20</url></info>
+<url>URL#1402085</url>
+</hit>
+<hit score="1" id="1402086">
+<info><authors><author pid="244/9369">Alessio Sacco</author><author pid="78/1529">Flavio Esposito</author><author pid="18/4780">Guido Marchetto</author></authors><title>A distributed reinforcement learning approach for energy and congestion-aware edge networks.</title><venue>CoNEXT</venue><pages>546-547</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SaccoEM20</key><doi>10.1145/3386367.3431670</doi><ee>https://doi.org/10.1145/3386367.3431670</ee><url>https://dblp.org/rec/conf/conext/SaccoEM20</url></info>
+<url>URL#1402086</url>
+</hit>
+<hit score="1" id="1402087">
+<info><authors><author pid="215/3531">Yaniv Sadeh</author><author pid="48/2092">Ori Rottenstreich</author><author pid="48/3950">Haim Kaplan</author></authors><title>Optimal approximations for traffic distribution in bounded switch memories.</title><venue>CoNEXT</venue><pages>309-322</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SadehRK20</key><doi>10.1145/3386367.3431297</doi><ee>https://doi.org/10.1145/3386367.3431297</ee><url>https://dblp.org/rec/conf/conext/SadehRK20</url></info>
+<url>URL#1402087</url>
+</hit>
+<hit score="1" id="1402090">
+<info><authors><author pid="185/2444">Daniel Senf</author><author pid="94/7397">Haya Shulman</author><author pid="90/308">Michael Waidner</author></authors><title>Performance penalties of resilient SDN infrastructures.</title><venue>CoNEXT</venue><pages>528-529</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SenfSW20</key><doi>10.1145/3386367.3432351</doi><ee>https://doi.org/10.1145/3386367.3432351</ee><url>https://dblp.org/rec/conf/conext/SenfSW20</url></info>
+<url>URL#1402090</url>
+</hit>
+<hit score="1" id="1402092">
+<info><authors><author pid="00/8087">Sachin Sharma</author><author pid="49/7739">Avishek Nag</author><author pid="68/6104">Luís Cordeiro</author><author pid="174/9648">Omran Ayoub</author><author pid="11/6844">Massimo Tornatore</author><author pid="92/4513">Maziar M. Nekovee</author></authors><title>Towards explainable artificial intelligence for network function virtualization.</title><venue>CoNEXT</venue><pages>558-559</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SharmaNCATN20</key><doi>10.1145/3386367.3431673</doi><ee>https://doi.org/10.1145/3386367.3431673</ee><url>https://dblp.org/rec/conf/conext/SharmaNCATN20</url></info>
+<url>URL#1402092</url>
+</hit>
+<hit score="1" id="1402095">
+<info><authors><author pid="207/7977">Dimitrios Sikeridis</author><author pid="154/0807">Panos Kampanakis</author><author pid="61/3564">Michael Devetsikiotis</author></authors><title>Assessing the overhead of post-quantum cryptography in TLS 1.3 and SSH.</title><venue>CoNEXT</venue><pages>149-156</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SikeridisKD20</key><doi>10.1145/3386367.3431305</doi><ee>https://doi.org/10.1145/3386367.3431305</ee><url>https://dblp.org/rec/conf/conext/SikeridisKD20</url></info>
+<url>URL#1402095</url>
+</hit>
+<hit score="1" id="1402096">
+<info><authors><author pid="279/5522">Cha Hwan Song</author><author pid="76/9841">Pravein Govindan Kannan</author><author pid="97/4877">Bryan Kian Hsiang Low</author><author pid="28/6329">Mun Choon Chan</author></authors><title>FCM-sketch: generic network measurements with data plane support.</title><venue>CoNEXT</venue><pages>78-92</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SongKLC20</key><doi>10.1145/3386367.3432729</doi><ee>https://doi.org/10.1145/3386367.3432729</ee><url>https://dblp.org/rec/conf/conext/SongKLC20</url></info>
+<url>URL#1402096</url>
+</hit>
+<hit score="1" id="1402099">
+<info><authors><author pid="197/7167">Parvin Taheri</author><author pid="170/0091">Danushka Menikkumbura</author><author pid="197/7153">Erico Vanini</author><author pid="f/SoniaFahmy">Sonia Fahmy</author><author pid="e/PTEugster">Patrick Eugster</author><author pid="139/4063">Tom Edsall</author></authors><title>RoCC: robust congestion control for RDMA.</title><venue>CoNEXT</venue><pages>17-30</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/TaheriMVFEE20</key><doi>10.1145/3386367.3431316</doi><ee>https://doi.org/10.1145/3386367.3431316</ee><url>https://dblp.org/rec/conf/conext/TaheriMVFEE20</url></info>
+<url>URL#1402099</url>
+</hit>
+<hit score="1" id="1402100">
+<info><authors><author pid="187/9482">Lizhuang Tan</author><author pid="50/4091-6">Wei Su 0006</author><author pid="279/5625">Xiaochuan Gao</author><author pid="10/4661-49">Wei Zhang 0049</author></authors><title>OpenQUIC: software-defined transmission like building blocks.</title><venue>CoNEXT</venue><pages>526-527</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/TanSGZ20</key><doi>10.1145/3386367.3431903</doi><ee>https://doi.org/10.1145/3386367.3431903</ee><url>https://dblp.org/rec/conf/conext/TanSGZ20</url></info>
+<url>URL#1402100</url>
+</hit>
+<hit score="1" id="1402101">
+<info><authors><author pid="279/5617">Valeria Turina</author><author pid="269/9794">Zongshun Zhang</author><author pid="78/1529">Flavio Esposito</author><author pid="m/IbrahimMatta">Ibrahim Matta</author></authors><title>Combining split and federated architectures for efficiency and privacy in deep learning.</title><venue>CoNEXT</venue><pages>562-563</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/TurinaZEM20</key><doi>10.1145/3386367.3431678</doi><ee>https://doi.org/10.1145/3386367.3431678</ee><url>https://dblp.org/rec/conf/conext/TurinaZEM20</url></info>
+<url>URL#1402101</url>
+</hit>
+<hit score="1" id="1402103">
+<info><authors><author pid="220/3097">Sébastien Vaucher</author><author pid="188/2975">Niloofar Yazdani</author><author pid="f/PascalFelber">Pascal Felber</author><author pid="96/3518">Daniel E. Lucani</author><author pid="15/2850">Valerio Schiavoni</author></authors><title>ZipLine: in-network compression at line speed.</title><venue>CoNEXT</venue><pages>399-405</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/VaucherYFLS20</key><doi>10.1145/3386367.3431302</doi><ee>https://doi.org/10.1145/3386367.3431302</ee><url>https://dblp.org/rec/conf/conext/VaucherYFLS20</url></info>
+<url>URL#1402103</url>
+</hit>
+<hit score="1" id="1402106">
+<info><authors><author pid="42/1503-28">Shuai Wang 0028</author><author pid="48/4185-1">Dan Li 0001</author><author pid="38/6831">Jiansong Zhang</author><author pid="99/2649-16">Wei Lin 0016</author></authors><title>CEFS: compute-efficient flow scheduling for iterative synchronous applications.</title><venue>CoNEXT</venue><pages>136-148</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/WangLZL20</key><doi>10.1145/3386367.3431307</doi><ee>https://doi.org/10.1145/3386367.3431307</ee><url>https://dblp.org/rec/conf/conext/WangLZL20</url></info>
+<url>URL#1402106</url>
+</hit>
+<hit score="1" id="1402107">
+<info><authors><author pid="193/8330">Michael D. Wong</author><author pid="252/4831">Aatish Kishan Varma</author><author pid="123/2342">Anirudh Sivaraman</author></authors><title>Testing compilers for programmable switches through switch hardware simulation.</title><venue>CoNEXT</venue><pages>211-217</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/WongVS20</key><doi>10.1145/3386367.3431309</doi><ee>https://doi.org/10.1145/3386367.3431309</ee><url>https://dblp.org/rec/conf/conext/WongVS20</url></info>
+<url>URL#1402107</url>
+</hit>
+<hit score="1" id="1402109">
+<info><authors><author pid="91/7634">Xinan Yan</author><author pid="219/9704">Linguan Yang</author><author pid="34/2603-1">Bernard Wong 0001</author></authors><title>Domino: using network measurements to reduce state machine replication latency in WANs.</title><venue>CoNEXT</venue><pages>351-363</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/YanYW20</key><doi>10.1145/3386367.3431291</doi><ee>https://doi.org/10.1145/3386367.3431291</ee><url>https://dblp.org/rec/conf/conext/YanYW20</url></info>
+<url>URL#1402109</url>
+</hit>
+<hit score="1" id="1402110">
+<info><authors><author pid="32/9556">Meihong Yang</author><author pid="10/4661-49">Wei Zhang 0049</author><author pid="279/5595">Yuhan Zhao</author><author pid="187/9482">Lizhuang Tan</author></authors><title>PANGU: a cloud-edge collaborative resource management platform centered on supercomputing.</title><venue>CoNEXT</venue><pages>552-553</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/YangZZT20</key><doi>10.1145/3386367.3431679</doi><ee>https://doi.org/10.1145/3386367.3431679</ee><url>https://dblp.org/rec/conf/conext/YangZZT20</url></info>
+<url>URL#1402110</url>
+</hit>
+<hit score="1" id="1402111">
+<info><authors><author pid="11/21">Jane Yen</author><author pid="65/4872">Jianfeng Wang</author><author pid="24/7628">Sucha Supittayapornpong</author><author pid="11/6979">Marcos Augusto M. Vieira</author><author pid="g/RameshGovindan">Ramesh Govindan</author><author pid="22/3604">Barath Raghavan</author></authors><title>Meeting SLOs in cross-platform NFV.</title><venue>CoNEXT</venue><pages>509-523</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/YenWSVGR20</key><doi>10.1145/3386367.3431292</doi><ee>https://doi.org/10.1145/3386367.3431292</ee><url>https://dblp.org/rec/conf/conext/YenWSVGR20</url></info>
+<url>URL#1402111</url>
+</hit>
+<hit score="1" id="1402114">
+<info><authors><author pid="36/2728-8">Yu Zhou 0008</author><author pid="03/10352">Dai Zhang</author><author pid="12/4000-1">Kai Gao 0001</author><author pid="01/6072-5">Chen Sun 0005</author><author pid="224/2165">Jiamin Cao</author><author pid="20/8967-1">Yangyang Wang 0001</author><author pid="18/6055">Mingwei Xu</author><author pid="82/4905">Jianping Wu</author></authors><title>Newton: intent-driven network traffic monitoring.</title><venue>CoNEXT</venue><pages>295-308</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZhouZGSCWXW20</key><doi>10.1145/3386367.3431298</doi><ee>https://doi.org/10.1145/3386367.3431298</ee><url>https://dblp.org/rec/conf/conext/ZhouZGSCWXW20</url></info>
+<url>URL#1402114</url>
+</hit>
+<hit score="1" id="1402115">
+<info><authors><author pid="155/8420">Shitong Zhu</author><author pid="34/8146">Shasha Li</author><author pid="88/845-2">Zhongjie Wang 0002</author><author pid="34/6795">Xun Chen</author><author pid="31/8302">Zhiyun Qian</author><author pid="k/SrikanthVKrishnamurthy">Srikanth V. Krishnamurthy</author><author pid="129/2261">Kevin S. Chan</author><author pid="89/5072">Ananthram Swami</author></authors><title>You do (not) belong here: detecting DPI evasion attacks with context learning.</title><venue>CoNEXT</venue><pages>183-197</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZhuL0CQKCS20</key><doi>10.1145/3386367.3431311</doi><ee>https://doi.org/10.1145/3386367.3431311</ee><url>https://dblp.org/rec/conf/conext/ZhuL0CQKCS20</url></info>
+<url>URL#1402115</url>
+</hit>
+<hit score="1" id="1539222">
+<info><authors><author pid="12/5388">Dongsu Han</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>CoNEXT &apos;20: The 16th International Conference on emerging Networking EXperiments and Technologies, Barcelona, Spain, December, 2020</title><venue>CoNEXT</venue><publisher>ACM</publisher><year>2020</year><type>Editorship</type><key>conf/conext/2020</key><doi>10.1145/3386367</doi><ee>https://doi.org/10.1145/3386367</ee><url>https://dblp.org/rec/conf/conext/2020</url></info>
+<url>URL#1539222</url>
+</hit>
+</hits>
+</result>

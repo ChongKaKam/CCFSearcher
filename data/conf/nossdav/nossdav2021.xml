@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59645">:facetid:toc:\"db/conf/nossdav/nossdav2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">199.25</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="41057627">:facetid:toc:db/conf/nossdav/nossdav2021.bht</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="1" id="1067301">
+<info><authors><author pid="141/0267">Abdelhak Bentaleb</author><author pid="24/1815">May Lim</author><author pid="266/2427">Mehmet N. Akcay</author><author pid="29/5373">Ali C. Begen</author><author pid="79/1490">Roger Zimmermann</author></authors><title>Common media client data (CMCD): initial findings.</title><venue>NOSSDAV</venue><pages>25-33</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/BentalebLABZ21</key><doi>10.1145/3458306.3461444</doi><ee>https://doi.org/10.1145/3458306.3461444</ee><url>https://dblp.org/rec/conf/nossdav/BentalebLABZ21</url></info>
+<url>URL#1067301</url>
+</hit>
+<hit score="1" id="1067302">
+<info><authors><author pid="29/2042">Jacob Chakareski</author><author pid="154/3503">Mahmudur Khan 0002</author></authors><title>Wifi-VLC dual connectivity streaming system for 6DOF multi-user virtual reality.</title><venue>NOSSDAV</venue><pages>106-113</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ChakareskiK21</key><doi>10.1145/3458306.3460999</doi><ee>https://doi.org/10.1145/3458306.3460999</ee><url>https://dblp.org/rec/conf/nossdav/ChakareskiK21</url></info>
+<url>URL#1067302</url>
+</hit>
+<hit score="1" id="1067303">
+<info><authors><author pid="21/5521">Ying Chen</author><author pid="181/2689-6">Qing Li 0006</author><author pid="186/1165">Aoyang Zhang</author><author pid="137/6287">Longhao Zou</author><author pid="74/1552-1">Yong Jiang 0001</author><author pid="48/1136">Zhimin Xu</author><author pid="66/6872">Junlin Li</author><author pid="02/7455">Zhenhui Yuan</author></authors><title>Higher quality live streaming under lower uplink bandwidth: an approach of super-resolution based video coding.</title><venue>NOSSDAV</venue><pages>74-81</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ChenLZZJXLY21</key><doi>10.1145/3458306.3458874</doi><ee>https://doi.org/10.1145/3458306.3458874</ee><url>https://dblp.org/rec/conf/nossdav/ChenLZZJXLY21</url></info>
+<url>URL#1067303</url>
+</hit>
+<hit score="1" id="1067304">
+<info><authors><author pid="292/2540">Amaya Dharmasiri</author><author pid="283/3439">Chamara Kattadige</author><author pid="242/8103">Vincent Zhang</author><author pid="92/10700">Kanchana Thilakarathna</author></authors><title>Viewport-aware dynamic 360° video segment categorization.</title><venue>NOSSDAV</venue><pages>114-121</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/DharmasiriKZT21</key><doi>10.1145/3458306.3461000</doi><ee>https://doi.org/10.1145/3458306.3461000</ee><url>https://dblp.org/rec/conf/nossdav/DharmasiriKZT21</url></info>
+<url>URL#1067304</url>
+</hit>
+<hit score="1" id="1067305">
+<info><authors><author pid="238/9538">Reza Farahani</author><author pid="23/2837">Farzad Tashtarian</author><author pid="145/6798">Alireza R. Erfanian</author><author pid="81/5358">Christian Timmerer</author><author pid="g/MohammedGhanbari">Mohammad Ghanbari 0001</author><author pid="h/HermannHellwagner">Hermann Hellwagner</author></authors><title>ES-HAS: an edge- and SDN-assisted framework for HTTP adaptive video streaming.</title><venue>NOSSDAV</venue><pages>50-57</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/FarahaniTET0H21</key><doi>10.1145/3458306.3460997</doi><ee>https://doi.org/10.1145/3458306.3460997</ee><url>https://dblp.org/rec/conf/nossdav/FarahaniTET0H21</url></info>
+<url>URL#1067305</url>
+</hit>
+<hit score="1" id="1067306">
+<info><authors><author pid="220/3448">Tianchi Huang</author><author pid="220/3394">Rui-Xiao Zhang</author><author pid="06/2128">Lifeng Sun</author></authors><title>Deep reinforced bitrate ladders for adaptive video streaming.</title><venue>NOSSDAV</venue><pages>66-73</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/HuangZS21</key><doi>10.1145/3458306.3458873</doi><ee>https://doi.org/10.1145/3458306.3458873</ee><url>https://dblp.org/rec/conf/nossdav/HuangZS21</url></info>
+<url>URL#1067306</url>
+</hit>
+<hit score="1" id="1067307">
+<info><authors><author pid="226/2477">Nuowen Kan</author><author pid="07/7910">Chenglin Li</author><author pid="291/7120">Caiyi Yang</author><author pid="16/5135">Wenrui Dai</author><author pid="91/4613">Junni Zou</author><author pid="21/3569">Hongkai Xiong</author></authors><title>Uncertainty-aware robust adaptive video streaming with bayesian neural network and model predictive control.</title><venue>NOSSDAV</venue><pages>17-24</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/KanLYDZX21</key><doi>10.1145/3458306.3458872</doi><ee>https://doi.org/10.1145/3458306.3458872</ee><url>https://dblp.org/rec/conf/nossdav/KanLYDZX21</url></info>
+<url>URL#1067307</url>
+</hit>
+<hit score="1" id="1067308">
+<info><authors><author pid="283/3439">Chamara Kattadige</author><author pid="141/9377">Aravindh Raman</author><author pid="92/10700">Kanchana Thilakarathna</author><author pid="31/10646">Andra Lutu</author><author pid="03/3645">Diego Perino</author></authors><title>360NorVic: 360-degree video classification from mobile encrypted video traffic.</title><venue>NOSSDAV</venue><pages>58-65</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/KattadigeRTLP21</key><doi>10.1145/3458306.3460998</doi><ee>https://doi.org/10.1145/3458306.3460998</ee><url>https://dblp.org/rec/conf/nossdav/KattadigeRTLP21</url></info>
+<url>URL#1067308</url>
+</hit>
+<hit score="1" id="1067309">
+<info><authors><author pid="66/2693">Zhenxiao Luo</author><author pid="36/7666">Zelong Wang</author><author pid="13/1103">Jinyu Chen</author><author pid="74/8189">Miao Hu</author><author pid="78/6594">Yipeng Zhou</author><author pid="89/6622">Tom Z. J. Fu</author><author pid="52/328-1">Di Wu 0001</author></authors><title>CrowdSR: enabling high-quality video ingest in crowdsourced livecast via super-resolution.</title><venue>NOSSDAV</venue><pages>90-97</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LuoWCHZFW21</key><doi>10.1145/3458306.3462170</doi><ee>https://doi.org/10.1145/3458306.3462170</ee><url>https://dblp.org/rec/conf/nossdav/LuoWCHZFW21</url></info>
+<url>URL#1067309</url>
+</hit>
+<hit score="1" id="1067310">
+<info><authors><author pid="297/5236">Wilmer Moina-Rivera</author><author pid="170/3335">Juan Gutiérrez-Aguado</author><author pid="91/3684">Miguel García-Pineda</author></authors><title>Multi-resolution quality-based video coding system for DASH scenarios.</title><venue>NOSSDAV</venue><pages>42-49</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/Moina-RiveraGG21</key><doi>10.1145/3458306.3460996</doi><ee>https://doi.org/10.1145/3458306.3460996</ee><url>https://dblp.org/rec/conf/nossdav/Moina-RiveraGG21</url></info>
+<url>URL#1067310</url>
+</hit>
+<hit score="1" id="1067311">
+<info><authors><author pid="151/3997">Anan Sawabe</author><author pid="75/971">Takanori Iwai</author><author pid="71/4736">Akihiro Nakao</author></authors><title>Data diet pills: in-network video quality control system for traffic usage reduction.</title><venue>NOSSDAV</venue><pages>9-16</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/SawabeIN21</key><doi>10.1145/3458306.3462255</doi><ee>https://doi.org/10.1145/3458306.3462255</ee><url>https://dblp.org/rec/conf/nossdav/SawabeIN21</url></info>
+<url>URL#1067311</url>
+</hit>
+<hit score="1" id="1067312">
+<info><authors><author pid="266/2594">Babak Taraghi</author><author pid="141/0267">Abdelhak Bentaleb</author><author pid="81/5358">Christian Timmerer</author><author pid="79/1490">Roger Zimmermann</author><author pid="h/HermannHellwagner">Hermann Hellwagner</author></authors><title>Understanding quality of experience of heuristic-based HTTP adaptive bitrate algorithms.</title><venue>NOSSDAV</venue><pages>82-89</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/TaraghiBTZH21</key><doi>10.1145/3458306.3458875</doi><ee>https://doi.org/10.1145/3458306.3458875</ee><url>https://dblp.org/rec/conf/nossdav/TaraghiBTZH21</url></info>
+<url>URL#1067312</url>
+</hit>
+<hit score="1" id="1067313">
+<info><authors><author pid="17/7058">Cheng-Hao Wu</author><author pid="267/6459">Xiner Li</author><author pid="297/5514">Rahul Rajesh</author><author pid="93/347">Wei Tsang Ooi</author><author pid="80/4385">Cheng-Hsin Hsu</author></authors><title>Dynamic 3D point cloud streaming: distortion and concealment.</title><venue>NOSSDAV</venue><pages>98-105</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/WuLROH21</key><doi>10.1145/3458306.3458876</doi><ee>https://doi.org/10.1145/3458306.3458876</ee><url>https://dblp.org/rec/conf/nossdav/WuLROH21</url></info>
+<url>URL#1067313</url>
+</hit>
+<hit score="1" id="1067314">
+<info><authors><author pid="49/8116">Chenglei Wu</author><author pid="95/6543-1">Zhi Wang 0001</author><author pid="06/2128">Lifeng Sun</author></authors><title>PAAS: a preference-aware deep reinforcement learning approach for 360° video streaming.</title><venue>NOSSDAV</venue><pages>34-41</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/WuWS21</key><doi>10.1145/3458306.3460995</doi><ee>https://doi.org/10.1145/3458306.3460995</ee><url>https://dblp.org/rec/conf/nossdav/WuWS21</url></info>
+<url>URL#1067314</url>
+</hit>
+<hit score="1" id="1067315">
+<info><authors><author pid="201/1265">Gangqiang Zhou</author><author pid="268/7039">Run Wu</author><author pid="74/8189">Miao Hu</author><author pid="78/6594">Yipeng Zhou</author><author pid="89/6622">Tom Z. J. Fu</author><author pid="52/328-1">Di Wu 0001</author></authors><title>Vibra: neural adaptive streaming of VBR-encoded videos.</title><venue>NOSSDAV</venue><pages>1-8</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhouWHZFW21</key><doi>10.1145/3458306.3460993</doi><ee>https://doi.org/10.1145/3458306.3460993</ee><url>https://dblp.org/rec/conf/nossdav/ZhouWHZFW21</url></info>
+<url>URL#1067315</url>
+</hit>
+<hit score="1" id="1101262">
+<info><authors><author pid="31/10646">Andra Lutu</author><author pid="16/5928">Gwendal Simon</author><author pid="96/2885">Mylène C. Q. Farias</author></authors><title>Proceedings of the 31st ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2021, Istanbul, Turkey, 28 September 2021 - 1 October, 2021.</title><venue>NOSSDAV</venue><publisher>ACM</publisher><year>2021</year><type>Editorship</type><key>conf/nossdav/2021</key><doi>10.1145/3458306</doi><ee>https://doi.org/10.1145/3458306</ee><url>https://dblp.org/rec/conf/nossdav/2021</url></info>
+<url>URL#1101262</url>
+</hit>
+</hits>
+</result>

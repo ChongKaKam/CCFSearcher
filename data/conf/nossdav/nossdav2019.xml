@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59640">:facetid:toc:\"db/conf/nossdav/nossdav2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">180.30</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="41057625">:facetid:toc:db/conf/nossdav/nossdav2019.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="1932631">
+<info><authors><author pid="08/6090-3">Christian Koch 0003</author><author pid="243/3650">Arne-Tobias Rak</author><author pid="14/5092">Michael Zink</author><author pid="s/RalfSteinmetz">Ralf Steinmetz</author><author pid="30/6511">Amr Rizk</author></authors><title>Transitions of viewport quality adaptation mechanisms in 360 degree video streaming.</title><venue>NOSSDAV</venue><pages>14-19</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/0003RZSR19</key><doi>10.1145/3304112.3325609</doi><ee>https://doi.org/10.1145/3304112.3325609</ee><url>https://dblp.org/rec/conf/nossdav/0003RZSR19</url></info>
+<url>URL#1932631</url>
+</hit>
+<hit score="1" id="1932632">
+<info><authors><author pid="243/3651">Sa&apos;di Altamimi</author><author pid="10/2042">Shervin Shirmohammadi</author></authors><title>Client-server cooperative and fair DASH video streaming.</title><venue>NOSSDAV</venue><pages>1-6</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/AltamimiS19</key><doi>10.1145/3304112.3325604</doi><ee>https://doi.org/10.1145/3304112.3325604</ee><url>https://dblp.org/rec/conf/nossdav/AltamimiS19</url></info>
+<url>URL#1932632</url>
+</hit>
+<hit score="1" id="1932633">
+<info><authors><author pid="141/0267">Abdelhak Bentaleb</author><author pid="81/5358">Christian Timmerer</author><author pid="29/5373">Ali C. Begen</author><author pid="79/1490">Roger Zimmermann</author></authors><title>Bandwidth prediction in low-latency chunked streaming.</title><venue>NOSSDAV</venue><pages>7-13</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/BentalebTBZ19</key><doi>10.1145/3304112.3325611</doi><ee>https://doi.org/10.1145/3304112.3325611</ee><url>https://dblp.org/rec/conf/nossdav/BentalebTBZ19</url></info>
+<url>URL#1932633</url>
+</hit>
+<hit score="1" id="1932634">
+<info><authors><author pid="243/3649">Soonbin Lee</author><author pid="221/5917">Dongmin Jang</author><author pid="227/4978">JongBeom Jeong</author><author pid="34/2551">Eun-Seok Ryu</author></authors><title>Motion-constrained tile set based 360-degree video streaming using saliency map prediction.</title><venue>NOSSDAV</venue><pages>20-24</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LeeJJR19</key><doi>10.1145/3304112.3325614</doi><ee>https://doi.org/10.1145/3304112.3325614</ee><url>https://dblp.org/rec/conf/nossdav/LeeJJR19</url></info>
+<url>URL#1932634</url>
+</hit>
+<hit score="1" id="1932635">
+<info><authors><author pid="87/3144">Xing Liu</author><author pid="135/2740">Christina Vlachou</author><author pid="54/476-1">Feng Qian 0001</author><author pid="10/5900">Kyu-Han Kim</author></authors><title>Supporting untethered multi-user VR over enterprise wi-fi.</title><venue>NOSSDAV</venue><pages>25-30</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LiuV0K19</key><doi>10.1145/3304112.3325605</doi><ee>https://doi.org/10.1145/3304112.3325605</ee><url>https://dblp.org/rec/conf/nossdav/LiuV0K19</url></info>
+<url>URL#1932635</url>
+</hit>
+<hit score="1" id="1932636">
+<info><authors><author pid="238/3249">Xiaoteng Ma</author><author pid="181/2689-6">Qing Li 0006</author><author pid="243/3647">Jimeng Chai</author><author pid="83/6642">Xi Xiao</author><author pid="34/3173">Shu-Tao Xia</author><author pid="74/1552-1">Yong Jiang 0001</author></authors><title>Steward: smart edge based joint QoE optimization for adaptive video streaming.</title><venue>NOSSDAV</venue><pages>31-36</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/MaLCXXJ19</key><doi>10.1145/3304112.3325603</doi><ee>https://doi.org/10.1145/3304112.3325603</ee><url>https://dblp.org/rec/conf/nossdav/MaLCXXJ19</url></info>
+<url>URL#1932636</url>
+</hit>
+<hit score="1" id="1932637">
+<info><authors><author pid="29/2981">Lucile Sassatelli</author><author pid="43/410">Marco Winckler</author><author pid="213/4039">Thomas Fisichella</author><author pid="54/1990">Ramon Aparicio</author><author pid="p/AnneMariePinnaDery">Anne-Marie Pinna-Dery</author></authors><title>A new adaptation lever in 360° video streaming.</title><venue>NOSSDAV</venue><pages>37-42</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/SassatelliWFAP19</key><doi>10.1145/3304112.3325610</doi><ee>https://doi.org/10.1145/3304112.3325610</ee><url>https://dblp.org/rec/conf/nossdav/SassatelliWFAP19</url></info>
+<url>URL#1932637</url>
+</hit>
+<hit score="1" id="1932638">
+<info><authors><author pid="239/3300">Zhanpeng Wu</author><author pid="78/6594">Yipeng Zhou</author><author pid="52/328-1">Di Wu 0001</author><author pid="50/6996-3">Min Chen 0003</author><author pid="26/340">Yuedong Xu</author></authors><title>TAMF: towards personalized time-aware recommendation for over-the-top videos.</title><venue>NOSSDAV</venue><pages>43-48</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/WuZW0X19</key><doi>10.1145/3304112.3325606</doi><ee>https://doi.org/10.1145/3304112.3325606</ee><url>https://dblp.org/rec/conf/nossdav/WuZW0X19</url></info>
+<url>URL#1932638</url>
+</hit>
+<hit score="1" id="1932639">
+<info><authors><author pid="31/1821">Jun Yi</author><author pid="243/3648">Shiqing Luo</author><author pid="28/10126">Zhisheng Yan</author></authors><title>A measurement study of YouTube 360° live video streaming.</title><venue>NOSSDAV</venue><pages>49-54</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/YiLY19</key><doi>10.1145/3304112.3325613</doi><ee>https://doi.org/10.1145/3304112.3325613</ee><url>https://dblp.org/rec/conf/nossdav/YiLY19</url></info>
+<url>URL#1932639</url>
+</hit>
+<hit score="1" id="1932640">
+<info><authors><author pid="220/3394">Rui-Xiao Zhang</author><author pid="220/3448">Tianchi Huang</author><author pid="20/1028">Ming Ma</author><author pid="179/3429">Haitian Pang</author><author pid="26/3646-3">Xin Yao 0003</author><author pid="49/8116">Chenglei Wu</author><author pid="06/2128">Lifeng Sun</author></authors><title>Enhancing the crowdsourced live streaming: a deep reinforcement learning approach.</title><venue>NOSSDAV</venue><pages>55-60</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhangHMP0WS19</key><doi>10.1145/3304112.3325607</doi><ee>https://doi.org/10.1145/3304112.3325607</ee><url>https://dblp.org/rec/conf/nossdav/ZhangHMP0WS19</url></info>
+<url>URL#1932640</url>
+</hit>
+<hit score="1" id="1932641">
+<info><authors><author pid="97/8704-66">Lei Zhang 0066</author><author pid="193/0201">Andy Sun</author><author pid="119/1123">Ryan Shea</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author><author pid="60/7041">Miao Zhang</author></authors><title>Rendering multi-party mobile augmented reality from edge.</title><venue>NOSSDAV</venue><pages>67-72</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhangSSLZ19</key><doi>10.1145/3304112.3325612</doi><ee>https://doi.org/10.1145/3304112.3325612</ee><url>https://dblp.org/rec/conf/nossdav/ZhangSSLZ19</url></info>
+<url>URL#1932641</url>
+</hit>
+<hit score="1" id="1932642">
+<info><authors><author pid="60/7041">Miao Zhang</author><author pid="174/2169">Yifei Zhu</author><author pid="18/2908-2">Cong Zhang 0002</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author></authors><title>Video processing with serverless computing: a measurement study.</title><venue>NOSSDAV</venue><pages>61-66</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhangZZL19</key><doi>10.1145/3304112.3325608</doi><ee>https://doi.org/10.1145/3304112.3325608</ee><url>https://dblp.org/rec/conf/nossdav/ZhangZZL19</url></info>
+<url>URL#1932642</url>
+</hit>
+<hit score="1" id="1973445">
+<info><authors><author pid="29/5373">Ali C. Begen</author><author pid="13/340">Thomas Schierl</author><author pid="41/4714">Sejin Oh</author></authors><title>Proceedings of the 29th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2019, Amherst, MA, USA, June 21, 2019.</title><venue>NOSSDAV</venue><publisher>ACM</publisher><year>2019</year><type>Editorship</type><key>conf/nossdav/2019</key><doi>10.1145/3304112</doi><ee>https://doi.org/10.1145/3304112</ee><url>https://dblp.org/rec/conf/nossdav/2019</url></info>
+<url>URL#1973445</url>
+</hit>
+</hits>
+</result>

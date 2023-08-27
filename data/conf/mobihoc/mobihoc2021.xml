@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59602">:facetid:toc:\"db/conf/mobihoc/mobihoc2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">178.27</time>
+<completions total="1" computed="1" sent="1">
+<c sc="29" dc="29" oc="29" id="41055887">:facetid:toc:db/conf/mobihoc/mobihoc2021.bht</c>
+</completions>
+<hits total="29" computed="29" sent="29" first="0">
+<hit score="1" id="1060529">
+<info><authors><author pid="239/6067">Amani Al-Shawabka</author><author pid="92/3302">Philip Pietraski</author><author pid="296/2260">Sudhir B. Pattar</author><author pid="119/9062">Francesco Restuccia</author><author pid="05/1629">Tommaso Melodia</author></authors><title>DeepLoRa: Fingerprinting LoRa Devices at Scale Through Deep Learning and Data Augmentation.</title><venue>MobiHoc</venue><pages>251-260</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Al-ShawabkaPPRM21</key><doi>10.1145/3466772.3467054</doi><ee>https://doi.org/10.1145/3466772.3467054</ee><url>https://dblp.org/rec/conf/mobihoc/Al-ShawabkaPPRM21</url></info>
+<url>URL#1060529</url>
+</hit>
+<hit score="1" id="1060530">
+<info><authors><author pid="155/6847">Canhui Chen</author><author pid="49/3103-2">Qian Ma 0002</author><author pid="83/6331-4">Xu Chen 0004</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>User Distributions in Shard-based Blockchain Network: Queueing Modeling, Game Analysis, and Protocol Design.</title><venue>MobiHoc</venue><pages>221-230</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ChenMCH21</key><doi>10.1145/3466772.3467051</doi><ee>https://doi.org/10.1145/3466772.3467051</ee><url>https://dblp.org/rec/conf/mobihoc/ChenMCH21</url></info>
+<url>URL#1060530</url>
+</hit>
+<hit score="1" id="1060531">
+<info><authors><author pid="242/6398">Tuhinangshu Choudhury</author><author pid="119/3872">Gauri Joshi</author><author pid="88/2200">Weina Wang</author><author pid="61/4596">Sanjay Shakkottai</author></authors><title>Job Dispatching Policies for Queueing Systems with Unknown Service Rates.</title><venue>MobiHoc</venue><pages>181-190</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ChoudhuryJWS21</key><doi>10.1145/3466772.3467047</doi><ee>https://doi.org/10.1145/3466772.3467047</ee><url>https://dblp.org/rec/conf/mobihoc/ChoudhuryJWS21</url></info>
+<url>URL#1060531</url>
+</hit>
+<hit score="1" id="1060532">
+<info><authors><author pid="192/6728">Xinzhe Fu</author><author pid="m/EytanModiano">Eytan H. Modiano</author></authors><title>Learning-NUM: Network Utility Maximization with Unknown Utility Functions and Queueing Delay.</title><venue>MobiHoc</venue><pages>21-30</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/FuM21</key><doi>10.1145/3466772.3467031</doi><ee>https://doi.org/10.1145/3466772.3467031</ee><url>https://dblp.org/rec/conf/mobihoc/FuM21</url></info>
+<url>URL#1060532</url>
+</hit>
+<hit score="1" id="1060533">
+<info><authors><author pid="64/5679">Yifan Guo</author><author pid="221/3310">Lixing Yu</author><author pid="194/5940">Qianlong Wang</author><author pid="178/5180">Tianxi Ji</author><author pid="f/YuguangFang">Yuguang Fang</author><author pid="251/1462">Jin Wei-Kocsis</author><author pid="72/2643-1">Pan Li 0001</author></authors><title>Weak Signal Detection in 5G+ Systems: A Distributed Deep Learning Framework.</title><venue>MobiHoc</venue><pages>201-210</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/GuoYWJFW021</key><doi>10.1145/3466772.3467049</doi><ee>https://doi.org/10.1145/3466772.3467049</ee><url>https://dblp.org/rec/conf/mobihoc/GuoYWJFW021</url></info>
+<url>URL#1060533</url>
+</hit>
+<hit score="1" id="1060534">
+<info><authors><author pid="259/6782">Hairi</author><author pid="76/1820-49">Xin Liu 0049</author><author pid="27/4818">Lei Ying</author></authors><title>Beyond Scaling: Calculable Error Bounds of the Power-of-Two-Choices Mean-Field Model in Heavy-Traffic.</title><venue>MobiHoc</venue><pages>1-10</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HairiLY21</key><doi>10.1145/3466772.3467029</doi><ee>https://doi.org/10.1145/3466772.3467029</ee><url>https://dblp.org/rec/conf/mobihoc/HairiLY21</url></info>
+<url>URL#1060534</url>
+</hit>
+<hit score="1" id="1060535">
+<info><authors><author pid="24/6837">Jian He</author><author pid="115/5126">Ghufran Baig</author><author pid="54/4031">Lili Qiu</author></authors><title>Real-Time Deep Video Analytics on Mobile Devices.</title><venue>MobiHoc</venue><pages>81-90</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HeBQ21</key><doi>10.1145/3466772.3467037</doi><ee>https://doi.org/10.1145/3466772.3467037</ee><url>https://dblp.org/rec/conf/mobihoc/HeBQ21</url></info>
+<url>URL#1060535</url>
+</hit>
+<hit score="1" id="1060536">
+<info><authors><author pid="188/1182">Saadallah Kassir</author><author pid="v/GustavodeVeciana">Gustavo de Veciana</author><author pid="10/8359-3">Nannan Wang 0003</author><author pid="08/5760-1">Xi Wang 0001</author><author pid="19/5742">Paparao Palacharla</author></authors><title>Joint Update Rate Adaptation in Multiplayer Cloud-Edge Gaming Services: Spatial Geometry and Performance Tradeoffs.</title><venue>MobiHoc</venue><pages>191-200</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KassirVWWP21</key><doi>10.1145/3466772.3467048</doi><ee>https://doi.org/10.1145/3466772.3467048</ee><url>https://dblp.org/rec/conf/mobihoc/KassirVWWP21</url></info>
+<url>URL#1060536</url>
+</hit>
+<hit score="1" id="1060537">
+<info><authors><author pid="146/4832">Hao Kong</author><author pid="49/2793-8">Li Lu 0008</author><author pid="85/3615">Jiadi Yu</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="172/1282">Xiangyu Xu</author><author pid="59/2249">Feilong Tang</author><author pid="91/699-1">Yi-Chao Chen 0001</author></authors><title>MultiAuth: Enable Multi-User Authentication with Single Commodity WiFi Device.</title><venue>MobiHoc</venue><pages>31-40</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Kong0Y0XT021</key><doi>10.1145/3466772.3467032</doi><ee>https://doi.org/10.1145/3466772.3467032</ee><url>https://dblp.org/rec/conf/mobihoc/Kong0Y0XT021</url></info>
+<url>URL#1060537</url>
+</hit>
+<hit score="1" id="1060538">
+<info><authors><author pid="227/8050">Shaoran Li</author><author pid="35/9090">Chengzhang Li</author><author pid="75/6434-25">Yan Huang 0025</author><author pid="152/5378">Brian Jalaian</author><author pid="h/YTHou">Y. Thomas Hou 0001</author><author pid="73/3673">Wenjing Lou</author></authors><title>Task Offloading with Uncertain Processing Cycles.</title><venue>MobiHoc</venue><pages>51-60</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LiLHJHL21</key><doi>10.1145/3466772.3467034</doi><ee>https://doi.org/10.1145/3466772.3467034</ee><url>https://dblp.org/rec/conf/mobihoc/LiLHJHL21</url></info>
+<url>URL#1060538</url>
+</hit>
+<hit score="1" id="1060539">
+<info><authors><author pid="70/9499">Sen Lin</author><author pid="158/0432">Mehmet Dedeoglu</author><author pid="59/1232">Junshan Zhang</author></authors><title>Accelerating Distributed Online Meta-Learning via Multi-Agent Collaboration under Limited Communication.</title><venue>MobiHoc</venue><pages>261-270</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LinDZ21</key><doi>10.1145/3466772.3467055</doi><ee>https://doi.org/10.1145/3466772.3467055</ee><url>https://dblp.org/rec/conf/mobihoc/LinDZ21</url></info>
+<url>URL#1060539</url>
+</hit>
+<hit score="1" id="1060540">
+<info><authors><author pid="52/8581">Sangwoo Moon</author><author pid="217/5462">Sumyeong Ahn</author><author pid="206/9135">Kyunghwan Son</author><author pid="61/1326">Jinwoo Park</author><author pid="01/66">Yung Yi</author></authors><title>Neuro-DCF: Design of Wireless MAC via Multi-Agent Reinforcement Learning Approach.</title><venue>MobiHoc</venue><pages>141-150</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/MoonASPY21</key><doi>10.1145/3466772.3467043</doi><ee>https://doi.org/10.1145/3466772.3467043</ee><url>https://dblp.org/rec/conf/mobihoc/MoonASPY21</url></info>
+<url>URL#1060540</url>
+</hit>
+<hit score="1" id="1060541">
+<info><authors><author pid="206/9088">Peshal Nayak</author><author pid="k/EWKnightly">Edward W. Knightly</author></authors><title>uScope: a Tool for Network Managers to Validate Delay-Based SLAs.</title><venue>MobiHoc</venue><pages>171-180</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/NayakK21</key><doi>10.1145/3466772.3467046</doi><ee>https://doi.org/10.1145/3466772.3467046</ee><url>https://dblp.org/rec/conf/mobihoc/NayakK21</url></info>
+<url>URL#1060541</url>
+</hit>
+<hit score="1" id="1060542">
+<info><authors><author pid="203/0078">Jiayu Pan</author><author pid="133/3897">Ahmed M. Bedewy</author><author pid="07/863">Yin Sun</author><author pid="67/1991">Ness B. Shroff</author></authors><title>Minimizing Age of Information via Scheduling over Heterogeneous Channels.</title><venue>MobiHoc</venue><pages>111-120</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/PanBSS21</key><doi>10.1145/3466772.3467040</doi><ee>https://doi.org/10.1145/3466772.3467040</ee><url>https://dblp.org/rec/conf/mobihoc/PanBSS21</url></info>
+<url>URL#1060542</url>
+</hit>
+<hit score="1" id="1060543">
+<info><authors><author pid="192/9996">Yanjun Pan</author><author pid="255/6518">Ziqi Xu</author><author pid="l/MingLi3">Ming Li 0003</author><author pid="15/3615">Loukas Lazos</author></authors><title>Man-in-the-Middle Attack Resistant Secret Key Generation via Channel Randomization.</title><venue>MobiHoc</venue><pages>231-240</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/PanXLL21</key><doi>10.1145/3466772.3467052</doi><ee>https://doi.org/10.1145/3466772.3467052</ee><url>https://dblp.org/rec/conf/mobihoc/PanXLL21</url></info>
+<url>URL#1060543</url>
+</hit>
+<hit score="1" id="1060544">
+<info><authors><author pid="186/4398">Mauro Piva</author><author pid="79/5259">Gaia Maselli</author><author pid="119/9062">Francesco Restuccia</author></authors><title>The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting.</title><venue>MobiHoc</venue><pages>41-50</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/PivaMR21</key><doi>10.1145/3466772.3467033</doi><ee>https://doi.org/10.1145/3466772.3467033</ee><url>https://dblp.org/rec/conf/mobihoc/PivaMR21</url></info>
+<url>URL#1060544</url>
+</hit>
+<hit score="1" id="1060545">
+<info><authors><author pid="175/1389">Michele Polese</author><author pid="119/9062">Francesco Restuccia</author><author pid="05/1629">Tommaso Melodia</author></authors><title>DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks.</title><venue>MobiHoc</venue><pages>61-70</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/PoleseRM21</key><doi>10.1145/3466772.3467035</doi><ee>https://doi.org/10.1145/3466772.3467035</ee><url>https://dblp.org/rec/conf/mobihoc/PoleseRM21</url></info>
+<url>URL#1060545</url>
+</hit>
+<hit score="1" id="1060546">
+<info><authors><author pid="141/2021">Swadhin Pradhan</author><author pid="296/3004">Shuozhe Li</author><author pid="54/4031">Lili Qiu</author></authors><title>Rotation Sensing Using Passive RFID Tags.</title><venue>MobiHoc</venue><pages>71-80</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/PradhanLQ21</key><doi>10.1145/3466772.3467036</doi><ee>https://doi.org/10.1145/3466772.3467036</ee><url>https://dblp.org/rec/conf/mobihoc/PradhanLQ21</url></info>
+<url>URL#1060546</url>
+</hit>
+<hit score="1" id="1060547">
+<info><authors><author pid="30/8347">Qi Shao</author><author pid="41/7881">Man Hon Cheung</author><author pid="77/623-1">Jianwei Huang 0001</author></authors><title>Crowdfunding with Strategic Pricing and Information Disclosure.</title><venue>MobiHoc</venue><pages>211-220</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ShaoCH21</key><doi>10.1145/3466772.3467050</doi><ee>https://doi.org/10.1145/3466772.3467050</ee><url>https://dblp.org/rec/conf/mobihoc/ShaoCH21</url></info>
+<url>URL#1060547</url>
+</hit>
+<hit score="1" id="1060548">
+<info><authors><author pid="133/3868">Ramanujan K. Sheshadri</author><author pid="33/8356">Eugene Chai</author><author pid="42/3793">Karthikeyan Sundaresan</author><author pid="67/43">Sampath Rangarajan</author></authors><title>SkyHAUL: A Self-Organizing Gigabit Network In The Sky.</title><venue>MobiHoc</venue><pages>101-110</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/SheshadriCSR21</key><doi>10.1145/3466772.3467039</doi><ee>https://doi.org/10.1145/3466772.3467039</ee><url>https://dblp.org/rec/conf/mobihoc/SheshadriCSR21</url></info>
+<url>URL#1060548</url>
+</hit>
+<hit score="1" id="1060549">
+<info><authors><author pid="213/1010">Vishrant Tripathi</author><author pid="m/EytanModiano">Eytan H. Modiano</author></authors><title>An Online Learning Approach to Optimizing Time-Varying Costs of AoI.</title><venue>MobiHoc</venue><pages>241-250</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/TripathiM21</key><doi>10.1145/3466772.3467053</doi><ee>https://doi.org/10.1145/3466772.3467053</ee><url>https://dblp.org/rec/conf/mobihoc/TripathiM21</url></info>
+<url>URL#1060549</url>
+</hit>
+<hit score="1" id="1060550">
+<info><authors><author pid="195/1074">Daniel Vial</author><author pid="61/4596">Sanjay Shakkottai</author><author pid="s/RSrikant">R. Srikant 0001</author></authors><title>Robust Multi-Agent Multi-Armed Bandits.</title><venue>MobiHoc</venue><pages>161-170</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/VialS021</key><doi>10.1145/3466772.3467045</doi><ee>https://doi.org/10.1145/3466772.3467045</ee><url>https://dblp.org/rec/conf/mobihoc/VialS021</url></info>
+<url>URL#1060550</url>
+</hit>
+<hit score="1" id="1060551">
+<info><authors><author pid="32/3351">Zhiyuan Wang</author><author pid="43/10799">Jiancheng Ye</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>An Online Mean Field Approach for Hybrid Edge Server Provision.</title><venue>MobiHoc</venue><pages>131-140</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/WangYL21</key><doi>10.1145/3466772.3467042</doi><ee>https://doi.org/10.1145/3466772.3467042</ee><url>https://dblp.org/rec/conf/mobihoc/WangYL21</url></info>
+<url>URL#1060551</url>
+</hit>
+<hit score="1" id="1060552">
+<info><authors><author pid="167/9165">Guidan Yao</author><author pid="133/3897">Ahmed M. Bedewy</author><author pid="67/1991">Ness B. Shroff</author></authors><title>Battle between Rate and Error in Minimizing Age of Information.</title><venue>MobiHoc</venue><pages>121-130</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/YaoBS21</key><doi>10.1145/3466772.3467041</doi><ee>https://doi.org/10.1145/3466772.3467041</ee><url>https://dblp.org/rec/conf/mobihoc/YaoBS21</url></info>
+<url>URL#1060552</url>
+</hit>
+<hit score="1" id="1060553">
+<info><authors><author pid="236/3241">Sheng Yue</author><author pid="00/468">Ju Ren</author><author pid="15/10207">Jiang Xin</author><author pid="70/9499">Sen Lin</author><author pid="59/1232">Junshan Zhang</author></authors><title>Inexact-ADMM Based Federated Meta-Learning for Fast and Continual Edge Learning.</title><venue>MobiHoc</venue><pages>91-100</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/YueRXLZ21</key><doi>10.1145/3466772.3467038</doi><ee>https://doi.org/10.1145/3466772.3467038</ee><url>https://dblp.org/rec/conf/mobihoc/YueRXLZ21</url></info>
+<url>URL#1060553</url>
+</hit>
+<hit score="1" id="1060554">
+<info><authors><author pid="64/6544-21">Yi Zhang 0021</author><author pid="153/0318-1">Soumya Basu 0001</author><author pid="61/4596">Sanjay Shakkottai</author><author pid="56/4851">Robert W. Heath Jr.</author></authors><title>MmWave Codebook Selection in Rapidly-Varying Channels via Multinomial Thompson Sampling.</title><venue>MobiHoc</venue><pages>151-160</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Zhang0SH21</key><doi>10.1145/3466772.3467044</doi><ee>https://doi.org/10.1145/3466772.3467044</ee><url>https://dblp.org/rec/conf/mobihoc/Zhang0SH21</url></info>
+<url>URL#1060554</url>
+</hit>
+<hit score="1" id="1060555">
+<info><authors><author pid="76/1584-54">Xin Zhang 0054</author><author pid="49/1245-1">Jia Liu 0001</author><author pid="68/151">Zhengyuan Zhu</author><author pid="07/8842">Elizabeth Serena Bentley</author></authors><title>GT-STORM: Taming Sample, Communication, and Memory Complexities in Decentralized Non-Convex Learning.</title><venue>MobiHoc</venue><pages>271-280</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Zhang0ZB21</key><doi>10.1145/3466772.3467056</doi><ee>https://doi.org/10.1145/3466772.3467056</ee><url>https://dblp.org/rec/conf/mobihoc/Zhang0ZB21</url></info>
+<url>URL#1060555</url>
+</hit>
+<hit score="1" id="1060556">
+<info><authors><author pid="227/7152">Yihan Zou</author><author pid="124/8110">Kwang Taik Kim</author><author pid="38/5957-1">Xiaojun Lin 0001</author><author pid="61/5309">Mung Chiang</author></authors><title>Minimizing Age-of-Information in Heterogeneous Multi-Channel Systems: A New Partial-Index Approach.</title><venue>MobiHoc</venue><pages>11-20</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZouKLC21</key><doi>10.1145/3466772.3467030</doi><ee>https://doi.org/10.1145/3466772.3467030</ee><url>https://dblp.org/rec/conf/mobihoc/ZouKLC21</url></info>
+<url>URL#1060556</url>
+</hit>
+<hit score="1" id="1101179">
+<info><title>MobiHoc &apos;21: The Twenty-second International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China, 26-29 July, 2021.</title><venue>MobiHoc</venue><publisher>ACM</publisher><year>2021</year><type>Editorship</type><key>conf/mobihoc/2021</key><doi>10.1145/3466772</doi><ee>https://doi.org/10.1145/3466772</ee><url>https://dblp.org/rec/conf/mobihoc/2021</url></info>
+<url>URL#1101179</url>
+</hit>
+</hits>
+</result>

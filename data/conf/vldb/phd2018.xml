@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59358">:facetid:toc:\"db/conf/vldb/phd2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">175.06</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="41069907">:facetid:toc:db/conf/vldb/phd2018.bht</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="1" id="2347241">
+<info><authors><author pid="151/0819">Martin Boissier 0001</author></authors><title>Reducing the Footprint of Main Memory HTAP Systems: Removing, Compressing, Tiering, and Ignoring Data.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Boissier18</key><ee>https://ceur-ws.org/Vol-2175/paper10.pdf</ee><url>https://dblp.org/rec/conf/vldb/Boissier18</url></info>
+<url>URL#2347241</url>
+</hit>
+<hit score="1" id="2347242">
+<info><authors><author pid="02/6415">Guilherme Campos</author></authors><title>Unsupervised Ensembles for Outlier Detection.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Campos18</key><ee>https://ceur-ws.org/Vol-2175/paper05.pdf</ee><url>https://dblp.org/rec/conf/vldb/Campos18</url></info>
+<url>URL#2347242</url>
+</hit>
+<hit score="1" id="2347244">
+<info><authors><author pid="122/8350">Anderson Chaves Carniel</author></authors><title>Spatial Indexing on Flash-Based Solid State Drives.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Carniel18</key><ee>https://ceur-ws.org/Vol-2175/paper09.pdf</ee><url>https://dblp.org/rec/conf/vldb/Carniel18</url></info>
+<url>URL#2347244</url>
+</hit>
+<hit score="1" id="2347249">
+<info><authors><author pid="199/2468">Simone Dominico</author></authors><title>Multi-Core Allocation Model for Database Systems.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Dominico18</key><ee>https://ceur-ws.org/Vol-2175/paper08.pdf</ee><url>https://dblp.org/rec/conf/vldb/Dominico18</url></info>
+<url>URL#2347249</url>
+</hit>
+<hit score="1" id="2347252">
+<info><authors><author pid="119/6830">Pedro Holanda</author></authors><title>Progressive Indices: Indexing Without Prejudice.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Holanda18</key><ee>https://ceur-ws.org/Vol-2175/paper11.pdf</ee><url>https://dblp.org/rec/conf/vldb/Holanda18</url></info>
+<url>URL#2347252</url>
+</hit>
+<hit score="1" id="2347257">
+<info><authors><author pid="170/8341">Tiago Rodrigo Kepe</author></authors><title>Dynamic Database Operator Scheduling for Processing-in-Memory.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Kepe18</key><ee>https://ceur-ws.org/Vol-2175/paper07.pdf</ee><url>https://dblp.org/rec/conf/vldb/Kepe18</url></info>
+<url>URL#2347257</url>
+</hit>
+<hit score="1" id="2347258">
+<info><authors><author pid="161/5705">Jan Kossmann</author></authors><title>Self-Driving: From General Purpose to Specialized DBMSs.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Kossmann18</key><ee>https://ceur-ws.org/Vol-2175/paper15.pdf</ee><url>https://dblp.org/rec/conf/vldb/Kossmann18</url></info>
+<url>URL#2347258</url>
+</hit>
+<hit score="1" id="2347275">
+<info><authors><author pid="17/9777">Eduardo Peña</author></authors><title>Workload-Aware Discovery of Integrity Constraints for Data Cleaning.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Pena18</key><ee>https://ceur-ws.org/Vol-2175/paper04.pdf</ee><url>https://dblp.org/rec/conf/vldb/Pena18</url></info>
+<url>URL#2347275</url>
+</hit>
+<hit score="1" id="2347278">
+<info><authors><author pid="182/7109">Mark Raasveldt</author></authors><title>Integrating Analytics with Relational Databases.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Raasveldt18</key><ee>https://ceur-ws.org/Vol-2175/paper01.pdf</ee><url>https://dblp.org/rec/conf/vldb/Raasveldt18</url></info>
+<url>URL#2347278</url>
+</hit>
+<hit score="1" id="2347284">
+<info><authors><author pid="88/9960">Márcio Saraiva</author></authors><title>Relating Educational Materials via Extraction of their Topics.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Saraiva18</key><ee>https://ceur-ws.org/Vol-2175/paper13.pdf</ee><url>https://dblp.org/rec/conf/vldb/Saraiva18</url></info>
+<url>URL#2347284</url>
+</hit>
+<hit score="1" id="2347285">
+<info><authors><author pid="149/1337">Rakhi Saxena</author></authors><title>Capitalizing on Hierarchical Graph Decomposition for Scalable Network Analysis.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Saxena18</key><ee>https://ceur-ws.org/Vol-2175/paper02.pdf</ee><url>https://dblp.org/rec/conf/vldb/Saxena18</url></info>
+<url>URL#2347285</url>
+</hit>
+<hit score="1" id="2347290">
+<info><authors><author pid="123/7716">Roberto Souza 0001</author></authors><title>Detecting Spatial Clusters of Infection Risk with Geo-Located Social Media Data.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Souza18</key><ee>https://ceur-ws.org/Vol-2175/paper03.pdf</ee><url>https://dblp.org/rec/conf/vldb/Souza18</url></info>
+<url>URL#2347290</url>
+</hit>
+<hit score="1" id="2347299">
+<info><authors><author pid="72/6589">James Wagner</author></authors><title>Auditing DBMSes through Forensic Analysis.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Wagner18</key><ee>https://ceur-ws.org/Vol-2175/paper12.pdf</ee><url>https://dblp.org/rec/conf/vldb/Wagner18</url></info>
+<url>URL#2347299</url>
+</hit>
+<hit score="1" id="2347300">
+<info><authors><author pid="00/4918">Yiwen Wang</author></authors><title>Vecstra: An Efficient and Scalable Geospatial In-Memory Cache.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Wang18</key><ee>https://ceur-ws.org/Vol-2175/paper06.pdf</ee><url>https://dblp.org/rec/conf/vldb/Wang18</url></info>
+<url>URL#2347300</url>
+</hit>
+<hit score="1" id="2347304">
+<info><authors><author pid="94/3019">Chao Zhang</author></authors><title>Parameter Curation and Data Generation for Benchmarking Multi-model Queries.</title><venue>PhD@VLDB</venue><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Zhang18</key><ee>https://ceur-ws.org/Vol-2175/paper14.pdf</ee><url>https://dblp.org/rec/conf/vldb/Zhang18</url></info>
+<url>URL#2347304</url>
+</hit>
+<hit score="1" id="2359817">
+<info><authors><author pid="97/3301">Senjuti Basu Roy</author><author pid="s/ASdaSilva">Altigran Soares da Silva</author></authors><title>Proceedings of the VLDB 2018 PhD Workshop co-located with the 44th International Conference on Very Large Databases (VLDB 2018), Rio de Janeiro, Brasil, Aug 27-31, 2018.</title><venue>PhD@VLDB</venue><venue>CEUR Workshop Proceedings</venue><volume>2175</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><access>open</access><key>conf/vldb/2018phd</key><ee>https://ceur-ws.org/Vol-2175</ee><url>https://dblp.org/rec/conf/vldb/2018phd</url></info>
+<url>URL#2359817</url>
+</hit>
+</hits>
+</result>

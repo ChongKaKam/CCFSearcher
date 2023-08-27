@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59508">:facetid:toc:\"db/conf/ipsn/ipsn2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">179.78</time>
+<completions total="1" computed="1" sent="1">
+<c sc="52" dc="52" oc="52" id="41048635">:facetid:toc:db/conf/ipsn/ipsn2019.bht</c>
+</completions>
+<hits total="52" computed="52" sent="52" first="0">
+<hit score="1" id="1902034">
+<info><authors><author pid="199/3954">Kai Li 0002</author><author pid="238/4483">Yousef Emami</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>Privacy-preserving control message dissemination for PVCPS: poster abstract.</title><venue>IPSN</venue><pages>301-302</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/0002ET19</key><doi>10.1145/3302506.3312599</doi><ee>https://doi.org/10.1145/3302506.3312599</ee><url>https://dblp.org/rec/conf/ipsn/0002ET19</url></info>
+<url>URL#1902034</url>
+</hit>
+<hit score="1" id="1902035">
+<info><authors><author pid="68/283-5">Matthias Meyer 0005</author><author pid="228/8184">Timo Farei-Campagna</author><author pid="228/8490">Akos Pasztor</author><author pid="136/1076">Reto Da Forno</author><author pid="15/6935">Jan Beutel</author><author pid="t/LotharThiele">Lothar Thiele</author></authors><title>How many climb the matterhorn?: demo abstract.</title><venue>IPSN</venue><pages>350-351</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/0005FPFBT19</key><doi>10.1145/3302506.3312488</doi><ee>https://doi.org/10.1145/3302506.3312488</ee><url>https://dblp.org/rec/conf/ipsn/0005FPFBT19</url></info>
+<url>URL#1902035</url>
+</hit>
+<hit score="1" id="1902036">
+<info><authors><author pid="68/283-5">Matthias Meyer 0005</author><author pid="228/8184">Timo Farei-Campagna</author><author pid="228/8490">Akos Pasztor</author><author pid="136/1076">Reto Da Forno</author><author pid="70/9662">Tonio Gsell</author><author pid="238/4392">Jérome Faillettaz</author><author pid="238/4490">Andreas Vieli</author><author pid="59/1328">Samuel Weber</author><author pid="15/6935">Jan Beutel</author><author pid="t/LotharThiele">Lothar Thiele</author></authors><title>Event-triggered natural hazard monitoring with convolutional neural networks on the edge.</title><venue>IPSN</venue><pages>73-84</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/0005FPFGFVWBT19</key><doi>10.1145/3302506.3310390</doi><ee>https://doi.org/10.1145/3302506.3310390</ee><url>https://dblp.org/rec/conf/ipsn/0005FPFGFVWBT19</url></info>
+<url>URL#1902036</url>
+</hit>
+<hit score="1" id="1902037">
+<info><authors><author pid="04/6898">Ali Akbari</author><author pid="03/3147">Roozbeh Jafari</author></authors><title>Transferring activity recognition models for new wearable sensors with deep generative domain adaptation.</title><venue>IPSN</venue><pages>85-96</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AkbariJ19</key><doi>10.1145/3302506.3310391</doi><ee>https://doi.org/10.1145/3302506.3310391</ee><url>https://dblp.org/rec/conf/ipsn/AkbariJ19</url></info>
+<url>URL#1902037</url>
+</hit>
+<hit score="1" id="1902038">
+<info><authors><author pid="195/1867">Muhammad Usman Ali</author><author pid="99/9204">Soojung Hur</author><author pid="87/6877">Yongwan Park</author></authors><title>IoT enabled Wi-Fi indoor positioning system using raster maps: poster abstract.</title><venue>IPSN</venue><pages>327-328</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AliHP19</key><doi>10.1145/3302506.3312612</doi><ee>https://doi.org/10.1145/3302506.3312612</ee><url>https://dblp.org/rec/conf/ipsn/AliHP19</url></info>
+<url>URL#1902038</url>
+</hit>
+<hit score="1" id="1902039">
+<info><authors><author pid="139/2286">Yuanyuan Bao</author><author pid="37/4190-114">Yang Li 0114</author><author pid="231/8600">Liqiu Ma</author><author pid="61/1080">Wai Chen</author></authors><title>Synchronous automatic training for wearable sensors via knowledge distillation: poster abstract.</title><venue>IPSN</venue><pages>303-304</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BaoLMC19</key><doi>10.1145/3302506.3312600</doi><ee>https://doi.org/10.1145/3302506.3312600</ee><url>https://dblp.org/rec/conf/ipsn/BaoLMC19</url></info>
+<url>URL#1902039</url>
+</hit>
+<hit score="1" id="1902040">
+<info><authors><author pid="15/6935">Jan Beutel</author><author pid="215/2274">Roman Trüb</author><author pid="136/1076">Reto Da Forno</author><author pid="65/430">Markus Wegmann</author><author pid="70/9662">Tonio Gsell</author><author pid="182/4872">Romain Jacob</author><author pid="98/1305">Michael Keller</author><author pid="09/10875">Felix Sutton</author><author pid="t/LotharThiele">Lothar Thiele</author></authors><title>The dual processor platform architecture: demo abstract.</title><venue>IPSN</venue><pages>335-336</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BeutelTFWGJKST19</key><doi>10.1145/3302506.3312481</doi><ee>https://doi.org/10.1145/3302506.3312481</ee><url>https://dblp.org/rec/conf/ipsn/BeutelTFWGJKST19</url></info>
+<url>URL#1902040</url>
+</hit>
+<hit score="1" id="1902041">
+<info><authors><author pid="238/4536">Andreas Biri</author><author pid="86/11187">Pat Pannuto</author><author pid="40/5390">Prabal Dutta</author></authors><title>TotTernary - a wearable platform for social interaction tracking: demo abstract.</title><venue>IPSN</venue><pages>346-347</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BiriPD19</key><doi>10.1145/3302506.3312486</doi><ee>https://doi.org/10.1145/3302506.3312486</ee><url>https://dblp.org/rec/conf/ipsn/BiriPD19</url></info>
+<url>URL#1902041</url>
+</hit>
+<hit score="1" id="1902042">
+<info><authors><author pid="206/8683">Amelie Bonde</author><author pid="98/10484">Shijia Pan</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author></authors><title>Deskbuddy: an office activity detection system: demo abstract.</title><venue>IPSN</venue><pages>352-353</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BondePN019</key><doi>10.1145/3302506.3312490</doi><ee>https://doi.org/10.1145/3302506.3312490</ee><url>https://dblp.org/rec/conf/ipsn/BondePN019</url></info>
+<url>URL#1902042</url>
+</hit>
+<hit score="1" id="1902043">
+<info><authors><author pid="64/9385">Steffen Bondorf</author><author pid="38/8396-1">Binbin Chen 0001</author><author pid="78/9667">Jonathan Scarlett</author><author pid="69/1249">Haifeng Yu</author><author pid="90/8397">Yuda Zhao</author></authors><title>Cross-sender bit-mixing coding.</title><venue>IPSN</venue><pages>205-216</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BondorfCSYZ19</key><doi>10.1145/3302506.3310401</doi><ee>https://doi.org/10.1145/3302506.3310401</ee><url>https://dblp.org/rec/conf/ipsn/BondorfCSYZ19</url></info>
+<url>URL#1902043</url>
+</hit>
+<hit score="1" id="1902044">
+<info><authors><author pid="33/7048">Roberto Calvo-Palomino</author><author pid="143/8331">Héctor Cordobés</author><author pid="67/1693">Fabio Ricciato</author><author pid="07/1247">Domenico Giustiniano</author><author pid="75/5939">Vincent Lenders</author></authors><title>Collaborative wideband signal decoding using non-coherent receivers.</title><venue>IPSN</venue><pages>37-48</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Calvo-PalominoC19</key><doi>10.1145/3302506.3310387</doi><ee>https://doi.org/10.1145/3302506.3310387</ee><url>https://dblp.org/rec/conf/ipsn/Calvo-PalominoC19</url></info>
+<url>URL#1902044</url>
+</hit>
+<hit score="1" id="1902045">
+<info><authors><author pid="238/4532">Nam Cao</author><author pid="37/2725">Olga Saukh</author><author pid="t/LotharThiele">Lothar Thiele</author></authors><title>An automated real-time and affordable airborne pollen sensing system: poster abstract.</title><venue>IPSN</venue><pages>321-322</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/CaoST19</key><doi>10.1145/3302506.3312609</doi><ee>https://doi.org/10.1145/3302506.3312609</ee><url>https://dblp.org/rec/conf/ipsn/CaoST19</url></info>
+<url>URL#1902045</url>
+</hit>
+<hit score="1" id="1902046">
+<info><authors><author pid="177/2754">Pablo Corbalán</author><author pid="65/4458">Gian Pietro Picco</author><author pid="159/3246">Sameera Palipana</author></authors><title>Chorus: UWB concurrent transmissions for GPS-like passive localization of countless targets.</title><venue>IPSN</venue><pages>133-144</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/CorbalanPP19</key><doi>10.1145/3302506.3310395</doi><ee>https://doi.org/10.1145/3302506.3310395</ee><url>https://dblp.org/rec/conf/ipsn/CorbalanPP19</url></info>
+<url>URL#1902046</url>
+</hit>
+<hit score="1" id="1902047">
+<info><authors><author pid="165/8183">Silvia Demetri</author><author pid="z/MarcoZuniga">Marco Zúñiga</author><author pid="65/4458">Gian Pietro Picco</author><author pid="55/2512">Fernando A. Kuipers</author><author pid="50/1319">Lorenzo Bruzzone</author><author pid="63/3049">Thomas Telkamp</author></authors><title>Automated estimation of link quality for LoRa: a remote sensing approach.</title><venue>IPSN</venue><pages>145-156</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/DemetriZPKBT19</key><doi>10.1145/3302506.3310396</doi><ee>https://doi.org/10.1145/3302506.3310396</ee><url>https://dblp.org/rec/conf/ipsn/DemetriZPKBT19</url></info>
+<url>URL#1902047</url>
+</hit>
+<hit score="1" id="1902048">
+<info><authors><author pid="198/5383">Jonathon Fagert</author><author pid="161/9667">Mostafa Mirshekari</author><author pid="98/10484">Shijia Pan</author><author pid="78/5323-1">Pei Zhang 0001</author><author pid="151/7287">Hae Young Noh</author></authors><title>Gait health monitoring through footstep-induced floor vibrations: poster abstract.</title><venue>IPSN</venue><pages>319-320</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/FagertMP0N19</key><doi>10.1145/3302506.3312608</doi><ee>https://doi.org/10.1145/3302506.3312608</ee><url>https://dblp.org/rec/conf/ipsn/FagertMP0N19</url></info>
+<url>URL#1902048</url>
+</hit>
+<hit score="1" id="1902049">
+<info><authors><author pid="202/2167">Daniel Friesel</author><author pid="s/OlafSpinczyk">Olaf Spinczyk</author></authors><title>I2C considered wasteful: saving energy with host-controlled pull-up resistors: poster abstract.</title><venue>IPSN</venue><pages>315-316</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/FrieselS19</key><doi>10.1145/3302506.3312606</doi><ee>https://doi.org/10.1145/3302506.3312606</ee><url>https://dblp.org/rec/conf/ipsn/FrieselS19</url></info>
+<url>URL#1902049</url>
+</hit>
+<hit score="1" id="1902050">
+<info><authors><author pid="194/5827">Kai Geissdoerfer</author><author pid="96/1136">Raja Jurdak</author><author pid="19/3001">Brano Kusy</author><author pid="41/2357">Marco Zimmerling</author></authors><title>Getting more out of energy-harvesting systems: energy management under time-varying utility with PreAct.</title><venue>IPSN</venue><pages>109-120</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GeissdoerferJKZ19</key><doi>10.1145/3302506.3310393</doi><ee>https://doi.org/10.1145/3302506.3310393</ee><url>https://dblp.org/rec/conf/ipsn/GeissdoerferJKZ19</url></info>
+<url>URL#1902050</url>
+</hit>
+<hit score="1" id="1902051">
+<info><authors><author pid="201/6528">Bernhard Großwindhager</author><author pid="196/3318">Michael Stocker</author><author pid="98/10001-1">Michael Rath 0001</author><author pid="71/7545">Carlo Alberto Boano</author><author pid="r/KayRomer">Kay Römer</author></authors><title>SnapLoc: an ultra-fast UWB-based indoor localization system for an unlimited number of tags.</title><venue>IPSN</venue><pages>61-72</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GrosswindhagerS19</key><doi>10.1145/3302506.3310389</doi><ee>https://doi.org/10.1145/3302506.3310389</ee><url>https://dblp.org/rec/conf/ipsn/GrosswindhagerS19</url></info>
+<url>URL#1902051</url>
+</hit>
+<hit score="1" id="1902052">
+<info><authors><author pid="211/7582">Chaojie Gu</author><author pid="00/5179">Rui Tan</author><author pid="51/5022-1">Jun Huang 0001</author></authors><title>SoftLoRa - a LoRa-based platform for accurate and secure timing: poster abstract.</title><venue>IPSN</venue><pages>309-310</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GuTH19</key><doi>10.1145/3302506.3312603</doi><ee>https://doi.org/10.1145/3302506.3312603</ee><url>https://dblp.org/rec/conf/ipsn/GuTH19</url></info>
+<url>URL#1902052</url>
+</hit>
+<hit score="1" id="1902053">
+<info><authors><author pid="188/8787">Xiuzhen Guo</author><author pid="11/1735-4">Yuan He 0004</author><author pid="80/2266">Jia Zhang</author><author pid="180/0691">Haotian Jiang</author></authors><title>WIDE: physical-level CTC via digital emulation.</title><venue>IPSN</venue><pages>49-60</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Guo0ZJ19</key><doi>10.1145/3302506.3310388</doi><ee>https://doi.org/10.1145/3302506.3310388</ee><url>https://dblp.org/rec/conf/ipsn/Guo0ZJ19</url></info>
+<url>URL#1902053</url>
+</hit>
+<hit score="1" id="1902054">
+<info><authors><author pid="238/4393">Ahmed Al Guqhaiman</author><author pid="43/2953">Edward Chow</author></authors><title>Multi-channel software-based MAC protocol for UWSNs.</title><venue>IPSN</venue><pages>323-324</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GuqhaimanC19</key><doi>10.1145/3302506.3312610</doi><ee>https://doi.org/10.1145/3302506.3312610</ee><url>https://dblp.org/rec/conf/ipsn/GuqhaimanC19</url></info>
+<url>URL#1902054</url>
+</hit>
+<hit score="1" id="1902055">
+<info><authors><author pid="188/6243">Bashima Islam</author><author pid="204/4391">Yubo Luo</author><author pid="19/1764">Seulki Lee</author><author pid="162/5547">Shahriar Nirjon</author></authors><title>On-device training from sensor data on batteryless platforms: poster abstract.</title><venue>IPSN</venue><pages>325-326</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/IslamLLN19</key><doi>10.1145/3302506.3312611</doi><ee>https://doi.org/10.1145/3302506.3312611</ee><url>https://dblp.org/rec/conf/ipsn/IslamLLN19</url></info>
+<url>URL#1902055</url>
+</hit>
+<hit score="1" id="1902056">
+<info><authors><author pid="188/5947">Md Tamzeed Islam</author><author pid="162/5547">Shahriar Nirjon</author></authors><title>SoundSemantics: exploiting semantic knowledge in text for embedded acoustic event classification.</title><venue>IPSN</venue><pages>217-228</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/IslamN19</key><doi>10.1145/3302506.3310402</doi><ee>https://doi.org/10.1145/3302506.3310402</ee><url>https://dblp.org/rec/conf/ipsn/IslamN19</url></info>
+<url>URL#1902056</url>
+</hit>
+<hit score="1" id="1902057">
+<info><authors><author pid="158/8114">Neal Jackson</author><author pid="158/8217">Joshua Adkins</author><author pid="40/5390">Prabal Dutta</author></authors><title>Capacity over capacitance for reliable energy harvesting sensors.</title><venue>IPSN</venue><pages>193-204</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JacksonAD19</key><doi>10.1145/3302506.3310400</doi><ee>https://doi.org/10.1145/3302506.3310400</ee><url>https://dblp.org/rec/conf/ipsn/JacksonAD19</url></info>
+<url>URL#1902057</url>
+</hit>
+<hit score="1" id="1902058">
+<info><authors><author pid="158/8114">Neal Jackson</author><author pid="158/8217">Joshua Adkins</author><author pid="40/5390">Prabal Dutta</author></authors><title>A long-lifetime sensor platform for a reliable internet of things: demo abstract.</title><venue>IPSN</venue><pages>331-332</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JacksonAD19a</key><doi>10.1145/3302506.3312491</doi><ee>https://doi.org/10.1145/3302506.3312491</ee><url>https://dblp.org/rec/conf/ipsn/JacksonAD19a</url></info>
+<url>URL#1902058</url>
+</hit>
+<hit score="1" id="1902059">
+<info><authors><author pid="193/6745">Chengkun Jiang</author><author pid="11/1735-4">Yuan He 0004</author><author pid="228/5930">Songzhen Yang</author><author pid="220/7067">Junchen Guo</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>3D-OmniTrack: 3D tracking with COTS RFID systems.</title><venue>IPSN</venue><pages>25-36</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Jiang0YGL19</key><doi>10.1145/3302506.3310386</doi><ee>https://doi.org/10.1145/3302506.3310386</ee><url>https://dblp.org/rec/conf/ipsn/Jiang0YGL19</url></info>
+<url>URL#1902059</url>
+</hit>
+<hit score="1" id="1902060">
+<info><authors><author pid="209/2782">Colleen Josephson</author><author pid="50/2484-31">Lei Yang 0031</author><author pid="33/4816">Pengyu Zhang</author><author pid="50/1133">Sachin Katti</author></authors><title>Wireless computer vision using commodity radios.</title><venue>IPSN</venue><pages>229-240</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JosephsonYZK19</key><doi>10.1145/3302506.3310403</doi><ee>https://doi.org/10.1145/3302506.3310403</ee><url>https://dblp.org/rec/conf/ipsn/JosephsonYZK19</url></info>
+<url>URL#1902060</url>
+</hit>
+<hit score="1" id="1902061">
+<info><authors><author pid="198/5382">Chitra R. Karanam</author><author pid="217/4988">Belal Korany</author><author pid="73/3144">Yasamin Mostofi</author></authors><title>Tracking from one side: multi-person passive tracking with WiFi magnitude measurements.</title><venue>IPSN</venue><pages>181-192</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KaranamKM19</key><doi>10.1145/3302506.3310399</doi><ee>https://doi.org/10.1145/3302506.3310399</ee><url>https://dblp.org/rec/conf/ipsn/KaranamKM19</url></info>
+<url>URL#1902061</url>
+</hit>
+<hit score="1" id="1902062">
+<info><authors><author pid="160/8522">Seohyang Kim</author><author pid="05/9097">Hyung-Sin Kim</author><author pid="k/ChongkwonKim">Chongkwon Kim</author></authors><title>ALICE: autonomous link-based cell scheduling for TSCH.</title><venue>IPSN</venue><pages>121-132</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KimKK19</key><doi>10.1145/3302506.3310394</doi><ee>https://doi.org/10.1145/3302506.3310394</ee><url>https://dblp.org/rec/conf/ipsn/KimKK19</url></info>
+<url>URL#1902062</url>
+</hit>
+<hit score="1" id="1902063">
+<info><authors><author pid="93/2334-15">Yong Li 0015</author><author pid="28/2073-6">Wei Gao 0006</author></authors><title>DeltaVR: achieving high-performance mobile VR dynamics through pixel reuse.</title><venue>IPSN</venue><pages>13-24</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LiG19</key><doi>10.1145/3302506.3310385</doi><ee>https://doi.org/10.1145/3302506.3310385</ee><url>https://dblp.org/rec/conf/ipsn/LiG19</url></info>
+<url>URL#1902063</url>
+</hit>
+<hit score="1" id="1902064">
+<info><authors><author pid="72/2266">Lu Li</author><author pid="37/4190-104">Yang Li 0104</author><author pid="147/5345-1">Xiangxiang Xu 0001</author><author pid="37/1629-1">Lin Zhang 0001</author></authors><title>A maximal correlation embedding method for multilabel human context recognition: poster abstract.</title><venue>IPSN</venue><pages>305-306</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LiL0Z19</key><doi>10.1145/3302506.3312601</doi><ee>https://doi.org/10.1145/3302506.3312601</ee><url>https://dblp.org/rec/conf/ipsn/LiL0Z19</url></info>
+<url>URL#1902064</url>
+</hit>
+<hit score="1" id="1902065">
+<info><authors><author pid="238/4501">Chi-Wen Liang</author><author pid="238/4521">Yung-Lin Wu</author><author pid="198/5394">Cheng-Yu Shi</author><author pid="144/0432">Shumin Lu</author><author pid="26/4126">Huang-Chen Lee</author></authors><title>Evaluation of a LoRa mesh wireless networking system supporting time-critical transmission and data lost recovery: poster abstract.</title><venue>IPSN</venue><pages>317-318</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LiangWSLL19</key><doi>10.1145/3302506.3312607</doi><ee>https://doi.org/10.1145/3302506.3312607</ee><url>https://dblp.org/rec/conf/ipsn/LiangWSLL19</url></info>
+<url>URL#1902065</url>
+</hit>
+<hit score="1" id="1902066">
+<info><authors><author pid="238/4479">Jheng-Sing Lin</author><author pid="73/10163">Che-Wei Kuo</author><author pid="37/1651">Wei-Chen Huang</author><author pid="26/4126">Huang-Chen Lee</author></authors><title>A sensor-fusion approach system for detecting early extravasation of infant intravenous infusion: demo abstract.</title><venue>IPSN</venue><pages>344-345</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LinKHL19</key><doi>10.1145/3302506.3312485</doi><ee>https://doi.org/10.1145/3302506.3312485</ee><url>https://dblp.org/rec/conf/ipsn/LinKHL19</url></info>
+<url>URL#1902066</url>
+</hit>
+<hit score="1" id="1902067">
+<info><authors><author pid="24/4675">Qi Lin</author><author pid="98/7731">Weitao Xu</author><author pid="95/3736-74">Jun Liu 0074</author><author pid="231/7614">Abdelwahed Khamis</author><author pid="01/6410">Wen Hu</author><author pid="10/2899">Mahbub Hassan</author><author pid="55/6028">Aruna Seneviratne</author></authors><title>H2B: heartbeat-based secret key generation using piezo vibration sensors.</title><venue>IPSN</venue><pages>265-276</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LinXLKHHS19</key><doi>10.1145/3302506.3310406</doi><ee>https://doi.org/10.1145/3302506.3310406</ee><url>https://dblp.org/rec/conf/ipsn/LinXLKHHS19</url></info>
+<url>URL#1902067</url>
+</hit>
+<hit score="1" id="1902068">
+<info><authors><author pid="225/8866">Nicola Macoir</author><author pid="194/0868">Matteo Ridolfi</author><author pid="167/6501">Jan Bauwens</author><author pid="79/8852">Bart Jooris</author><author pid="237/5099">Ben Van Herbruggen</author><author pid="119/3525">Jen Rossey</author><author pid="79/3449">Jeroen Hoebeke</author><author pid="34/1837">Eli De Poorter</author></authors><title>Low power, portable and infrastructure light indoor UWB ranging solution: demo.</title><venue>IPSN</venue><pages>337-339</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MacoirRBJHRHP19</key><doi>10.1145/3302506.3312482</doi><ee>https://doi.org/10.1145/3302506.3312482</ee><url>https://dblp.org/rec/conf/ipsn/MacoirRBJHRHP19</url></info>
+<url>URL#1902068</url>
+</hit>
+<hit score="1" id="1902069">
+<info><authors><author pid="188/9393">Fabian Mager</author><author pid="215/4492">Dominik Baumann</author><author pid="182/4872">Romain Jacob</author><author pid="t/LotharThiele">Lothar Thiele</author><author pid="15/8135">Sebastian Trimpe</author><author pid="41/2357">Marco Zimmerling</author></authors><title>Fast feedback control and coordination with mode changes for wireless cyber-physical systems: demo abstract.</title><venue>IPSN</venue><pages>340-341</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MagerBJTTZ19</key><doi>10.1145/3302506.3312483</doi><ee>https://doi.org/10.1145/3302506.3312483</ee><url>https://dblp.org/rec/conf/ipsn/MagerBJTTZ19</url></info>
+<url>URL#1902069</url>
+</hit>
+<hit score="1" id="1902070">
+<info><authors><author pid="99/2140">Akhil Mathur</author><author pid="52/10717">Anton Isopoussu</author><author pid="98/1826">Fahim Kawsar</author><author pid="b/NadiaBianchiBerthouze">Nadia Berthouze</author><author pid="03/2663">Nicholas D. Lane</author></authors><title>Mic2Mic: using cycle-consistent generative adversarial networks to overcome microphone variability in speech systems.</title><venue>IPSN</venue><pages>169-180</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MathurIKBL19</key><doi>10.1145/3302506.3310398</doi><ee>https://doi.org/10.1145/3302506.3310398</ee><url>https://dblp.org/rec/conf/ipsn/MathurIKBL19</url></info>
+<url>URL#1902070</url>
+</hit>
+<hit score="1" id="1902071">
+<info><authors><author pid="161/9669">Sujay Narayana</author><author pid="70/4331">R. Muralishankar</author><author pid="01/6745">R. Venkatesha Prasad</author><author pid="66/7413">Vijay S. Rao</author></authors><title>Recovering bits from thin air: demodulation of bandpass sampled noisy signals for space IoT.</title><venue>IPSN</venue><pages>1-12</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/NarayanaMPR19</key><doi>10.1145/3302506.3310384</doi><ee>https://doi.org/10.1145/3302506.3310384</ee><url>https://dblp.org/rec/conf/ipsn/NarayanaMPR19</url></info>
+<url>URL#1902071</url>
+</hit>
+<hit score="1" id="1902072">
+<info><authors><author pid="150/7352">Carlos M. Pérez-Penichet</author><author pid="46/5016">Thiemo Voigt</author></authors><title>Carrier scheduling in IoT networks with interoperable battery-free backscatter tags: poster abstract.</title><venue>IPSN</venue><pages>329-330</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Perez-PenichetV19</key><doi>10.1145/3302506.3312613</doi><ee>https://doi.org/10.1145/3302506.3312613</ee><url>https://dblp.org/rec/conf/ipsn/Perez-PenichetV19</url></info>
+<url>URL#1902072</url>
+</hit>
+<hit score="1" id="1902073">
+<info><authors><author pid="198/5374">Ceferino Gabriel Ramirez</author><author pid="238/4454">Anton Sergeyev</author><author pid="238/4384">Assya Dyussenova</author><author pid="45/7855">Bob Iannucci</author></authors><title>LongShoT: long-range synchronization of time.</title><venue>IPSN</venue><pages>289-300</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/RamirezSDI19</key><doi>10.1145/3302506.3310408</doi><ee>https://doi.org/10.1145/3302506.3310408</ee><url>https://dblp.org/rec/conf/ipsn/RamirezSDI19</url></info>
+<url>URL#1902073</url>
+</hit>
+<hit score="1" id="1902074">
+<info><authors><author pid="170/2528">Carlos Ruiz Dominguez</author><author pid="98/10484">Shijia Pan</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author><author pid="02/3721-1">Jun Han 0001</author></authors><title>Secure pairing via video and IMU verification: demo abstract.</title><venue>IPSN</venue><pages>333-334</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/RuizPN0019</key><doi>10.1145/3302506.3312492</doi><ee>https://doi.org/10.1145/3302506.3312492</ee><url>https://dblp.org/rec/conf/ipsn/RuizPN0019</url></info>
+<url>URL#1902074</url>
+</hit>
+<hit score="1" id="1902075">
+<info><authors><author pid="37/2725">Olga Saukh</author><author pid="174/1190">Balz Maag</author></authors><title>Quantle: fair and honest presentation coach in your pocket.</title><venue>IPSN</venue><pages>253-264</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SaukhM19</key><doi>10.1145/3302506.3310405</doi><ee>https://doi.org/10.1145/3302506.3310405</ee><url>https://dblp.org/rec/conf/ipsn/SaukhM19</url></info>
+<url>URL#1902075</url>
+</hit>
+<hit score="1" id="1902076">
+<info><authors><author pid="95/10703">Oliver Shih</author><author pid="02/630">Anthony Rowe 0001</author></authors><title>Can a phone hear the shape of a room?</title><venue>IPSN</venue><pages>277-288</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ShihR19</key><doi>10.1145/3302506.3310407</doi><ee>https://doi.org/10.1145/3302506.3310407</ee><url>https://dblp.org/rec/conf/ipsn/ShihR19</url></info>
+<url>URL#1902076</url>
+</hit>
+<hit score="1" id="1902077">
+<info><authors><author pid="196/3318">Michael Stocker</author><author pid="201/6528">Bernhard Großwindhager</author><author pid="71/7545">Carlo Alberto Boano</author><author pid="r/KayRomer">Kay Römer</author></authors><title>SnapLoc: an ultra-fast UWB-based indoor localization system for an unlimited number of tags: demo abstract.</title><venue>IPSN</venue><pages>348-349</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/StockerGBR19</key><doi>10.1145/3302506.3312487</doi><ee>https://doi.org/10.1145/3302506.3312487</ee><url>https://dblp.org/rec/conf/ipsn/StockerGBR19</url></info>
+<url>URL#1902077</url>
+</hit>
+<hit score="1" id="1902078">
+<info><authors><author pid="215/2274">Roman Trüb</author><author pid="136/1076">Reto Da Forno</author><author pid="70/9662">Tonio Gsell</author><author pid="15/6935">Jan Beutel</author><author pid="t/LotharThiele">Lothar Thiele</author></authors><title>A testbed for long-range LoRa communication: demo abstract.</title><venue>IPSN</venue><pages>342-343</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/TrubFGBT19</key><doi>10.1145/3302506.3312484</doi><ee>https://doi.org/10.1145/3302506.3312484</ee><url>https://dblp.org/rec/conf/ipsn/TrubFGBT19</url></info>
+<url>URL#1902078</url>
+</hit>
+<hit score="1" id="1902079">
+<info><authors><author pid="157/3531">Gopi Krishna Tummala</author><author pid="24/7999">Tanmoy Das</author><author pid="82/2823">Prasun Sinha</author><author pid="23/1595">Rajiv Ramnath</author></authors><title>SmartDashCam: automatic live calibration for DashCams.</title><venue>IPSN</venue><pages>157-168</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/TummalaDSR19</key><doi>10.1145/3302506.3310397</doi><ee>https://doi.org/10.1145/3302506.3310397</ee><url>https://dblp.org/rec/conf/ipsn/TummalaDSR19</url></info>
+<url>URL#1902079</url>
+</hit>
+<hit score="1" id="1902080">
+<info><authors><author pid="189/7702">Hanling Wang</author><author pid="85/7189">Mingyang Li</author><author pid="22/1199">Fei Ma</author><author pid="64/2243">Shao-Lun Huang</author><author pid="37/1629-1">Lin Zhang 0001</author></authors><title>Unsupervised anomaly detection via generative adversarial networks: poster abstract.</title><venue>IPSN</venue><pages>313-314</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WangLMHZ19</key><doi>10.1145/3302506.3312605</doi><ee>https://doi.org/10.1145/3302506.3312605</ee><url>https://dblp.org/rec/conf/ipsn/WangLMHZ19</url></info>
+<url>URL#1902080</url>
+</hit>
+<hit score="1" id="1902081">
+<info><authors><author pid="50/5696">Nian Wang</author><author pid="87/5809">Zhe Zhang</author><author pid="05/2053">Tingting Li</author><author pid="67/4008">Jing Xiao</author><author pid="51/5556">Li Cui</author></authors><title>SGSF: a small groups based serial fusion method.</title><venue>IPSN</venue><pages>97-108</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WangZLXC19</key><doi>10.1145/3302506.3310392</doi><ee>https://doi.org/10.1145/3302506.3310392</ee><url>https://dblp.org/rec/conf/ipsn/WangZLXC19</url></info>
+<url>URL#1902081</url>
+</hit>
+<hit score="1" id="1902082">
+<info><authors><author pid="188/9306">Susu Xu</author><author pid="41/9922">Xinlei Chen</author><author pid="230/8132">Xidong Pi</author><author pid="40/9937">Carlee Joe-Wong</author><author pid="78/5323-1">Pei Zhang 0001</author><author pid="151/7287">Hae Young Noh</author></authors><title>Vehicle dispatching for sensing coverage optimization in mobile crowdsensing systems: poster abstract.</title><venue>IPSN</venue><pages>311-312</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/XuCPJ0N19</key><doi>10.1145/3302506.3312604</doi><ee>https://doi.org/10.1145/3302506.3312604</ee><url>https://dblp.org/rec/conf/ipsn/XuCPJ0N19</url></info>
+<url>URL#1902082</url>
+</hit>
+<hit score="1" id="1902083">
+<info><authors><author pid="117/0017">Zhenkai Zhang</author><author pid="48/7775">Guangyao Zhu</author><author pid="145/0959">Mohamad Farzan Sabahi</author></authors><title>Array resource allocation based on KKT optimization for radar and communication integration: poster abstract.</title><venue>IPSN</venue><pages>307-308</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangZS19</key><doi>10.1145/3302506.3312602</doi><ee>https://doi.org/10.1145/3302506.3312602</ee><url>https://dblp.org/rec/conf/ipsn/ZhangZS19</url></info>
+<url>URL#1902083</url>
+</hit>
+<hit score="1" id="1902084">
+<info><authors><author pid="71/10187">Hongyang Zhao</author><author pid="23/5003">Shuangquan Wang</author><author pid="67/4904">Gang Zhou</author><author pid="217/5741">Woosub Jung</author></authors><title>TennisEye: tennis ball speed estimation using a racket-mounted motion sensor.</title><venue>IPSN</venue><pages>241-252</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhaoWZJ19</key><doi>10.1145/3302506.3310404</doi><ee>https://doi.org/10.1145/3302506.3310404</ee><url>https://dblp.org/rec/conf/ipsn/ZhaoWZJ19</url></info>
+<url>URL#1902084</url>
+</hit>
+<hit score="1" id="1972947">
+<info><authors><author pid="71/3191">M. Rasit Eskicioglu</author><author pid="60/5205">Luca Mottola</author><author pid="74/4695">Bodhi Priyantha</author></authors><title>Proceedings of the 18th International Conference on Information Processing in Sensor Networks, IPSN 2019, Montreal, QC, Canada, April 16-18, 2019</title><venue>IPSN</venue><publisher>ACM</publisher><year>2019</year><type>Editorship</type><key>conf/ipsn/2019</key><ee>https://dl.acm.org/citation.cfm?id=3302506</ee><url>https://dblp.org/rec/conf/ipsn/2019</url></info>
+<url>URL#1972947</url>
+</hit>
+</hits>
+</result>

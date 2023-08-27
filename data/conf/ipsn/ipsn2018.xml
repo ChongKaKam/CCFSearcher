@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59507">:facetid:toc:\"db/conf/ipsn/ipsn2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">190.25</time>
+<completions total="1" computed="1" sent="1">
+<c sc="51" dc="51" oc="51" id="41048634">:facetid:toc:db/conf/ipsn/ipsn2018.bht</c>
+</completions>
+<hits total="51" computed="51" sent="51" first="0">
+<hit score="1" id="2290367">
+<info><authors><author pid="158/8217">Joshua Adkins</author><author pid="150/5917">Branden Ghena</author><author pid="158/8114">Neal Jackson</author><author pid="86/11187">Pat Pannuto</author><author pid="215/5555">Samuel Rohrer</author><author pid="21/10522">Bradford Campbell</author><author pid="40/5390">Prabal Dutta</author></authors><title>Applications on the signpost platform for city-scale sensing: demo abstract.</title><venue>IPSN</venue><pages>124-125</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AdkinsGJPRCD18</key><doi>10.1109/IPSN.2018.00025</doi><ee>https://doi.org/10.1109/IPSN.2018.00025</ee><url>https://dblp.org/rec/conf/ipsn/AdkinsGJPRCD18</url></info>
+<url>URL#2290367</url>
+</hit>
+<hit score="1" id="2290368">
+<info><authors><author pid="158/8217">Joshua Adkins</author><author pid="150/5917">Branden Ghena</author><author pid="158/8114">Neal Jackson</author><author pid="86/11187">Pat Pannuto</author><author pid="215/5555">Samuel Rohrer</author><author pid="21/10522">Bradford Campbell</author><author pid="40/5390">Prabal Dutta</author></authors><title>The signpost platform for city-scale sensing.</title><venue>IPSN</venue><pages>188-199</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AdkinsGJPRCD18a</key><doi>10.1109/IPSN.2018.00047</doi><ee>https://doi.org/10.1109/IPSN.2018.00047</ee><url>https://dblp.org/rec/conf/ipsn/AdkinsGJPRCD18a</url></info>
+<url>URL#2290368</url>
+</hit>
+<hit score="1" id="2290369">
+<info><authors><author pid="01/10415">Saad Ahmed</author><author pid="20/2099">Muhammad Hamad Alizai</author><author pid="22/7567">Junaid Haroon Siddiqui</author><author pid="146/7880">Naveed Anwar Bhatti</author><author pid="60/5205">Luca Mottola</author></authors><title>Towards smaller checkpoints for better intermittent computing: poster abstract.</title><venue>IPSN</venue><pages>132-133</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AhmedASBM18</key><doi>10.1109/IPSN.2018.00029</doi><ee>https://doi.org/10.1109/IPSN.2018.00029</ee><url>https://dblp.org/rec/conf/ipsn/AhmedASBM18</url></info>
+<url>URL#2290369</url>
+</hit>
+<hit score="1" id="2290370">
+<info><authors><author pid="149/6640">Afaz Uddin Ahmed</author><author pid="06/5402">Neil W. Bergmann</author><author pid="78/2639">Reza Arablouei</author><author pid="14/8359">Frank de Hoog</author><author pid="19/3001">Branislav Kusy</author><author pid="96/1136">Raja Jurdak</author></authors><title>Fast indoor localization using WiFi channel state information: poster abstract.</title><venue>IPSN</venue><pages>120-121</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AhmedBAHKJ18</key><doi>10.1109/IPSN.2018.00023</doi><ee>https://doi.org/10.1109/IPSN.2018.00023</ee><url>https://dblp.org/rec/conf/ipsn/AhmedBAHKJ18</url></info>
+<url>URL#2290370</url>
+</hit>
+<hit score="1" id="2290371">
+<info><authors><author pid="84/6337">Cesare Alippi</author><author pid="217/5166">Simone Disabato</author><author pid="73/1853">Manuel Roveri</author></authors><title>Moving convolutional neural networks to embedded systems: the alexnet and VGG-16 case.</title><venue>IPSN</venue><pages>212-223</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AlippiDR18</key><doi>10.1109/IPSN.2018.00049</doi><ee>https://doi.org/10.1109/IPSN.2018.00049</ee><url>https://dblp.org/rec/conf/ipsn/AlippiDR18</url></info>
+<url>URL#2290371</url>
+</hit>
+<hit score="1" id="2290372">
+<info><authors><author pid="217/5148">H. A. C. Amarasekara</author><author pid="217/5123">Ruvini Manage</author><author pid="217/5108">K. K. C. U. Abeywickrama</author><author pid="217/5029">K. R. N. Perera</author><author pid="217/5134">R. A. S. R. Achchige</author><author pid="132/1092">Janaka L. Wijekoon</author></authors><title>Smart saline management system: poster abstract.</title><venue>IPSN</venue><pages>108-109</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AmarasekaraMAPA18</key><doi>10.1109/IPSN.2018.00017</doi><ee>https://doi.org/10.1109/IPSN.2018.00017</ee><url>https://dblp.org/rec/conf/ipsn/AmarasekaraMAPA18</url></info>
+<url>URL#2290372</url>
+</hit>
+<hit score="1" id="2290373">
+<info><authors><author pid="209/2551">Noralifah Annuar</author><author pid="06/5402">Neil Bergmann</author><author pid="96/1136">Raja Jurdak</author><author pid="19/3001">Branislav Kusy</author></authors><title>Energy efficient mobile data collection from sensor networks with range-dependent data rates: poster abstract.</title><venue>IPSN</venue><pages>122-123</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AnnuarBJK18</key><doi>10.1109/IPSN.2018.00024</doi><ee>https://doi.org/10.1109/IPSN.2018.00024</ee><url>https://dblp.org/rec/conf/ipsn/AnnuarBJK18</url></info>
+<url>URL#2290373</url>
+</hit>
+<hit score="1" id="2290374">
+<info><authors><author pid="33/7048">Roberto Calvo-Palomino</author><author pid="67/1693">Fabio Ricciato</author><author pid="215/5271">Blaz Repas</author><author pid="07/1247">Domenico Giustiniano</author><author pid="75/5939">Vincent Lenders</author></authors><title>Nanosecond-precision time-of-arrival estimation for aircraft signals with low-cost SDR receivers.</title><venue>IPSN</venue><pages>272-277</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Calvo-PalominoR18</key><doi>10.1109/IPSN.2018.00055</doi><ee>https://doi.org/10.1109/IPSN.2018.00055</ee><url>https://dblp.org/rec/conf/ipsn/Calvo-PalominoR18</url></info>
+<url>URL#2290374</url>
+</hit>
+<hit score="1" id="2290375">
+<info><authors><author pid="217/5168">Chu Cao</author><author pid="124/2048">Zhidan Liu 0001</author><author pid="87/4982-1">Mo Li 0001</author><author pid="71/2114">Wenqiang Wang</author><author pid="95/6861-4">Zheng Qin 0004</author></authors><title>Walkway discovery from large scale crowdsensing.</title><venue>IPSN</venue><pages>13-24</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/CaoLLWQ18</key><doi>10.1109/IPSN.2018.00009</doi><ee>https://doi.org/10.1109/IPSN.2018.00009</ee><url>https://dblp.org/rec/conf/ipsn/CaoLLWQ18</url></info>
+<url>URL#2290375</url>
+</hit>
+<hit score="1" id="2290376">
+<info><authors><author pid="217/5168">Chu Cao</author><author pid="124/2048">Zhidan Liu 0001</author><author pid="87/4982-1">Mo Li 0001</author><author pid="71/2114">Wenqiang Wang</author><author pid="95/6861-4">Zheng Qin 0004</author></authors><title>Walkway discovery from large scale crowdsensing: demo abstract.</title><venue>IPSN</venue><pages>148-149</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/CaoLLWQ18a</key><doi>10.1109/IPSN.2018.00037</doi><ee>https://doi.org/10.1109/IPSN.2018.00037</ee><url>https://dblp.org/rec/conf/ipsn/CaoLLWQ18a</url></info>
+<url>URL#2290376</url>
+</hit>
+<hit score="1" id="2290377">
+<info><authors><author pid="132/8453">Vivek Chandel</author><author pid="80/10257">Avik Ghose</author></authors><title>Emeasure: using a smart device with consumer-grade accelerometer as an accurate measuring scale: demo abstract.</title><venue>IPSN</venue><pages>114-115</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ChandelG18</key><doi>10.1109/IPSN.2018.00020</doi><ee>https://doi.org/10.1109/IPSN.2018.00020</ee><url>https://dblp.org/rec/conf/ipsn/ChandelG18</url></info>
+<url>URL#2290377</url>
+</hit>
+<hit score="1" id="2290378">
+<info><authors><author pid="188/9288">Adwait Dongare</author><author pid="124/2686">Anh Luong</author><author pid="165/8176">Artur Balanuta</author><author pid="199/6891">Craig Hesling</author><author pid="199/6808">Khushboo Bhatia</author><author pid="45/7855">Bob Iannucci</author><author pid="44/8737">Swarun Kumar</author><author pid="02/630">Anthony G. Rowe</author></authors><title>The openchirp low-power wide-area network and ecosystem: demo abstract.</title><venue>IPSN</venue><pages>138-139</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/DongareLBHBIKR18</key><doi>10.1109/IPSN.2018.00032</doi><ee>https://doi.org/10.1109/IPSN.2018.00032</ee><url>https://dblp.org/rec/conf/ipsn/DongareLBHBIKR18</url></info>
+<url>URL#2290378</url>
+</hit>
+<hit score="1" id="2290379">
+<info><authors><author pid="188/9288">Adwait Dongare</author><author pid="203/9234">Revathy Narayanan</author><author pid="181/3405">Akshay Gadre</author><author pid="124/2686">Anh Luong</author><author pid="165/8176">Artur Balanuta</author><author pid="44/8737">Swarun Kumar</author><author pid="45/7855">Bob Iannucci</author><author pid="02/630">Anthony G. Rowe</author></authors><title>Charm: exploiting geographical diversity through coherent combining in low-power wide-area networks.</title><venue>IPSN</venue><pages>60-71</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/DongareNGLBKIR18</key><doi>10.1109/IPSN.2018.00013</doi><ee>https://doi.org/10.1109/IPSN.2018.00013</ee><url>https://dblp.org/rec/conf/ipsn/DongareNGLBKIR18</url></info>
+<url>URL#2290379</url>
+</hit>
+<hit score="1" id="2290380">
+<info><authors><author pid="133/3903">Aymen Fakhreddine</author><author pid="07/1247">Domenico Giustiniano</author><author pid="75/5939">Vincent Lenders</author></authors><title>Data fusion for hybrid and autonomous time-of-flight positioning.</title><venue>IPSN</venue><pages>266-271</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/FakhreddineGL18</key><doi>10.1109/IPSN.2018.00054</doi><ee>https://doi.org/10.1109/IPSN.2018.00054</ee><url>https://dblp.org/rec/conf/ipsn/FakhreddineGL18</url></info>
+<url>URL#2290380</url>
+</hit>
+<hit score="1" id="2290381">
+<info><authors><author pid="194/5827">Kai Geissdoerfer</author><author pid="96/1136">Raja Jurdak</author><author pid="19/3001">Brano Kusy</author></authors><title>Long-term energy-neutral operation of solar energy-harvesting sensor nodes under time-varying utility: poster abstract.</title><venue>IPSN</venue><pages>156-157</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GeissdoerferJK18</key><doi>10.1109/IPSN.2018.00041</doi><ee>https://doi.org/10.1109/IPSN.2018.00041</ee><url>https://dblp.org/rec/conf/ipsn/GeissdoerferJK18</url></info>
+<url>URL#2290381</url>
+</hit>
+<hit score="1" id="2290382">
+<info><authors><author pid="201/6528">Bernhard Großwindhager</author><author pid="71/7545">Carlo Alberto Boano</author><author pid="98/10001-1">Michael Rath 0001</author><author pid="r/KayRomer">Kay Römer</author></authors><title>Runtime adaptation of PHY settings for dependable UWB communications: poster abstract.</title><venue>IPSN</venue><pages>128-129</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GrosswindhagerB18</key><doi>10.1109/IPSN.2018.00027</doi><ee>https://doi.org/10.1109/IPSN.2018.00027</ee><url>https://dblp.org/rec/conf/ipsn/GrosswindhagerB18</url></info>
+<url>URL#2290382</url>
+</hit>
+<hit score="1" id="2290383">
+<info><authors><author pid="30/433">Chen Gu</author><author pid="48/7543">Ian Downes</author><author pid="30/3112">Omprakash Gnawali</author><author pid="g/LeonidasJGuibas">Leonidas J. Guibas</author></authors><title>On the ability of mobile sensor networks to diffuse information.</title><venue>IPSN</venue><pages>37-47</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GuDGG18</key><doi>10.1109/IPSN.2018.00011</doi><ee>https://doi.org/10.1109/IPSN.2018.00011</ee><url>https://dblp.org/rec/conf/ipsn/GuDGG18</url></info>
+<url>URL#2290383</url>
+</hit>
+<hit score="1" id="2290384">
+<info><authors><author pid="188/6243">Bashima Islam</author><author pid="188/5947">Md Tamzeed Islam</author><author pid="162/5547">S. M. Shahriar Nirjon</author></authors><title>A motion-triggered stereo camera for 3D experience capture: demo abstract.</title><venue>IPSN</venue><pages>134-135</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/IslamIN18</key><doi>10.1109/IPSN.2018.00030</doi><ee>https://doi.org/10.1109/IPSN.2018.00030</ee><url>https://dblp.org/rec/conf/ipsn/IslamIN18</url></info>
+<url>URL#2290384</url>
+</hit>
+<hit score="1" id="2290385">
+<info><authors><author pid="188/6243">Bashima Islam</author><author pid="188/5947">Md Tamzeed Islam</author><author pid="162/5547">Shahriar Nirjon</author></authors><title>Glimpse.3D: a motion-triggered stereo body camera for 3D experience capture and preview.</title><venue>IPSN</venue><pages>176-187</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/IslamIN18a</key><doi>10.1109/IPSN.2018.00046</doi><ee>https://doi.org/10.1109/IPSN.2018.00046</ee><url>https://dblp.org/rec/conf/ipsn/IslamIN18a</url></info>
+<url>URL#2290385</url>
+</hit>
+<hit score="1" id="2290386">
+<info><authors><author pid="157/4429">Timofei Istomin</author><author pid="217/5036">Matteo Trobinger</author><author pid="m/AmyLMurphy">Amy L. Murphy</author><author pid="65/4458">Gian Pietro Picco</author></authors><title>Interference-resilient ultra-low power aperiodic data collection.</title><venue>IPSN</venue><pages>84-95</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/IstominTMP18</key><doi>10.1109/IPSN.2018.00015</doi><ee>https://doi.org/10.1109/IPSN.2018.00015</ee><url>https://dblp.org/rec/conf/ipsn/IstominTMP18</url></info>
+<url>URL#2290386</url>
+</hit>
+<hit score="1" id="2290387">
+<info><authors><author pid="217/5140">Amodth N. Jayawardena</author><author pid="217/5081">Kapugamage Sachith</author><author pid="132/1092">Janaka L. Wijekoon</author></authors><title>Trainko: poster abstract: train arrival time prediction system for Sri Lanka.</title><venue>IPSN</venue><pages>110-111</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JayawardenaSW18</key><ee>http://dl.acm.org/citation.cfm?id=3207962</ee><url>https://dblp.org/rec/conf/ipsn/JayawardenaSW18</url></info>
+<url>URL#2290387</url>
+</hit>
+<hit score="1" id="2290388">
+<info><authors><author pid="193/6745">Chengkun Jiang</author><author pid="11/1735-4">Yuan He 0004</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>Orientation-aware RFID tracking with centimeter-level accuracy.</title><venue>IPSN</venue><pages>290-301</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JiangHZL18</key><doi>10.1109/IPSN.2018.00057</doi><ee>https://doi.org/10.1109/IPSN.2018.00057</ee><url>https://dblp.org/rec/conf/ipsn/JiangHZL18</url></info>
+<url>URL#2290388</url>
+</hit>
+<hit score="1" id="2290389">
+<info><authors><author pid="198/5382">Chitra R. Karanam</author><author pid="217/4988">Belal Korany</author><author pid="73/3144">Yasamin Mostofi</author></authors><title>Magnitude-based angle-of-arrival estimation, localization, and target tracking.</title><venue>IPSN</venue><pages>254-265</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KaranamKM18</key><doi>10.1109/IPSN.2018.00053</doi><ee>https://doi.org/10.1109/IPSN.2018.00053</ee><url>https://dblp.org/rec/conf/ipsn/KaranamKM18</url></info>
+<url>URL#2290389</url>
+</hit>
+<hit score="1" id="2290390">
+<info><authors><author pid="217/5063">Mone Kijima</author><author pid="217/5115">Yuta Miyagawa</author><author pid="217/5042">Hayato Oshita</author><author pid="66/667">Norihisa Segawa</author><author pid="85/9662">Masato Yazawa</author><author pid="217/5044">Masa-yuki Yamamoto</author></authors><title>Multiple door opening/closing detection system using infrasound sensor: poster abstract.</title><venue>IPSN</venue><pages>126-127</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KijimaMOSYY18</key><doi>10.1109/IPSN.2018.00026</doi><ee>https://doi.org/10.1109/IPSN.2018.00026</ee><url>https://dblp.org/rec/conf/ipsn/KijimaMOSYY18</url></info>
+<url>URL#2290390</url>
+</hit>
+<hit score="1" id="2290391">
+<info><authors><author pid="179/3273">Harrison Kurunathan</author><author pid="45/4067">Ricardo Severino</author><author pid="31/348">Anis Koubâa</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>An efficient approach to multisuperframe tuning for DSME networks: poster abstract.</title><venue>IPSN</venue><pages>162-163</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KurunathanSKT18</key><doi>10.1109/IPSN.2018.00044</doi><ee>https://doi.org/10.1109/IPSN.2018.00044</ee><url>https://dblp.org/rec/conf/ipsn/KurunathanSKT18</url></info>
+<url>URL#2290391</url>
+</hit>
+<hit score="1" id="2290392">
+<info><authors><author pid="155/8104">Haoyang Lu</author><author pid="28/2073-6">Wei Gao 0006</author></authors><title>Continuous wireless link rates for internet of things.</title><venue>IPSN</venue><pages>48-59</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LuG18</key><doi>10.1109/IPSN.2018.00012</doi><ee>https://doi.org/10.1109/IPSN.2018.00012</ee><url>https://dblp.org/rec/conf/ipsn/LuG18</url></info>
+<url>URL#2290392</url>
+</hit>
+<hit score="1" id="2290393">
+<info><authors><author pid="124/2686">Anh Luong</author><author pid="157/9131">Peter Hillyard</author><author pid="188/4708">Alemayehu Solomon Abrar</author><author pid="217/5080">Charissa Che</author><author pid="02/630">Anthony Rowe 0001</author><author pid="49/4560-2">Thomas Schmid 0002</author><author pid="45/3974">Neal Patwari</author></authors><title>A stitch in time and frequency synchronization saves bandwidth.</title><venue>IPSN</venue><pages>96-107</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LuongHACRSP18</key><doi>10.1109/IPSN.2018.00016</doi><ee>https://doi.org/10.1109/IPSN.2018.00016</ee><url>https://dblp.org/rec/conf/ipsn/LuongHACRSP18</url></info>
+<url>URL#2290393</url>
+</hit>
+<hit score="1" id="2290394">
+<info><authors><author pid="188/9393">Fabian Mager</author><author pid="215/4492">Dominik Baumann</author><author pid="15/8135">Sebastian Trimpe</author><author pid="41/2357">Marco Zimmerling</author></authors><title>Toward fast closed-loop control over multi-hop low-power wireless networks: poster abstract.</title><venue>IPSN</venue><pages>158-159</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MagerBTZ18</key><doi>10.1109/IPSN.2018.00042</doi><ee>https://doi.org/10.1109/IPSN.2018.00042</ee><url>https://dblp.org/rec/conf/ipsn/MagerBTZ18</url></info>
+<url>URL#2290394</url>
+</hit>
+<hit score="1" id="2290395">
+<info><authors><author pid="93/5923">Michele Magno</author><author pid="217/5034">Stefan Rickli</author><author pid="217/5102">Josefine Quack</author><author pid="217/5087">Oliver Brunecker</author><author pid="b/LucaBenini">Luca Benini</author></authors><title>Combining LoRa and RTK to achieve a high precision self-sustaining geo-localization system: poster abstract.</title><venue>IPSN</venue><pages>160-161</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MagnoRQBB18</key><doi>10.1109/IPSN.2018.00043</doi><ee>https://doi.org/10.1109/IPSN.2018.00043</ee><url>https://dblp.org/rec/conf/ipsn/MagnoRQBB18</url></info>
+<url>URL#2290395</url>
+</hit>
+<hit score="1" id="2290396">
+<info><authors><author pid="217/5107">Shaunak Manurkar</author><author pid="r/KrithiRamamritham">Krithi Ramamritham</author><author pid="217/5083">SEIL Team</author></authors><title>Building IoT nodes - a flexible approach: poster abstract.</title><venue>IPSN</venue><pages>154-155</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ManurkarRT18</key><doi>10.1109/IPSN.2018.00040</doi><ee>https://doi.org/10.1109/IPSN.2018.00040</ee><url>https://dblp.org/rec/conf/ipsn/ManurkarRT18</url></info>
+<url>URL#2290396</url>
+</hit>
+<hit score="1" id="2290397">
+<info><authors><author pid="99/2140">Akhil Mathur</author><author pid="217/5169">Tianlin Zhang</author><author pid="69/3637">Sourav Bhattacharya</author><author pid="184/4786">Petar Velickovic</author><author pid="198/1622">Leonid Joffe</author><author pid="03/2663">Nicholas D. Lane</author><author pid="98/1826">Fahim Kawsar</author><author pid="l/PietroLio">Pietro Liò</author></authors><title>Using deep data augmentation training to address software and hardware heterogeneities in wearable and smartphone sensing devices.</title><venue>IPSN</venue><pages>200-211</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MathurZBVJLKL18</key><doi>10.1109/IPSN.2018.00048</doi><ee>https://doi.org/10.1109/IPSN.2018.00048</ee><url>https://dblp.org/rec/conf/ipsn/MathurZBVJLKL18</url></info>
+<url>URL#2290397</url>
+</hit>
+<hit score="1" id="2290398">
+<info><authors><author pid="122/3484">Niluthpol Chowdhury Mithun</author><author pid="04/2213">Sirajum Munir</author><author pid="160/0330">Karen Guo</author><author pid="198/5398">Charles Shelton</author></authors><title>ODDS: real-time object detection using depth sensors on embedded GPUs.</title><venue>IPSN</venue><pages>230-241</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MithunMGS18</key><doi>10.1109/IPSN.2018.00051</doi><ee>https://doi.org/10.1109/IPSN.2018.00051</ee><url>https://dblp.org/rec/conf/ipsn/MithunMGS18</url></info>
+<url>URL#2290398</url>
+</hit>
+<hit score="1" id="2290399">
+<info><authors><author pid="170/2497">Mobashir Mohammad</author><author pid="28/6329">Mun Choon Chan</author></authors><title>Codecast: supporting data driven in-network processing for low-power wireless sensor networks.</title><venue>IPSN</venue><pages>72-83</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/MohammadC18</key><doi>10.1109/IPSN.2018.00014</doi><ee>https://doi.org/10.1109/IPSN.2018.00014</ee><url>https://dblp.org/rec/conf/ipsn/MohammadC18</url></info>
+<url>URL#2290399</url>
+</hit>
+<hit score="1" id="2290400">
+<info><authors><author pid="178/3113">Antonio L. Maia Neto</author><author pid="217/5147">Yuri L. Pereira</author><author pid="188/9360">Artur L. F. Souza</author><author pid="80/186">Ítalo S. Cunha</author><author pid="22/175">Leonardo B. Oliveira</author></authors><title>Attributed-based authentication and access control for IoT home devices: demo abstract.</title><venue>IPSN</venue><pages>112-113</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/NetoPSCO18</key><doi>10.1109/IPSN.2018.00019</doi><ee>https://doi.org/10.1109/IPSN.2018.00019</ee><url>https://dblp.org/rec/conf/ipsn/NetoPSCO18</url></info>
+<url>URL#2290400</url>
+</hit>
+<hit score="1" id="2290401">
+<info><authors><author pid="217/5042">Hayato Oshita</author><author pid="66/667">Norihisa Segawa</author></authors><title>Pulse shot: photo shooting and retrieval system using heartbeat information: poster abstract.</title><venue>IPSN</venue><pages>118-119</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/OshitaS18</key><doi>10.1109/IPSN.2018.00022</doi><ee>https://doi.org/10.1109/IPSN.2018.00022</ee><url>https://dblp.org/rec/conf/ipsn/OshitaS18</url></info>
+<url>URL#2290401</url>
+</hit>
+<hit score="1" id="2290402">
+<info><authors><author pid="86/11187">Pat Pannuto</author><author pid="11/11189">Benjamin P. Kempke</author><author pid="40/5390">Prabal Dutta</author></authors><title>Slocalization: sub-μW ultra wideband backscatter localization.</title><venue>IPSN</venue><pages>242-253</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/PannutoKD18</key><doi>10.1109/IPSN.2018.00052</doi><ee>https://doi.org/10.1109/IPSN.2018.00052</ee><url>https://dblp.org/rec/conf/ipsn/PannutoKD18</url></info>
+<url>URL#2290402</url>
+</hit>
+<hit score="1" id="2290403">
+<info><authors><author pid="171/9306">Jiwoong Park</author><author pid="160/5797">Sajida Imran</author><author pid="10/5989">Young-Bae Ko</author><author pid="98/7810">Chang-Eun Lee</author><author pid="85/2517">Sangjoon Park</author></authors><title>An iterative approach for non-line-of-sight error mitigation in UWB localization: poster abstract.</title><venue>IPSN</venue><pages>116-117</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ParkIKLP18</key><doi>10.1109/IPSN.2018.00021</doi><ee>https://doi.org/10.1109/IPSN.2018.00021</ee><url>https://dblp.org/rec/conf/ipsn/ParkIKLP18</url></info>
+<url>URL#2290403</url>
+</hit>
+<hit score="1" id="2290404">
+<info><authors><author pid="150/7352">Carlos M. Pérez-Penichet</author><author pid="21/9660">Claro Noda</author><author pid="132/8415">Ambuj Varshney</author><author pid="46/5016">Thiemo Voigt</author></authors><title>Battery-free 802.15.4 receiver: demo abstract.</title><venue>IPSN</venue><pages>130-131</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Perez-PenichetN18</key><doi>10.1109/IPSN.2018.00028</doi><ee>https://doi.org/10.1109/IPSN.2018.00028</ee><url>https://dblp.org/rec/conf/ipsn/Perez-PenichetN18</url></info>
+<url>URL#2290404</url>
+</hit>
+<hit score="1" id="2290405">
+<info><authors><author pid="150/7352">Carlos M. Pérez-Penichet</author><author pid="21/9660">Claro Noda</author><author pid="132/8415">Ambuj Varshney</author><author pid="46/5016">Thiemo Voigt</author></authors><title>Battery-free 802.15.4 receiver.</title><venue>IPSN</venue><pages>164-175</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Perez-PenichetN18a</key><doi>10.1109/IPSN.2018.00045</doi><ee>https://doi.org/10.1109/IPSN.2018.00045</ee><url>https://dblp.org/rec/conf/ipsn/Perez-PenichetN18a</url></info>
+<url>URL#2290405</url>
+</hit>
+<hit score="1" id="2290406">
+<info><authors><author pid="129/2739">Niranjini Rajagopal</author><author pid="124/2819">Patrick Lazik</author><author pid="01/4310-1">Nuno Pereira 0001</author><author pid="190/3138">Sindhura Chayapathy</author><author pid="53/2290">Bruno Sinopoli</author><author pid="02/630">Anthony Rowe 0001</author></authors><title>Enhancing indoor smartphone location acquisition using floor plans.</title><venue>IPSN</venue><pages>278-289</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/RajagopalL0CSR18</key><doi>10.1109/IPSN.2018.00056</doi><ee>https://doi.org/10.1109/IPSN.2018.00056</ee><url>https://dblp.org/rec/conf/ipsn/RajagopalL0CSR18</url></info>
+<url>URL#2290406</url>
+</hit>
+<hit score="1" id="2290407">
+<info><authors><author pid="129/2739">Niranjini Rajagopal</author><author pid="74/5270-1">John Miller 0002</author><author pid="217/5048">Krishna Kumar Reghu Kumar</author><author pid="124/2686">Anh Luong</author><author pid="02/630">Anthony Rowe 0001</author></authors><title>Welcome to my world: demystifying multi-user AR with the cloud: demo abstract.</title><venue>IPSN</venue><pages>146-147</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/RajagopalMKLR18</key><doi>10.1109/IPSN.2018.00036</doi><ee>https://doi.org/10.1109/IPSN.2018.00036</ee><url>https://dblp.org/rec/conf/ipsn/RajagopalMKLR18</url></info>
+<url>URL#2290407</url>
+</hit>
+<hit score="1" id="2290408">
+<info><authors><author pid="170/2528">Carlos Ruiz Dominguez</author><author pid="98/10484">Shijia Pan</author><author pid="217/5124">Alberto Sadde</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author></authors><title>Posepair: pairing IoT devices through visual human pose analysis: demo abstract.</title><venue>IPSN</venue><pages>144-145</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/RuizPSNZ18</key><doi>10.1109/IPSN.2018.00035</doi><ee>https://doi.org/10.1109/IPSN.2018.00035</ee><url>https://dblp.org/rec/conf/ipsn/RuizPSNZ18</url></info>
+<url>URL#2290408</url>
+</hit>
+<hit score="1" id="2290409">
+<info><authors><author pid="217/5070">Maria L. B. A. Santos</author><author pid="217/4994">Jéssica C. Carneiro</author><author pid="25/10167">Fernando Augusto Teixeira</author><author pid="217/5013">Antônio M. R. Franco</author><author pid="72/1263">Marco Aurélio Amaral Henriques</author><author pid="22/175">Leonardo B. Oliveira</author></authors><title>Federated authentication of things: demo abstract.</title><venue>IPSN</venue><pages>136-137</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SantosCTFHO18</key><doi>10.1109/IPSN.2018.00031</doi><ee>https://doi.org/10.1109/IPSN.2018.00031</ee><url>https://dblp.org/rec/conf/ipsn/SantosCTFHO18</url></info>
+<url>URL#2290409</url>
+</hit>
+<hit score="1" id="2290410">
+<info><authors><author pid="217/4980">Raphael Strebel</author><author pid="93/5923">Michele Magno</author></authors><title>Zero-power receiver for touch communication and touch sensing: poster abstract.</title><venue>IPSN</venue><pages>150-151</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/StrebelM18</key><doi>10.1109/IPSN.2018.00038</doi><ee>https://doi.org/10.1109/IPSN.2018.00038</ee><url>https://dblp.org/rec/conf/ipsn/StrebelM18</url></info>
+<url>URL#2290410</url>
+</hit>
+<hit score="1" id="2290411">
+<info><authors><author pid="217/5066">Thanchanok Sutjarittham</author><author pid="139/2729">Hassan Habibi Gharakheili</author><author pid="42/840">Salil S. Kanhere</author><author pid="63/6049">Vijay Sivaraman</author></authors><title>A tool to access and visualize classroom attendance data from a smart campus: demo abstract.</title><venue>IPSN</venue><pages>140-141</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SutjaritthamGKS18</key><doi>10.1109/IPSN.2018.00033</doi><ee>https://doi.org/10.1109/IPSN.2018.00033</ee><url>https://dblp.org/rec/conf/ipsn/SutjaritthamGKS18</url></info>
+<url>URL#2290411</url>
+</hit>
+<hit score="1" id="2290412">
+<info><authors><author pid="217/5066">Thanchanok Sutjarittham</author><author pid="139/2729">Hassan Habibi Gharakheili</author><author pid="42/840">Salil S. Kanhere</author><author pid="63/6049">Vijay Sivaraman</author></authors><title>Data-driven monitoring and optimization of classroom usage in a smart campus.</title><venue>IPSN</venue><pages>224-229</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SutjaritthamGKS18a</key><doi>10.1109/IPSN.2018.00050</doi><ee>https://doi.org/10.1109/IPSN.2018.00050</ee><url>https://dblp.org/rec/conf/ipsn/SutjaritthamGKS18a</url></info>
+<url>URL#2290412</url>
+</hit>
+<hit score="1" id="2290413">
+<info><authors><author pid="217/5180-1">Haseeb Tariq 0001</author><author pid="175/0685">Suleman Mazhar</author><author pid="217/5079">Hadia Hameed</author></authors><title>Road quality classification for road repair authorities and regular drivers, using an on-board data logger: poster abstract.</title><venue>IPSN</venue><pages>142-143</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/TariqMH18</key><doi>10.1109/IPSN.2018.00034</doi><ee>https://doi.org/10.1109/IPSN.2018.00034</ee><url>https://dblp.org/rec/conf/ipsn/TariqMH18</url></info>
+<url>URL#2290413</url>
+</hit>
+<hit score="1" id="2290414">
+<info><authors><author pid="215/2274">Roman Trüb</author><author pid="140/4942">Daniel Moser</author><author pid="29/1-2">Matthias Schäfer 0002</author><author pid="176/5073">Rui Pinheiro</author><author pid="75/5939">Vincent Lenders</author></authors><title>Monitoring meteorological parameters with crowdsourced air traffic control data.</title><venue>IPSN</venue><pages>25-36</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/TrubMSPL18</key><doi>10.1109/IPSN.2018.00010</doi><ee>https://doi.org/10.1109/IPSN.2018.00010</ee><url>https://dblp.org/rec/conf/ipsn/TrubMSPL18</url></info>
+<url>URL#2290414</url>
+</hit>
+<hit score="1" id="2290415">
+<info><authors><author pid="136/0970">Daniel A. Winkler</author><author pid="23/5257">Miguel Á. Carreira-Perpiñán</author><author pid="40/4515">Alberto E. Cerpa</author></authors><title>Plug-and-play irrigation control at scale.</title><venue>IPSN</venue><pages>1-12</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WinklerCC18</key><doi>10.1109/IPSN.2018.00008</doi><ee>https://doi.org/10.1109/IPSN.2018.00008</ee><url>https://dblp.org/rec/conf/ipsn/WinklerCC18</url></info>
+<url>URL#2290415</url>
+</hit>
+<hit score="1" id="2290416">
+<info><authors><author pid="179/3271">Taehun Yang</author><author pid="179/3240">Cheonyong Kim</author><author pid="177/5188">Sangdae Kim</author><author pid="36/3997">Sang-Ha Kim 0001</author><author pid="59/3389">Soochang Park</author></authors><title>Reliable push notification for mobile users in interactive smart mobile applications: poster abstract.</title><venue>IPSN</venue><pages>152-153</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/YangKKKP18</key><doi>10.1109/IPSN.2018.00039</doi><ee>https://doi.org/10.1109/IPSN.2018.00039</ee><url>https://dblp.org/rec/conf/ipsn/YangKKKP18</url></info>
+<url>URL#2290416</url>
+</hit>
+<hit score="1" id="2358702">
+<info><authors><author pid="60/5205">Luca Mottola</author><author pid="181/2794">Jie Gao</author><author pid="78/5323">Pei Zhang</author></authors><title>Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks, IPSN 2018, Porto, Portugal, April 11-13, 2018</title><venue>IPSN</venue><publisher>IEEE / ACM</publisher><year>2018</year><type>Editorship</type><key>conf/ipsn/2018</key><ee>https://ieeexplore.ieee.org/xpl/conhome/8432383/proceeding</ee><url>https://dblp.org/rec/conf/ipsn/2018</url></info>
+<url>URL#2358702</url>
+</hit>
+</hits>
+</result>

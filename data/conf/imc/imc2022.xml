@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59783">:facetid:toc:\"db/conf/imc/imc2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">193.73</time>
+<completions total="1" computed="1" sent="1">
+<c sc="77" dc="77" oc="77" id="41047564">:facetid:toc:db/conf/imc/imc2022.bht</c>
+</completions>
+<hits total="77" computed="77" sent="77" first="0">
+<hit score="1" id="572749">
+<info><authors><author pid="130/2758">Muhammad Abdullah</author><author pid="131/6120">Zafar Ayyub Qazi</author><author pid="98/776">Ihsan Ayyub Qazi</author></authors><title>Causal impact of Android go on mobile web performance.</title><venue>IMC</venue><pages>113-129</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AbdullahQQ22</key><doi>10.1145/3517745.3561456</doi><ee>https://doi.org/10.1145/3517745.3561456</ee><url>https://dblp.org/rec/conf/imc/AbdullahQQ22</url></info>
+<url>URL#572749</url>
+</hit>
+<hit score="1" id="572750">
+<info><authors><author pid="224/2363">Gautam Akiwate</author><author pid="193/3162">Raffaele Sommese</author><author pid="163/4064">Mattijs Jonker</author><author pid="143/5673">Zakir Durumeric</author><author pid="68/4966">kc claffy</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="s/StefanSavage">Stefan Savage</author></authors><title>Retroactive identification of targeted DNS infrastructure hijacking.</title><venue>IMC</venue><pages>14-32</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AkiwateSJDcVS22</key><doi>10.1145/3517745.3561425</doi><ee>https://doi.org/10.1145/3517745.3561425</ee><url>https://dblp.org/rec/conf/imc/AkiwateSJDcVS22</url></info>
+<url>URL#572750</url>
+</hit>
+<hit score="1" id="572751">
+<info><authors><author pid="278/2353">Thomas Alfroy</author><author pid="163/1884">Thomas Holterbach</author><author pid="72/952">Cristel Pelsser</author></authors><title>MVP: measuring internet routing from the most valuable points.</title><venue>IMC</venue><pages>770-771</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AlfroyHP22</key><doi>10.1145/3517745.3563031</doi><ee>https://doi.org/10.1145/3517745.3563031</ee><url>https://dblp.org/rec/conf/imc/AlfroyHP22</url></info>
+<url>URL#572751</url>
+</hit>
+<hit score="1" id="572752">
+<info><authors><author pid="170/8795">Scott Anderson</author><author pid="222/1655">Loqman Salamatian</author><author pid="14/5053">Zachary S. Bischof</author><author pid="28/5074">Alberto Dainotti</author><author pid="b/PaulBarford">Paul Barford</author></authors><title>iGDB: connecting the physical and logical layers of the internet.</title><venue>IMC</venue><pages>433-448</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AndersonSBDB22</key><doi>10.1145/3517745.3561443</doi><ee>https://doi.org/10.1145/3517745.3561443</ee><url>https://dblp.org/rec/conf/imc/AndersonSBDB22</url></info>
+<url>URL#572752</url>
+</hit>
+<hit score="1" id="572753">
+<info><authors><author pid="270/6069">Lucas Torrealba Aravena</author><author pid="26/1093">Javier Bustos-Jiménez</author><author pid="35/5301">Pedro Casas</author></authors><title>PHISHWEB: a progressive, multi-layered system for phishing websites detection.</title><venue>IMC</venue><pages>764-765</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AravenaBC22</key><doi>10.1145/3517745.3563028</doi><ee>https://doi.org/10.1145/3517745.3563028</ee><url>https://dblp.org/rec/conf/imc/AravenaBC22</url></info>
+<url>URL#572753</url>
+</hit>
+<hit score="1" id="572754">
+<info><authors><author pid="283/5736">Alfred Arouna</author><author pid="163/4064">Mattijs Jonker</author><author pid="139/2616">Ioana Livadariu</author></authors><title>On unifying diverse DNS data sources.</title><venue>IMC</venue><pages>752-753</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ArounaJL22</key><doi>10.1145/3517745.3563022</doi><ee>https://doi.org/10.1145/3517745.3563022</ee><url>https://dblp.org/rec/conf/imc/ArounaJL22</url></info>
+<url>URL#572754</url>
+</hit>
+<hit score="1" id="572755">
+<info><authors><author pid="331/6186">David Baldassin</author><author pid="47/5972">Ludovic Roux</author><author pid="03/646">Guillaume Urvoy-Keller</author><author pid="19/5230">Dino Martin López-Pacheco</author></authors><title>A practical assessment approach of the interplay between WebRTC and QUIC.</title><venue>IMC</venue><pages>768-769</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BaldassinRUL22</key><doi>10.1145/3517745.3563030</doi><ee>https://doi.org/10.1145/3517745.3563030</ee><url>https://dblp.org/rec/conf/imc/BaldassinRUL22</url></info>
+<url>URL#572755</url>
+</hit>
+<hit score="1" id="572756">
+<info><authors><author pid="244/8924">Aygün Baltaci</author><author pid="222/5884">Hendrik Cech</author><author pid="164/5721">Nitinder Mohan</author><author pid="122/3856">Fabien Geyer</author><author pid="17/11461">Vaibhav Bajpai</author><author pid="57/6706">Jörg Ott</author><author pid="43/5035">Dominic Schupke</author></authors><title>Analyzing real-time video delivery over cellular networks for remote piloting aerial vehicles.</title><venue>IMC</venue><pages>98-112</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BaltaciCMGBOS22</key><doi>10.1145/3517745.3561465</doi><ee>https://doi.org/10.1145/3517745.3561465</ee><url>https://dblp.org/rec/conf/imc/BaltaciCMGBOS22</url></info>
+<url>URL#572756</url>
+</hit>
+<hit score="1" id="572757">
+<info><authors><author pid="308/2301">Nathaniel Bennett</author><author pid="331/5915">Rebekah Sowards</author><author pid="69/6101">Casey T. Deccio</author></authors><title>SPFail: discovering, measuring, and remediating vulnerabilities in email sender validation.</title><venue>IMC</venue><pages>633-646</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BennettSD22</key><doi>10.1145/3517745.3561468</doi><ee>https://doi.org/10.1145/3517745.3561468</ee><url>https://dblp.org/rec/conf/imc/BennettSD22</url></info>
+<url>URL#572757</url>
+</hit>
+<hit score="1" id="572758">
+<info><authors><author pid="298/4597">Shekhar Chalise</author><author pid="331/5808">Hoang Dai Nguyen</author><author pid="133/2036">Phani Vadrevu</author></authors><title>Your speaker or my snooper?: measuring the effectiveness of web audio browser fingerprints.</title><venue>IMC</venue><pages>349-357</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ChaliseNV22</key><doi>10.1145/3517745.3561435</doi><ee>https://doi.org/10.1145/3517745.3561435</ee><url>https://dblp.org/rec/conf/imc/ChaliseNV22</url></info>
+<url>URL#572758</url>
+</hit>
+<hit score="1" id="572759">
+<info><authors><author pid="312/6541">Ruizhi Cheng</author><author pid="58/2484">Nan Wu</author><author pid="01/6280">Matteo Varvello</author><author pid="47/3276">Songqing Chen</author><author pid="00/3507">Bo Han 0001</author></authors><title>Are we ready for metaverse?: a measurement study of social virtual reality platforms.</title><venue>IMC</venue><pages>504-518</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ChengWVC022</key><doi>10.1145/3517745.3561417</doi><ee>https://doi.org/10.1145/3517745.3561417</ee><url>https://dblp.org/rec/conf/imc/ChengWVC022</url></info>
+<url>URL#572759</url>
+</hit>
+<hit score="1" id="572760">
+<info><authors><author pid="204/5761">Ali Davanian</author><author pid="f/MichalisFaloutsos">Michalis Faloutsos</author></authors><title>MalNet: a binary-centric network-level profiling of IoT malware.</title><venue>IMC</venue><pages>472-487</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DavanianF22</key><doi>10.1145/3517745.3561463</doi><ee>https://doi.org/10.1145/3517745.3561463</ee><url>https://dblp.org/rec/conf/imc/DavanianF22</url></info>
+<url>URL#572760</url>
+</hit>
+<hit score="1" id="572761">
+<info><authors><author pid="267/4528">Ben Du</author><author pid="234/7672">Cecilia Testart</author><author pid="13/7972">Romain Fontugne</author><author pid="224/2363">Gautam Akiwate</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="68/4966">kc claffy</author></authors><title>Mind your MANRS: measuring the MANRS ecosystem.</title><venue>IMC</venue><pages>716-729</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DuTFASc22</key><doi>10.1145/3517745.3561419</doi><ee>https://doi.org/10.1145/3517745.3561419</ee><url>https://dblp.org/rec/conf/imc/DuTFASc22</url></info>
+<url>URL#572761</url>
+</hit>
+<hit score="1" id="572762">
+<info><authors><author pid="239/8831">Mitziu Echeverria</author><author pid="53/7986">Omar Chowdhury</author></authors><title>Demystifying the presence of cellular network attacks and misbehaviors.</title><venue>IMC</venue><pages>742-743</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/EcheverriaC22</key><doi>10.1145/3517745.3563017</doi><ee>https://doi.org/10.1145/3517745.3563017</ee><url>https://dblp.org/rec/conf/imc/EcheverriaC22</url></info>
+<url>URL#572762</url>
+</hit>
+<hit score="1" id="572763">
+<info><authors><author pid="237/9757">Jide S. Edu</author><author pid="331/6075">Cliona Mulligan</author><author pid="149/1452">Fabio Pierazzi</author><author pid="47/8412">Jason Polakis</author><author pid="56/9730">Guillermo Suarez-Tangil</author><author pid="18/4101">Jose M. Such</author></authors><title>Exploring the security and privacy risks of chatbots in messaging services.</title><venue>IMC</venue><pages>581-588</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/EduMPPSS22</key><doi>10.1145/3517745.3561433</doi><ee>https://doi.org/10.1145/3517745.3561433</ee><url>https://dblp.org/rec/conf/imc/EduMPPSS22</url></info>
+<url>URL#572763</url>
+</hit>
+<hit score="1" id="572764">
+<info><authors><author pid="129/2765">Asma Enayet</author><author pid="h/JohnSHeidemann">John S. Heidemann</author></authors><title>Internet outage detection using passive analysis.</title><venue>IMC</venue><pages>772-773</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/EnayetH22</key><doi>10.1145/3517745.3563032</doi><ee>https://doi.org/10.1145/3517745.3563032</ee><url>https://dblp.org/rec/conf/imc/EnayetH22</url></info>
+<url>URL#572764</url>
+</hit>
+<hit score="1" id="572765">
+<info><authors><author pid="179/5476">Alexander Gamero-Garrido</author><author pid="b/EMBeldingRoyer">Elizabeth M. Belding</author><author pid="48/6854">David R. Choffnes</author></authors><title>Using reverse IP geolocation to identify institutional networks.</title><venue>IMC</venue><pages>750-751</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Gamero-GarridoB22</key><doi>10.1145/3517745.3563021</doi><ee>https://doi.org/10.1145/3517745.3563021</ee><url>https://dblp.org/rec/conf/imc/Gamero-GarridoB22</url></info>
+<url>URL#572765</url>
+</hit>
+<hit score="1" id="572766">
+<info><authors><author pid="331/6268">Max Gao</author><author pid="68/9978">Ricky K. P. Mok</author></authors><title>A scalable network event detection framework for darknet traffic.</title><venue>IMC</venue><pages>738-739</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GaoM22</key><doi>10.1145/3517745.3563015</doi><ee>https://doi.org/10.1145/3517745.3563015</ee><url>https://dblp.org/rec/conf/imc/GaoM22</url></info>
+<url>URL#572766</url>
+</hit>
+<hit score="1" id="572767">
+<info><authors><author pid="271/9848">Ehab Ghabashneh</author><author pid="76/10585">Yimeng Zhao</author><author pid="23/3990">Cristian Lumezanu</author><author pid="s/NeilTSpring">Neil Spring</author><author pid="47/8093">Srikanth Sundaresan</author><author pid="163/8803">Sanjay Rao</author></authors><title>A microscopic view of bursts, buffer contention, and loss in data centers.</title><venue>IMC</venue><pages>567-580</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GhabashnehZLSSR22</key><doi>10.1145/3517745.3561430</doi><ee>https://doi.org/10.1145/3517745.3561430</ee><url>https://dblp.org/rec/conf/imc/GhabashnehZLSSR22</url></info>
+<url>URL#572767</url>
+</hit>
+<hit score="1" id="572768">
+<info><authors><author pid="334/4592">Aniketh Girish</author><author pid="98/3527">Juan Tapiador</author><author pid="117/1997">Srdjan Matic</author><author pid="50/7563">Narseo Vallina-Rodriguez</author></authors><title>Towards an extensible privacy analysis framework for smart homes.</title><venue>IMC</venue><pages>754-755</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GirishTMV22</key><doi>10.1145/3517745.3563023</doi><ee>https://doi.org/10.1145/3517745.3563023</ee><url>https://dblp.org/rec/conf/imc/GirishTMV22</url></info>
+<url>URL#572768</url>
+</hit>
+<hit score="1" id="572769">
+<info><authors><author pid="276/6564">Gastón García González</author><author pid="35/5301">Pedro Casas</author><author pid="20/1638">Alicia Fernández</author><author pid="49/2121">Gabriel Gómez</author></authors><title>Steps towards continual learning in multivariate time-series anomaly detection using variational autoencoders.</title><venue>IMC</venue><pages>774-775</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GonzalezCFG22</key><doi>10.1145/3517745.3563033</doi><ee>https://doi.org/10.1145/3517745.3563033</ee><url>https://dblp.org/rec/conf/imc/GonzalezCFG22</url></info>
+<url>URL#572769</url>
+</hit>
+<hit score="1" id="572770">
+<info><authors><author pid="277/2819">Florian Hantke</author><author pid="136/8343">Ben Stock</author></authors><title>HTML violations and where to find them: a longitudinal analysis of specification violations in HTML.</title><venue>IMC</venue><pages>358-373</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HantkeS22</key><doi>10.1145/3517745.3561437</doi><ee>https://doi.org/10.1145/3517745.3561437</ee><url>https://dblp.org/rec/conf/imc/HantkeS22</url></info>
+<url>URL#572770</url>
+</hit>
+<hit score="1" id="572771">
+<info><authors><author pid="288/7661">Tiago Heinrich</author><author pid="m/CarlosMaziero">Carlos Alberto Maziero</author><author pid="134/4589">Newton Carlos Will</author><author pid="91/1540">Rafael R. Obelheiro</author></authors><title>How DRDoS attacks vary across the globe?</title><venue>IMC</venue><pages>760-761</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HeinrichMWO22</key><doi>10.1145/3517745.3563026</doi><ee>https://doi.org/10.1145/3517745.3563026</ee><url>https://dblp.org/rec/conf/imc/HeinrichMWO22</url></info>
+<url>URL#572771</url>
+</hit>
+<hit score="1" id="572772">
+<info><authors><author pid="331/6343">Eyal Horowicz</author><author pid="221/2216">Tal Shapira</author><author pid="83/1922">Yuval Shavitt</author></authors><title>A few shots traffic classification with mini-FlowPic augmentations.</title><venue>IMC</venue><pages>647-654</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HorowiczSS22</key><doi>10.1145/3517745.3561436</doi><ee>https://doi.org/10.1145/3517745.3561436</ee><url>https://dblp.org/rec/conf/imc/HorowiczSS22</url></info>
+<url>URL#572772</url>
+</hit>
+<hit score="1" id="572773">
+<info><authors><author pid="180/3746">Waleed Iqbal</author><author pid="85/85">Gareth Tyson</author><author pid="331/5926">Vahid Ghafouri</author><author pid="56/9730">Guillermo Suarez-Tangil</author><author pid="99/11343">Ignacio Castro</author></authors><title>Exploring online manifestations of real-world inequalities.</title><venue>IMC</venue><pages>762-763</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/IqbalTGSC22</key><doi>10.1145/3517745.3563027</doi><ee>https://doi.org/10.1145/3517745.3563027</ee><url>https://dblp.org/rec/conf/imc/IqbalTGSC22</url></info>
+<url>URL#572773</url>
+</hit>
+<hit score="1" id="572774">
+<info><authors><author pid="319/8493">Katsuki Isobe</author><author pid="122/3531">Daishi Kondo</author><author pid="30/3255">Hideki Tode</author></authors><title>A first look at the name resolution latency on handshake.</title><venue>IMC</venue><pages>756-757</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/IsobeKT22</key><doi>10.1145/3517745.3563024</doi><ee>https://doi.org/10.1145/3517745.3563024</ee><url>https://dblp.org/rec/conf/imc/IsobeKT22</url></info>
+<url>URL#572774</url>
+</hit>
+<hit score="1" id="572775">
+<info><authors><author pid="227/0738">Liz Izhikevich</author><author pid="224/2363">Gautam Akiwate</author><author pid="331/6238">Briana Berger</author><author pid="217/7380">Spencer Drakontaidis</author><author pid="331/5937">Anna Ascheman</author><author pid="61/1749">Paul Pearce</author><author pid="150/5960">David Adrian</author><author pid="143/5673">Zakir Durumeric</author></authors><title>ZDNS: a fast DNS toolkit for internet measurement.</title><venue>IMC</venue><pages>33-43</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/IzhikevichABDAP22</key><doi>10.1145/3517745.3561434</doi><ee>https://doi.org/10.1145/3517745.3561434</ee><url>https://dblp.org/rec/conf/imc/IzhikevichABDAP22</url></info>
+<url>URL#572775</url>
+</hit>
+<hit score="1" id="572776">
+<info><authors><author pid="323/5911">Akshath Jain</author><author pid="287/9665">Deepayan Patra</author><author pid="210/6650">Peijing Xu</author><author pid="37/8465">Justine Sherry</author><author pid="52/2893">Phillipa Gill</author></authors><title>The ukrainian internet under attack: an NDT perspective.</title><venue>IMC</venue><pages>166-178</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/JainPXSG22</key><doi>10.1145/3517745.3561449</doi><ee>https://doi.org/10.1145/3517745.3561449</ee><url>https://dblp.org/rec/conf/imc/JainPXSG22</url></info>
+<url>URL#572776</url>
+</hit>
+<hit score="1" id="572777">
+<info><authors><author pid="163/4064">Mattijs Jonker</author><author pid="224/2363">Gautam Akiwate</author><author pid="222/3194">Antonia Affinito</author><author pid="68/4966">kc claffy</author><author pid="32/5584">Alessio Botta</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="155/5773">Roland van Rijswijk-Deij</author><author pid="s/StefanSavage">Stefan Savage</author></authors><title>Where .ru?: assessing the impact of conflict on russian domain infrastructure.</title><venue>IMC</venue><pages>159-165</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/JonkerAAcBVRS22</key><doi>10.1145/3517745.3561423</doi><ee>https://doi.org/10.1145/3517745.3561423</ee><url>https://dblp.org/rec/conf/imc/JonkerAAcBVRS22</url></info>
+<url>URL#572777</url>
+</hit>
+<hit score="1" id="572778">
+<info><authors><author pid="255/5791">Levi Kaplan</author><author pid="331/6330">Nicole Gerzon</author><author pid="31/3833">Alan Mislove</author><author pid="130/0421">Piotr Sapiezynski</author></authors><title>Measurement and analysis of implied identity in ad delivery optimization.</title><venue>IMC</venue><pages>195-209</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KaplanGMS22</key><doi>10.1145/3517745.3561450</doi><ee>https://doi.org/10.1145/3517745.3561450</ee><url>https://dblp.org/rec/conf/imc/KaplanGMS22</url></info>
+<url>URL#572778</url>
+</hit>
+<hit score="1" id="572779">
+<info><authors><author pid="331/6305">Manuel Karl</author><author pid="224/4374">Marius Musch</author><author pid="129/4336">Guoli Ma</author><author pid="82/359">Martin Johns</author><author pid="43/9795">Sebastian Lekies</author></authors><title>No keys to the kingdom required: a comprehensive investigation of missing authentication vulnerabilities in the wild.</title><venue>IMC</venue><pages>619-632</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KarlMMJL22</key><doi>10.1145/3517745.3561446</doi><ee>https://doi.org/10.1145/3517745.3561446</ee><url>https://dblp.org/rec/conf/imc/KarlMMJL22</url></info>
+<url>URL#572779</url>
+</hit>
+<hit score="1" id="572780">
+<info><authors><author pid="164/6428">Mohamed M. Kassem</author><author pid="141/9377">Aravindh Raman</author><author pid="03/3645">Diego Perino</author><author pid="12/6462">Nishanth Sastry</author></authors><title>A browser-side view of starlink connectivity.</title><venue>IMC</venue><pages>151-158</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KassemRPS22</key><doi>10.1145/3517745.3561457</doi><ee>https://doi.org/10.1145/3517745.3561457</ee><url>https://dblp.org/rec/conf/imc/KassemRPS22</url></info>
+<url>URL#572780</url>
+</hit>
+<hit score="1" id="572781">
+<info><authors><author pid="222/1952">Savvas Kastanakis</author><author pid="87/7704">Vasileios Giotsas</author><author pid="s/NeerajSuri">Neeraj Suri</author></authors><title>Understanding the confounding factors of inter-domain routing modeling.</title><venue>IMC</venue><pages>758-759</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KastanakisGS22</key><doi>10.1145/3517745.3563025</doi><ee>https://doi.org/10.1145/3517745.3563025</ee><url>https://dblp.org/rec/conf/imc/KastanakisGS22</url></info>
+<url>URL#572781</url>
+</hit>
+<hit score="1" id="572782">
+<info><authors><author pid="330/6862">Ege Cem Kirci</author><author pid="331/5795">Martin Vahlensieck</author><author pid="51/7546">Laurent Vanbever</author></authors><title>&quot;Is my internet down?&quot;: sifting through user-affecting outages with Google trends.</title><venue>IMC</venue><pages>290-297</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KirciVV22</key><doi>10.1145/3517745.3561428</doi><ee>https://doi.org/10.1145/3517745.3561428</ee><url>https://dblp.org/rec/conf/imc/KirciVV22</url></info>
+<url>URL#572782</url>
+</hit>
+<hit score="1" id="572783">
+<info><authors><author pid="258/4682">Mike Kosek</author><author pid="310/1571">Luca Schumann</author><author pid="147/3409">Robin Marx</author><author pid="234/2479">Trinh Viet Doan</author><author pid="17/11461">Vaibhav Bajpai</author></authors><title>DNS privacy with speed?: evaluating DNS over QUIC and its impact on web performance.</title><venue>IMC</venue><pages>44-50</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KosekSMDB22</key><doi>10.1145/3517745.3561445</doi><ee>https://doi.org/10.1145/3517745.3561445</ee><url>https://dblp.org/rec/conf/imc/KosekSMDB22</url></info>
+<url>URL#572783</url>
+</hit>
+<hit score="1" id="572784">
+<info><authors><author pid="331/5877">Jesutofunmi Kupoluyi</author><author pid="07/8276">Moumena Chaqfeh</author><author pid="01/6280">Matteo Varvello</author><author pid="295/9351">Russell Coke</author><author pid="276/6064">Waleed Hashmi</author><author pid="85/5401">Lakshmi Subramanian</author><author pid="16/3354">Yasir Zaki</author></authors><title>Muzeel: assessing the impact of JavaScript dead code elimination on mobile web performance.</title><venue>IMC</venue><pages>335-348</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KupoluyiCVCHSZ22</key><doi>10.1145/3517745.3561427</doi><ee>https://doi.org/10.1145/3517745.3561427</ee><url>https://dblp.org/rec/conf/imc/KupoluyiCVCHSZ22</url></info>
+<url>URL#572784</url>
+</hit>
+<hit score="1" id="572785">
+<info><authors><author pid="331/6162">Raphaël Léas</author><author pid="239/8596">Justin Iurman</author><author pid="06/5461">Eric Vyncke</author><author pid="27/3281">Benoit Donnet</author></authors><title>Measuring IPv6 extension headers survivability with James.</title><venue>IMC</venue><pages>746-747</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LeasIVD22</key><doi>10.1145/3517745.3563019</doi><ee>https://doi.org/10.1145/3517745.3563019</ee><url>https://dblp.org/rec/conf/imc/LeasIVD22</url></info>
+<url>URL#572785</url>
+</hit>
+<hit score="1" id="572786">
+<info><authors><author pid="79/5958">Ajay Mahimkar</author><author pid="76/5778">Zihui Ge</author><author pid="13/5407">Xuan Liu</author><author pid="331/6080">Yusef Shaqalle</author><author pid="00/6716-3">Yu Xiang 0003</author><author pid="y/JenniferYates">Jennifer Yates</author><author pid="193/6416">Shomik Pathak</author><author pid="331/6230">Rick Reichel</author></authors><title>Aurora: conformity-based configuration recommendation to improve LTE/5G service.</title><venue>IMC</venue><pages>83-97</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MahimkarGLSXYPR22</key><doi>10.1145/3517745.3561455</doi><ee>https://doi.org/10.1145/3517745.3561455</ee><url>https://dblp.org/rec/conf/imc/MahimkarGLSXYPR22</url></info>
+<url>URL#572786</url>
+</hit>
+<hit score="1" id="572787">
+<info><authors><author pid="277/3105">Emeline Marechal</author><author pid="331/6354">Yining Shao</author><author pid="139/1756">Marc Bruyère</author><author pid="27/3281">Benoit Donnet</author></authors><title>A first-look at segment routing deployment in a large european ISP.</title><venue>IMC</venue><pages>748-749</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MarechalSBD22</key><doi>10.1145/3517745.3563020</doi><ee>https://doi.org/10.1145/3517745.3563020</ee><url>https://dblp.org/rec/conf/imc/MarechalSBD22</url></info>
+<url>URL#572787</url>
+</hit>
+<hit score="1" id="572788">
+<info><authors><author pid="12/8224">Oliver Michel</author><author pid="124/3530">Satadal Sengupta</author><author pid="02/8397">Hyojoon Kim</author><author pid="123/3350-1">Ravi Netravali</author><author pid="r/JenniferRexford">Jennifer Rexford</author></authors><title>Enabling passive measurement of zoom performance in production networks.</title><venue>IMC</venue><pages>244-260</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MichelSKNR22</key><doi>10.1145/3517745.3561414</doi><ee>https://doi.org/10.1145/3517745.3561414</ee><url>https://dblp.org/rec/conf/imc/MichelSKNR22</url></info>
+<url>URL#572788</url>
+</hit>
+<hit score="1" id="572789">
+<info><authors><author pid="25/1006">François Michel</author><author pid="186/8831">Martino Trevisan</author><author pid="160/8766">Danilo Giordano</author><author pid="91/2043">Olivier Bonaventure</author></authors><title>A first look at starlink performance.</title><venue>IMC</venue><pages>130-136</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MichelTGB22</key><doi>10.1145/3517745.3561416</doi><ee>https://doi.org/10.1145/3517745.3561416</ee><url>https://dblp.org/rec/conf/imc/MichelTGB22</url></info>
+<url>URL#572789</url>
+</hit>
+<hit score="1" id="572790">
+<info><authors><author pid="257/2453">Ayush Mishra</author><author pid="331/6247">Sherman Lim</author><author pid="02/2726">Ben Leong</author></authors><title>Understanding speciation in QUIC congestion control.</title><venue>IMC</venue><pages>560-566</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MishraLL22</key><doi>10.1145/3517745.3561459</doi><ee>https://doi.org/10.1145/3517745.3561459</ee><url>https://dblp.org/rec/conf/imc/MishraLL22</url></info>
+<url>URL#572790</url>
+</hit>
+<hit score="1" id="572791">
+<info><authors><author pid="257/2453">Ayush Mishra</author><author pid="331/5994">Wee Han Tiu</author><author pid="02/2726">Ben Leong</author></authors><title>Are we heading towards a BBR-dominant internet?</title><venue>IMC</venue><pages>538-550</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MishraTL22</key><doi>10.1145/3517745.3561429</doi><ee>https://doi.org/10.1145/3517745.3561429</ee><url>https://dblp.org/rec/conf/imc/MishraTL22</url></info>
+<url>URL#572791</url>
+</hit>
+<hit score="1" id="572792">
+<info><authors><author pid="331/5912">Anish Nyayachavadi</author><author pid="279/2099">Jingyuan Zhu</author><author pid="45/2026">Harsha V. Madhyastha</author></authors><title>Characterizing &quot;permanently dead&quot; links on Wikipedia.</title><venue>IMC</venue><pages>388-394</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/NyayachavadiZM22</key><doi>10.1145/3517745.3561451</doi><ee>https://doi.org/10.1145/3517745.3561451</ee><url>https://dblp.org/rec/conf/imc/NyayachavadiZM22</url></info>
+<url>URL#572792</url>
+</hit>
+<hit score="1" id="572793">
+<info><authors><author pid="331/5888">Leo Oliver</author><author pid="224/2363">Gautam Akiwate</author><author pid="12/4563">Matthew Luckie</author><author pid="267/4528">Ben Du</author><author pid="68/4966">kc claffy</author></authors><title>Stop, DROP, and ROA: effectiveness of defenses through the lens of DROP.</title><venue>IMC</venue><pages>730-737</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/OliverALDc22</key><doi>10.1145/3517745.3561454</doi><ee>https://doi.org/10.1145/3517745.3561454</ee><url>https://dblp.org/rec/conf/imc/OliverALDc22</url></info>
+<url>URL#572793</url>
+</hit>
+<hit score="1" id="572794">
+<info><authors><author pid="236/4139">Udit Paul</author><author pid="232/3981">Jiamo Liu</author><author pid="162/7258">Mengyang Gu</author><author pid="122/9141">Arpit Gupta</author><author pid="b/EMBeldingRoyer">Elizabeth M. Belding</author></authors><title>The importance of contextualization of crowdsourced active speed test measurements.</title><venue>IMC</venue><pages>274-289</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PaulLGGB22</key><doi>10.1145/3517745.3561441</doi><ee>https://doi.org/10.1145/3517745.3561441</ee><url>https://dblp.org/rec/conf/imc/PaulLGGB22</url></info>
+<url>URL#572794</url>
+</hit>
+<hit score="1" id="572795">
+<info><authors><author pid="214/6167">Daniel Perdices</author><author pid="279/5552">Gianluca Perna</author><author pid="186/8831">Martino Trevisan</author><author pid="160/8766">Danilo Giordano</author><author pid="18/6316">Marco Mellia</author></authors><title>When satellite is all you have: watching the internet from 550 ms.</title><venue>IMC</venue><pages>137-150</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PerdicesPTGM22</key><doi>10.1145/3517745.3561432</doi><ee>https://doi.org/10.1145/3517745.3561432</ee><url>https://dblp.org/rec/conf/imc/PerdicesPTGM22</url></info>
+<url>URL#572795</url>
+</hit>
+<hit score="1" id="572796">
+<info><authors><author pid="228/8215">Maxime Piraux</author><author pid="299/8807">Louis Navarre</author><author pid="299/8846">Nicolas Rybowski</author><author pid="91/2043">Olivier Bonaventure</author><author pid="27/3281">Benoit Donnet</author></authors><title>Revealing the evolution of a cloud provider through its network weather map.</title><venue>IMC</venue><pages>298-304</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PirauxNRBD22</key><doi>10.1145/3517745.3561462</doi><ee>https://doi.org/10.1145/3517745.3561462</ee><url>https://dblp.org/rec/conf/imc/PirauxNRBD22</url></info>
+<url>URL#572796</url>
+</hit>
+<hit score="1" id="572797">
+<info><authors><author pid="227/8940">Amogh Pradeep</author><author pid="275/2621">Muhammad Talha Paracha</author><author pid="260/8979">Protick Bhowmick</author><author pid="204/5761">Ali Davanian</author><author pid="149/9322">Abbas Razaghpanah</author><author pid="90/8396">Taejoong Chung</author><author pid="81/10928">Martina Lindorfer</author><author pid="50/7563">Narseo Vallina-Rodriguez</author><author pid="03/6428">Dave Levin</author><author pid="48/6854">David R. Choffnes</author></authors><title>A comparative analysis of certificate pinning in Android &amp; iOS.</title><venue>IMC</venue><pages>605-618</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/PradeepPBDRCLVL22</key><doi>10.1145/3517745.3561439</doi><ee>https://doi.org/10.1145/3517745.3561439</ee><url>https://dblp.org/rec/conf/imc/PradeepPBDRCLVL22</url></info>
+<url>URL#572797</url>
+</hit>
+<hit score="1" id="572798">
+<info><authors><author pid="184/0878">Audrey Randall</author><author pid="139/5540">Peter Snyder</author><author pid="305/3308">Alisha Ukani</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="77/3626">Aaron Schulman</author></authors><title>Measuring UID smuggling in the wild.</title><venue>IMC</venue><pages>230-243</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RandallSUSVSS22</key><doi>10.1145/3517745.3561415</doi><ee>https://doi.org/10.1145/3517745.3561415</ee><url>https://dblp.org/rec/conf/imc/RandallSUSVSS22</url></info>
+<url>URL#572798</url>
+</hit>
+<hit score="1" id="572799">
+<info><authors><author pid="01/7272">Philipp Richter</author><author pid="147/1125">Oliver Gasser</author><author pid="46/4345">Arthur W. Berger</author></authors><title>Illuminating large-scale IPv6 scanning in the internet.</title><venue>IMC</venue><pages>410-418</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RichterGB22</key><doi>10.1145/3517745.3561452</doi><ee>https://doi.org/10.1145/3517745.3561452</ee><url>https://dblp.org/rec/conf/imc/RichterGB22</url></info>
+<url>URL#572799</url>
+</hit>
+<hit score="1" id="572800">
+<info><authors><author pid="201/9217">Kimberly Ruth</author><author pid="66/3984-6">Deepak Kumar 0006</author><author pid="122/4795">Brandon Wang</author><author pid="166/6979">Luke Valenta</author><author pid="143/5673">Zakir Durumeric</author></authors><title>Toppling top lists: evaluating the accuracy of popular website lists.</title><venue>IMC</venue><pages>374-387</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Ruth0WVD22</key><doi>10.1145/3517745.3561444</doi><ee>https://doi.org/10.1145/3517745.3561444</ee><url>https://dblp.org/rec/conf/imc/Ruth0WVD22</url></info>
+<url>URL#572800</url>
+</hit>
+<hit score="1" id="572801">
+<info><authors><author pid="201/9217">Kimberly Ruth</author><author pid="221/4157">Aurore Fass</author><author pid="169/1776">Jonathan Azose</author><author pid="94/419">Mark Pearson</author><author pid="331/6235">Emma Thomas</author><author pid="17/2324">Caitlin Sadowski</author><author pid="143/5673">Zakir Durumeric</author></authors><title>A world wide view of browsing the world wide web.</title><venue>IMC</venue><pages>317-336</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RuthFAPTSD22</key><doi>10.1145/3517745.3561418</doi><ee>https://doi.org/10.1145/3517745.3561418</ee><url>https://dblp.org/rec/conf/imc/RuthFAPTSD22</url></info>
+<url>URL#572801</url>
+</hit>
+<hit score="1" id="572802">
+<info><authors><author pid="194/2387">Anirudh Sabnis</author><author pid="s/RameshKSitaraman">Ramesh K. Sitaraman</author></authors><title>JEDI: model-driven trace generation for cache simulations.</title><venue>IMC</venue><pages>679-693</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SabnisS22</key><doi>10.1145/3517745.3561466</doi><ee>https://doi.org/10.1145/3517745.3561466</ee><url>https://dblp.org/rec/conf/imc/SabnisS22</url></info>
+<url>URL#572802</url>
+</hit>
+<hit score="1" id="572803">
+<info><authors><author pid="224/2144">Said Jawad Saidi</author><author pid="117/1997">Srdjan Matic</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="147/1125">Oliver Gasser</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>Deep dive into the IoT backend ecosystem.</title><venue>IMC</venue><pages>488-503</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SaidiMGF22</key><doi>10.1145/3517745.3561431</doi><ee>https://doi.org/10.1145/3517745.3561431</ee><url>https://dblp.org/rec/conf/imc/SaidiMGF22</url></info>
+<url>URL#572803</url>
+</hit>
+<hit score="1" id="572804">
+<info><authors><author pid="202/1845">Patrick Sattler</author><author pid="305/3110">Juliane Aulbach</author><author pid="175/1273">Johannes Zirngibl</author><author pid="c/GeorgCarle">Georg Carle</author></authors><title>Towards a tectonic traffic shift?: investigating Apple&apos;s new relay network.</title><venue>IMC</venue><pages>449-457</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SattlerAZC22</key><doi>10.1145/3517745.3561426</doi><ee>https://doi.org/10.1145/3517745.3561426</ee><url>https://dblp.org/rec/conf/imc/SattlerAZC22</url></info>
+<url>URL#572804</url>
+</hit>
+<hit score="1" id="572805">
+<info><authors><author pid="223/4304">Simon Scherrer</author><author pid="262/5593">Markus Legner</author><author pid="16/6873">Adrian Perrig</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>Model-based insights on the performance, fairness, and stability of BBR.</title><venue>IMC</venue><pages>519-537</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ScherrerLP022</key><doi>10.1145/3517745.3561420</doi><ee>https://doi.org/10.1145/3517745.3561420</ee><url>https://dblp.org/rec/conf/imc/ScherrerLP022</url></info>
+<url>URL#572805</url>
+</hit>
+<hit score="1" id="572806">
+<info><authors><author pid="271/9452">Manasvini Sethuraman</author><author pid="14/5053">Zachary S. Bischof</author><author pid="28/5074">Alberto Dainotti</author></authors><title>Analysis of IPv4 address space utilization with ANT ISI dataset and censys.</title><venue>IMC</venue><pages>744-745</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SethuramanBD22</key><doi>10.1145/3517745.3563018</doi><ee>https://doi.org/10.1145/3517745.3563018</ee><url>https://dblp.org/rec/conf/imc/SethuramanBD22</url></info>
+<url>URL#572806</url>
+</hit>
+<hit score="1" id="572807">
+<info><authors><author pid="199/2194">Sudheesh Singanamalla</author><author pid="275/2621">Muhammad Talha Paracha</author><author pid="260/8995">Suleman Ahmad</author><author pid="179/2233">Jonathan Hoyland</author><author pid="166/6979">Luke Valenta</author><author pid="331/6041">Yevgen Safronov</author><author pid="44/3072">Peter Wu</author><author pid="331/6096">Andrew Galloni</author><author pid="02/1303">Kurtis Heimerl</author><author pid="172/5512">Nick Sullivan</author><author pid="163/1886">Christopher A. Wood</author><author pid="92/883">Marwan Fayed</author></authors><title>Respect the ORIGIN!: a best-case evaluation of connection coalescing in the wild.</title><venue>IMC</venue><pages>664-678</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SinganamallaPAH22</key><doi>10.1145/3517745.3561453</doi><ee>https://doi.org/10.1145/3517745.3561453</ee><url>https://dblp.org/rec/conf/imc/SinganamallaPAH22</url></info>
+<url>URL#572807</url>
+</hit>
+<hit score="1" id="572808">
+<info><authors><author pid="331/5883">Toyin Sofoluwe</author><author pid="75/803">Fung Po Tso 0001</author><author pid="72/1476">Iain W. Phillips</author></authors><title>Mitigating cyber threats at the network edge.</title><venue>IMC</venue><pages>776-777</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Sofoluwe0P22</key><doi>10.1145/3517745.3563034</doi><ee>https://doi.org/10.1145/3517745.3563034</ee><url>https://dblp.org/rec/conf/imc/Sofoluwe0P22</url></info>
+<url>URL#572808</url>
+</hit>
+<hit score="1" id="572809">
+<info><authors><author pid="193/3162">Raffaele Sommese</author><author pid="163/4064">Mattijs Jonker</author><author pid="68/4966">kc claffy</author></authors><title>Observable KINDNS: validating DNS hygiene.</title><venue>IMC</venue><pages>740-741</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SommeseJc22</key><doi>10.1145/3517745.3563016</doi><ee>https://doi.org/10.1145/3517745.3563016</ee><url>https://dblp.org/rec/conf/imc/SommeseJc22</url></info>
+<url>URL#572809</url>
+</hit>
+<hit score="1" id="572810">
+<info><authors><author pid="193/3162">Raffaele Sommese</author><author pid="68/4966">kc claffy</author><author pid="155/5773">Roland van Rijswijk-Deij</author><author pid="331/5922">Arnab Chattopadhyay</author><author pid="28/5074">Alberto Dainotti</author><author pid="59/2521">Anna Sperotto</author><author pid="163/4064">Mattijs Jonker</author></authors><title>Investigating the impact of DDoS attacks on DNS infrastructure.</title><venue>IMC</venue><pages>51-64</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SommesecRCDSJ22</key><doi>10.1145/3517745.3561458</doi><ee>https://doi.org/10.1145/3517745.3561458</ee><url>https://dblp.org/rec/conf/imc/SommesecRCDSJ22</url></info>
+<url>URL#572810</url>
+</hit>
+<hit score="1" id="572811">
+<info><authors><author pid="259/1706">Karthika Subramani</author><author pid="138/1005">William Melicher</author><author pid="134/8950">Oleksii Starov</author><author pid="133/2036">Phani Vadrevu</author><author pid="60/6768">Roberto Perdisci</author></authors><title>PhishInPatterns: measuring elicited user interactions at scale on phishing websites.</title><venue>IMC</venue><pages>589-604</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SubramaniMSVP22</key><doi>10.1145/3517745.3561467</doi><ee>https://doi.org/10.1145/3517745.3561467</ee><url>https://dblp.org/rec/conf/imc/SubramaniMSVP22</url></info>
+<url>URL#572811</url>
+</hit>
+<hit score="1" id="572812">
+<info><authors><author pid="164/8052">Olivier van der Toorn</author><author pid="155/5773">Roland van Rijswijk-Deij</author><author pid="193/3162">Raffaele Sommese</author><author pid="59/2521">Anna Sperotto</author><author pid="163/4064">Mattijs Jonker</author></authors><title>Saving Brian&apos;s privacy: the perils of privacy exposure through reverse DNS.</title><venue>IMC</venue><pages>1-13</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ToornRSSJ22</key><doi>10.1145/3517745.3561424</doi><ee>https://doi.org/10.1145/3517745.3561424</ee><url>https://dblp.org/rec/conf/imc/ToornRSSJ22</url></info>
+<url>URL#572812</url>
+</hit>
+<hit score="1" id="572813">
+<info><authors><author pid="229/1143">Santiago Vargas</author><author pid="331/6219">Gautham Gunapati</author><author pid="62/2403">Anshul Gandhi</author><author pid="35/1211">Aruna Balasubramanian</author></authors><title>Are mobiles ready for BBR?</title><venue>IMC</venue><pages>551-559</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VargasGGB22</key><doi>10.1145/3517745.3561438</doi><ee>https://doi.org/10.1145/3517745.3561438</ee><url>https://dblp.org/rec/conf/imc/VargasGGB22</url></info>
+<url>URL#572813</url>
+</hit>
+<hit score="1" id="572814">
+<info><authors><author pid="01/6280">Matteo Varvello</author><author pid="50/2529">Hyunseok Chang</author><author pid="16/3354">Yasir Zaki</author></authors><title>Performance characterization of videoconferencing in the wild.</title><venue>IMC</venue><pages>261-273</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VarvelloCZ22</key><doi>10.1145/3517745.3561442</doi><ee>https://doi.org/10.1145/3517745.3561442</ee><url>https://dblp.org/rec/conf/imc/VarvelloCZ22</url></info>
+<url>URL#572814</url>
+</hit>
+<hit score="1" id="572815">
+<info><authors><author pid="227/2781">Kevin Vermeulen</author><author pid="271/9809">Ege Gürmeriçliler</author><author pid="80/186">Ítalo Cunha</author><author pid="48/6854">David R. Choffnes</author><author pid="66/2080">Ethan Katz-Bassett</author></authors><title>Internet scale reverse traceroute.</title><venue>IMC</venue><pages>694-715</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VermeulenGCCK22</key><doi>10.1145/3517745.3561422</doi><ee>https://doi.org/10.1145/3517745.3561422</ee><url>https://dblp.org/rec/conf/imc/VermeulenGCCK22</url></info>
+<url>URL#572815</url>
+</hit>
+<hit score="1" id="572816">
+<info><authors><author pid="270/8815">Ben Weintraub</author><author pid="169/2279">Christof Ferreira Torres</author><author pid="n/CristinaNitaRotaru">Cristina Nita-Rotaru</author><author pid="05/6228">Radu State</author></authors><title>A flash(bot) in the pan: measuring maximal extractable value in private pools.</title><venue>IMC</venue><pages>458-471</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/WeintraubTNS22</key><doi>10.1145/3517745.3561448</doi><ee>https://doi.org/10.1145/3517745.3561448</ee><url>https://dblp.org/rec/conf/imc/WeintraubTNS22</url></info>
+<url>URL#572816</url>
+</hit>
+<hit score="1" id="572817">
+<info><authors><author pid="197/8181">Pengcheng Xia</author><author pid="50/8499-1">Haoyu Wang 0001</author><author pid="83/3205-2">Zhou Yu 0002</author><author pid="98/738">Xinyu Liu</author><author pid="53/1565">Xiapu Luo</author><author pid="76/10013">Guoai Xu</author><author pid="85/85">Gareth Tyson</author></authors><title>Challenges in decentralized name management: the case of ENS.</title><venue>IMC</venue><pages>65-82</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/XiaWYLLXT22</key><doi>10.1145/3517745.3561469</doi><ee>https://doi.org/10.1145/3517745.3561469</ee><url>https://dblp.org/rec/conf/imc/XiaWYLLXT22</url></info>
+<url>URL#572817</url>
+</hit>
+<hit score="1" id="572818">
+<info><authors><author pid="190/5597">Xiaokun Xu</author><author pid="c/MClaypool">Mark Claypool</author></authors><title>Measurement of cloud-based game streaming system response to competing TCP cubic or TCP BBR flows.</title><venue>IMC</venue><pages>305-316</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/XuC22</key><doi>10.1145/3517745.3561464</doi><ee>https://doi.org/10.1145/3517745.3561464</ee><url>https://dblp.org/rec/conf/imc/XuC22</url></info>
+<url>URL#572818</url>
+</hit>
+<hit score="1" id="572819">
+<info><authors><author pid="259/6190">Diwen Xue</author><author pid="331/6276">Benjamin Mixon-Baca</author><author pid="331/6176">ValdikSS</author><author pid="331/5842">Anna Ablove</author><author pid="301/5885">Beau Kujath</author><author pid="c/JRCrandall">Jedidiah R. Crandall</author><author pid="24/973">Roya Ensafi</author></authors><title>TSPU: Russia&apos;s decentralized censorship system.</title><venue>IMC</venue><pages>179-194</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/XueMVAKCE22</key><doi>10.1145/3517745.3561461</doi><ee>https://doi.org/10.1145/3517745.3561461</ee><url>https://dblp.org/rec/conf/imc/XueMVAKCE22</url></info>
+<url>URL#572819</url>
+</hit>
+<hit score="1" id="572820">
+<info><authors><author pid="331/5712">Tzu-Bin Yan</author><author pid="145/7790">Yuxuan Chen</author><author pid="331/6153">Anthea Chen</author><author pid="214/6089">Zesen Zhang</author><author pid="11/3626">Bradley Huffaker</author><author pid="68/9978">Ricky K. P. Mok</author><author pid="l/KirillLevchenko">Kirill Levchenko</author><author pid="68/4966">kc claffy</author></authors><title>PacketLab: tools alpha release and demo.</title><venue>IMC</venue><pages>766-767</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/YanCCZHMLc22</key><doi>10.1145/3517745.3563029</doi><ee>https://doi.org/10.1145/3517745.3563029</ee><url>https://dblp.org/rec/conf/imc/YanCCZHMLc22</url></info>
+<url>URL#572820</url>
+</hit>
+<hit score="1" id="572821">
+<info><authors><author pid="202/7659">Eric Zeng</author><author pid="331/6088">Rachel McAmis</author><author pid="k/TadayoshiKohno">Tadayoshi Kohno</author><author pid="23/2758">Franziska Roesner</author></authors><title>What factors affect targeting and bids in online advertising?: a field measurement study.</title><venue>IMC</venue><pages>210-229</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZengMKR22</key><doi>10.1145/3517745.3561460</doi><ee>https://doi.org/10.1145/3517745.3561460</ee><url>https://dblp.org/rec/conf/imc/ZengMKR22</url></info>
+<url>URL#572821</url>
+</hit>
+<hit score="1" id="572822">
+<info><authors><author pid="13/6769">Ying Zhang</author><author pid="208/7269">Nathan Hu</author><author pid="331/5757">Carl Verge</author><author pid="134/8515">Scott O&apos;Brien</author></authors><title>Cross-layer diagnosis of optical backbone failures.</title><venue>IMC</venue><pages>419-432</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZhangHVO22</key><doi>10.1145/3517745.3561447</doi><ee>https://doi.org/10.1145/3517745.3561447</ee><url>https://dblp.org/rec/conf/imc/ZhangHVO22</url></info>
+<url>URL#572822</url>
+</hit>
+<hit score="1" id="572823">
+<info><authors><author pid="331/5726">Jiangchen Zhu</author><author pid="227/2781">Kevin Vermeulen</author><author pid="80/186">Ítalo Cunha</author><author pid="66/2080">Ethan Katz-Bassett</author><author pid="24/3165">Matt Calder</author></authors><title>The best of both worlds: high availability CDN routing without compromising control.</title><venue>IMC</venue><pages>655-663</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZhuVCKC22</key><doi>10.1145/3517745.3561421</doi><ee>https://doi.org/10.1145/3517745.3561421</ee><url>https://dblp.org/rec/conf/imc/ZhuVCKC22</url></info>
+<url>URL#572823</url>
+</hit>
+<hit score="1" id="572824">
+<info><authors><author pid="175/1273">Johannes Zirngibl</author><author pid="323/5389">Lion Steger</author><author pid="202/1845">Patrick Sattler</author><author pid="147/1125">Oliver Gasser</author><author pid="c/GeorgCarle">Georg Carle</author></authors><title>Rusty clusters?: dusting an IPv6 research foundation.</title><venue>IMC</venue><pages>395-409</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZirngiblSSGC22</key><doi>10.1145/3517745.3561440</doi><ee>https://doi.org/10.1145/3517745.3561440</ee><url>https://dblp.org/rec/conf/imc/ZirngiblSSGC22</url></info>
+<url>URL#572824</url>
+</hit>
+<hit score="1" id="640402">
+<info><authors><author pid="63/5559">Chadi Barakat</author><author pid="72/952">Cristel Pelsser</author><author pid="49/7538">Theophilus A. Benson</author><author pid="48/6854">David R. Choffnes</author></authors><title>Proceedings of the 22nd ACM Internet Measurement Conference, IMC 2022, Nice, France, October 25-27, 2022</title><venue>IMC</venue><publisher>ACM</publisher><year>2022</year><type>Editorship</type><key>conf/imc/2022</key><doi>10.1145/3517745</doi><ee>https://doi.org/10.1145/3517745</ee><url>https://dblp.org/rec/conf/imc/2022</url></info>
+<url>URL#640402</url>
+</hit>
+</hits>
+</result>

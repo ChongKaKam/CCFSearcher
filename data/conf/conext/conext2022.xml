@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59456">:facetid:toc:\"db/conf/conext/conext2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">183.61</time>
+<completions total="1" computed="1" sent="1">
+<c sc="29" dc="29" oc="29" id="41027754">:facetid:toc:db/conf/conext/conext2022.bht</c>
+</completions>
+<hits total="29" computed="29" sent="29" first="0">
+<hit score="1" id="503193">
+<info><authors><author pid="58/3289-1">Stefan Schmid 0001</author><author pid="246/8257">Morten Konggaard Schou</author><author pid="s/JiriSrba">Jirí Srba</author><author pid="260/5065">Juan Vanerio</author></authors><title>R-MPLS: recursive protection for highly dependable MPLS networks.</title><venue>CoNEXT</venue><pages>276-292</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/0001SSV22</key><doi>10.1145/3555050.3569140</doi><ee>https://doi.org/10.1145/3555050.3569140</ee><url>https://dblp.org/rec/conf/conext/0001SSV22</url></info>
+<url>URL#503193</url>
+</hit>
+<hit score="1" id="503194">
+<info><authors><author pid="246/9119">Mukhtiar Ahmad</author><author pid="246/9044">Muhammad Ali Nawazish</author><author pid="334/6006">Muhammad Taimoor Tariq</author><author pid="334/6218">Muhammad Basit Iqbal Awan</author><author pid="12/7085">Muhammad Taqi Raza</author><author pid="131/6120">Zafar Ayyub Qazi</author></authors><title>Enabling emerging edge applications through a 5G control plane intervention.</title><venue>CoNEXT</venue><pages>386-400</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AhmadNTARQ22</key><doi>10.1145/3555050.3569130</doi><ee>https://doi.org/10.1145/3555050.3569130</ee><url>https://dblp.org/rec/conf/conext/AhmadNTARQ22</url></info>
+<url>URL#503194</url>
+</hit>
+<hit score="1" id="503202">
+<info><authors><author pid="161/0264">Bo-Rong Chen</author><author pid="69/11514">Zhuotao Liu</author><author pid="40/52">Jinhui Song</author><author pid="201/6992">Fanhui Zeng</author><author pid="334/5819">Zhoushi Zhu</author><author pid="334/6400">Siva Phani Keshav Bachu</author><author pid="51/6805">Yih-Chun Hu</author></authors><title>FlowTele: remotely shaping traffic on internet-scale networks.</title><venue>CoNEXT</venue><pages>349-368</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ChenLSZZBH22</key><doi>10.1145/3555050.3569139</doi><ee>https://doi.org/10.1145/3555050.3569139</ee><url>https://dblp.org/rec/conf/conext/ChenLSZZBH22</url></info>
+<url>URL#503202</url>
+</hit>
+<hit score="1" id="503206">
+<info><authors><author pid="209/8665">Aditya Dhakal</author><author pid="204/8118">Xukan Ran</author><author pid="192/3863">Yunshu Wang</author><author pid="35/9005">Jiasi Chen</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author></authors><title>SLAM-share: visual simultaneous localization and mapping for real-time multi-user augmented reality.</title><venue>CoNEXT</venue><pages>293-306</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/DhakalRWCR22</key><doi>10.1145/3555050.3569142</doi><ee>https://doi.org/10.1145/3555050.3569142</ee><url>https://dblp.org/rec/conf/conext/DhakalRWCR22</url></info>
+<url>URL#503206</url>
+</hit>
+<hit score="1" id="503212">
+<info><authors><author pid="69/10334">Yibo Guo</author><author pid="190/1426">William M. Mellette</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="09/313">George Porter</author></authors><title>Scaling beyond packet switch limits with multiple dataplanes.</title><venue>CoNEXT</venue><pages>214-231</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GuoMSP22</key><doi>10.1145/3555050.3569141</doi><ee>https://doi.org/10.1145/3555050.3569141</ee><url>https://dblp.org/rec/conf/conext/GuoMSP22</url></info>
+<url>URL#503212</url>
+</hit>
+<hit score="1" id="503215">
+<info><authors><author pid="142/2109">Xinyue Hu</author><author pid="166/2795">Eman Ramadan</author><author pid="09/5394">Wei Ye</author><author pid="78/3204">Feng Tian</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>Raven: belady-guided, predictive (deep) learning for in-memory and content caching.</title><venue>CoNEXT</venue><pages>72-90</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HuRYTZ22</key><doi>10.1145/3555050.3569134</doi><ee>https://doi.org/10.1145/3555050.3569134</ee><url>https://dblp.org/rec/conf/conext/HuRYTZ22</url></info>
+<url>URL#503215</url>
+</hit>
+<hit score="1" id="503216">
+<info><authors><author pid="246/5079">Yibo Huang 0005</author><author pid="177/6785">Yukai Huang</author><author pid="51/5332">Ming Yan</author><author pid="174/1828">Jiayu Hu</author><author pid="204/6438">Cunming Liang</author><author pid="61/3906">Yang Xu</author><author pid="334/6240">Wenxiong Zou</author><author pid="76/5416-18">Yiming Zhang 0018</author><author pid="60/2536">Rui Zhang</author><author pid="334/6286">Chunpu Huang</author><author pid="w/JieWu3">Jie Wu 0003</author></authors><title>An ultra-low latency and compatible PCIe interconnect for rack-scale communication.</title><venue>CoNEXT</venue><pages>232-244</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HuangHYHLXZ0ZH022</key><doi>10.1145/3555050.3569128</doi><ee>https://doi.org/10.1145/3555050.3569128</ee><url>https://dblp.org/rec/conf/conext/HuangHYHLXZ0ZH022</url></info>
+<url>URL#503216</url>
+</hit>
+<hit score="1" id="503218">
+<info><authors><author pid="33/5560">Chuan Jiang</author><author pid="205/0187">Zixuan Li</author><author pid="r/SanjayGRao">Sanjay G. Rao</author><author pid="10/5237">Mohit Tawarmalani</author></authors><title>Flexile: meeting bandwidth objectives almost always.</title><venue>CoNEXT</venue><pages>110-125</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/JiangLRT22</key><doi>10.1145/3555050.3569119</doi><ee>https://doi.org/10.1145/3555050.3569119</ee><url>https://dblp.org/rec/conf/conext/JiangLRT22</url></info>
+<url>URL#503218</url>
+</hit>
+<hit score="1" id="503220">
+<info><authors><author pid="75/3644-2">Jaehong Kim 0002</author><author pid="334/6188">Yunheon Lee</author><author pid="187/0217">Hwijoon Lim</author><author pid="228/0277">Youngmok Jung</author><author pid="55/10607">Song Min Kim</author><author pid="12/5388">Dongsu Han</author></authors><title>OutRAN: co-optimizing for flow completion time in radio access network.</title><venue>CoNEXT</venue><pages>369-385</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KimLLJMH22</key><doi>10.1145/3555050.3569122</doi><ee>https://doi.org/10.1145/3555050.3569122</ee><url>https://dblp.org/rec/conf/conext/KimLLJMH22</url></info>
+<url>URL#503220</url>
+</hit>
+<hit score="1" id="503222">
+<info><authors><author pid="225/4793">Benjamin Krumnow</author><author pid="33/1453">Hugo Jonker</author><author pid="04/10244">Stefan Karsch</author></authors><title>How gullible are web measurement tools?: a case study analysing and strengthening OpenWPM&apos;s reliability.</title><venue>CoNEXT</venue><pages>171-186</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KrumnowJK22</key><doi>10.1145/3555050.3569131</doi><ee>https://doi.org/10.1145/3555050.3569131</ee><url>https://dblp.org/rec/conf/conext/KrumnowJK22</url></info>
+<url>URL#503222</url>
+</hit>
+<hit score="1" id="503226">
+<info><authors><author pid="61/3234-13">Qiang Liu 0013</author><author pid="42/1257">Nakjung Choi</author><author pid="78/744-2">Tao Han 0002</author></authors><title>Atlas: automate online service configuration in network slicing.</title><venue>CoNEXT</venue><pages>140-155</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/LiuCH22</key><doi>10.1145/3555050.3569115</doi><ee>https://doi.org/10.1145/3555050.3569115</ee><url>https://dblp.org/rec/conf/conext/LiuCH22</url></info>
+<url>URL#503226</url>
+</hit>
+<hit score="1" id="503228">
+<info><authors><author pid="262/6187">Aniss Maghsoudlou</author><author pid="147/1125">Oliver Gasser</author><author pid="17/9081">Ingmar Poese</author><author pid="f/AnjaFeldmann">Anja Feldmann</author></authors><title>FlowDNS: correlating netflow and DNS streams at scale.</title><venue>CoNEXT</venue><pages>187-195</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/MaghsoudlouGPF22</key><doi>10.1145/3555050.3569135</doi><ee>https://doi.org/10.1145/3555050.3569135</ee><url>https://dblp.org/rec/conf/conext/MaghsoudlouGPF22</url></info>
+<url>URL#503228</url>
+</hit>
+<hit score="1" id="503231">
+<info><authors><author pid="207/2419">Fabrício M. Mazzola</author><author pid="99/7415">Pedro de B. Marcos</author><author pid="b/MarinhoPBarcellos">Marinho P. Barcellos</author></authors><title>Light, camera, actions: characterizing the usage of IXPs&apos; action BGP communities.</title><venue>CoNEXT</venue><pages>196-203</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/MazzolaMB22</key><doi>10.1145/3555050.3569143</doi><ee>https://doi.org/10.1145/3555050.3569143</ee><url>https://dblp.org/rec/conf/conext/MazzolaMB22</url></info>
+<url>URL#503231</url>
+</hit>
+<hit score="1" id="503234">
+<info><authors><author pid="185/0838">Marcin Nawrocki</author><author pid="54/11242">Pouyan Fotouhi Tehrani</author><author pid="144/4431">Raphael Hiesgen</author><author pid="329/4428">Jonas Mücke</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>On the interplay between TLS certificates and QUIC performance.</title><venue>CoNEXT</venue><pages>204-213</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/NawrockiTHMSW22</key><doi>10.1145/3555050.3569123</doi><ee>https://doi.org/10.1145/3555050.3569123</ee><url>https://dblp.org/rec/conf/conext/NawrockiTHMSW22</url></info>
+<url>URL#503234</url>
+</hit>
+<hit score="1" id="503236">
+<info><authors><author pid="226/6030">Tomasz Osinski</author><author pid="279/5662">Jan Palimaka</author><author pid="253/7598">Mateusz Kossakowski</author><author pid="02/174">Frédéric Dang Tran</author><author pid="226/6023">El-Fadel Bonfoh</author><author pid="82/1210">Halina Tarasiuk</author></authors><title>A novel programmable software datapath for software-defined networking.</title><venue>CoNEXT</venue><pages>245-260</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/OsinskiPKTBT22</key><doi>10.1145/3555050.3569117</doi><ee>https://doi.org/10.1145/3555050.3569117</ee><url>https://dblp.org/rec/conf/conext/OsinskiPKTBT22</url></info>
+<url>URL#503236</url>
+</hit>
+<hit score="1" id="503239">
+<info><authors><author pid="270/2488">Ram Sundara Raman</author><author pid="319/9769">Mona Wang</author><author pid="143/5671">Jakub Dalek</author><author pid="116/8542">Jonathan R. Mayer</author><author pid="24/973">Roya Ensafi</author></authors><title>Network measurement methods for locating and examining censorship devices.</title><venue>CoNEXT</venue><pages>18-34</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/RamanWDME22</key><doi>10.1145/3555050.3569133</doi><ee>https://doi.org/10.1145/3555050.3569133</ee><url>https://dblp.org/rec/conf/conext/RamanWDME22</url></info>
+<url>URL#503239</url>
+</hit>
+<hit score="1" id="503241">
+<info><authors><author pid="244/8910">Raghav Rathi</author><author pid="84/3637">Zhenghao Zhang</author></authors><title>TnB: resolving collisions in LoRa based on the peak matching cost and block error correction.</title><venue>CoNEXT</venue><pages>401-416</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/RathiZ22</key><doi>10.1145/3555050.3569132</doi><ee>https://doi.org/10.1145/3555050.3569132</ee><url>https://dblp.org/rec/conf/conext/RathiZ22</url></info>
+<url>URL#503241</url>
+</hit>
+<hit score="1" id="503245">
+<info><authors><author pid="172/1323">Rahul Anand Sharma</author><author pid="334/6227">Ishan Sabane</author><author pid="180/5502">Maria Apostolaki</author><author pid="02/630">Anthony Rowe 0001</author><author pid="45/4044">Vyas Sekar</author></authors><title>Lumen: a framework for developing and evaluating ML-based IoT network anomaly detection.</title><venue>CoNEXT</venue><pages>59-71</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SharmaSARS22</key><doi>10.1145/3555050.3569129</doi><ee>https://doi.org/10.1145/3555050.3569129</ee><url>https://dblp.org/rec/conf/conext/SharmaSARS22</url></info>
+<url>URL#503245</url>
+</hit>
+<hit score="1" id="503246">
+<info><authors><author pid="207/7977">Dimitrios Sikeridis</author><author pid="333/9774">Sean Huntley</author><author pid="49/219">David Ott</author><author pid="61/3564">Michael Devetsikiotis</author></authors><title>Intermediate certificate suppression in post-quantum TLS: an approximate membership querying approach.</title><venue>CoNEXT</venue><pages>35-42</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SikeridisHOD22</key><doi>10.1145/3555050.3569127</doi><ee>https://doi.org/10.1145/3555050.3569127</ee><url>https://dblp.org/rec/conf/conext/SikeridisHOD22</url></info>
+<url>URL#503246</url>
+</hit>
+<hit score="1" id="503249">
+<info><authors><author pid="57/2711">Qiang Su</author><author pid="234/1557">Chuanwen Wang</author><author pid="180/5804">Zhixiong Niu</author><author pid="06/11343-1">Ran Shu 0001</author><author pid="76/185-5">Peng Cheng 0005</author><author pid="57/4569">Yongqiang Xiong</author><author pid="12/5388">Dongsu Han</author><author pid="x/ChunJasonXue">Chun Jason Xue</author><author pid="01/5265-1">Hong Xu 0001</author></authors><title>PipeDevice: a hardware-software co-design approach to intra-host container communication.</title><venue>CoNEXT</venue><pages>126-139</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SuWN00XHX022</key><doi>10.1145/3555050.3569118</doi><ee>https://doi.org/10.1145/3555050.3569118</ee><url>https://dblp.org/rec/conf/conext/SuWN00XHX022</url></info>
+<url>URL#503249</url>
+</hit>
+<hit score="1" id="503251">
+<info><authors><author pid="213/8928">Chuanhao Sun</author><author pid="30/495">Kai Xu</author><author pid="71/2142">Mahesh K. Marina</author><author pid="157/7826">Howard Benn</author></authors><title>GenDT: mobile network drive testing made efficient with generative modeling.</title><venue>CoNEXT</venue><pages>43-58</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SunXMB22</key><doi>10.1145/3555050.3569124</doi><ee>https://doi.org/10.1145/3555050.3569124</ee><url>https://dblp.org/rec/conf/conext/SunXMB22</url></info>
+<url>URL#503251</url>
+</hit>
+<hit score="1" id="503252">
+<info><authors><author pid="198/1274">Han Tian</author><author pid="296/4029">Xudong Liao</author><author pid="257/6290">Chaoliang Zeng</author><author pid="155/4434">Junxue Zhang 0001</author><author pid="c/KaiChen5">Kai Chen 0005</author></authors><title>Spine: an efficient DRL-based congestion control with ultra-low overhead.</title><venue>CoNEXT</venue><pages>261-275</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/TianLZZC22</key><doi>10.1145/3555050.3569125</doi><ee>https://doi.org/10.1145/3555050.3569125</ee><url>https://dblp.org/rec/conf/conext/TianLZZC22</url></info>
+<url>URL#503252</url>
+</hit>
+<hit score="1" id="503256">
+<info><authors><author pid="147/1713">Talha Waheed</author><author pid="98/776">Ihsan Ayyub Qazi</author><author pid="120/7064">Zahaib Akhtar</author><author pid="131/6120">Zafar Ayyub Qazi</author></authors><title>Coal not diamonds: how memory pressure falters mobile video QoE.</title><venue>CoNEXT</venue><pages>307-320</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/WaheedQAQ22</key><doi>10.1145/3555050.3569120</doi><ee>https://doi.org/10.1145/3555050.3569120</ee><url>https://dblp.org/rec/conf/conext/WaheedQAQ22</url></info>
+<url>URL#503256</url>
+</hit>
+<hit score="1" id="503259">
+<info><authors><author pid="297/4684">Lukas Wüsteney</author><author pid="194/1497">David Hellmanns</author><author pid="334/5764">Markus Schramm</author><author pid="308/1677">Lukas Osswald</author><author pid="98/7880">René Hummen</author><author pid="80/2984">Michael Menth</author><author pid="94/1260">Tobias Heer</author></authors><title>Analyzing and modeling the latency and jitter behavior of mixed industrial TSN and DetNet networks.</title><venue>CoNEXT</venue><pages>91-109</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/WusteneyHSOHMH22</key><doi>10.1145/3555050.3569138</doi><ee>https://doi.org/10.1145/3555050.3569138</ee><url>https://dblp.org/rec/conf/conext/WusteneyHSOHMH22</url></info>
+<url>URL#503259</url>
+</hit>
+<hit score="1" id="503260">
+<info><authors><author pid="235/7025">Yunming Xiao</author><author pid="01/6280">Matteo Varvello</author></authors><title>FIAT: frictionless authentication of IoT traffic.</title><venue>CoNEXT</venue><pages>156-170</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/XiaoV22</key><doi>10.1145/3555050.3569126</doi><ee>https://doi.org/10.1145/3555050.3569126</ee><url>https://dblp.org/rec/conf/conext/XiaoV22</url></info>
+<url>URL#503260</url>
+</hit>
+<hit score="1" id="503261">
+<info><authors><author pid="198/1380">Zhiying Xu</author><author pid="217/1012">Sivaramakrishnan Ramanathan</author><author pid="67/9012">Alexander M. Rush</author><author pid="89/6100">Jelena Mirkovic</author><author pid="89/6345">Minlan Yu</author></authors><title>Xatu: boosting existing DDoS detection systems using auxiliary signals.</title><venue>CoNEXT</venue><pages>1-17</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/XuRRMY22</key><doi>10.1145/3555050.3569121</doi><ee>https://doi.org/10.1145/3555050.3569121</ee><url>https://dblp.org/rec/conf/conext/XuRRMY22</url></info>
+<url>URL#503261</url>
+</hit>
+<hit score="1" id="503265">
+<info><authors><author pid="299/2226">Shunmin Zhu</author><author pid="117/4499">Jianyuan Lu</author><author pid="267/2853">Biao Lyu</author><author pid="26/11343">Tian Pan 0001</author><author pid="209/5418">Chenhao Jia</author><author pid="96/4269">Xin Cheng</author><author pid="267/2886">Daxiang Kang</author><author pid="291/5892">Yilong Lv</author><author pid="224/3753">Fukun Yang</author><author pid="142/9614">Xiaobo Xue</author><author pid="58/5311">Zhiliang Wang</author><author pid="62/2814-1">Jiahai Yang 0001</author></authors><title>Zoonet: a proactive telemetry system for large-scale cloud networks.</title><venue>CoNEXT</venue><pages>321-336</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZhuLL0JCKLYXWY22</key><doi>10.1145/3555050.3569116</doi><ee>https://doi.org/10.1145/3555050.3569116</ee><url>https://dblp.org/rec/conf/conext/ZhuLL0JCKLYXWY22</url></info>
+<url>URL#503265</url>
+</hit>
+<hit score="1" id="503266">
+<info><authors><author pid="311/8919">Xudong Zuo</author><author pid="181/2689-6">Qing Li 0006</author><author pid="123/9485">Jingyu Xiao</author><author pid="10/3489">Dan Zhao</author><author pid="87/5058">Jiang Yong</author></authors><title>Drift-bottle: a lightweight and distributed approach to failure localization in general networks.</title><venue>CoNEXT</venue><pages>337-348</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Zuo0XZ022</key><doi>10.1145/3555050.3569137</doi><ee>https://doi.org/10.1145/3555050.3569137</ee><url>https://dblp.org/rec/conf/conext/Zuo0XZ022</url></info>
+<url>URL#503266</url>
+</hit>
+<hit score="1" id="639400">
+<info><authors><author pid="22/3090-1">Giuseppe Bianchi 0001</author><author pid="m/AlessandroMai">Alessandro Mei</author></authors><title>Proceedings of the 18th International Conference on emerging Networking EXperiments and Technologies, CoNEXT 2022, Roma, Italy, December 6-9, 2022</title><venue>CoNEXT</venue><publisher>ACM</publisher><year>2022</year><type>Editorship</type><key>conf/conext/2022</key><doi>10.1145/3555050</doi><ee>https://doi.org/10.1145/3555050</ee><url>https://dblp.org/rec/conf/conext/2022</url></info>
+<url>URL#639400</url>
+</hit>
+</hits>
+</result>

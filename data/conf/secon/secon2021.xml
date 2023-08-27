@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59494">:facetid:toc:\"db/conf/secon/secon2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">189.84</time>
+<completions total="1" computed="1" sent="1">
+<c sc="45" dc="45" oc="45" id="41063428">:facetid:toc:db/conf/secon/secon2021.bht</c>
+</completions>
+<hits total="45" computed="45" sent="45" first="0">
+<hit score="1" id="1077409">
+<info><authors><author pid="199/3954">Kai Li 0002</author><author pid="29/2864">Ning Lu</author><author pid="29/5102">Jingjing Zheng</author><author pid="78/5323-1">Pei Zhang 0001</author><author pid="31/2597-1">Wei Ni 0001</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>A Practical Secret Key Management for Multihop Drone Relay Systems based on Bluetooth Low Energy.</title><venue>SECON</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0002LZZ0T21</key><doi>10.1109/SECON52354.2021.9491599</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491599</ee><url>https://dblp.org/rec/conf/secon/0002LZZ0T21</url></info>
+<url>URL#1077409</url>
+</hit>
+<hit score="1" id="1077410">
+<info><authors><author pid="33/4054-13">Wei Xiong 0013</author><author pid="38/8070">Petko Bogdanov</author><author pid="44/9450">Mariya Zheleva</author></authors><title>MODELESS: MODulation rEcognition with LimitEd SuperviSion.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0013BZ21</key><doi>10.1109/SECON52354.2021.9491617</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491617</ee><url>https://dblp.org/rec/conf/secon/0013BZ21</url></info>
+<url>URL#1077410</url>
+</hit>
+<hit score="1" id="1077411">
+<info><authors><author pid="286/1962">Aakriti Adhikari</author><author pid="286/1952">Austin Hetherington</author><author pid="146/0105">Sanjib Sur</author></authors><title>mmFlow: Facilitating At-Home Spirometry with 5G Smart Devices.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AdhikariHS21</key><doi>10.1109/SECON52354.2021.9491616</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491616</ee><url>https://dblp.org/rec/conf/secon/AdhikariHS21</url></info>
+<url>URL#1077411</url>
+</hit>
+<hit score="1" id="1077412">
+<info><authors><author pid="134/3063">Heba Aly</author><author pid="52/727">Moustafa Youssef 0001</author><author pid="a/AshokKAgrawala">Ashok K. Agrawala</author></authors><title>Better off This Way!: Ubiquitous Accessibility Digital Maps via Smartphone-based Crowdsourcing.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Aly0A21</key><doi>10.1109/SECON52354.2021.9491623</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491623</ee><url>https://dblp.org/rec/conf/secon/Aly0A21</url></info>
+<url>URL#1077412</url>
+</hit>
+<hit score="1" id="1077413">
+<info><authors><author pid="90/10805">Jorge Baranda</author><author pid="24/5256">Josep Mangues-Bafalluy</author><author pid="79/8853">Luca Vettori</author><author pid="32/5452-1">Ricardo Martínez 0001</author><author pid="48/6139">Engin Zeydan</author></authors><title>Deploying Hybrid Network Services: Mixing VNFs and CNFs in Multi-site Infrastructures.</title><venue>SECON</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/BarandaMVMZ21</key><doi>10.1109/SECON52354.2021.9491619</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491619</ee><url>https://dblp.org/rec/conf/secon/BarandaMVMZ21</url></info>
+<url>URL#1077413</url>
+</hit>
+<hit score="1" id="1077414">
+<info><authors><author pid="217/8257">Davide Callegaro</author><author pid="47/2386">Marco Levorato</author><author pid="119/9062">Francesco Restuccia</author></authors><title>SeReMAS: Self-Resilient Mobile Autonomous Systems Through Predictive Edge Computing.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CallegaroLR21</key><doi>10.1109/SECON52354.2021.9491618</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491618</ee><url>https://dblp.org/rec/conf/secon/CallegaroLR21</url></info>
+<url>URL#1077414</url>
+</hit>
+<hit score="1" id="1077415">
+<info><authors><author pid="05/7548-1">Zhichao Cao 0001</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="m/QiangMa7">Qiang Ma 0007</author><author pid="62/4917">Xin Miao</author></authors><title>COFlood: Concurrent Opportunistic Flooding in Asynchronous Duty Cycle Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Cao00M21</key><doi>10.1109/SECON52354.2021.9491582</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491582</ee><url>https://dblp.org/rec/conf/secon/Cao00M21</url></info>
+<url>URL#1077415</url>
+</hit>
+<hit score="1" id="1077416">
+<info><authors><author pid="11/5123">Yuxin Chen</author><author pid="38/4472">Hejun Wu</author><author pid="298/5301">Yongheng Liang</author><author pid="291/2312">Guoming Lai 0003</author></authors><title>VarLenMARL: A Framework of Variable-Length Time-Step Multi-Agent Reinforcement Learning for Cooperative Charging in Sensor Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChenWL021</key><doi>10.1109/SECON52354.2021.9491594</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491594</ee><url>https://dblp.org/rec/conf/secon/ChenWL021</url></info>
+<url>URL#1077416</url>
+</hit>
+<hit score="1" id="1077417">
+<info><authors><author pid="271/9812">Dian Ding</author><author pid="235/0627">Lanqing Yang</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="79/1810">Guangtao Xue</author></authors><title>VibWriter: Handwriting Recognition System based on Vibration Signal.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DingY0X21</key><doi>10.1109/SECON52354.2021.9491615</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491615</ee><url>https://dblp.org/rec/conf/secon/DingY0X21</url></info>
+<url>URL#1077417</url>
+</hit>
+<hit score="1" id="1077418">
+<info><authors><author pid="85/2037">Rong Du</author><author pid="194/0001-1">Qingqing Ye 0001</author><author pid="54/944">Yue Fu</author><author pid="90/5236-1">Haibo Hu 0001</author></authors><title>Collecting High-Dimensional and Correlation-Constrained Data with Local Differential Privacy.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DuYF021</key><doi>10.1109/SECON52354.2021.9491591</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491591</ee><url>https://dblp.org/rec/conf/secon/DuYF021</url></info>
+<url>URL#1077418</url>
+</hit>
+<hit score="1" id="1077419">
+<info><authors><author pid="298/5134">Kerem Enhos</author><author pid="141/9723">Emrecan Demirors</author><author pid="236/2497">Deniz Ünal</author><author pid="05/1629">Tommaso Melodia</author></authors><title>Software-Defined Visible Light Networking for Bi-Directional Wireless Communication Across the Air-Water Interface.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/EnhosDUM21</key><doi>10.1109/SECON52354.2021.9491583</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491583</ee><url>https://dblp.org/rec/conf/secon/EnhosDUM21</url></info>
+<url>URL#1077419</url>
+</hit>
+<hit score="1" id="1077420">
+<info><authors><author pid="158/4744">Claudio Fiandrino</author><author pid="276/1694">Giulia Attanasio</author><author pid="75/1476">Marco Fiore</author><author pid="07/3803">Joerg Widmer</author></authors><title>Traffic-Driven Sounding Reference Signal Resource Allocation in (Beyond) 5G Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/FiandrinoAFW21</key><doi>10.1109/SECON52354.2021.9491611</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491611</ee><url>https://dblp.org/rec/conf/secon/FiandrinoAFW21</url></info>
+<url>URL#1077420</url>
+</hit>
+<hit score="1" id="1077421">
+<info><authors><author pid="298/4576">Markus-Philipp Gherman</author><author pid="58/4223">Yun Cheng</author><author pid="154/8215">Andres Gomez 0001</author><author pid="37/2725">Olga Saukh</author></authors><title>Compensating Altered Sensitivity of Duty-Cycled MOX Gas Sensors with Machine Learning.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GhermanCGS21</key><doi>10.1109/SECON52354.2021.9491586</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491586</ee><url>https://dblp.org/rec/conf/secon/GhermanCGS21</url></info>
+<url>URL#1077421</url>
+</hit>
+<hit score="1" id="1077422">
+<info><authors><author pid="286/2394">Ila Gokarn</author><author pid="24/4570">Archan Misra</author></authors><title>VibranSee: Enabling Simultaneous Visible Light Communication and Sensing.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GokarnM21</key><doi>10.1109/SECON52354.2021.9491608</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491608</ee><url>https://dblp.org/rec/conf/secon/GokarnM21</url></info>
+<url>URL#1077422</url>
+</hit>
+<hit score="1" id="1077423">
+<info><authors><author pid="223/3239">Alexander Gorovits</author><author pid="254/5413">Karyn Doke</author><author pid="37/1629">Lin Zhang</author><author pid="44/9450">Mariya Zheleva</author><author pid="38/8070">Petko Bogdanov</author></authors><title>CORE: Connectivity Optimization via REinforcement Learning in WANETs.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GorovitsDZZB21</key><doi>10.1109/SECON52354.2021.9491597</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491597</ee><url>https://dblp.org/rec/conf/secon/GorovitsDZZB21</url></info>
+<url>URL#1077423</url>
+</hit>
+<hit score="1" id="1077424">
+<info><authors><author pid="238/8547">Nur Imtiazul Haque</author><author pid="18/6200">Mohammad Ashiqur Rahman</author><author pid="44/3371-10">Dong Chen 0010</author><author pid="06/7488">Hisham A. Kholidy</author></authors><title>BIoTA: Control-Aware Attack Analytics for Building Internet of Things.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HaqueRCK21</key><doi>10.1109/SECON52354.2021.9491621</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491621</ee><url>https://dblp.org/rec/conf/secon/HaqueRCK21</url></info>
+<url>URL#1077424</url>
+</hit>
+<hit score="1" id="1077425">
+<info><authors><author pid="213/6093">Jiangqi Hu</author><author pid="272/6217">Sabarish Krishna Moorthy</author><author pid="298/4637">Ankush Harindranath</author><author pid="24/5237">Zhangyu Guan</author><author pid="02/5332">Nicholas Mastronarde</author><author pid="07/8842">Elizabeth Serena Bentley</author><author pid="76/8033">Scott Pudlewski</author></authors><title>SwarmShare: Mobility-Resilient Spectrum Sharing for Swarm UAV Networking in the 6 GHz Band.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HuMHGMBP21</key><doi>10.1109/SECON52354.2021.9491602</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491602</ee><url>https://dblp.org/rec/conf/secon/HuMHGMBP21</url></info>
+<url>URL#1077425</url>
+</hit>
+<hit score="1" id="1077426">
+<info><authors><author pid="151/6245">Siqi Huang</author><author pid="x/JXie-1">Jiang (Linda) Xie</author></authors><title>DAVE: Dynamic Adaptive Video Encoding for Real-time Video Streaming Applications.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HuangX21</key><doi>10.1109/SECON52354.2021.9491588</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491588</ee><url>https://dblp.org/rec/conf/secon/HuangX21</url></info>
+<url>URL#1077426</url>
+</hit>
+<hit score="1" id="1077427">
+<info><authors><author pid="43/2970-4">Mohammed Ibrahim 0004</author><author pid="49/1220">Kenneth N. Brown</author></authors><title>Vehicle In-Cabin Contactless WiFi Human Sensing.</title><venue>SECON</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/IbrahimB21</key><doi>10.1109/SECON52354.2021.9491580</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491580</ee><url>https://dblp.org/rec/conf/secon/IbrahimB21</url></info>
+<url>URL#1077427</url>
+</hit>
+<hit score="1" id="1077428">
+<info><authors><author pid="203/0774">Liuwang Kang</author><author pid="15/5579">Haiying Shen</author></authors><title>A Reinforcement Learning based Decision-making System with Aggressive Driving Behavior Consideration for Autonomous Vehicles.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KangS21</key><doi>10.1109/SECON52354.2021.9491587</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491587</ee><url>https://dblp.org/rec/conf/secon/KangS21</url></info>
+<url>URL#1077428</url>
+</hit>
+<hit score="1" id="1077429">
+<info><authors><author pid="173/0639">Pranvera Kortoçi</author><author pid="97/7353">Abbas Mehrabi</author><author pid="40/9937">Carlee Joe-Wong</author><author pid="48/1923">Mario Di Francesco</author></authors><title>Incentivizing Opportunistic Data Collection for Time-Sensitive IoT Applications.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KortociMJF21</key><doi>10.1109/SECON52354.2021.9491593</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491593</ee><url>https://dblp.org/rec/conf/secon/KortociMJF21</url></info>
+<url>URL#1077429</url>
+</hit>
+<hit score="1" id="1077430">
+<info><authors><author pid="252/1017">Lingang Li</author><author pid="143/0948-1">Yongrui Chen 0001</author><author pid="89/6527-2">Zhijun Li 0002</author></authors><title>WiBle: Physical-Layer Cross-Technology Communication with Symbol Transition Mapping.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiC021</key><doi>10.1109/SECON52354.2021.9491581</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491581</ee><url>https://dblp.org/rec/conf/secon/LiC021</url></info>
+<url>URL#1077430</url>
+</hit>
+<hit score="1" id="1077431">
+<info><authors><author pid="09/1365">Xin Li</author><author pid="50/7645">Xinglin Zhang</author><author pid="249/2114">Tiansheng Huang</author></authors><title>Asynchronous Online Service Placement and Task Offloading for Mobile Edge Computing.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiZH21</key><doi>10.1109/SECON52354.2021.9491595</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491595</ee><url>https://dblp.org/rec/conf/secon/LiZH21</url></info>
+<url>URL#1077431</url>
+</hit>
+<hit score="1" id="1077432">
+<info><authors><author pid="280/8738">Jianzhi Lou</author><author pid="86/10809">Qiben Yan</author><author pid="28/2761">Qing Hui</author><author pid="36/8208">Huacheng Zeng</author></authors><title>SoundFence: Securing Ultrasonic Sensors in Vehicles Using Physical-Layer Defense.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LouYHZ21</key><doi>10.1109/SECON52354.2021.9491590</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491590</ee><url>https://dblp.org/rec/conf/secon/LouYHZ21</url></info>
+<url>URL#1077432</url>
+</hit>
+<hit score="1" id="1077433">
+<info><authors><author pid="298/4624">Federico Mungari</author></authors><title>An RL Approach for Radio Resource Management in the O-RAN Architecture.</title><venue>SECON</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Mungari21</key><doi>10.1109/SECON52354.2021.9491579</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491579</ee><url>https://dblp.org/rec/conf/secon/Mungari21</url></info>
+<url>URL#1077433</url>
+</hit>
+<hit score="1" id="1077434">
+<info><authors><author pid="298/4995">Xin Na</author><author pid="188/8787">Xiuzhen Guo</author><author pid="11/1735-4">Yuan He 0004</author><author pid="122/9104">Rui Xi</author></authors><title>Wi-attack: Cross-technology Impersonation Attack against iBeacon Services.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/NaG0X21</key><doi>10.1109/SECON52354.2021.9491605</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491605</ee><url>https://dblp.org/rec/conf/secon/NaG0X21</url></info>
+<url>URL#1077434</url>
+</hit>
+<hit score="1" id="1077435">
+<info><authors><author pid="02/3812">Hao Pan</author><author pid="235/0627">Lanqing Yang</author><author pid="274/6520">Honglu Li</author><author pid="04/7985">Chuang-Wen You</author><author pid="39/1697-1">Xiaoyu Ji 0001</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="133/3852">Zhenxian Hu</author><author pid="79/1810">Guangtao Xue</author></authors><title>MagThief: Stealing Private App Usage Data on Mobile Devices via Built-in Magnetometer.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/PanYLYJ0HX21</key><doi>10.1109/SECON52354.2021.9491601</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491601</ee><url>https://dblp.org/rec/conf/secon/PanYLYJ0HX21</url></info>
+<url>URL#1077435</url>
+</hit>
+<hit score="1" id="1077436">
+<info><authors><author pid="241/9397">Hossein Pirayesh</author><author pid="156/7181">Pedram Kheirkhah Sangdeh</author><author pid="86/10809">Qiben Yan</author><author pid="36/8208">Huacheng Zeng</author></authors><title>UD-MIMO: Uplink Distributed MIMO for Wireless LANs.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/PirayeshSYZ21</key><doi>10.1109/SECON52354.2021.9491622</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491622</ee><url>https://dblp.org/rec/conf/secon/PirayeshSYZ21</url></info>
+<url>URL#1077436</url>
+</hit>
+<hit score="1" id="1077437">
+<info><authors><author pid="241/9397">Hossein Pirayesh</author><author pid="156/7181">Pedram Kheirkhah Sangdeh</author><author pid="177/6717">Shichen Zhang</author><author pid="86/10809">Qiben Yan</author><author pid="36/8208">Huacheng Zeng</author></authors><title>JammingBird: Jamming-Resilient Communications for Vehicular Ad Hoc Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/PirayeshSZYZ21</key><doi>10.1109/SECON52354.2021.9491603</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491603</ee><url>https://dblp.org/rec/conf/secon/PirayeshSZYZ21</url></info>
+<url>URL#1077437</url>
+</hit>
+<hit score="1" id="1077438">
+<info><authors><author pid="74/10607">Ankur Sarker</author><author pid="15/5579">Haiying Shen</author><author pid="129/5726">Tanmoy Sen</author></authors><title>A Context-aware Black-box Adversarial Attack for Deep Driving Maneuver Classification Models.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SarkerSS21</key><doi>10.1109/SECON52354.2021.9491584</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491584</ee><url>https://dblp.org/rec/conf/secon/SarkerSS21</url></info>
+<url>URL#1077438</url>
+</hit>
+<hit score="1" id="1077439">
+<info><authors><author pid="298/5022">Marion Sbai</author><author pid="172/7604">Muhamad Risqi Utama Saputra</author><author pid="t/NikiTrigoni">Niki Trigoni</author><author pid="83/7169">Andrew Markham</author></authors><title>Cut, Distil and Encode (CDE): Split Cloud-Edge Deep Inference.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SbaiSTM21</key><doi>10.1109/SECON52354.2021.9491600</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491600</ee><url>https://dblp.org/rec/conf/secon/SbaiSTM21</url></info>
+<url>URL#1077439</url>
+</hit>
+<hit score="1" id="1077440">
+<info><authors><author pid="229/5547">Sudipta Saha Shubha</author><author pid="129/5726">Tanmoy Sen</author><author pid="15/5579">Haiying Shen</author><author pid="286/8343">Matthew Normansell</author></authors><title>A Diverse Noise-Resilient DNN Ensemble Model on Edge Devices for Time-Series Data.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShubhaSSN21</key><doi>10.1109/SECON52354.2021.9491607</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491607</ee><url>https://dblp.org/rec/conf/secon/ShubhaSSN21</url></info>
+<url>URL#1077440</url>
+</hit>
+<hit score="1" id="1077441">
+<info><authors><author pid="57/2405">Li Sun</author><author pid="96/7838">Jing Hou</author><author pid="56/2124">Tao Shu</author></authors><title>Bandwidth-Efficient Precoding in Cell-Free Massive MIMO Networks with Rician Fading Channels.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SunHS21</key><doi>10.1109/SECON52354.2021.9491585</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491585</ee><url>https://dblp.org/rec/conf/secon/SunHS21</url></info>
+<url>URL#1077441</url>
+</hit>
+<hit score="1" id="1077442">
+<info><authors><author pid="182/4598">Tianxiang Tan</author><author pid="c/GuohongCao">Guohong Cao</author></authors><title>Deep Learning Video Analytics on Edge Computing Devices.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/TanC21</key><doi>10.1109/SECON52354.2021.9491614</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491614</ee><url>https://dblp.org/rec/conf/secon/TanC21</url></info>
+<url>URL#1077442</url>
+</hit>
+<hit score="1" id="1077443">
+<info><authors><author pid="58/4775">Xiaoyu Wang</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="92/7140">Nikolaos M. Freris</author><author pid="298/3250">Wangqiu Zhou</author><author pid="124/6758">Xing Guo</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>CALM: Contactless Accurate Load Monitoring via Modality Distillation.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangZFZG021</key><doi>10.1109/SECON52354.2021.9491624</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491624</ee><url>https://dblp.org/rec/conf/secon/WangZFZG021</url></info>
+<url>URL#1077443</url>
+</hit>
+<hit score="1" id="1077444">
+<info><authors><author pid="294/0118">Aslan B. Wong</author></authors><title>Authentication through Sensing of Tongue and Lip Motion via Smartphone.</title><venue>SECON</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Wong21</key><doi>10.1109/SECON52354.2021.9491596</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491596</ee><url>https://dblp.org/rec/conf/secon/Wong21</url></info>
+<url>URL#1077444</url>
+</hit>
+<hit score="1" id="1077445">
+<info><authors><author pid="294/0118">Aslan B. Wong</author><author pid="06/1899">Xia Chen</author><author pid="298/5421">Qianru Liao</author><author pid="34/4445">Kaishun Wu</author></authors><title>Articulation Motion Sensing for Pronunciation Training.</title><venue>SECON</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WongCLW21</key><doi>10.1109/SECON52354.2021.9491610</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491610</ee><url>https://dblp.org/rec/conf/secon/WongCLW21</url></info>
+<url>URL#1077445</url>
+</hit>
+<hit score="1" id="1077446">
+<info><authors><author pid="90/1412">Yilin Yang</author><author pid="125/1967">Rafael G. L. D&apos;Oliveira</author><author pid="122/2942">Salim El Rouayheb</author><author pid="44/1152">Xin Yang</author><author pid="27/825">Hulya Seferoglu</author><author pid="18/2343-1">Yingying Chen 0001</author></authors><title>Secure Coded Computation for Efficient Distributed Learning in Mobile IoT.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangDRYS021</key><doi>10.1109/SECON52354.2021.9491589</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491589</ee><url>https://dblp.org/rec/conf/secon/YangDRYS021</url></info>
+<url>URL#1077446</url>
+</hit>
+<hit score="1" id="1077447">
+<info><authors><author pid="216/8545">Sining Yang</author><author pid="04/6023">Dianxi Shi</author><author pid="298/4711">Yingxuan Peng</author><author pid="79/4816">Wei Qin</author><author pid="43/5828">Yongjun Zhang</author></authors><title>Joint Communication-Motion Planning for UAV Relaying in Urban Areas.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangSPQZ21</key><doi>10.1109/SECON52354.2021.9491604</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491604</ee><url>https://dblp.org/rec/conf/secon/YangSPQZ21</url></info>
+<url>URL#1077447</url>
+</hit>
+<hit score="1" id="1077448">
+<info><authors><author pid="298/4926">Joy Qiping Yang</author><author pid="135/6608">Siyuan Zhou</author><author pid="157/8936">Duc Van Le</author><author pid="298/4780">Daren Ho</author><author pid="00/5179">Rui Tan</author></authors><title>Improving Quality Control with Industrial AIoT at HP Factories: Experiences and Learned Lessons.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangZLHT21</key><doi>10.1109/SECON52354.2021.9491592</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491592</ee><url>https://dblp.org/rec/conf/secon/YangZLHT21</url></info>
+<url>URL#1077448</url>
+</hit>
+<hit score="1" id="1077449">
+<info><authors><author pid="08/6897">Junjie Yin</author><author pid="298/5272">Sicong Liao</author><author pid="184/3475">Chunhui Duan</author><author pid="48/9713">Xuan Ding</author><author pid="59/5806-2">Zheng Yang 0002</author><author pid="119/0963">Zuwei Yin</author></authors><title>Robust RFID-Based Multi-Object Identification and Tracking with Visual Aids.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YinLDD0Y21</key><doi>10.1109/SECON52354.2021.9491612</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491612</ee><url>https://dblp.org/rec/conf/secon/YinLDD0Y21</url></info>
+<url>URL#1077449</url>
+</hit>
+<hit score="1" id="1077450">
+<info><authors><author pid="48/6139">Engin Zeydan</author><author pid="90/10805">Jorge Baranda</author><author pid="24/5256">Josep Mangues-Bafalluy</author><author pid="32/5452-1">Ricardo Martínez 0001</author><author pid="79/8853">Luca Vettori</author></authors><title>Log Management in NFV Service Orchestration.</title><venue>SECON</venue><pages>1-2</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZeydanBMMV21</key><doi>10.1109/SECON52354.2021.9491606</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491606</ee><url>https://dblp.org/rec/conf/secon/ZeydanBMMV21</url></info>
+<url>URL#1077450</url>
+</hit>
+<hit score="1" id="1077451">
+<info><authors><author pid="00/7375">Zixuan Zhang</author><author pid="78/8541">Yunlong Wu</author><author pid="255/8799">Qinhao Wu</author><author pid="25/10098">Jinlin Peng</author><author pid="36/2259-7">Bo Zhang 0007</author></authors><title>Joint Space-Frequency Rendezvous for Multi-UAV Relaying Systems.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangWWPZ21</key><doi>10.1109/SECON52354.2021.9491598</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491598</ee><url>https://dblp.org/rec/conf/secon/ZhangWWPZ21</url></info>
+<url>URL#1077451</url>
+</hit>
+<hit score="1" id="1077452">
+<info><authors><author pid="135/6608">Siyuan Zhou</author><author pid="157/8936">Duc Van Le</author><author pid="298/4926">Joy Qiping Yang</author><author pid="00/5179">Rui Tan</author><author pid="298/4780">Daren Ho</author></authors><title>EFCam: Configuration-Adaptive Fog-Assisted Wireless Cameras with Reinforcement Learning.</title><venue>SECON</venue><pages>1-9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhouLYTH21</key><doi>10.1109/SECON52354.2021.9491609</doi><ee>https://doi.org/10.1109/SECON52354.2021.9491609</ee><url>https://dblp.org/rec/conf/secon/ZhouLYTH21</url></info>
+<url>URL#1077452</url>
+</hit>
+<hit score="1" id="1101501">
+<info><title>18th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2021, Rome, Italy, July 6-9, 2021</title><venue>SECON</venue><publisher>IEEE</publisher><year>2021</year><type>Editorship</type><key>conf/secon/2021</key><doi>10.1109/SECON52354.2021</doi><ee>https://doi.org/10.1109/SECON52354.2021</ee><url>https://dblp.org/rec/conf/secon/2021</url></info>
+<url>URL#1101501</url>
+</hit>
+</hits>
+</result>

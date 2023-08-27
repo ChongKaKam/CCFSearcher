@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59318">:facetid:toc:\"db/conf/nsdi/nsdi2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">175.38</time>
+<completions total="1" computed="1" sent="1">
+<c sc="41" dc="41" oc="41" id="41057702">:facetid:toc:db/conf/nsdi/nsdi2018.bht</c>
+</completions>
+<hits total="41" computed="41" sent="41" first="0">
+<hit score="1" id="2318925">
+<info><authors><author pid="55/957-6">Kai Zhang 0006</author><author pid="h/BingshengHe">Bingsheng He</author><author pid="174/1828">Jiayu Hu</author><author pid="233/6269">Ze-ke Wang</author><author pid="74/1602">Bei Hua</author><author pid="211/9501">Jiayi Meng</author><author pid="182/6868">Lishan Yang</author></authors><title>G-NET: Effective GPU Sharing in NFV Systems.</title><venue>NSDI</venue><pages>187-200</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/0006HHWHMY18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/zhang-kai</ee><url>https://dblp.org/rec/conf/nsdi/0006HHWHMY18</url></info>
+<url>URL#2318925</url>
+</hit>
+<hit score="1" id="2318926">
+<info><authors><author pid="72/1322-3">João Taveira Araújo</author><author pid="137/0161">Lorenzo Saino</author><author pid="217/3848">Lennert Buytenhek</author><author pid="40/2410">Raul Landa</author></authors><title>Balancing on the Edge: Transport Affinity without Network State.</title><venue>NSDI</venue><pages>111-124</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/AraujoSBL18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/araujo</ee><url>https://dblp.org/rec/conf/nsdi/AraujoSBL18</url></info>
+<url>URL#2318926</url>
+</hit>
+<hit score="1" id="2318927">
+<info><authors><author pid="48/2722">Dan Ardelean</author><author pid="d/AmerDiwan">Amer Diwan</author><author pid="23/1168">Chandra Erdman</author></authors><title>Performance Analysis of Cloud Applications.</title><venue>NSDI</venue><pages>405-417</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ArdeleanDE18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/ardelean</ee><url>https://dblp.org/rec/conf/nsdi/ArdeleanDE18</url></info>
+<url>URL#2318927</url>
+</hit>
+<hit score="1" id="2318928">
+<info><authors><author pid="204/3448">Venkat Arun</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author></authors><title>Copa: Practical Delay-Based Congestion Control for the Internet.</title><venue>NSDI</venue><pages>329-342</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ArunB18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/arun</ee><url>https://dblp.org/rec/conf/nsdi/ArunB18</url></info>
+<url>URL#2318928</url>
+</hit>
+<hit score="1" id="2318929">
+<info><authors><author pid="126/1063">Behnaz Arzani</author><author pid="62/306">Selim Ciraci</author><author pid="120/6982">Luiz F. O. Chamon</author><author pid="65/8854">Yibo Zhu</author><author pid="16/8505">Hongqiang Liu</author><author pid="p/JPadhye">Jitu Padhye</author><author pid="75/3108">Boon Thau Loo</author><author pid="151/3220">Geoff Outhred</author></authors><title>007: Democratically Finding the Cause of Packet Drops.</title><venue>NSDI</venue><pages>419-435</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ArzaniCCZLPLO18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/arzani</ee><url>https://dblp.org/rec/conf/nsdi/ArzaniCCZLPLO18</url></info>
+<url>URL#2318929</url>
+</hit>
+<hit score="1" id="2318930">
+<info><authors><author pid="42/7272">Nathan Beckmann</author><author pid="158/6303">Haoxian Chen</author><author pid="35/10805">Asaf Cidon</author></authors><title>LHD: Improving Cache Hit Rate by Maximizing Hit Density.</title><venue>NSDI</venue><pages>389-403</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/BeckmannCC18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/beckmann</ee><url>https://dblp.org/rec/conf/nsdi/BeckmannCC18</url></info>
+<url>URL#2318930</url>
+</hit>
+<hit score="1" id="2318931">
+<info><authors><author pid="182/6218">Rüdiger Birkner</author><author pid="155/1628">Dana Drachsler-Cohen</author><author pid="51/7546">Laurent Vanbever</author><author pid="93/2189">Martin T. Vechev</author></authors><title>Net2Text: Query-Guided Summarization of Network Forwarding Behaviors.</title><venue>NSDI</venue><pages>609-623</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/BirknerDVV18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/birkner</ee><url>https://dblp.org/rec/conf/nsdi/BirknerDVV18</url></info>
+<url>URL#2318931</url>
+</hit>
+<hit score="1" id="2318932">
+<info><authors><author pid="24/3165">Matt Calder</author><author pid="217/3877">Ryan Gao</author><author pid="217/3854">Manuel Schröder</author><author pid="217/3911">Ryan Stewart</author><author pid="p/JPadhye">Jitendra Padhye</author><author pid="81/6327">Ratul Mahajan</author><author pid="08/5351">Ganesh Ananthanarayanan</author><author pid="66/2080">Ethan Katz-Bassett</author></authors><title>Odin: Microsoft&apos;s Scalable Fault-Tolerant CDN Measurement System.</title><venue>NSDI</venue><pages>501-517</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/CalderGSSPMAK18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/calder</ee><url>https://dblp.org/rec/conf/nsdi/CalderGSSPMAK18</url></info>
+<url>URL#2318932</url>
+</hit>
+<hit score="1" id="2318933">
+<info><authors><author pid="217/3896">Andromachi Chatzieleftheriou</author><author pid="94/7509">Sergey Legtchenko</author><author pid="120/5160">Hugh Williams</author><author pid="r/AITRowstron">Antony I. T. Rowstron</author></authors><title>Larry: Practical Network Reconfigurability in the Data Center.</title><venue>NSDI</venue><pages>141-156</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/Chatzieleftheriou18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/chatzieleftheriou</ee><url>https://dblp.org/rec/conf/nsdi/Chatzieleftheriou18</url></info>
+<url>URL#2318933</url>
+</hit>
+<hit score="1" id="2318934">
+<info><authors><author pid="c/LiChen8">Li Chen 0008</author><author pid="204/9514">Jiacheng Xia</author><author pid="184/0450">Bairen Yi</author><author pid="c/KaiChen5">Kai Chen 0005</author></authors><title>PowerMan: An Out-of-Band Management Network for Datacenters Using Power Line Communication.</title><venue>NSDI</venue><pages>561-578</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ChenXY018</key><ee>https://www.usenix.org/conference/nsdi18/presentation/chen-li</ee><url>https://dblp.org/rec/conf/nsdi/ChenXY018</url></info>
+<url>URL#2318934</url>
+</hit>
+<hit score="1" id="2318935">
+<info><authors><author pid="35/1023">Michael Dalton</author><author pid="35/3680">David Schultz</author><author pid="36/7863">Jacob Adriaens</author><author pid="15/7446">Ahsan Arefin</author><author pid="82/3183">Anshuman Gupta</author><author pid="56/1397">Brian Fahs</author><author pid="217/3885">Dima Rubinstein</author><author pid="166/6927">Enrique Cauich Zermeno</author><author pid="94/8856">Erik Rubow</author><author pid="217/3873">James Alexander Docauer</author><author pid="217/3912">Jesse Alpert</author><author pid="77/4495">Jing Ai</author><author pid="02/2899">Jon Olson</author><author pid="217/3893">Kevin DeCabooter</author><author pid="54/8277">Marc de Kruijf</author><author pid="28/5824">Nan Hua</author><author pid="62/6358">Nathan Lewis</author><author pid="32/2413">Nikhil Kasinadhuni</author><author pid="61/494">Riccardo Crepaldi</author><author pid="70/204">Srinivas Krishnan</author><author pid="132/8516">Subbaiah Venkata</author><author pid="41/5173">Yossi Richter</author><author pid="166/6948">Uday Naik</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Andromeda: Performance, Isolation, and Velocity at Scale in Cloud Network Virtualization.</title><venue>NSDI</venue><pages>373-387</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/DaltonSAAGFRZRD18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/dalton</ee><url>https://dblp.org/rec/conf/nsdi/DaltonSAAGFRZRD18</url></info>
+<url>URL#2318935</url>
+</hit>
+<hit score="1" id="2318936">
+<info><authors><author pid="44/10586">Mo Dong</author><author pid="117/3361">Tong Meng</author><author pid="149/9211">Doron Zarchy</author><author pid="85/9469">Engin Arslan</author><author pid="84/7357">Yossi Gilad</author><author pid="g/BrightenGodfrey">Brighten Godfrey</author><author pid="15/5634">Michael Schapira</author></authors><title>PCC Vivace: Online-Learning Congestion Control.</title><venue>NSDI</venue><pages>343-356</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/DongMZAGGS18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/dong</ee><url>https://dblp.org/rec/conf/nsdi/DongMZAGGS18</url></info>
+<url>URL#2318936</url>
+</hit>
+<hit score="1" id="2318937">
+<info><authors><author pid="15/11528">Ahmed El-Hassany</author><author pid="40/9612">Petar Tsankov</author><author pid="51/7546">Laurent Vanbever</author><author pid="93/2189">Martin T. Vechev</author></authors><title>NetComplete: Practical Network-Wide Configuration Synthesis with Autocompletion.</title><venue>NSDI</venue><pages>579-594</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/El-HassanyTVV18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/el-hassany</ee><url>https://dblp.org/rec/conf/nsdi/El-HassanyTVV18</url></info>
+<url>URL#2318937</url>
+</hit>
+<hit score="1" id="2318938">
+<info><authors><author pid="166/7024">Daniel Firestone</author><author pid="85/5822">Andrew Putnam</author><author pid="79/2713">Sambrama Mundkur</author><author pid="06/5295">Derek Chiou</author><author pid="217/3860">Alireza Dabagh</author><author pid="217/3864">Mike Andrewartha</author><author pid="94/3793">Hari Angepat</author><author pid="217/3908">Vivek Bhanu</author><author pid="82/3536">Adrian M. Caulfield</author><author pid="29/3950">Eric S. Chung</author><author pid="217/3868">Harish Kumar Chandrappa</author><author pid="217/3866">Somesh Chaturmohta</author><author pid="175/6153">Matt Humphrey</author><author pid="217/3862">Jack Lavier</author><author pid="183/1113">Norman Lam</author><author pid="217/3902">Fengfen Liu</author><author pid="121/0473">Kalin Ovtcharov</author><author pid="p/JPadhye">Jitu Padhye</author><author pid="217/3904">Gautham Popuri</author><author pid="133/3654">Shachar Raindel</author><author pid="217/3899">Tejas Sapre</author><author pid="36/4410-1">Mark Shaw 0001</author><author pid="35/11344">Gabriel Silva</author><author pid="90/7881">Madhan Sivakumar</author><author pid="11/4827">Nisheeth Srivastava</author><author pid="184/5939">Anshuman Verma</author><author pid="217/3861">Qasim Zuhair</author><author pid="69/2945">Deepak Bansal</author><author pid="b/DougBurger">Doug Burger</author><author pid="57/7456">Kushagra Vaid</author><author pid="65/1459">David A. Maltz</author><author pid="g/AlbertGGreenberg">Albert G. Greenberg</author></authors><title>Azure Accelerated Networking: SmartNICs in the Public Cloud.</title><venue>NSDI</venue><pages>51-66</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/FirestonePMCDAA18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/firestone</ee><url>https://dblp.org/rec/conf/nsdi/FirestonePMCDAA18</url></info>
+<url>URL#2318938</url>
+</hit>
+<hit score="1" id="2318939">
+<info><authors><author pid="197/7159">Sadjad Fouladi</author><author pid="162/5904">John Emmons</author><author pid="217/3900">Emre Orbay</author><author pid="217/3847">Catherine Wu</author><author pid="150/9448">Riad S. Wahby</author><author pid="38/11404">Keith Winstein</author></authors><title>Salsify: Low-Latency Network Video through Tighter Integration between a Video Codec and a Transport Protocol.</title><venue>NSDI</venue><pages>267-282</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/FouladiEOWWW18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/fouladi</ee><url>https://dblp.org/rec/conf/nsdi/FouladiEOWWW18</url></info>
+<url>URL#2318939</url>
+</hit>
+<hit score="1" id="2318940">
+<info><authors><author pid="160/8486">Chuhan Gao</author><author pid="131/4721">Yilong Li</author><author pid="58/4582-3">Xinyu Zhang 0003</author></authors><title>LiveTag: Sensing Human-Object Interaction through Passive Chipless WiFi Tags.</title><venue>NSDI</venue><pages>533-546</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GaoLZ18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/gao</ee><url>https://dblp.org/rec/conf/nsdi/GaoLZ18</url></info>
+<url>URL#2318940</url>
+</hit>
+<hit score="1" id="2318941">
+<info><authors><author pid="139/1794">Yilong Geng</author><author pid="125/2564">Shiyu Liu</author><author pid="123/3786">Zi Yin</author><author pid="217/3855">Ashish Naik</author><author pid="48/1750">Balaji Prabhakar</author><author pid="r/MendelRosenblum">Mendel Rosenblum</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>Exploiting a Natural Network Effect for Scalable, Fine-grained Clock Synchronization.</title><venue>NSDI</venue><pages>81-94</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/GengLYNPRV18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/geng</ee><url>https://dblp.org/rec/conf/nsdi/GengLYNPRV18</url></info>
+<url>URL#2318941</url>
+</hit>
+<hit score="1" id="2318942">
+<info><authors><author pid="188/9957-1">Moritz Hoffmann 0001</author><author pid="181/5922">Andrea Lattuada</author><author pid="95/9170">John Liagouris</author><author pid="132/6943">Vasiliki Kalavri</author><author pid="66/4739">Desislava C. Dimitrova</author><author pid="204/9338">Sebastian Wicki</author><author pid="151/7519">Zaheer Chothia</author><author pid="r/TimothyRoscoe">Timothy Roscoe</author></authors><title>SnailTrail: Generalizing Critical Paths for Online Analysis of Distributed Dataflows.</title><venue>NSDI</venue><pages>95-110</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/HoffmannLLKDWCR18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/hoffmann</ee><url>https://dblp.org/rec/conf/nsdi/HoffmannLLKDWCR18</url></info>
+<url>URL#2318942</url>
+</hit>
+<hit score="1" id="2318943">
+<info><authors><author pid="05/4354">Michio Honda</author><author pid="27/4222">Giuseppe Lettieri</author><author pid="71/1693">Lars Eggert</author><author pid="150/5202">Douglas Santry</author></authors><title>PASTE: A Network Programming Interface for Non-Volatile Main Memory.</title><venue>NSDI</venue><pages>17-33</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/HondaLES18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/honda</ee><url>https://dblp.org/rec/conf/nsdi/HondaLES18</url></info>
+<url>URL#2318943</url>
+</hit>
+<hit score="1" id="2318944">
+<info><authors><author pid="68/3340-8">Xin Jin 0008</author><author pid="98/8490">Xiaozhou Li</author><author pid="168/0332">Haoyu Zhang</author><author pid="15/3253">Nate Foster</author><author pid="05/5543">Jeongkeun Lee</author><author pid="49/6828">Robert Soulé</author><author pid="55/4381">Changhoon Kim</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>NetChain: Scale-Free Sub-RTT Coordination.</title><venue>NSDI</venue><pages>35-49</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/JinLZFLSKS18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/jin</ee><url>https://dblp.org/rec/conf/nsdi/JinLZFLSKS18</url></info>
+<url>URL#2318944</url>
+</hit>
+<hit score="1" id="2318945">
+<info><authors><author pid="93/9926">Georgios P. Katsikas</author><author pid="162/5287">Tom Barbette</author><author pid="03/3188">Dejan Kostic</author><author pid="38/6828">Rebecca Steinert</author><author pid="m/GQMaguireJr">Gerald Q. Maguire Jr.</author></authors><title>Metron: NFV Service Chains at the True Speed of the Underlying Hardware.</title><venue>NSDI</venue><pages>171-186</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/KatsikasBKSM18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/katsikas</ee><url>https://dblp.org/rec/conf/nsdi/KatsikasBKSM18</url></info>
+<url>URL#2318945</url>
+</hit>
+<hit score="1" id="2318946">
+<info><authors><author pid="88/10928">Junaid Khalid</author><author pid="10/6034">Eric Rozner</author><author pid="02/7018">Wesley M. Felter</author><author pid="47/4804">Cong Xu</author><author pid="71/1431">Karthick Rajamani</author><author pid="49/10521">Alexandre Ferreira</author><author pid="a/AdityaAkella">Aditya Akella</author></authors><title>Iron: Isolating Network-based CPU in Container Environments.</title><venue>NSDI</venue><pages>313-328</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/KhalidRFXRFA18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/khalid</ee><url>https://dblp.org/rec/conf/nsdi/KhalidRFXRFA18</url></info>
+<url>URL#2318946</url>
+</hit>
+<hit score="1" id="2318947">
+<info><authors><author pid="95/448-3">Praveen Kumar 0003</author><author pid="65/782">Yang Yuan</author><author pid="131/0435">Chris Yu 0001</author><author pid="15/3253">Nate Foster</author><author pid="k/RDKleinberg">Robert Kleinberg</author><author pid="197/7152">Petr Lapukhov</author><author pid="124/8100">Chiunlin Lim</author><author pid="49/6828">Robert Soulé</author></authors><title>Semi-Oblivious Traffic Engineering: The Road Not Taken.</title><venue>NSDI</venue><pages>157-170</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/KumarYYFKLLS18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/kumar</ee><url>https://dblp.org/rec/conf/nsdi/KumarYYFKLLS18</url></info>
+<url>URL#2318947</url>
+</hit>
+<hit score="1" id="2318948">
+<info><authors><author pid="182/6479">Yuanwei Lu</author><author pid="24/858-1">Guo Chen 0001</author><author pid="122/5219">Bojie Li</author><author pid="42/5784">Kun Tan</author><author pid="57/4569">Yongqiang Xiong</author><author pid="76/185-5">Peng Cheng 0005</author><author pid="38/6831">Jiansong Zhang</author><author pid="07/258">Enhong Chen</author><author pid="m/ThomasMoscibroda">Thomas Moscibroda</author></authors><title>Multi-Path Transport for RDMA in Datacenters.</title><venue>NSDI</venue><pages>357-371</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/LuCLTXCZCM18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/lu</ee><url>https://dblp.org/rec/conf/nsdi/LuCLTXCZCM18</url></info>
+<url>URL#2318948</url>
+</hit>
+<hit score="1" id="2318949">
+<info><authors><author pid="163/2190">Saman Naderiparizi</author><author pid="185/3990">Mehrdad Hessar</author><author pid="132/8491">Vamsi Talla</author><author pid="63/3113">Shyamnath Gollakota</author><author pid="s/JoshuaRSmith">Joshua R. Smith 0001</author></authors><title>Towards Battery-Free HD Video Streaming.</title><venue>NSDI</venue><pages>233-247</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NaderipariziHTG18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/naderiparizi</ee><url>https://dblp.org/rec/conf/nsdi/NaderipariziHTG18</url></info>
+<url>URL#2318949</url>
+</hit>
+<hit score="1" id="2318950">
+<info><authors><author pid="78/6040">Neha Narula</author><author pid="216/6391">Willy Vasquez</author><author pid="05/8397">Madars Virza</author></authors><title>zkLedger: Privacy-Preserving Auditing for Distributed Ledgers.</title><venue>NSDI</venue><pages>65-80</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NarulaVV18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/narula</ee><url>https://dblp.org/rec/conf/nsdi/NarulaVV18</url></info>
+<url>URL#2318950</url>
+</hit>
+<hit score="1" id="2318951">
+<info><authors><author pid="123/3350-1">Ravi Netravali</author><author pid="90/1843">James Mickens</author></authors><title>Prophecy: Accelerating Mobile Page Loads Using Final-state Write Logs.</title><venue>NSDI</venue><pages>249-266</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NetravaliM18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/netravali-prophecy</ee><url>https://dblp.org/rec/conf/nsdi/NetravaliM18</url></info>
+<url>URL#2318951</url>
+</hit>
+<hit score="1" id="2318952">
+<info><authors><author pid="123/3350-1">Ravi Netravali</author><author pid="153/2198">Vikram Nathan</author><author pid="90/1843">James Mickens</author><author pid="b/HariBalakrishnan">Hari Balakrishnan</author></authors><title>Vesper: Measuring Time-to-Interactivity for Web Pages.</title><venue>NSDI</venue><pages>217-231</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/NetravaliNMB18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/netravali-vesper</ee><url>https://dblp.org/rec/conf/nsdi/NetravaliNMB18</url></info>
+<url>URL#2318952</url>
+</hit>
+<hit score="1" id="2318953">
+<info><authors><author pid="117/4305">Vladimir Andrei Olteanu</author><author pid="57/9894">Alexandru Agache</author><author pid="95/10117">Andrei Voinescu</author><author pid="62/2645">Costin Raiciu</author></authors><title>Stateless Datacenter Load-balancing with Beamer.</title><venue>NSDI</venue><pages>125-139</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/OlteanuAVR18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/olteanu</ee><url>https://dblp.org/rec/conf/nsdi/OlteanuAVR18</url></info>
+<url>URL#2318953</url>
+</hit>
+<hit score="1" id="2318954">
+<info><authors><author pid="39/10311">Rishabh Poddar</author><author pid="116/8770">Chang Lan</author><author pid="91/275">Raluca Ada Popa</author><author pid="68/5579">Sylvia Ratnasamy</author></authors><title>SafeBricks: Shielding Network Functions in the Cloud.</title><venue>NSDI</venue><pages>201-216</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/PoddarLPR18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/poddar</ee><url>https://dblp.org/rec/conf/nsdi/PoddarLPR18</url></info>
+<url>URL#2318954</url>
+</hit>
+<hit score="1" id="2318955">
+<info><authors><author pid="138/3618">Nirupam Roy</author><author pid="138/5764">Sheng Shen</author><author pid="13/8398">Haitham Hassanieh</author><author pid="19/6964">Romit Roy Choudhury</author></authors><title>Inaudible Voice Commands: The Long-Range Attack and Defense.</title><venue>NSDI</venue><pages>547-560</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/RoySHC18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/roy</ee><url>https://dblp.org/rec/conf/nsdi/RoySHC18</url></info>
+<url>URL#2318955</url>
+</hit>
+<hit score="1" id="2318956">
+<info><authors><author pid="88/8770">Naveen Kr. Sharma</author><author pid="20/2039-27">Ming Liu 0027</author><author pid="198/2525">Kishore Atreya</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author></authors><title>Approximating Fair Queueing on Reconfigurable Switches.</title><venue>NSDI</venue><pages>1-16</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/SharmaLAK18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/sharma</ee><url>https://dblp.org/rec/conf/nsdi/SharmaLAK18</url></info>
+<url>URL#2318956</url>
+</hit>
+<hit score="1" id="2318957">
+<info><authors><author pid="174/9515">Praveen Tammana</author><author pid="41/5447-1">Rachit Agarwal 0001</author><author pid="53/2649">Myungjin Lee</author></authors><title>Distributed Network Monitoring and Debugging with SwitchPointer.</title><venue>NSDI</venue><pages>453-466</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/Tammana0L18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/tammana</ee><url>https://dblp.org/rec/conf/nsdi/Tammana0L18</url></info>
+<url>URL#2318957</url>
+</hit>
+<hit score="1" id="2318958">
+<info><authors><author pid="157/3035">Olivier Tilmans</author><author pid="190/1424">Tobias Bühler</author><author pid="17/9081">Ingmar Poese</author><author pid="29/7759">Stefano Vissicchio</author><author pid="51/7546">Laurent Vanbever</author></authors><title>Stroboscope: Declarative Network Monitoring on a Budget.</title><venue>NSDI</venue><pages>467-482</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/TilmansBPVV18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/tilmans</ee><url>https://dblp.org/rec/conf/nsdi/TilmansBPVV18</url></info>
+<url>URL#2318958</url>
+</hit>
+<hit score="1" id="2318959">
+<info><authors><author pid="79/7981">Amin Tootoonchian</author><author pid="55/925">Aurojit Panda</author><author pid="116/8770">Chang Lan</author><author pid="182/6299">Melvin Walls</author><author pid="71/6861">Katerina J. Argyraki</author><author pid="68/5579">Sylvia Ratnasamy</author><author pid="34/5593">Scott Shenker</author></authors><title>ResQ: Enabling SLOs in Network Function Virtualization.</title><venue>NSDI</venue><pages>283-297</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/TootoonchianPLW18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/tootoonchian</ee><url>https://dblp.org/rec/conf/nsdi/TootoonchianPLW18</url></info>
+<url>URL#2318959</url>
+</hit>
+<hit score="1" id="2318960">
+<info><authors><author pid="54/2062-21">Cheng Wang 0021</author><author pid="38/7674">Xusheng Chen</author><author pid="61/9959-1">Weiwei Jia 0001</author><author pid="217/3887">Boxuan Li</author><author pid="217/3886">Haoran Qiu</author><author pid="141/1483">Shixiong Zhao</author><author pid="59/5565">Heming Cui</author></authors><title>PLOVER: Fast, Multi-core Scalable Virtual Machine Fault-tolerance.</title><venue>NSDI</venue><pages>483-489</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/WangCJLQZC18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/wang</ee><url>https://dblp.org/rec/conf/nsdi/WangCJLQZC18</url></info>
+<url>URL#2318960</url>
+</hit>
+<hit score="1" id="2318961">
+<info><authors><author pid="129/3030">Shinae Woo</author><author pid="37/8465">Justine Sherry</author><author pid="87/6455">Sangjin Han</author><author pid="m/SueBMoon">Sue Moon</author><author pid="68/5579">Sylvia Ratnasamy</author><author pid="34/5593">Scott Shenker</author></authors><title>Elastic Scaling of Stateful Network Functions.</title><venue>NSDI</venue><pages>299-312</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/WooSHMRS18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/woo</ee><url>https://dblp.org/rec/conf/nsdi/WooSHMRS18</url></info>
+<url>URL#2318961</url>
+</hit>
+<hit score="1" id="2318962">
+<info><authors><author pid="05/4612">Yifei Yuan</author><author pid="184/0472">Sanjay Chandrasekaran</author><author pid="89/161-1">Limin Jia 0001</author><author pid="45/4044">Vyas Sekar</author></authors><title>Efficient and Correct Test Scheduling for Ensembles of Network Policies.</title><venue>NSDI</venue><pages>437-452</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/YuanCJS18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/yuan</ee><url>https://dblp.org/rec/conf/nsdi/YuanCJS18</url></info>
+<url>URL#2318962</url>
+</hit>
+<hit score="1" id="2318963">
+<info><authors><author pid="37/3831-1">Qiao Zhang 0001</author><author pid="11/5898">Guo Yu</author><author pid="95/4962">Chuanxiong Guo</author><author pid="47/10488">Yingnong Dang</author><author pid="217/3876">Nick Swanson</author><author pid="152/1596">Xinsheng Yang</author><author pid="204/3579">Randolph Yao</author><author pid="204/3594">Murali Chintalapati</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="a/ThomasEAnderson">Thomas E. Anderson</author></authors><title>Deepview: Virtual Disk Failure Diagnosis and Pattern Detection for Azure.</title><venue>NSDI</venue><pages>519-532</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZhangYGDSYYCKA18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/zhang-qiao</ee><url>https://dblp.org/rec/conf/nsdi/ZhangYGDSYYCKA18</url></info>
+<url>URL#2318963</url>
+</hit>
+<hit score="1" id="2318964">
+<info><authors><author pid="78/9975">Wenxuan Zhou</author><author pid="44/4224">Jason Croft</author><author pid="167/4151">Bingzhe Liu</author><author pid="217/3910">Elaine Ang</author><author pid="09/384">Matthew Caesar 0001</author></authors><title>Automatically Correcting Networks with NEAt.</title><venue>NSDI</venue><pages>595-608</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/nsdi/ZhouCLAC18</key><ee>https://www.usenix.org/conference/nsdi18/presentation/zhou</ee><url>https://dblp.org/rec/conf/nsdi/ZhouCLAC18</url></info>
+<url>URL#2318964</url>
+</hit>
+<hit score="1" id="2359179">
+<info><authors><author pid="b/SuBanerjee">Sujata Banerjee</author><author pid="s/SrinivasanSeshan">Srinivasan Seshan</author></authors><title>15th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2018, Renton, WA, USA, April 9-11, 2018</title><venue>NSDI</venue><publisher>USENIX Association</publisher><year>2018</year><type>Editorship</type><access>open</access><key>conf/nsdi/2018</key><ee>https://www.usenix.org/conference/nsdi18</ee><url>https://dblp.org/rec/conf/nsdi/2018</url></info>
+<url>URL#2359179</url>
+</hit>
+</hits>
+</result>

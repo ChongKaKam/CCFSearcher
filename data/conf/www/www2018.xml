@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59362">:facetid:toc:\"db/conf/www/www2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">179.47</time>
+<completions total="1" computed="1" sent="1">
+<c sc="192" dc="192" oc="192" id="41072520">:facetid:toc:db/conf/www/www2018.bht</c>
+</completions>
+<hits total="192" computed="192" sent="192" first="0">
+<hit score="1" id="2354664">
+<info><authors><author pid="132/1565-1">Zhiyuan Lin 0001</author><author pid="119/1352">Tim Althoff</author><author pid="l/JureLeskovec">Jure Leskovec</author></authors><title>I&apos;ll Be Back: On the Multiple Lives of Users of a Mobile Activity Tracking Application.</title><venue>WWW</venue><pages>1501-1511</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/0001AL18</key><doi>10.1145/3178876.3186062</doi><ee>https://doi.org/10.1145/3178876.3186062</ee><url>https://dblp.org/rec/conf/www/0001AL18</url></info>
+<url>URL#2354664</url>
+</hit>
+<hit score="1" id="2354675">
+<info><authors><author pid="48/450-9">Yang Yang 0009</author><author pid="215/4891">Zongtao Liu</author><author pid="95/8314">Chenhao Tan</author><author pid="84/3254-1">Fei Wu 0001</author><author pid="218/7793">Yueting Zhuang</author><author pid="84/8135">Yafeng Li</author></authors><title>To Stay or to Leave: Churn Prediction for Urban Migrants in the Initial Period.</title><venue>WWW</venue><pages>967-976</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/0009LT0ZL18</key><doi>10.1145/3178876.3186144</doi><ee>https://doi.org/10.1145/3178876.3186144</ee><url>https://dblp.org/rec/conf/www/0009LT0ZL18</url></info>
+<url>URL#2354675</url>
+</hit>
+<hit score="1" id="2354676">
+<info><authors><author pid="217/4466">Jacob Levy Abitbol</author><author pid="13/8264">Márton Karsai</author><author pid="70/5723">Jean-Philippe Magué</author><author pid="217/4637">Jean-Pierre Chevrot</author><author pid="44/344">Eric Fleury</author></authors><title>Socioeconomic Dependencies of Linguistic Patterns in Twitter: a Multivariate Analysis.</title><venue>WWW</venue><pages>1125-1134</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/AbitbolKMCF18</key><doi>10.1145/3178876.3186011</doi><ee>https://doi.org/10.1145/3178876.3186011</ee><url>https://dblp.org/rec/conf/www/AbitbolKMCF18</url></info>
+<url>URL#2354676</url>
+</hit>
+<hit score="1" id="2354677">
+<info><authors><author pid="162/9092">Abdalghani Abujabal</author><author pid="96/7128">Rishiraj Saha Roy</author><author pid="71/9605">Mohamed Yahya</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>Never-Ending Learning for Open-Domain Question Answering over Knowledge Bases.</title><venue>WWW</venue><pages>1053-1062</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/AbujabalRYW18</key><doi>10.1145/3178876.3186004</doi><ee>https://doi.org/10.1145/3178876.3186004</ee><url>https://dblp.org/rec/conf/www/AbujabalRYW18</url></info>
+<url>URL#2354677</url>
+</hit>
+<hit score="1" id="2354679">
+<info><authors><author pid="134/4891">Bijaya Adhikari</author><author pid="69/8428">Parikshit Sondhi</author><author pid="69/7573">Wenke Zhang</author><author pid="04/3916-2">Mohit Sharma 0002</author><author pid="06/3956">B. Aditya Prakash</author></authors><title>Mining E-Commerce Query Relations using Customer Interaction Networks.</title><venue>WWW</venue><pages>1805-1814</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/AdhikariSZSP18</key><doi>10.1145/3178876.3186174</doi><ee>https://doi.org/10.1145/3178876.3186174</ee><url>https://dblp.org/rec/conf/www/AdhikariSZSP18</url></info>
+<url>URL#2354679</url>
+</hit>
+<hit score="1" id="2354680">
+<info><authors><author pid="167/2145">Daniel Agun</author><author pid="135/7121">Jinjin Shao</author><author pid="117/9197">Shiyu Ji</author><author pid="38/937">Stefano Tessaro</author><author pid="67/1120-9">Tao Yang 0009</author></authors><title>Privacy and Efficiency Tradeoffs for Multiword Top K Search with Linear Additive Rank Scoring.</title><venue>WWW</venue><pages>1725-1734</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/AgunSJT018</key><doi>10.1145/3178876.3186084</doi><ee>https://doi.org/10.1145/3178876.3186084</ee><url>https://dblp.org/rec/conf/www/AgunSJT018</url></info>
+<url>URL#2354680</url>
+</hit>
+<hit score="1" id="2354688">
+<info><authors><author pid="122/3298">Mário Almeida</author><author pid="60/2550-7">Muhammad Bilal 0007</author><author pid="09/2252">Alessandro Finamore</author><author pid="92/131">Ilias Leontiadis</author><author pid="97/6812">Yan Grunenberger</author><author pid="01/6280">Matteo Varvello</author><author pid="12/8780">Jeremy Blackburn</author></authors><title>CHIMP: Crowdsourcing Human Inputs for Mobile Phones.</title><venue>WWW</venue><pages>45-54</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/AlmeidaBFLGVB18</key><doi>10.1145/3178876.3186035</doi><ee>https://doi.org/10.1145/3178876.3186035</ee><url>https://dblp.org/rec/conf/www/AlmeidaBFLGVB18</url></info>
+<url>URL#2354688</url>
+</hit>
+<hit score="1" id="2354698">
+<info><authors><author pid="93/7474">Sajjad Arshad</author><author pid="119/3501">Seyed Ali Mirheidari</author><author pid="00/3175">Tobias Lauinger</author><author pid="c/BrunoCrispo">Bruno Crispo</author><author pid="k/EnginKirda">Engin Kirda</author><author pid="r/WilliamKRobertson">William K. Robertson</author></authors><title>Large-Scale Analysis of Style Injection by Relative Path Overwrite.</title><venue>WWW</venue><pages>237-246</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ArshadMLCKR18</key><doi>10.1145/3178876.3186090</doi><ee>https://doi.org/10.1145/3178876.3186090</ee><url>https://dblp.org/rec/conf/www/ArshadMLCKR18</url></info>
+<url>URL#2354698</url>
+</hit>
+<hit score="1" id="2354703">
+<info><authors><author pid="04/5911">Chen Avin</author><author pid="83/6824">Avi Cohen</author><author pid="74/3005">Pierre Fraigniaud</author><author pid="74/3704">Zvi Lotker</author><author pid="p/DavidPeleg">David Peleg</author></authors><title>Preferential Attachment as a Unique Equilibrium.</title><venue>WWW</venue><pages>559-568</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/AvinCFLP18</key><doi>10.1145/3178876.3186122</doi><ee>https://doi.org/10.1145/3178876.3186122</ee><url>https://dblp.org/rec/conf/www/AvinCFLP18</url></info>
+<url>URL#2354703</url>
+</hit>
+<hit score="1" id="2354708">
+<info><authors><author pid="24/9830">Yakov Babichenko</author><author pid="192/8202">Oren Dean</author><author pid="t/MosheTennenholtz">Moshe Tennenholtz</author></authors><title>Incentive-Compatible Diffusion.</title><venue>WWW</venue><pages>1379-1388</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/BabichenkoDT18</key><doi>10.1145/3178876.3186043</doi><ee>https://doi.org/10.1145/3178876.3186043</ee><url>https://dblp.org/rec/conf/www/BabichenkoDT18</url></info>
+<url>URL#2354708</url>
+</hit>
+<hit score="1" id="2354741">
+<info><authors><author pid="183/0940-1">Qingpeng Cai 0001</author><author pid="29/10537">Aris Filos-Ratsikas</author><author pid="96/3886">Pingzhong Tang</author><author pid="86/1695">Yiwei Zhang</author></authors><title>Reinforcement Mechanism Design for e-commerce.</title><venue>WWW</venue><pages>1339-1348</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/CaiFTZ18</key><doi>10.1145/3178876.3186039</doi><ee>https://doi.org/10.1145/3178876.3186039</ee><url>https://dblp.org/rec/conf/www/CaiFTZ18</url></info>
+<url>URL#2354741</url>
+</hit>
+<hit score="1" id="2354744">
+<info><authors><author pid="181/6218">Matteo Cannaviccio</author><author pid="b/DBarbosa">Denilson Barbosa 0001</author><author pid="m/PaoloMerialdo">Paolo Merialdo</author></authors><title>Towards Annotating Relational Data on the Web with Language Models.</title><venue>WWW</venue><pages>1307-1316</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/CannaviccioBM18</key><doi>10.1145/3178876.3186029</doi><ee>https://doi.org/10.1145/3178876.3186029</ee><url>https://dblp.org/rec/conf/www/CannaviccioBM18</url></info>
+<url>URL#2354744</url>
+</hit>
+<hit score="1" id="2354745">
+<info><authors><author pid="217/4359">Yixuan Cao</author><author pid="39/5544-2">Hongwei Li 0002</author><author pid="54/4989-1">Ping Luo 0001</author><author pid="217/4548">Jiaquan Yao</author></authors><title>Towards Automatic Numerical Cross-Checking: Extracting Formulas from Text.</title><venue>WWW</venue><pages>1795-1804</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/CaoLLY18</key><doi>10.1145/3178876.3186166</doi><ee>https://doi.org/10.1145/3178876.3186166</ee><url>https://dblp.org/rec/conf/www/CaoLLY18</url></info>
+<url>URL#2354745</url>
+</hit>
+<hit score="1" id="2354754">
+<info><authors><author pid="c/THHubertChan">T.-H. Hubert Chan</author><author pid="321/8379">Arnaud Guerquin</author><author pid="72/3698">Mauro Sozio</author></authors><title>Fully Dynamic k-Center Clustering.</title><venue>WWW</venue><pages>579-587</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChanGS18</key><doi>10.1145/3178876.3186124</doi><ee>https://doi.org/10.1145/3178876.3186124</ee><url>https://dblp.org/rec/conf/www/ChanGS18</url></info>
+<url>URL#2354754</url>
+</hit>
+<hit score="1" id="2354763">
+<info><authors><author pid="200/8104">Zhenpeng Chen</author><author pid="51/3865">Xuan Lu</author><author pid="40/9555">Wei Ai</author><author pid="162/9002">Huoran Li</author><author pid="30/5059">Qiaozhu Mei</author><author pid="08/2161">Xuanzhe Liu</author></authors><title>Through a Gender Lens: Learning Usage Patterns of Emojis from Large-Scale Android Users.</title><venue>WWW</venue><pages>763-772</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChenLALML18</key><doi>10.1145/3178876.3186157</doi><ee>https://doi.org/10.1145/3178876.3186157</ee><url>https://dblp.org/rec/conf/www/ChenLALML18</url></info>
+<url>URL#2354763</url>
+</hit>
+<hit score="1" id="2354765">
+<info><authors><author pid="151/8462">Hongshen Chen</author><author pid="58/10440">Zhaochun Ren</author><author pid="64/10812">Jiliang Tang</author><author pid="34/4111">Yihong Eric Zhao</author><author pid="91/4572">Dawei Yin</author></authors><title>Hierarchical Variational Memory Network for Dialogue Generation.</title><venue>WWW</venue><pages>1653-1662</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChenRTZY18</key><doi>10.1145/3178876.3186077</doi><ee>https://doi.org/10.1145/3178876.3186077</ee><url>https://dblp.org/rec/conf/www/ChenRTZY18</url></info>
+<url>URL#2354765</url>
+</hit>
+<hit score="1" id="2354768">
+<info><authors><author pid="96/7674">Weili Chen</author><author pid="z/ZibinZheng">Zibin Zheng</author><author pid="217/4520">Jiahui Cui</author><author pid="25/5713">Edith C. H. Ngai</author><author pid="217/4364">Peilin Zheng</author><author pid="86/3161">Yuren Zhou</author></authors><title>Detecting Ponzi Schemes on Ethereum: Towards Healthier Blockchain Technology.</title><venue>WWW</venue><pages>1409-1418</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChenZCNZZ18</key><doi>10.1145/3178876.3186046</doi><ee>https://doi.org/10.1145/3178876.3186046</ee><url>https://dblp.org/rec/conf/www/ChenZCNZZ18</url></info>
+<url>URL#2354768</url>
+</hit>
+<hit score="1" id="2354769">
+<info><authors><author pid="63/713-1">Chong Chen 0001</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="40/1949">Shaoping Ma</author></authors><title>Neural Attentional Rating Regression with Review-level Explanations.</title><venue>WWW</venue><pages>1583-1592</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChenZLM18</key><doi>10.1145/3178876.3186070</doi><ee>https://doi.org/10.1145/3178876.3186070</ee><url>https://dblp.org/rec/conf/www/ChenZLM18</url></info>
+<url>URL#2354769</url>
+</hit>
+<hit score="1" id="2354770">
+<info><authors><author pid="07/8503-1">Zhiyong Cheng 0001</author><author pid="38/6013">Ying Ding</author><author pid="99/549-2">Lei Zhu 0002</author><author pid="09/3613">Mohan S. Kankanhalli</author></authors><title>Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews.</title><venue>WWW</venue><pages>639-648</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChengDZK18</key><doi>10.1145/3178876.3186145</doi><ee>https://doi.org/10.1145/3178876.3186145</ee><url>https://dblp.org/rec/conf/www/ChengDZK18</url></info>
+<url>URL#2354770</url>
+</hit>
+<hit score="1" id="2354775">
+<info><authors><author pid="213/7792">Shaika Chowdhury</author><author pid="133/3207">Chenwei Zhang</author><author pid="y/PhilipSYu">Philip S. Yu</author></authors><title>Multi-Task Pharmacovigilance Mining from Social Media Posts.</title><venue>WWW</venue><pages>117-126</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChowdhuryZY18</key><doi>10.1145/3178876.3186053</doi><ee>https://doi.org/10.1145/3178876.3186053</ee><url>https://dblp.org/rec/conf/www/ChowdhuryZY18</url></info>
+<url>URL#2354775</url>
+</hit>
+<hit score="1" id="2354776">
+<info><authors><author pid="217/4431">Selin Chun</author><author pid="143/9348">Daejin Choi</author><author pid="94/7996">Jinyoung Han</author><author pid="82/7427">Huy Kang Kim</author><author pid="14/2293-1">Taekyoung Kwon 0001</author></authors><title>Unveiling a Socio-Economic System in a Virtual World: A Case Study of an MMORPG.</title><venue>WWW</venue><pages>1929-1938</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ChunCHK018</key><doi>10.1145/3178876.3186173</doi><ee>https://doi.org/10.1145/3178876.3186173</ee><url>https://dblp.org/rec/conf/www/ChunCHK018</url></info>
+<url>URL#2354776</url>
+</hit>
+<hit score="1" id="2354779">
+<info><authors><author pid="15/2528">Florin Constantin</author><author pid="130/4018">Christopher Harris</author><author pid="42/92">Samuel Ieong</author><author pid="23/6337">Aranyak Mehta</author><author pid="03/1584">Xi Tan</author></authors><title>Optimizing Ad Refresh In Mobile App Advertising.</title><venue>WWW</venue><pages>1399-1408</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ConstantinHIMT18</key><doi>10.1145/3178876.3186045</doi><ee>https://doi.org/10.1145/3178876.3186045</ee><url>https://dblp.org/rec/conf/www/ConstantinHIMT18</url></info>
+<url>URL#2354779</url>
+</hit>
+<hit score="1" id="2354787">
+<info><authors><author pid="133/8169">Maximilien Danisch</author><author pid="157/6439">Oana Balalau</author><author pid="72/3698">Mauro Sozio</author></authors><title>Listing k-cliques in Sparse Real-World Graphs.</title><venue>WWW</venue><pages>589-598</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/DanischBS18</key><doi>10.1145/3178876.3186125</doi><ee>https://doi.org/10.1145/3178876.3186125</ee><url>https://dblp.org/rec/conf/www/DanischBS18</url></info>
+<url>URL#2354787</url>
+</hit>
+<hit score="1" id="2354788">
+<info><authors><author pid="83/6359">Abhimanyu Das</author><author pid="g/SreenivasGollapudi">Sreenivas Gollapudi</author><author pid="64/8035">Anthony Kim</author><author pid="81/6547">Debmalya Panigrahi</author><author pid="99/662">Chaitanya Swamy</author></authors><title>Minimizing Latency in Online Ride and Delivery Services.</title><venue>WWW</venue><pages>379-388</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/DasGKPS18</key><doi>10.1145/3178876.3186104</doi><ee>https://doi.org/10.1145/3178876.3186104</ee><url>https://dblp.org/rec/conf/www/DasGKPS18</url></info>
+<url>URL#2354788</url>
+</hit>
+<hit score="1" id="2354791">
+<info><authors><author pid="118/7174">Abir De</author><author pid="64/6249">Sourangshu Bhattacharya</author><author pid="52/6987">Niloy Ganguly</author></authors><title>Demarcating Endogenous and Exogenous Opinion Diffusion Process on Social Networks.</title><venue>WWW</venue><pages>549-558</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/DeBG18</key><doi>10.1145/3178876.3186121</doi><ee>https://doi.org/10.1145/3178876.3186121</ee><url>https://dblp.org/rec/conf/www/DeBG18</url></info>
+<url>URL#2354791</url>
+</hit>
+<hit score="1" id="2354795">
+<info><authors><author pid="129/5661">Himel Dev</author><author pid="127/3058">Chase Geigle</author><author pid="156/9324">Qingtao Hu</author><author pid="211/6975">Jiahui Zheng</author><author pid="s/HariSundaram">Hari Sundaram</author></authors><title>The Size Conundrum: Why Online Knowledge Markets Can Fail at Scale.</title><venue>WWW</venue><pages>65-75</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/DevGHZS18</key><doi>10.1145/3178876.3186037</doi><ee>https://doi.org/10.1145/3178876.3186037</ee><url>https://dblp.org/rec/conf/www/DevGHZS18</url></info>
+<url>URL#2354795</url>
+</hit>
+<hit score="1" id="2354802">
+<info><authors><author pid="207/9949">Daizong Ding</author><author pid="84/2519-1">Mi Zhang 0001</author><author pid="71/7816">Xudong Pan</author><author pid="217/4508">Duocai Wu</author><author pid="76/2682">Pearl Pu</author></authors><title>Geographical Feature Extraction for Entities in Location-based Social Networks.</title><venue>WWW</venue><pages>833-842</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/DingZPWP18</key><doi>10.1145/3178876.3186131</doi><ee>https://doi.org/10.1145/3178876.3186131</ee><url>https://dblp.org/rec/conf/www/DingZPWP18</url></info>
+<url>URL#2354802</url>
+</hit>
+<hit score="1" id="2354803">
+<info><authors><author pid="118/9815">Martin Dittus</author><author pid="01/10083">Joss Wright</author><author pid="60/9168">Mark Graham</author></authors><title>Platform Criminalism: The &apos;Last-Mile&apos; Geography of the Darknet Market Supply Chain.</title><venue>WWW</venue><pages>277-286</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/DittusWG18</key><doi>10.1145/3178876.3186094</doi><ee>https://doi.org/10.1145/3178876.3186094</ee><url>https://dblp.org/rec/conf/www/DittusWG18</url></info>
+<url>URL#2354803</url>
+</hit>
+<hit score="1" id="2354806">
+<info><authors><author pid="172/0866">Abhimanyu Dubey</author><author pid="122/2977">Esteban Moro</author><author pid="c/ManuelCebrian">Manuel Cebrián</author><author pid="17/525">Iyad Rahwan</author></authors><title>MemeSequencer: Sparse Matching for Embedding Image Macros.</title><venue>WWW</venue><pages>1225-1235</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/DubeyMCR18</key><doi>10.1145/3178876.3186021</doi><ee>https://doi.org/10.1145/3178876.3186021</ee><url>https://dblp.org/rec/conf/www/DubeyMCR18</url></info>
+<url>URL#2354806</url>
+</hit>
+<hit score="1" id="2354809">
+<info><authors><author pid="161/3999">Talya Eden</author><author pid="74/2823-3">Shweta Jain 0003</author><author pid="40/3478">Ali Pinar</author><author pid="85/4800">Dana Ron</author><author pid="60/4210">C. Seshadhri 0001</author></authors><title>Provable and Practical Approximations for the Degree Distribution using Sublinear Graph Samples.</title><venue>WWW</venue><pages>449-458</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/EdenJPRS18</key><doi>10.1145/3178876.3186111</doi><ee>https://doi.org/10.1145/3178876.3186111</ee><url>https://dblp.org/rec/conf/www/EdenJPRS18</url></info>
+<url>URL#2354809</url>
+</hit>
+<hit score="1" id="2354811">
+<info><authors><author pid="130/0502">Chantat Eksombatchai</author><author pid="160/6545">Pranav Jindal</author><author pid="210/0898">Jerry Zitao Liu</author><author pid="69/10440">Yuchen Liu</author><author pid="22/846-1">Rahul Sharma 0001</author><author pid="210/0923">Charles Sugnet</author><author pid="32/9575">Mark Ulrich</author><author pid="l/JureLeskovec">Jure Leskovec</author></authors><title>Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time.</title><venue>WWW</venue><pages>1775-1784</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/EksombatchaiJLL18</key><doi>10.1145/3178876.3186183</doi><ee>https://doi.org/10.1145/3178876.3186183</ee><url>https://dblp.org/rec/conf/www/EksombatchaiJLL18</url></info>
+<url>URL#2354811</url>
+</hit>
+<hit score="1" id="2354815">
+<info><authors><author pid="58/7802">Alessandro Epasto</author><author pid="23/1799">Mohammad Mahdian</author><author pid="m/VahabSMirrokni">Vahab S. Mirrokni</author><author pid="123/4898">Song Zuo</author></authors><title>Incentive-Aware Learning for Large Markets.</title><venue>WWW</venue><pages>1369-1378</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/EpastoMMZ18</key><doi>10.1145/3178876.3186042</doi><ee>https://doi.org/10.1145/3178876.3186042</ee><url>https://dblp.org/rec/conf/www/EpastoMMZ18</url></info>
+<url>URL#2354815</url>
+</hit>
+<hit score="1" id="2354816">
+<info><authors><author pid="81/8780">Patrick Ernst</author><author pid="127/1469">Amy Siu</author><author pid="w/GerhardWeikum">Gerhard Weikum</author></authors><title>HighLife: Higher-arity Fact Harvesting.</title><venue>WWW</venue><pages>1013-1022</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ErnstSW18</key><doi>10.1145/3178876.3186000</doi><ee>https://doi.org/10.1145/3178876.3186000</ee><url>https://dblp.org/rec/conf/www/ErnstSW18</url></info>
+<url>URL#2354816</url>
+</hit>
+<hit score="1" id="2354821">
+<info><authors><author pid="63/8024">Ruslan R. Fayzrakhmanov</author><author pid="20/9117">Emanuel Sallinger</author><author pid="66/6114">Ben Spencer</author><author pid="f/TimFurche">Tim Furche</author><author pid="g/GeorgGottlob">Georg Gottlob</author></authors><title>Browserless Web Data Extraction: Challenges and Opportunities.</title><venue>WWW</venue><pages>1095-1104</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/FayzrakhmanovSS18</key><doi>10.1145/3178876.3186008</doi><ee>https://doi.org/10.1145/3178876.3186008</ee><url>https://dblp.org/rec/conf/www/FayzrakhmanovSS18</url></info>
+<url>URL#2354821</url>
+</hit>
+<hit score="1" id="2354822">
+<info><authors><author pid="183/9198">Fuli Feng</author><author pid="59/1007">Xiangnan He 0001</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="92/8277">Liqiang Nie</author><author pid="24/6606">Tat-Seng Chua</author></authors><title>Learning on Partial-Order Hypergraphs.</title><venue>WWW</venue><pages>1523-1532</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Feng0LNC18</key><doi>10.1145/3178876.3186064</doi><ee>https://doi.org/10.1145/3178876.3186064</ee><url>https://dblp.org/rec/conf/www/Feng0LNC18</url></info>
+<url>URL#2354822</url>
+</hit>
+<hit score="1" id="2354823">
+<info><authors><author pid="00/4883">Jun Feng</author><author pid="02/3672">Heng Li</author><author pid="47/6668">Minlie Huang</author><author pid="122/2750">Shichen Liu</author><author pid="198/5430">Wenwu Ou</author><author pid="37/4983">Zhirong Wang</author><author pid="50/1222-1">Xiaoyan Zhu 0001</author></authors><title>Learning to Collaborate: Multi-Scenario Ranking via Multi-Agent Reinforcement Learning.</title><venue>WWW</venue><pages>1939-1948</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/FengLHLOWZ18</key><doi>10.1145/3178876.3186165</doi><ee>https://doi.org/10.1145/3178876.3186165</ee><url>https://dblp.org/rec/conf/www/FengLHLOWZ18</url></info>
+<url>URL#2354823</url>
+</hit>
+<hit score="1" id="2354824">
+<info><authors><author pid="24/7003-2">Jie Feng 0002</author><author pid="93/2334-8">Yong Li 0008</author><author pid="94/3019-14">Chao Zhang 0014</author><author pid="217/4610">Funing Sun</author><author pid="11/7297">Fanchao Meng</author><author pid="22/2364">Ang Guo</author><author pid="46/5770">Depeng Jin</author></authors><title>DeepMove: Predicting Human Mobility with Attentional Recurrent Networks.</title><venue>WWW</venue><pages>1459-1468</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/FengLZSMGJ18</key><doi>10.1145/3178876.3186058</doi><ee>https://doi.org/10.1145/3178876.3186058</ee><url>https://dblp.org/rec/conf/www/FengLZSMGJ18</url></info>
+<url>URL#2354824</url>
+</hit>
+<hit score="1" id="2354833">
+<info><authors><author pid="166/5141">Hongchang Gao</author><author pid="53/1448">Deguang Kong</author><author pid="09/1168">Miao Lu</author><author pid="99/4833-2">Xiao Bai 0002</author><author pid="181/2854">Jian Yang</author></authors><title>Attention Convolutional Neural Network for Advertiser-level Click-through Rate Forecasting.</title><venue>WWW</venue><pages>1855-1864</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GaoKLBY18</key><doi>10.1145/3178876.3186184</doi><ee>https://doi.org/10.1145/3178876.3186184</ee><url>https://dblp.org/rec/conf/www/GaoKLBY18</url></info>
+<url>URL#2354833</url>
+</hit>
+<hit score="1" id="2354834">
+<info><authors><author pid="117/4298">Kiran Garimella</author><author pid="53/7323">Gianmarco De Francisci Morales</author><author pid="g/AristidesGionis">Aristides Gionis</author><author pid="80/3560">Michael Mathioudakis</author></authors><title>Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship.</title><venue>WWW</venue><pages>913-922</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GarimellaMGM18</key><doi>10.1145/3178876.3186139</doi><ee>https://doi.org/10.1145/3178876.3186139</ee><url>https://dblp.org/rec/conf/www/GarimellaMGM18</url></info>
+<url>URL#2354834</url>
+</hit>
+<hit score="1" id="2354841">
+<info><authors><author pid="118/2631">Nabeel Gillani</author><author pid="196/3767">Ann Yuan</author><author pid="138/9642">Martin Saveski</author><author pid="01/1709">Soroush Vosoughi</author><author pid="16/1529">Deb Roy</author></authors><title>Me, My Echo Chamber, and I: Introspection on Social Media Polarization.</title><venue>WWW</venue><pages>823-831</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GillaniYSVR18</key><doi>10.1145/3178876.3186130</doi><ee>https://doi.org/10.1145/3178876.3186130</ee><url>https://dblp.org/rec/conf/www/GillaniYSVR18</url></info>
+<url>URL#2354841</url>
+</hit>
+<hit score="1" id="2354842">
+<info><authors><author pid="217/4438">Alejandro Gómez-Boix</author><author pid="167/2160">Pierre Laperdrix</author><author pid="57/3320">Benoit Baudry</author></authors><title>Hiding in the Crowd: an Analysis of the Effectiveness of Browser Fingerprinting at Large Scale.</title><venue>WWW</venue><pages>309-318</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Gomez-BoixLB18</key><doi>10.1145/3178876.3186097</doi><ee>https://doi.org/10.1145/3178876.3186097</ee><url>https://dblp.org/rec/conf/www/Gomez-BoixLB18</url></info>
+<url>URL#2354842</url>
+</hit>
+<hit score="1" id="2354844">
+<info><authors><author pid="217/4413">Larry González</author><author pid="h/AidanHogan">Aidan Hogan</author></authors><title>Modelling Dynamics in Semantic Web Knowledge Graphs with Formal Concept Analysis.</title><venue>WWW</venue><pages>1175-1184</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GonzalezH18</key><doi>10.1145/3178876.3186016</doi><ee>https://doi.org/10.1145/3178876.3186016</ee><url>https://dblp.org/rec/conf/www/GonzalezH18</url></info>
+<url>URL#2354844</url>
+</hit>
+<hit score="1" id="2354848">
+<info><authors><author pid="g/AmyRGreenwald">Amy Greenwald</author><author pid="95/2782">Takehiro Oyakawa</author><author pid="32/8820">Vasilis Syrgkanis</author></authors><title>Simple vs Optimal Contests with Convex Costs.</title><venue>WWW</venue><pages>1429-1438</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GreenwaldOS18</key><doi>10.1145/3178876.3186048</doi><ee>https://doi.org/10.1145/3178876.3186048</ee><url>https://dblp.org/rec/conf/www/GreenwaldOS18</url></info>
+<url>URL#2354848</url>
+</hit>
+<hit score="1" id="2354849">
+<info><authors><author pid="202/9558">Nina Grgic-Hlaca</author><author pid="141/9244">Elissa M. Redmiles</author><author pid="g/PKrishnaGummadi">Krishna P. Gummadi</author><author pid="73/8324">Adrian Weller</author></authors><title>Human Perceptions of Fairness in Algorithmic Decision Making: A Case Study of Criminal Risk Prediction.</title><venue>WWW</venue><pages>903-912</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Grgic-HlacaRGW18</key><doi>10.1145/3178876.3186138</doi><ee>https://doi.org/10.1145/3178876.3186138</ee><url>https://dblp.org/rec/conf/www/Grgic-HlacaRGW18</url></info>
+<url>URL#2354849</url>
+</hit>
+<hit score="1" id="2354850">
+<info><authors><author pid="133/1786">Nir Grinberg</author></authors><title>Identifying Modes of User Engagement with Online News and Their Relationship to Information Gain in Text.</title><venue>WWW</venue><pages>1745-1754</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Grinberg18</key><doi>10.1145/3178876.3186180</doi><ee>https://doi.org/10.1145/3178876.3186180</ee><url>https://dblp.org/rec/conf/www/Grinberg18</url></info>
+<url>URL#2354850</url>
+</hit>
+<hit score="1" id="2354853">
+<info><authors><author pid="183/0983">Tobias Grubenmann</author><author pid="b/AbrahamBernstein">Abraham Bernstein</author><author pid="143/0794">Dmitry Moor</author><author pid="56/5151">Sven Seuken</author></authors><title>Financing the Web of Data with Delayed-Answer Auctions.</title><venue>WWW</venue><pages>1033-1042</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GrubenmannBMS18</key><doi>10.1145/3178876.3186002</doi><ee>https://doi.org/10.1145/3178876.3186002</ee><url>https://dblp.org/rec/conf/www/GrubenmannBMS18</url></info>
+<url>URL#2354853</url>
+</hit>
+<hit score="1" id="2354854">
+<info><authors><author pid="120/3829">Yupeng Gu</author><author pid="37/3868">Yizhou Sun</author><author pid="80/1263">Yanen Li</author><author pid="48/450-9">Yang Yang 0009</author></authors><title>RaRE: Social Rank Regulated Large-scale Network Embedding.</title><venue>WWW</venue><pages>359-368</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GuSL018</key><doi>10.1145/3178876.3186102</doi><ee>https://doi.org/10.1145/3178876.3186102</ee><url>https://dblp.org/rec/conf/www/GuSL018</url></info>
+<url>URL#2354854</url>
+</hit>
+<hit score="1" id="2354858">
+<info><authors><author pid="139/0768">Srishti Gupta</author><author pid="213/8221">Abhinav Khattar</author><author pid="215/3646">Arpit Gogia</author><author pid="97/5147">Ponnurangam Kumaraguru</author><author pid="65/2136-2">Tanmoy Chakraborty 0002</author></authors><title>Collective Classification of Spam Campaigners on Twitter: A Hierarchical Meta-Path Based Approach.</title><venue>WWW</venue><pages>529-538</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/GuptaKGK018</key><doi>10.1145/3178876.3186119</doi><ee>https://doi.org/10.1145/3178876.3186119</ee><url>https://dblp.org/rec/conf/www/GuptaKGK018</url></info>
+<url>URL#2354858</url>
+</hit>
+<hit score="1" id="2354863">
+<info><authors><author pid="29/3132">Olaf Hartig</author><author pid="12/6407-1">Jorge Pérez 0001</author></authors><title>Semantics and Complexity of GraphQL.</title><venue>WWW</venue><pages>1155-1164</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Hartig018</key><doi>10.1145/3178876.3186014</doi><ee>https://doi.org/10.1145/3178876.3186014</ee><url>https://dblp.org/rec/conf/www/Hartig018</url></info>
+<url>URL#2354863</url>
+</hit>
+<hit score="1" id="2354864">
+<info><authors><author pid="01/2636">Chikara Hashimoto</author><author pid="71/5325">Manabu Sassano</author></authors><title>Detecting Absurd Conversations from Intelligent Assistant Logs by Exploiting User Feedback Utterances.</title><venue>WWW</venue><pages>147-156</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/HashimotoS18</key><doi>10.1145/3178876.3185992</doi><ee>https://doi.org/10.1145/3178876.3185992</ee><url>https://dblp.org/rec/conf/www/HashimotoS18</url></info>
+<url>URL#2354864</url>
+</hit>
+<hit score="1" id="2354872">
+<info><authors><author pid="203/8952">Lily Hu</author><author pid="72/3762-1">Yiling Chen 0001</author></authors><title>A Short-term Intervention for Long-term Fairness in the Labor Market.</title><venue>WWW</venue><pages>1389-1398</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/HuC18</key><doi>10.1145/3178876.3186044</doi><ee>https://doi.org/10.1145/3178876.3186044</ee><url>https://dblp.org/rec/conf/www/HuC18</url></info>
+<url>URL#2354872</url>
+</hit>
+<hit score="1" id="2354875">
+<info><authors><author pid="74/3859-1">Hong Huang 0001</author><author pid="94/4810-10">Bo Zhao 0010</author><author pid="08/3737">Hao Zhao</author><author pid="217/4490">Zhou Zhuang</author><author pid="217/4493">Zhenxuan Wang</author><author pid="86/2068">Xiaoming Yao</author><author pid="95/3056">Xinggang Wang</author><author pid="98/4156">Hai Jin 0001</author><author pid="33/4231">Xiaoming Fu 0001</author></authors><title>A Cross-Platform Consumer Behavior Analysis of Large-Scale Mobile Shopping Data.</title><venue>WWW</venue><pages>1785-1794</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/HuangZZZWYWJ018</key><doi>10.1145/3178876.3186169</doi><ee>https://doi.org/10.1145/3178876.3186169</ee><url>https://dblp.org/rec/conf/www/HuangZZZWYWJ018</url></info>
+<url>URL#2354875</url>
+</hit>
+<hit score="1" id="2354877">
+<info><authors><author pid="36/9705">Patrick Hummel</author><author pid="14/5689">Uri Nadav</author></authors><title>Bid-Limited Targeting.</title><venue>WWW</venue><pages>1329-1338</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/HummelN18</key><doi>10.1145/3178876.3186038</doi><ee>https://doi.org/10.1145/3178876.3186038</ee><url>https://dblp.org/rec/conf/www/HummelN18</url></info>
+<url>URL#2354877</url>
+</hit>
+<hit score="1" id="2354886">
+<info><authors><author pid="202/6062">Youngbae Jeon</author><author pid="189/1176">Minchul Kim</author><author pid="25/1039">Hyunsoo Kim</author><author pid="64/5383">Hyoungshick Kim</author><author pid="58/3207">Jun Ho Huh</author><author pid="73/4861">Ji Won Yoon</author></authors><title>I&apos;m Listening to your Location! Inferring User Location with Acoustic Side Channels.</title><venue>WWW</venue><pages>339-348</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/JeonKKKHY18</key><doi>10.1145/3178876.3186100</doi><ee>https://doi.org/10.1145/3178876.3186100</ee><url>https://dblp.org/rec/conf/www/JeonKKKHY18</url></info>
+<url>URL#2354886</url>
+</hit>
+<hit score="1" id="2354889">
+<info><authors><author pid="190/7030">Yongzheng Jia</author><author pid="l/XueLiu">Xue Liu 0001</author><author pid="32/1213">Wei Xu</author></authors><title>When Online Dating Meets Nash Social Welfare: Achieving Efficiency and Fairness.</title><venue>WWW</venue><pages>429-438</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/JiaLX18</key><doi>10.1145/3178876.3186109</doi><ee>https://doi.org/10.1145/3178876.3186109</ee><url>https://dblp.org/rec/conf/www/JiaLX18</url></info>
+<url>URL#2354889</url>
+</hit>
+<hit score="1" id="2354890">
+<info><authors><author pid="04/2910-8">Shan Jiang 0008</author><author pid="19/576">Le Chen</author><author pid="31/3833">Alan Mislove</author><author pid="79/5135">Christo Wilson</author></authors><title>On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi.</title><venue>WWW</venue><pages>863-872</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/JiangCMW18</key><doi>10.1145/3178876.3186134</doi><ee>https://doi.org/10.1145/3178876.3186134</ee><url>https://dblp.org/rec/conf/www/JiangCMW18</url></info>
+<url>URL#2354890</url>
+</hit>
+<hit score="1" id="2354892">
+<info><authors><author pid="211/7571">Yunhao Jiao</author><author pid="16/6465-12">Cheng Li 0012</author><author pid="84/3254-1">Fei Wu 0001</author><author pid="30/5059">Qiaozhu Mei</author></authors><title>Find the Conversation Killers: A Predictive Study of Thread-ending Posts.</title><venue>WWW</venue><pages>1145-1154</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/JiaoL0M18</key><doi>10.1145/3178876.3186013</doi><ee>https://doi.org/10.1145/3178876.3186013</ee><url>https://dblp.org/rec/conf/www/JiaoL0M18</url></info>
+<url>URL#2354892</url>
+</hit>
+<hit score="1" id="2354899">
+<info><authors><author pid="61/7404">Ehsan Kamalloo</author><author pid="r/DRafiei">Davood Rafiei</author></authors><title>A Coherent Unsupervised Model for Toponym Resolution.</title><venue>WWW</venue><pages>1287-1296</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KamallooR18</key><doi>10.1145/3178876.3186027</doi><ee>https://doi.org/10.1145/3178876.3186027</ee><url>https://dblp.org/rec/conf/www/KamallooR18</url></info>
+<url>URL#2354899</url>
+</hit>
+<hit score="1" id="2354904">
+<info><authors><author pid="150/5408">Payam Karisani</author><author pid="26/1185">Eugene Agichtein</author></authors><title>Did You Really Just Have a Heart Attack?: Towards Robust Detection of Personal Health Mentions in Social Media.</title><venue>WWW</venue><pages>137-146</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KarisaniA18</key><doi>10.1145/3178876.3186055</doi><ee>https://doi.org/10.1145/3178876.3186055</ee><url>https://dblp.org/rec/conf/www/KarisaniA18</url></info>
+<url>URL#2354904</url>
+</hit>
+<hit score="1" id="2354908">
+<info><authors><author pid="13/4939">Junghwan Kim</author><author pid="205/2860">Haekyu Park</author><author pid="159/3814">Ji-Eun Lee</author><author pid="13/7122">U Kang</author></authors><title>SIDE: Representation Learning in Signed Directed Networks.</title><venue>WWW</venue><pages>509-518</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KimPLK18</key><doi>10.1145/3178876.3186117</doi><ee>https://doi.org/10.1145/3178876.3186117</ee><url>https://dblp.org/rec/conf/www/KimPLK18</url></info>
+<url>URL#2354908</url>
+</hit>
+<hit score="1" id="2354909">
+<info><authors><author pid="174/2864">I Luk Kim</author><author pid="57/7210-1">Weihang Wang 0001</author><author pid="139/7034">Yonghwi Kwon 0001</author><author pid="47/702">Yunhui Zheng</author><author pid="138/6356">Yousra Aafer</author><author pid="207/7188">Weijie Meng</author><author pid="95/3760-1">Xiangyu Zhang 0001</author></authors><title>AdBudgetKiller: Online Advertising Budget Draining Attack.</title><venue>WWW</venue><pages>297-307</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KimWKZAMZ18</key><doi>10.1145/3178876.3186096</doi><ee>https://doi.org/10.1145/3178876.3186096</ee><url>https://dblp.org/rec/conf/www/KimWKZAMZ18</url></info>
+<url>URL#2354909</url>
+</hit>
+<hit score="1" id="2354923">
+<info><authors><author pid="208/0992">Emmanouil Krasanakis</author><author pid="50/2183">Eleftherios Spyromitros Xioufis</author><author pid="38/3754">Symeon Papadopoulos</author><author pid="k/YiannisKompatsiaris">Yiannis Kompatsiaris</author></authors><title>Adaptive Sensitive Reweighting to Mitigate Bias in Fairness-aware Classification.</title><venue>WWW</venue><pages>853-862</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KrasanakisXPK18</key><doi>10.1145/3178876.3186133</doi><ee>https://doi.org/10.1145/3178876.3186133</ee><url>https://dblp.org/rec/conf/www/KrasanakisXPK18</url></info>
+<url>URL#2354923</url>
+</hit>
+<hit score="1" id="2354924">
+<info><authors><author pid="192/8647">Klaudia Krawiecka</author><author pid="163/8608">Arseny Kurnikov</author><author pid="30/9784">Andrew Paverd</author><author pid="m/MohammadMannan">Mohammad Mannan</author><author pid="39/2508">N. Asokan</author></authors><title>SafeKeeper: Protecting Web Passwords using Trusted Execution Environments.</title><venue>WWW</venue><pages>349-358</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KrawieckaKPMA18</key><doi>10.1145/3178876.3186101</doi><ee>https://doi.org/10.1145/3178876.3186101</ee><url>https://dblp.org/rec/conf/www/KrawieckaKPMA18</url></info>
+<url>URL#2354924</url>
+</hit>
+<hit score="1" id="2354925">
+<info><authors><author pid="206/6421">Evgeny Krivosheev</author><author pid="c/FabioCasati">Fabio Casati</author><author pid="b/BoualemBenatallah">Boualem Benatallah</author></authors><title>Crowd-based Multi-Predicate Screening of Papers in Literature Reviews.</title><venue>WWW</venue><pages>55-64</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KrivosheevCB18</key><doi>10.1145/3178876.3186036</doi><ee>https://doi.org/10.1145/3178876.3186036</ee><url>https://dblp.org/rec/conf/www/KrivosheevCB18</url></info>
+<url>URL#2354925</url>
+</hit>
+<hit score="1" id="2354928">
+<info><authors><author pid="131/9628">Srijan Kumar</author><author pid="137/3314">William L. Hamilton</author><author pid="l/JureLeskovec">Jure Leskovec</author><author pid="31/985">Dan Jurafsky</author></authors><title>Community Interaction and Conflict on the Web.</title><venue>WWW</venue><pages>933-943</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KumarHLJ18</key><doi>10.1145/3178876.3186141</doi><ee>https://doi.org/10.1145/3178876.3186141</ee><url>https://dblp.org/rec/conf/www/KumarHLJ18</url></info>
+<url>URL#2354928</url>
+</hit>
+<hit score="1" id="2354931">
+<info><authors><author pid="71/1725">Takeshi Kurashima</author><author pid="119/1352">Tim Althoff</author><author pid="l/JureLeskovec">Jure Leskovec</author></authors><title>Modeling Interdependent and Periodic Real-World Action Sequences.</title><venue>WWW</venue><pages>803-812</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KurashimaAL18</key><doi>10.1145/3178876.3186161</doi><ee>https://doi.org/10.1145/3178876.3186161</ee><url>https://dblp.org/rec/conf/www/KurashimaAL18</url></info>
+<url>URL#2354931</url>
+</hit>
+<hit score="1" id="2354933">
+<info><authors><author pid="124/5843">Tomasz Kusmierczyk</author><author pid="73/8260">Manuel Gomez-Rodriguez</author></authors><title>On the Causal Effect of Badges.</title><venue>WWW</venue><pages>659-668</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KusmierczykG18</key><doi>10.1145/3178876.3186147</doi><ee>https://doi.org/10.1145/3178876.3186147</ee><url>https://dblp.org/rec/conf/www/KusmierczykG18</url></info>
+<url>URL#2354933</url>
+</hit>
+<hit score="1" id="2354934">
+<info><authors><author pid="92/5526">Branislav Kveton</author><author pid="m/SMuthukrishnan">S. Muthukrishnan 0001</author><author pid="162/0100">Hoa T. Vu</author><author pid="151/4542">Yikun Xian</author></authors><title>Finding Subcube Heavy Hitters in Analytics Data Streams.</title><venue>WWW</venue><pages>1705-1714</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KvetonMVX18</key><doi>10.1145/3178876.3186082</doi><ee>https://doi.org/10.1145/3178876.3186082</ee><url>https://dblp.org/rec/conf/www/KvetonMVX18</url></info>
+<url>URL#2354934</url>
+</hit>
+<hit score="1" id="2354935">
+<info><authors><author pid="78/2468">Haewoon Kwak</author><author pid="19/7354">Jisun An</author><author pid="131/9595">Joni Salminen</author><author pid="163/9130">Soon-Gyo Jung</author><author pid="00/4818">Bernard J. Jansen</author></authors><title>What We Read, What We Search: Media Attention and Public Attention Among 193 Countries.</title><venue>WWW</venue><pages>893-902</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/KwakASJJ18</key><doi>10.1145/3178876.3186137</doi><ee>https://doi.org/10.1145/3178876.3186137</ee><url>https://dblp.org/rec/conf/www/KwakASJJ18</url></info>
+<url>URL#2354935</url>
+</hit>
+<hit score="1" id="2354936">
+<info><authors><author pid="41/1766">Sébastien Lahaie</author><author pid="10/11472">Andrés Muñoz Medina</author><author pid="13/1446">Balasubramanian Sivan</author><author pid="31/6854">Sergei Vassilvitskii</author></authors><title>Testing Incentive Compatibility in Display Ad Auctions.</title><venue>WWW</venue><pages>1419-1428</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LahaieMSV18</key><doi>10.1145/3178876.3186047</doi><ee>https://doi.org/10.1145/3178876.3186047</ee><url>https://dblp.org/rec/conf/www/LahaieMSV18</url></info>
+<url>URL#2354936</url>
+</hit>
+<hit score="1" id="2354938">
+<info><authors><author pid="182/2186">Ricky Laishram</author><author pid="74/10954">Ahmet Erdem Sariyüce</author><author pid="e/TinaEliassiRad">Tina Eliassi-Rad</author><author pid="40/3478">Ali Pinar</author><author pid="80/8173">Sucheta Soundarajan</author></authors><title>Measuring and Improving the Core Resilience of Networks.</title><venue>WWW</venue><pages>609-618</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LaishramSEPS18</key><doi>10.1145/3178876.3186127</doi><ee>https://doi.org/10.1145/3178876.3186127</ee><url>https://dblp.org/rec/conf/www/LaishramSEPS18</url></info>
+<url>URL#2354938</url>
+</hit>
+<hit score="1" id="2354939">
+<info><authors><author pid="147/2938">Jonathan Lajus</author><author pid="13/1396">Fabian M. Suchanek</author></authors><title>Are All People Married?: Determining Obligatory Attributes in Knowledge Bases.</title><venue>WWW</venue><pages>1115-1124</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LajusS18</key><doi>10.1145/3178876.3186010</doi><ee>https://doi.org/10.1145/3178876.3186010</ee><url>https://dblp.org/rec/conf/www/LajusS18</url></info>
+<url>URL#2354939</url>
+</hit>
+<hit score="1" id="2354942">
+<info><authors><author pid="184/2575">Gael Lederrey</author><author pid="20/7441-1">Robert West 0001</author></authors><title>When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments.</title><venue>WWW</venue><pages>793-802</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LederreyW18</key><doi>10.1145/3178876.3186160</doi><ee>https://doi.org/10.1145/3178876.3186160</ee><url>https://dblp.org/rec/conf/www/LederreyW18</url></info>
+<url>URL#2354942</url>
+</hit>
+<hit score="1" id="2354943">
+<info><authors><author pid="217/4341">Youngnam Lee</author><author pid="64/5810">Sang-Wook Kim</author><author pid="19/6392">Sunju Park</author><author pid="08/6809-1">Xing Xie 0001</author></authors><title>How to Impute Missing Ratings?: Claims, Solution, and Its Application to Collaborative Filtering.</title><venue>WWW</venue><pages>783-792</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LeeKPX18</key><doi>10.1145/3178876.3186159</doi><ee>https://doi.org/10.1145/3178876.3186159</ee><url>https://dblp.org/rec/conf/www/LeeKPX18</url></info>
+<url>URL#2354943</url>
+</hit>
+<hit score="1" id="2354945">
+<info><authors><author pid="39/8282">Eunjo Lee</author><author pid="119/3771">Jiyoung Woo</author><author pid="64/5383">Hyoungshick Kim</author><author pid="82/7427">Huy Kang Kim</author></authors><title>No Silk Road for Online Gamers!: Using Social Network Analysis to Unveil Black Markets in Online Games.</title><venue>WWW</venue><pages>1825-1834</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LeeWKK18</key><doi>10.1145/3178876.3186177</doi><ee>https://doi.org/10.1145/3178876.3186177</ee><url>https://dblp.org/rec/conf/www/LeeWKK18</url></info>
+<url>URL#2354945</url>
+</hit>
+<hit score="1" id="2354949">
+<info><authors><author pid="158/7995">Conglong Li</author><author pid="a/DavidGAndersen">David G. Andersen</author><author pid="17/1352">Qiang Fu</author><author pid="18/1967">Sameh Elnikety</author><author pid="50/174">Yuxiong He</author></authors><title>Better Caching in Search Advertising Systems with Rapid Refresh Predictions.</title><venue>WWW</venue><pages>1875-1884</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiAFEH18</key><doi>10.1145/3178876.3186176</doi><ee>https://doi.org/10.1145/3178876.3186176</ee><url>https://dblp.org/rec/conf/www/LiAFEH18</url></info>
+<url>URL#2354949</url>
+</hit>
+<hit score="1" id="2354950">
+<info><authors><author pid="254/0830-2">Dongsheng Li 0002</author><author pid="66/3019-16">Chao Chen 0016</author><author pid="11/808">Qin Lv</author><author pid="00/7447">Hansu Gu</author><author pid="41/2472">Tun Lu</author><author pid="32/4492">Li Shang</author><author pid="68/3554">Ning Gu</author><author pid="48/752">Stephen M. Chu</author></authors><title>AdaError: An Adaptive Learning Rate Method for Matrix Approximation-based Collaborative Filtering.</title><venue>WWW</venue><pages>741-751</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiCLGLSGC18</key><doi>10.1145/3178876.3186155</doi><ee>https://doi.org/10.1145/3178876.3186155</ee><url>https://dblp.org/rec/conf/www/LiCLGLSGC18</url></info>
+<url>URL#2354950</url>
+</hit>
+<hit score="1" id="2354952">
+<info><authors><author pid="40/1491-67">Xiang Li 0067</author><author pid="k/BenKao">Ben Kao</author><author pid="117/5965">Siqiang Luo</author><author pid="e/MartinEster">Martin Ester</author></authors><title>ROSC: Robust Spectral Clustering on Multi-scale Data.</title><venue>WWW</venue><pages>157-166</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiKLE18</key><doi>10.1145/3178876.3185993</doi><ee>https://doi.org/10.1145/3178876.3185993</ee><url>https://dblp.org/rec/conf/www/LiKLE18</url></info>
+<url>URL#2354952</url>
+</hit>
+<hit score="1" id="2354955">
+<info><authors><author pid="144/7997">Jundong Li</author><author pid="64/10812">Jiliang Tang</author><author pid="47/3464-2">Yilin Wang 0002</author><author pid="178/3293">Yali Wan</author><author pid="02/5438">Yi Chang 0001</author><author pid="92/309-1">Huan Liu 0001</author></authors><title>Understanding and Predicting Delay in Reciprocal Relations.</title><venue>WWW</venue><pages>1643-1652</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiTWWC018</key><doi>10.1145/3178876.3186076</doi><ee>https://doi.org/10.1145/3178876.3186076</ee><url>https://dblp.org/rec/conf/www/LiTWWC018</url></info>
+<url>URL#2354955</url>
+</hit>
+<hit score="1" id="2354957">
+<info><authors><author pid="63/10572">Dawen Liang</author><author pid="172/0880">Rahul G. Krishnan</author><author pid="07/4433">Matthew D. Hoffman</author><author pid="43/4734">Tony Jebara</author></authors><title>Variational Autoencoders for Collaborative Filtering.</title><venue>WWW</venue><pages>689-698</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiangKHJ18</key><doi>10.1145/3178876.3186150</doi><ee>https://doi.org/10.1145/3178876.3186150</ee><url>https://dblp.org/rec/conf/www/LiangKHJ18</url></info>
+<url>URL#2354957</url>
+</hit>
+<hit score="1" id="2354959">
+<info><authors><author pid="57/7731">Shangsong Liang</author><author pid="69/4432">Ilya Markov</author><author pid="58/10440">Zhaochun Ren</author><author pid="r/MdRijke">Maarten de Rijke</author></authors><title>Manifold Learning for Rank Aggregation.</title><venue>WWW</venue><pages>1735-1744</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiangMRR18</key><doi>10.1145/3178876.3186085</doi><ee>https://doi.org/10.1145/3178876.3186085</ee><url>https://dblp.org/rec/conf/www/LiangMRR18</url></info>
+<url>URL#2354959</url>
+</hit>
+<hit score="1" id="2354960">
+<info><authors><author pid="159/8538">Timothy Libert</author></authors><title>An Automated Approach to Auditing Disclosure of Third-Party Data Collection in Website Privacy Policies.</title><venue>WWW</venue><pages>207-216</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Libert18</key><doi>10.1145/3178876.3186087</doi><ee>https://doi.org/10.1145/3178876.3186087</ee><url>https://dblp.org/rec/conf/www/Libert18</url></info>
+<url>URL#2354960</url>
+</hit>
+<hit score="1" id="2354961">
+<info><authors><author pid="151/3203">Moshe Lichman</author><author pid="s/PadhraicSmyth">Padhraic Smyth</author></authors><title>Prediction of Sparse User-Item Consumption Rates with Zero-Inflated Poisson Regression.</title><venue>WWW</venue><pages>719-728</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LichmanS18</key><doi>10.1145/3178876.3186153</doi><ee>https://doi.org/10.1145/3178876.3186153</ee><url>https://dblp.org/rec/conf/www/LichmanS18</url></info>
+<url>URL#2354961</url>
+</hit>
+<hit score="1" id="2354964">
+<info><authors><author pid="09/1280-2">Xiao Lin 0002</author><author pid="203/4474">Wenpeng Zhang 0003</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="97/6308-1">Wenwu Zhu 0001</author><author pid="p/JianPei">Jian Pei</author><author pid="84/8411">Peilin Zhao</author><author pid="22/1170">Junzhou Huang</author></authors><title>Online Compact Convexified Factorization Machine.</title><venue>WWW</venue><pages>1633-1642</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Lin0Z0PZH18</key><doi>10.1145/3178876.3186075</doi><ee>https://doi.org/10.1145/3178876.3186075</ee><url>https://dblp.org/rec/conf/www/Lin0Z0PZH18</url></info>
+<url>URL#2354964</url>
+</hit>
+<hit score="1" id="2354966">
+<info><authors><author pid="179/4615">Allen Yilun Lin</author><author pid="217/4410">Joshua Ford</author><author pid="a/EytanAdar">Eytan Adar</author><author pid="85/1374">Brent J. Hecht</author></authors><title>VizByWiki: Mining Data Visualizations from the Web to Enrich News Articles.</title><venue>WWW</venue><pages>873-882</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LinFAH18</key><doi>10.1145/3178876.3186135</doi><ee>https://doi.org/10.1145/3178876.3186135</ee><url>https://dblp.org/rec/conf/www/LinFAH18</url></info>
+<url>URL#2354966</url>
+</hit>
+<hit score="1" id="2354968">
+<info><authors><author pid="160/1563">Yusan Lin</author><author pid="66/8700">Peifeng Yin</author><author pid="14/716">Wang-Chien Lee</author></authors><title>Modeling Dynamic Competition on Crowdfunding Markets.</title><venue>WWW</venue><pages>1815-1824</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LinYL18</key><doi>10.1145/3178876.3186170</doi><ee>https://doi.org/10.1145/3178876.3186170</ee><url>https://dblp.org/rec/conf/www/LinYL18</url></info>
+<url>URL#2354968</url>
+</hit>
+<hit score="1" id="2354971">
+<info><authors><author pid="143/0651">Mengyang Liu</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="174/8367">Jiaxin Mao</author><author pid="68/6443-1">Cheng Luo 0001</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="40/1949">Shaoping Ma</author></authors><title>&quot;Satisfaction with Failure&quot; or &quot;Unsatisfied Success&quot;: Investigating the Relationship between Search Success and User Satisfaction.</title><venue>WWW</venue><pages>1533-1542</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiuLMLZM18</key><doi>10.1145/3178876.3186065</doi><ee>https://doi.org/10.1145/3178876.3186065</ee><url>https://dblp.org/rec/conf/www/LiuLMLZM18</url></info>
+<url>URL#2354971</url>
+</hit>
+<hit score="1" id="2354972">
+<info><authors><author pid="38/700">Bang Liu</author><author pid="06/5919">Ting Zhang</author><author pid="217/1848">Fred X. Han</author><author pid="82/4953">Di Niu</author><author pid="00/7911">Kunfeng Lai</author><author pid="27/0">Yu Xu</author></authors><title>Matching Natural Language Sentences with Hierarchical Sentence Factorization.</title><venue>WWW</venue><pages>1237-1246</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiuZHNLX18</key><doi>10.1145/3178876.3186022</doi><ee>https://doi.org/10.1145/3178876.3186022</ee><url>https://dblp.org/rec/conf/www/LiuZHNLX18</url></info>
+<url>URL#2354972</url>
+</hit>
+<hit score="1" id="2354973">
+<info><authors><author pid="48/6001-3">Qiao Liu 0003</author><author pid="22/1887">Haibin Zhang</author><author pid="183/7934">Yifu Zeng</author><author pid="159/4681">Ziqi Huang</author><author pid="217/4384">Zufeng Wu</author></authors><title>Content Attention Model for Aspect Based Sentiment Analysis.</title><venue>WWW</venue><pages>1023-1032</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiuZZHW18</key><doi>10.1145/3178876.3186001</doi><ee>https://doi.org/10.1145/3178876.3186001</ee><url>https://dblp.org/rec/conf/www/LiuZZHW18</url></info>
+<url>URL#2354973</url>
+</hit>
+<hit score="1" id="2354974">
+<info><authors><author pid="36/6192">Zemin Liu</author><author pid="47/1961">Vincent W. Zheng</author><author pid="75/7785">Zhou Zhao</author><author pid="69/3036">Hongxia Yang</author><author pid="c/KCCChang">Kevin Chen-Chuan Chang</author><author pid="97/6864">Minghui Wu</author><author pid="46/136">Jing Ying</author></authors><title>Subgraph-augmented Path Embedding for Semantic User Search on Heterogeneous Social Network.</title><venue>WWW</venue><pages>1613-1622</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LiuZZYCWY18</key><doi>10.1145/3178876.3186073</doi><ee>https://doi.org/10.1145/3178876.3186073</ee><url>https://dblp.org/rec/conf/www/LiuZZYCWY18</url></info>
+<url>URL#2354974</url>
+</hit>
+<hit score="1" id="2354976">
+<info><authors><author pid="96/9436">Chun-Ta Lu</author><author pid="129/8146">Lifang He 0001</author><author pid="54/4139-3">Hao Ding 0003</author><author pid="130/3949">Bokai Cao</author><author pid="y/PhilipSYu">Philip S. Yu</author></authors><title>Learning from Multi-View Multi-Way Data via Structural Factorization Machines.</title><venue>WWW</venue><pages>1593-1602</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Lu0DCY18</key><doi>10.1145/3178876.3186071</doi><ee>https://doi.org/10.1145/3178876.3186071</ee><url>https://dblp.org/rec/conf/www/Lu0DCY18</url></info>
+<url>URL#2354976</url>
+</hit>
+<hit score="1" id="2354977">
+<info><authors><author pid="68/10509">Yichao Lu</author><author pid="94/11082">Ruihai Dong</author><author pid="s/BarrySmyth">Barry Smyth</author></authors><title>Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews.</title><venue>WWW</venue><pages>773-782</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LuDS18</key><doi>10.1145/3178876.3186158</doi><ee>https://doi.org/10.1145/3178876.3186158</ee><url>https://dblp.org/rec/conf/www/LuDS18</url></info>
+<url>URL#2354977</url>
+</hit>
+<hit score="1" id="2354979">
+<info><authors><author pid="217/4627">Washington Luiz</author><author pid="117/4613">Felipe Viegas</author><author pid="99/9240">Rafael Odon de Alencar</author><author pid="69/4337">Fernando Mourão</author><author pid="62/7444">Thiago Salles</author><author pid="25/9066">Dárlinton B. F. Carvalho</author><author pid="45/1395">Marcos André Gonçalves</author><author pid="89/1792">Leonardo Rocha 0001</author></authors><title>A Feature-Oriented Sentiment Rating for Mobile App Reviews.</title><venue>WWW</venue><pages>1909-1918</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LuizVAMSCGR18</key><doi>10.1145/3178876.3186168</doi><ee>https://doi.org/10.1145/3178876.3186168</ee><url>https://dblp.org/rec/conf/www/LuizVAMSCGR18</url></info>
+<url>URL#2354979</url>
+</hit>
+<hit score="1" id="2354980">
+<info><authors><author pid="46/4719-1">Chen Luo 0001</author><author pid="63/9828">Anshumali Shrivastava</author></authors><title>Arrays of (locality-sensitive) Count Estimators (ACE): Anomaly Detection on the Edge.</title><venue>WWW</venue><pages>1439-1448</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LuoS18</key><doi>10.1145/3178876.3186056</doi><ee>https://doi.org/10.1145/3178876.3186056</ee><url>https://dblp.org/rec/conf/www/LuoS18</url></info>
+<url>URL#2354980</url>
+</hit>
+<hit score="1" id="2354981">
+<info><authors><author pid="53/5106-6">Xin Luo 0006</author><author pid="50/3141">Ye Wu</author><author pid="90/10573">Xin-Shun Xu</author></authors><title>Scalable Supervised Discrete Hashing for Large-Scale Search.</title><venue>WWW</venue><pages>1603-1612</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/LuoWX18</key><doi>10.1145/3178876.3186072</doi><ee>https://doi.org/10.1145/3178876.3186072</ee><url>https://dblp.org/rec/conf/www/LuoWX18</url></info>
+<url>URL#2354981</url>
+</hit>
+<hit score="1" id="2354984">
+<info><authors><author pid="166/0023">Denghao Ma</author><author pid="40/3980">Yueguo Chen</author><author pid="c/KCCChang">Kevin Chen-Chuan Chang</author><author pid="47/3542-1">Xiaoyong Du 0001</author><author pid="80/7820">Chuanfei Xu</author><author pid="02/5438">Yi Chang 0001</author></authors><title>Leveraging Fine-Grained Wikipedia Categories for Entity Search.</title><venue>WWW</venue><pages>1623-1632</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MaCCDXC18</key><doi>10.1145/3178876.3186074</doi><ee>https://doi.org/10.1145/3178876.3186074</ee><url>https://dblp.org/rec/conf/www/MaCCDXC18</url></info>
+<url>URL#2354984</url>
+</hit>
+<hit score="1" id="2354985">
+<info><authors><author pid="35/573">Xiao Ma</author><author pid="215/5033">Megan Cackett</author><author pid="215/4974">Leslie Park</author><author pid="145/6860">Eric Chien</author><author pid="42/241">Mor Naaman</author></authors><title>Web-Based VR Experiments Powered by the Crowd.</title><venue>WWW</venue><pages>33-43</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MaCPCN18</key><doi>10.1145/3178876.3186034</doi><ee>https://doi.org/10.1145/3178876.3186034</ee><url>https://dblp.org/rec/conf/www/MaCPCN18</url></info>
+<url>URL#2354985</url>
+</hit>
+<hit score="1" id="2354987">
+<info><authors><author pid="75/7811-2">Yun Ma 0002</author><author pid="180/5436">Ziniu Hu</author><author pid="55/3521">Yunxin Liu</author><author pid="x/TaoXie">Tao Xie 0001</author><author pid="08/2161">Xuanzhe Liu</author></authors><title>Aladdin: Automating Release of Deep-Link APIs on Android.</title><venue>WWW</venue><pages>1469-1478</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MaHL0L18</key><doi>10.1145/3178876.3186059</doi><ee>https://doi.org/10.1145/3178876.3186059</ee><url>https://dblp.org/rec/conf/www/MaHL0L18</url></info>
+<url>URL#2354987</url>
+</hit>
+<hit score="1" id="2354988">
+<info><authors><author pid="141/2242">Abram N. Magner</author><author pid="88/10237">Jithin K. Sreedharan</author><author pid="g/AnanthGrama">Ananth Y. Grama</author><author pid="s/WSzpankowski">Wojciech Szpankowski</author></authors><title>TIMES: Temporal Information Maximally Extracted from Structures.</title><venue>WWW</venue><pages>389-398</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MagnerSGS18</key><doi>10.1145/3178876.3186105</doi><ee>https://doi.org/10.1145/3178876.3186105</ee><url>https://dblp.org/rec/conf/www/MagnerSGS18</url></info>
+<url>URL#2354988</url>
+</hit>
+<hit score="1" id="2354996">
+<info><authors><author pid="46/10259">Eric Malmi</author><author pid="g/AristidesGionis">Aristides Gionis</author><author pid="98/11225">Arno Solin</author></authors><title>Computationally Inferred Genealogical Networks Uncover Long-Term Trends in Assortative Mating.</title><venue>WWW</venue><pages>883-892</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MalmiGS18</key><doi>10.1145/3178876.3186136</doi><ee>https://doi.org/10.1145/3178876.3186136</ee><url>https://dblp.org/rec/conf/www/MalmiGS18</url></info>
+<url>URL#2354996</url>
+</hit>
+<hit score="1" id="2355004">
+<info><authors><author pid="80/10811">Rahat Masood</author><author pid="89/7958">Dinusha Vatsalan</author><author pid="72/7208-1">Muhammad Ikram 0001</author><author pid="71/5612">Mohamed Ali Kâafar</author></authors><title>Incognito: A Method for Obfuscating Web Data.</title><venue>WWW</venue><pages>267-276</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MasoodVIK18</key><doi>10.1145/3178876.3186093</doi><ee>https://doi.org/10.1145/3178876.3186093</ee><url>https://dblp.org/rec/conf/www/MasoodVIK18</url></info>
+<url>URL#2355004</url>
+</hit>
+<hit score="1" id="2355007">
+<info><authors><author pid="87/1537">Haim Mendelson</author><author pid="217/0601">Ken Moon</author></authors><title>Modeling Success and Engagement for the App Economy.</title><venue>WWW</venue><pages>569-578</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MendelsonM18</key><doi>10.1145/3178876.3186123</doi><ee>https://doi.org/10.1145/3178876.3186123</ee><url>https://dblp.org/rec/conf/www/MendelsonM18</url></info>
+<url>URL#2355007</url>
+</hit>
+<hit score="1" id="2355008">
+<info><authors><author pid="167/4353">Abner Mendoza</author><author pid="183/4920">Phakpoom Chinprutthiwong</author><author pid="64/1147">Guofei Gu</author></authors><title>Uncovering HTTP Header Inconsistencies and the Impact on Desktop/Mobile Websites.</title><venue>WWW</venue><pages>247-256</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MendozaCG18</key><doi>10.1145/3178876.3186091</doi><ee>https://doi.org/10.1145/3178876.3186091</ee><url>https://dblp.org/rec/conf/www/MendozaCG18</url></info>
+<url>URL#2355008</url>
+</hit>
+<hit score="1" id="2355012">
+<info><authors><author pid="131/9582">Chenglin Miao</author><author pid="181/2688-12">Qi Li 0012</author><author pid="63/4152">Lu Su</author><author pid="150/8482">Mengdi Huai</author><author pid="55/7770">Wenjun Jiang</author><author pid="67/4834-4">Jing Gao 0004</author></authors><title>Attack under Disguise: An Intelligent Data Poisoning Attack Mechanism in Crowdsourcing.</title><venue>WWW</venue><pages>13-22</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MiaoLSHJG18</key><doi>10.1145/3178876.3186032</doi><ee>https://doi.org/10.1145/3178876.3186032</ee><url>https://dblp.org/rec/conf/www/MiaoLSHJG18</url></info>
+<url>URL#2355012</url>
+</hit>
+<hit score="1" id="2355014">
+<info><authors><author pid="182/2006">Najmeh Miramirkhani</author><author pid="207/6562">Timothy Barron</author><author pid="46/4377">Michael Ferdman</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>Panning for gold.com: Understanding the Dynamics of Domain Dropcatching.</title><venue>WWW</venue><pages>257-266</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MiramirkhaniBFN18</key><doi>10.1145/3178876.3186092</doi><ee>https://doi.org/10.1145/3178876.3186092</ee><url>https://dblp.org/rec/conf/www/MiramirkhaniBFN18</url></info>
+<url>URL#2355014</url>
+</hit>
+<hit score="1" id="2355015">
+<info><authors><author pid="217/4504">Ben Miroglio</author><author pid="75/5658">David Zeber</author><author pid="k/JosephKaye">Jofish Kaye</author><author pid="159/0930">Rebecca Weiss</author></authors><title>The Effect of Ad Blocking on User Engagement with the Web.</title><venue>WWW</venue><pages>813-821</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MiroglioZKW18</key><doi>10.1145/3178876.3186162</doi><ee>https://doi.org/10.1145/3178876.3186162</ee><url>https://dblp.org/rec/conf/www/MiroglioZKW18</url></info>
+<url>URL#2355015</url>
+</hit>
+<hit score="1" id="2355016">
+<info><authors><author pid="m/VahabSMirrokni">Vahab S. Mirrokni</author><author pid="53/1607">Renato Paes Leme</author><author pid="217/4530">Rita Ren</author><author pid="123/4898">Song Zuo</author></authors><title>Dynamic Mechanism Design in the Field.</title><venue>WWW</venue><pages>1359-1368</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MirrokniLRZ18</key><doi>10.1145/3178876.3186041</doi><ee>https://doi.org/10.1145/3178876.3186041</ee><url>https://dblp.org/rec/conf/www/MirrokniLRZ18</url></info>
+<url>URL#2355016</url>
+</hit>
+<hit score="1" id="2355020">
+<info><authors><author pid="79/6251">Sunil Mohan</author><author pid="148/5046">Nicolas Fiorini</author><author pid="53/1114">Sun Kim</author><author pid="66/6604">Zhiyong Lu</author></authors><title>A Fast Deep Learning Model for Textual Relevance in Biomedical Information Retrieval.</title><venue>WWW</venue><pages>77-86</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MohanFKL18</key><doi>10.1145/3178876.3186049</doi><ee>https://doi.org/10.1145/3178876.3186049</ee><url>https://dblp.org/rec/conf/www/MohanFKL18</url></info>
+<url>URL#2355020</url>
+</hit>
+<hit score="1" id="2355024">
+<info><authors><author pid="128/4640">Pedro Moreno-Sanchez</author><author pid="202/2184">Navin Modi</author><author pid="138/9015">Raghuvir Songhela</author><author pid="12/3394">Aniket Kate</author><author pid="f/SoniaFahmy">Sonia Fahmy</author></authors><title>Mind Your Credit: Assessing the Health of the Ripple Credit Network.</title><venue>WWW</venue><pages>329-338</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Moreno-SanchezM18</key><doi>10.1145/3178876.3186099</doi><ee>https://doi.org/10.1145/3178876.3186099</ee><url>https://dblp.org/rec/conf/www/Moreno-SanchezM18</url></info>
+<url>URL#2355024</url>
+</hit>
+<hit score="1" id="2355027">
+<info><authors><author pid="87/6501">Yashar Moshfeghi</author><author pid="52/930">Frank E. Pollick</author></authors><title>Search Process as Transitions Between Neural States.</title><venue>WWW</venue><pages>1683-1692</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MoshfeghiP18</key><doi>10.1145/3178876.3186080</doi><ee>https://doi.org/10.1145/3178876.3186080</ee><url>https://dblp.org/rec/conf/www/MoshfeghiP18</url></info>
+<url>URL#2355027</url>
+</hit>
+<hit score="1" id="2355034">
+<info><authors><author pid="149/2327">Cameron Musco</author><author pid="149/2243">Christopher Musco</author><author pid="29/5273">Charalampos E. Tsourakakis</author></authors><title>Minimizing Polarization and Disagreement in Social Networks.</title><venue>WWW</venue><pages>369-378</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/MuscoMT18</key><doi>10.1145/3178876.3186103</doi><ee>https://doi.org/10.1145/3178876.3186103</ee><url>https://dblp.org/rec/conf/www/MuscoMT18</url></info>
+<url>URL#2355034</url>
+</hit>
+<hit score="1" id="2355039">
+<info><authors><author pid="168/8454">Huda Nassar</author><author pid="180/5829">Nate Veldt</author><author pid="34/8250">Shahin Mohammadi</author><author pid="g/AnanthGrama">Ananth Grama</author><author pid="40/4457">David F. Gleich</author></authors><title>Low Rank Spectral Network Alignment.</title><venue>WWW</venue><pages>619-628</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/NassarVMGG18</key><doi>10.1145/3178876.3186128</doi><ee>https://doi.org/10.1145/3178876.3186128</ee><url>https://dblp.org/rec/conf/www/NassarVMGG18</url></info>
+<url>URL#2355039</url>
+</hit>
+<hit score="1" id="2355044">
+<info><authors><author pid="151/3208">Jingchao Ni</author><author pid="28/9988">Shiyu Chang</author><author pid="82/1364">Xiao Liu</author><author pid="89/2506-2">Wei Cheng 0002</author><author pid="08/57">Haifeng Chen</author><author pid="142/8139">Dongkuan Xu</author><author pid="91/4353-1">Xiang Zhang 0001</author></authors><title>Co-Regularized Deep Multi-Network Embedding.</title><venue>WWW</venue><pages>469-478</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/NiCLCCX018</key><doi>10.1145/3178876.3186113</doi><ee>https://doi.org/10.1145/3178876.3186113</ee><url>https://dblp.org/rec/conf/www/NiCLCCX018</url></info>
+<url>URL#2355044</url>
+</hit>
+<hit score="1" id="2355045">
+<info><authors><author pid="217/4430">Zachary Nichols</author><author pid="217/4482">Adam Stein</author></authors><title>Attribution Inference for Digital Advertising using Inhomogeneous Poisson Models.</title><venue>WWW</venue><pages>1885-1892</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/NicholsS18</key><doi>10.1145/3178876.3186171</doi><ee>https://doi.org/10.1145/3178876.3186171</ee><url>https://dblp.org/rec/conf/www/NicholsS18</url></info>
+<url>URL#2355045</url>
+</hit>
+<hit score="1" id="2355047">
+<info><authors><author pid="217/4577">Sofia Maria Nikolakaki</author><author pid="127/6731">Charalampos Mavroforakis</author><author pid="69/1732">Alina Ene</author><author pid="t/EvimariaTerzi">Evimaria Terzi</author></authors><title>Mining Tours and Paths in Activity Networks.</title><venue>WWW</venue><pages>459-468</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/NikolakakiMET18</key><doi>10.1145/3178876.3186112</doi><ee>https://doi.org/10.1145/3178876.3186112</ee><url>https://dblp.org/rec/conf/www/NikolakakiMET18</url></info>
+<url>URL#2355047</url>
+</hit>
+<hit score="1" id="2355054">
+<info><authors><author pid="210/6440">Junwei Pan</author><author pid="73/1149-15">Jian Xu 0015</author><author pid="217/4513">Alfonso Lobos Ruiz</author><author pid="145/0879">Wenliang Zhao</author><author pid="60/2507">Shengjun Pan</author><author pid="62/3689">Yu Sun</author><author pid="73/5241">Quan Lu</author></authors><title>Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising.</title><venue>WWW</venue><pages>1349-1357</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PanXRZPSL18</key><doi>10.1145/3178876.3186040</doi><ee>https://doi.org/10.1145/3178876.3186040</ee><url>https://dblp.org/rec/conf/www/PanXRZPSL18</url></info>
+<url>URL#2355054</url>
+</hit>
+<hit score="1" id="2355056">
+<info><authors><author pid="130/2934">Panagiotis Papadopoulos</author><author pid="96/8779">Nicolas Kourtellis</author><author pid="m/EvangelosPMarkatos">Evangelos P. Markatos</author></authors><title>The Cost of Digital Advertisement: Comparing User and Advertiser Views.</title><venue>WWW</venue><pages>1479-1489</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PapadopoulosKM18</key><doi>10.1145/3178876.3186060</doi><ee>https://doi.org/10.1145/3178876.3186060</ee><url>https://dblp.org/rec/conf/www/PapadopoulosKM18</url></info>
+<url>URL#2355056</url>
+</hit>
+<hit score="1" id="2355060">
+<info><authors><author pid="31/3168">Marius Pasca</author></authors><title>Finding Needles in an Encyclopedic Haystack: Detecting Classes Among Wikipedia Articles.</title><venue>WWW</venue><pages>1267-1276</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Pasca18</key><doi>10.1145/3178876.3186025</doi><ee>https://doi.org/10.1145/3178876.3186025</ee><url>https://dblp.org/rec/conf/www/Pasca18</url></info>
+<url>URL#2355060</url>
+</hit>
+<hit score="1" id="2355061">
+<info><authors><author pid="41/8823">Sergio Pastrana</author><author pid="153/2620">Daniel R. Thomas</author><author pid="181/3695">Alice Hutchings</author><author pid="93/1539-1">Richard Clayton 0001</author></authors><title>CrimeBB: Enabling Cybercrime Research on Underground Forums at Scale.</title><venue>WWW</venue><pages>1845-1854</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PastranaTHC18</key><doi>10.1145/3178876.3186178</doi><ee>https://doi.org/10.1145/3178876.3186178</ee><url>https://dblp.org/rec/conf/www/PastranaTHC18</url></info>
+<url>URL#2355061</url>
+</hit>
+<hit score="1" id="2355063">
+<info><authors><author pid="69/7742">Hao Peng</author><author pid="l/JianxinLi-2">Jianxin Li 0002</author><author pid="16/3418">Yu He</author><author pid="195/8155">Yaopeng Liu</author><author pid="217/4481">Mengjiao Bao</author><author pid="17/1495">Lihong Wang</author><author pid="86/2159">Yangqiu Song</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN.</title><venue>WWW</venue><pages>1063-1072</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PengLHLBWS018</key><doi>10.1145/3178876.3186005</doi><ee>https://doi.org/10.1145/3178876.3186005</ee><url>https://dblp.org/rec/conf/www/PengLHLBWS018</url></info>
+<url>URL#2355063</url>
+</hit>
+<hit score="1" id="2355066">
+<info><authors><author pid="03/3645">Diego Perino</author><author pid="01/6280">Matteo Varvello</author><author pid="57/1338">Claudio Soriente</author></authors><title>ProxyTorrent: Untangling the Free HTTP(S) Proxy Ecosystem.</title><venue>WWW</venue><pages>197-206</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PerinoVS18</key><doi>10.1145/3178876.3186086</doi><ee>https://doi.org/10.1145/3178876.3186086</ee><url>https://dblp.org/rec/conf/www/PerinoVS18</url></info>
+<url>URL#2355066</url>
+</hit>
+<hit score="1" id="2355067">
+<info><authors><author pid="147/5920">Alexander Peysakhovich</author><author pid="72/1229">Dean Eckles</author></authors><title>Learning Causal Effects From Many Randomized Experiments Using Regularized Instrumental Variables.</title><venue>WWW</venue><pages>699-707</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PeysakhovichE18</key><doi>10.1145/3178876.3186151</doi><ee>https://doi.org/10.1145/3178876.3186151</ee><url>https://dblp.org/rec/conf/www/PeysakhovichE18</url></info>
+<url>URL#2355067</url>
+</hit>
+<hit score="1" id="2355071">
+<info><authors><author pid="159/0572">Emma Pierson</author><author pid="119/1352">Tim Althoff</author><author pid="l/JureLeskovec">Jure Leskovec</author></authors><title>Modeling Individual Cyclic Variation in Human Behavior.</title><venue>WWW</venue><pages>107-116</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PiersonAL18</key><doi>10.1145/3178876.3186052</doi><ee>https://doi.org/10.1145/3178876.3186052</ee><url>https://dblp.org/rec/conf/www/PiersonAL18</url></info>
+<url>URL#2355071</url>
+</hit>
+<hit score="1" id="2355075">
+<info><authors><author pid="56/8754">Riccardo Porrini</author><author pid="74/4142">Matteo Palmonari</author><author pid="c/IFCruz">Isabel F. Cruz</author></authors><title>Facet Annotation Using Reference Knowledge Bases.</title><venue>WWW</venue><pages>1215-1224</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PorriniPC18</key><doi>10.1145/3178876.3186020</doi><ee>https://doi.org/10.1145/3178876.3186020</ee><url>https://dblp.org/rec/conf/www/PorriniPC18</url></info>
+<url>URL#2355075</url>
+</hit>
+<hit score="1" id="2355076">
+<info><authors><author pid="162/3654">Navneet Potti</author><author pid="79/11278">James B. Wendt</author><author pid="05/490">Qi Zhao</author><author pid="20/1055">Sandeep Tata</author><author pid="n/MarcNajork">Marc Najork</author></authors><title>Hidden in Plain Sight: Classifying Emails Using Embedded Image Contents.</title><venue>WWW</venue><pages>1865-1874</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PottiWZTN18</key><doi>10.1145/3178876.3186167</doi><ee>https://doi.org/10.1145/3178876.3186167</ee><url>https://dblp.org/rec/conf/www/PottiWZTN18</url></info>
+<url>URL#2355076</url>
+</hit>
+<hit score="1" id="2355077">
+<info><authors><author pid="130/0350">Yashoteja Prabhu</author><author pid="213/9132">Anil Kag</author><author pid="124/7268">Shrutendra Harsola</author><author pid="74/4628">Rahul Agrawal</author><author pid="07/918">Manik Varma</author></authors><title>Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising.</title><venue>WWW</venue><pages>993-1002</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PrabhuKHAV18</key><doi>10.1145/3178876.3185998</doi><ee>https://doi.org/10.1145/3178876.3185998</ee><url>https://dblp.org/rec/conf/www/PrabhuKHAV18</url></info>
+<url>URL#2355077</url>
+</hit>
+<hit score="1" id="2355078">
+<info><authors><author pid="217/4471">Surabhi Punjabi</author><author pid="116/2458">Priyanka Bhatt</author></authors><title>Robust Factorization Machines for User Response Prediction.</title><venue>WWW</venue><pages>669-678</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/PunjabiB18</key><doi>10.1145/3178876.3186148</doi><ee>https://doi.org/10.1145/3178876.3186148</ee><url>https://dblp.org/rec/conf/www/PunjabiB18</url></info>
+<url>URL#2355078</url>
+</hit>
+<hit score="1" id="2355081">
+<info><authors><author pid="14/8543">Meng Qu</author><author pid="36/360-1">Xiang Ren 0001</author><author pid="50/671-44">Yu Zhang 0044</author><author pid="h/JiaweiHan">Jiawei Han 0001</author></authors><title>Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning.</title><venue>WWW</venue><pages>1257-1266</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/QuRZ018</key><doi>10.1145/3178876.3186024</doi><ee>https://doi.org/10.1145/3178876.3186024</ee><url>https://dblp.org/rec/conf/www/QuRZ018</url></info>
+<url>URL#2355081</url>
+</hit>
+<hit score="1" id="2355084">
+<info><authors><author pid="143/9427">Manish Raghavan</author><author pid="21/8524">Ashton Anderson</author><author pid="k/JonMKleinberg">Jon M. Kleinberg</author></authors><title>Mapping the Invocation Structure of Online Political Interaction.</title><venue>WWW</venue><pages>629-638</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RaghavanAK18</key><doi>10.1145/3178876.3186129</doi><ee>https://doi.org/10.1145/3178876.3186129</ee><url>https://dblp.org/rec/conf/www/RaghavanAK18</url></info>
+<url>URL#2355084</url>
+</hit>
+<hit score="1" id="2355085">
+<info><authors><author pid="139/2250">Vineeth Rakesh</author><author pid="127/6567">Weicong Ding</author><author pid="194/4808">Aman Ahuja</author><author pid="57/9513">Nikhil Rao 0001</author><author pid="99/10261-1">Yifan Sun 0001</author><author pid="42/1341">Chandan K. Reddy</author></authors><title>A Sparse Topic Model for Extracting Aspect-Specific Summaries from Online Reviews.</title><venue>WWW</venue><pages>1573-1582</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RakeshDARSR18</key><doi>10.1145/3178876.3186069</doi><ee>https://doi.org/10.1145/3178876.3186069</ee><url>https://dblp.org/rec/conf/www/RakeshDARSR18</url></info>
+<url>URL#2355085</url>
+</hit>
+<hit score="1" id="2355086">
+<info><authors><author pid="141/9377">Aravindh Raman</author><author pid="85/85">Gareth Tyson</author><author pid="12/6462">Nishanth Sastry</author></authors><title>Facebook (A)Live?: Are Live Social Broadcasts Really Broadcasts?</title><venue>WWW</venue><pages>1491-1500</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RamanTS18</key><doi>10.1145/3178876.3186061</doi><ee>https://doi.org/10.1145/3178876.3186061</ee><url>https://dblp.org/rec/conf/www/RamanTS18</url></info>
+<url>URL#2355086</url>
+</hit>
+<hit score="1" id="2355087">
+<info><authors><author pid="174/2218">Chenwei Ran</author><author pid="71/3692-4">Wei Shen 0004</author><author pid="24/2006">Jianyong Wang 0001</author></authors><title>An Attention Factor Graph Model for Tweet Entity Linking.</title><venue>WWW</venue><pages>1135-1144</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RanSW18</key><doi>10.1145/3178876.3186012</doi><ee>https://doi.org/10.1145/3178876.3186012</ee><url>https://dblp.org/rec/conf/www/RanSW18</url></info>
+<url>URL#2355087</url>
+</hit>
+<hit score="1" id="2355089">
+<info><authors><author pid="217/4583">Gary Ren</author><author pid="04/4778">Xiaochuan Ni 0001</author><author pid="169/0346">Manish Malik</author><author pid="88/2889">Qifa Ke</author></authors><title>Conversational Query Understanding Using Sequence to Sequence Modeling.</title><venue>WWW</venue><pages>1715-1724</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RenNMK18</key><doi>10.1145/3178876.3186083</doi><ee>https://doi.org/10.1145/3178876.3186083</ee><url>https://dblp.org/rec/conf/www/RenNMK18</url></info>
+<url>URL#2355089</url>
+</hit>
+<hit score="1" id="2355091">
+<info><authors><author pid="34/7832">Marian-Andrei Rizoiu</author><author pid="151/3153">Swapnil Mishra</author><author pid="209/9882">Quyu Kong</author><author pid="38/3874">Mark James Carman</author><author pid="59/4002">Lexing Xie</author></authors><title>SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations.</title><venue>WWW</venue><pages>419-428</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RizoiuMKCX18</key><doi>10.1145/3178876.3186108</doi><ee>https://doi.org/10.1145/3178876.3186108</ee><url>https://dblp.org/rec/conf/www/RizoiuMKCX18</url></info>
+<url>URL#2355091</url>
+</hit>
+<hit score="1" id="2355092">
+<info><authors><author pid="212/2681">Ronald E. Robertson</author><author pid="71/1244">David Lazer</author><author pid="79/5135">Christo Wilson</author></authors><title>Auditing the Personalization and Composition of Politically-Related Search Engine Results Pages.</title><venue>WWW</venue><pages>955-965</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RobertsonLW18</key><doi>10.1145/3178876.3186143</doi><ee>https://doi.org/10.1145/3178876.3186143</ee><url>https://dblp.org/rec/conf/www/RobertsonLW18</url></info>
+<url>URL#2355092</url>
+</hit>
+<hit score="1" id="2355098">
+<info><authors><author pid="164/5581">Maja Rudolph</author><author pid="86/1910">David M. Blei</author></authors><title>Dynamic Embeddings for Language Evolution.</title><venue>WWW</venue><pages>1003-1011</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RudolphB18</key><doi>10.1145/3178876.3185999</doi><ee>https://doi.org/10.1145/3178876.3185999</ee><url>https://dblp.org/rec/conf/www/RudolphB18</url></info>
+<url>URL#2355098</url>
+</hit>
+<hit score="1" id="2355099">
+<info><authors><author pid="29/11081">John P. Rula</author><author pid="15/5219">James Newman</author><author pid="b/FabianEBustamante">Fabián E. Bustamante</author><author pid="35/7209">Arash Molavi Kakhki</author><author pid="48/6854">David R. Choffnes</author></authors><title>Mile High WiFi: A First Look At In-Flight Internet Connectivity.</title><venue>WWW</venue><pages>1449-1458</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/RulaNBKC18</key><doi>10.1145/3178876.3186057</doi><ee>https://doi.org/10.1145/3178876.3186057</ee><url>https://dblp.org/rec/conf/www/RulaNBKC18</url></info>
+<url>URL#2355099</url>
+</hit>
+<hit score="1" id="2355105">
+<info><authors><author pid="136/5975">Anna Samoilenko</author><author pid="51/3723">Florian Lemmerich</author><author pid="71/11466">Maria Zens</author><author pid="157/8162">Mohsen Jadidi</author><author pid="151/6415">Mathieu Génois</author><author pid="01/6659">Markus Strohmaier</author></authors><title>(Don&apos;t) Mention the War: A Comparison of Wikipedia and Britannica Articles on National Histories.</title><venue>WWW</venue><pages>843-852</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SamoilenkoLZJGS18</key><doi>10.1145/3178876.3186132</doi><ee>https://doi.org/10.1145/3178876.3186132</ee><url>https://dblp.org/rec/conf/www/SamoilenkoLZJGS18</url></info>
+<url>URL#2355105</url>
+</hit>
+<hit score="1" id="2355113">
+<info><authors><author pid="217/4599">Thijs Scheepers</author><author pid="22/3088">Evangelos Kanoulas</author><author pid="03/8693">Efstratios Gavves</author></authors><title>Improving Word Embedding Compositionality using Lexicographic Definitions.</title><venue>WWW</venue><pages>1083-1093</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ScheepersKG18</key><doi>10.1145/3178876.3186007</doi><ee>https://doi.org/10.1145/3178876.3186007</ee><url>https://dblp.org/rec/conf/www/ScheepersKG18</url></info>
+<url>URL#2355113</url>
+</hit>
+<hit score="1" id="2355114">
+<info><authors><author pid="148/1952">Andrew T. Schneider</author><author pid="31/9013">Arjun Mukherjee</author><author pid="66/6919">Eduard C. Dragut</author></authors><title>Leveraging Social Media Signals for Record Linkage.</title><venue>WWW</venue><pages>1195-1204</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SchneiderMD18</key><doi>10.1145/3178876.3186018</doi><ee>https://doi.org/10.1145/3178876.3186018</ee><url>https://dblp.org/rec/conf/www/SchneiderMD18</url></info>
+<url>URL#2355114</url>
+</hit>
+<hit score="1" id="2355116">
+<info><authors><author pid="204/6417">Vivek Sembium</author><author pid="r/RajeevRastogi">Rajeev Rastogi</author><author pid="133/7770">Lavanya Sita Tekumalla</author><author pid="21/2266">Atul Saroop</author></authors><title>Bayesian Models for Product Size Recommendations.</title><venue>WWW</venue><pages>679-687</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SembiumRTS18</key><doi>10.1145/3178876.3186149</doi><ee>https://doi.org/10.1145/3178876.3186149</ee><url>https://dblp.org/rec/conf/www/SembiumRTS18</url></info>
+<url>URL#2355116</url>
+</hit>
+<hit score="1" id="2355122">
+<info><authors><author pid="52/8872">Tian Shi</author><author pid="190/2285">Kyeongpil Kang</author><author pid="07/2074">Jaegul Choo</author><author pid="42/1341">Chandan K. Reddy</author></authors><title>Short-Text Topic Modeling via Non-negative Matrix Factorization Enriched with Local Word-Context Correlations.</title><venue>WWW</venue><pages>1105-1114</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ShiKCR18</key><doi>10.1145/3178876.3186009</doi><ee>https://doi.org/10.1145/3178876.3186009</ee><url>https://dblp.org/rec/conf/www/ShiKCR18</url></info>
+<url>URL#2355122</url>
+</hit>
+<hit score="1" id="2355125">
+<info><authors><author pid="153/2052">Kijung Shin</author><author pid="45/8657">Mahdi Shafiei</author><author pid="66/1606-1">Myunghwan Kim 0002</author><author pid="66/3257">Aastha Jain</author><author pid="49/4836">Hema Raghavan</author></authors><title>Discovering Progression Stages in Trillion-Scale Behavior Logs.</title><venue>WWW</venue><pages>1765-1774</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ShinSKJR18</key><doi>10.1145/3178876.3186182</doi><ee>https://doi.org/10.1145/3178876.3186182</ee><url>https://dblp.org/rec/conf/www/ShinSKJR18</url></info>
+<url>URL#2355125</url>
+</hit>
+<hit score="1" id="2355128">
+<info><authors><author pid="19/2546">Arlei Silva</author><author pid="s/AmbujKSingh">Ambuj K. Singh</author><author pid="89/5072">Ananthram Swami</author></authors><title>Spectral Algorithms for Temporal Graph Cuts.</title><venue>WWW</venue><pages>519-528</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SilvaSS18</key><doi>10.1145/3178876.3186118</doi><ee>https://doi.org/10.1145/3178876.3186118</ee><url>https://dblp.org/rec/conf/www/SilvaSS18</url></info>
+<url>URL#2355128</url>
+</hit>
+<hit score="1" id="2355130">
+<info><authors><author pid="190/1689">Sanket Kumar Singh</author><author pid="r/DRafiei">Davood Rafiei</author></authors><title>Strategies for Geographical Scoping and Improving a Gazetteer.</title><venue>WWW</venue><pages>1663-1672</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SinghR18</key><doi>10.1145/3178876.3186078</doi><ee>https://doi.org/10.1145/3178876.3186078</ee><url>https://dblp.org/rec/conf/www/SinghR18</url></info>
+<url>URL#2355130</url>
+</hit>
+<hit score="1" id="2355131">
+<info><authors><author pid="81/4530-1">Kuldeep Singh 0001</author><author pid="217/4558">Arun Sethupat Radhakrishna</author><author pid="07/4780">Andreas Both 0001</author><author pid="76/7738">Saeedeh Shekarpour</author><author pid="59/11177">Ioanna Lytra</author><author pid="65/9656">Ricardo Usbeck</author><author pid="217/4424">Akhilesh Vyas</author><author pid="217/4344">Akmal Khikmatullaev</author><author pid="204/2498">Dharmen Punjani</author><author pid="l/ChristophLange2">Christoph Lange 0002</author><author pid="92/654">Maria-Esther Vidal</author><author pid="71/4882">Jens Lehmann 0001</author><author pid="05/6406">Sören Auer</author></authors><title>Why Reinvent the Wheel: Let&apos;s Build Question Answering Systems Together.</title><venue>WWW</venue><pages>1247-1256</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SinghRBSLUVKP0V18</key><doi>10.1145/3178876.3186023</doi><ee>https://doi.org/10.1145/3178876.3186023</ee><url>https://dblp.org/rec/conf/www/SinghRBSLUVKP0V18</url></info>
+<url>URL#2355131</url>
+</hit>
+<hit score="1" id="2355145">
+<info><authors><author pid="185/6256">Bharat Srinivasan</author><author pid="185/2377">Athanasios Kountouras</author><author pid="182/2006">Najmeh Miramirkhani</author><author pid="69/5070">Monjur Alam</author><author pid="04/8280">Nick Nikiforakis</author><author pid="26/216">Manos Antonakakis</author><author pid="73/3162">Mustaque Ahamad</author></authors><title>Exposing Search and Advertisement Abuse Tactics and Infrastructure of Technical Support Scammers.</title><venue>WWW</venue><pages>319-328</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SrinivasanKMANA18</key><doi>10.1145/3178876.3186098</doi><ee>https://doi.org/10.1145/3178876.3186098</ee><url>https://dblp.org/rec/conf/www/SrinivasanKMANA18</url></info>
+<url>URL#2355145</url>
+</hit>
+<hit score="1" id="2355147">
+<info><authors><author pid="134/8950">Oleksii Starov</author><author pid="39/10084">Yuchen Zhou</author><author pid="49/4478">Xiao Zhang</author><author pid="182/2006">Najmeh Miramirkhani</author><author pid="04/8280">Nick Nikiforakis</author></authors><title>Betrayed by Your Dashboard: Discovering Malicious Campaigns via Web Analytics.</title><venue>WWW</venue><pages>227-236</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/StarovZZMN18</key><doi>10.1145/3178876.3186089</doi><ee>https://doi.org/10.1145/3178876.3186089</ee><url>https://dblp.org/rec/conf/www/StarovZZMN18</url></info>
+<url>URL#2355147</url>
+</hit>
+<hit score="1" id="2355148">
+<info><authors><author pid="66/8007">Giorgio Stefanoni</author><author pid="56/1508">Boris Motik</author><author pid="22/7920">Egor V. Kostylev</author></authors><title>Estimating the Cardinality of Conjunctive Queries over RDF Data Using Graph Summarisation.</title><venue>WWW</venue><pages>1043-1052</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/StefanoniMK18</key><doi>10.1145/3178876.3186003</doi><ee>https://doi.org/10.1145/3178876.3186003</ee><url>https://dblp.org/rec/conf/www/StefanoniMK18</url></info>
+<url>URL#2355148</url>
+</hit>
+<hit score="1" id="2355150">
+<info><authors><author pid="217/4358">Ana-Andreea Stoica</author><author pid="170/0841">Christopher J. Riederer</author><author pid="49/5532">Augustin Chaintreau</author></authors><title>Algorithmic Glass Ceiling in Social Networks: The effects of social recommendations on network diversity.</title><venue>WWW</venue><pages>923-932</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/StoicaRC18</key><doi>10.1145/3178876.3186140</doi><ee>https://doi.org/10.1145/3178876.3186140</ee><url>https://dblp.org/rec/conf/www/StoicaRC18</url></info>
+<url>URL#2355150</url>
+</hit>
+<hit score="1" id="2355151">
+<info><authors><author pid="66/4941">Ning Su</author><author pid="49/1579-1">Yiqun Liu 0001</author><author pid="l/ZhaoLi-7">Zhao Li 0007</author><author pid="183/0941">Yuli Liu</author><author pid="83/5342-6">Min Zhang 0006</author><author pid="40/1949">Shaoping Ma</author></authors><title>Detecting Crowdturfing &quot;Add to Favorites&quot; Activities in Online Shopping.</title><venue>WWW</venue><pages>1673-1682</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/SuLLLZM18</key><doi>10.1145/3178876.3186079</doi><ee>https://doi.org/10.1145/3178876.3186079</ee><url>https://dblp.org/rec/conf/www/SuLLLZM18</url></info>
+<url>URL#2355151</url>
+</hit>
+<hit score="1" id="2355157">
+<info><authors><author pid="95/8314">Chenhao Tan</author><author pid="69/7742">Hao Peng</author><author pid="90/5204">Noah A. Smith</author></authors><title>&quot;You are no Jack Kennedy&quot;: On Media Selection of Highlights from Presidential Debates.</title><venue>WWW</venue><pages>945-954</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/TanPS18</key><doi>10.1145/3178876.3186142</doi><ee>https://doi.org/10.1145/3178876.3186142</ee><url>https://dblp.org/rec/conf/www/TanPS18</url></info>
+<url>URL#2355157</url>
+</hit>
+<hit score="1" id="2355161">
+<info><authors><author pid="188/6350">Yi Tay</author><author pid="81/8329">Luu Anh Tuan</author><author pid="65/3225">Siu Cheung Hui</author></authors><title>Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking.</title><venue>WWW</venue><pages>729-739</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/TayTH18</key><doi>10.1145/3178876.3186154</doi><ee>https://doi.org/10.1145/3178876.3186154</ee><url>https://dblp.org/rec/conf/www/TayTH18</url></info>
+<url>URL#2355161</url>
+</hit>
+<hit score="1" id="2355163">
+<info><authors><author pid="172/8717">Nicolas Tempelmeier</author><author pid="84/2154">Elena Demidova</author><author pid="25/5167">Stefan Dietze</author></authors><title>Inferring Missing Categorical Information in Noisy and Sparse Web Markup.</title><venue>WWW</venue><pages>1297-1306</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/TempelmeierDD18</key><doi>10.1145/3178876.3186028</doi><ee>https://doi.org/10.1145/3178876.3186028</ee><url>https://dblp.org/rec/conf/www/TempelmeierDD18</url></info>
+<url>URL#2355163</url>
+</hit>
+<hit score="1" id="2355173">
+<info><authors><author pid="217/1668">Anton Tsitsulin</author><author pid="135/7623">Davide Mottin</author><author pid="08/5342">Panagiotis Karras</author><author pid="55/6899">Emmanuel Müller</author></authors><title>VERSE: Versatile Graph Embeddings from Similarity Measures.</title><venue>WWW</venue><pages>539-548</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/TsitsulinMKM18</key><doi>10.1145/3178876.3186120</doi><ee>https://doi.org/10.1145/3178876.3186120</ee><url>https://dblp.org/rec/conf/www/TsitsulinMKM18</url></info>
+<url>URL#2355173</url>
+</hit>
+<hit score="1" id="2355175">
+<info><authors><author pid="93/7466">Rajan Vaish</author><author pid="170/4840">Shirish Goyal</author><author pid="28/4017">Amin Saberi</author><author pid="37/6406">Sharad Goel</author></authors><title>Creating Crowdsourced Research Talks at Scale.</title><venue>WWW</venue><pages>1-11</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/VaishGSG18</key><doi>10.1145/3178876.3186031</doi><ee>https://doi.org/10.1145/3178876.3186031</ee><url>https://dblp.org/rec/conf/www/VaishGSG18</url></info>
+<url>URL#2355175</url>
+</hit>
+<hit score="1" id="2355177">
+<info><authors><author pid="180/2959">Shikhar Vashishth</author><author pid="142/2369">Prince Jain</author><author pid="86/687">Partha P. Talukdar</author></authors><title>CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information.</title><venue>WWW</venue><pages>1317-1327</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/VashishthJT18</key><doi>10.1145/3178876.3186030</doi><ee>https://doi.org/10.1145/3178876.3186030</ee><url>https://dblp.org/rec/conf/www/VashishthJT18</url></info>
+<url>URL#2355177</url>
+</hit>
+<hit score="1" id="2355179">
+<info><authors><author pid="180/5829">Nate Veldt</author><author pid="40/4457">David F. Gleich</author><author pid="27/4913">Anthony Wirth</author></authors><title>A Correlation Clustering Framework for Community Detection.</title><venue>WWW</venue><pages>439-448</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/VeldtGW18</key><doi>10.1145/3178876.3186110</doi><ee>https://doi.org/10.1145/3178876.3186110</ee><url>https://dblp.org/rec/conf/www/VeldtGW18</url></info>
+<url>URL#2355179</url>
+</hit>
+<hit score="1" id="2355183">
+<info><authors><author pid="53/8843">Junxiang Wang</author><author pid="63/5422-2">Liang Zhao 0002</author></authors><title>Multi-instance Domain Adaptation for Vaccine Adverse Event Detection.</title><venue>WWW</venue><pages>97-106</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Wang018</key><doi>10.1145/3178876.3186051</doi><ee>https://doi.org/10.1145/3178876.3186051</ee><url>https://dblp.org/rec/conf/www/Wang018</url></info>
+<url>URL#2355183</url>
+</hit>
+<hit score="1" id="2355185">
+<info><authors><author pid="10/5630-19">Xin Wang 0019</author><author pid="97/6308-1">Wenwu Zhu 0001</author><author pid="07/4182-0001">Chun Chen 0001</author><author pid="e/MartinEster">Martin Ester</author></authors><title>Joint User- and Event- Driven Stable Social Event Organization.</title><venue>WWW</venue><pages>1513-1522</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Wang0CE18</key><doi>10.1145/3178876.3186063</doi><ee>https://doi.org/10.1145/3178876.3186063</ee><url>https://dblp.org/rec/conf/www/Wang0CE18</url></info>
+<url>URL#2355185</url>
+</hit>
+<hit score="1" id="2355186">
+<info><authors><author pid="31/2864-10">Xiang Wang 0010</author><author pid="59/1007">Xiangnan He 0001</author><author pid="183/9198">Fuli Feng</author><author pid="92/8277">Liqiang Nie</author><author pid="24/6606">Tat-Seng Chua</author></authors><title>TEM: Tree-enhanced Embedding Model for Explainable Recommendation.</title><venue>WWW</venue><pages>1543-1552</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Wang0FNC18</key><doi>10.1145/3178876.3186066</doi><ee>https://doi.org/10.1145/3178876.3186066</ee><url>https://dblp.org/rec/conf/www/Wang0FNC18</url></info>
+<url>URL#2355186</url>
+</hit>
+<hit score="1" id="2355191">
+<info><authors><author pid="188/9082">Yequan Wang</author><author pid="78/5155">Aixin Sun</author><author pid="92/7536">Jialong Han</author><author pid="91/112-4">Ying Liu 0004</author><author pid="50/1222-1">Xiaoyan Zhu 0001</author></authors><title>Sentiment Analysis by Capsules.</title><venue>WWW</venue><pages>1165-1174</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/WangSH0Z18</key><doi>10.1145/3178876.3186015</doi><ee>https://doi.org/10.1145/3178876.3186015</ee><url>https://dblp.org/rec/conf/www/WangSH0Z18</url></info>
+<url>URL#2355191</url>
+</hit>
+<hit score="1" id="2355193">
+<info><authors><author pid="13/5641-4">Hongwei Wang 0004</author><author pid="134/2883">Fuzheng Zhang</author><author pid="08/6809-1">Xing Xie 0001</author><author pid="99/6797">Minyi Guo</author></authors><title>DKN: Deep Knowledge-Aware Network for News Recommendation.</title><venue>WWW</venue><pages>1835-1844</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/WangZXG18</key><doi>10.1145/3178876.3186175</doi><ee>https://doi.org/10.1145/3178876.3186175</ee><url>https://dblp.org/rec/conf/www/WangZXG18</url></info>
+<url>URL#2355193</url>
+</hit>
+<hit score="1" id="2355198">
+<info><authors><author pid="77/5063">Maarten Wijnants 0001</author><author pid="147/3409">Robin Marx</author><author pid="77/1398">Peter Quax</author><author pid="51/4423">Wim Lamotte</author></authors><title>HTTP/2 Prioritization and its Impact on Web Performance.</title><venue>WWW</venue><pages>1755-1764</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/WijnantsMQL18</key><doi>10.1145/3178876.3186181</doi><ee>https://doi.org/10.1145/3178876.3186181</ee><url>https://dblp.org/rec/conf/www/WijnantsMQL18</url></info>
+<url>URL#2355198</url>
+</hit>
+<hit score="1" id="2355202">
+<info><authors><author pid="217/4617">Yuxi Wu</author><author pid="217/4458">Panya Gupta</author><author pid="217/4562">Miranda Wei</author><author pid="132/9687">Yasemin Acar</author><author pid="38/9378">Sascha Fahl</author><author pid="66/9786">Blase Ur</author></authors><title>Your Secrets Are Safe: How Browsers&apos; Explanations Impact Misconceptions About Private Browsing Mode.</title><venue>WWW</venue><pages>217-226</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/WuGWAFU18</key><doi>10.1145/3178876.3186088</doi><ee>https://doi.org/10.1145/3178876.3186088</ee><url>https://dblp.org/rec/conf/www/WuGWAFU18</url></info>
+<url>URL#2355202</url>
+</hit>
+<hit score="1" id="2355206">
+<info><authors><author pid="95/1731-1">Huijun Wu 0001</author><author pid="82/4206-8">Chen Wang 0008</author><author pid="97/3358">Jie Yin</author><author pid="31/6932">Kai Lu</author><author pid="52/4318-1">Liming Zhu 0001</author></authors><title>Sharing Deep Neural Network Models with Interpretation.</title><venue>WWW</venue><pages>177-186</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/WuWYLZ18</key><doi>10.1145/3178876.3185995</doi><ee>https://doi.org/10.1145/3178876.3185995</ee><url>https://dblp.org/rec/conf/www/WuWYLZ18</url></info>
+<url>URL#2355206</url>
+</hit>
+<hit score="1" id="2355207">
+<info><authors><author pid="98/4432">Bin Wu</author><author pid="18/10886">Chenyan Xiong</author><author pid="95/3291">Maosong Sun</author><author pid="53/3245-1">Zhiyuan Liu 0001</author></authors><title>Query Suggestion with Feedback Memory Network.</title><venue>WWW</venue><pages>1563-1571</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/WuXS018</key><doi>10.1145/3178876.3186068</doi><ee>https://doi.org/10.1145/3178876.3186068</ee><url>https://dblp.org/rec/conf/www/WuXS018</url></info>
+<url>URL#2355207</url>
+</hit>
+<hit score="1" id="2355209">
+<info><authors><author pid="169/8826">Haowen Xu</author><author pid="20/4079">Wenxiao Chen</author><author pid="189/4434">Nengwen Zhao</author><author pid="187/8216">Zeyan Li</author><author pid="159/1721">Jiahao Bu</author><author pid="49/8382">Zhihan Li</author><author pid="91/112-24">Ying Liu 0024</author><author pid="41/3820">Youjian Zhao</author><author pid="p/DanPei">Dan Pei</author><author pid="07/6095">Yang Feng</author><author pid="92/6289">Jie Chen</author><author pid="72/7693">Zhaogang Wang</author><author pid="215/3343">Honglin Qiao</author></authors><title>Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.</title><venue>WWW</venue><pages>187-196</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/XuCZLBLLZPFCWQ18</key><doi>10.1145/3178876.3185996</doi><ee>https://doi.org/10.1145/3178876.3185996</ee><url>https://dblp.org/rec/conf/www/XuCZLBLLZPFCWQ18</url></info>
+<url>URL#2355209</url>
+</hit>
+<hit score="1" id="2355210">
+<info><authors><author pid="194/3972">Linchuan Xu</author><author pid="160/5948">Xiaokai Wei</author><author pid="c/JiannongCao">Jiannong Cao 0001</author><author pid="y/PhilipSYu">Philip S. Yu</author></authors><title>On Exploring Semantic Meanings of Links for Embedding Social Networks.</title><venue>WWW</venue><pages>479-488</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/XuWCY18</key><doi>10.1145/3178876.3186114</doi><ee>https://doi.org/10.1145/3178876.3186114</ee><url>https://dblp.org/rec/conf/www/XuWCY18</url></info>
+<url>URL#2355210</url>
+</hit>
+<hit score="1" id="2355212">
+<info><authors><author pid="62/5622">Su Yan</author><author pid="99/2649">Wei Lin</author><author pid="16/4820">Tianshu Wu</author><author pid="211/7741">Daorui Xiao</author><author pid="147/1591">Xu Zheng</author><author pid="47/6534">Bo Wu</author><author pid="l/KaipengLiu">Kaipeng Liu</author></authors><title>Beyond Keywords and Relevance: A Personalized Ad Retrieval Framework in E-Commerce Sponsored Search.</title><venue>WWW</venue><pages>1919-1928</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YanLWXZWL18</key><doi>10.1145/3178876.3186172</doi><ee>https://doi.org/10.1145/3178876.3186172</ee><url>https://dblp.org/rec/conf/www/YanLWXZWL18</url></info>
+<url>URL#2355212</url>
+</hit>
+<hit score="1" id="2355215">
+<info><authors><author pid="10/2453">Xiaofeng Yang</author><author pid="24/2712">Deepak Ajwani</author><author pid="36/5673">Wolfgang Gatterbauer</author><author pid="40/7591">Patrick K. Nicholson</author><author pid="r/MirekRiedewald">Mirek Riedewald</author><author pid="27/4656">Alessandra Sala</author></authors><title>Any-k: Anytime Top-k Tree Pattern Retrieval in Labeled Graphs.</title><venue>WWW</venue><pages>489-498</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YangAGNRS18</key><doi>10.1145/3178876.3186115</doi><ee>https://doi.org/10.1145/3178876.3186115</ee><url>https://dblp.org/rec/conf/www/YangAGNRS18</url></info>
+<url>URL#2355215</url>
+</hit>
+<hit score="1" id="2355216">
+<info><authors><author pid="12/1198-28">Jie Yang 0028</author><author pid="72/973">Thomas Drake</author><author pid="16/9886">Andreas C. Damianou</author><author pid="m/YoelleSMaarek">Yoelle Maarek</author></authors><title>Leveraging Crowdsourcing Data for Deep Active Learning An Application: Learning Intents in Alexa.</title><venue>WWW</venue><pages>23-32</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YangDDM18</key><doi>10.1145/3178876.3186033</doi><ee>https://doi.org/10.1145/3178876.3186033</ee><url>https://dblp.org/rec/conf/www/YangDDM18</url></info>
+<url>URL#2355216</url>
+</hit>
+<hit score="1" id="2355217">
+<info><authors><author pid="178/8600">Ziyu Yao</author><author pid="w/DanielSWeld">Daniel S. Weld</author><author pid="79/496">Wei-Peng Chen</author><author pid="33/2952-1">Huan Sun 0001</author></authors><title>StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow.</title><venue>WWW</venue><pages>1693-1703</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YaoWCS18</key><doi>10.1145/3178876.3186081</doi><ee>https://doi.org/10.1145/3178876.3186081</ee><url>https://dblp.org/rec/conf/www/YaoWCS18</url></info>
+<url>URL#2355217</url>
+</hit>
+<hit score="1" id="2355218">
+<info><authors><author pid="49/1785">Ning Ye</author><author pid="90/1367">Ariel Fuxman</author><author pid="118/5286">Vivek Ramavajjala</author><author pid="217/4351">Sergey Nazarov</author><author pid="217/4588">J. Patrick McGregor</author><author pid="39/5111">Sujith Ravi</author></authors><title>PhotoReply: Automatically Suggesting Conversational Responses to Photos.</title><venue>WWW</venue><pages>1893-1899</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YeFRNMR18</key><doi>10.1145/3178876.3186164</doi><ee>https://doi.org/10.1145/3178876.3186164</ee><url>https://dblp.org/rec/conf/www/YeFRNMR18</url></info>
+<url>URL#2355218</url>
+</hit>
+<hit score="1" id="2355223">
+<info><authors><author pid="205/2651">Minji Yoon</author><author pid="194/4234">Woojeong Jin</author><author pid="13/7122">U Kang</author></authors><title>Fast and Accurate Random Walk with Restart on Dynamic Graphs with Guarantees.</title><venue>WWW</venue><pages>409-418</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YoonJK18</key><doi>10.1145/3178876.3186107</doi><ee>https://doi.org/10.1145/3178876.3186107</ee><url>https://dblp.org/rec/conf/www/YoonJK18</url></info>
+<url>URL#2355223</url>
+</hit>
+<hit score="1" id="2355224">
+<info><authors><author pid="185/4349">Brit Youngmann</author><author pid="47/4458">Elad Yom-Tov</author></authors><title>Anxiety and Information Seeking: Evidence From Large-Scale Mouse Tracking.</title><venue>WWW</venue><pages>753-762</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YoungmannY18</key><doi>10.1145/3178876.3186156</doi><ee>https://doi.org/10.1145/3178876.3186156</ee><url>https://dblp.org/rec/conf/www/YoungmannY18</url></info>
+<url>URL#2355224</url>
+</hit>
+<hit score="1" id="2355225">
+<info><authors><author pid="45/8097">Weiren Yu</author><author pid="88/898">Fan Wang</author></authors><title>Fast Exact CoSimRank Search on Evolving and Static Graphs.</title><venue>WWW</venue><pages>599-608</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YuW18</key><doi>10.1145/3178876.3186126</doi><ee>https://doi.org/10.1145/3178876.3186126</ee><url>https://dblp.org/rec/conf/www/YuW18</url></info>
+<url>URL#2355225</url>
+</hit>
+<hit score="1" id="2355226">
+<info><authors><author pid="96/9822">Wenhui Yu</author><author pid="59/5932">Huidi Zhang</author><author pid="59/1007">Xiangnan He 0001</author><author pid="83/6331-17">Xu Chen 0017</author><author pid="39/3530-1">Li Xiong 0001</author><author pid="95/6861-3">Zheng Qin 0003</author></authors><title>Aesthetic-based Clothing Recommendation.</title><venue>WWW</venue><pages>649-658</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/YuZHC0Q18</key><doi>10.1145/3178876.3186146</doi><ee>https://doi.org/10.1145/3178876.3186146</ee><url>https://dblp.org/rec/conf/www/YuZHC0Q18</url></info>
+<url>URL#2355226</url>
+</hit>
+<hit score="1" id="2355231">
+<info><authors><author pid="83/3714-6">Shuo Zhang 0006</author><author pid="85/4125">Krisztian Balog</author></authors><title>Ad Hoc Table Retrieval using Semantic Similarity.</title><venue>WWW</venue><pages>1553-1562</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhangB18</key><doi>10.1145/3178876.3186067</doi><ee>https://doi.org/10.1145/3178876.3186067</ee><url>https://dblp.org/rec/conf/www/ZhangB18</url></info>
+<url>URL#2355231</url>
+</hit>
+<hit score="1" id="2355234">
+<info><authors><author pid="06/6785-16">Yang Zhang 0016</author><author pid="83/8816">Mathias Humbert</author><author pid="142/1806">Tahleen A. Rahman</author><author pid="90/5961">Cheng-Te Li</author><author pid="p/JunPang">Jun Pang 0001</author><author pid="b/MichaelBackes1">Michael Backes 0001</author></authors><title>Tagvisor: A Privacy Advisor for Sharing Hashtags.</title><venue>WWW</venue><pages>287-296</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhangHRLP018</key><doi>10.1145/3178876.3186095</doi><ee>https://doi.org/10.1145/3178876.3186095</ee><url>https://dblp.org/rec/conf/www/ZhangHRLP018</url></info>
+<url>URL#2355234</url>
+</hit>
+<hit score="1" id="2355235">
+<info><authors><author pid="133/8537">Chuxu Zhang</author><author pid="18/4087-1">Chao Huang 0001</author><author pid="04/1781-6">Lu Yu 0006</author><author pid="74/1890-1">Xiangliang Zhang 0001</author><author pid="c/NiteshVChawla">Nitesh V. Chawla</author></authors><title>Camel: Content-Aware and Meta-path Augmented Metric Learning for Author Identification.</title><venue>WWW</venue><pages>709-718</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhangHYZC18</key><doi>10.1145/3178876.3186152</doi><ee>https://doi.org/10.1145/3178876.3186152</ee><url>https://dblp.org/rec/conf/www/ZhangHYZC18</url></info>
+<url>URL#2355235</url>
+</hit>
+<hit score="1" id="2355237">
+<info><authors><author pid="61/1229">Richong Zhang</author><author pid="143/6631">Junpeng Li</author><author pid="217/4630">Jiajie Mei</author><author pid="86/2933">Yongyi Mao</author></authors><title>Scalable Instance Reconstruction in Knowledge Bases via Relatedness Affiliated Embedding.</title><venue>WWW</venue><pages>1185-1194</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhangLMM18</key><doi>10.1145/3178876.3186017</doi><ee>https://doi.org/10.1145/3178876.3186017</ee><url>https://dblp.org/rec/conf/www/ZhangLMM18</url></info>
+<url>URL#2355237</url>
+</hit>
+<hit score="1" id="2355239">
+<info><authors><author pid="47/722">Yue Zhang</author><author pid="142/3247">Arti Ramesh</author><author pid="48/2412">Jennifer Golbeck</author><author pid="166/1752">Dhanya Sridhar</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>A Structured Approach to Understanding Recovery and Relapse in AA.</title><venue>WWW</venue><pages>1205-1214</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhangRGSG18</key><doi>10.1145/3178876.3186019</doi><ee>https://doi.org/10.1145/3178876.3186019</ee><url>https://dblp.org/rec/conf/www/ZhangRGSG18</url></info>
+<url>URL#2355239</url>
+</hit>
+<hit score="1" id="2355242">
+<info><authors><author pid="10/4661-56">Wei Zhang 0056</author><author pid="29/4680">Wen Wang</author><author pid="w/JunWang6">Jun Wang 0006</author><author pid="z/HongyuanZha">Hongyuan Zha</author></authors><title>User-guided Hierarchical Attention Network for Multi-modal Social Image Popularity Prediction.</title><venue>WWW</venue><pages>1277-1286</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhangWWZ18</key><doi>10.1145/3178876.3186026</doi><ee>https://doi.org/10.1145/3178876.3186026</ee><url>https://dblp.org/rec/conf/www/ZhangWWZ18</url></info>
+<url>URL#2355242</url>
+</hit>
+<hit score="1" id="2355243">
+<info><authors><author pid="120/2740">Yizhou Zhang</author><author pid="67/4330">Yun Xiong</author><author pid="06/8315">Xiangnan Kong</author><author pid="66/5479-1">Shanshan Li 0001</author><author pid="217/4616">Jinhong Mi</author><author pid="43/3858">Yangyong Zhu</author></authors><title>Deep Collective Classification in Heterogeneous Information Networks.</title><venue>WWW</venue><pages>399-408</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhangXKLMZ18</key><doi>10.1145/3178876.3186106</doi><ee>https://doi.org/10.1145/3178876.3186106</ee><url>https://dblp.org/rec/conf/www/ZhangXKLMZ18</url></info>
+<url>URL#2355243</url>
+</hit>
+<hit score="1" id="2355247">
+<info><authors><author pid="204/3356">Guanjie Zheng</author><author pid="134/2883">Fuzheng Zhang</author><author pid="192/4344">Zihan Zheng</author><author pid="50/2192">Yang Xiang</author><author pid="131/4855">Nicholas Jing Yuan</author><author pid="08/6809-1">Xing Xie 0001</author><author pid="27/178">Zhenhui Li</author></authors><title>DRN: A Deep Reinforcement Learning Framework for News Recommendation.</title><venue>WWW</venue><pages>167-176</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhengZZXY0L18</key><doi>10.1145/3178876.3185994</doi><ee>https://doi.org/10.1145/3178876.3185994</ee><url>https://dblp.org/rec/conf/www/ZhengZZXY0L18</url></info>
+<url>URL#2355247</url>
+</hit>
+<hit score="1" id="2355248">
+<info><authors><author pid="130/6425">Xiaoshi Zhong</author><author pid="80/7421">Erik Cambria</author></authors><title>Time Expression Recognition Using a Constituent-based Tagging Scheme.</title><venue>WWW</venue><pages>983-992</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZhongC18</key><doi>10.1145/3178876.3185997</doi><ee>https://doi.org/10.1145/3178876.3185997</ee><url>https://dblp.org/rec/conf/www/ZhongC18</url></info>
+<url>URL#2355248</url>
+</hit>
+<hit score="1" id="2355250">
+<info><authors><author pid="15/10220">Chenyi Zhuang</author><author pid="m/QiangMa1">Qiang Ma 0001</author></authors><title>Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification.</title><venue>WWW</venue><pages>499-508</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/Zhuang018</key><doi>10.1145/3178876.3186116</doi><ee>https://doi.org/10.1145/3178876.3186116</ee><url>https://dblp.org/rec/conf/www/Zhuang018</url></info>
+<url>URL#2355250</url>
+</hit>
+<hit score="1" id="2355251">
+<info><authors><author pid="98/5193-6">Bin Zou 0006</author><author pid="55/8355">Vasileios Lampos</author><author pid="c/IngemarJCox">Ingemar J. Cox</author></authors><title>Multi-Task Learning Improves Disease Models from Web Search.</title><venue>WWW</venue><pages>87-96</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZouLC18</key><doi>10.1145/3178876.3186050</doi><ee>https://doi.org/10.1145/3178876.3186050</ee><url>https://dblp.org/rec/conf/www/ZouLC18</url></info>
+<url>URL#2355251</url>
+</hit>
+<hit score="1" id="2355252">
+<info><authors><author pid="160/5938">Kaja Zupanc</author><author pid="d/JesseDavis">Jesse Davis</author></authors><title>Estimating Rule Quality for Knowledge Base Completion with the Relationship between Coverage Assumption.</title><venue>WWW</venue><pages>1073-1081</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/www/ZupancD18</key><doi>10.1145/3178876.3186006</doi><ee>https://doi.org/10.1145/3178876.3186006</ee><url>https://dblp.org/rec/conf/www/ZupancD18</url></info>
+<url>URL#2355252</url>
+</hit>
+<hit score="1" id="2359937">
+<info><authors><author pid="33/1865">Pierre-Antoine Champin</author><author pid="g/FabienLGandon">Fabien Gandon</author><author pid="l/MLalmas">Mounia Lalmas</author><author pid="39/986">Panagiotis G. Ipeirotis</author></authors><title>Proceedings of the 2018 World Wide Web Conference on World Wide Web, WWW 2018, Lyon, France, April 23-27, 2018</title><venue>WWW</venue><publisher>ACM</publisher><year>2018</year><type>Editorship</type><key>conf/www/2018</key><doi>10.1145/3178876</doi><ee>https://doi.org/10.1145/3178876</ee><url>https://dblp.org/rec/conf/www/2018</url></info>
+<url>URL#2359937</url>
+</hit>
+<hit score="1" id="2406444">
+<info><title>Protecting Social Network Users from Impersonation.</title><venue>WWW</venue><pages>1901-1908</pages><year>2018</year><type>Withdrawn Items</type><access>withdrawn</access><key>conf/www/FahamTLGKBF18</key><doi>10.1145/3178876.3186179</doi><ee>https://doi.org/10.1145/3178876.3186179</ee><url>https://dblp.org/rec/conf/www/FahamTLGKBF18</url></info>
+<url>URL#2406444</url>
+</hit>
+</hits>
+</result>

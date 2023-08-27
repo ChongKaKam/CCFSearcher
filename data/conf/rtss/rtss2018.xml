@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59387">:facetid:toc:\"db/conf/rtss/rtss2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">174.85</time>
+<completions total="1" computed="1" sent="1">
+<c sc="53" dc="53" oc="53" id="41061787">:facetid:toc:db/conf/rtss/rtss2018.bht</c>
+</completions>
+<hits total="53" computed="53" sent="53" first="0">
+<hit score="1" id="2328175">
+<info><authors><author pid="30/5956-1">Christian Dietrich 0001</author><author pid="57/863">Daniel Lohmann</author></authors><title>Semi-Extended Tasks: Efficient Stack Sharing Among Blocking Threads.</title><venue>RTSS</venue><pages>338-349</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0001L18</key><doi>10.1109/RTSS.2018.00049</doi><ee>https://doi.org/10.1109/RTSS.2018.00049</ee><url>https://dblp.org/rec/conf/rtss/0001L18</url></info>
+<url>URL#2328175</url>
+</hit>
+<hit score="1" id="2328176">
+<info><authors><author pid="117/7174-1">Sebastian Hahn 0001</author><author pid="67/3331">Jan Reineke 0001</author></authors><title>Design and Analysis of SIC: A Provably Timing-Predictable Pipelined Processor Core.</title><venue>RTSS</venue><pages>469-481</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0001R18</key><doi>10.1109/RTSS.2018.00060</doi><ee>https://doi.org/10.1109/RTSS.2018.00060</ee><url>https://dblp.org/rec/conf/rtss/0001R18</url></info>
+<url>URL#2328176</url>
+</hit>
+<hit score="1" id="2328177">
+<info><authors><author pid="15/6146-9">Peng Wu 0009</author><author pid="132/8094">Chenchen Fu</author><author pid="78/6881">Minming Li</author><author pid="55/6332">Yingchao Zhao 0001</author><author pid="x/ChunJasonXue">Chun Jason Xue</author><author pid="80/806-2">Song Han 0002</author></authors><title>Work-in-Progress: Joint Network and Computing Resource Scheduling for Wireless Networked Control Systems.</title><venue>RTSS</venue><pages>181-184</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0009FLZXH18</key><doi>10.1109/RTSS.2018.00035</doi><ee>https://doi.org/10.1109/RTSS.2018.00035</ee><url>https://dblp.org/rec/conf/rtss/0009FLZXH18</url></info>
+<url>URL#2328177</url>
+</hit>
+<hit score="1" id="2328178">
+<info><authors><author pid="55/5176-5">Ankit Agrawal 0005</author><author pid="19/5387">Renato Mancuso 0001</author><author pid="25/3790">Rodolfo Pellizzoni</author><author pid="29/2442">Gerhard Fohler</author></authors><title>Analysis of Dynamic Memory Bandwidth Regulation in Multi-core Real-Time Systems.</title><venue>RTSS</venue><pages>230-241</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Agrawal0PF18</key><doi>10.1109/RTSS.2018.00040</doi><ee>https://doi.org/10.1109/RTSS.2018.00040</ee><url>https://dblp.org/rec/conf/rtss/Agrawal0PF18</url></info>
+<url>URL#2328178</url>
+</hit>
+<hit score="1" id="2328179">
+<info><authors><author pid="135/6306">Giorgio Audrito</author><author pid="19/4742">Ferruccio Damiani</author><author pid="v/MirkoViroli">Mirko Viroli</author><author pid="84/2278">Enrico Bini</author></authors><title>Distributed Real-Time Shortest-Paths Computations with the Field Calculus.</title><venue>RTSS</venue><pages>23-34</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/AudritoDVB18</key><doi>10.1109/RTSS.2018.00013</doi><ee>https://doi.org/10.1109/RTSS.2018.00013</ee><url>https://dblp.org/rec/conf/rtss/AudritoDVB18</url></info>
+<url>URL#2328179</url>
+</hit>
+<hit score="1" id="2328180">
+<info><authors><author pid="204/3603">Yunhao Bai</author><author pid="148/1968">Kuangyu Zheng</author><author pid="166/3645">Zejiang Wang</author><author pid="18/5637">Xiaorui Wang</author><author pid="14/5122">Junmin Wang</author></authors><title>Dynamic Channel Selection for Real-Time Safety Message Communication in Vehicular Networks.</title><venue>RTSS</venue><pages>56-66</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BaiZWWW18</key><doi>10.1109/RTSS.2018.00016</doi><ee>https://doi.org/10.1109/RTSS.2018.00016</ee><url>https://dblp.org/rec/conf/rtss/BaiZWWW18</url></info>
+<url>URL#2328180</url>
+</hit>
+<hit score="1" id="2328181">
+<info><authors><author pid="233/0585">Shamit Bansal</author><author pid="199/8712">Yecheng Zhao</author><author pid="63/2279-1">Haibo Zeng 0001</author><author pid="72/2367">Kehua Yang</author></authors><title>Optimal Implementation of Simulink Models on Multicore Architectures with Partitioned Fixed Priority Scheduling.</title><venue>RTSS</venue><pages>242-253</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BansalZZY18</key><doi>10.1109/RTSS.2018.00041</doi><ee>https://doi.org/10.1109/RTSS.2018.00041</ee><url>https://dblp.org/rec/conf/rtss/BansalZZY18</url></info>
+<url>URL#2328181</url>
+</hit>
+<hit score="1" id="2328182">
+<info><authors><author pid="b/SKBaruah">Sanjoy K. Baruah</author></authors><title>Rapid Routing with Guaranteed Delay Bounds.</title><venue>RTSS</venue><pages>13-22</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Baruah18</key><doi>10.1109/RTSS.2018.00012</doi><ee>https://doi.org/10.1109/RTSS.2018.00012</ee><url>https://dblp.org/rec/conf/rtss/Baruah18</url></info>
+<url>URL#2328182</url>
+</hit>
+<hit score="1" id="2328183">
+<info><authors><author pid="224/5652">Soroush Bateni</author><author pid="95/6404-5">Cong Liu 0005</author></authors><title>ApNet: Approximation-Aware Real-Time Neural Network.</title><venue>RTSS</venue><pages>67-79</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Bateni018</key><doi>10.1109/RTSS.2018.00017</doi><ee>https://doi.org/10.1109/RTSS.2018.00017</ee><url>https://dblp.org/rec/conf/rtss/Bateni018</url></info>
+<url>URL#2328183</url>
+</hit>
+<hit score="1" id="2328184">
+<info><authors><author pid="224/5652">Soroush Bateni</author><author pid="160/7471">Husheng Zhou</author><author pid="125/1789">Yuankun Zhu</author><author pid="95/6404-5">Cong Liu 0005</author></authors><title>PredJoule: A Timing-Predictable Energy Optimization Framework for Deep Neural Networks.</title><venue>RTSS</venue><pages>107-118</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BateniZZ018</key><doi>10.1109/RTSS.2018.00020</doi><ee>https://doi.org/10.1109/RTSS.2018.00020</ee><url>https://dblp.org/rec/conf/rtss/BateniZZ018</url></info>
+<url>URL#2328184</url>
+</hit>
+<hit score="1" id="2328185">
+<info><authors><author pid="233/0570">Sandeep Kumar Bijinemula</author><author pid="206/2836">Aaron Willcock</author><author pid="59/2918">Thidapat Chantem</author><author pid="11/5001">Nathan Fisher</author></authors><title>An Efficient Knapsack-Based Approach for Calculating the Worst-Case Demand of AVR Tasks.</title><venue>RTSS</venue><pages>384-395</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BijinemulaWCF18</key><doi>10.1109/RTSS.2018.00053</doi><ee>https://doi.org/10.1109/RTSS.2018.00053</ee><url>https://dblp.org/rec/conf/rtss/BijinemulaWCF18</url></info>
+<url>URL#2328185</url>
+</hit>
+<hit score="1" id="2328186">
+<info><authors><author pid="117/8242">Nicola Capodieci</author><author pid="136/4964">Roberto Cavicchioli</author><author pid="31/4402">Marko Bertogna</author><author pid="233/0589">Aingara Paramakuru</author></authors><title>Deadline-Based Scheduling for GPU with Preemption Support.</title><venue>RTSS</venue><pages>119-130</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/CapodieciCBP18</key><doi>10.1109/RTSS.2018.00021</doi><ee>https://doi.org/10.1109/RTSS.2018.00021</ee><url>https://dblp.org/rec/conf/rtss/CapodieciCBP18</url></info>
+<url>URL#2328186</url>
+</hit>
+<hit score="1" id="2328187">
+<info><authors><author pid="228/2700">Jordi Cardona</author><author pid="77/7434">Carles Hernández 0001</author><author pid="72/8239">Enrico Mezzetti</author><author pid="97/5544">Jaume Abella 0001</author><author pid="52/1629">Francisco J. Cazorla</author></authors><title>NoCo: ILP-Based Worst-Case Contention Estimation for Mesh Real-Time Manycores.</title><venue>RTSS</venue><pages>265-276</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/CardonaHMAC18</key><doi>10.1109/RTSS.2018.00043</doi><ee>https://doi.org/10.1109/RTSS.2018.00043</ee><url>https://dblp.org/rec/conf/rtss/CardonaHMAC18</url></info>
+<url>URL#2328187</url>
+</hit>
+<hit score="1" id="2328188">
+<info><authors><author pid="201/8076">Daniel Casini</author><author pid="153/0102">Alessandro Biondi 0001</author><author pid="62/7802">Geoffrey Nelissen</author><author pid="79/666">Giorgio C. Buttazzo</author></authors><title>Memory Feasibility Analysis of Parallel Tasks Running on Scratchpad-Based Architectures.</title><venue>RTSS</venue><pages>312-324</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/CasiniBNB18</key><doi>10.1109/RTSS.2018.00047</doi><ee>https://doi.org/10.1109/RTSS.2018.00047</ee><url>https://dblp.org/rec/conf/rtss/CasiniBNB18</url></info>
+<url>URL#2328188</url>
+</hit>
+<hit score="1" id="2328189">
+<info><authors><author pid="201/8076">Daniel Casini</author><author pid="153/0102">Alessandro Biondi 0001</author><author pid="62/7802">Geoffrey Nelissen</author><author pid="79/666">Giorgio C. Buttazzo</author></authors><title>Partitioned Fixed-Priority Scheduling of Parallel Tasks Without Preemptions.</title><venue>RTSS</venue><pages>421-433</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/CasiniBNB18a</key><doi>10.1109/RTSS.2018.00056</doi><ee>https://doi.org/10.1109/RTSS.2018.00056</ee><url>https://dblp.org/rec/conf/rtss/CasiniBNB18a</url></info>
+<url>URL#2328189</url>
+</hit>
+<hit score="1" id="2328190">
+<info><authors><author pid="70/1961">Jian-Jia Chen</author><author pid="166/7057">Georg von der Brüggen</author><author pid="76/2364">Junjie Shi</author><author pid="208/0854">Niklas Ueter</author></authors><title>Dependency Graph Approach for Multiprocessor Real-Time Synchronization.</title><venue>RTSS</venue><pages>434-446</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ChenBSU18</key><doi>10.1109/RTSS.2018.00057</doi><ee>https://doi.org/10.1109/RTSS.2018.00057</ee><url>https://dblp.org/rec/conf/rtss/ChenBSU18</url></info>
+<url>URL#2328190</url>
+</hit>
+<hit score="1" id="2328191">
+<info><authors><author pid="c/AMKCheng">Albert Mo Kim Cheng</author><author pid="121/1949">Panruo Wu</author></authors><title>Work-in-Progress: Incorporating Deadline-Based Scheduling in Tasking Programming Model for Extreme-Scale Parallel Computing.</title><venue>RTSS</venue><pages>131-134</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ChengW18</key><doi>10.1109/RTSS.2018.00022</doi><ee>https://doi.org/10.1109/RTSS.2018.00022</ee><url>https://dblp.org/rec/conf/rtss/ChengW18</url></info>
+<url>URL#2328191</url>
+</hit>
+<hit score="1" id="2328192">
+<info><authors><author pid="23/9847">Sandeep D&apos;Souza</author><author pid="16/36">Ragunathan Rajkumar</author></authors><title>CycleTandem: Energy-Saving Scheduling for Real-Time Systems with Hardware Accelerators.</title><venue>RTSS</venue><pages>94-106</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/DSouzaR18</key><doi>10.1109/RTSS.2018.00019</doi><ee>https://doi.org/10.1109/RTSS.2018.00019</ee><url>https://dblp.org/rec/conf/rtss/DSouzaR18</url></info>
+<url>URL#2328192</url>
+</hit>
+<hit score="1" id="2328193">
+<info><authors><author pid="27/1207-2">Zheng Dong 0002</author><author pid="95/6404-5">Cong Liu 0005</author></authors><title>Work-in-Progress: New Analysis Techniques for Supporting Hard Real-Time Sporadic DAG Task Systems on Multiprocessors.</title><venue>RTSS</venue><pages>151-154</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Dong018</key><doi>10.1109/RTSS.2018.00027</doi><ee>https://doi.org/10.1109/RTSS.2018.00027</ee><url>https://dblp.org/rec/conf/rtss/Dong018</url></info>
+<url>URL#2328193</url>
+</hit>
+<hit score="1" id="2328194">
+<info><authors><author pid="47/5595">Pascal Fradet</author><author pid="233/0573">Maxime Lesourd</author><author pid="94/1213">Jean-François Monin</author><author pid="68/3657">Sophie Quinton</author></authors><title>A Generic Coq Proof of Typical Worst-Case Analysis.</title><venue>RTSS</venue><pages>218-229</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/FradetLMQ18</key><doi>10.1109/RTSS.2018.00039</doi><ee>https://doi.org/10.1109/RTSS.2018.00039</ee><url>https://dblp.org/rec/conf/rtss/FradetLMQ18</url></info>
+<url>URL#2328194</url>
+</hit>
+<hit score="1" id="2328195">
+<info><authors><author pid="224/5578">Frédéric Giroudot</author><author pid="09/105">Ahlem Mifdaoui</author></authors><title>Work-in-Progress: Extending Buffer-Aware Worst-Case Timing Analysis of Wormhole NoCs.</title><venue>RTSS</venue><pages>169-172</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GiroudotM18</key><doi>10.1109/RTSS.2018.00032</doi><ee>https://doi.org/10.1109/RTSS.2018.00032</ee><url>https://dblp.org/rec/conf/rtss/GiroudotM18</url></info>
+<url>URL#2328195</url>
+</hit>
+<hit score="1" id="2328196">
+<info><authors><author pid="233/0600">Ahmad Golchin</author><author pid="151/5390">Zhuoqun Cheng</author><author pid="w/RichardWest">Richard West</author></authors><title>Tuned Pipes: End-to-End Throughput and Delay Guarantees for USB Devices.</title><venue>RTSS</venue><pages>196-207</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GolchinCW18</key><doi>10.1109/RTSS.2018.00037</doi><ee>https://doi.org/10.1109/RTSS.2018.00037</ee><url>https://dblp.org/rec/conf/rtss/GolchinCW18</url></info>
+<url>URL#2328196</url>
+</hit>
+<hit score="1" id="2328197">
+<info><authors><author pid="39/4489">Zhishan Guo</author><author pid="137/0299-1">Kecheng Yang 0001</author><author pid="222/5967">Sudharsan Vaidhun</author><author pid="222/6063">Samsil Arefin</author><author pid="d/SajalKDas">Sajal K. Das 0001</author><author pid="06/2700">Haoyi Xiong</author></authors><title>Uniprocessor Mixed-Criticality Scheduling with Graceful Degradation by Completion Rate.</title><venue>RTSS</venue><pages>373-383</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GuoYVADX18</key><doi>10.1109/RTSS.2018.00052</doi><ee>https://doi.org/10.1109/RTSS.2018.00052</ee><url>https://dblp.org/rec/conf/rtss/GuoYVADX18</url></info>
+<url>URL#2328197</url>
+</hit>
+<hit score="1" id="2328198">
+<info><authors><author pid="37/8396">Akram Hakiri</author><author pid="83/287">Aniruddha S. Gokhale</author></authors><title>Work-in-Progress: Towards Real-Time Smart City Communications using Software Defined Wireless Mesh Networking.</title><venue>RTSS</venue><pages>177-180</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HakiriG18</key><doi>10.1109/RTSS.2018.00034</doi><ee>https://doi.org/10.1109/RTSS.2018.00034</ee><url>https://dblp.org/rec/conf/rtss/HakiriG18</url></info>
+<url>URL#2328198</url>
+</hit>
+<hit score="1" id="2328199">
+<info><authors><author pid="169/6191">Meiling Han</author><author pid="45/5411">Nan Guan</author><author pid="14/9961">Jinghao Sun</author><author pid="160/6184">Qingqiang He</author><author pid="95/63">Qingxu Deng</author><author pid="24/914">Weichen Liu</author></authors><title>Work-in-Progress: Response Time Bounds for Typed DAG Parallel Tasks on Heterogeneous Multi-cores.</title><venue>RTSS</venue><pages>155-156</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HanGSHDL18</key><doi>10.1109/RTSS.2018.00028</doi><ee>https://doi.org/10.1109/RTSS.2018.00028</ee><url>https://dblp.org/rec/conf/rtss/HanGSHDL18</url></info>
+<url>URL#2328199</url>
+</hit>
+<hit score="1" id="2328200">
+<info><authors><author pid="97/4989">Xin Han</author><author pid="63/5422">Liang Zhao</author><author pid="39/4489">Zhishan Guo</author><author pid="68/6399">Xingwu Liu</author></authors><title>An Improved Speedup Factor for Sporadic Tasks with Constrained Deadlines Under Dynamic Priority Scheduling.</title><venue>RTSS</venue><pages>447-455</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HanZGL18</key><doi>10.1109/RTSS.2018.00058</doi><ee>https://doi.org/10.1109/RTSS.2018.00058</ee><url>https://dblp.org/rec/conf/rtss/HanZGL18</url></info>
+<url>URL#2328200</url>
+</hit>
+<hit score="1" id="2328201">
+<info><authors><author pid="65/4298-2">Mohamed Hassan 0002</author></authors><title>On the Off-Chip Memory Latency of Real-Time Systems: Is DDR DRAM Really the Best Option?</title><venue>RTSS</venue><pages>495-505</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Hassan18</key><doi>10.1109/RTSS.2018.00062</doi><ee>https://doi.org/10.1109/RTSS.2018.00062</ee><url>https://dblp.org/rec/conf/rtss/Hassan18</url></info>
+<url>URL#2328201</url>
+</hit>
+<hit score="1" id="2328202">
+<info><authors><author pid="233/0594">Farouk Hebbache</author><author pid="j/MathieuJan">Mathieu Jan</author><author pid="49/1704">Florian Brandner</author><author pid="40/1113">Laurent Pautet</author></authors><title>Shedding the Shackles of Time-Division Multiplexing.</title><venue>RTSS</venue><pages>456-468</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HebbacheJBP18</key><doi>10.1109/RTSS.2018.00059</doi><ee>https://doi.org/10.1109/RTSS.2018.00059</ee><url>https://dblp.org/rec/conf/rtss/HebbacheJBP18</url></info>
+<url>URL#2328202</url>
+</hit>
+<hit score="1" id="2328203">
+<info><authors><author pid="188/1227">Mohammad Khayatian</author><author pid="202/9667">Mohammadreza Mehrabian</author><author pid="74/1669">Aviral Shrivastava</author></authors><title>RIM: Robust Intersection Management for Connected Autonomous Vehicles.</title><venue>RTSS</venue><pages>35-44</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KhayatianMS18</key><doi>10.1109/RTSS.2018.00014</doi><ee>https://doi.org/10.1109/RTSS.2018.00014</ee><url>https://dblp.org/rec/conf/rtss/KhayatianMS18</url></info>
+<url>URL#2328203</url>
+</hit>
+<hit score="1" id="2328204">
+<info><authors><author pid="07/3181">Tei-Wei Kuo</author><author pid="70/1961">Jian-Jia Chen</author><author pid="49/2395">Yuan-Hao Chang 0001</author><author pid="73/4832">Pi-Cheng Hsiu</author></authors><title>Real-Time Computing and the Evolution of Embedded System Designs.</title><venue>RTSS</venue><pages>1-12</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KuoCCH18</key><doi>10.1109/RTSS.2018.00011</doi><ee>https://doi.org/10.1109/RTSS.2018.00011</ee><url>https://dblp.org/rec/conf/rtss/KuoCCH18</url></info>
+<url>URL#2328204</url>
+</hit>
+<hit score="1" id="2328205">
+<info><authors><author pid="32/10300">Kilho Lee</author><author pid="164/1709">Taejune Park</author><author pid="25/6052">Minsu Kim</author><author pid="46/11077">Hoon Sung Chwa</author><author pid="39/1801-1">Jinkyu Lee 0001</author><author pid="84/3319">Seungwon Shin</author><author pid="45/4154">Insik Shin</author></authors><title>MC-SDN: Supporting Mixed-Criticality Scheduling on Switched-Ethernet Using Software-Defined Networking.</title><venue>RTSS</venue><pages>288-299</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LeePKCLSS18</key><doi>10.1109/RTSS.2018.00045</doi><ee>https://doi.org/10.1109/RTSS.2018.00045</ee><url>https://dblp.org/rec/conf/rtss/LeePKCLSS18</url></info>
+<url>URL#2328205</url>
+</hit>
+<hit score="1" id="2328206">
+<info><authors><author pid="99/4576">Frédéric Mallet</author><author pid="83/5342-2">Min Zhang 0002</author></authors><title>Work-in-Progress: From Logical Time Scheduling to Real-Time Scheduling.</title><venue>RTSS</venue><pages>143-146</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MalletZ18</key><doi>10.1109/RTSS.2018.00025</doi><ee>https://doi.org/10.1109/RTSS.2018.00025</ee><url>https://dblp.org/rec/conf/rtss/MalletZ18</url></info>
+<url>URL#2328206</url>
+</hit>
+<hit score="1" id="2328207">
+<info><authors><author pid="15/3696-1">Roberto Medina 0001</author><author pid="36/7358">Etienne Borde</author><author pid="40/1113">Laurent Pautet</author></authors><title>Scheduling Multi-periodic Mixed-Criticality DAGs on Multi-core Architectures.</title><venue>RTSS</venue><pages>254-264</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MedinaBP18</key><doi>10.1109/RTSS.2018.00042</doi><ee>https://doi.org/10.1109/RTSS.2018.00042</ee><url>https://dblp.org/rec/conf/rtss/MedinaBP18</url></info>
+<url>URL#2328207</url>
+</hit>
+<hit score="1" id="2328208">
+<info><authors><author pid="185/1606">Katherine Missimer</author><author pid="w/RichardWest">Richard West</author></authors><title>Partitioned Real-Time NAND Flash Storage.</title><venue>RTSS</venue><pages>185-195</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MissimerW18</key><doi>10.1109/RTSS.2018.00036</doi><ee>https://doi.org/10.1109/RTSS.2018.00036</ee><url>https://dblp.org/rec/conf/rtss/MissimerW18</url></info>
+<url>URL#2328208</url>
+</hit>
+<hit score="1" id="2328209">
+<info><authors><author pid="62/7802">Geoffrey Nelissen</author><author pid="153/0102">Alessandro Biondi 0001</author></authors><title>The SRP Resource Sharing Protocol for Self-Suspending Tasks.</title><venue>RTSS</venue><pages>361-372</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NelissenB18</key><doi>10.1109/RTSS.2018.00051</doi><ee>https://doi.org/10.1109/RTSS.2018.00051</ee><url>https://dblp.org/rec/conf/rtss/NelissenB18</url></info>
+<url>URL#2328209</url>
+</hit>
+<hit score="1" id="2328210">
+<info><authors><author pid="185/1709">Catherine E. Nemitz</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>Work-in-Progress: Lock-Based Software Transactional Memory for Real-Time Systems.</title><venue>RTSS</venue><pages>147-150</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NemitzA18</key><doi>10.1109/RTSS.2018.00026</doi><ee>https://doi.org/10.1109/RTSS.2018.00026</ee><url>https://dblp.org/rec/conf/rtss/NemitzA18</url></info>
+<url>URL#2328210</url>
+</hit>
+<hit score="1" id="2328211">
+<info><authors><author pid="13/3636">Linwei Niu</author><author pid="233/0577">Jonathan Musselwhite</author><author pid="64/6025-6">Wei Li 0006</author></authors><title>Work-in-Progress: Enhanced Energy-Aware Standby-Sparing Techniques for Fixed-Priority Hard Real-Time Systems.</title><venue>RTSS</venue><pages>165-168</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NiuML18</key><doi>10.1109/RTSS.2018.00031</doi><ee>https://doi.org/10.1109/RTSS.2018.00031</ee><url>https://dblp.org/rec/conf/rtss/NiuML18</url></info>
+<url>URL#2328211</url>
+</hit>
+<hit score="1" id="2328212">
+<info><authors><author pid="207/6400">Habeeb Olufowobi</author><author pid="76/7561">Gedare Bloom</author><author pid="233/0588">Clinton Young</author><author pid="93/412">Joseph Zambreno</author></authors><title>Work-in-Progress: Real-Time Modeling for Intrusion Detection in Automotive Controller Area Network.</title><venue>RTSS</venue><pages>161-164</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/OlufowobiBYZ18</key><doi>10.1109/RTSS.2018.00030</doi><ee>https://doi.org/10.1109/RTSS.2018.00030</ee><url>https://dblp.org/rec/conf/rtss/OlufowobiBYZ18</url></info>
+<url>URL#2328212</url>
+</hit>
+<hit score="1" id="2328213">
+<info><authors><author pid="233/0608">Sims Osborne</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>Work in Progress: Combining Real Time and Multithreading.</title><venue>RTSS</venue><pages>139-142</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/OsborneA18</key><doi>10.1109/RTSS.2018.00024</doi><ee>https://doi.org/10.1109/RTSS.2018.00024</ee><url>https://dblp.org/rec/conf/rtss/OsborneA18</url></info>
+<url>URL#2328213</url>
+</hit>
+<hit score="1" id="2328214">
+<info><authors><author pid="85/6436">Chao Peng</author><author pid="199/8712">Yecheng Zhao</author><author pid="63/2279-1">Haibo Zeng 0001</author></authors><title>Schedulability Analysis of Adaptive Variable-Rate Tasks with Dynamic Switching Speeds.</title><venue>RTSS</venue><pages>396-407</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/PengZZ18</key><doi>10.1109/RTSS.2018.00054</doi><ee>https://doi.org/10.1109/RTSS.2018.00054</ee><url>https://dblp.org/rec/conf/rtss/PengZZ18</url></info>
+<url>URL#2328214</url>
+</hit>
+<hit score="1" id="2328215">
+<info><authors><author pid="74/6354">Pavithra Prabhakar</author><author pid="170/6323">Ratan Lal</author><author pid="27/532">James Kapinski</author></authors><title>Automatic Trace Generation for Signal Temporal Logic.</title><venue>RTSS</venue><pages>208-217</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/PrabhakarLK18</key><doi>10.1109/RTSS.2018.00038</doi><ee>https://doi.org/10.1109/RTSS.2018.00038</ee><url>https://dblp.org/rec/conf/rtss/PrabhakarLK18</url></info>
+<url>URL#2328215</url>
+</hit>
+<hit score="1" id="2328216">
+<info><authors><author pid="95/10843">Selma Saidi</author><author pid="233/0575">Alexander Syring</author></authors><title>Exploiting Locality for the Performance Analysis of Shared Memory Systems in MPSoCs.</title><venue>RTSS</venue><pages>350-360</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SaidiS18</key><doi>10.1109/RTSS.2018.00050</doi><ee>https://doi.org/10.1109/RTSS.2018.00050</ee><url>https://dblp.org/rec/conf/rtss/SaidiS18</url></info>
+<url>URL#2328216</url>
+</hit>
+<hit score="1" id="2328217">
+<info><authors><author pid="204/7731-1">Aakash Soni 0001</author><author pid="08/8669-2">Xiaoting Li 0002</author><author pid="86/4510">Jean-Luc Scharbarg</author><author pid="93/3992">Christian Fraboul</author></authors><title>Optimizing Network Calculus for Switched Ethernet Network with Deficit Round Robin.</title><venue>RTSS</venue><pages>300-311</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SoniLSF18</key><doi>10.1109/RTSS.2018.00046</doi><ee>https://doi.org/10.1109/RTSS.2018.00046</ee><url>https://dblp.org/rec/conf/rtss/SoniLSF18</url></info>
+<url>URL#2328217</url>
+</hit>
+<hit score="1" id="2328218">
+<info><authors><author pid="213/8301">Sai Sruti</author><author pid="201/7981">Ashikahmed Bhuiyan</author><author pid="39/4489">Zhishan Guo</author></authors><title>Work-in-Progress: Precise Scheduling of Mixed-Criticality Tasks by Varying Processor Speed.</title><venue>RTSS</venue><pages>173-176</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/SrutiBG18</key><doi>10.1109/RTSS.2018.00033</doi><ee>https://doi.org/10.1109/RTSS.2018.00033</ee><url>https://dblp.org/rec/conf/rtss/SrutiBG18</url></info>
+<url>URL#2328218</url>
+</hit>
+<hit score="1" id="2328219">
+<info><authors><author pid="123/7765">Federico Terraneo</author><author pid="119/7836">Paolo Polidori</author><author pid="16/5296">Alberto Leva</author><author pid="16/4949">William Fornaciari</author></authors><title>TDMH-MAC: Real-Time and Multi-hop in the Same Wireless MAC.</title><venue>RTSS</venue><pages>277-287</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/TerraneoPLF18</key><doi>10.1109/RTSS.2018.00044</doi><ee>https://doi.org/10.1109/RTSS.2018.00044</ee><url>https://dblp.org/rec/conf/rtss/TerraneoPLF18</url></info>
+<url>URL#2328219</url>
+</hit>
+<hit score="1" id="2328220">
+<info><authors><author pid="166/6957">Corey Tessler</author><author pid="11/5001">Nathan Fisher</author></authors><title>BUNDLEP: Prioritizing Conflict Free Regions in Multi-threaded Programs to Improve Cache Reuse.</title><venue>RTSS</venue><pages>325-337</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/TesslerF18</key><doi>10.1109/RTSS.2018.00048</doi><ee>https://doi.org/10.1109/RTSS.2018.00048</ee><url>https://dblp.org/rec/conf/rtss/TesslerF18</url></info>
+<url>URL#2328220</url>
+</hit>
+<hit score="1" id="2328221">
+<info><authors><author pid="208/0854">Niklas Ueter</author><author pid="166/7057">Georg von der Brüggen</author><author pid="70/1961">Jian-Jia Chen</author><author pid="l/JingLi25">Jing Li 0025</author><author pid="35/962">Kunal Agrawal</author></authors><title>Reservation-Based Federated Scheduling for Parallel Real-Time Tasks.</title><venue>RTSS</venue><pages>482-494</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/UeterBCLA18</key><doi>10.1109/RTSS.2018.00061</doi><ee>https://doi.org/10.1109/RTSS.2018.00061</ee><url>https://dblp.org/rec/conf/rtss/UeterBCLA18</url></info>
+<url>URL#2328221</url>
+</hit>
+<hit score="1" id="2328222">
+<info><authors><author pid="227/5460">Sergey Voronov</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>An Optimal Semi-Partitioned Scheduler Assuming Arbitrary Affinity Masks.</title><venue>RTSS</venue><pages>408-420</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/VoronovA18</key><doi>10.1109/RTSS.2018.00055</doi><ee>https://doi.org/10.1109/RTSS.2018.00055</ee><url>https://dblp.org/rec/conf/rtss/VoronovA18</url></info>
+<url>URL#2328222</url>
+</hit>
+<hit score="1" id="2328223">
+<info><authors><author pid="54/1738">Guang Wang</author><author pid="217/5708">Xiaoyang Xie</author><author pid="21/3626-19">Fan Zhang 0019</author><author pid="38/559">Yunhuai Liu</author><author pid="15/8612">Desheng Zhang</author></authors><title>bCharge: Data-Driven Real-Time Charging Scheduling for Large-Scale Electric Bus Fleets.</title><venue>RTSS</venue><pages>45-55</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/WangXZLZ18</key><doi>10.1109/RTSS.2018.00015</doi><ee>https://doi.org/10.1109/RTSS.2018.00015</ee><url>https://dblp.org/rec/conf/rtss/WangXZLZ18</url></info>
+<url>URL#2328223</url>
+</hit>
+<hit score="1" id="2328224">
+<info><authors><author pid="56/1418">Qin Xia</author><author pid="64/4129">Dakai Zhu 0001</author><author pid="95/5362">Hakan Aydin</author></authors><title>Work-in-Progress: Preference-Oriented Scheduling in Multiprocessor Real-Time Systems.</title><venue>RTSS</venue><pages>135-138</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Xia0A18</key><doi>10.1109/RTSS.2018.00023</doi><ee>https://doi.org/10.1109/RTSS.2018.00023</ee><url>https://dblp.org/rec/conf/rtss/Xia0A18</url></info>
+<url>URL#2328224</url>
+</hit>
+<hit score="1" id="2328225">
+<info><authors><author pid="33/678">Hang Xu</author><author pid="46/2933-1">Frank Mueller 0001</author></authors><title>Work-in-Progress: Making Machine Learning Real-Time Predictable.</title><venue>RTSS</venue><pages>157-160</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/XuM18</key><doi>10.1109/RTSS.2018.00029</doi><ee>https://doi.org/10.1109/RTSS.2018.00029</ee><url>https://dblp.org/rec/conf/rtss/XuM18</url></info>
+<url>URL#2328225</url>
+</hit>
+<hit score="1" id="2328226">
+<info><authors><author pid="98/2604-36">Ming Yang 0036</author><author pid="208/0838">Tanya Amert</author><author pid="137/0299-1">Kecheng Yang 0001</author><author pid="137/3819">Nathan Otterness</author><author pid="a/JamesHAnderson">James H. Anderson</author><author pid="s/FDonelsonSmith">F. Donelson Smith</author><author pid="43/1697">Shige Wang</author></authors><title>Making OpenVX Really &quot;Real Time&quot;.</title><venue>RTSS</venue><pages>80-93</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/YangAYOASW18</key><doi>10.1109/RTSS.2018.00018</doi><ee>https://doi.org/10.1109/RTSS.2018.00018</ee><url>https://dblp.org/rec/conf/rtss/YangAYOASW18</url></info>
+<url>URL#2328226</url>
+</hit>
+<hit score="1" id="2359389">
+<info><title>2018 IEEE Real-Time Systems Symposium, RTSS 2018, Nashville, TN, USA, December 11-14, 2018</title><venue>RTSS</venue><publisher>IEEE Computer Society</publisher><year>2018</year><type>Editorship</type><key>conf/rtss/2018</key><ee>https://ieeexplore.ieee.org/xpl/conhome/8603126/proceeding</ee><url>https://dblp.org/rec/conf/rtss/2018</url></info>
+<url>URL#2359389</url>
+</hit>
+</hits>
+</result>

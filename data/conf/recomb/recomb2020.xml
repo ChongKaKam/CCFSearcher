@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="60032">:facetid:toc:\"db/conf/recomb/recomb2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">192.87</time>
+<completions total="1" computed="1" sent="1">
+<c sc="38" dc="38" oc="38" id="41060937">:facetid:toc:db/conf/recomb/recomb2020.bht</c>
+</completions>
+<hits total="38" computed="38" sent="38" first="0">
+<hit score="1" id="1511107">
+<info><authors><author pid="185/7369">Jasmijn A. Baaijens</author><author pid="05/1060">Leen Stougie</author><author pid="31/3700">Alexander Schönhuth</author></authors><title>Strain-Aware Assembly of Genomes from Mixed Samples Using Flow Variation Graphs.</title><venue>RECOMB</venue><pages>221-222</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BaaijensSS20</key><doi>10.1007/978-3-030-45257-5_14</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_14</ee><url>https://dblp.org/rec/conf/recomb/BaaijensSS20</url></info>
+<url>URL#1511107</url>
+</hit>
+<hit score="1" id="1511108">
+<info><authors><author pid="242/8888">Tavor Z. Baharav</author><author pid="26/10962">Govinda M. Kamath</author><author pid="t/DavidNCTse">David N. C. Tse</author><author pid="31/9223">Ilan Shomorony</author></authors><title>Spectral Jaccard Similarity: A New Approach to Estimating Pairwise Sequence Alignments.</title><venue>RECOMB</venue><pages>223-225</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BaharavKTS20</key><doi>10.1007/978-3-030-45257-5_15</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_15</ee><url>https://dblp.org/rec/conf/recomb/BaharavKTS20</url></info>
+<url>URL#1511108</url>
+</hit>
+<hit score="1" id="1511109">
+<info><authors><author pid="122/8750">Anton Bankevich</author><author pid="p/PAPevzner">Pavel A. Pevzner</author></authors><title>MosaicFlye: Resolving Long Mosaic Repeats Using Long Reads.</title><venue>RECOMB</venue><pages>226-228</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BankevichP20</key><doi>10.1007/978-3-030-45257-5_16</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_16</ee><url>https://dblp.org/rec/conf/recomb/BankevichP20</url></info>
+<url>URL#1511109</url>
+</hit>
+<hit score="1" id="1511110">
+<info><authors><author pid="256/1563">Leonard Bohnenkämper</author><author pid="65/6243">Marília D. V. Braga</author><author pid="22/10085">Daniel Doerr</author><author pid="72/3506">Jens Stoye</author></authors><title>Computing the Rearrangement Distance of Natural Genomes.</title><venue>RECOMB</venue><pages>3-18</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BohnenkamperBDS20</key><doi>10.1007/978-3-030-45257-5_1</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_1</ee><url>https://dblp.org/rec/conf/recomb/BohnenkamperBDS20</url></info>
+<url>URL#1511110</url>
+</hit>
+<hit score="1" id="1511111">
+<info><authors><author pid="263/2144">Nico Borgsmüller</author><author pid="263/2093-1">José Bonet 0001</author><author pid="263/2414">Francesco Marass</author><author pid="118/6093">Abel Gonzalez-Perez</author><author pid="62/106">Núria López-Bigas</author><author pid="58/2558">Niko Beerenwinkel</author></authors><title>Bayesian Non-parametric Clustering of Single-Cell Mutation Profiles.</title><venue>RECOMB</venue><pages>229-230</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BorgsmullerBMGL20</key><doi>10.1007/978-3-030-45257-5_17</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_17</ee><url>https://dblp.org/rec/conf/recomb/BorgsmullerBMGL20</url></info>
+<url>URL#1511111</url>
+</hit>
+<hit score="1" id="1511112">
+<info><authors><author pid="230/4263">Jannis Born</author><author pid="194/3100">Matteo Manica</author><author pid="200/3090">Ali Oskooei</author><author pid="263/2469">Joris Cadow</author><author pid="178/8685">María Rodríguez Martínez</author></authors><title>PaccMannRL: Designing Anticancer Drugs From Transcriptomic Data via Reinforcement Learning.</title><venue>RECOMB</venue><pages>231-233</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BornMOCM20</key><doi>10.1007/978-3-030-45257-5_18</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_18</ee><url>https://dblp.org/rec/conf/recomb/BornMOCM20</url></info>
+<url>URL#1511112</url>
+</hit>
+<hit score="1" id="1511113">
+<info><authors><author pid="250/0857">Aritra Bose</author><author pid="263/2606">Myson C. Burch</author><author pid="200/8520">Agniva Chowdhury</author><author pid="203/7687">Peristera Paschou</author><author pid="67/1567">Petros Drineas</author></authors><title>CluStrat: A Structure Informed Clustering Strategy for Population Stratification.</title><venue>RECOMB</venue><pages>234-236</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BoseBCPD20</key><doi>10.1007/978-3-030-45257-5_19</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_19</ee><url>https://dblp.org/rec/conf/recomb/BoseBCPD20</url></info>
+<url>URL#1511113</url>
+</hit>
+<hit score="1" id="1511114">
+<info><authors><author pid="187/4221">Nadav Brandes</author><author pid="l/NathanLinial">Nathan Linial</author><author pid="13/1697">Michal Linial</author></authors><title>PWAS: Proteome-Wide Association Study.</title><venue>RECOMB</venue><pages>237-239</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BrandesLL20</key><doi>10.1007/978-3-030-45257-5_20</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_20</ee><url>https://dblp.org/rec/conf/recomb/BrandesLL20</url></info>
+<url>URL#1511114</url>
+</hit>
+<hit score="1" id="1511115">
+<info><authors><author pid="263/2438">Christa Caggiano</author><author pid="263/2615">Barbara Celona</author><author pid="263/2038">Fleur Garton</author><author pid="240/6355">Joel Mefford</author><author pid="263/2421">Brian Black</author><author pid="263/2706">Catherine Lomen-Hoerth</author><author pid="263/2405">Andrew Dahl</author><author pid="08/6902">Noah Zaitlen</author></authors><title>Estimating the Rate of Cell Type Degeneration from Epigenetic Sequencing of Cell-Free DNA.</title><venue>RECOMB</venue><pages>240-242</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/CaggianoCGMBLDZ20</key><doi>10.1007/978-3-030-45257-5_21</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_21</ee><url>https://dblp.org/rec/conf/recomb/CaggianoCGMBLDZ20</url></info>
+<url>URL#1511115</url>
+</hit>
+<hit score="1" id="1511116">
+<info><authors><author pid="263/2236">Gizem Caylak</author><author pid="47/11102">A. Ercüment Çiçek</author></authors><title>Potpourri: An Epistasis Test Prioritization Algorithm via Diverse SNP Selection.</title><venue>RECOMB</venue><pages>243-244</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/CaylakC20</key><doi>10.1007/978-3-030-45257-5_22</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_22</ee><url>https://dblp.org/rec/conf/recomb/CaylakC20</url></info>
+<url>URL#1511116</url>
+</hit>
+<hit score="1" id="1511117">
+<info><authors><author pid="160/6954">Hyunghoon Cho</author><author pid="20/7399">Sean Simmons 0001</author><author pid="82/10275">Ryan Kim</author><author pid="b/BonnieBerger">Bonnie Berger</author></authors><title>Privacy-Preserving Biomedical Database Queries with Optimal Privacy-Utility Trade-Offs.</title><venue>RECOMB</venue><pages>245-247</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/Cho0KB20</key><doi>10.1007/978-3-030-45257-5_23</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_23</ee><url>https://dblp.org/rec/conf/recomb/Cho0KB20</url></info>
+<url>URL#1511117</url>
+</hit>
+<hit score="1" id="1511118">
+<info><authors><author pid="159/2853">Kamran Ghasedi Dizaji</author><author pid="181/2832-74">Wei Chen 0074</author><author pid="03/281">Heng Huang</author></authors><title>Deep Large-Scale Multi-task Learning Network for Gene Expression Inference.</title><venue>RECOMB</venue><pages>19-36</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/DizajiCH20</key><doi>10.1007/978-3-030-45257-5_2</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_2</ee><url>https://dblp.org/rec/conf/recomb/DizajiCH20</url></info>
+<url>URL#1511118</url>
+</hit>
+<hit score="1" id="1511119">
+<info><authors><author pid="263/2524">Baris Ekim</author><author pid="b/BonnieBerger">Bonnie Berger</author><author pid="27/10296">Yaron Orenstein</author></authors><title>A Randomized Parallel Algorithm for Efficiently Finding Near-Optimal Universal Hitting Sets.</title><venue>RECOMB</venue><pages>37-53</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/EkimBO20</key><doi>10.1007/978-3-030-45257-5_3</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_3</ee><url>https://dblp.org/rec/conf/recomb/EkimBO20</url></info>
+<url>URL#1511119</url>
+</hit>
+<hit score="1" id="1511120">
+<info><authors><author pid="263/2408">Kristen Emery</author><author pid="263/2680">Syamand Hasam</author><author pid="08/978">William Stafford Noble</author><author pid="k/UriKeich">Uri Keich</author></authors><title>Multiple Competition-Based FDR Control and Its Application to Peptide Detection.</title><venue>RECOMB</venue><pages>54-71</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/EmeryHNK20</key><doi>10.1007/978-3-030-45257-5_4</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_4</ee><url>https://dblp.org/rec/conf/recomb/EmeryHNK20</url></info>
+<url>URL#1511120</url>
+</hit>
+<hit score="1" id="1511121">
+<info><authors><author pid="86/5355">Chao Gao</author><author pid="123/6991">Joshua D. Welch</author></authors><title>Iterative Refinement of Cellular Identity from Single-Cell Data Using Online Learning.</title><venue>RECOMB</venue><pages>248-250</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/GaoW20</key><doi>10.1007/978-3-030-45257-5_24</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_24</ee><url>https://dblp.org/rec/conf/recomb/GaoW20</url></info>
+<url>URL#1511121</url>
+</hit>
+<hit score="1" id="1511122">
+<info><authors><author pid="228/2581">Songwei Ge</author><author pid="132/4066">Haohan Wang</author><author pid="199/1374">Amir Alavi</author><author pid="36/3855">Eric P. Xing</author><author pid="66/6963">Ziv Bar-Joseph</author></authors><title>Supervised Adversarial Alignment of Single-Cell RNA-seq Data.</title><venue>RECOMB</venue><pages>72-87</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/GeWAXB20</key><doi>10.1007/978-3-030-45257-5_5</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_5</ee><url>https://dblp.org/rec/conf/recomb/GeWAXB20</url></info>
+<url>URL#1511122</url>
+</hit>
+<hit score="1" id="1511123">
+<info><authors><author pid="249/0479">Yuzhi Guo</author><author pid="119/6799-1">Jiaxiang Wu 0001</author><author pid="263/2003">Hehuan Ma</author><author pid="85/1868">Sheng Wang</author><author pid="22/1170">Junzhou Huang</author></authors><title>Bagging MSA Learning: Enhancing Low-Quality PSSM with Deep Learning for Accurate Protein Structure Property Prediction.</title><venue>RECOMB</venue><pages>88-103</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/GuoWMWH20</key><doi>10.1007/978-3-030-45257-5_6</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_6</ee><url>https://dblp.org/rec/conf/recomb/GuoWMWH20</url></info>
+<url>URL#1511123</url>
+</hit>
+<hit score="1" id="1511124">
+<info><authors><author pid="69/8712">Borislav H. Hristov</author><author pid="c/BernardChazelle">Bernard Chazelle</author><author pid="73/6093-1">Mona Singh 0001</author></authors><title>A Guided Network Propagation Approach to Identify Disease Genes that Combines Prior and New Information.</title><venue>RECOMB</venue><pages>251-252</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/HristovC020</key><doi>10.1007/978-3-030-45257-5_25</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_25</ee><url>https://dblp.org/rec/conf/recomb/HristovC020</url></info>
+<url>URL#1511124</url>
+</hit>
+<hit score="1" id="1511125">
+<info><authors><author pid="227/9124">Pesho Ivanov</author><author pid="187/8970">Benjamin Bichsel</author><author pid="235/6534">Harun Mustafa</author><author pid="17/11107">André Kahles</author><author pid="33/3796">Gunnar Rätsch</author><author pid="93/2189">Martin T. Vechev</author></authors><title>AStarix: Fast and Optimal Sequence-to-Graph Alignment.</title><venue>RECOMB</venue><pages>104-119</pages><year>2020</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/IvanovBMKRV20</key><doi>10.1007/978-3-030-45257-5_7</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_7</ee><url>https://dblp.org/rec/conf/recomb/IvanovBMKRV20</url></info>
+<url>URL#1511125</url>
+</hit>
+<hit score="1" id="1511126">
+<info><authors><author pid="164/9489">Ruth Johnson</author><author pid="240/6376">Kathryn S. Burch</author><author pid="224/0057">Kangcheng Hou</author><author pid="263/2028">Mario Paciuc</author><author pid="18/2191">Bogdan Pasaniuc</author><author pid="15/5327">Sriram Sankararaman</author></authors><title>A Scalable Method for Estimating the Regional Polygenicity of Complex Traits.</title><venue>RECOMB</venue><pages>253-254</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/JohnsonBHPPS20</key><doi>10.1007/978-3-030-45257-5_26</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_26</ee><url>https://dblp.org/rec/conf/recomb/JohnsonBHPPS20</url></info>
+<url>URL#1511126</url>
+</hit>
+<hit score="1" id="1511127">
+<info><authors><author pid="217/7759">Tyler A. Joseph</author><author pid="263/2562">Amey P. Pasarkar</author><author pid="43/6414">Itsik Pe&apos;er</author></authors><title>Efficient and Accurate Inference of Microbial Trajectories from Longitudinal Count Data.</title><venue>RECOMB</venue><pages>255-256</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/JosephPP20</key><doi>10.1007/978-3-030-45257-5_27</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_27</ee><url>https://dblp.org/rec/conf/recomb/JosephPP20</url></info>
+<url>URL#1511127</url>
+</hit>
+<hit score="1" id="1511128">
+<info><authors><author pid="126/1993">Nathan LaPierre</author><author pid="263/2291">Kodi Taraszka</author><author pid="263/2590">Helen Huang</author><author pid="263/2623">Rosemary He</author><author pid="09/6555">Farhad Hormozdiari</author><author pid="e/EEskin">Eleazar Eskin</author></authors><title>Identifying Causal Variants by Fine Mapping Across Multiple Studies.</title><venue>RECOMB</venue><pages>257-258</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/LaPierreTHHHE20</key><doi>10.1007/978-3-030-45257-5_28</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_28</ee><url>https://dblp.org/rec/conf/recomb/LaPierreTHHHE20</url></info>
+<url>URL#1511128</url>
+</hit>
+<hit score="1" id="1511129">
+<info><authors><author pid="263/2245">Brandon Legried</author><author pid="138/6797">Erin K. Molloy</author><author pid="w/TandyWarnow">Tandy J. Warnow</author><author pid="42/5427">Sébastien Roch</author></authors><title>Polynomial-Time Statistical Estimation of Species Trees Under Gene Duplication and Loss.</title><venue>RECOMB</venue><pages>120-135</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/LegriedMWR20</key><doi>10.1007/978-3-030-45257-5_8</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_8</ee><url>https://dblp.org/rec/conf/recomb/LegriedMWR20</url></info>
+<url>URL#1511129</url>
+</hit>
+<hit score="1" id="1511130">
+<info><authors><author pid="253/4507">Shuya Li</author><author pid="232/6314">Fangping Wan</author><author pid="263/2209">Hantao Shu</author><author pid="j/TaoJiang-1">Tao Jiang 0001</author><author pid="10/3489">Dan Zhao</author><author pid="59/6722-1">Jianyang Zeng 0001</author></authors><title>MONN: A Multi-objective Neural Network for Predicting Pairwise Non-covalent Interactions and Binding Affinities Between Compounds and Proteins.</title><venue>RECOMB</venue><pages>259-260</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/LiWSJZZ20</key><doi>10.1007/978-3-030-45257-5_29</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_29</ee><url>https://dblp.org/rec/conf/recomb/LiWSJZZ20</url></info>
+<url>URL#1511130</url>
+</hit>
+<hit score="1" id="1511131">
+<info><authors><author pid="225/8950">Yunan Luo</author><author pid="263/2629">Lam Vo</author><author pid="242/8095">Hantian Ding</author><author pid="164/9218">Yufeng Su</author><author pid="51/3710-97">Yang Liu 0097</author><author pid="263/2040">Wesley Wei Qian</author><author pid="91/6896">Huimin Zhao</author><author pid="29/4181-1">Jian Peng 0001</author></authors><title>Evolutionary Context-Integrated Deep Sequence Modeling for Protein Engineering.</title><venue>RECOMB</venue><pages>261-263</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/LuoVDS0QZ020</key><doi>10.1007/978-3-030-45257-5_30</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_30</ee><url>https://dblp.org/rec/conf/recomb/LuoVDS0QZ020</url></info>
+<url>URL#1511131</url>
+</hit>
+<hit score="1" id="1511132">
+<info><authors><author pid="193/2715">Uyen Mai</author><author pid="40/4665">Siavash Mirarab</author></authors><title>Log Transformation Improves Dating of Phylogenies.</title><venue>RECOMB</venue><pages>264-265</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/MaiM20</key><doi>10.1007/978-3-030-45257-5_31</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_31</ee><url>https://dblp.org/rec/conf/recomb/MaiM20</url></info>
+<url>URL#1511132</url>
+</hit>
+<hit score="1" id="1511133">
+<info><authors><author pid="177/0006">Sneha Mitra</author><author pid="142/5065">Jianling Zhong</author><author pid="196/5321">David M. MacAlpine</author><author pid="64/1983">Alexander J. Hartemink</author></authors><title>RoboCOP: Multivariate State Space Model Integrating Epigenomic Accessibility Data to Elucidate Genome-Wide Chromatin Occupancy.</title><venue>RECOMB</venue><pages>136-151</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/MitraZMH20</key><doi>10.1007/978-3-030-45257-5_9</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_9</ee><url>https://dblp.org/rec/conf/recomb/MitraZMH20</url></info>
+<url>URL#1511133</url>
+</hit>
+<hit score="1" id="1511134">
+<info><authors><author pid="143/7344">Brooks Paige</author><author pid="238/0043">James Bell 0001</author><author pid="61/8017">Aurélien Bellet</author><author pid="90/3256">Adrià Gascón</author><author pid="167/1947">Daphne Ezer</author></authors><title>Reconstructing Genotypes in Private Genomic Databases from Genetic Risk Scores.</title><venue>RECOMB</venue><pages>266-268</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/PaigeBBGE20</key><doi>10.1007/978-3-030-45257-5_32</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_32</ee><url>https://dblp.org/rec/conf/recomb/PaigeBBGE20</url></info>
+<url>URL#1511134</url>
+</hit>
+<hit score="1" id="1511135">
+<info><authors><author pid="205/9463">Amatur Rahman</author><author pid="95/4828">Paul Medvedev</author></authors><title>Representation of k-mer Sets Using Spectrum-Preserving String Sets.</title><venue>RECOMB</venue><pages>152-168</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/RahmanM20</key><doi>10.1007/978-3-030-45257-5_10</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_10</ee><url>https://dblp.org/rec/conf/recomb/RahmanM20</url></info>
+<url>URL#1511135</url>
+</hit>
+<hit score="1" id="1511136">
+<info><authors><author pid="156/7586">Matthew A. Reyna</author><author pid="239/5885">Uthsav Chitra</author><author pid="212/0293">Rebecca Elyanow</author><author pid="23/3243">Benjamin J. Raphael</author></authors><title>NetMix: A Network-Structured Mixture Model for Reduced-Bias Estimation of Altered Subnetworks.</title><venue>RECOMB</venue><pages>169-185</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ReynaCER20</key><doi>10.1007/978-3-030-45257-5_11</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_11</ee><url>https://dblp.org/rec/conf/recomb/ReynaCER20</url></info>
+<url>URL#1511136</url>
+</hit>
+<hit score="1" id="1511137">
+<info><authors><author pid="263/1906">Ahsan Sanaullah</author><author pid="64/2908">Degui Zhi</author><author pid="42/3657">Shaojie Zhang</author></authors><title>d-PBWT: Dynamic Positional Burrows-Wheeler Transform.</title><venue>RECOMB</venue><pages>269-270</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/SanaullahZZ20</key><doi>10.1007/978-3-030-45257-5_33</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_33</ee><url>https://dblp.org/rec/conf/recomb/SanaullahZZ20</url></info>
+<url>URL#1511137</url>
+</hit>
+<hit score="1" id="1511138">
+<info><authors><author pid="263/2479">Roman Sarrazin-Gendron</author><author pid="249/0210">Hua-Ting Yao</author><author pid="49/11537">Vladimir Reinharz</author><author pid="205/3100">Carlos G. Oliver</author><author pid="p/YannPonty">Yann Ponty</author><author pid="73/6365">Jérôme Waldispühl</author></authors><title>Stochastic Sampling of Structural Contexts Improves the Scalability and Accuracy of RNA 3D Module Identification.</title><venue>RECOMB</venue><pages>186-201</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/Sarrazin-Gendron20</key><doi>10.1007/978-3-030-45257-5_12</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_12</ee><url>https://dblp.org/rec/conf/recomb/Sarrazin-Gendron20</url></info>
+<url>URL#1511138</url>
+</hit>
+<hit score="1" id="1511139">
+<info><authors><author pid="238/9810">Itay Sason</author><author pid="178/3661">Yuexi Chen</author><author pid="23/6320">Mark D. M. Leiserson</author><author pid="05/902">Roded Sharan</author></authors><title>A Mixture Model for Signature Discovery from Sparse Mutation Data.</title><venue>RECOMB</venue><pages>271-272</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/SasonCLS20</key><doi>10.1007/978-3-030-45257-5_34</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_34</ee><url>https://dblp.org/rec/conf/recomb/SasonCLS20</url></info>
+<url>URL#1511139</url>
+</hit>
+<hit score="1" id="1511140">
+<info><authors><author pid="155/1370">Gryte Satas</author><author pid="140/3270">Simone Zaccaria</author><author pid="194/7690">Geoffrey Mon</author><author pid="23/3243">Benjamin J. Raphael</author></authors><title>Single-Cell Tumor Phylogeny Inference with Copy-Number Constrained Mutation Losses.</title><venue>RECOMB</venue><pages>273</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/SatasZMR20</key><doi>10.1007/978-3-030-45257-5_35</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_35</ee><url>https://dblp.org/rec/conf/recomb/SatasZMR20</url></info>
+<url>URL#1511140</url>
+</hit>
+<hit score="1" id="1511141">
+<info><authors><author pid="91/1726-4">Yijie Wang 0004</author><author pid="219/4300">Justin M. Fear</author><author pid="263/2514">Isabelle Berger</author><author pid="240/6403">Hangnoh Lee</author><author pid="137/1601">Brian Oliver</author><author pid="17/6857">Teresa M. Przytycka</author></authors><title>Reconstruction of Gene Regulatory Networks by Integrating Biological Model and a Recommendation System.</title><venue>RECOMB</venue><pages>274-275</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/WangFBLOP20</key><doi>10.1007/978-3-030-45257-5_36</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_36</ee><url>https://dblp.org/rec/conf/recomb/WangFBLOP20</url></info>
+<url>URL#1511141</url>
+</hit>
+<hit score="1" id="1511142">
+<info><authors><author pid="37/3381">Ruochi Zhang</author><author pid="26/4870-4">Jian Ma 0004</author></authors><title>Probing Multi-way Chromatin Interaction with Hypergraph Representation Learning.</title><venue>RECOMB</venue><pages>276-277</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/Zhang020</key><doi>10.1007/978-3-030-45257-5_37</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_37</ee><url>https://dblp.org/rec/conf/recomb/Zhang020</url></info>
+<url>URL#1511142</url>
+</hit>
+<hit score="1" id="1511143">
+<info><authors><author pid="202/2092-1">Hongyu Zheng 0001</author><author pid="75/4537">Carl Kingsford</author><author pid="06/3419">Guillaume Marçais</author></authors><title>Lower Density Selection Schemes via Small Universal Hitting Sets with Short Remaining Path Length.</title><venue>RECOMB</venue><pages>202-217</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ZhengKM20</key><doi>10.1007/978-3-030-45257-5_13</doi><ee>https://doi.org/10.1007/978-3-030-45257-5_13</ee><url>https://dblp.org/rec/conf/recomb/ZhengKM20</url></info>
+<url>URL#1511143</url>
+</hit>
+<hit score="1" id="1540913">
+<info><authors><author pid="77/4437">Russell Schwartz</author></authors><title>Research in Computational Molecular Biology - 24th Annual International Conference, RECOMB 2020, Padua, Italy, May 10-13, 2020, Proceedings</title><venue>RECOMB</venue><venue>Lecture Notes in Computer Science</venue><volume>12074</volume><publisher>Springer</publisher><year>2020</year><type>Editorship</type><key>conf/recomb/2020</key><doi>10.1007/978-3-030-45257-5</doi><ee>https://doi.org/10.1007/978-3-030-45257-5</ee><url>https://dblp.org/rec/conf/recomb/2020</url></info>
+<url>URL#1540913</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59522">:facetid:toc:\"db/conf/ipsn/ipsn2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">192.78</time>
+<completions total="1" computed="1" sent="1">
+<c sc="44" dc="44" oc="44" id="41048637">:facetid:toc:db/conf/ipsn/ipsn2021.bht</c>
+</completions>
+<hits total="44" computed="44" sent="44" first="0">
+<hit score="1" id="1038100">
+<info><authors><author pid="35/7092-56">Wei Wang 0056</author><author pid="300/8965">Dingsheng He</author><author pid="300/9027">Wan Jia</author><author pid="95/10521">Xiaojiang Chen</author><author pid="65/4916">Tao Gu</author><author pid="86/1422">Haiyan Liu</author><author pid="223/6917">Xiaoyang Sun</author><author pid="60/10245">Guannan Chen</author><author pid="170/5445">Fuping Wu</author></authors><title>PRComm: Anti-Interference Cross-Technology Communication Based on Pseudo-random Sequence.</title><venue>IPSN</venue><pages>163-175</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/0056HJCGLSCW21</key><doi>10.1145/3412382.3458264</doi><ee>https://doi.org/10.1145/3412382.3458264</ee><url>https://dblp.org/rec/conf/ipsn/0056HJCGLSCW21</url></info>
+<url>URL#1038100</url>
+</hit>
+<hit score="1" id="1038101">
+<info><authors><author pid="197/0145">Murtadha Aldeer</author></authors><title>User Identification using Smart Pill Bottles: Systems and Machine Learning Models: PhD Forum Abstract.</title><venue>IPSN</venue><pages>414-415</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Aldeer21</key><doi>10.1145/3412382.3459210</doi><ee>https://doi.org/10.1145/3412382.3459210</ee><url>https://dblp.org/rec/conf/ipsn/Aldeer21</url></info>
+<url>URL#1038101</url>
+</hit>
+<hit score="1" id="1038102">
+<info><authors><author pid="197/0145">Murtadha Aldeer</author><author pid="26/1455">Richard E. Howard</author><author pid="55/3942">Richard P. Martin</author><author pid="53/4663-1">Jorge Ortiz 0001</author></authors><title>User Identification Across Multiple Smart Pill Bottle Systems: Poster Abstract.</title><venue>IPSN</venue><pages>400-401</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/AldeerHMO21</key><doi>10.1145/3412382.3458783</doi><ee>https://doi.org/10.1145/3412382.3458783</ee><url>https://dblp.org/rec/conf/ipsn/AldeerHMO21</url></info>
+<url>URL#1038102</url>
+</hit>
+<hit score="1" id="1038103">
+<info><authors><author pid="31/5915">Atul Bansal</author><author pid="181/3405">Akshay Gadre</author><author pid="99/8649">Vaibhav Singh</author><author pid="02/630">Anthony G. Rowe</author><author pid="45/7855">Bob Iannucci</author><author pid="44/8737">Swarun Kumar</author></authors><title>OwLL: Accurate LoRa Localization using the TV Whitespaces.</title><venue>IPSN</venue><pages>148-162</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BansalGSRIK21</key><doi>10.1145/3412382.3458263</doi><ee>https://doi.org/10.1145/3412382.3458263</ee><url>https://dblp.org/rec/conf/ipsn/BansalGSRIK21</url></info>
+<url>URL#1038103</url>
+</hit>
+<hit score="1" id="1038104">
+<info><authors><author pid="248/3586">Md Fazlay Rabbi Masum Billah</author><author pid="257/2528">Nurani Saoda</author><author pid="259/6255">Jiechao Gao</author><author pid="21/10522">Bradford Campbell</author></authors><title>BLE Can See: A Reinforcement Learning Approach for RF-based Indoor Occupancy Detection.</title><venue>IPSN</venue><pages>132-147</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BillahSGC21</key><doi>10.1145/3412382.3458262</doi><ee>https://doi.org/10.1145/3412382.3458262</ee><url>https://dblp.org/rec/conf/ipsn/BillahSGC21</url></info>
+<url>URL#1038104</url>
+</hit>
+<hit score="1" id="1038105">
+<info><authors><author pid="206/8683">Amelie Bonde</author><author pid="268/2312">Jesse R. Codling</author><author pid="292/8627">Kanittha Naruethep</author><author pid="274/6496-1">Yiwen Dong 0001</author><author pid="292/9607">Wachirawich Siripaktanakon</author><author pid="292/9934">Sripong Ariyadech</author><author pid="16/11344">Akkarit Sangpetch</author><author pid="201/2728">Orathai Sangpetch</author><author pid="98/10484">Shijia Pan</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author></authors><title>PigNet: Failure-Tolerant Pig Activity Monitoring System Using Structural Vibration.</title><venue>IPSN</venue><pages>328-340</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BondeCNDSASSPN021</key><doi>10.1145/3412382.3458902</doi><ee>https://doi.org/10.1145/3412382.3458902</ee><url>https://dblp.org/rec/conf/ipsn/BondeCNDSASSPN021</url></info>
+<url>URL#1038105</url>
+</hit>
+<hit score="1" id="1038106">
+<info><authors><author pid="173/2865">Ryan Brummet</author><author pid="273/3596">Md Kowsar Hossain</author><author pid="89/3370">Octav Chipara</author><author pid="72/6812">Ted Herman</author><author pid="49/502">Steve Goddard</author></authors><title>WARP: On-the-fly Program Synthesis for Agile, Real-time, and Reliable Wireless Networks.</title><venue>IPSN</venue><pages>254-267</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/BrummetHCHG21</key><doi>10.1145/3412382.3458270</doi><ee>https://doi.org/10.1145/3412382.3458270</ee><url>https://dblp.org/rec/conf/ipsn/BrummetHCHG21</url></info>
+<url>URL#1038106</url>
+</hit>
+<hit score="1" id="1038107">
+<info><authors><author pid="65/4423">Chen Chen</author><author pid="69/476-12">Ke Sun 0012</author><author pid="58/4582-3">Xinyu Zhang 0003</author></authors><title>ExGSense: Toward Facial Gesture Sensing with a Sparse Near-Eye Sensor Array.</title><venue>IPSN</venue><pages>222-237</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ChenS021</key><doi>10.1145/3412382.3458268</doi><ee>https://doi.org/10.1145/3412382.3458268</ee><url>https://dblp.org/rec/conf/ipsn/ChenS021</url></info>
+<url>URL#1038107</url>
+</hit>
+<hit score="1" id="1038108">
+<info><authors><author pid="291/9464">Tahiya Chowdhury</author></authors><title>Towards Reducing Labeling Efforts in IoT-based Machine Learning Systems: PhD Forum Abstract.</title><venue>IPSN</venue><pages>416-417</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Chowdhury21</key><doi>10.1145/3412382.3459211</doi><ee>https://doi.org/10.1145/3412382.3459211</ee><url>https://dblp.org/rec/conf/ipsn/Chowdhury21</url></info>
+<url>URL#1038108</url>
+</hit>
+<hit score="1" id="1038109">
+<info><authors><author pid="274/6496-1">Yiwen Dong 0001</author><author pid="198/5383">Jonathon Fagert</author><author pid="78/5323-1">Pei Zhang 0001</author><author pid="151/7287">Hae Young Noh</author></authors><title>Non-parametric Bayesian Learning for Newcomer Detection using Footstep-Induced Floor Vibration: Poster Abstract.</title><venue>IPSN</venue><pages>404-405</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/DongF0N21</key><doi>10.1145/3412382.3458785</doi><ee>https://doi.org/10.1145/3412382.3458785</ee><url>https://dblp.org/rec/conf/ipsn/DongF0N21</url></info>
+<url>URL#1038109</url>
+</hit>
+<hit score="1" id="1038110">
+<info><authors><author pid="204/7942">Jiayao Gao</author><author pid="98/7731">Weitao Xu</author><author pid="42/840">Salil S. Kanhere</author><author pid="j/SanjayJha">Sanjay Jha 0001</author><author pid="170/2540">Jun Young Kim</author><author pid="95/5574">Walter Huang</author><author pid="01/6410">Wen Hu</author></authors><title>A Novel Model-Based Security Scheme for LoRa Key Generation.</title><venue>IPSN</venue><pages>47-61</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/GaoXK0KHH21</key><doi>10.1145/3412382.3458256</doi><ee>https://doi.org/10.1145/3412382.3458256</ee><url>https://dblp.org/rec/conf/ipsn/GaoXK0KHH21</url></info>
+<url>URL#1038110</url>
+</hit>
+<hit score="1" id="1038111">
+<info><authors><author pid="220/7067">Junchen Guo</author><author pid="33/6937-2">Meng Jin 0002</author><author pid="11/1735-4">Yuan He 0004</author><author pid="43/1941">Weiguo Wang</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>Dancing Waltz with Ghosts: Measuring Sub-mm-Level 2D Rotor Orbit with a Single mmWave Radar.</title><venue>IPSN</venue><pages>77-92</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Guo00WL21</key><doi>10.1145/3412382.3458258</doi><ee>https://doi.org/10.1145/3412382.3458258</ee><url>https://dblp.org/rec/conf/ipsn/Guo00WL21</url></info>
+<url>URL#1038111</url>
+</hit>
+<hit score="1" id="1038112">
+<info><authors><author pid="188/5947">Md Tamzeed Islam</author><author pid="162/5547">Shahriar Nirjon</author></authors><title>Sound-Adapter: Multi-Source Domain Adaptation for Acoustic Classification Through Domain Discovery.</title><venue>IPSN</venue><pages>176-190</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/IslamN21</key><doi>10.1145/3412382.3458265</doi><ee>https://doi.org/10.1145/3412382.3458265</ee><url>https://dblp.org/rec/conf/ipsn/IslamN21</url></info>
+<url>URL#1038112</url>
+</hit>
+<hit score="1" id="1038113">
+<info><authors><author pid="308/2593">Devin C. Jean</author><author pid="117/2331">Gordon Stein</author><author pid="l/AkosLedeczi">Ákos Lédeczi</author></authors><title>Hands-On IoT Education with Mobile Devices: Demo Abstract.</title><venue>IPSN</venue><pages>390-391</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/JeanSL21</key><doi>10.1145/3412382.3458778</doi><ee>https://doi.org/10.1145/3412382.3458778</ee><url>https://dblp.org/rec/conf/ipsn/JeanSL21</url></info>
+<url>URL#1038113</url>
+</hit>
+<hit score="1" id="1038114">
+<info><authors><author pid="122/1274">Giannis Kazdaridis</author><author pid="251/4694">Nikos Sidiropoulos</author><author pid="270/1827">Ioannis Zografopoulos</author><author pid="84/4337">Thanasis Korakis</author></authors><title>A Novel Architecture for Semi-Active Wake-Up Radios Attaining Sensitivity Beyond -70 dBm: Demo Abstract.</title><venue>IPSN</venue><pages>398-399</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KazdaridisSZK21</key><doi>10.1145/3412382.3458782</doi><ee>https://doi.org/10.1145/3412382.3458782</ee><url>https://dblp.org/rec/conf/ipsn/KazdaridisSZK21</url></info>
+<url>URL#1038114</url>
+</hit>
+<hit score="1" id="1038115">
+<info><authors><author pid="160/8522">Seohyang Kim</author><author pid="05/9097">Hyung-Sin Kim</author><author pid="k/ChongkwonKim">Chong-kwon Kim</author></authors><title>A3: Adaptive Autonomous Allocation of TSCH Slots.</title><venue>IPSN</venue><pages>299-314</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KimKK21</key><doi>10.1145/3412382.3458273</doi><ee>https://doi.org/10.1145/3412382.3458273</ee><url>https://dblp.org/rec/conf/ipsn/KimKK21</url></info>
+<url>URL#1038115</url>
+</hit>
+<hit score="1" id="1038116">
+<info><authors><author pid="143/8788">Noah Klugman</author><author pid="158/8217">Joshua Adkins</author><author pid="292/9271">Emily Paszkiewicz</author><author pid="267/7753">Molly G. Hickman</author><author pid="99/5170">Matthew Podolsky</author><author pid="36/2685">Jay Taneja</author><author pid="40/5390">Prabal Dutta</author></authors><title>Watching the Grid: Utility-Independent Measurements of Electricity Reliability in Accra, Ghana.</title><venue>IPSN</venue><pages>341-356</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/KlugmanAPHPTD21</key><doi>10.1145/3412382.3458276</doi><ee>https://doi.org/10.1145/3412382.3458276</ee><url>https://dblp.org/rec/conf/ipsn/KlugmanAPHPTD21</url></info>
+<url>URL#1038116</url>
+</hit>
+<hit score="1" id="1038117">
+<info><authors><author pid="19/1764">Seulki Lee</author><author pid="162/5547">Shahriar Nirjon</author></authors><title>Deep Functional Network (DFN): Functional Interpretation of Deep Neural Networks for Intelligent Sensing Systems.</title><venue>IPSN</venue><pages>191-206</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/LeeN21</key><doi>10.1145/3412382.3458266</doi><ee>https://doi.org/10.1145/3412382.3458266</ee><url>https://dblp.org/rec/conf/ipsn/LeeN21</url></info>
+<url>URL#1038117</url>
+</hit>
+<hit score="1" id="1038118">
+<info><authors><author pid="259/7659">Clayton Frederick Souza Leite</author><author pid="54/5385-1">Yu Xiao 0001</author></authors><title>Optimal sensor channel selection for resource-efficient deep activity recognition.</title><venue>IPSN</venue><pages>371-383</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Leite021</key><doi>10.1145/3412382.3458278</doi><ee>https://doi.org/10.1145/3412382.3458278</ee><url>https://dblp.org/rec/conf/ipsn/Leite021</url></info>
+<url>URL#1038118</url>
+</hit>
+<hit score="1" id="1038119">
+<info><authors><author pid="39/6028">Wenjie Luo</author><author pid="57/1273-2">Zhenyu Yan 0002</author><author pid="29/4368-1">Qun Song 0001</author><author pid="00/5179">Rui Tan</author></authors><title>PhyAug: Physics-Directed Data Augmentation for Deep Sensing Model Transfer in Cyber-Physical Systems.</title><venue>IPSN</venue><pages>31-46</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Luo0ST21</key><doi>10.1145/3412382.3458255</doi><ee>https://doi.org/10.1145/3412382.3458255</ee><url>https://dblp.org/rec/conf/ipsn/Luo0ST21</url></info>
+<url>URL#1038119</url>
+</hit>
+<hit score="1" id="1038120">
+<info><authors><author pid="173/5375">Ivan De Oliveira Nunes</author><author pid="99/1702">Xuhua Ding</author><author pid="08/1183">Gene Tsudik</author></authors><title>On the Root of Trust Identification Problem.</title><venue>IPSN</venue><pages>315-327</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/NunesDT21</key><doi>10.1145/3412382.3458274</doi><ee>https://doi.org/10.1145/3412382.3458274</ee><url>https://dblp.org/rec/conf/ipsn/NunesDT21</url></info>
+<url>URL#1038120</url>
+</hit>
+<hit score="1" id="1038121">
+<info><authors><author pid="02/3812">Hao Pan</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="19/6124">Qi Ye</author><author pid="79/1810">Guangtao Xue</author></authors><title>MagicInput: Training-free Multi-lingual Finger Input System using Data Augmentation based on MNISTs.</title><venue>IPSN</venue><pages>119-131</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Pan0YX21</key><doi>10.1145/3412382.3458261</doi><ee>https://doi.org/10.1145/3412382.3458261</ee><url>https://dblp.org/rec/conf/ipsn/Pan0YX21</url></info>
+<url>URL#1038121</url>
+</hit>
+<hit score="1" id="1038122">
+<info><authors><author pid="21/1002">Eunjeong Park</author><author pid="05/9097">Hyung-Sin Kim</author><author pid="72/5261">Saewoong Bahk</author></authors><title>BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy.</title><venue>IPSN</venue><pages>268-282</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ParkKB21</key><doi>10.1145/3412382.3458271</doi><ee>https://doi.org/10.1145/3412382.3458271</ee><url>https://dblp.org/rec/conf/ipsn/ParkKB21</url></info>
+<url>URL#1038122</url>
+</hit>
+<hit score="1" id="1038123">
+<info><authors><author pid="224/4545">Hemant Rathore</author></authors><title>Designing Adversarial Robust and Explainable Malware Detection System for Android based Smartphones: PhD Forum Abstract.</title><venue>IPSN</venue><pages>412-413</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Rathore21</key><doi>10.1145/3412382.3459209</doi><ee>https://doi.org/10.1145/3412382.3459209</ee><url>https://dblp.org/rec/conf/ipsn/Rathore21</url></info>
+<url>URL#1038123</url>
+</hit>
+<hit score="1" id="1038124">
+<info><authors><author pid="224/4545">Hemant Rathore</author><author pid="215/5263">Sanjay K. Sahay</author><author pid="224/4600">Mohit Sewak</author></authors><title>Are Android Malware Detection Models Adversarially Robust?: Poster Abstract.</title><venue>IPSN</venue><pages>408-409</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/RathoreSS21</key><doi>10.1145/3412382.3458787</doi><ee>https://doi.org/10.1145/3412382.3458787</ee><url>https://dblp.org/rec/conf/ipsn/RathoreSS21</url></info>
+<url>URL#1038124</url>
+</hit>
+<hit score="1" id="1038125">
+<info><authors><author pid="165/2064">Sirat Samyoun</author><author pid="s/JohnAStankovic">John A. Stankovic</author></authors><title>VoiSense: Harnessing Voice Interaction on a Smartwatch to Collect Sensor Data: Demo Abstract.</title><venue>IPSN</venue><pages>388-389</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SamyounS21</key><doi>10.1145/3412382.3458777</doi><ee>https://doi.org/10.1145/3412382.3458777</ee><url>https://dblp.org/rec/conf/ipsn/SamyounS21</url></info>
+<url>URL#1038125</url>
+</hit>
+<hit score="1" id="1038126">
+<info><authors><author pid="117/2331">Gordon Stein</author><author pid="308/2593">Devin C. Jean</author><author pid="l/AkosLedeczi">Ákos Lédeczi</author></authors><title>Distributed Virtual CPS Environment for K12: Demo Abstract.</title><venue>IPSN</venue><pages>394-395</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/SteinJL21</key><doi>10.1145/3412382.3458780</doi><ee>https://doi.org/10.1145/3412382.3458780</ee><url>https://dblp.org/rec/conf/ipsn/SteinJL21</url></info>
+<url>URL#1038126</url>
+</hit>
+<hit score="1" id="1038127">
+<info><authors><author pid="182/4598">Tianxiang Tan</author><author pid="c/GuohongCao">Guohong Cao</author></authors><title>Efficient Execution of Deep Neural Networks on Mobile Devices with NPU.</title><venue>IPSN</venue><pages>283-298</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/TanC21</key><doi>10.1145/3412382.3458272</doi><ee>https://doi.org/10.1145/3412382.3458272</ee><url>https://dblp.org/rec/conf/ipsn/TanC21</url></info>
+<url>URL#1038127</url>
+</hit>
+<hit score="1" id="1038128">
+<info><authors><author pid="184/3647">Omid Tavallaie</author><author pid="60/739">Javid Taheri</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Game-Theoretic Optimization of the TSCH Scheduling Function for Low-Power IoT Networks: Poster Abstract.</title><venue>IPSN</venue><pages>392-393</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/TavallaieTZ21</key><doi>10.1145/3412382.3458779</doi><ee>https://doi.org/10.1145/3412382.3458779</ee><url>https://dblp.org/rec/conf/ipsn/TavallaieTZ21</url></info>
+<url>URL#1038128</url>
+</hit>
+<hit score="1" id="1038129">
+<info><authors><author pid="166/3243">Vu Tran</author><author pid="250/9373">Gihan Jayatilaka</author><author pid="48/1535">Ashwin Ashok</author><author pid="24/4570">Archan Misra</author></authors><title>DeepLight: Robust &amp; Unobtrusive Real-time Screen-Camera Communication for Real-World Displays.</title><venue>IPSN</venue><pages>238-253</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/TranJAM21</key><doi>10.1145/3412382.3458269</doi><ee>https://doi.org/10.1145/3412382.3458269</ee><url>https://dblp.org/rec/conf/ipsn/TranJAM21</url></info>
+<url>URL#1038129</url>
+</hit>
+<hit score="1" id="1038130">
+<info><authors><author pid="38/8097-1">Ziqi Wang 0001</author><author pid="90/7354">Brian Wang</author><author pid="s/ManiBSrivastava">Mani B. Srivastava</author></authors><title>Protecting User Data Privacy with Adversarial Perturbations: Poster Abstract.</title><venue>IPSN</venue><pages>386-387</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WangWS21</key><doi>10.1145/3412382.3458776</doi><ee>https://doi.org/10.1145/3412382.3458776</ee><url>https://dblp.org/rec/conf/ipsn/WangWS21</url></info>
+<url>URL#1038130</url>
+</hit>
+<hit score="1" id="1038131">
+<info><authors><author pid="153/8510">Jingxian Wang</author><author pid="75/8471">Junbo Zhang</author><author pid="75/6627-13">Ke Li 0013</author><author pid="186/9838">Chengfeng Pan</author><author pid="89/9968">Carmel Majidi</author><author pid="44/8737">Swarun Kumar</author></authors><title>Locating Everyday Objects using NFC Textiles.</title><venue>IPSN</venue><pages>15-30</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WangZ0PMK21</key><doi>10.1145/3412382.3458254</doi><ee>https://doi.org/10.1145/3412382.3458254</ee><url>https://dblp.org/rec/conf/ipsn/WangZ0PMK21</url></info>
+<url>URL#1038131</url>
+</hit>
+<hit score="1" id="1038132">
+<info><authors><author pid="292/9653">Shashini Wanniarachchi</author><author pid="168/8619">Jens Dede</author><author pid="84/1516">Anna Förster</author></authors><title>Multiple Event Detection using Minimum Inputs: Poster Abstract.</title><venue>IPSN</venue><pages>384-385</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WanniarachchiDF21</key><doi>10.1145/3412382.3458775</doi><ee>https://doi.org/10.1145/3412382.3458775</ee><url>https://dblp.org/rec/conf/ipsn/WanniarachchiDF21</url></info>
+<url>URL#1038132</url>
+</hit>
+<hit score="1" id="1038133">
+<info><authors><author pid="217/9625">Amanda Watson</author><author pid="292/9469">Andrew Lyubovsky</author><author pid="260/5766">Kenneth Koltermann</author><author pid="67/4904">Gang Zhou</author></authors><title>Magneto: Joint Angle Analysis Using an Electromagnet-Based Sensing Method.</title><venue>IPSN</venue><pages>1-14</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WatsonLKZ21</key><doi>10.1145/3412382.3458253</doi><ee>https://doi.org/10.1145/3412382.3458253</ee><url>https://dblp.org/rec/conf/ipsn/WatsonLKZ21</url></info>
+<url>URL#1038133</url>
+</hit>
+<hit score="1" id="1038134">
+<info><authors><author pid="31/3774">Peter Wei</author><author pid="150/4981">Yanchen Liu</author><author pid="j/XiaofanJiang">Xiaofan Jiang 0001</author></authors><title>Low-Cost, Perspective Invariant and Personalized Thermal Comfort Estimation: Poster Abstract.</title><venue>IPSN</venue><pages>396-397</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WeiLJ21</key><doi>10.1145/3412382.3458781</doi><ee>https://doi.org/10.1145/3412382.3458781</ee><url>https://dblp.org/rec/conf/ipsn/WeiLJ21</url></info>
+<url>URL#1038134</url>
+</hit>
+<hit score="1" id="1038135">
+<info><authors><author pid="261/9547">Jack West</author><author pid="234/1670">Kyuin Lee</author><author pid="345/5455-1">Suman Banerjee 0001</author><author pid="76/2864-1">Younghyun Kim 0001</author><author pid="97/6279">George K. Thiruvathukal</author><author pid="146/7847">Neil Klingensmith</author></authors><title>Moonshine: An Online Randomness Distiller for Zero-Involvement Authentication.</title><venue>IPSN</venue><pages>93-105</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/WestLBKTK21</key><doi>10.1145/3412382.3458899</doi><ee>https://doi.org/10.1145/3412382.3458899</ee><url>https://dblp.org/rec/conf/ipsn/WestLBKTK21</url></info>
+<url>URL#1038135</url>
+</hit>
+<hit score="1" id="1038136">
+<info><authors><author pid="188/9399">Stephen Xia</author><author pid="j/XiaofanJiang">Xiaofan Jiang 0001</author></authors><title>Improving Acoustic Detection and Classification in Mobile and Embedded Platforms: Poster Abstract.</title><venue>IPSN</venue><pages>402-403</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Xia021</key><doi>10.1145/3412382.3458784</doi><ee>https://doi.org/10.1145/3412382.3458784</ee><url>https://dblp.org/rec/conf/ipsn/Xia021</url></info>
+<url>URL#1038136</url>
+</hit>
+<hit score="1" id="1038137">
+<info><authors><author pid="188/9399">Stephen Xia</author><author pid="266/6747">Jingping Nie</author><author pid="j/XiaofanJiang">Xiaofan Jiang 0001</author></authors><title>CSafe: An Intelligent Audio Wearable Platform for Improving Construction Worker Safety in Urban Environments.</title><venue>IPSN</venue><pages>207-221</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/XiaN021</key><doi>10.1145/3412382.3458267</doi><ee>https://doi.org/10.1145/3412382.3458267</ee><url>https://dblp.org/rec/conf/ipsn/XiaN021</url></info>
+<url>URL#1038137</url>
+</hit>
+<hit score="1" id="1038138">
+<info><authors><author pid="98/7731">Weitao Xu</author><author pid="35/203">Zhenjiang Li</author><author pid="153/8037">Wanli Xue</author><author pid="241/2985">Xiaotong Yu</author><author pid="15/3756">Bo Wei</author><author pid="58/6299-8">Jia Wang 0008</author><author pid="136/1154-1">Chengwen Luo 0001</author><author pid="64/6025-58">Wei Li 0058</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>InaudibleKey: Generic Inaudible Acoustic Signal based Key Agreement Protocol for Mobile Devices.</title><venue>IPSN</venue><pages>106-118</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/XuLXYWW00Z21</key><doi>10.1145/3412382.3458260</doi><ee>https://doi.org/10.1145/3412382.3458260</ee><url>https://dblp.org/rec/conf/ipsn/XuLXYWW00Z21</url></info>
+<url>URL#1038138</url>
+</hit>
+<hit score="1" id="1038139">
+<info><authors><author pid="279/5990">Keyang Yu</author><author pid="181/2688">Qi Li</author><author pid="44/3371">Dong Chen</author><author pid="12/5722">Mohammad Rahman</author><author pid="87/5094-1">Shiqiang Wang 0001</author></authors><title>PrivacyGuard: Enhancing Smart Home User Privacy.</title><venue>IPSN</venue><pages>62-76</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/YuLCRW21</key><doi>10.1145/3412382.3458257</doi><ee>https://doi.org/10.1145/3412382.3458257</ee><url>https://dblp.org/rec/conf/ipsn/YuLCRW21</url></info>
+<url>URL#1038139</url>
+</hit>
+<hit score="1" id="1038140">
+<info><authors><author pid="194/5783">Baiqiang Zhang</author><author pid="40/6068-1">Rong Zheng 0001</author><author pid="03/2134-1">Jie Liu 0001</author></authors><title>A Multi-source Unsupervised Domain Adaptation Method for Wearable Sensor based Human Activity Recognition: Poster Abstract.</title><venue>IPSN</venue><pages>410-411</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/ZhangZ021</key><doi>10.1145/3412382.3458788</doi><ee>https://doi.org/10.1145/3412382.3458788</ee><url>https://dblp.org/rec/conf/ipsn/ZhangZ021</url></info>
+<url>URL#1038140</url>
+</hit>
+<hit score="1" id="1038141">
+<info><authors><author pid="31/4578">Tian Zhou</author><author pid="37/1629-1">Lin Zhang 0001</author></authors><title>Detecting Human-Induced Changes in Powerline Signals: A Human Sensing System Design: Poster Abstract.</title><venue>IPSN</venue><pages>406-407</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/Zhou021</key><doi>10.1145/3412382.3458786</doi><ee>https://doi.org/10.1145/3412382.3458786</ee><url>https://dblp.org/rec/conf/ipsn/Zhou021</url></info>
+<url>URL#1038141</url>
+</hit>
+<hit score="1" id="1038142">
+<info><authors><author pid="278/3983">Dhananjay Jagtap</author></authors><title>Repurposing Cathodic Protection Systems as Reliable, in-situ, Ambient Batteries for Sensor Networks.</title><venue>IPSN</venue><pages>357-368</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/ipsn/anonymous21</key><doi>10.1145/3412382.3458277</doi><ee>https://doi.org/10.1145/3412382.3458277</ee><url>https://dblp.org/rec/conf/ipsn/anonymous21</url></info>
+<url>URL#1038142</url>
+</hit>
+<hit score="1" id="1100799">
+<info><title>IPSN &apos;21: The 20th International Conference on Information Processing in Sensor Networks, Nashville, TN, USA, May, 2021</title><venue>IPSN</venue><publisher>ACM</publisher><year>2021</year><type>Editorship</type><key>conf/ipsn/2021</key><doi>10.1145/3412382</doi><ee>https://doi.org/10.1145/3412382</ee><url>https://dblp.org/rec/conf/ipsn/2021</url></info>
+<url>URL#1100799</url>
+</hit>
+</hits>
+</result>

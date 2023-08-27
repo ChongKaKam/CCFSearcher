@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59406">:facetid:toc:\"db/conf/wine/wine2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">176.82</time>
+<completions total="1" computed="1" sent="1">
+<c sc="37" dc="37" oc="37" id="41071559">:facetid:toc:db/conf/wine/wine2019.bht</c>
+</completions>
+<hits total="37" computed="37" sent="37" first="0">
+<hit score="1" id="1966026">
+<info><authors><author pid="67/2967">Haris Aziz 0001</author><author pid="48/9282">Hau Chan</author><author pid="209/9540">Barton E. Lee</author><author pid="p/DavidCParkes">David C. Parkes</author></authors><title>The Capacity Constrained Facility Location Problem.</title><venue>WINE</venue><pages>336</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/0001CLP19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/0001CLP19</url></info>
+<url>URL#1966026</url>
+</hit>
+<hit score="1" id="1966027">
+<info><authors><author pid="b/FBrandt">Felix Brandt 0001</author><author pid="184/8250">Anaëlle Wilczynski</author></authors><title>On the Convergence of Swap Dynamics to Pareto-Optimal Matchings.</title><venue>WINE</venue><pages>100-113</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/0001W19</key><doi>10.1007/978-3-030-35389-6_8</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_8</ee><url>https://dblp.org/rec/conf/wine/0001W19</url></info>
+<url>URL#1966027</url>
+</hit>
+<hit score="1" id="1966028">
+<info><authors><author pid="88/4000-2">Marc Schröder 0002</author><author pid="03/6563">Tami Tamir</author><author pid="228/7725">Vipin Ravindran Vijayalakshmi</author></authors><title>Scheduling Games with Machine-Dependent Priority Lists.</title><venue>WINE</venue><pages>286-300</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/0002TV19</key><doi>10.1007/978-3-030-35389-6_21</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_21</ee><url>https://dblp.org/rec/conf/wine/0002TV19</url></info>
+<url>URL#1966028</url>
+</hit>
+<hit score="1" id="1966029">
+<info><authors><author pid="210/2612">Ben Abramowitz</author><author pid="66/414">Elliot Anshelevich</author><author pid="203/8213">Wennan Zhu</author></authors><title>Awareness of Voter Passion Greatly Improves the Distortion of Metric Social Choice.</title><venue>WINE</venue><pages>3-16</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/AbramowitzAZ19</key><doi>10.1007/978-3-030-35389-6_1</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_1</ee><url>https://dblp.org/rec/conf/wine/AbramowitzAZ19</url></info>
+<url>URL#1966029</url>
+</hit>
+<hit score="1" id="1966030">
+<info><authors><author pid="75/3847">Gagan Aggarwal</author><author pid="15/2638">Ashwinkumar Badanidiyuru</author><author pid="23/6337">Aranyak Mehta</author></authors><title>Autobidding with Constraints.</title><venue>WINE</venue><pages>17-30</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/AggarwalBM19</key><doi>10.1007/978-3-030-35389-6_2</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_2</ee><url>https://dblp.org/rec/conf/wine/AggarwalBM19</url></info>
+<url>URL#1966030</url>
+</hit>
+<hit score="1" id="1966031">
+<info><authors><author pid="144/2769">AmirMahdi Ahmadinejad</author><author pid="n/HamidNazerzadeh">Hamid Nazerzadeh</author><author pid="28/4017">Amin Saberi</author><author pid="209/5854">Nolan Skochdopole</author><author pid="255/3262">Kane Sweeney</author></authors><title>Competition in Ride-Hailing Markets.</title><venue>WINE</venue><pages>333</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/AhmadinejadNSSS19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/AhmadinejadNSSS19</url></info>
+<url>URL#1966031</url>
+</hit>
+<hit score="1" id="1966032">
+<info><authors><author pid="77/5584">Saeed Alaei</author><author pid="15/2638">Ashwinkumar Badanidiyuru</author><author pid="23/1799">Mohammad Mahdian</author><author pid="125/2907">Sadra Yazdanbod</author></authors><title>Response Prediction for Low-Regret Agents.</title><venue>WINE</venue><pages>31-44</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/AlaeiBMY19</key><doi>10.1007/978-3-030-35389-6_3</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_3</ee><url>https://dblp.org/rec/conf/wine/AlaeiBMY19</url></info>
+<url>URL#1966032</url>
+</hit>
+<hit score="1" id="1966033">
+<info><authors><author pid="90/1920">Carme Àlvarez</author><author pid="163/1973">Arnau Messegué</author></authors><title>On the Price of Anarchy for High-Price Links.</title><venue>WINE</venue><pages>316-329</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/AlvarezM19</key><doi>10.1007/978-3-030-35389-6_23</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_23</ee><url>https://dblp.org/rec/conf/wine/AlvarezM19</url></info>
+<url>URL#1966033</url>
+</hit>
+<hit score="1" id="1966034">
+<info><authors><author pid="220/4157">Jerry Anunrojwong</author><author pid="72/3762-1">Yiling Chen 0001</author><author pid="117/4968">Bo Waggoner</author><author pid="04/1895">Haifeng Xu</author></authors><title>Computing Equilibria of Prediction Markets via Persuasion.</title><venue>WINE</venue><pages>45-56</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/AnunrojwongCWX19</key><doi>10.1007/978-3-030-35389-6_4</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_4</ee><url>https://dblp.org/rec/conf/wine/AnunrojwongCWX19</url></info>
+<url>URL#1966034</url>
+</hit>
+<hit score="1" id="1966035">
+<info><authors><author pid="220/4157">Jerry Anunrojwong</author><author pid="38/8177">Krishnamurthy Iyer</author><author pid="167/5339">David Lingenbrink</author></authors><title>Persuading Risk-Conscious Agents: A Geometric Approach.</title><venue>WINE</venue><pages>334</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/AnunrojwongIL19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/AnunrojwongIL19</url></info>
+<url>URL#1966035</url>
+</hit>
+<hit score="1" id="1966036">
+<info><authors><author pid="213/7747">Eshwar Ram Arunachaleswaran</author><author pid="63/478">Siddharth Barman</author><author pid="245/9023">Rachitesh Kumar</author><author pid="223/4862">Nidhi Rathi</author></authors><title>Fair and Efficient Cake Division with Connected Pieces.</title><venue>WINE</venue><pages>57-70</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/Arunachaleswaran19</key><doi>10.1007/978-3-030-35389-6_5</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_5</ee><url>https://dblp.org/rec/conf/wine/Arunachaleswaran19</url></info>
+<url>URL#1966036</url>
+</hit>
+<hit score="1" id="1966037">
+<info><authors><author pid="69/2126">Itai Ashlagi</author><author pid="255/3260">Süleyman Kerimov</author></authors><title>Scrip Systems with Minimal Availability.</title><venue>WINE</venue><pages>335</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/AshlagiK19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/AshlagiK19</url></info>
+<url>URL#1966037</url>
+</hit>
+<hit score="1" id="1966038">
+<info><authors><author pid="b/MosheBabaioff">Moshe Babaioff</author><author pid="f/UrielFeige">Uriel Feige</author></authors><title>A New Approach to Fair Distribution of Welfare.</title><venue>WINE</venue><pages>71-84</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/BabaioffF19</key><doi>10.1007/978-3-030-35389-6_6</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_6</ee><url>https://dblp.org/rec/conf/wine/BabaioffF19</url></info>
+<url>URL#1966038</url>
+</hit>
+<hit score="1" id="1966039">
+<info><authors><author pid="249/9447">Victor Boone</author><author pid="62/1236">Georgios Piliouras</author></authors><title>From Darwin to Poincaré and von Neumann: Recurrence and Cycles in Evolutionary and Algorithmic Game Theory.</title><venue>WINE</venue><pages>85-99</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/BooneP19</key><doi>10.1007/978-3-030-35389-6_7</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_7</ee><url>https://dblp.org/rec/conf/wine/BooneP19</url></info>
+<url>URL#1966039</url>
+</hit>
+<hit score="1" id="1966040">
+<info><authors><author pid="83/6824">Avi Cohen</author><author pid="p/DavidPeleg">David Peleg</author></authors><title>Hotelling Games with Random Tolerance Intervals.</title><venue>WINE</venue><pages>114-128</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/CohenP19</key><doi>10.1007/978-3-030-35389-6_9</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_9</ee><url>https://dblp.org/rec/conf/wine/CohenP19</url></info>
+<url>URL#1966040</url>
+</hit>
+<hit score="1" id="1966041">
+<info><authors><author pid="27/5076">Roberto Cominetti</author><author pid="245/8937">Valerio Dose</author><author pid="33/1892">Marco Scarsini</author></authors><title>The Price of Anarchy in Routing Games as a Function of the Demand.</title><venue>WINE</venue><pages>337</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/CominettiDS19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/CominettiDS19</url></info>
+<url>URL#1966041</url>
+</hit>
+<hit score="1" id="1966042">
+<info><authors><author pid="255/4719">Michael J. Curry</author><author pid="75/8479">John P. Dickerson</author><author pid="154/4666">Karthik Abinav Sankararaman</author><author pid="s/AravindSrinivasan">Aravind Srinivasan</author><author pid="253/4084">Yuhao Wan</author><author pid="11/9718-1">Pan Xu 0001</author></authors><title>Mix and Match: Markov Chains and Mixing Times for Matching in Rideshare.</title><venue>WINE</venue><pages>129-141</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/CurryDSSW019</key><doi>10.1007/978-3-030-35389-6_10</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_10</ee><url>https://dblp.org/rec/conf/wine/CurryDSSW019</url></info>
+<url>URL#1966042</url>
+</hit>
+<hit score="1" id="1966043">
+<info><authors><author pid="54/6236">Shaddin Dughmi</author><author pid="07/8261">Rad Niazadeh</author><author pid="19/10537">Alexandros Psomas 0001</author><author pid="52/2474">S. Matthew Weinberg</author></authors><title>Persuasion and Incentives Through the Lens of Duality.</title><venue>WINE</venue><pages>142-155</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/DughmiNPW19</key><doi>10.1007/978-3-030-35389-6_11</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_11</ee><url>https://dblp.org/rec/conf/wine/DughmiNPW19</url></info>
+<url>URL#1966043</url>
+</hit>
+<hit score="1" id="1966044">
+<info><authors><author pid="245/2753">Hagen Echzell</author><author pid="181/2310-1">Tobias Friedrich 0001</author><author pid="51/8821">Pascal Lenzner</author><author pid="202/9543">Louise Molitor</author><author pid="211/5770">Marcus Pappik</author><author pid="245/2704">Friedrich Schöne</author><author pid="234/1213">Fabian Sommer</author><author pid="179/4820">David Stangl</author></authors><title>Convergence and Hardness of Strategic Schelling Segregation.</title><venue>WINE</venue><pages>156-170</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/Echzell0LMPSSS19</key><doi>10.1007/978-3-030-35389-6_12</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_12</ee><url>https://dblp.org/rec/conf/wine/Echzell0LMPSSS19</url></info>
+<url>URL#1966044</url>
+</hit>
+<hit score="1" id="1966045">
+<info><authors><author pid="15/9298">Adam N. Elmachtoub</author><author pid="66/6170-4">Vishal Gupta 0004</author><author pid="233/9944">Michael L. Hamilton</author></authors><title>The Value of Personalized Pricing.</title><venue>WINE</venue><pages>338</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/ElmachtoubGH19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/ElmachtoubGH19</url></info>
+<url>URL#1966045</url>
+</hit>
+<hit score="1" id="1966046">
+<info><authors><author pid="18/7864">Diodato Ferraioli</author><author pid="187/3623">Adrian Meier</author><author pid="32/3168">Paolo Penna</author><author pid="30/6089">Carmine Ventre</author></authors><title>Automated Optimal OSP Mechanisms for Set Systems - The Case of Small Domains.</title><venue>WINE</venue><pages>171-185</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/FerraioliMPV19</key><doi>10.1007/978-3-030-35389-6_13</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_13</ee><url>https://dblp.org/rec/conf/wine/FerraioliMPV19</url></info>
+<url>URL#1966046</url>
+</hit>
+<hit score="1" id="1966047">
+<info><authors><author pid="29/10537">Aris Filos-Ratsikas</author><author pid="59/9446">Yiannis Giannakopoulos</author><author pid="195/6203">Philip Lazos</author></authors><title>The Pareto Frontier of Inefficiency in Mechanism Design.</title><venue>WINE</venue><pages>186-199</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/Filos-RatsikasG19</key><doi>10.1007/978-3-030-35389-6_14</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_14</ee><url>https://dblp.org/rec/conf/wine/Filos-RatsikasG19</url></info>
+<url>URL#1966047</url>
+</hit>
+<hit score="1" id="1966048">
+<info><authors><author pid="245/0196">Eirini Georgoulaki</author><author pid="79/1557">Kostas Kollias</author></authors><title>On the Price of Anarchy of Cost-Sharing in Real-Time Scheduling Systems.</title><venue>WINE</venue><pages>200-213</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/GeorgoulakiK19</key><doi>10.1007/978-3-030-35389-6_15</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_15</ee><url>https://dblp.org/rec/conf/wine/GeorgoulakiK19</url></info>
+<url>URL#1966048</url>
+</hit>
+<hit score="1" id="1966049">
+<info><authors><author pid="90/8449">Hans Gersbach</author><author pid="136/6042">Akaki Mamageishvili</author><author pid="19/11415">Oriol Tejada</author></authors><title>Sophisticated Attacks on Decoy Ballots: A Devil&apos;s Menu.</title><venue>WINE</venue><pages>339</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/GersbachMT19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/GersbachMT19</url></info>
+<url>URL#1966049</url>
+</hit>
+<hit score="1" id="1966050">
+<info><authors><author pid="g/AshishGoel">Ashish Goel</author><author pid="200/3065">Reyna Hulett</author><author pid="178/8624">Benjamin Plaut</author></authors><title>Markets Beyond Nash Welfare for Leontief Utilities.</title><venue>WINE</venue><pages>340</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/GoelHP19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/GoelHP19</url></info>
+<url>URL#1966050</url>
+</hit>
+<hit score="1" id="1966051">
+<info><authors><author pid="35/4992">Tobias Harks</author><author pid="241/6034">Anja Schedel</author></authors><title>Capacity and Price Competition in Markets with Congestion Effects.</title><venue>WINE</venue><pages>341</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/HarksS19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/HarksS19</url></info>
+<url>URL#1966051</url>
+</hit>
+<hit score="1" id="1966052">
+<info><authors><author pid="156/0341">Alexandros Hollender</author></authors><title>The Classes PPA-k: Existence from Arguments Modulo k.</title><venue>WINE</venue><pages>214-227</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/Hollender19</key><doi>10.1007/978-3-030-35389-6_16</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_16</ee><url>https://dblp.org/rec/conf/wine/Hollender19</url></info>
+<url>URL#1966052</url>
+</hit>
+<hit score="1" id="1966053">
+<info><authors><author pid="43/3631">Nicole Immorlica</author><author pid="178/8624">Benjamin Plaut</author><author pid="201/5990">E. Glen Weyl</author></authors><title>Equality of Power and Fair Public Decision-Making.</title><venue>WINE</venue><pages>342</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/ImmorlicaPW19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/ImmorlicaPW19</url></info>
+<url>URL#1966053</url>
+</hit>
+<hit score="1" id="1966054">
+<info><authors><author pid="218/5430">Yaonan Jin</author><author pid="190/5679">Weian Li</author><author pid="80/6406-3">Qi Qi 0003</author></authors><title>On the Approximability of Simple Mechanisms for MHR Distributions.</title><venue>WINE</venue><pages>228-240</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/JinLQ19</key><doi>10.1007/978-3-030-35389-6_17</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_17</ee><url>https://dblp.org/rec/conf/wine/JinLQ19</url></info>
+<url>URL#1966054</url>
+</hit>
+<hit score="1" id="1966055">
+<info><authors><author pid="48/7186">Thomas Kesselheim</author><author pid="19/10537">Alexandros Psomas 0001</author><author pid="29/9507">Shai Vardi</author></authors><title>How to Hire Secretaries with Stochastic Departures.</title><venue>WINE</venue><pages>343</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/KesselheimPV19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/KesselheimPV19</url></info>
+<url>URL#1966055</url>
+</hit>
+<hit score="1" id="1966056">
+<info><authors><author pid="180/5572">Pieter Kleer</author><author pid="s/GuidoSchafer">Guido Schäfer</author></authors><title>Topological Price of Anarchy Bounds for Clustering Games on Networks.</title><venue>WINE</venue><pages>241-255</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/KleerS19</key><doi>10.1007/978-3-030-35389-6_18</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_18</ee><url>https://dblp.org/rec/conf/wine/KleerS19</url></info>
+<url>URL#1966056</url>
+</hit>
+<hit score="1" id="1966057">
+<info><authors><author pid="177/9339">Yuqing Kong</author><author pid="66/870">Chris Peikert</author><author pid="21/1633">Grant Schoenebeck</author><author pid="117/4948">Biaoshuai Tao</author></authors><title>Outsourcing Computation: The Minimal Refereed Mechanism.</title><venue>WINE</venue><pages>256-270</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/KongPST19</key><doi>10.1007/978-3-030-35389-6_19</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_19</ee><url>https://dblp.org/rec/conf/wine/KongPST19</url></info>
+<url>URL#1966057</url>
+</hit>
+<hit score="1" id="1966058">
+<info><authors><author pid="m/EvangelosMarkakis">Evangelos Markakis</author><author pid="205/1991">Artem Tsikiridis</author></authors><title>On Core-Selecting and Core-Competitive Mechanisms for Binary Single-Parameter Auctions.</title><venue>WINE</venue><pages>271-285</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/MarkakisT19</key><doi>10.1007/978-3-030-35389-6_20</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_20</ee><url>https://dblp.org/rec/conf/wine/MarkakisT19</url></info>
+<url>URL#1966058</url>
+</hit>
+<hit score="1" id="1966059">
+<info><authors><author pid="08/2971">Ilan Nehama</author></authors><title>Almost Quasi-linear Utilities in Disguise: Positive-Representation an Extension of Roberts&apos; Theorem.</title><venue>WINE</venue><pages>344-345</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/Nehama19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/Nehama19</url></info>
+<url>URL#1966059</url>
+</hit>
+<hit score="1" id="1966060">
+<info><authors><author pid="31/5661">Pu Yang</author><author pid="38/8177">Krishnamurthy Iyer</author><author pid="33/1711">Peter I. Frazier</author></authors><title>Information Design in Spatial Resource Competition.</title><venue>WINE</venue><pages>346</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/wine/YangIF19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-35389-6%2F1.pdf</ee><url>https://dblp.org/rec/conf/wine/YangIF19</url></info>
+<url>URL#1966060</url>
+</hit>
+<hit score="1" id="1966061">
+<info><authors><author pid="132/8083">Zhenzhe Zheng</author><author pid="s/RSrikant">R. Srikant 0001</author></authors><title>Optimal Search Segmentation Mechanisms for Online Platform Markets.</title><venue>WINE</venue><pages>301-315</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/wine/Zheng019</key><doi>10.1007/978-3-030-35389-6_22</doi><ee>https://doi.org/10.1007/978-3-030-35389-6_22</ee><url>https://dblp.org/rec/conf/wine/Zheng019</url></info>
+<url>URL#1966061</url>
+</hit>
+<hit score="1" id="1974145">
+<info><authors><author pid="c/IoannisCaragiannis">Ioannis Caragiannis</author><author pid="m/VahabSMirrokni">Vahab S. Mirrokni</author><author pid="07/51">Evdokia Nikolova</author></authors><title>Web and Internet Economics - 15th International Conference, WINE 2019, New York, NY, USA, December 10-12, 2019, Proceedings</title><venue>WINE</venue><venue>Lecture Notes in Computer Science</venue><volume>11920</volume><publisher>Springer</publisher><year>2019</year><type>Editorship</type><key>conf/wine/2019</key><doi>10.1007/978-3-030-35389-6</doi><ee>https://doi.org/10.1007/978-3-030-35389-6</ee><url>https://dblp.org/rec/conf/wine/2019</url></info>
+<url>URL#1974145</url>
+</hit>
+</hits>
+</result>

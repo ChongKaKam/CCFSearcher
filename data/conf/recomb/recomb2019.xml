@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="60024">:facetid:toc:\"db/conf/recomb/recomb2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">198.64</time>
+<completions total="1" computed="1" sent="1">
+<c sc="38" dc="38" oc="38" id="41060936">:facetid:toc:db/conf/recomb/recomb2019.bht</c>
+</completions>
+<hits total="38" computed="38" sent="38" first="0">
+<hit score="1" id="1939920">
+<info><authors><author pid="203/9702">Fatemeh Almodaresi</author><author pid="64/6001-1">Prashant Pandey 0001</author><author pid="46/4377">Michael Ferdman</author><author pid="47/6172">Rob Johnson</author><author pid="66/8401">Rob Patro</author></authors><title>An Efficient, Scalable and Exact Representation of High-Dimensional Color Information Enabled via de Bruijn Graph Search.</title><venue>RECOMB</venue><pages>1-18</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/AlmodaresiPFJP19</key><doi>10.1007/978-3-030-17083-7_1</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_1</ee><url>https://dblp.org/rec/conf/recomb/AlmodaresiPFJP19</url></info>
+<url>URL#1939920</url>
+</hit>
+<hit score="1" id="1939921">
+<info><authors><author pid="120/1806">Aryan Arbabi</author><author pid="238/9774">David R. Adams</author><author pid="08/6607">Sanja Fidler</author><author pid="10/6530">Michael Brudno</author></authors><title>Identifying Clinical Terms in Free-Text Notes Using Ontology-Guided Machine Learning.</title><venue>RECOMB</venue><pages>19-34</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ArbabiAFB19</key><doi>10.1007/978-3-030-17083-7_2</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_2</ee><url>https://dblp.org/rec/conf/recomb/ArbabiAFB19</url></info>
+<url>URL#1939921</url>
+</hit>
+<hit score="1" id="1939922">
+<info><authors><author pid="182/1980">Metin Balaban</author><author pid="225/8961">Shahab Sarmashghi</author><author pid="40/4665">Siavash Mirarab</author></authors><title>APPLES: Fast Distance-Based Phylogenetic Placement.</title><venue>RECOMB</venue><pages>287-288</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/BalabanSM19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/BalabanSM19</url></info>
+<url>URL#1939922</url>
+</hit>
+<hit score="1" id="1939923">
+<info><authors><author pid="118/9148">Bahar Behsaz</author><author pid="98/9357">Hosein Mohimani</author><author pid="122/8781">Alexey A. Gurevich</author><author pid="122/8757">Andrey D. Prjibelski</author><author pid="240/6348">Mark F. Fisher</author><author pid="60/1648">Larry Smarr</author><author pid="24/4353">Pieter C. Dorrestein</author><author pid="240/6368">Joshua S. Mylne</author><author pid="p/PAPevzner">Pavel A. Pevzner</author></authors><title>De Novo Peptide Sequencing Reveals a Vast Cyclopeptidome in Human Gut and Other Environments.</title><venue>RECOMB</venue><pages>289-291</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/BehsazMGPFSDMP19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/BehsazMGPFSDMP19</url></info>
+<url>URL#1939923</url>
+</hit>
+<hit score="1" id="1939924">
+<info><authors><author pid="121/9620">Philipp Benner</author><author pid="36/6567">Martin Vingron</author></authors><title>ModHMM: A Modular Supra-Bayesian Genome Segmentation Method.</title><venue>RECOMB</venue><pages>35-50</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BennerV19</key><doi>10.1007/978-3-030-17083-7_3</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_3</ee><url>https://dblp.org/rec/conf/recomb/BennerV19</url></info>
+<url>URL#1939924</url>
+</hit>
+<hit score="1" id="1939925">
+<info><authors><author pid="226/3999">Lodewijk Brand</author><author pid="13/1779">Xue Yang</author><author pid="73/4566-18">Kai Liu 0018</author><author pid="229/0518">Saad El Beleidy</author><author pid="33/3535-7">Hua Wang 0007</author><author pid="55/2270-11">Hao Zhang 0011</author></authors><title>Learning Robust Multi-label Sample Specific Distances for Identifying HIV-1 Drug Resistance.</title><venue>RECOMB</venue><pages>51-67</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BrandYLBWZ19</key><doi>10.1007/978-3-030-17083-7_4</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_4</ee><url>https://dblp.org/rec/conf/recomb/BrandYLBWZ19</url></info>
+<url>URL#1939925</url>
+</hit>
+<hit score="1" id="1939926">
+<info><authors><author pid="240/6347">Dexiong Chen</author><author pid="40/3388">Laurent Jacob</author><author pid="49/6555">Julien Mairal</author></authors><title>Biological Sequence Modeling with Convolutional Kernel Networks.</title><venue>RECOMB</venue><pages>292-293</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ChenJM19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ChenJM19</url></info>
+<url>URL#1939926</url>
+</hit>
+<hit score="1" id="1939927">
+<info><authors><author pid="240/6356">Van Hoan Do</author><author pid="240/6364">Mislav Blazevic</author><author pid="240/6371">Pablo Monteagudo</author><author pid="226/5279">Luka Borozan</author><author pid="82/4645">Khaled M. Elbassioni</author><author pid="71/5078">Sören Laue</author><author pid="240/6349">Francisca Rojas Ringeling</author><author pid="m/DomagojMatijevic">Domagoj Matijevic</author><author pid="20/3596">Stefan Canzar</author></authors><title>Dynamic Pseudo-time Warping of Complex Single-Cell Trajectories.</title><venue>RECOMB</venue><pages>294-296</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/DoBMBELRMC19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/DoBMBELRMC19</url></info>
+<url>URL#1939927</url>
+</hit>
+<hit score="1" id="1939928">
+<info><authors><author pid="212/0293">Rebecca Elyanow</author><author pid="220/5511">Bianca Dumitrascu</author><author pid="53/328">Barbara E. Engelhardt</author><author pid="23/3243">Benjamin J. Raphael</author></authors><title>netNMF-sc: A Network Regularization Algorithm for Dimensionality Reduction and Imputation of Single-Cell Expression Data.</title><venue>RECOMB</venue><pages>297-298</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ElyanowDER19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ElyanowDER19</url></info>
+<url>URL#1939928</url>
+</hit>
+<hit score="1" id="1939929">
+<info><authors><author pid="238/9772">Boying Gong</author><author pid="53/8254">Elizabeth Purdom</author></authors><title>MethCP: Differentially Methylated Region Detection with Change Point Models.</title><venue>RECOMB</venue><pages>68-84</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/GongP19</key><doi>10.1007/978-3-030-17083-7_5</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_5</ee><url>https://dblp.org/rec/conf/recomb/GongP19</url></info>
+<url>URL#1939929</url>
+</hit>
+<hit score="1" id="1939930">
+<info><authors><author pid="240/6373">Brian Hie</author><author pid="160/6954">Hyunghoon Cho</author><author pid="183/9350">Benjamin Demeo</author><author pid="240/6365">Bryan Bryson</author><author pid="b/BonnieBerger">Bonnie Berger</author></authors><title>Geometric Sketching of Single-Cell Data Preserves Transcriptional Structure.</title><venue>RECOMB</venue><pages>299-301</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/HieCDBB19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/HieCDBB19</url></info>
+<url>URL#1939930</url>
+</hit>
+<hit score="1" id="1939931">
+<info><authors><author pid="25/5723">Chirag Jain</author><author pid="216/9493">Haowen Zhang</author><author pid="46/2974-1">Yu Gao 0001</author><author pid="a/SAluru">Srinivas Aluru</author></authors><title>On the Complexity of Sequence to Graph Alignment.</title><venue>RECOMB</venue><pages>85-100</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/JainZGA19</key><doi>10.1007/978-3-030-17083-7_6</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_6</ee><url>https://dblp.org/rec/conf/recomb/JainZGA19</url></info>
+<url>URL#1939931</url>
+</hit>
+<hit score="1" id="1939932">
+<info><authors><author pid="160/6843">Jonathan D. Jou</author><author pid="231/2858">Graham T. Holt</author><author pid="231/2872">Anna U. Lowegard</author><author pid="d/BRDonald">Bruce Randall Donald</author></authors><title>Minimization-Aware Recursive K* K ∗ ( MARK* MARK ∗ ): A Novel, Provable Algorithm that Accelerates Ensemble-Based Protein Design and Provably Approximates the Energy Landscape.</title><venue>RECOMB</venue><pages>101-119</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/JouHLD19</key><doi>10.1007/978-3-030-17083-7_7</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_7</ee><url>https://dblp.org/rec/conf/recomb/JouHLD19</url></info>
+<url>URL#1939932</url>
+</hit>
+<hit score="1" id="1939933">
+<info><authors><author pid="235/6577">Mikhail Karasikov</author><author pid="235/6534">Harun Mustafa</author><author pid="139/0780">Amir Joudaki</author><author pid="238/9767">Sara Javadzadeh-No</author><author pid="33/3796">Gunnar Rätsch</author><author pid="17/11107">André Kahles</author></authors><title>Sparse Binary Relation Representations for Genome Graph Annotation.</title><venue>RECOMB</venue><pages>120-135</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/KarasikovMJJRK19</key><doi>10.1007/978-3-030-17083-7_8</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_8</ee><url>https://dblp.org/rec/conf/recomb/KarasikovMJJRK19</url></info>
+<url>URL#1939933</url>
+</hit>
+<hit score="1" id="1939934">
+<info><authors><author pid="238/9804">Younhun Kim</author><author pid="132/1904">Frederic Koehler</author><author pid="04/952">Ankur Moitra</author><author pid="m/EMossel">Elchanan Mossel</author><author pid="155/0654">Govind Ramnarayan</author></authors><title>How Many Subpopulations Is Too Many? Exponential Lower Bounds for Inferring Population Histories.</title><venue>RECOMB</venue><pages>136-157</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/KimKMMR19</key><doi>10.1007/978-3-030-17083-7_9</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_9</ee><url>https://dblp.org/rec/conf/recomb/KimKMMR19</url></info>
+<url>URL#1939934</url>
+</hit>
+<hit score="1" id="1939935">
+<info><authors><author pid="192/8364">Can Kockan</author><author pid="164/4621">Kaiyuan Zhu</author><author pid="240/6374">Natnatee Dokmai</author><author pid="209/9108">Nikolai Karpov</author><author pid="32/317">M. Oguzhan Külekci</author><author pid="w/DPWoodruff">David P. Woodruff</author><author pid="s/SCSahinalp">Süleyman Cenk Sahinalp</author></authors><title>Sketching Algorithms for Genomic Data Analysis and Querying in a Secure Enclave.</title><venue>RECOMB</venue><pages>302-304</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/KockanZDKKWS19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/KockanZDKKWS19</url></info>
+<url>URL#1939935</url>
+</hit>
+<hit score="1" id="1939936">
+<info><authors><author pid="153/2879">Alan Kuhnle</author><author pid="230/4345">Taher Mun</author><author pid="04/4610">Christina Boucher</author><author pid="00/3487">Travis Gagie</author><author pid="42/10531">Ben Langmead</author><author pid="63/1086">Giovanni Manzini</author></authors><title>Efficient Construction of a Complete Index for Pan-Genomics Read Alignment.</title><venue>RECOMB</venue><pages>158-173</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/KuhnleMBGLM19</key><doi>10.1007/978-3-030-17083-7_10</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_10</ee><url>https://dblp.org/rec/conf/recomb/KuhnleMBGLM19</url></info>
+<url>URL#1939936</url>
+</hit>
+<hit score="1" id="1939937">
+<info><authors><author pid="230/6852">Haoyun Lei</author><author pid="230/6869">Bochuan Lyu</author><author pid="63/1048">E. Michael Gertz</author><author pid="68/4875">Alejandro A. Schäffer</author><author pid="238/9770">Xulian Shi</author><author pid="181/2711-5">Kui Wu 0005</author><author pid="238/9809">Guibo Li</author><author pid="36/3520">Liqin Xu</author><author pid="27/3341">Yong Hou</author><author pid="37/2284">Michael Dean</author><author pid="77/4437">Russell Schwartz</author></authors><title>Tumor Copy Number Deconvolution Integrating Bulk and Single-Cell Sequencing Data.</title><venue>RECOMB</venue><pages>174-189</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/LeiLGSSWLXHDS19</key><doi>10.1007/978-3-030-17083-7_11</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_11</ee><url>https://dblp.org/rec/conf/recomb/LeiLGSSWLXHDS19</url></info>
+<url>URL#1939937</url>
+</hit>
+<hit score="1" id="1939938">
+<info><authors><author pid="225/8950">Yunan Luo</author><author pid="24/9080">Jianzhu Ma</author><author pid="64/3046-1">Xiaoming Zhao 0001</author><author pid="164/9218">Yufeng Su</author><author pid="51/3710-97">Yang Liu 0097</author><author pid="77/1450">Trey Ideker</author><author pid="29/4181-1">Jian Peng 0001</author></authors><title>Mitigating Data Scarcity in Protein Binding Prediction Using Meta-Learning.</title><venue>RECOMB</venue><pages>305-307</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/LuoMZS0I019</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/LuoMZS0I019</url></info>
+<url>URL#1939938</url>
+</hit>
+<hit score="1" id="1939939">
+<info><authors><author pid="240/6355">Joel Mefford</author><author pid="164/0947">Danny S. Park</author><author pid="240/6372">Zhili Zheng</author><author pid="217/5469">Arthur Ko</author><author pid="99/544">Mika Ala-Korpela</author><author pid="240/6329">Markku Laakso</author><author pid="67/7097">Paivi Pajukanta</author><author pid="y/JianYang5">Jian Yang 0005</author><author pid="124/0475">John S. Witte</author><author pid="08/6902">Noah Zaitlen</author></authors><title>Efficient Estimation and Applications of Cross-Validated Genetic Predictions.</title><venue>RECOMB</venue><pages>308-310</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/MeffordPZKALPYW19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/MeffordPZKALPYW19</url></info>
+<url>URL#1939939</url>
+</hit>
+<hit score="1" id="1939940">
+<info><authors><author pid="240/6340">Matthew A. Myers</author><author pid="155/1370">Gryte Satas</author><author pid="23/3243">Benjamin J. Raphael</author></authors><title>Inferring Tumor Evolution from Longitudinal Samples.</title><venue>RECOMB</venue><pages>311</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/MyersSR19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/MyersSR19</url></info>
+<url>URL#1939940</url>
+</hit>
+<hit score="1" id="1939941">
+<info><authors><author pid="35/7831">Weihua Pan</author><author pid="j/TaoJiang-1">Tao Jiang 0001</author><author pid="l/StefanoLonardi">Stefano Lonardi</author></authors><title>OMGS: Optical Map-Based Genome Scaffolding.</title><venue>RECOMB</venue><pages>190-207</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/PanJL19</key><doi>10.1007/978-3-030-17083-7_12</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_12</ee><url>https://dblp.org/rec/conf/recomb/PanJL19</url></info>
+<url>URL#1939941</url>
+</hit>
+<hit score="1" id="1939942">
+<info><authors><author pid="240/6353">Ali Pazokitoroudi</author><author pid="41/5979">Yue Wu</author><author pid="240/6376">Kathryn S. Burch</author><author pid="224/0057">Kangcheng Hou</author><author pid="18/2191">Bogdan Pasaniuc</author><author pid="15/5327">Sriram Sankararaman</author></authors><title>Scalable Multi-component Linear Mixed Models with Application to SNP Heritability Estimation.</title><venue>RECOMB</venue><pages>312-313</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/PazokitoroudiWB19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/PazokitoroudiWB19</url></info>
+<url>URL#1939942</url>
+</hit>
+<hit score="1" id="1939943">
+<info><authors><author pid="196/4899">Leonardo Pellegrina</author><author pid="11/2402">Cinzia Pizzi</author><author pid="62/5172">Fabio Vandin</author></authors><title>Fast Approximation of Frequent k-mers and Applications to Metagenomics.</title><venue>RECOMB</venue><pages>208-226</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/PellegrinaPV19</key><doi>10.1007/978-3-030-17083-7_13</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_13</ee><url>https://dblp.org/rec/conf/recomb/PellegrinaPV19</url></info>
+<url>URL#1939943</url>
+</hit>
+<hit score="1" id="1939944">
+<info><authors><author pid="118/0896">Kristoffer Sahlin</author><author pid="95/4828">Paul Medvedev</author></authors><title>De Novo Clustering of Long-Read Transcriptome Data Using a Greedy, Quality-Value Based Algorithm.</title><venue>RECOMB</venue><pages>227-242</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/SahlinM19</key><doi>10.1007/978-3-030-17083-7_14</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_14</ee><url>https://dblp.org/rec/conf/recomb/SahlinM19</url></info>
+<url>URL#1939944</url>
+</hit>
+<hit score="1" id="1939945">
+<info><authors><author pid="225/8961">Shahab Sarmashghi</author><author pid="b/VineetBafna">Vineet Bafna</author></authors><title>A Note on Computing Interval Overlap Statistics.</title><venue>RECOMB</venue><pages>314-315</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/SarmashghiB19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/SarmashghiB19</url></info>
+<url>URL#1939945</url>
+</hit>
+<hit score="1" id="1939946">
+<info><authors><author pid="238/9810">Itay Sason</author><author pid="05/2443">Damian Wójtowicz</author><author pid="238/9827">Welles Robinson</author><author pid="23/6320">Mark D. M. Leiserson</author><author pid="17/6857">Teresa M. Przytycka</author><author pid="05/902">Roded Sharan</author></authors><title>A Sticky Multinomial Mixture Model of Strand-Coordinated Mutational Processes in Cancer.</title><venue>RECOMB</venue><pages>243-255</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/SasonWRLPS19</key><doi>10.1007/978-3-030-17083-7_15</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_15</ee><url>https://dblp.org/rec/conf/recomb/SasonWRLPS19</url></info>
+<url>URL#1939946</url>
+</hit>
+<hit score="1" id="1939947">
+<info><authors><author pid="240/6359">Mike Thompson</author><author pid="240/6334">Zeyuan Johnson Chen</author><author pid="146/9828">Elior Rahmani</author><author pid="h/EranHalperin">Eran Halperin</author></authors><title>Distinguishing Biological from Technical Sources of Variation Using a Combination of Methylation Datasets.</title><venue>RECOMB</venue><pages>316-317</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ThompsonCRH19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ThompsonCRH19</url></info>
+<url>URL#1939947</url>
+</hit>
+<hit score="1" id="1939948">
+<info><authors><author pid="85/1868-12">Sheng Wang 0012</author><author pid="308/0061">Emily R. Flynn</author><author pid="47/2081">Russ B. Altman</author></authors><title>GRep: Gene Set Representation via Gaussian Embedding.</title><venue>RECOMB</venue><pages>318-319</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/WangFA19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/WangFA19</url></info>
+<url>URL#1939948</url>
+</hit>
+<hit score="1" id="1939949">
+<info><authors><author pid="91/1726-4">Yijie Wang 0004</author><author pid="77/11538">Jan Hoinka</author><author pid="17/6857">Teresa M. Przytycka</author></authors><title>Accurate Sub-population Detection and Mapping Across Single Cell Experiments with PopCorn.</title><venue>RECOMB</venue><pages>320-321</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/WangHP19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/WangHP19</url></info>
+<url>URL#1939949</url>
+</hit>
+<hit score="1" id="1939950">
+<info><authors><author pid="79/10743">Ziheng Wang</author><author pid="238/9755">Grace H. T. Yeo</author><author pid="55/11537">Richard Sherwood</author><author pid="g/DavidKGifford">David Gifford 0001</author></authors><title>Disentangled Representations of Cellular Identity.</title><venue>RECOMB</venue><pages>256-271</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/WangYSG19</key><doi>10.1007/978-3-030-17083-7_16</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_16</ee><url>https://dblp.org/rec/conf/recomb/WangYSG19</url></info>
+<url>URL#1939950</url>
+</hit>
+<hit score="1" id="1939951">
+<info><authors><author pid="50/3141-7">Ye Wu 0007</author><author pid="55/11133">Ruibang Luo</author><author pid="51/5025">Henry C. M. Leung</author><author pid="t/HingFungTing">Hing-Fung Ting</author><author pid="l/TakWahLam">Tak Wah Lam</author></authors><title>RENET: A Deep Learning Approach for Extracting Gene-Disease Associations from Literature.</title><venue>RECOMB</venue><pages>272-284</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/WuLLTL19</key><doi>10.1007/978-3-030-17083-7_17</doi><ee>https://doi.org/10.1007/978-3-030-17083-7_17</ee><url>https://dblp.org/rec/conf/recomb/WuLLTL19</url></info>
+<url>URL#1939951</url>
+</hit>
+<hit score="1" id="1939952">
+<info><authors><author pid="41/5979">Yue Wu</author><author pid="240/6357">Anna Yaschenko</author><author pid="240/6375">Mohammadreza Hajy Heydary</author><author pid="15/5327">Sriram Sankararaman</author></authors><title>Fast Estimation of Genetic Correlation for Biobank-Scale Data.</title><venue>RECOMB</venue><pages>322-323</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/WuYHS19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/WuYHS19</url></info>
+<url>URL#1939952</url>
+</hit>
+<hit score="1" id="1939953">
+<info><authors><author pid="45/2923">Jinbo Xu</author></authors><title>stance-Based Protein Folding Powered by Deep Learning.</title><venue>RECOMB</venue><pages>324-325</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/Xu19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/Xu19</url></info>
+<url>URL#1939953</url>
+</hit>
+<hit score="1" id="1939954">
+<info><authors><author pid="48/450-94">Yang Yang 0094</author><author pid="06/6785-42">Yang Zhang 0042</author><author pid="15/6678">Bing Ren</author><author pid="196/4020">Jesse R. Dixon</author><author pid="26/4870-4">Jian Ma 0004</author></authors><title>Comparing 3D Genome Organization in Multiple Species Using Phylo-HMRF.</title><venue>RECOMB</venue><pages>326-327</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/YangZRD019</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/YangZRD019</url></info>
+<url>URL#1939954</url>
+</hit>
+<hit score="1" id="1939955">
+<info><authors><author pid="216/9720">Jesse M. Zhang</author><author pid="26/10962">Govinda M. Kamath</author><author pid="t/DavidNCTse">David N. C. Tse</author></authors><title>Towards a Post-clustering Test for Differential Expression.</title><venue>RECOMB</venue><pages>328-329</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ZhangKT19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ZhangKT19</url></info>
+<url>URL#1939955</url>
+</hit>
+<hit score="1" id="1939956">
+<info><authors><author pid="184/9278">Martin J. Zhang</author><author pid="79/1081">Fei Xia</author><author pid="72/8399">James Zou 0001</author></authors><title>AdaFDR: A Fast, Powerful and Covariate-Adaptive Approach to Multiple Hypothesis Testing.</title><venue>RECOMB</venue><pages>330-333</pages><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ZhangXZ19</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ZhangXZ19</url></info>
+<url>URL#1939956</url>
+</hit>
+<hit score="1" id="1973588">
+<info><authors><author pid="c/LenoreCowen">Lenore J. Cowen</author></authors><title>Research in Computational Molecular Biology - 23rd Annual International Conference, RECOMB 2019, Washington, DC, USA, May 5-8, 2019, Proceedings</title><venue>RECOMB</venue><venue>Lecture Notes in Computer Science</venue><volume>11467</volume><publisher>Springer</publisher><year>2019</year><type>Editorship</type><key>conf/recomb/2019</key><doi>10.1007/978-3-030-17083-7</doi><ee>https://doi.org/10.1007/978-3-030-17083-7</ee><url>https://dblp.org/rec/conf/recomb/2019</url></info>
+<url>URL#1973588</url>
+</hit>
+</hits>
+</result>

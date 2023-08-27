@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59361">:facetid:toc:\"db/conf/vldb/phd2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">207.48</time>
+<completions total="1" computed="1" sent="1">
+<c sc="18" dc="18" oc="18" id="41069908">:facetid:toc:db/conf/vldb/phd2019.bht</c>
+</completions>
+<hits total="18" computed="18" sent="18" first="0">
+<hit score="1" id="1960529">
+<info><authors><author pid="199/3315">Samira Akili</author></authors><title>From Distributed Sources to Distributed Sinks: Towards Truly Decentralized Event Stream Processing.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Akili19</key><ee>https://ceur-ws.org/Vol-2399/paper05.pdf</ee><url>https://dblp.org/rec/conf/vldb/Akili19</url></info>
+<url>URL#1960529</url>
+</hit>
+<hit score="1" id="1960530">
+<info><authors><author pid="204/5659">Karim Alami</author></authors><title>Computational Aspects Around Preference Queries.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Alami19</key><ee>https://ceur-ws.org/Vol-2399/paper15.pdf</ee><url>https://dblp.org/rec/conf/vldb/Alami19</url></info>
+<url>URL#1960530</url>
+</hit>
+<hit score="1" id="1960532">
+<info><authors><author pid="157/0381">Priya Deshpande</author></authors><title>Biomedical Data Categorization and Integration using Human-in-the-loop Approach.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Deshpande19</key><ee>https://ceur-ws.org/Vol-2399/paper07.pdf</ee><url>https://dblp.org/rec/conf/vldb/Deshpande19</url></info>
+<url>URL#1960532</url>
+</hit>
+<hit score="1" id="1960534">
+<info><authors><author pid="230/0570">Karima Echihabi</author></authors><title>Truly Scalable Data Series Similarity Search.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Echihabi19</key><ee>https://ceur-ws.org/Vol-2399/paper11.pdf</ee><url>https://dblp.org/rec/conf/vldb/Echihabi19</url></info>
+<url>URL#1960534</url>
+</hit>
+<hit score="1" id="1960536">
+<info><authors><author pid="g/JohannesGehrke">Johannes Gehrke</author></authors><title>Database Systems 2.0.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Gehrke19</key><ee>https://ceur-ws.org/Vol-2399/keynote1.pdf</ee><url>https://dblp.org/rec/conf/vldb/Gehrke19</url></info>
+<url>URL#1960536</url>
+</hit>
+<hit score="1" id="1960538">
+<info><authors><author pid="74/9320">Stefan Halfpap</author></authors><title>Efficient Scale-Out Using Query-Driven Workload Distribution and Fragment Allocation.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Halfpap19</key><ee>https://ceur-ws.org/Vol-2399/paper01.pdf</ee><url>https://dblp.org/rec/conf/vldb/Halfpap19</url></info>
+<url>URL#1960538</url>
+</hit>
+<hit score="1" id="1960542">
+<info><authors><author pid="201/1395">Christos Koutras</author></authors><title>Data as a Language: A Novel Approach to Data Integration.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Koutras19</key><ee>https://ceur-ws.org/Vol-2399/paper12.pdf</ee><url>https://dblp.org/rec/conf/vldb/Koutras19</url></info>
+<url>URL#1960542</url>
+</hit>
+<hit score="1" id="1960545">
+<info><authors><author pid="182/2263">Poonam Kumari</author></authors><title>Make Informed Decisions: Understanding Query Results from Incomplete Databases.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Kumari19</key><ee>https://ceur-ws.org/Vol-2399/paper09.pdf</ee><url>https://dblp.org/rec/conf/vldb/Kumari19</url></info>
+<url>URL#1960545</url>
+</hit>
+<hit score="1" id="1960546">
+<info><authors><author pid="176/5473">Michele Linardi</author></authors><title>Effective and Efficient Variable-Length Data Series Analytics.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Linardi19</key><ee>https://ceur-ws.org/Vol-2399/paper04.pdf</ee><url>https://dblp.org/rec/conf/vldb/Linardi19</url></info>
+<url>URL#1960546</url>
+</hit>
+<hit score="1" id="1960548">
+<info><authors><author pid="243/1073">Sergey Madaminov</author></authors><title>Comprehensive Framework for Sorting Benchmarks.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Madaminov19</key><ee>https://ceur-ws.org/Vol-2399/paper13.pdf</ee><url>https://dblp.org/rec/conf/vldb/Madaminov19</url></info>
+<url>URL#1960548</url>
+</hit>
+<hit score="1" id="1960553">
+<info><authors><author pid="205/0833">Yann Ramusat</author></authors><title>Provenance-Based Routing in Probabilistic Graph Databases.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Ramusat19</key><ee>https://ceur-ws.org/Vol-2399/paper08.pdf</ee><url>https://dblp.org/rec/conf/vldb/Ramusat19</url></info>
+<url>URL#1960553</url>
+</hit>
+<hit score="1" id="1960554">
+<info><authors><author pid="97/10290">Keven Richly</author></authors><title>Optimized Spatio-Temporal Data Structures for Hybrid Transactional and Analytical Workloads on Columnar In-Memory Databases.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Richly19</key><ee>https://ceur-ws.org/Vol-2399/paper10.pdf</ee><url>https://dblp.org/rec/conf/vldb/Richly19</url></info>
+<url>URL#1960554</url>
+</hit>
+<hit score="1" id="1960556">
+<info><authors><author pid="16/8981">Ibrahim Sabek</author></authors><title>Adopting Markov Logic Networks for Big Spatial Data and Applications.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Sabek19</key><ee>https://ceur-ws.org/Vol-2399/paper02.pdf</ee><url>https://dblp.org/rec/conf/vldb/Sabek19</url></info>
+<url>URL#1960556</url>
+</hit>
+<hit score="1" id="1960559">
+<info><authors><author pid="180/3844">Purnima Shah</author></authors><title>Developing Big Data Analytics Architecture for Spatial Data.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Shah19</key><ee>https://ceur-ws.org/Vol-2399/paper03.pdf</ee><url>https://dblp.org/rec/conf/vldb/Shah19</url></info>
+<url>URL#1960559</url>
+</hit>
+<hit score="1" id="1960561">
+<info><authors><author pid="192/7506">Toshiaki Uemura</author></authors><title>Pre-Estimation of Electric Vehicle Energy Consumption on Unfamiliar Roads and Actual Driving Experiments.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Uemura19</key><ee>https://ceur-ws.org/Vol-2399/paper06.pdf</ee><url>https://dblp.org/rec/conf/vldb/Uemura19</url></info>
+<url>URL#1960561</url>
+</hit>
+<hit score="1" id="1960562">
+<info><authors><author pid="196/1399">Wenlu Wang</author></authors><title>A Cross-domain Natural Language Interface to Databases using Adversarial Text Method.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Wang19</key><ee>https://ceur-ws.org/Vol-2399/paper14.pdf</ee><url>https://dblp.org/rec/conf/vldb/Wang19</url></info>
+<url>URL#1960562</url>
+</hit>
+<hit score="1" id="1960565">
+<info><authors><author pid="58/3771">Cong Yu 0001</author></authors><title>Structured Data Meets News.</title><venue>PhD@VLDB</venue><year>2019</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/vldb/Yu19</key><ee>https://ceur-ws.org/Vol-2399/keynote2.pdf</ee><url>https://dblp.org/rec/conf/vldb/Yu19</url></info>
+<url>URL#1960565</url>
+</hit>
+<hit score="1" id="1974066">
+<info><authors><author pid="b/IlariaBartolini">Ilaria Bartolini</author><author pid="l/FeifeiLi">Feifei Li 0001</author></authors><title>Proceedings of the VLDB 2019 PhD Workshop, co-located with the 45th International Conference on Very Large Databases (VLDB 2019), Los Angeles, California, USA, August 26-30, 2019.</title><venue>PhD@VLDB</venue><venue>CEUR Workshop Proceedings</venue><volume>2399</volume><publisher>CEUR-WS.org</publisher><year>2019</year><type>Editorship</type><access>open</access><key>conf/vldb/2019phd</key><ee>https://ceur-ws.org/Vol-2399</ee><url>https://dblp.org/rec/conf/vldb/2019phd</url></info>
+<url>URL#1974066</url>
+</hit>
+</hits>
+</result>

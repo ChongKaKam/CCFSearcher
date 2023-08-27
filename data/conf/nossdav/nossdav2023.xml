@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59647">:facetid:toc:\"db/conf/nossdav/nossdav2023.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">192.14</time>
+<completions total="1" computed="1" sent="1">
+<c sc="11" dc="11" oc="11" id="41057629">:facetid:toc:db/conf/nossdav/nossdav2023.bht</c>
+</completions>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="181533">
+<info><authors><author pid="347/9636">Akram Ansari</author><author pid="96/6774">Mea Wang</author></authors><title>iStream Player: A Versatile Video Player Framework.</title><venue>NOSSDAV</venue><pages>65-71</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/AnsariW23</key><doi>10.1145/3592473.3592569</doi><ee>https://doi.org/10.1145/3592473.3592569</ee><url>https://dblp.org/rec/conf/nossdav/AnsariW23</url></info>
+<url>URL#181533</url>
+</hit>
+<hit score="1" id="181534">
+<info><authors><author pid="32/3083">Jia-Wei Fang</author><author pid="330/2384">Kuan-Yu Lee</author><author pid="157/0335">Teemu Kämäräinen</author><author pid="78/3796">Matti Siekkinen</author><author pid="80/4385">Cheng-Hsin Hsu</author></authors><title>Will Dynamic Foveation Boost Cloud VR Gaming Experience?</title><venue>NOSSDAV</venue><pages>29-35</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/FangLKSH23</key><doi>10.1145/3592473.3592565</doi><ee>https://doi.org/10.1145/3592473.3592565</ee><url>https://dblp.org/rec/conf/nossdav/FangLKSH23</url></info>
+<url>URL#181534</url>
+</hit>
+<hit score="1" id="181535">
+<info><authors><author pid="270/6073">Joris Herbots</author><author pid="347/9630">Arno Verstraete</author><author pid="77/5063">Maarten Wijnants 0001</author><author pid="77/1398">Peter Quax</author><author pid="51/4423">Wim Lamotte</author></authors><title>Cross that boundary: Investigating the feasibility of cross-layer information sharing for enhancing ABR decision logic over QUIC.</title><venue>NOSSDAV</venue><pages>50-57</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/HerbotsV0QL23</key><doi>10.1145/3592473.3592563</doi><ee>https://doi.org/10.1145/3592473.3592563</ee><url>https://dblp.org/rec/conf/nossdav/HerbotsV0QL23</url></info>
+<url>URL#181535</url>
+</hit>
+<hit score="1" id="181536">
+<info><authors><author pid="243/3649">Soonbin Lee</author><author pid="227/4978">JongBeom Jeong</author><author pid="34/2551">Eun-Seok Ryu</author></authors><title>Implementing Partial Atlas Selector for Viewport-dependent MPEG Immersive Video Streaming.</title><venue>NOSSDAV</venue><pages>36-42</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LeeJR23</key><doi>10.1145/3592473.3592570</doi><ee>https://doi.org/10.1145/3592473.3592570</ee><url>https://dblp.org/rec/conf/nossdav/LeeJR23</url></info>
+<url>URL#181536</url>
+</hit>
+<hit score="1" id="181537">
+<info><authors><author pid="186/6868">Jiaxi Li</author><author pid="304/1222">Jingwei Liao</author><author pid="89/5615-25">Bo Chen 0025</author><author pid="52/5285">Anh Nguyen</author><author pid="347/9567">Aditi Tiwari</author><author pid="88/123">Qian Zhou</author><author pid="28/10126">Zhisheng Yan</author><author pid="45/3224">Klara Nahrstedt</author></authors><title>Latency-Aware 360-Degree Video Analytics Framework for First Responders Situational Awareness.</title><venue>NOSSDAV</venue><pages>8-14</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LiL0NTZYN23</key><doi>10.1145/3592473.3592568</doi><ee>https://doi.org/10.1145/3592473.3592568</ee><url>https://dblp.org/rec/conf/nossdav/LiL0NTZYN23</url></info>
+<url>URL#181537</url>
+</hit>
+<hit score="1" id="181538">
+<info><authors><author pid="85/10246">Yueheng Li</author><author pid="344/5294">Qianyuan Zheng</author><author pid="193/4403">Zicheng Zhang</author><author pid="175/3324-36">Hao Chen 0036</author><author pid="09/2949">Zhan Ma</author></authors><title>Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance.</title><venue>NOSSDAV</venue><pages>58-64</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LiZZCM23</key><doi>10.1145/3592473.3592564</doi><ee>https://doi.org/10.1145/3592473.3592564</ee><url>https://dblp.org/rec/conf/nossdav/LiZZCM23</url></info>
+<url>URL#181538</url>
+</hit>
+<hit score="1" id="181539">
+<info><authors><author pid="231/2689">Danyang Song</author><author pid="18/2908-2">Cong Zhang 0002</author><author pid="174/2169">Yifei Zhu</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author></authors><title>A Low Cost Cross-Platform Video/Image Process Framework Empowers Heterogeneous Edge Application.</title><venue>NOSSDAV</venue><pages>22-28</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/Song0ZL23</key><doi>10.1145/3592473.3592566</doi><ee>https://doi.org/10.1145/3592473.3592566</ee><url>https://dblp.org/rec/conf/nossdav/Song0ZL23</url></info>
+<url>URL#181539</url>
+</hit>
+<hit score="1" id="181540">
+<info><authors><author pid="270/4249">Rongyu Zhang</author><author pid="347/9680">Lixuan Du</author><author pid="325/5391">Jiaming Liu</author><author pid="260/1314">Congcong Song</author><author pid="142/0351">Fangxin Wang 0001</author><author pid="98/356-9">Xiaoqi Li 0009</author><author pid="15/5997">Ming Lu</author><author pid="28/4272">Yandong Guo</author><author pid="95/11531">Shanghang Zhang</author></authors><title>RepCaM: Re-parameterization Content-aware Modulation for Neural Video Delivery.</title><venue>NOSSDAV</venue><pages>1-7</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhangDLS00LGZ23</key><doi>10.1145/3592473.3592567</doi><ee>https://doi.org/10.1145/3592473.3592567</ee><url>https://dblp.org/rec/conf/nossdav/ZhangDLS00LGZ23</url></info>
+<url>URL#181540</url>
+</hit>
+<hit score="1" id="181541">
+<info><authors><author pid="336/8700">Haoyuan Zhao</author><author pid="06/2484">Hao Fang</author><author pid="90/4225-1">Feng Wang 0001</author><author pid="l/JiangchuanLiu">Jiangchuan Liu</author></authors><title>Realtime Multimedia Services over Starlink: A Reality Check.</title><venue>NOSSDAV</venue><pages>43-49</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhaoF0L23</key><doi>10.1145/3592473.3592562</doi><ee>https://doi.org/10.1145/3592473.3592562</ee><url>https://dblp.org/rec/conf/nossdav/ZhaoF0L23</url></info>
+<url>URL#181541</url>
+</hit>
+<hit score="1" id="181542">
+<info><authors><author pid="02/735">Xudong Zhao</author><author pid="332/3909">Xinyao Zeng</author><author pid="289/8538">Linyao Gao</author><author pid="164/8950">Yiling Xu</author><author pid="55/5407">Yanfeng Wang</author></authors><title>DMGC: Deep Triangle Mesh Geometry Compression via Connectivity Prediction.</title><venue>NOSSDAV</venue><pages>15-21</pages><year>2023</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ZhaoZGXW23</key><doi>10.1145/3592473.3592561</doi><ee>https://doi.org/10.1145/3592473.3592561</ee><url>https://dblp.org/rec/conf/nossdav/ZhaoZGXW23</url></info>
+<url>URL#181542</url>
+</hit>
+<hit score="1" id="197122">
+<info><title>Proceedings of the 33rd Workshop on Network and Operating System Support for Digital Audio and Video, NOSSDAV 2023, Vancouver, BC, Canada, June 7-10, 2023</title><venue>NOSSDAV</venue><publisher>ACM</publisher><year>2023</year><type>Editorship</type><key>conf/nossdav/2023</key><doi>10.1145/3592473</doi><ee>https://doi.org/10.1145/3592473</ee><url>https://dblp.org/rec/conf/nossdav/2023</url></info>
+<url>URL#197122</url>
+</hit>
+</hits>
+</result>

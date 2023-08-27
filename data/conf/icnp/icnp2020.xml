@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59554">:facetid:toc:\"db/conf/icnp/icnp2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">194.80</time>
+<completions total="1" computed="1" sent="1">
+<c sc="63" dc="63" oc="63" id="41043974">:facetid:toc:db/conf/icnp/icnp2020.bht</c>
+</completions>
+<hits total="63" computed="63" sent="63" first="0">
+<hit score="1" id="1456781">
+<info><authors><author pid="97/6505-7">Qing Wang 0007</author><author pid="191/5334">Jona Beysens</author><author pid="19/44">Dave Singelée</author><author pid="72/4438">Sofie Pollin</author></authors><title>Poster: Securing IoT Through Coverage-Bounding Wireless Communication With Visible Light.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/0007BSP20</key><doi>10.1109/ICNP49622.2020.9259369</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259369</ee><url>https://dblp.org/rec/conf/icnp/0007BSP20</url></info>
+<url>URL#1456781</url>
+</hit>
+<hit score="1" id="1456782">
+<info><authors><author pid="49/1245-8">Jia Liu 0008</author><author pid="59/7651">Xingyu Chen</author><author pid="24/146">Haisong Liu</author><author pid="279/2277">Hualin Gong</author><author pid="62/6975">Yanyan Wang</author><author pid="c/LijunChen6">Lijun Chen 0006</author></authors><title>Time-efficient Range Detection in Commodity RFID Systems.</title><venue>ICNP</venue><pages>1-10</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/0008CLGWC20</key><doi>10.1109/ICNP49622.2020.9259371</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259371</ee><url>https://dblp.org/rec/conf/icnp/0008CLGWC20</url></info>
+<url>URL#1456782</url>
+</hit>
+<hit score="1" id="1456783">
+<info><authors><author pid="249/3746">Elkin Aguas</author><author pid="121/7034">Anthony Lambert</author><author pid="89/10040">Grégory Blanc</author><author pid="86/4961">Hervé Debar</author></authors><title>Automated Saturation Mitigation Controlled by Deep Reinforcement Learning.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AguasLBD20</key><doi>10.1109/ICNP49622.2020.9259356</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259356</ee><url>https://dblp.org/rec/conf/icnp/AguasLBD20</url></info>
+<url>URL#1456783</url>
+</hit>
+<hit score="1" id="1456784">
+<info><authors><author pid="279/2755">João Romeiras Amado</author><author pid="147/7546">Salvatore Signorello</author><author pid="64/2768-1">Miguel Correia 0001</author><author pid="21/8398">Fernando M. V. Ramos</author></authors><title>Poster: Speeding Up Network Intrusion Detection.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AmadoSCR20</key><doi>10.1109/ICNP49622.2020.9259349</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259349</ee><url>https://dblp.org/rec/conf/icnp/AmadoSCR20</url></info>
+<url>URL#1456784</url>
+</hit>
+<hit score="1" id="1456785">
+<info><authors><author pid="238/1807">Ons Aouedi</author><author pid="86/2285">Kandaraj Piamrat</author><author pid="279/2278">Dhruvjyoti Bagadthey</author></authors><title>A Semi-supervised Stacked Autoencoder Approach for Network Traffic Classification.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AouediPB20</key><doi>10.1109/ICNP49622.2020.9259390</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259390</ee><url>https://dblp.org/rec/conf/icnp/AouediPB20</url></info>
+<url>URL#1456785</url>
+</hit>
+<hit score="1" id="1456786">
+<info><authors><author pid="157/1275">Michael Baddeley</author><author pid="71/7545">Carlo Alberto Boano</author><author pid="234/8119">Antonio Escobar-Molero</author><author pid="96/2615-4">Ye Liu 0004</author><author pid="177/5198">Xiaoyuan Ma</author><author pid="40/11345">Usman Raza</author><author pid="r/KayRomer">Kay Römer</author><author pid="179/8564">Markus Schuß</author><author pid="222/8143">Aleksandar Stanoev</author></authors><title>The Impact of the Physical Layer on the Performance of Concurrent Transmissions.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BaddeleyBELMRRS20</key><doi>10.1109/ICNP49622.2020.9259407</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259407</ee><url>https://dblp.org/rec/conf/icnp/BaddeleyBELMRRS20</url></info>
+<url>URL#1456786</url>
+</hit>
+<hit score="1" id="1456787">
+<info><authors><author pid="210/2834">Jeanseong Baik</author><author pid="168/6323">Haegeon Jeong</author><author pid="86/4711">Kyungtae Kang</author></authors><title>Poster: Network-Centric Approach Using Task Migration for Drive-by-Wire Vehicle Resilience.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BaikJK20</key><doi>10.1109/ICNP49622.2020.9259350</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259350</ee><url>https://dblp.org/rec/conf/icnp/BaikJK20</url></info>
+<url>URL#1456787</url>
+</hit>
+<hit score="1" id="1456788">
+<info><authors><author pid="140/7690">Ran Ben Basat</author><author pid="139/7090">Gil Einziger</author><author pid="272/6698">Bilal Tayh</author></authors><title>Cooperative Network-wide Flow Selection.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BasatET20</key><doi>10.1109/ICNP49622.2020.9259395</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259395</ee><url>https://dblp.org/rec/conf/icnp/BasatET20</url></info>
+<url>URL#1456788</url>
+</hit>
+<hit score="1" id="1456789">
+<info><authors><author pid="279/2093">Andreas Bäuml</author><author pid="234/7630">Clemens Felber</author><author pid="143/1081">Walter P. Nitzold</author></authors><title>Poster: An Experimental Study of Multi-RAT Systems.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/BaumlFN20</key><doi>10.1109/ICNP49622.2020.9259348</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259348</ee><url>https://dblp.org/rec/conf/icnp/BaumlFN20</url></info>
+<url>URL#1456789</url>
+</hit>
+<hit score="1" id="1456790">
+<info><authors><author pid="193/6699">Yifeng Cao</author><author pid="98/7554">Ashutosh Dhekne</author><author pid="a/MHAmmar">Mostafa H. Ammar</author></authors><title>6Fit-A-Part: A Protocol for Physical Distancing on a Custom Wearable Device.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/CaoDA20</key><doi>10.1109/ICNP49622.2020.9259374</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259374</ee><url>https://dblp.org/rec/conf/icnp/CaoDA20</url></info>
+<url>URL#1456790</url>
+</hit>
+<hit score="1" id="1456791">
+<info><authors><author pid="224/2165">Jiamin Cao</author><author pid="36/2728-8">Yu Zhou 0008</author><author pid="91/112-24">Ying Liu 0024</author><author pid="18/6055">Mingwei Xu</author><author pid="143/6426">Yongkai Zhou</author></authors><title>TurboNet: Faithfully Emulating Networks with Programmable Switches.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/CaoZLXZ20</key><doi>10.1109/ICNP49622.2020.9259358</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259358</ee><url>https://dblp.org/rec/conf/icnp/CaoZLXZ20</url></info>
+<url>URL#1456791</url>
+</hit>
+<hit score="1" id="1456792">
+<info><authors><author pid="220/5481">Muhammad Usama Chaudhry</author><author pid="140/3564">Shibin Mathew</author><author pid="167/3927">Shanyu Zhou</author><author pid="29/1676">Vijay Gopalakrishnan</author><author pid="64/1936">Emir Halepovic</author><author pid="27/825">Hulya Seferoglu</author><author pid="18/8397">Balajee Vamanan</author></authors><title>Legilimens: An Agile Transport for Background Traffic in Cellular Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ChaudhryMZGHSV20</key><doi>10.1109/ICNP49622.2020.9259406</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259406</ee><url>https://dblp.org/rec/conf/icnp/ChaudhryMZGHSV20</url></info>
+<url>URL#1456792</url>
+</hit>
+<hit score="1" id="1456793">
+<info><authors><author pid="279/2641">Anton Chekashev</author><author pid="218/8732">Vitalii Demianiuk</author><author pid="93/1311">Kirill Kogan</author></authors><title>Poster: Novel Opportunities in Design of Efficient Deep Packet Inspection Engines.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ChekashevDK20</key><doi>10.1109/ICNP49622.2020.9259400</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259400</ee><url>https://dblp.org/rec/conf/icnp/ChekashevDK20</url></info>
+<url>URL#1456793</url>
+</hit>
+<hit score="1" id="1456794">
+<info><authors><author pid="64/3062">Xiang Chen</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="68/3245">Dong Zhang</author><author pid="81/6572">Haifeng Zhou</author><author pid="97/8329-1">Chunming Wu 0001</author></authors><title>ApproSync: Approximate State Synchronization for Programmable Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Chen0ZZW20</key><doi>10.1109/ICNP49622.2020.9259414</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259414</ee><url>https://dblp.org/rec/conf/icnp/Chen0ZZW20</url></info>
+<url>URL#1456794</url>
+</hit>
+<hit score="1" id="1456795">
+<info><authors><author pid="64/3062">Xiang Chen</author><author pid="28/374">Hongyan Liu</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="279/2000">Peiqiao Wang</author><author pid="68/3245">Dong Zhang</author><author pid="81/6572">Haifeng Zhou</author><author pid="97/8329-1">Chunming Wu 0001</author></authors><title>SPEED: Resource-Efficient and High-Performance Deployment for Data Plane Programs.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ChenL0WZZW20</key><doi>10.1109/ICNP49622.2020.9259384</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259384</ee><url>https://dblp.org/rec/conf/icnp/ChenL0WZZW20</url></info>
+<url>URL#1456795</url>
+</hit>
+<hit score="1" id="1456796">
+<info><authors><author pid="209/8665">Aditya Dhakal</author><author pid="185/5705">Sameer G. Kulkarni</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author></authors><title>Machine Learning at the Edge: Efficient Utilization of Limited CPU/GPU Resources by Multiplexing.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DhakalKR20</key><doi>10.1109/ICNP49622.2020.9259361</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259361</ee><url>https://dblp.org/rec/conf/icnp/DhakalKR20</url></info>
+<url>URL#1456796</url>
+</hit>
+<hit score="1" id="1456797">
+<info><authors><author pid="137/0579">Khaled M. Diab</author><author pid="279/2307">Carlos Lee</author><author pid="h/MohamedHefeeda">Mohamed Hefeeda</author></authors><title>Oktopus: Service Chaining for Multicast Traffic.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DiabLH20</key><doi>10.1109/ICNP49622.2020.9259408</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259408</ee><url>https://dblp.org/rec/conf/icnp/DiabLH20</url></info>
+<url>URL#1456797</url>
+</hit>
+<hit score="1" id="1456798">
+<info><authors><author pid="231/8623">Ran Duo</author><author pid="18/8282">Celimuge Wu</author><author pid="25/950">Tsutomu Yoshinaga</author><author pid="53/4376">Yusheng Ji</author></authors><title>Context-Aware Clustering for SDN Enabled Network.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DuoWYJ20</key><doi>10.1109/ICNP49622.2020.9259403</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259403</ee><url>https://dblp.org/rec/conf/icnp/DuoWYJ20</url></info>
+<url>URL#1456798</url>
+</hit>
+<hit score="1" id="1456799">
+<info><authors><author pid="268/5098">Sezana Fahmida</author><author pid="167/0272">Venkata P. Modekurthy</author><author pid="38/5762-1">Mahbubur Rahman 0001</author><author pid="56/8452">Abusayeed Saifullah</author><author pid="141/5685">Marco Brocanelli</author></authors><title>Long-Lived LoRa: Prolonging the Lifetime of a LoRa Network.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/FahmidaMRSB20</key><doi>10.1109/ICNP49622.2020.9259375</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259375</ee><url>https://dblp.org/rec/conf/icnp/FahmidaMRSB20</url></info>
+<url>URL#1456799</url>
+</hit>
+<hit score="1" id="1456800">
+<info><authors><author pid="277/0387">Rostand A. K. Fezeu</author><author pid="07/5905">Zhi-Li Zhang</author></authors><title>Anomalous Model-Driven-Telemetry Network-Stream BGP Detection.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/FezeuZ20</key><doi>10.1109/ICNP49622.2020.9259411</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259411</ee><url>https://dblp.org/rec/conf/icnp/FezeuZ20</url></info>
+<url>URL#1456800</url>
+</hit>
+<hit score="1" id="1456801">
+<info><authors><author pid="220/3336">Miquel Ferriol Galmés</author><author pid="270/4046">Roger Coll Aumatell</author><author pid="42/2223">Albert Cabellos-Aparicio</author><author pid="129/0968">Shoushou Ren</author><author pid="147/7735">Xinpeng Wei</author><author pid="04/10609">Bingyang Liu</author></authors><title>Preventing Route Leaks using a Decentralized Approach: An Experimental Evaluation.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GalmesACRWL20</key><doi>10.1109/ICNP49622.2020.9259367</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259367</ee><url>https://dblp.org/rec/conf/icnp/GalmesACRWL20</url></info>
+<url>URL#1456801</url>
+</hit>
+<hit score="1" id="1456802">
+<info><authors><author pid="76/9788">Weifeng Gao</author><author pid="89/887">Zhiwei Zhao</author><author pid="96/3727">Geyong Min</author></authors><title>AdapLoRa: Resource Adaptation for Maximizing Network Lifetime in LoRa networks.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GaoZM20</key><doi>10.1109/ICNP49622.2020.9259398</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259398</ee><url>https://dblp.org/rec/conf/icnp/GaoZM20</url></info>
+<url>URL#1456802</url>
+</hit>
+<hit score="1" id="1456803">
+<info><authors><author pid="26/9298">Thiago Garrett</author><author pid="78/3197">Luis C. E. Bona</author><author pid="02/3940">Elias P. Duarte Jr.</author></authors><title>Demo: Visualization of Stability Monitoring for Node Selection.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GarrettBD20</key><doi>10.1109/ICNP49622.2020.9259389</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259389</ee><url>https://dblp.org/rec/conf/icnp/GarrettBD20</url></info>
+<url>URL#1456803</url>
+</hit>
+<hit score="1" id="1456804">
+<info><authors><author pid="45/11434">Nan Geng</author><author pid="31/83">Tian Lan</author><author pid="91/6560">Vaneet Aggarwal</author><author pid="25/1439-1">Yuan Yang 0001</author><author pid="18/6055">Mingwei Xu</author></authors><title>A Multi-agent Reinforcement Learning Perspective on Distributed Traffic Engineering.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GengLA0X20</key><doi>10.1109/ICNP49622.2020.9259413</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259413</ee><url>https://dblp.org/rec/conf/icnp/GengLA0X20</url></info>
+<url>URL#1456804</url>
+</hit>
+<hit score="1" id="1456805">
+<info><authors><author pid="272/6527">Ningning Hou</author><author pid="08/9937">Yuanqing Zheng</author></authors><title>CloakLoRa: A Covert Channel over LoRa PHY.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HouZ20</key><doi>10.1109/ICNP49622.2020.9259364</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259364</ee><url>https://dblp.org/rec/conf/icnp/HouZ20</url></info>
+<url>URL#1456805</url>
+</hit>
+<hit score="1" id="1456806">
+<info><authors><author pid="00/6381">Bin Hu</author><author pid="130/9834-1">Zhimeng Yin 0001</author><author pid="42/1503-8">Shuai Wang 0008</author><author pid="193/9897">Zhuqing Xu</author><author pid="h/TianHe">Tian He 0001</author></authors><title>SCLoRa: Leveraging Multi-Dimensionality in Decoding Collided LoRa Transmissions.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HuY0X020</key><doi>10.1109/ICNP49622.2020.9259397</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259397</ee><url>https://dblp.org/rec/conf/icnp/HuY0X020</url></info>
+<url>URL#1456806</url>
+</hit>
+<hit score="1" id="1456807">
+<info><authors><author pid="203/0130">Mohammad Jahanian</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author></authors><title>CoNICE: Consensus in Intermittently-Connected Environments by Exploiting Naming with Application to Emergency Response.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/JahanianR20</key><doi>10.1109/ICNP49622.2020.9259370</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259370</ee><url>https://dblp.org/rec/conf/icnp/JahanianR20</url></info>
+<url>URL#1456807</url>
+</hit>
+<hit score="1" id="1456808">
+<info><authors><author pid="261/7707">Boyun Jang</author><author pid="161/9403">Syed M. Raza</author><author pid="63/2361">Moonseong Kim</author><author pid="86/1662">Hyunseung Choo</author></authors><title>MoGAN: GAN based Next PoA Selection for Proactive Mobility Management.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/JangRKC20</key><doi>10.1109/ICNP49622.2020.9259368</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259368</ee><url>https://dblp.org/rec/conf/icnp/JangRKC20</url></info>
+<url>URL#1456808</url>
+</hit>
+<hit score="1" id="1456809">
+<info><authors><author pid="279/2371">Yihao Jia</author><author pid="04/10609">Bingyang Liu</author><author pid="88/1904">Weiyu Jiang</author><author pid="47/6534">Bo Wu</author><author pid="39/2813">Chuang Wang</author></authors><title>Poster: Enhancing Remote Healthiness Attestation for Constrained IoT Devices.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/JiaLJWW20</key><doi>10.1109/ICNP49622.2020.9259373</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259373</ee><url>https://dblp.org/rec/conf/icnp/JiaLJWW20</url></info>
+<url>URL#1456809</url>
+</hit>
+<hit score="1" id="1456810">
+<info><authors><author pid="279/2621">Dongeon Kim</author><author pid="82/9944">Jihun Han</author><author pid="58/1170">Jinwoo Lee</author><author pid="72/8355">Heejun Roh</author><author pid="l/WonjunLee">Wonjun Lee 0001</author></authors><title>Poster: Feasibility of Malware Traffic Analysis through TLS-Encrypted Flow Visualization.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KimHLRL20</key><doi>10.1109/ICNP49622.2020.9259387</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259387</ee><url>https://dblp.org/rec/conf/icnp/KimHLRL20</url></info>
+<url>URL#1456810</url>
+</hit>
+<hit score="1" id="1456811">
+<info><authors><author pid="82/5577">Jeongmin Kim</author><author pid="22/4235">Steven Y. Ko</author><author pid="09/3668">Sooel Son</author><author pid="12/5388">Dongsu Han</author></authors><title>Lumos: Improving Smart Home IoT Visibility and Interoperability Through Analyzing Mobile Apps.</title><venue>ICNP</venue><pages>1-13</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KimKSH20</key><doi>10.1109/ICNP49622.2020.9259352</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259352</ee><url>https://dblp.org/rec/conf/icnp/KimKSH20</url></info>
+<url>URL#1456811</url>
+</hit>
+<hit score="1" id="1456812">
+<info><authors><author pid="279/2586">Carson Kuzniar</author><author pid="129/2290">Miguel C. Neves</author><author pid="209/8668">Israat Haque 0001</author></authors><title>POSTER: Accelerating Encrypted Data Stores Using Programmable Switches.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KuzniarNH20</key><doi>10.1109/ICNP49622.2020.9259379</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259379</ee><url>https://dblp.org/rec/conf/icnp/KuzniarNH20</url></info>
+<url>URL#1456812</url>
+</hit>
+<hit score="1" id="1456813">
+<info><authors><author pid="46/4109">Jonghoon Kwon</author><author pid="279/2012">Juan A. García-Pardo</author><author pid="262/5593">Markus Legner</author><author pid="279/2370">François Wirz</author><author pid="279/2462">Matthias Frei</author><author pid="76/3287">David Hausheer</author><author pid="16/6873">Adrian Perrig</author></authors><title>SCIONLAB: A Next-Generation Internet Testbed.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KwonGLWFHP20</key><doi>10.1109/ICNP49622.2020.9259355</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259355</ee><url>https://dblp.org/rec/conf/icnp/KwonGLWFHP20</url></info>
+<url>URL#1456813</url>
+</hit>
+<hit score="1" id="1456814">
+<info><authors><author pid="148/1959">Zeqi Lai</author><author pid="51/8276">Hewu Li</author><author pid="34/10479">Jihao Li</author></authors><title>StarPerf: Characterizing Network Performance for Emerging Mega-Constellations.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LaiLL20</key><doi>10.1109/ICNP49622.2020.9259357</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259357</ee><url>https://dblp.org/rec/conf/icnp/LaiLL20</url></info>
+<url>URL#1456814</url>
+</hit>
+<hit score="1" id="1456815">
+<info><authors><author pid="73/3521">Yuqing Li</author><author pid="279/2083">Hok Chun Ng</author><author pid="37/1629">Lin Zhang</author><author pid="50/3402-1">Bo Li 0001</author></authors><title>Online Cooperative Resource Allocation at the Edge: A Privacy-Preserving Approach.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiNZL20</key><doi>10.1109/ICNP49622.2020.9259382</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259382</ee><url>https://dblp.org/rec/conf/icnp/LiNZL20</url></info>
+<url>URL#1456815</url>
+</hit>
+<hit score="1" id="1456816">
+<info><authors><author pid="14/5410-3">Ning Li 0003</author><author pid="74/5978">Yue Shi</author><author pid="121/4285">Zhaoxin Zhang</author><author pid="00/6614">José-Fernán Martínez</author><author pid="78/713-3">Xin Yuan 0003</author></authors><title>Search-tree Based SDN Candidate Selection in Hybrid IP/SDN Network.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiSZM020</key><doi>10.1109/ICNP49622.2020.9259394</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259394</ee><url>https://dblp.org/rec/conf/icnp/LiSZM020</url></info>
+<url>URL#1456816</url>
+</hit>
+<hit score="1" id="1456817">
+<info><authors><author pid="156/7868">Yongshuai Liu</author><author pid="165/9711">Jiaxin Ding</author><author pid="76/1820-2">Xin Liu 0002</author></authors><title>A Constrained Reinforcement Learning Based Approach for Network Slicing.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuDL20</key><doi>10.1109/ICNP49622.2020.9259378</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259378</ee><url>https://dblp.org/rec/conf/icnp/LiuDL20</url></info>
+<url>URL#1456817</url>
+</hit>
+<hit score="1" id="1456818">
+<info><authors><author pid="207/1798">Ruofeng Liu</author><author pid="130/9834-1">Zhimeng Yin 0001</author><author pid="55/7618">Wenchao Jiang</author><author pid="h/TianHe">Tian He 0001</author></authors><title>XFi: Cross-technology IoT Data Collection via Commodity WiFi.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuYJ020</key><doi>10.1109/ICNP49622.2020.9259363</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259363</ee><url>https://dblp.org/rec/conf/icnp/LiuYJ020</url></info>
+<url>URL#1456818</url>
+</hit>
+<hit score="1" id="1456819">
+<info><authors><author pid="172/4536">Akbar Majidi</author><author pid="75/1656">Ahmed H. Zahran</author></authors><title>Optimized Joint Unicast-Multicast Panoramic Video Streaming in Cellular Networks.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MajidiZ20</key><doi>10.1109/ICNP49622.2020.9259362</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259362</ee><url>https://dblp.org/rec/conf/icnp/MajidiZ20</url></info>
+<url>URL#1456819</url>
+</hit>
+<hit score="1" id="1456820">
+<info><authors><author pid="14/4305">Di Mu</author><author pid="242/8989">Yitian Chen</author><author pid="223/6908">Junyang Shi</author><author pid="70/5884">Mo Sha 0001</author></authors><title>Runtime Control of LoRa Spreading Factor for Campus Shuttle Monitoring.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MuCS020</key><doi>10.1109/ICNP49622.2020.9259383</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259383</ee><url>https://dblp.org/rec/conf/icnp/MuCS020</url></info>
+<url>URL#1456820</url>
+</hit>
+<hit score="1" id="1456821">
+<info><authors><author pid="78/4696">Heng Pan</author><author pid="58/5750-1">Zhenyu Li 0001</author><author pid="249/2206">Penghao Zhang</author><author pid="06/1703">Kavé Salamatian</author><author pid="01/2888">Gaogang Xie</author></authors><title>Misconfiguration Checking for SDN: Data Structure, Theory and Algorithms.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/PanLZSX20</key><doi>10.1109/ICNP49622.2020.9259353</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259353</ee><url>https://dblp.org/rec/conf/icnp/PanLZSX20</url></info>
+<url>URL#1456821</url>
+</hit>
+<hit score="1" id="1456822">
+<info><authors><author pid="170/5430">Chanyoung Park</author><author pid="279/2680">Yoonsue Joe</author><author pid="279/2502">Myounghwan Yoo</author><author pid="62/688">Dongeun Lee 0001</author><author pid="86/4711">Kyungtae Kang</author></authors><title>Poster: Prototype of Configurable Redfish Query Proxy Module.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ParkJY0K20</key><doi>10.1109/ICNP49622.2020.9259365</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259365</ee><url>https://dblp.org/rec/conf/icnp/ParkJY0K20</url></info>
+<url>URL#1456822</url>
+</hit>
+<hit score="1" id="1456823">
+<info><authors><author pid="54/1042">Glenn Ricart</author></authors><title>Invited Paper: Perishable Data in Smart Communities.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Ricart20</key><doi>10.1109/ICNP49622.2020.9259385</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259385</ee><url>https://dblp.org/rec/conf/icnp/Ricart20</url></info>
+<url>URL#1456823</url>
+</hit>
+<hit score="1" id="1456824">
+<info><authors><author pid="275/7788">Moh Sabbir Saadat</author><author pid="146/0105">Sanjib Sur</author><author pid="n/SrihariNelakuditi">Srihari Nelakuditi</author></authors><title>A Case for Temperature-Aware Scheduler for Millimeter-Wave Devices and Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SaadatSN20</key><doi>10.1109/ICNP49622.2020.9259381</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259381</ee><url>https://dblp.org/rec/conf/icnp/SaadatSN20</url></info>
+<url>URL#1456824</url>
+</hit>
+<hit score="1" id="1456825">
+<info><authors><author pid="156/7181">Pedram Kheirkhah Sangdeh</author><author pid="241/9397">Hossein Pirayesh</author><author pid="207/7586">Aryan Mobiny</author><author pid="36/8208">Huacheng Zeng</author></authors><title>LB-SciFi: Online Learning-Based Channel Feedback for MU-MIMO in Wireless LANs.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SangdehPMZ20</key><doi>10.1109/ICNP49622.2020.9259366</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259366</ee><url>https://dblp.org/rec/conf/icnp/SangdehPMZ20</url></info>
+<url>URL#1456825</url>
+</hit>
+<hit score="1" id="1456826">
+<info><authors><author pid="153/4326">Kunal Sankhe</author><author pid="127/9098">Dheryta Jaisinghani</author><author pid="04/3786">Kaushik R. Chowdhury</author></authors><title>CSIscan: Learning CSI for Efficient Access Point Discovery in Dense WiFi Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SankheJC20</key><doi>10.1109/ICNP49622.2020.9259360</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259360</ee><url>https://dblp.org/rec/conf/icnp/SankheJC20</url></info>
+<url>URL#1456826</url>
+</hit>
+<hit score="1" id="1456827">
+<info><authors><author pid="55/5450-1">Haoyu Song 0001</author><author pid="32/9056">Zhaobo Zhang</author><author pid="12/2403">Yingzhen Qu</author><author pid="279/2470">James Guichard</author></authors><title>Adaptive Addresses for Next Generation IP Protocol in Hierarchical Networks.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SongZQG20</key><doi>10.1109/ICNP49622.2020.9259354</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259354</ee><url>https://dblp.org/rec/conf/icnp/SongZQG20</url></info>
+<url>URL#1456827</url>
+</hit>
+<hit score="1" id="1456828">
+<info><authors><author pid="68/6024">Suresh Srinivasan</author><author pid="22/1147">Xi Yu</author><author pid="47/5802">Alireza Keshavarz-Haddad</author><author pid="52/5398">Ehsan Aryafar</author></authors><title>Fair Initial Access Design for mmWave Wireless.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SrinivasanYKA20</key><doi>10.1109/ICNP49622.2020.9259392</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259392</ee><url>https://dblp.org/rec/conf/icnp/SrinivasanYKA20</url></info>
+<url>URL#1456828</url>
+</hit>
+<hit score="1" id="1456829">
+<info><authors><author pid="62/3689">Yu Sun</author><author pid="24/8037">Chi Lin</author><author pid="124/6911">Haipeng Dai</author><author pid="62/2145">Qiang Lin</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author></authors><title>Trading off Charging and Sensing for Stochastic Events Monitoring in WRSNs.</title><venue>ICNP</venue><pages>1-11</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SunLDL0W20</key><doi>10.1109/ICNP49622.2020.9259399</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259399</ee><url>https://dblp.org/rec/conf/icnp/SunLDL0W20</url></info>
+<url>URL#1456829</url>
+</hit>
+<hit score="1" id="1456830">
+<info><authors><author pid="210/0173">Belma Turkovic</author><author pid="55/2512">Fernando A. Kuipers</author></authors><title>P4air: Increasing Fairness among Competing Congestion Control Algorithms.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TurkovicK20</key><doi>10.1109/ICNP49622.2020.9259405</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259405</ee><url>https://dblp.org/rec/conf/icnp/TurkovicK20</url></info>
+<url>URL#1456830</url>
+</hit>
+<hit score="1" id="1456831">
+<info><authors><author pid="67/2647">Jiayu Wang</author><author pid="145/8541">Zehua Guo 0001</author><author pid="91/3699-2">Sen Liu 0002</author><author pid="69/2205">Yuanqing Xia</author></authors><title>Poster: Maintaining Training Efficiency and Accuracy for Edge-assisted Online Federated Learning with ABS.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Wang0LX20</key><doi>10.1109/ICNP49622.2020.9259386</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259386</ee><url>https://dblp.org/rec/conf/icnp/Wang0LX20</url></info>
+<url>URL#1456831</url>
+</hit>
+<hit score="1" id="1456832">
+<info><authors><author pid="202/8467">Shuhe Wang</author><author pid="01/6072-5">Chen Sun 0005</author><author pid="198/8304">Zili Meng</author><author pid="220/3778">Minhu Wang</author><author pid="224/2165">Jiamin Cao</author><author pid="18/6055">Mingwei Xu</author><author pid="79/3662">Jun Bi</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="134/3932">Masoud Moshref</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="02/2870">Hongxin Hu</author><author pid="77/6324">Gong Zhang</author></authors><title>Martini: Bridging the Gap between Network Measurement and Control Using Switching ASICs.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WangSMWCXB0M0HZ20</key><doi>10.1109/ICNP49622.2020.9259415</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259415</ee><url>https://dblp.org/rec/conf/icnp/WangSMWCXB0M0HZ20</url></info>
+<url>URL#1456832</url>
+</hit>
+<hit score="1" id="1456833">
+<info><authors><author pid="37/1593-1">Zhijun Wang 0001</author><author pid="177/7943">Akshit Singhal</author><author pid="124/4706">Yunxiang Wu</author><author pid="170/9703">Chuwen Zhang</author><author pid="50/1964">Hao Che</author><author pid="16/3631-1">Hong Jiang 0001</author><author pid="35/837-1">Bin Liu 0001</author><author pid="15/1984">Constantino Lagoa</author></authors><title>HOLNET: A Holistic Traffic Control Framework for Datacenter Networks.</title><venue>ICNP</venue><pages>1-12</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WangSWZCJLL20</key><doi>10.1109/ICNP49622.2020.9259410</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259410</ee><url>https://dblp.org/rec/conf/icnp/WangSWZCJLL20</url></info>
+<url>URL#1456833</url>
+</hit>
+<hit score="1" id="1456834">
+<info><authors><author pid="168/8436">Felix Weinrank</author><author pid="43/6209">Michael Tüxen</author><author pid="57/1503">Erwin P. Rathgeb</author></authors><title>RACK for SCTP.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WeinrankTR20</key><doi>10.1109/ICNP49622.2020.9259402</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259402</ee><url>https://dblp.org/rec/conf/icnp/WeinrankTR20</url></info>
+<url>URL#1456834</url>
+</hit>
+<hit score="1" id="1456835">
+<info><authors><author pid="150/2286">Jingxiang Yang</author><author pid="128/7650">Liyan Li</author><author pid="213/8217">Min-Jian Zhao 0001</author></authors><title>A Blind CSI Prediction Method Based on Deep Learning for V2I Millimeter-Wave Channel.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YangLZ20</key><doi>10.1109/ICNP49622.2020.9259409</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259409</ee><url>https://dblp.org/rec/conf/icnp/YangLZ20</url></info>
+<url>URL#1456835</url>
+</hit>
+<hit score="1" id="1456836">
+<info><authors><author pid="172/1330">Sepehr Abbasi Zadeh</author><author pid="279/2013">Mohmmad Amin Beiruti</author><author pid="36/3795">Yashar Ganjali</author><author pid="12/3198">Zhenhua Hu</author></authors><title>Poster: Application-Aware Load Migration Protocols for Network Controllers.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZadehBGH20</key><doi>10.1109/ICNP49622.2020.9259359</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259359</ee><url>https://dblp.org/rec/conf/icnp/ZadehBGH20</url></info>
+<url>URL#1456836</url>
+</hit>
+<hit score="1" id="1456837">
+<info><authors><author pid="172/1330">Sepehr Abbasi Zadeh</author><author pid="279/2013">Mohmmad Amin Beiruti</author><author pid="36/3795">Yashar Ganjali</author><author pid="12/3198">Zhenhua Hu</author></authors><title>Poster: Fast Scheduling for Load Migration in Distributed Network Controllers.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZadehBGH20a</key><doi>10.1109/ICNP49622.2020.9259401</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259401</ee><url>https://dblp.org/rec/conf/icnp/ZadehBGH20a</url></info>
+<url>URL#1456837</url>
+</hit>
+<hit score="1" id="1456838">
+<info><authors><author pid="279/2400">Haoran Zha</author><author pid="206/9465">Qiao Tian</author><author pid="77/1513-5">Yun Lin 0005</author></authors><title>Real-World ADS-B signal recognition based on Radio Frequency Fingerprinting.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhaT020</key><doi>10.1109/ICNP49622.2020.9259404</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259404</ee><url>https://dblp.org/rec/conf/icnp/ZhaT020</url></info>
+<url>URL#1456838</url>
+</hit>
+<hit score="1" id="1456839">
+<info><authors><author pid="154/4701">Wanli Zhang</author><author pid="04/8431">Xiangyang Gong</author><author pid="32/5495-8">Ye Tian 0008</author><author pid="272/6484">Jifan Tang</author></authors><title>High Speed Route Lookup for Variable-Length IP Address.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangG0T20</key><doi>10.1109/ICNP49622.2020.9259393</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259393</ee><url>https://dblp.org/rec/conf/icnp/ZhangG0T20</url></info>
+<url>URL#1456839</url>
+</hit>
+<hit score="1" id="1456840">
+<info><authors><author pid="06/3351">Qiong Zhang</author><author pid="19/5742">Paparao Palacharla</author><author pid="05/8102">Motoyoshi Sekiya</author><author pid="29/10806">Junichi Suga</author><author pid="122/1202">Toru Katagiri</author></authors><title>Demo: A Blockchain Based Protocol for Federated Learning.</title><venue>ICNP</venue><pages>1-2</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangPSSK20</key><doi>10.1109/ICNP49622.2020.9259388</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259388</ee><url>https://dblp.org/rec/conf/icnp/ZhangPSSK20</url></info>
+<url>URL#1456840</url>
+</hit>
+<hit score="1" id="1456841">
+<info><authors><author pid="49/4478">Xiao Zhang</author><author pid="14/5505-1">Li Xiao 0001</author></authors><title>RainbowRow: Fast Optical Camera Communication.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangX20</key><doi>10.1109/ICNP49622.2020.9259396</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259396</ee><url>https://dblp.org/rec/conf/icnp/ZhangX20</url></info>
+<url>URL#1456841</url>
+</hit>
+<hit score="1" id="1456842">
+<info><authors><author pid="88/4740-1">Gao Zheng 0001</author><author pid="46/2005-1">Ning Wang 0001</author><author pid="18/380">Rahim Tafazolli</author><author pid="147/7735">Xinpeng Wei</author></authors><title>Geosynchronous Network Grid Addressing for Integrated Space-Terrestrial Networks.</title><venue>ICNP</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhengWTW20</key><doi>10.1109/ICNP49622.2020.9259376</doi><ee>https://doi.org/10.1109/ICNP49622.2020.9259376</ee><url>https://dblp.org/rec/conf/icnp/ZhengWTW20</url></info>
+<url>URL#1456842</url>
+</hit>
+<hit score="1" id="1540073">
+<info><title>28th IEEE International Conference on Network Protocols, ICNP 2020, Madrid, Spain, October 13-16, 2020</title><venue>ICNP</venue><publisher>IEEE</publisher><year>2020</year><type>Editorship</type><key>conf/icnp/2020</key><ee>https://ieeexplore.ieee.org/xpl/conhome/9259328/proceeding</ee><url>https://dblp.org/rec/conf/icnp/2020</url></info>
+<url>URL#1540073</url>
+</hit>
+</hits>
+</result>

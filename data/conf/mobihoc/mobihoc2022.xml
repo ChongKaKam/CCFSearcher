@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59609">:facetid:toc:\"db/conf/mobihoc/mobihoc2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">179.36</time>
+<completions total="1" computed="1" sent="1">
+<c sc="40" dc="40" oc="40" id="41055888">:facetid:toc:db/conf/mobihoc/mobihoc2022.bht</c>
+</completions>
+<hits total="40" computed="40" sent="40" first="0">
+<hit score="1" id="599034">
+<info><authors><author pid="325/0951">Taegun An</author><author pid="34/2646">Hyogon Kim</author><author pid="j/ChangheeJoo">Changhee Joo</author></authors><title>Prediction of COVID-19 infection spread through agent-based simulation.</title><venue>MobiHoc</venue><pages>247-252</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/AnKJ22</key><doi>10.1145/3492866.3557735</doi><ee>https://doi.org/10.1145/3492866.3557735</ee><url>https://dblp.org/rec/conf/mobihoc/AnKJ22</url></info>
+<url>URL#599034</url>
+</hit>
+<hit score="1" id="599035">
+<info><authors><author pid="115/5126">Ghufran Baig</author><author pid="329/4636">Changhan Ge</author><author pid="54/4031">Lili Qiu</author><author pid="75/10258">Yuanjie Li</author><author pid="232/2105">Wangyang Li</author><author pid="09/5042">Wei Sun</author><author pid="24/6837">Jian He</author><author pid="183/1913">Zhehui Zhang</author><author pid="55/758">Songwu Lu</author></authors><title>Extracting and predicting multipath profiles under high mobility.</title><venue>MobiHoc</venue><pages>181-190</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/BaigGQLLSHZL22</key><doi>10.1145/3492866.3549710</doi><ee>https://doi.org/10.1145/3492866.3549710</ee><url>https://dblp.org/rec/conf/mobihoc/BaigGQLLSHZL22</url></info>
+<url>URL#599035</url>
+</hit>
+<hit score="1" id="599036">
+<info><authors><author pid="308/1992">Karim Boutiba</author><author pid="00/2807">Miloud Bagaa</author><author pid="37/6589">Adlen Ksentini</author></authors><title>On enabling 5G dynamic TDD by leveraging deep reinforcement learning and O-RAN: demo.</title><venue>MobiHoc</venue><pages>287-288</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/BoutibaBK22</key><doi>10.1145/3492866.3561252</doi><ee>https://doi.org/10.1145/3492866.3561252</ee><url>https://dblp.org/rec/conf/mobihoc/BoutibaBK22</url></info>
+<url>URL#599036</url>
+</hit>
+<hit score="1" id="599037">
+<info><authors><author pid="242/6398">Tuhinangshu Choudhury</author><author pid="88/2200">Weina Wang</author><author pid="119/3872">Gauri Joshi</author></authors><title>Tackling heterogeneous traffic in multi-access systems via erasure coded servers.</title><venue>MobiHoc</venue><pages>171-180</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ChoudhuryWJ22</key><doi>10.1145/3492866.3549713</doi><ee>https://doi.org/10.1145/3492866.3549713</ee><url>https://dblp.org/rec/conf/mobihoc/ChoudhuryWJ22</url></info>
+<url>URL#599037</url>
+</hit>
+<hit score="1" id="599038">
+<info><authors><author pid="271/9869">Keerthi Priya Dasala</author><author pid="k/EWKnightly">Edward W. Knightly</author></authors><title>Multi-user terahertz WLANs with angularly dispersive links.</title><venue>MobiHoc</venue><pages>121-130</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/DasalaK22</key><doi>10.1145/3492866.3549725</doi><ee>https://doi.org/10.1145/3492866.3549725</ee><url>https://dblp.org/rec/conf/mobihoc/DasalaK22</url></info>
+<url>URL#599038</url>
+</hit>
+<hit score="1" id="599039">
+<info><authors><author pid="48/10069">Samarth Gupta</author><author pid="179/8179">Jinhang Zuo</author><author pid="40/9937">Carlee Joe-Wong</author><author pid="119/3872">Gauri Joshi</author><author pid="03/8395">Osman Yagan</author></authors><title>Correlated combinatorial bandits for online resource allocation.</title><venue>MobiHoc</venue><pages>91-100</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/GuptaZJJY22</key><doi>10.1145/3492866.3549727</doi><ee>https://doi.org/10.1145/3492866.3549727</ee><url>https://dblp.org/rec/conf/mobihoc/GuptaZJJY22</url></info>
+<url>URL#599039</url>
+</hit>
+<hit score="1" id="599040">
+<info><authors><author pid="220/1659">Parikshit Hegde</author><author pid="v/GustavodeVeciana">Gustavo de Veciana</author></authors><title>Performance and efficiency tradeoffs in blockchain overlay networks.</title><venue>MobiHoc</venue><pages>221-230</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HegdeV22</key><doi>10.1145/3492866.3549730</doi><ee>https://doi.org/10.1145/3492866.3549730</ee><url>https://dblp.org/rec/conf/mobihoc/HegdeV22</url></info>
+<url>URL#599040</url>
+</hit>
+<hit score="1" id="599041">
+<info><authors><author pid="329/5671">Cuong Manh Ho</author><author pid="260/1251">Anh-Tien Tran</author><author pid="219/7793">Chunghyun Lee</author><author pid="312/5928">Duc Thien Hua</author><author pid="39/3158">Sungrae Cho</author></authors><title>Handover in mobility-aware caching strategy for LEO satellite-based overlay system with content delivery network.</title><venue>MobiHoc</venue><pages>271-275</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HoTLHC22</key><doi>10.1145/3492866.3558588</doi><ee>https://doi.org/10.1145/3492866.3558588</ee><url>https://dblp.org/rec/conf/mobihoc/HoTLHC22</url></info>
+<url>URL#599041</url>
+</hit>
+<hit score="1" id="599042">
+<info><authors><author pid="301/8925">Yige Hong</author><author pid="88/2200">Weina Wang</author></authors><title>Sharp waiting-time bounds for multiserver jobs.</title><venue>MobiHoc</venue><pages>161-170</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HongW22</key><doi>10.1145/3492866.3549717</doi><ee>https://doi.org/10.1145/3492866.3549717</ee><url>https://dblp.org/rec/conf/mobihoc/HongW22</url></info>
+<url>URL#599042</url>
+</hit>
+<hit score="1" id="599043">
+<info><authors><author pid="215/4280">Pihe Hu</author><author pid="199/9303">Ling Pan</author><author pid="87/1254">Yu Chen</author><author pid="179/2243">Zhixuan Fang</author><author pid="79/7077">Longbo Huang</author></authors><title>Effective multi-user delay-constrained scheduling with deep recurrent reinforcement learning.</title><venue>MobiHoc</venue><pages>1-10</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HuPCFH22</key><doi>10.1145/3492866.3549712</doi><ee>https://doi.org/10.1145/3492866.3549712</ee><url>https://dblp.org/rec/conf/mobihoc/HuPCFH22</url></info>
+<url>URL#599043</url>
+</hit>
+<hit score="1" id="599044">
+<info><authors><author pid="00/6381-16">Bin Hu 0016</author><author pid="196/5052-1">Tianming Zhao 0001</author><author pid="59/2227-3">Yan Wang 0003</author><author pid="98/5935">Jerry Cheng</author><author pid="53/1326">Richard Howard</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="96/6577">Hao Wan</author></authors><title>BioTag: robust RFID-based continuous user verification using physiological features from respiration.</title><venue>MobiHoc</venue><pages>191-200</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HuZWCHCW22</key><doi>10.1145/3492866.3549718</doi><ee>https://doi.org/10.1145/3492866.3549718</ee><url>https://dblp.org/rec/conf/mobihoc/HuZWCHCW22</url></info>
+<url>URL#599044</url>
+</hit>
+<hit score="1" id="599045">
+<info><authors><author pid="80/5992">Younghwan Jin</author><author pid="227/3856">Hyungbin Park</author><author pid="64/5674">SuKyoung Lee</author></authors><title>Distributed inference for multiple DNN models in IoT environments: poster.</title><venue>MobiHoc</venue><pages>281-282</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/JinPL22</key><doi>10.1145/3492866.3561254</doi><ee>https://doi.org/10.1145/3492866.3561254</ee><url>https://dblp.org/rec/conf/mobihoc/JinPL22</url></info>
+<url>URL#599045</url>
+</hit>
+<hit score="1" id="599046">
+<info><authors><author pid="46/1982">Wonjung Kim</author><author pid="129/4153">Seungchul Lee</author><author pid="74/11484">Youngjae Chang 0001</author><author pid="222/5910">Taegyeong Lee</author><author pid="329/5510">Seongwoong Kang</author><author pid="93/5092-1">Inseok Hwang 0001</author><author pid="09/2409">Junehwa Song</author></authors><title>Hivemind: IoT-based democratization of shared devices in a public space: demo.</title><venue>MobiHoc</venue><pages>289-290</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KimLCLKHS22</key><doi>10.1145/3492866.3561253</doi><ee>https://doi.org/10.1145/3492866.3561253</ee><url>https://dblp.org/rec/conf/mobihoc/KimLCLKHS22</url></info>
+<url>URL#599046</url>
+</hit>
+<hit score="1" id="599047">
+<info><authors><author pid="33/6749">Donghyun Kim</author><author pid="145/4020">Youn Kyu Lee</author><author pid="255/6568">Jongwook Jeong</author></authors><title>NULL byte injection: anti-forensic technique for data hiding in FAT32 file system.</title><venue>MobiHoc</venue><pages>265-270</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KimLJ22</key><doi>10.1145/3492866.3558587</doi><ee>https://doi.org/10.1145/3492866.3558587</ee><url>https://dblp.org/rec/conf/mobihoc/KimLJ22</url></info>
+<url>URL#599047</url>
+</hit>
+<hit score="1" id="599048">
+<info><authors><author pid="246/5031">Manav Kohli</author><author pid="320/8735">Abhishek Adhikari</author><author pid="320/8420">Gulnur Avci</author><author pid="320/8944">Sienna Brent</author><author pid="320/8981">Jared Moser</author><author pid="153/6422">Sabbir Hossain</author><author pid="239/7847">Aditya Dash</author><author pid="141/3953">Igor Kadota</author><author pid="81/2372">Rodolfo Feick</author><author pid="19/2172">Dmitry Chizhik</author><author pid="77/206">Jinfeng Du</author><author pid="08/3268">Reinaldo A. Valenzuela</author><author pid="18/6910">Gil Zussman</author></authors><title>Outdoor-to-indoor 28 GHz wireless measurements in manhattan: path loss, location impacts, and 90% coverage.</title><venue>MobiHoc</venue><pages>201-210</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KohliAABMHDKFCD22</key><doi>10.1145/3492866.3549728</doi><ee>https://doi.org/10.1145/3492866.3549728</ee><url>https://dblp.org/rec/conf/mobihoc/KohliAABMHDKFCD22</url></info>
+<url>URL#599048</url>
+</hit>
+<hit score="1" id="599049">
+<info><authors><author pid="142/6579">Rohan Kumar</author><author pid="314/7198">Dhruv Nagpal</author><author pid="29/3269">Vinayak Naik</author><author pid="23/4923-1">Dipanjan Chakraborty 0001</author></authors><title>Comparison of popular video conferencing apps using client-side measurements on different backhaul networks.</title><venue>MobiHoc</venue><pages>241-246</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KumarNNC22</key><doi>10.1145/3492866.3557734</doi><ee>https://doi.org/10.1145/3492866.3557734</ee><url>https://dblp.org/rec/conf/mobihoc/KumarNNC22</url></info>
+<url>URL#599049</url>
+</hit>
+<hit score="1" id="599050">
+<info><authors><author pid="215/3028">Jungmin Kwon</author><author pid="97/758">Hyunggon Park</author></authors><title>Efficient low-rank federated learning based on singular value decomposition.</title><venue>MobiHoc</venue><pages>285-286</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KwonP22</key><doi>10.1145/3492866.3561258</doi><ee>https://doi.org/10.1145/3492866.3561258</ee><url>https://dblp.org/rec/conf/mobihoc/KwonP22</url></info>
+<url>URL#599050</url>
+</hit>
+<hit score="1" id="599051">
+<info><authors><author pid="326/7846">Hyoseon Kye</author><author pid="119/8973">Minhae Kwon</author></authors><title>Partial federated learning based network intrusion system for mobile devices: poster.</title><venue>MobiHoc</venue><pages>283-284</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KyeK22</key><doi>10.1145/3492866.3561257</doi><ee>https://doi.org/10.1145/3492866.3561257</ee><url>https://dblp.org/rec/conf/mobihoc/KyeK22</url></info>
+<url>URL#599051</url>
+</hit>
+<hit score="1" id="599052">
+<info><authors><author pid="02/8719">Seungyeol Lee</author><author pid="35/5711">Myung-Ki Shin</author></authors><title>Federated learning over private 5G networks: demo.</title><venue>MobiHoc</venue><pages>295-296</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LeeS22</key><doi>10.1145/3492866.3561259</doi><ee>https://doi.org/10.1145/3492866.3561259</ee><url>https://dblp.org/rec/conf/mobihoc/LeeS22</url></info>
+<url>URL#599052</url>
+</hit>
+<hit score="1" id="599053">
+<info><authors><author pid="224/8780">Ilya Levitsky</author><author pid="329/5372">Yaroslav Okatev</author><author pid="19/742">Evgeny M. Khorov</author></authors><title>Feasibility of simultaneous transmit and receive in wi-fi 7 multi-link devices: demo.</title><venue>MobiHoc</venue><pages>293-294</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LevitskyOK22</key><doi>10.1145/3492866.3561256</doi><ee>https://doi.org/10.1145/3492866.3561256</ee><url>https://dblp.org/rec/conf/mobihoc/LevitskyOK22</url></info>
+<url>URL#599053</url>
+</hit>
+<hit score="1" id="599054">
+<info><authors><author pid="195/1161">Zhuqing Liu</author><author pid="76/1584-54">Xin Zhang 0054</author><author pid="158/4888">Prashant Khanduri</author><author pid="05/2887">Songtao Lu</author><author pid="49/1245-2">Jia Liu 0002</author></authors><title>INTERACT: achieving low sample and communication complexities in decentralized bilevel learning over networks.</title><venue>MobiHoc</venue><pages>61-70</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LiuZKLL22</key><doi>10.1145/3492866.3549721</doi><ee>https://doi.org/10.1145/3492866.3549721</ee><url>https://dblp.org/rec/conf/mobihoc/LiuZKLL22</url></info>
+<url>URL#599054</url>
+</hit>
+<hit score="1" id="599055">
+<info><authors><author pid="195/1161">Zhuqing Liu</author><author pid="76/1584-54">Xin Zhang 0054</author><author pid="49/1245-2">Jia Liu 0002</author></authors><title>SYNTHESIS: a semi-asynchronous path-integrated stochastic gradient method for distributed learning in computing clusters.</title><venue>MobiHoc</venue><pages>151-160</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LiuZL22</key><doi>10.1145/3492866.3549722</doi><ee>https://doi.org/10.1145/3492866.3549722</ee><url>https://dblp.org/rec/conf/mobihoc/LiuZL22</url></info>
+<url>URL#599055</url>
+</hit>
+<hit score="1" id="599056">
+<info><authors><author pid="156/6893">Yuuki Nishiyama</author><author pid="53/5557">Hiroaki Murakami</author><author pid="329/4784">Ryoto Suzuki</author><author pid="318/1032">Kazusato Oko</author><author pid="322/8879">Issey Sukeda</author><author pid="46/2349">Kaoru Sezaki</author><author pid="87/4652">Yoshihiro Kawahara</author></authors><title>MOCHA: mobile check-in application for university campuses beyond COVID-19.</title><venue>MobiHoc</venue><pages>253-258</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/NishiyamaMSOSSK22</key><doi>10.1145/3492866.3557736</doi><ee>https://doi.org/10.1145/3492866.3557736</ee><url>https://dblp.org/rec/conf/mobihoc/NishiyamaMSOSSK22</url></info>
+<url>URL#599056</url>
+</hit>
+<hit score="1" id="599057">
+<info><authors><author pid="220/5583">Ranvir Rana</author><author pid="235/5023">Dimitris Karakostas</author><author pid="61/8774">Sreeram Kannan</author><author pid="47/3682">Aggelos Kiayias</author><author pid="56/2613">Pramod Viswanath</author></authors><title>Optimal bootstrapping of PoW blockchains.</title><venue>MobiHoc</venue><pages>231-240</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/RanaKKKV22</key><doi>10.1145/3492866.3549731</doi><ee>https://doi.org/10.1145/3492866.3549731</ee><url>https://dblp.org/rec/conf/mobihoc/RanaKKKV22</url></info>
+<url>URL#599057</url>
+</hit>
+<hit score="1" id="599058">
+<info><authors><author pid="118/0461">Ming Shi</author><author pid="38/5957-1">Xiaojun Lin 0001</author><author pid="47/91-2">Lei Jiao 0002</author></authors><title>Power-of-2-arms for bandit learning with switching costs.</title><venue>MobiHoc</venue><pages>131-140</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ShiLJ22</key><doi>10.1145/3492866.3549720</doi><ee>https://doi.org/10.1145/3492866.3549720</ee><url>https://dblp.org/rec/conf/mobihoc/ShiLJ22</url></info>
+<url>URL#599058</url>
+</hit>
+<hit score="1" id="599059">
+<info><authors><author pid="297/6394">Md Kamran Chowdhury Shisher</author><author pid="07/863">Yin Sun</author></authors><title>How does data freshness affect real-time supervised learning?</title><venue>MobiHoc</venue><pages>31-40</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ShisherS22</key><doi>10.1145/3492866.3549711</doi><ee>https://doi.org/10.1145/3492866.3549711</ee><url>https://dblp.org/rec/conf/mobihoc/ShisherS22</url></info>
+<url>URL#599059</url>
+</hit>
+<hit score="1" id="599060">
+<info><authors><author pid="329/5155">Jeonggyu Song</author><author pid="46/4109">Jonghoon Kwon</author><author pid="21/1967">Junbeom Hur</author></authors><title>Analysis of NTP pool monitoring system based on multiple monitoring stations.</title><venue>MobiHoc</venue><pages>259-264</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/SongKH22</key><doi>10.1145/3492866.3558586</doi><ee>https://doi.org/10.1145/3492866.3558586</ee><url>https://dblp.org/rec/conf/mobihoc/SongKH22</url></info>
+<url>URL#599060</url>
+</hit>
+<hit score="1" id="599061">
+<info><authors><author pid="220/3440">Jianhan Song</author><author pid="v/GustavodeVeciana">Gustavo de Veciana</author><author pid="61/4596">Sanjay Shakkottai</author></authors><title>Online learning for multi-agent based resource allocation in weakly coupled wireless systems.</title><venue>MobiHoc</venue><pages>111-120</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/SongVS22</key><doi>10.1145/3492866.3549714</doi><ee>https://doi.org/10.1145/3492866.3549714</ee><url>https://dblp.org/rec/conf/mobihoc/SongVS22</url></info>
+<url>URL#599061</url>
+</hit>
+<hit score="1" id="599062">
+<info><authors><author pid="181/7381">Haoyue Tang</author><author pid="07/863">Yin Sun</author><author pid="03/3843">Leandros Tassiulas</author></authors><title>Sampling of the wiener process for remote estimation over a channel with unknown delay statistics.</title><venue>MobiHoc</venue><pages>51-60</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/TangST22</key><doi>10.1145/3492866.3549732</doi><ee>https://doi.org/10.1145/3492866.3549732</ee><url>https://dblp.org/rec/conf/mobihoc/TangST22</url></info>
+<url>URL#599062</url>
+</hit>
+<hit score="1" id="599063">
+<info><authors><author pid="260/1251">Anh-Tien Tran</author><author pid="237/4780">Demeke Shumeye Lakew</author><author pid="329/5216">Nam-Phuong Tran</author><author pid="160/2661">Nhu-Ngoc Dao</author><author pid="39/3158">Sungrae Cho</author></authors><title>Delay-constrained quality maximization in RSMA-based video streaming networks.</title><venue>MobiHoc</venue><pages>276-280</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/TranLTDC22</key><doi>10.1145/3492866.3558589</doi><ee>https://doi.org/10.1145/3492866.3558589</ee><url>https://dblp.org/rec/conf/mobihoc/TranLTDC22</url></info>
+<url>URL#599063</url>
+</hit>
+<hit score="1" id="599064">
+<info><authors><author pid="213/1010">Vishrant Tripathi</author><author pid="m/EytanModiano">Eytan H. Modiano</author></authors><title>Optimizing age of information with correlated sources.</title><venue>MobiHoc</venue><pages>41-50</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/TripathiM22</key><doi>10.1145/3492866.3549719</doi><ee>https://doi.org/10.1145/3492866.3549719</ee><url>https://dblp.org/rec/conf/mobihoc/TripathiM22</url></info>
+<url>URL#599064</url>
+</hit>
+<hit score="1" id="599065">
+<info><authors><author pid="232/4340">Christos Tsanikidis</author><author pid="70/1367">Javad Ghaderi</author></authors><title>Online scheduling and routing with end-to-end deadline constraints in multihop wireless networks.</title><venue>MobiHoc</venue><pages>11-20</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/TsanikidisG22</key><doi>10.1145/3492866.3549729</doi><ee>https://doi.org/10.1145/3492866.3549729</ee><url>https://dblp.org/rec/conf/mobihoc/TsanikidisG22</url></info>
+<url>URL#599065</url>
+</hit>
+<hit score="1" id="599066">
+<info><authors><author pid="32/3351">Zhiyuan Wang</author><author pid="43/10799">Jiancheng Ye</author><author pid="54/208">Dong Lin</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Achieving efficiency via fairness in online resource allocation.</title><venue>MobiHoc</venue><pages>101-110</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/WangYLL22</key><doi>10.1145/3492866.3549724</doi><ee>https://doi.org/10.1145/3492866.3549724</ee><url>https://dblp.org/rec/conf/mobihoc/WangYLL22</url></info>
+<url>URL#599066</url>
+</hit>
+<hit score="1" id="599067">
+<info><authors><author pid="214/2134">Guojun Xiong</author><author pid="236/5234">Xudong Qin</author><author pid="89/6764">Bin Li</author><author pid="74/5590-1">Rahul Singh 0001</author><author pid="33/5448">Jian Li</author></authors><title>Index-aware reinforcement learning for adaptive video streaming at the wireless edge.</title><venue>MobiHoc</venue><pages>81-90</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/XiongQLSL22</key><doi>10.1145/3492866.3549726</doi><ee>https://doi.org/10.1145/3492866.3549726</ee><url>https://dblp.org/rec/conf/mobihoc/XiongQLSL22</url></info>
+<url>URL#599067</url>
+</hit>
+<hit score="1" id="599068">
+<info><authors><author pid="293/8005">Menglu Yu</author><author pid="67/8454-1">Bo Ji 0001</author><author pid="r/HrideshRajan">Hridesh Rajan</author><author pid="49/1245-2">Jia Liu 0002</author></authors><title>On scheduling ring-all-reduce learning jobs in multi-tenant GPU clusters with communication contention.</title><venue>MobiHoc</venue><pages>21-30</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/YuJRL22</key><doi>10.1145/3492866.3549716</doi><ee>https://doi.org/10.1145/3492866.3549716</ee><url>https://dblp.org/rec/conf/mobihoc/YuJRL22</url></info>
+<url>URL#599068</url>
+</hit>
+<hit score="1" id="599069">
+<info><authors><author pid="76/1584-54">Xin Zhang 0054</author><author pid="157/0863">Minghong Fang</author><author pid="195/1161">Zhuqing Liu</author><author pid="43/7829">Haibo Yang</author><author pid="49/1245-2">Jia Liu 0002</author><author pid="68/151">Zhengyuan Zhu</author></authors><title>NET-FLEET: achieving linear convergence speedup for fully decentralized federated learning with heterogeneous data.</title><venue>MobiHoc</venue><pages>71-80</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhangFLYLZ22</key><doi>10.1145/3492866.3549723</doi><ee>https://doi.org/10.1145/3492866.3549723</ee><url>https://dblp.org/rec/conf/mobihoc/ZhangFLYLZ22</url></info>
+<url>URL#599069</url>
+</hit>
+<hit score="1" id="599070">
+<info><authors><author pid="272/6143">Qining Zhang</author><author pid="176/4191">Honghao Wei</author><author pid="88/2200">Weina Wang</author><author pid="27/4818">Lei Ying</author></authors><title>On low-complexity quickest intervention of mutated diffusion processes through local approximation.</title><venue>MobiHoc</venue><pages>141-150</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhangWWY22</key><doi>10.1145/3492866.3549709</doi><ee>https://doi.org/10.1145/3492866.3549709</ee><url>https://dblp.org/rec/conf/mobihoc/ZhangWWY22</url></info>
+<url>URL#599070</url>
+</hit>
+<hit score="1" id="599071">
+<info><authors><author pid="41/10471">Ruiting Zhou</author><author pid="286/3116">Renli Zhang</author><author pid="90/6339">Yufeng Wang</author><author pid="02/3687">Haisheng Tan</author><author pid="59/1028-8">Kun He 0008</author></authors><title>Online incentive mechanism for task offloading with privacy-preserving in UAV-assisted mobile edge computing.</title><venue>MobiHoc</venue><pages>211-220</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhouZWTH22</key><doi>10.1145/3492866.3549715</doi><ee>https://doi.org/10.1145/3492866.3549715</ee><url>https://dblp.org/rec/conf/mobihoc/ZhouZWTH22</url></info>
+<url>URL#599071</url>
+</hit>
+<hit score="1" id="599072">
+<info><authors><author pid="322/9673">Roman Zlobin</author><author pid="185/8682">Aleksey Kureev</author><author pid="19/742">Evgeny M. Khorov</author></authors><title>A prototype of uplink NOMA wi-fi with successive interference cancellation: demo.</title><venue>MobiHoc</venue><pages>291-292</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZlobinKK22</key><doi>10.1145/3492866.3561255</doi><ee>https://doi.org/10.1145/3492866.3561255</ee><url>https://dblp.org/rec/conf/mobihoc/ZlobinKK22</url></info>
+<url>URL#599072</url>
+</hit>
+<hit score="1" id="640822">
+<info><title>MobiHoc &apos;22: The Twenty-third International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Seoul, Republic of Korea, October 17 - 20, 2022</title><venue>MobiHoc</venue><publisher>ACM</publisher><year>2022</year><type>Editorship</type><key>conf/mobihoc/2022</key><doi>10.1145/3492866</doi><ee>https://doi.org/10.1145/3492866</ee><url>https://dblp.org/rec/conf/mobihoc/2022</url></info>
+<url>URL#640822</url>
+</hit>
+</hits>
+</result>

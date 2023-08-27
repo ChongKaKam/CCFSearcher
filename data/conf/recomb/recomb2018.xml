@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="60019">:facetid:toc:\"db/conf/recomb/recomb2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">173.96</time>
+<completions total="1" computed="1" sent="1">
+<c sc="39" dc="39" oc="39" id="41060935">:facetid:toc:db/conf/recomb/recomb2018.bht</c>
+</completions>
+<hits total="39" computed="39" sent="39" first="0">
+<hit score="1" id="2325984">
+<info><authors><author pid="132/9992">Mehrdad Bakhtiari</author><author pid="225/8962">Sharona Shleizer-Burko</author><author pid="55/11192">Melissa Gymrek</author><author pid="84/4015">Vikas Bansal</author><author pid="b/VineetBafna">Vineet Bafna</author></authors><title>Targeted Genotyping of Variable Number Tandem Repeats with AdVNTR.</title><venue>RECOMB</venue><pages>243-244</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/BakhtiariSGBB18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/BakhtiariSGBB18</url></info>
+<url>URL#2325984</url>
+</hit>
+<hit score="1" id="2325985">
+<info><authors><author pid="122/8750">Anton Bankevich</author><author pid="p/PAPevzner">Pavel A. Pevzner</author></authors><title>Long Reads Enable Accurate Estimates of Complexity of Metagenomes.</title><venue>RECOMB</venue><pages>1-20</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BankevichP18</key><doi>10.1007/978-3-319-89929-9_1</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_1</ee><url>https://dblp.org/rec/conf/recomb/BankevichP18</url></info>
+<url>URL#2325985</url>
+</hit>
+<hit score="1" id="2325987">
+<info><authors><author pid="191/3246">Rebecca Sarto Basso</author><author pid="h/DoritSHochbaum">Dorit S. Hochbaum</author><author pid="62/5172">Fabio Vandin</author></authors><title>Efficient Algorithms to Discover Alterations with Complementary Functional Association in Cancer.</title><venue>RECOMB</venue><pages>278-279</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/BassoHV18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/BassoHV18</url></info>
+<url>URL#2325987</url>
+</hit>
+<hit score="1" id="2325988">
+<info><authors><author pid="217/3335">Tristan Bepler</author><author pid="117/5248">Andrew Morin</author><author pid="217/3689">Alex J. Noble</author><author pid="217/3352">Julia Brasch</author><author pid="63/2884">Lawrence Shapiro</author><author pid="b/BonnieBerger">Bonnie Berger</author></authors><title>Positive-Unlabeled Convolutional Neural Networks for Particle Picking in Cryo-electron Micrographs.</title><venue>RECOMB</venue><pages>245-247</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/BeplerMNBSB18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/BeplerMNBSB18</url></info>
+<url>URL#2325988</url>
+</hit>
+<hit score="1" id="2325989">
+<info><authors><author pid="131/6607">Édouard Bonnet</author><author pid="63/9303">Pawel Rzazewski</author><author pid="32/6121">Florian Sikora</author></authors><title>Designing RNA Secondary Structures Is Hard.</title><venue>RECOMB</venue><pages>248-250</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/BonnetRS18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/BonnetRS18</url></info>
+<url>URL#2325989</url>
+</hit>
+<hit score="1" id="2325990">
+<info><authors><author pid="217/7710">Ali Ebrahimpour Boroojeny</author><author pid="217/7634">Akash Shrestha</author><author pid="151/3447">Ali Sharifi-Zarchi</author><author pid="69/10996">Suzanne Renick Gallagher</author><author pid="s/SCSahinalp">Süleyman Cenk Sahinalp</author><author pid="07/7066">Hamidreza Chitsaz</author></authors><title>GTED: Graph Traversal Edit Distance.</title><venue>RECOMB</venue><pages>37-53</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/BoroojenySSGSC18</key><doi>10.1007/978-3-319-89929-9_3</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_3</ee><url>https://dblp.org/rec/conf/recomb/BoroojenySSGSC18</url></info>
+<url>URL#2325990</url>
+</hit>
+<hit score="1" id="2325991">
+<info><authors><author pid="156/8565-3">Shounak Chakraborty 0003</author><author pid="20/3596">Stefan Canzar</author><author pid="15/2487">Tobias Marschall</author><author pid="68/6157">Marcel H. Schulz</author></authors><title>Chromatyping: Reconstructing Nucleosome Profiles from NOMe Sequencing Data.</title><venue>RECOMB</venue><pages>21-36</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ChakrabortyCMS18</key><doi>10.1007/978-3-319-89929-9_2</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_2</ee><url>https://dblp.org/rec/conf/recomb/ChakrabortyCMS18</url></info>
+<url>URL#2325991</url>
+</hit>
+<hit score="1" id="2325994">
+<info><authors><author pid="160/6954">Hyunghoon Cho</author><author pid="b/BonnieBerger">Bonnie Berger</author><author pid="29/4181-1">Jian Peng 0001</author></authors><title>Generalizable Visualization of Mega-Scale Single-Cell Data.</title><venue>RECOMB</venue><pages>251-253</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ChoB018</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ChoB018</url></info>
+<url>URL#2325994</url>
+</hit>
+<hit score="1" id="2325998">
+<info><authors><author pid="214/1180">Ghislain Durif</author><author pid="162/0422">Laurent Modolo</author><author pid="214/1325">Jeff E. Mold</author><author pid="179/6947">Sophie Lambert-Lacroix</author><author pid="72/1648">Franck Picard</author></authors><title>Probabilistic Count Matrix Factorization for Single Cell Expression Data Analysis.</title><venue>RECOMB</venue><pages>254-255</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/DurifMMLP18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/DurifMMLP18</url></info>
+<url>URL#2325998</url>
+</hit>
+<hit score="1" id="2326000">
+<info><authors><author pid="156/2826">Cyril Galitzine</author><author pid="217/7478">Pierre M. Jean Beltran</author><author pid="217/7604">Ileana M. Cristea</author><author pid="09/4940">Olga Vitek</author></authors><title>Statistical Inference of Peroxisome Dynamics.</title><venue>RECOMB</venue><pages>54-74</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/GalitzineBCV18</key><doi>10.1007/978-3-319-89929-9_4</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_4</ee><url>https://dblp.org/rec/conf/recomb/GalitzineBCV18</url></info>
+<url>URL#2326000</url>
+</hit>
+<hit score="1" id="2326001">
+<info><authors><author pid="217/7502">Franziska Görtler</author><author pid="72/7585">Stefan Solbrig</author><author pid="68/6326">Tilo Wettig</author><author pid="05/8247">Peter J. Oefner</author><author pid="95/4799">Rainer Spang</author><author pid="197/8440">Michael Altenbuchinger</author></authors><title>Loss-Function Learning for Digital Tissue Deconvolution.</title><venue>RECOMB</venue><pages>75-89</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/GortlerSWOSA18</key><doi>10.1007/978-3-319-89929-9_5</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_5</ee><url>https://dblp.org/rec/conf/recomb/GortlerSWOSA18</url></info>
+<url>URL#2326001</url>
+</hit>
+<hit score="1" id="2326002">
+<info><authors><author pid="169/3891">Stefan Hammer</author><author pid="p/YannPonty">Yann Ponty</author><author pid="35/7092-263">Wei Wang 0263</author><author pid="04/2389">Sebastian Will</author></authors><title>Fixed-Parameter Tractable Sampling for RNA Design with Multiple Target Structures.</title><venue>RECOMB</venue><pages>256-258</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/HammerPWW18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/HammerPWW18</url></info>
+<url>URL#2326002</url>
+</hit>
+<hit score="1" id="2326005">
+<info><authors><author pid="225/8963">Linh Huynh</author><author pid="91/1989">Fereydoun Hormozdiari</author></authors><title>Contribution of Structural Variation to Genome Structure: TAD Fusion Discovery and Ranking.</title><venue>RECOMB</venue><pages>259-260</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/HuynhH18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/HuynhH18</url></info>
+<url>URL#2326005</url>
+</hit>
+<hit score="1" id="2326006">
+<info><authors><author pid="217/7759">Tyler A. Joseph</author><author pid="43/6414">Itsik Pe&apos;er</author></authors><title>Inference of Population Structure from Ancient DNA.</title><venue>RECOMB</venue><pages>90-104</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/JosephP18</key><doi>10.1007/978-3-319-89929-9_6</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_6</ee><url>https://dblp.org/rec/conf/recomb/JosephP18</url></info>
+<url>URL#2326006</url>
+</hit>
+<hit score="1" id="2326007">
+<info><authors><author pid="133/2027">Mikhail Kolmogorov</author><author pid="32/2132">Jeffrey Yuan</author><author pid="74/2577-1">Yu Lin 0001</author><author pid="p/PAPevzner">Pavel A. Pevzner</author></authors><title>Assembly of Long Error-Prone Reads Using Repeat Graphs.</title><venue>RECOMB</venue><pages>261-262</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/KolmogorovYLP18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/KolmogorovYLP18</url></info>
+<url>URL#2326007</url>
+</hit>
+<hit score="1" id="2326008">
+<info><authors><author pid="130/7493">Anna Kuosmanen</author><author pid="200/8388">Topi Paavilainen</author><author pid="00/3487">Travis Gagie</author><author pid="76/5099">Rayan Chikhi</author><author pid="98/3921">Alexandru I. Tomescu</author><author pid="77/2752">Veli Mäkinen</author></authors><title>Using Minimum Path Cover to Boost Dynamic Programming on DAGs: Co-linear Chaining Extended.</title><venue>RECOMB</venue><pages>105-121</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/KuosmanenPGCTM18</key><doi>10.1007/978-3-319-89929-9_7</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_7</ee><url>https://dblp.org/rec/conf/recomb/KuosmanenPGCTM18</url></info>
+<url>URL#2326008</url>
+</hit>
+<hit score="1" id="2326009">
+<info><authors><author pid="26/6323">Gary Larson</author><author pid="55/872">Jeffrey L. Thorne</author><author pid="61/3587">Scott C. Schmidler</author></authors><title>Modeling Dependence in Evolutionary Inference for Proteins.</title><venue>RECOMB</venue><pages>122-137</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/LarsonTS18</key><doi>10.1007/978-3-319-89929-9_8</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_8</ee><url>https://dblp.org/rec/conf/recomb/LarsonTS18</url></info>
+<url>URL#2326009</url>
+</hit>
+<hit score="1" id="2326010">
+<info><authors><author pid="23/6320">Mark D. M. Leiserson</author><author pid="225/8953">Jason Fan</author><author pid="225/8956">Anthony Cannistra</author><author pid="218/5545">Inbar Fried</author><author pid="225/8952">Tim Lim</author><author pid="146/9846">Thomas Schaffner</author><author pid="c/MarkCrovella">Mark Crovella</author><author pid="84/4457">Benjamin J. Hescott</author></authors><title>A Multi-species Functional Embedding Integrating Sequence and Network Structure.</title><venue>RECOMB</venue><pages>263-265</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/LeisersonFCFLSC18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/LeisersonFCFLSC18</url></info>
+<url>URL#2326010</url>
+</hit>
+<hit score="1" id="2326011">
+<info><authors><author pid="42/5038">Sujun Li</author><author pid="217/7846">Alex DeCourcy</author><author pid="90/3951">Haixu Tang</author></authors><title>Constrained De Novo Sequencing of neo-Epitope Peptides Using Tandem Mass Spectrometry.</title><venue>RECOMB</venue><pages>138-153</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/LiDT18</key><doi>10.1007/978-3-319-89929-9_9</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_9</ee><url>https://dblp.org/rec/conf/recomb/LiDT18</url></info>
+<url>URL#2326011</url>
+</hit>
+<hit score="1" id="2326012">
+<info><authors><author pid="225/8950">Yunan Luo</author><author pid="24/9080">Jianzhu Ma</author><author pid="51/3710-97">Yang Liu 0097</author><author pid="84/2799">Qing Ye</author><author pid="77/1450">Trey Ideker</author><author pid="29/4181-1">Jian Peng 0001</author></authors><title>Deciphering Signaling Specificity with Deep Neural Networks.</title><venue>RECOMB</venue><pages>266-268</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/LuoMLYIP18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/LuoMLYIP18</url></info>
+<url>URL#2326012</url>
+</hit>
+<hit score="1" id="2326013">
+<info><authors><author pid="162/0576">Salem Malikic</author><author pid="06/3142">Katharina Jahn 0001</author><author pid="138/6428">Jack Kuipers</author><author pid="s/SCSahinalp">Süleyman Cenk Sahinalp</author><author pid="58/2558">Niko Beerenwinkel</author></authors><title>Integrative Inference of Subclonal Tumour Evolution from Single-Cell and Bulk Sequencing Data.</title><venue>RECOMB</venue><pages>269-270</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/MalikicJKSB18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/MalikicJKSB18</url></info>
+<url>URL#2326013</url>
+</hit>
+<hit score="1" id="2326016">
+<info><authors><author pid="27/10296">Yaron Orenstein</author></authors><title>Reverse de Bruijn: Utilizing Reverse Peptide Synthesis to Cover All Amino Acid k-mers.</title><venue>RECOMB</venue><pages>154-166</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/Orenstein18</key><doi>10.1007/978-3-319-89929-9_10</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_10</ee><url>https://dblp.org/rec/conf/recomb/Orenstein18</url></info>
+<url>URL#2326016</url>
+</hit>
+<hit score="1" id="2326017">
+<info><authors><author pid="64/6001-1">Prashant Pandey 0001</author><author pid="203/9702">Fatemeh Almodaresi</author><author pid="b/MichaelABender">Michael A. Bender</author><author pid="46/4377">Michael Ferdman</author><author pid="47/6172">Rob Johnson</author><author pid="66/8401">Rob Patro</author></authors><title>Mantis: A Fast, Small, and Exact Large-Scale Sequence-Search Index.</title><venue>RECOMB</venue><pages>271-273</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/PandeyABFJP18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/PandeyABFJP18</url></info>
+<url>URL#2326017</url>
+</hit>
+<hit score="1" id="2326019">
+<info><authors><author pid="146/9828">Elior Rahmani</author><author pid="57/9420">Regev Schweiger</author><author pid="09/6597">Saharon Rosset</author><author pid="15/5327">Sriram Sankararaman</author><author pid="h/EranHalperin">Eran Halperin</author></authors><title>Tensor Composition Analysis Detects Cell-Type Specific Associations in Epigenetic Studies.</title><venue>RECOMB</venue><pages>274-275</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/RahmaniSRSH18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/RahmaniSRSH18</url></info>
+<url>URL#2326019</url>
+</hit>
+<hit score="1" id="2326021">
+<info><authors><author pid="42/5427">Sebastien Roch</author><author pid="68/3305">Kun-Chieh Wang</author></authors><title>Circular Networks from Distorted Metrics.</title><venue>RECOMB</venue><pages>167-176</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/RochW18</key><doi>10.1007/978-3-319-89929-9_11</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_11</ee><url>https://dblp.org/rec/conf/recomb/RochW18</url></info>
+<url>URL#2326021</url>
+</hit>
+<hit score="1" id="2326022">
+<info><authors><author pid="225/8961">Shahab Sarmashghi</author><author pid="225/8964">Kristine Bohmann</author><author pid="52/9916">M. Thomas P. Gilbert</author><author pid="b/VineetBafna">Vineet Bafna</author><author pid="40/4665">Siavash Mirarab</author></authors><title>Assembly-Free and Alignment-Free Sample Identification Using Genome Skims.</title><venue>RECOMB</venue><pages>276-277</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/SarmashghiBGBM18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/SarmashghiBGBM18</url></info>
+<url>URL#2326022</url>
+</hit>
+<hit score="1" id="2326023">
+<info><authors><author pid="185/8170">Ariya Shajii</author><author pid="122/2388">Ibrahim Numanagic</author><author pid="b/BonnieBerger">Bonnie Berger</author></authors><title>Latent Variable Model for Aligning Barcoded Short-Reads Improves Downstream Analyses.</title><venue>RECOMB</venue><pages>280-282</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ShajiiNB18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ShajiiNB18</url></info>
+<url>URL#2326023</url>
+</hit>
+<hit score="1" id="2326024">
+<info><authors><author pid="84/9357">Dana Silverbush</author><author pid="178/2933">Simona Cristea</author><author pid="225/8958">Gali Yanovich</author><author pid="225/8957">Tamar Geiger</author><author pid="58/2558">Niko Beerenwinkel</author><author pid="05/902">Roded Sharan</author></authors><title>ModulOmics: Integrating Multi-Omics Data to Identify Cancer Driver Modules.</title><venue>RECOMB</venue><pages>283-284</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/SilverbushCYGBS18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/SilverbushCYGBS18</url></info>
+<url>URL#2326024</url>
+</hit>
+<hit score="1" id="2326026">
+<info><authors><author pid="150/1308">Jochen Singer</author><author pid="138/6428">Jack Kuipers</author><author pid="06/3142">Katharina Jahn 0001</author><author pid="58/2558">Niko Beerenwinkel</author></authors><title>SCIΦ: Single-Cell Mutation Identification via Phylogenetic Inference.</title><venue>RECOMB</venue><pages>285-286</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/SingerKJB18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/SingerKJB18</url></info>
+<url>URL#2326026</url>
+</hit>
+<hit score="1" id="2326027">
+<info><authors><author pid="217/7630">Antoine Soulé</author><author pid="32/2419">Jean-Marc Steyaert</author><author pid="73/6365">Jérôme Waldispühl</author></authors><title>A Nested 2-Level Cross-Validation Ensemble Learning Pipeline Suggests a Negative Pressure Against Crosstalk snoRNA-mRNA Interactions in Saccharomyces Cerevisae.</title><venue>RECOMB</venue><pages>177-193</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/SouleSW18</key><doi>10.1007/978-3-319-89929-9_12</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_12</ee><url>https://dblp.org/rec/conf/recomb/SouleSW18</url></info>
+<url>URL#2326027</url>
+</hit>
+<hit score="1" id="2326028">
+<info><authors><author pid="75/11104">Yuriy Sverchkov</author><author pid="217/7628">Yi-Hsuan Ho</author><author pid="58/3612">Audrey P. Gasch</author><author pid="54/4170">Mark Craven</author></authors><title>Context-Specific Nested Effects Models.</title><venue>RECOMB</venue><pages>194-210</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/SverchkovHGC18</key><doi>10.1007/978-3-319-89929-9_13</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_13</ee><url>https://dblp.org/rec/conf/recomb/SverchkovHGC18</url></info>
+<url>URL#2326028</url>
+</hit>
+<hit score="1" id="2326029">
+<info><authors><author pid="99/7237">Sharma V. Thankachan</author><author pid="169/1806">Chaitanya Aluru</author><author pid="118/5415">Sriram P. Chockalingam</author><author pid="a/SAluru">Srinivas Aluru</author></authors><title>Algorithmic Framework for Approximate Matching Under Bounded Edits with Applications to Sequence Analysis.</title><venue>RECOMB</venue><pages>211-224</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ThankachanACA18</key><doi>10.1007/978-3-319-89929-9_14</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_14</ee><url>https://dblp.org/rec/conf/recomb/ThankachanACA18</url></info>
+<url>URL#2326029</url>
+</hit>
+<hit score="1" id="2326030">
+<info><authors><author pid="91/1726-4">Yijie Wang 0004</author><author pid="77/11538">Jan Hoinka</author><author pid="225/8955">Piotr Swiderski</author><author pid="17/6857">Teresa M. Przytycka</author></authors><title>AptaBlocks: Accelerating the Design of RNA-Based Drug Delivery Systems.</title><venue>RECOMB</venue><pages>287-288</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/WangHSP18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/WangHSP18</url></info>
+<url>URL#2326030</url>
+</hit>
+<hit score="1" id="2326033">
+<info><authors><author pid="41/5979">Yue Wu</author><author pid="e/EEskin">Eleazar Eskin</author><author pid="15/5327">Sriram Sankararaman</author></authors><title>A Unifying Framework for Summary Statistic Imputation.</title><venue>RECOMB</venue><pages>289-290</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/WuES18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/WuES18</url></info>
+<url>URL#2326033</url>
+</hit>
+<hit score="1" id="2326034">
+<info><authors><author pid="194/9164">Naomi Yamada</author><author pid="05/11189">William K. M. Lai</author><author pid="225/8951">Nina Farrell</author><author pid="32/428">B. Franklin Pugh</author><author pid="76/2688">Shaun Mahony</author></authors><title>Characterizing Protein-DNA Binding Event Subtypes in ChIP-Exo Data.</title><venue>RECOMB</venue><pages>291-292</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/YamadaLFPM18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/YamadaLFPM18</url></info>
+<url>URL#2326034</url>
+</hit>
+<hit score="1" id="2326035">
+<info><authors><author pid="48/450-94">Yang Yang 0094</author><author pid="50/4597">Quanquan Gu</author><author pid="96/10996">Takayo Sasaki</author><author pid="225/8965">Julianna Crivello</author><author pid="225/8959">Rachel O&apos;Neill</author><author pid="49/7103">David M. Gilbert</author><author pid="26/4870-4">Jian Ma 0004</author></authors><title>Continuous-Trait Probabilistic Model for Comparing Multi-species Functional Genomic Data.</title><venue>RECOMB</venue><pages>293-294</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/YangGSCOG018</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/YangGSCOG018</url></info>
+<url>URL#2326035</url>
+</hit>
+<hit score="1" id="2326038">
+<info><authors><author pid="217/7768">Zhemin Zhou</author><author pid="152/8645">Nina Luhmann</author><author pid="217/7822">Nabil-Fareed Alikhan</author><author pid="71/9109">Christopher Quince</author><author pid="217/7658">Mark Achtman</author></authors><title>Accurate Reconstruction of Microbial Strains from Metagenomic Sequencing Using Representative Reference Genomes.</title><venue>RECOMB</venue><pages>225-240</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/recomb/ZhouLAQA18</key><doi>10.1007/978-3-319-89929-9_15</doi><ee>https://doi.org/10.1007/978-3-319-89929-9_15</ee><url>https://dblp.org/rec/conf/recomb/ZhouLAQA18</url></info>
+<url>URL#2326038</url>
+</hit>
+<hit score="1" id="2326039">
+<info><authors><author pid="244/8980">Tianming Zhou</author><author pid="85/1868-1">Sheng Wang 0001</author><author pid="45/2923">Jinbo Xu</author></authors><title>Deep Learning Reveals Many More Inter-protein Residue-Residue Contacts than Direct Coupling Analysis.</title><venue>RECOMB</venue><pages>295-296</pages><year>2018</year><type>Conference and Workshop Papers</type><access>open</access><key>conf/recomb/ZhouWX18</key><ee>https://link.springer.com/content/pdf/bbm%3A978-3-319-89929-9%2F1.pdf</ee><url>https://dblp.org/rec/conf/recomb/ZhouWX18</url></info>
+<url>URL#2326039</url>
+</hit>
+<hit score="1" id="2359345">
+<info><authors><author pid="23/3243">Benjamin J. Raphael</author></authors><title>Research in Computational Molecular Biology - 22nd Annual International Conference, RECOMB 2018, Paris, France, April 21-24, 2018, Proceedings</title><venue>RECOMB</venue><venue>Lecture Notes in Computer Science</venue><volume>10812</volume><publisher>Springer</publisher><year>2018</year><type>Editorship</type><key>conf/recomb/2018</key><doi>10.1007/978-3-319-89929-9</doi><ee>https://doi.org/10.1007/978-3-319-89929-9</ee><url>https://dblp.org/rec/conf/recomb/2018</url></info>
+<url>URL#2359345</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59498">:facetid:toc:\"db/conf/secon/secon2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">191.88</time>
+<completions total="1" computed="1" sent="1">
+<c sc="58" dc="58" oc="58" id="41063429">:facetid:toc:db/conf/secon/secon2022.bht</c>
+</completions>
+<hits total="58" computed="58" sent="58" first="0">
+<hit score="1" id="616941">
+<info><authors><author pid="12/2633-1">Ting Wang 0001</author><author pid="57/5443">Peng Yang</author><author pid="52/253">Zhihao Wang</author><author pid="60/1377">Haibin Cai</author></authors><title>Blocking Island Paradigm Enhanced Intelligent Coordinated Virtual Network Embedding Based on Deep Reinforcement Learning.</title><venue>SECON</venue><pages>37-45</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0001YWC22</key><doi>10.1109/SECON55815.2022.9918615</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918615</ee><url>https://dblp.org/rec/conf/secon/0001YWC22</url></info>
+<url>URL#616941</url>
+</hit>
+<hit score="1" id="616942">
+<info><authors><author pid="65/4124-3">Ju Wang 0003</author><author pid="146/7897">Liqiong Chang</author><author pid="71/9428">Omid Abari</author><author pid="59/739">Srinivasan Keshav</author></authors><title>How Manufacturers Can Easily Improve Working Range of Passive RFIDs.</title><venue>SECON</venue><pages>452-460</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0003CAK22</key><doi>10.1109/SECON55815.2022.9918572</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918572</ee><url>https://dblp.org/rec/conf/secon/0003CAK22</url></info>
+<url>URL#616942</url>
+</hit>
+<hit score="1" id="616943">
+<info><authors><author pid="302/3426-7">Zijian Li 0007</author><author pid="139/3503">Zihan Chen</author><author pid="25/4202">Xiaohui Wei</author><author pid="28/435-5">Shang Gao 0005</author><author pid="222/6746">Chenghao Ren</author><author pid="65/1128">Tony Q. S. Quek</author></authors><title>HPFL-CN: Communication-Efficient Hierarchical Personalized Federated Edge Learning via Complex Network Feature Clustering.</title><venue>SECON</venue><pages>325-333</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0007CW0RQ22</key><doi>10.1109/SECON55815.2022.9918588</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918588</ee><url>https://dblp.org/rec/conf/secon/0007CW0RQ22</url></info>
+<url>URL#616943</url>
+</hit>
+<hit score="1" id="616947">
+<info><authors><author pid="278/9261">Khaled Alkiek</author><author pid="63/4747">Khaled A. Harras</author><author pid="52/727">Moustafa Youssef 0001</author></authors><title>EarGest: Hand Gesture Recognition with Earables.</title><venue>SECON</venue><pages>91-99</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AlkiekH022</key><doi>10.1109/SECON55815.2022.9918622</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918622</ee><url>https://dblp.org/rec/conf/secon/AlkiekH022</url></info>
+<url>URL#616947</url>
+</hit>
+<hit score="1" id="616948">
+<info><authors><author pid="234/3026">Eranga Bandara</author><author pid="201/4788">Xueping Liang</author><author pid="82/2803">Sachin Shetty</author><author pid="m/RaviMukkamala">Ravi Mukkamala</author><author pid="87/10100">Abdul Rahman</author><author pid="n/WeeKeongNg">Wee Keong Ng</author></authors><title>Skunk - A Blockchain and Zero Trust Security Enabled Federated Learning Platform for 5G/6G Network Slicing.</title><venue>SECON</venue><pages>109-117</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/BandaraLSMRN22</key><doi>10.1109/SECON55815.2022.9918536</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918536</ee><url>https://dblp.org/rec/conf/secon/BandaraLSMRN22</url></info>
+<url>URL#616948</url>
+</hit>
+<hit score="1" id="616949">
+<info><authors><author pid="183/1789">Haofan Cai</author><author pid="34/5591-3">Ge Wang 0003</author><author pid="332/2227">Josue Leyva</author><author pid="332/1652">Ian Pham</author><author pid="96/6606">Jinsong Han</author><author pid="c/ShigangChen">Shigang Chen</author><author pid="70/3604-1">Chen Qian 0001</author></authors><title>ChopTags: An Accurate and Low-cost Interface to Identify User/Item Interactions.</title><venue>SECON</venue><pages>244-252</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Cai0LPHC022</key><doi>10.1109/SECON55815.2022.9918168</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918168</ee><url>https://dblp.org/rec/conf/secon/Cai0LPHC022</url></info>
+<url>URL#616949</url>
+</hit>
+<hit score="1" id="616950">
+<info><authors><author pid="324/8390">Bryan Bo Cao</author><author pid="295/6447">Abrar Alali</author><author pid="227/8045">Hansi Liu</author><author pid="324/8141">Nicholas Meegan</author><author pid="87/88">Marco Gruteser</author><author pid="36/4636">Kristin J. Dana</author><author pid="48/1535">Ashwin Ashok</author><author pid="132/6759">Shubham Jain</author></authors><title>ViTag: Online WiFi Fine Time Measurements Aided Vision-Motion Identity Association in Multi-person Environments.</title><venue>SECON</venue><pages>19-27</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CaoALMGDAJ22</key><doi>10.1109/SECON55815.2022.9918171</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918171</ee><url>https://dblp.org/rec/conf/secon/CaoALMGDAJ22</url></info>
+<url>URL#616950</url>
+</hit>
+<hit score="1" id="616951">
+<info><authors><author pid="97/1256">Shan Chang</author><author pid="280/0534">Xinggang Hu</author><author pid="29/5901">Hongzi Zhu</author><author pid="49/3283-138">Wei Liu 0138</author><author pid="50/2484">Lei Yang</author></authors><title>VOGUE: Secure User Voice Authentication on Wearable Devices using Gyroscope.</title><venue>SECON</venue><pages>361-369</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChangHZLY22</key><doi>10.1109/SECON55815.2022.9918548</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918548</ee><url>https://dblp.org/rec/conf/secon/ChangHZLY22</url></info>
+<url>URL#616951</url>
+</hit>
+<hit score="1" id="616952">
+<info><authors><author pid="76/3511">Punyasha Chatterjee</author><author pid="175/7574">Pratham Majumder</author><author pid="332/1763">Arpita Debnath</author><author pid="d/SajalKDas">Sajal K. Das 0001</author></authors><title>Distributed Decision Making for V2V Charge Sharing in Intelligent Transportation Systems.</title><venue>SECON</venue><pages>506-514</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChatterjeeMDD22</key><doi>10.1109/SECON55815.2022.9918576</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918576</ee><url>https://dblp.org/rec/conf/secon/ChatterjeeMDD22</url></info>
+<url>URL#616952</url>
+</hit>
+<hit score="1" id="616954">
+<info><authors><author pid="263/1088">Yunzhong Chen</author><author pid="85/3615">Jiadi Yu</author><author pid="23/7909">Linghe Kong</author><author pid="02/6595">Yanmin Zhu</author><author pid="59/2249">Feilong Tang</author></authors><title>RFPass: Towards Environment-Independent Gait-based User Authentication Leveraging RFID.</title><venue>SECON</venue><pages>289-297</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChenYKZT22</key><doi>10.1109/SECON55815.2022.9918573</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918573</ee><url>https://dblp.org/rec/conf/secon/ChenYKZT22</url></info>
+<url>URL#616954</url>
+</hit>
+<hit score="1" id="616955">
+<info><authors><author pid="10/8775">Rong Cong</author><author pid="89/887">Zhiwei Zhao</author><author pid="332/1863">Linyuanqi Zhang</author><author pid="96/3727">Geyong Min</author></authors><title>CoopEdge: Cost-effective Server Deployment for Cooperative Multi-Access Edge Computing.</title><venue>SECON</venue><pages>208-216</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CongZZM22</key><doi>10.1109/SECON55815.2022.9918592</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918592</ee><url>https://dblp.org/rec/conf/secon/CongZZM22</url></info>
+<url>URL#616955</url>
+</hit>
+<hit score="1" id="616956">
+<info><authors><author pid="124/6911">Haipeng Dai</author><author pid="332/2089">Xuzhen Lin</author><author pid="162/1613">Jiaqi Zheng</author><author pid="156/3209">Yuben Qu</author><author pid="42/512">Weijun Wang</author><author pid="123/9215">Shuyu Shi</author><author pid="24/8037">Chi Lin</author><author pid="57/5595">Wanchun Dou</author></authors><title>DARPA: Deployment of UAVs for Polygonal Sizable Object Surveillance.</title><venue>SECON</venue><pages>298-306</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DaiLZQWSLD22</key><doi>10.1109/SECON55815.2022.9918602</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918602</ee><url>https://dblp.org/rec/conf/secon/DaiLZQWSLD22</url></info>
+<url>URL#616956</url>
+</hit>
+<hit score="1" id="616957">
+<info><authors><author pid="124/6911">Haipeng Dai</author><author pid="48/76">Yue Zhao</author><author pid="42/512">Weijun Wang</author><author pid="39/1859">Rong Gu</author><author pid="156/3209">Yuben Qu</author><author pid="24/8037">Chi Lin</author><author pid="65/5553">Lijie Xu</author><author pid="57/5595">Wanchun Dou</author></authors><title>Placing Wireless Chargers with Multiple Antennas.</title><venue>SECON</venue><pages>479-487</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DaiZWGQLXD22</key><doi>10.1109/SECON55815.2022.9918174</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918174</ee><url>https://dblp.org/rec/conf/secon/DaiZWGQLXD22</url></info>
+<url>URL#616957</url>
+</hit>
+<hit score="1" id="616958">
+<info><authors><author pid="165/1264">Xiangling Ding</author><author pid="29/2933">Wenjie Zhu</author><author pid="165/8955">Dengyong Zhang</author></authors><title>DeepFake Videos Detection via Spatiotemporal Inconsistency Learning and Interactive Fusion.</title><venue>SECON</venue><pages>425-433</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DingZZ22</key><doi>10.1109/SECON55815.2022.9918605</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918605</ee><url>https://dblp.org/rec/conf/secon/DingZZ22</url></info>
+<url>URL#616958</url>
+</hit>
+<hit score="1" id="616959">
+<info><authors><author pid="303/7039">Jianqi Du</author><author pid="213/7633">Fenghao Xu</author><author pid="304/6635">Chennan Zhang</author><author pid="72/8471">Zidong Zhang</author><author pid="217/8118">Xiaoyin Liu</author><author pid="292/3792">Pengcheng Ren</author><author pid="149/2350">Wenrui Diao</author><author pid="47/401">Shanqing Guo</author><author pid="66/6560">Kehuan Zhang</author></authors><title>Identifying the BLE Misconfigurations of IoT Devices through Companion Mobile Apps.</title><venue>SECON</venue><pages>343-351</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DuXZZLRDGZ22</key><doi>10.1109/SECON55815.2022.9918597</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918597</ee><url>https://dblp.org/rec/conf/secon/DuXZZLRDGZ22</url></info>
+<url>URL#616959</url>
+</hit>
+<hit score="1" id="616960">
+<info><authors><author pid="271/9965">Xingpeng Fan</author><author pid="201/1240">Gongming Zhao</author><author pid="273/8256">Huaqing Tu</author><author pid="22/1748">Hongli Xu</author><author pid="75/4947-1">He Huang 0001</author></authors><title>MASCOT: Mobility-Aware Service Function Chain Routing in Mobile Edge Computing.</title><venue>SECON</venue><pages>461-469</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/FanZTXH22</key><doi>10.1109/SECON55815.2022.9918567</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918567</ee><url>https://dblp.org/rec/conf/secon/FanZTXH22</url></info>
+<url>URL#616960</url>
+</hit>
+<hit score="1" id="616961">
+<info><authors><author pid="46/4184">Hao Feng</author><author pid="23/4556">Songtao Guo</author><author pid="66/3019-4">Chao Chen 0004</author><author pid="11/4102">Xianlong Jiao</author></authors><title>Distributed Caching Control Strategy in Mobile Edge Computing: A Mean Field Game Approach.</title><venue>SECON</venue><pages>443-451</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/FengGCJ22</key><doi>10.1109/SECON55815.2022.9918617</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918617</ee><url>https://dblp.org/rec/conf/secon/FengGCJ22</url></info>
+<url>URL#616961</url>
+</hit>
+<hit score="1" id="616962">
+<info><authors><author pid="115/5629">Xiaolin Gu</author><author pid="17/7579">Wenjia Wu</author><author pid="240/3209">Naixuan Guo</author><author pid="20/6417">Wei He</author><author pid="24/3937">Aibo Song</author><author pid="98/2604-1">Ming Yang 0001</author><author pid="79/7563">Zhen Ling</author><author pid="l/JunzhouLuo">Junzhou Luo</author></authors><title>TeRFF: Temperature-aware Radio Frequency Fingerprinting for Smartphones.</title><venue>SECON</venue><pages>127-135</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GuWGHS0LL22</key><doi>10.1109/SECON55815.2022.9918173</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918173</ee><url>https://dblp.org/rec/conf/secon/GuWGHS0LL22</url></info>
+<url>URL#616962</url>
+</hit>
+<hit score="1" id="616963">
+<info><authors><author pid="34/4714">Xiaolin Guo</author><author pid="75/2871-1">Fang Dong 0001</author><author pid="139/4309">Dian Shen</author><author pid="257/5755">Zhaowu Huang</author><author pid="318/9114">Zhenyang Ni</author><author pid="317/7559">Yulong Jiang</author><author pid="325/8330">Daheng Yin</author></authors><title>Exploiting the Computational Path Diversity with In-network Computing for MEC.</title><venue>SECON</venue><pages>280-288</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Guo0SHNJY22</key><doi>10.1109/SECON55815.2022.9918601</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918601</ee><url>https://dblp.org/rec/conf/secon/Guo0SHNJY22</url></info>
+<url>URL#616963</url>
+</hit>
+<hit score="1" id="616964">
+<info><authors><author pid="156/0161">Aleksandar Ichkov</author><author pid="312/3426">Simon Häger</author><author pid="m/PetriMahonen">Petri Mähönen</author><author pid="33/851">Ljiljana Simic</author></authors><title>Comparative Evaluation of Millimeter-Wave Beamsteering Algorithms Using Outdoor Phased Antenna Array Measurements.</title><venue>SECON</venue><pages>497-505</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/IchkovHMS22</key><doi>10.1109/SECON55815.2022.9918162</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918162</ee><url>https://dblp.org/rec/conf/secon/IchkovHMS22</url></info>
+<url>URL#616964</url>
+</hit>
+<hit score="1" id="616965">
+<info><authors><author pid="55/7618">Wenchao Jiang</author><author pid="92/2954">Feng Li</author><author pid="301/6040">Luoyu Mei</author><author pid="207/1798">Ruofeng Liu</author><author pid="42/1503">Shuai Wang</author></authors><title>VisBLE: Vision-Enhanced BLE Device Tracking.</title><venue>SECON</venue><pages>217-225</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/JiangLMLW22</key><doi>10.1109/SECON55815.2022.9918581</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918581</ee><url>https://dblp.org/rec/conf/secon/JiangLMLW22</url></info>
+<url>URL#616965</url>
+</hit>
+<hit score="1" id="616967">
+<info><authors><author pid="143/5307">Xiaoying Lei</author></authors><title>Online Bayesian Learning for Rate Adaptation in Non-stationary Wireless Channels.</title><venue>SECON</venue><pages>55-63</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Lei22</key><doi>10.1109/SECON55815.2022.9918166</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918166</ee><url>https://dblp.org/rec/conf/secon/Lei22</url></info>
+<url>URL#616967</url>
+</hit>
+<hit score="1" id="616968">
+<info><authors><author pid="271/9735">Chenning Li</author><author pid="33/4528">Li Liu</author><author pid="05/7548-1">Zhichao Cao 0001</author><author pid="84/2519-2">Mi Zhang 0002</author></authors><title>WiVelo: Fine-grained Walking Velocity Estimation for Wi-Fi Passive Tracking.</title><venue>SECON</venue><pages>172-180</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiLCZ22</key><doi>10.1109/SECON55815.2022.9918537</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918537</ee><url>https://dblp.org/rec/conf/secon/LiLCZ22</url></info>
+<url>URL#616968</url>
+</hit>
+<hit score="1" id="616969">
+<info><authors><author pid="17/5705">Hao Li</author><author pid="207/1798">Ruofeng Liu</author><author pid="42/1503">Shuai Wang</author><author pid="55/7618">Wenchao Jiang</author><author pid="154/4313">Chris Xiaoxuan Lu</author></authors><title>Pedestrian Liveness Detection Based on mmWave Radar and Camera Fusion.</title><venue>SECON</venue><pages>262-270</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiLWJL22</key><doi>10.1109/SECON55815.2022.9918553</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918553</ee><url>https://dblp.org/rec/conf/secon/LiLWJL22</url></info>
+<url>URL#616969</url>
+</hit>
+<hit score="1" id="616970">
+<info><authors><author pid="332/1662">Jeong-A Lim</author><author pid="48/7196">Yeongjin Kim</author></authors><title>Real-time DNN Model Partitioning for QoE Enhancement in Mobile Vision Applications.</title><venue>SECON</venue><pages>407-415</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LimK22</key><doi>10.1109/SECON55815.2022.9918600</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918600</ee><url>https://dblp.org/rec/conf/secon/LimK22</url></info>
+<url>URL#616970</url>
+</hit>
+<hit score="1" id="616971">
+<info><authors><author pid="24/8037">Chi Lin</author><author pid="332/2189">Chuanying Ji</author><author pid="85/10856">Fenglong Ma</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="60/1416">Wei Zhong</author><author pid="51/1027">Guowei Wu</author></authors><title>WiLCA: Accelerating Contactless Authentication with Limited Data.</title><venue>SECON</venue><pages>316-324</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LinJM0ZW22</key><doi>10.1109/SECON55815.2022.9918594</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918594</ee><url>https://dblp.org/rec/conf/secon/LinJM0ZW22</url></info>
+<url>URL#616971</url>
+</hit>
+<hit score="1" id="616972">
+<info><authors><author pid="49/4426">Tian Liu</author><author pid="166/8404">Xueyang Hu</author><author pid="56/2124">Tao Shu</author></authors><title>Assisting Backdoor Federated Learning with Whole Population Knowledge Alignment in Mobile Edge Computing.</title><venue>SECON</venue><pages>416-424</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiuHS22</key><doi>10.1109/SECON55815.2022.9918550</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918550</ee><url>https://dblp.org/rec/conf/secon/LiuHS22</url></info>
+<url>URL#616972</url>
+</hit>
+<hit score="1" id="616974">
+<info><authors><author pid="227/7270">James Mariani</author><author pid="300/8499">Yongqi Han</author><author pid="14/5505-1">Li Xiao 0001</author></authors><title>Co-Cache: Inertial-Driven Infrastructure-less Collaborative Approximate Caching.</title><venue>SECON</venue><pages>46-54</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/MarianiH022</key><doi>10.1109/SECON55815.2022.9918552</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918552</ee><url>https://dblp.org/rec/conf/secon/MarianiH022</url></info>
+<url>URL#616974</url>
+</hit>
+<hit score="1" id="616975">
+<info><authors><author pid="305/6476">Orlando E. Martínez-Durive</author><author pid="332/1781">Theo Couturieux</author><author pid="48/8344">Cezary Ziemlicki</author><author pid="75/1476">Marco Fiore</author></authors><title>VoronoiBoost: Data-driven Probabilistic Spatial Mapping of Mobile Network Metadata.</title><venue>SECON</venue><pages>100-108</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Martinez-Durive22</key><doi>10.1109/SECON55815.2022.9918610</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918610</ee><url>https://dblp.org/rec/conf/secon/Martinez-Durive22</url></info>
+<url>URL#616975</url>
+</hit>
+<hit score="1" id="616976">
+<info><authors><author pid="332/2119">Georg Meller</author><author pid="94/4307">Michael Methfessel</author><author pid="158/4023">Bastian Lindner</author><author pid="80/3640">Jens Wagner</author><author pid="57/3855">Rolf Kraemer</author><author pid="49/1035">Frank Ellinger</author></authors><title>Wakeup Receiver Using Passive Amplification by Means of a Switched SAW Resonator.</title><venue>SECON</venue><pages>136-144</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/MellerMLWKE22</key><doi>10.1109/SECON55815.2022.9918620</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918620</ee><url>https://dblp.org/rec/conf/secon/MellerMLWKE22</url></info>
+<url>URL#616976</url>
+</hit>
+<hit score="1" id="616977">
+<info><authors><author pid="332/1642">Adeel Nasrullah</author><author pid="332/1871">Momin Ahmad Khan</author><author pid="04/8333">Fatima Muhammad Anwar</author></authors><title>Universal Timestamping with Ambient Sensing.</title><venue>SECON</venue><pages>334-342</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/NasrullahKA22</key><doi>10.1109/SECON55815.2022.9918555</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918555</ee><url>https://dblp.org/rec/conf/secon/NasrullahKA22</url></info>
+<url>URL#616977</url>
+</hit>
+<hit score="1" id="616978">
+<info><authors><author pid="42/10187">Shuai Nie</author><author pid="205/9464">Mohammad Mosiur Lunar</author><author pid="13/4847">Geng Bai</author><author pid="186/9845">Yufeng Ge</author><author pid="178/1333">Santosh K. Pitla</author><author pid="01/799">Can Emre Koksal</author><author pid="48/5870">Mehmet C. Vuran</author></authors><title>mmWave on a Farm: Channel Modeling for Wireless Agricultural Networks at Broadband Millimeter-Wave Frequency.</title><venue>SECON</venue><pages>388-396</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/NieLBGPKV22</key><doi>10.1109/SECON55815.2022.9918595</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918595</ee><url>https://dblp.org/rec/conf/secon/NieLBGPKV22</url></info>
+<url>URL#616978</url>
+</hit>
+<hit score="1" id="616979">
+<info><authors><author pid="02/3812">Hao Pan</author><author pid="191/2584">Feitong Tan</author><author pid="11/444">Wenhao Li</author><author pid="91/699-1">Yi-Chao Chen 0001</author><author pid="235/0627">Lanqing Yang</author><author pid="79/1810">Guangtao Xue</author><author pid="39/1697-1">Xiaoyu Ji 0001</author></authors><title>MagDefender: Detecting Eavesdropping on Mobile Devices using the Built-in Magnetometer.</title><venue>SECON</venue><pages>28-36</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/PanTL0YX022</key><doi>10.1109/SECON55815.2022.9918604</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918604</ee><url>https://dblp.org/rec/conf/secon/PanTL0YX022</url></info>
+<url>URL#616979</url>
+</hit>
+<hit score="1" id="616980">
+<info><authors><author pid="214/8289">Mert D. Pesé</author><author pid="153/5746">Dongyao Chen</author><author pid="252/3901">C. Andrés Campos</author><author pid="332/1826">Alice Ying</author><author pid="252/3950">Troy Stacer</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>DETROIT: Data Collection, Translation and Sharing for Rapid Vehicular App Development.</title><venue>SECON</venue><pages>397-406</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/PeseCCYSS22</key><doi>10.1109/SECON55815.2022.9918582</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918582</ee><url>https://dblp.org/rec/conf/secon/PeseCCYSS22</url></info>
+<url>URL#616980</url>
+</hit>
+<hit score="1" id="616981">
+<info><authors><author pid="332/1989">Tushar Routh</author><author pid="257/2528">Nurani Saoda</author><author pid="248/3586">Md Fazlay Rabbi Masum Billah</author><author pid="21/10522">Brad Campbell</author></authors><title>Low Cost Light Source Identification in Real World Settings.</title><venue>SECON</venue><pages>226-234</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/RouthSBC22</key><doi>10.1109/SECON55815.2022.9918545</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918545</ee><url>https://dblp.org/rec/conf/secon/RouthSBC22</url></info>
+<url>URL#616981</url>
+</hit>
+<hit score="1" id="616982">
+<info><authors><author pid="190/2653">Ce Shang</author><author pid="181/2323-4">Yan Sun 0004</author><author pid="67/876-1">Hong Luo 0001</author></authors><title>A Hybrid Deep Reinforcement Learning Approach for Dynamic Task Offloading in NOMA-MEC System.</title><venue>SECON</venue><pages>434-442</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShangSL22</key><doi>10.1109/SECON55815.2022.9918560</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918560</ee><url>https://dblp.org/rec/conf/secon/ShangSL22</url></info>
+<url>URL#616982</url>
+</hit>
+<hit score="1" id="616983">
+<info><authors><author pid="332/1562">Mingqian Shao</author><author pid="23/4955">Yifan Liu</author><author pid="150/5649">Bin Duo</author><author pid="159/7035-1">Jin Ning 0001</author><author pid="78/8637">Junsong Luo</author><author pid="04/6569">Xing Zhu</author><author pid="75/561">Mingzhe Liu</author><author pid="22/7808">Zhengqiang Wang</author></authors><title>Joint Passive Beamforming and Elevation Angle-Dependent Trajectory Design for RIS-aided UAV-enabled Wireless Sensor Networks.</title><venue>SECON</venue><pages>488-496</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShaoLDNLZLW22</key><doi>10.1109/SECON55815.2022.9918587</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918587</ee><url>https://dblp.org/rec/conf/secon/ShaoLDNLZLW22</url></info>
+<url>URL#616983</url>
+</hit>
+<hit score="1" id="616984">
+<info><authors><author pid="310/0697">Zhiyao Sheng</author><author pid="228/5733">Huatao Xu</author><author pid="04/2024-12">Qian Zhang 0012</author><author pid="40/3934-24">Dong Wang 0024</author></authors><title>Facilitating Radar-Based Gesture Recognition With Self-Supervised Learning.</title><venue>SECON</venue><pages>154-162</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShengXZW22</key><doi>10.1109/SECON55815.2022.9918549</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918549</ee><url>https://dblp.org/rec/conf/secon/ShengXZW22</url></info>
+<url>URL#616984</url>
+</hit>
+<hit score="1" id="616985">
+<info><authors><author pid="143/0896">Simone Soderi</author><author pid="196/4896">Alessandro Brighente</author><author pid="247/4992">Federico Turrin</author><author pid="82/4386">Mauro Conti</author></authors><title>VLC Physical Layer Security through RIS-aided Jamming Receiver for 6G Wireless Networks.</title><venue>SECON</venue><pages>370-378</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SoderiBTC22</key><doi>10.1109/SECON55815.2022.9918547</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918547</ee><url>https://dblp.org/rec/conf/secon/SoderiBTC22</url></info>
+<url>URL#616985</url>
+</hit>
+<hit score="1" id="616986">
+<info><authors><author pid="301/7492">Youmei Song</author><author pid="47/91-2">Lei Jiao 0002</author><author pid="142/7754">Renyu Yang</author><author pid="58/6260">Tianyu Wo</author><author pid="37/5126-7">Jie Xu 0007</author></authors><title>Incentivizing Online Edge Caching via Auction - Based Subsidization.</title><venue>SECON</venue><pages>253-261</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SongJYW022</key><doi>10.1109/SECON55815.2022.9918618</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918618</ee><url>https://dblp.org/rec/conf/secon/SongJYW022</url></info>
+<url>URL#616986</url>
+</hit>
+<hit score="1" id="616987">
+<info><authors><author pid="332/2111">Xieyang Sun</author><author pid="10/264">Wei Xi</author><author pid="95/11343">Zhiping Jiang</author><author pid="317/3091">Zuhao Chen</author><author pid="00/7301">Han Hao</author></authors><title>ScreenInformer: Whispering Secret Information via an LCD Screen.</title><venue>SECON</venue><pages>181-189</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SunXJCH22</key><doi>10.1109/SECON55815.2022.9918570</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918570</ee><url>https://dblp.org/rec/conf/secon/SunXJCH22</url></info>
+<url>URL#616987</url>
+</hit>
+<hit score="1" id="616988">
+<info><authors><author pid="245/7866">Zhirong Tang</author><author pid="90/10237">Lizhao You</author><author pid="124/6911">Haipeng Dai</author><author pid="26/5892-1">Liqun Fu 0001</author></authors><title>Quick and Reliable Physical-layer Data Aggregation in LoRa through Multi-Packet Reception.</title><venue>SECON</venue><pages>118-126</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/TangYD022</key><doi>10.1109/SECON55815.2022.9918167</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918167</ee><url>https://dblp.org/rec/conf/secon/TangYD022</url></info>
+<url>URL#616988</url>
+</hit>
+<hit score="1" id="616989">
+<info><authors><author pid="42/1503">Shuai Wang</author><author pid="86/881">Jianlin Guo</author><author pid="15/4476-4">Pu Wang 0004</author><author pid="132/8074">Kieran Parsons</author><author pid="10/3164">Philip V. Orlik</author><author pid="48/2548">Yukimasa Nagai</author><author pid="165/5409">Takenori Sumi</author><author pid="62/8333">Parth Pathak 0001</author></authors><title>X-Disco: Cross-technology Neighbor Discovery.</title><venue>SECON</venue><pages>163-171</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangG0PONSP22</key><doi>10.1109/SECON55815.2022.9918568</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918568</ee><url>https://dblp.org/rec/conf/secon/WangG0PONSP22</url></info>
+<url>URL#616989</url>
+</hit>
+<hit score="1" id="616990">
+<info><authors><author pid="72/628-5">Yao Wang 0005</author><author pid="65/4916">Tao Gu</author><author pid="31/8333">Tom H. Luan</author><author pid="43/5685-2">Yong Yu 0002</author></authors><title>Your Breath Doesn&apos;t Lie: Multi-user Authentication by Sensing Respiration Using mmWave Radar.</title><venue>SECON</venue><pages>64-72</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangGL022</key><doi>10.1109/SECON55815.2022.9918606</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918606</ee><url>https://dblp.org/rec/conf/secon/WangGL022</url></info>
+<url>URL#616990</url>
+</hit>
+<hit score="1" id="616991">
+<info><authors><author pid="132/7882">Zeyu Wang</author><author pid="64/9992">Xiaoxi He</author><author pid="133/3824">Zimu Zhou</author><author pid="w/XuWang18">Xu Wang 0018</author><author pid="m/QiangMa7">Qiang Ma 0007</author><author pid="62/4917">Xin Miao</author><author pid="85/1802">Zhuo Liu</author><author pid="t/LotharThiele">Lothar Thiele</author><author pid="59/5806-2">Zheng Yang 0002</author></authors><title>Stitching Weight-Shared Deep Neural Networks for Efficient Multitask Inference on GPU.</title><venue>SECON</venue><pages>145-153</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangHZ00MLT022</key><doi>10.1109/SECON55815.2022.9918563</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918563</ee><url>https://dblp.org/rec/conf/secon/WangHZ00MLT022</url></info>
+<url>URL#616991</url>
+</hit>
+<hit score="1" id="616992">
+<info><authors><author pid="269/9283">Leiyang Xu</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="214/2323">Xiangyuan Li</author><author pid="87/5445">Yucheng Zhang</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>WiCAM: Imperceptible Adversarial Attack on Deep Learning based WiFi Sensing.</title><venue>SECON</venue><pages>10-18</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Xu0LZ0M22</key><doi>10.1109/SECON55815.2022.9918564</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918564</ee><url>https://dblp.org/rec/conf/secon/Xu0LZ0M22</url></info>
+<url>URL#616992</url>
+</hit>
+<hit score="1" id="616993">
+<info><authors><author pid="332/1612">Suwei Xu</author><author pid="184/7591-1">Yibo Jin 0001</author><author pid="96/2572">Zhuzhong Qian</author><author pid="69/6137-1">Sheng Zhang 0001</author><author pid="39/6844">Ming Zhao</author><author pid="322/9876">Zhenjie Lin</author><author pid="62/2145">Qiang Lin</author><author pid="51/8">Liming Wang</author></authors><title>Energy-efficient Federated Learning via Stabilization-aware On-device Update Scaling.</title><venue>SECON</venue><pages>190-198</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Xu0QZZLLW22</key><doi>10.1109/SECON55815.2022.9918541</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918541</ee><url>https://dblp.org/rec/conf/secon/Xu0QZZLLW22</url></info>
+<url>URL#616993</url>
+</hit>
+<hit score="1" id="616994">
+<info><authors><author pid="219/6111">Yuting Yan</author><author pid="184/7591-1">Yibo Jin 0001</author><author pid="69/6137-1">Sheng Zhang 0001</author><author pid="332/1570">Fangwen Cheng</author><author pid="96/2572">Zhuzhong Qian</author><author pid="24/3318">Sanglu Lu</author></authors><title>Focus! Provisioning Attention-aware Detection for Real-time On-device Video Analytics.</title><venue>SECON</venue><pages>271-279</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Yan00CQL22</key><doi>10.1109/SECON55815.2022.9918169</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918169</ee><url>https://dblp.org/rec/conf/secon/Yan00CQL22</url></info>
+<url>URL#616994</url>
+</hit>
+<hit score="1" id="616995">
+<info><authors><author pid="63/1587">Kun Yang</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="75/198-1">Jie Xiong 0001</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>WiImg: Pushing the Limit of WiFi Sensing with Low Transmission Rates.</title><venue>SECON</venue><pages>1-9</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Yang0X0M22</key><doi>10.1109/SECON55815.2022.9918170</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918170</ee><url>https://dblp.org/rec/conf/secon/Yang0X0M22</url></info>
+<url>URL#616995</url>
+</hit>
+<hit score="1" id="616996">
+<info><authors><author pid="188/2975">Niloofar Yazdani</author><author pid="218/9677">Nikolaos Kouvelas</author><author pid="96/3518">Daniel E. Lucani</author><author pid="01/6745">R. Venkatesha Prasad</author></authors><title>Divide and Code: Efficient and Real-time Data Recovery from Corrupted LoRa Frames.</title><venue>SECON</venue><pages>235-243</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YazdaniKLP22</key><doi>10.1109/SECON55815.2022.9918571</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918571</ee><url>https://dblp.org/rec/conf/secon/YazdaniKLP22</url></info>
+<url>URL#616996</url>
+</hit>
+<hit score="1" id="616997">
+<info><authors><author pid="163/8762">Yukun Yuan</author><author pid="48/76">Yue Zhao</author><author pid="13/3479-2">Lin Chen 0002</author><author pid="12/3912-1">Shan Lin 0001</author></authors><title>Game Theoretic Analysis of Urban E-Taxi Systems: Equilibria and Efficiency.</title><venue>SECON</venue><pages>379-387</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YuanZ0022</key><doi>10.1109/SECON55815.2022.9918566</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918566</ee><url>https://dblp.org/rec/conf/secon/YuanZ0022</url></info>
+<url>URL#616997</url>
+</hit>
+<hit score="1" id="616999">
+<info><authors><author pid="49/4478">Xiao Zhang</author><author pid="227/7270">James Mariani</author><author pid="14/5505-1">Li Xiao 0001</author><author pid="m/MattWMutka">Matt W. Mutka</author></authors><title>LiFOD: Lighting Extra Data via Fine-grained OWC Dimming.</title><venue>SECON</venue><pages>73-81</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangM0M22</key><doi>10.1109/SECON55815.2022.9918579</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918579</ee><url>https://dblp.org/rec/conf/secon/ZhangM0M22</url></info>
+<url>URL#616999</url>
+</hit>
+<hit score="1" id="617001">
+<info><authors><author pid="55/957">Kai Zhang</author><author pid="251/1118">Jiuwu Zhang</author><author pid="72/3192-1">Xin Xie 0001</author><author pid="239/4714">Xinyu Tong</author><author pid="136/3336">Xiulong Liu</author><author pid="21/6280">Keqiu Li</author></authors><title>Frequency- and Orientation-related Phase Fingerprints for RFID Tag Authentication.</title><venue>SECON</venue><pages>307-315</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangZXTLL22</key><doi>10.1109/SECON55815.2022.9918596</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918596</ee><url>https://dblp.org/rec/conf/secon/ZhangZXTLL22</url></info>
+<url>URL#617001</url>
+</hit>
+<hit score="1" id="617002">
+<info><authors><author pid="52/323">Qi Zhang</author><author pid="06/6785">Yang Zhang</author><author pid="37/2431">Shukui Zhang</author><author pid="14/3107-1">Hao Long 0001</author></authors><title>Task Scheduling Algorithm Based on Computing-Aware in Mobile Ad Hoc Cloud.</title><venue>SECON</venue><pages>470-478</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangZZ022</key><doi>10.1109/SECON55815.2022.9918578</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918578</ee><url>https://dblp.org/rec/conf/secon/ZhangZZ022</url></info>
+<url>URL#617002</url>
+</hit>
+<hit score="1" id="617003">
+<info><authors><author pid="69/5882-16">Jing Zhao 0016</author><author pid="332/2245">Ruwu Wang</author></authors><title>FedMix: A Sybil Attack Detection System Considering Cross-layer Information Fusion and Privacy Protection.</title><venue>SECON</venue><pages>199-207</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhaoW22</key><doi>10.1109/SECON55815.2022.9918586</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918586</ee><url>https://dblp.org/rec/conf/secon/ZhaoW22</url></info>
+<url>URL#617003</url>
+</hit>
+<hit score="1" id="617004">
+<info><authors><author pid="60/2931">Yi Zhong</author><author pid="47/91-2">Lei Jiao 0002</author><author pid="41/10471">Ruiting Zhou</author><author pid="316/3455">Liujing Song</author></authors><title>On-Demand or On-Premises: Online Mitigation of DDoS Attacks via Cloud-Edge Coordination.</title><venue>SECON</venue><pages>82-90</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Zhong0ZS22</key><doi>10.1109/SECON55815.2022.9918591</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918591</ee><url>https://dblp.org/rec/conf/secon/Zhong0ZS22</url></info>
+<url>URL#617004</url>
+</hit>
+<hit score="1" id="617005">
+<info><authors><author pid="229/9836">Yinan Zhu</author><author pid="184/3475">Chunhui Duan</author><author pid="48/9713">Xuan Ding</author><author pid="59/5806-2">Zheng Yang 0002</author></authors><title>ReaderPrint: A Universal Method for RFID Readers Authentication Based on Impedance Mismatch.</title><venue>SECON</venue><pages>352-360</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhuDD022</key><doi>10.1109/SECON55815.2022.9918585</doi><ee>https://doi.org/10.1109/SECON55815.2022.9918585</ee><url>https://dblp.org/rec/conf/secon/ZhuDD022</url></info>
+<url>URL#617005</url>
+</hit>
+<hit score="1" id="641166">
+<info><title>19th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2022, Stockholm, Sweden, September 20-23, 2022</title><venue>SECON</venue><publisher>IEEE</publisher><year>2022</year><type>Editorship</type><key>conf/secon/2022</key><doi>10.1109/SECON55815.2022</doi><ee>https://doi.org/10.1109/SECON55815.2022</ee><url>https://dblp.org/rec/conf/secon/2022</url></info>
+<url>URL#641166</url>
+</hit>
+</hits>
+</result>

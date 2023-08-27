@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59667">:facetid:toc:\"db/conf/imc/imc2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">186.45</time>
+<completions total="1" computed="1" sent="1">
+<c sc="44" dc="44" oc="44" id="41047560">:facetid:toc:db/conf/imc/imc2018.bht</c>
+</completions>
+<hits total="44" computed="44" sent="44" first="0">
+<hit score="1" id="2286330">
+<info><authors><author pid="120/7064">Zahaib Akhtar</author><author pid="162/3749">Yun Seong Nam</author><author pid="76/977">Jessica Chen</author><author pid="g/RameshGovindan">Ramesh Govindan</author><author pid="66/2080">Ethan Katz-Bassett</author><author pid="r/SanjayGRao">Sanjay G. Rao</author><author pid="12/1819">Jibin Zhan</author><author pid="z/HuiZhang1">Hui Zhang 0001</author></authors><title>Understanding Video Management Planes.</title><venue>Internet Measurement Conference</venue><pages>238-251</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/AkhtarNCGKRZZ18</key><ee>https://dl.acm.org/citation.cfm?id=3278554</ee><url>https://dblp.org/rec/conf/imc/AkhtarNCGKRZZ18</url></info>
+<url>URL#2286330</url>
+</hit>
+<hit score="1" id="2286331">
+<info><authors><author pid="31/1402">Mark Allman</author></authors><title>Comments on DNS Robustness.</title><venue>Internet Measurement Conference</venue><pages>84-90</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/Allman18</key><ee>https://dl.acm.org/citation.cfm?id=3278541</ee><url>https://dblp.org/rec/conf/imc/Allman18</url></info>
+<url>URL#2286331</url>
+</hit>
+<hit score="1" id="2286332">
+<info><authors><author pid="150/5353">Muhammad Ahmad Bashir</author><author pid="93/7474">Sajjad Arshad</author><author pid="k/EnginKirda">Engin Kirda</author><author pid="r/WilliamKRobertson">William K. Robertson</author><author pid="79/5135">Christo Wilson</author></authors><title>How Tracking Companies Circumvented Ad Blockers Using WebSockets.</title><venue>Internet Measurement Conference</venue><pages>471-477</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BashirAKRW18</key><ee>https://dl.acm.org/citation.cfm?id=3278573</ee><url>https://dblp.org/rec/conf/imc/BashirAKRW18</url></info>
+<url>URL#2286332</url>
+</hit>
+<hit score="1" id="2286333">
+<info><authors><author pid="12/1817">Robert Beverly</author><author pid="134/6345">Ramakrishnan Durairajan</author><author pid="37/1566">David Plonka</author><author pid="05/7348">Justin P. Rohrer</author></authors><title>In the IP of the Beholder: Strategies for Active IPv6 Topology Discovery.</title><venue>Internet Measurement Conference</venue><pages>308-321</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BeverlyDPR18</key><ee>https://dl.acm.org/citation.cfm?id=3278559</ee><url>https://dblp.org/rec/conf/imc/BeverlyDPR18</url></info>
+<url>URL#2286333</url>
+</hit>
+<hit score="1" id="2286334">
+<info><authors><author pid="59/8330">Jeremias Blendin</author><author pid="228/6894">Fabrice Bendfeldt</author><author pid="17/9081">Ingmar Poese</author><author pid="25/4201">Boris Koldehofe</author><author pid="75/6403">Oliver Hohlfeld</author></authors><title>Dissecting Apple&apos;s Meta-CDN during an iOS Update.</title><venue>Internet Measurement Conference</venue><pages>408-414</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/BlendinBPKH18</key><ee>https://dl.acm.org/citation.cfm?id=3278567</ee><url>https://dblp.org/rec/conf/imc/BlendinBPKH18</url></info>
+<url>URL#2286334</url>
+</hit>
+<hit score="1" id="2286335">
+<info><authors><author pid="90/8396">Taejoong Chung</author><author pid="229/1140">Jay Lok</author><author pid="c/BChandrasekaran2">Balakrishnan Chandrasekaran 0002</author><author pid="48/6854">David R. Choffnes</author><author pid="03/6428">Dave Levin</author><author pid="m/BruceMMaggs">Bruce M. Maggs</author><author pid="31/3833">Alan Mislove</author><author pid="29/11081">John P. Rula</author><author pid="172/5512">Nick Sullivan</author><author pid="79/5135">Christo Wilson</author></authors><title>Is the Web Ready for OCSP Must-Staple?</title><venue>Internet Measurement Conference</venue><pages>105-118</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ChungL0CLMMRSW18</key><ee>https://dl.acm.org/citation.cfm?id=3278543</ee><url>https://dblp.org/rec/conf/imc/ChungL0CLMMRSW18</url></info>
+<url>URL#2286335</url>
+</hit>
+<hit score="1" id="2286336">
+<info><authors><author pid="154/8616">Mallesham Dasari</author><author pid="229/1143">Santiago Vargas</author><author pid="139/0489">Arani Bhattacharya</author><author pid="35/1211">Aruna Balasubramanian</author><author pid="90/4174">Samir R. Das</author><author pid="46/4377">Michael Ferdman</author></authors><title>Impact of Device Performance on Mobile Internet QoE.</title><venue>Internet Measurement Conference</venue><pages>1-7</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DasariVBBDF18</key><ee>https://dl.acm.org/citation.cfm?id=3278533</ee><url>https://dblp.org/rec/conf/imc/DasariVBBDF18</url></info>
+<url>URL#2286336</url>
+</hit>
+<hit score="1" id="2286337">
+<info><authors><author pid="205/2058">Louis F. DeKoven</author><author pid="229/1139">Trevor Pottinger</author><author pid="s/StefanSavage">Stefan Savage</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="54/854">Nektarios Leontiadis</author></authors><title>Following Their Footsteps: Characterizing Account Automation Abuse and Defenses.</title><venue>Internet Measurement Conference</venue><pages>43-55</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DeKovenPSVL18</key><ee>https://dl.acm.org/citation.cfm?id=3278537</ee><url>https://dblp.org/rec/conf/imc/DeKovenPSVL18</url></info>
+<url>URL#2286337</url>
+</hit>
+<hit score="1" id="2286338">
+<info><authors><author pid="169/9944">Haotian Deng</author><author pid="98/3313-1">Chunyi Peng 0001</author><author pid="192/2268">Ans Fida</author><author pid="211/9501">Jiayi Meng</author><author pid="93/89">Y. Charlie Hu</author></authors><title>Mobility Support in Cellular Networks: A Measurement Study on Its Configurations and Implications.</title><venue>Internet Measurement Conference</venue><pages>147-160</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/DengPFMH18</key><ee>https://dl.acm.org/citation.cfm?id=3278546</ee><url>https://dblp.org/rec/conf/imc/DengPFMH18</url></info>
+<url>URL#2286338</url>
+</hit>
+<hit score="1" id="2286339">
+<info><authors><author pid="66/1199">Kensuke Fukuda</author><author pid="h/JohnSHeidemann">John S. Heidemann</author></authors><title>Who Knocks at the IPv6 Door?: Detecting IPv6 Scanning.</title><venue>Internet Measurement Conference</venue><pages>231-237</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/FukudaH18</key><ee>https://dl.acm.org/citation.cfm?id=3278553</ee><url>https://dblp.org/rec/conf/imc/FukudaH18</url></info>
+<url>URL#2286339</url>
+</hit>
+<hit score="1" id="2286340">
+<info><authors><author pid="147/1125">Oliver Gasser</author><author pid="175/1318">Quirin Scheitle</author><author pid="36/9959">Pawel Foremski</author><author pid="147/3326">Qasim Lone</author><author pid="06/10585">Maciej Korczynski</author><author pid="77/10700">Stephen D. Strowes</author><author pid="79/10703">Luuk Hendriks</author><author pid="c/GeorgCarle">Georg Carle</author></authors><title>Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists.</title><venue>Internet Measurement Conference</venue><pages>364-378</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/GasserSFLKSHC18</key><ee>https://dl.acm.org/citation.cfm?id=3278564</ee><url>https://dblp.org/rec/conf/imc/GasserSFLKSHC18</url></info>
+<url>URL#2286340</url>
+</hit>
+<hit score="1" id="2286341">
+<info><authors><author pid="179/2240">Nguyen Phong Hoang</author><author pid="181/5371">Panagiotis Kintis</author><author pid="26/216">Manos Antonakakis</author><author pid="09/1231">Michalis Polychronakis</author></authors><title>An Empirical Study of the I2P Anonymity Network and its Censorship Resistance.</title><venue>Internet Measurement Conference</venue><pages>379-392</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/HoangKAP18</key><ee>https://dl.acm.org/citation.cfm?id=3278565</ee><url>https://dblp.org/rec/conf/imc/HoangKAP18</url></info>
+<url>URL#2286341</url>
+</hit>
+<hit score="1" id="2286342">
+<info><authors><author pid="155/4391">Costas Iordanou</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="17/9081">Ingmar Poese</author><author pid="04/5326">Nikolaos Laoutaris</author></authors><title>Tracing Cross Border Web Tracking.</title><venue>Internet Measurement Conference</venue><pages>329-342</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/IordanouSPL18</key><ee>https://dl.acm.org/citation.cfm?id=3278561</ee><url>https://dblp.org/rec/conf/imc/IordanouSPL18</url></info>
+<url>URL#2286342</url>
+</hit>
+<hit score="1" id="2286343">
+<info><authors><author pid="163/4064">Mattijs Jonker</author><author pid="p/AikoPras">Aiko Pras</author><author pid="28/5074">Alberto Dainotti</author><author pid="59/2521">Anna Sperotto</author></authors><title>A First Joint Look at DoS Attacks and BGP Blackholing in the Wild.</title><venue>Internet Measurement Conference</venue><pages>457-463</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/JonkerPDS18</key><ee>https://dl.acm.org/citation.cfm?id=3278571</ee><url>https://dblp.org/rec/conf/imc/JonkerPDS18</url></info>
+<url>URL#2286343</url>
+</hit>
+<hit score="1" id="2286344">
+<info><authors><author pid="154/3627">Mohammad Taha Khan</author><author pid="208/4267">Joe DeBlasio</author><author pid="v/GeoffreyMVoelker">Geoffrey M. Voelker</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author><author pid="20/4340">Chris Kanich</author><author pid="50/7563">Narseo Vallina-Rodriguez</author></authors><title>An Empirical Analysis of the Commercial VPN Ecosystem.</title><venue>Internet Measurement Conference</venue><pages>443-456</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KhanDVSKV18</key><ee>https://dl.acm.org/citation.cfm?id=3278570</ee><url>https://dblp.org/rec/conf/imc/KhanDVSKV18</url></info>
+<url>URL#2286344</url>
+</hit>
+<hit score="1" id="2286345">
+<info><authors><author pid="209/8649">Lucianna Kiffer</author><author pid="03/6428">Dave Levin</author><author pid="31/3833">Alan Mislove</author></authors><title>Analyzing Ethereum&apos;s Contract Topology.</title><venue>Internet Measurement Conference</venue><pages>494-499</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KifferLM18</key><ee>https://dl.acm.org/citation.cfm?id=3278575</ee><url>https://dblp.org/rec/conf/imc/KifferLM18</url></info>
+<url>URL#2286345</url>
+</hit>
+<hit score="1" id="2286346">
+<info><authors><author pid="229/1141">Seoung Kyun Kim</author><author pid="198/3346">Zane Ma</author><author pid="229/1147">Siddharth Murali</author><author pid="34/3008">Joshua Mason</author><author pid="39/1855-1">Andrew Miller 0001</author><author pid="20/2967">Michael Bailey</author></authors><title>Measuring Ethereum Network Peers.</title><venue>Internet Measurement Conference</venue><pages>91-104</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KimMMMMB18</key><ee>https://dl.acm.org/citation.cfm?id=3278542</ee><url>https://dblp.org/rec/conf/imc/KimMMMMB18</url></info>
+<url>URL#2286346</url>
+</hit>
+<hit score="1" id="2286347">
+<info><authors><author pid="164/7372">Harini Kolamunna</author><author pid="92/131">Ilias Leontiadis</author><author pid="03/3645">Diego Perino</author><author pid="126/2555">Suranga Seneviratne</author><author pid="92/10700">Kanchana Thilakarathna</author><author pid="55/6028">Aruna Seneviratne</author></authors><title>A First Look at SIM-Enabled Wearables in the Wild.</title><venue>Internet Measurement Conference</venue><pages>77-83</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KolamunnaLPSTS18</key><ee>https://dl.acm.org/citation.cfm?id=3278540</ee><url>https://dblp.org/rec/conf/imc/KolamunnaLPSTS18</url></info>
+<url>URL#2286347</url>
+</hit>
+<hit score="1" id="2286348">
+<info><authors><author pid="44/10958">Platon Kotzias</author><author pid="149/9322">Abbas Razaghpanah</author><author pid="150/8002">Johanna Amann</author><author pid="39/780">Kenneth G. Paterson</author><author pid="50/7563">Narseo Vallina-Rodriguez</author><author pid="35/3587">Juan Caballero</author></authors><title>Coming of Age: A Longitudinal Study of TLS Deployment.</title><venue>Internet Measurement Conference</venue><pages>415-428</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/KotziasRAPVC18</key><ee>https://dl.acm.org/citation.cfm?id=3278568</ee><url>https://dblp.org/rec/conf/imc/KotziasRAPVC18</url></info>
+<url>URL#2286348</url>
+</hit>
+<hit score="1" id="2286349">
+<info><authors><author pid="00/3175">Tobias Lauinger</author><author pid="159/9706">Ahmet Salih Buyukkayhan</author><author pid="02/8037">Abdelberi Chaabane</author><author pid="r/WilliamKRobertson">William K. Robertson</author><author pid="k/EnginKirda">Engin Kirda</author></authors><title>From Deletion to Re-Registration in Zero Seconds: Domain Registrar Behaviour During the Drop.</title><venue>Internet Measurement Conference</venue><pages>322-328</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LauingerBCRK18</key><ee>https://dl.acm.org/citation.cfm?id=3278560</ee><url>https://dblp.org/rec/conf/imc/LauingerBCRK18</url></info>
+<url>URL#2286349</url>
+</hit>
+<hit score="1" id="2286350">
+<info><authors><author pid="149/3951-1">Zhijing Li 0001</author><author pid="76/5778">Zihui Ge</author><author pid="79/5958">Ajay Mahimkar</author><author pid="58/6299-1">Jia Wang 0001</author><author pid="z/BenYZhao">Ben Y. Zhao</author><author pid="43/4261">Haitao Zheng 0001</author><author pid="17/8397">Joanne Emmons</author><author pid="229/1146">Laura Ogden</author></authors><title>Predictive Analysis in Network Function Virtualization.</title><venue>Internet Measurement Conference</venue><pages>161-167</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/LiGMWZZEO18</key><ee>https://dl.acm.org/citation.cfm?id=3278547</ee><url>https://dblp.org/rec/conf/imc/LiGMWZZEO18</url></info>
+<url>URL#2286350</url>
+</hit>
+<hit score="1" id="2286351">
+<info><authors><author pid="207/6571">Akshaya Mani</author><author pid="227/2495">T. Wilson-Brown</author><author pid="14/7561">Rob Jansen</author><author pid="24/3059-1">Aaron Johnson 0001</author><author pid="57/3752">Micah Sherr</author></authors><title>Understanding Tor Usage with Privacy-Preserving Measurement.</title><venue>Internet Measurement Conference</venue><pages>175-187</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ManiWJJS18</key><ee>https://dl.acm.org/citation.cfm?id=3278549</ee><url>https://dblp.org/rec/conf/imc/ManiWJJS18</url></info>
+<url>URL#2286351</url>
+</hit>
+<hit score="1" id="2286352">
+<info><authors><author pid="189/5385">Alexander Marder</author><author pid="12/4563">Matthew J. Luckie</author><author pid="24/3998">Amogh Dhamdhere</author><author pid="11/3626">Bradley Huffaker</author><author pid="68/4966">kc claffy</author><author pid="s/JonathanMSmith">Jonathan M. Smith</author></authors><title>Pushing the Boundaries with bdrmapIT: Mapping Router Ownership at Internet Scale.</title><venue>Internet Measurement Conference</venue><pages>56-69</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MarderLDHcS18</key><ee>https://dl.acm.org/citation.cfm?id=3278538</ee><url>https://dblp.org/rec/conf/imc/MarderLDHcS18</url></info>
+<url>URL#2286352</url>
+</hit>
+<hit score="1" id="2286353">
+<info><authors><author pid="205/2107">Allison McDonald</author><author pid="189/5540">Matthew Bernhard</author><author pid="166/6979">Luke Valenta</author><author pid="149/3918">Benjamin VanderSloot</author><author pid="121/4072">Will Scott</author><author pid="172/5512">Nick Sullivan</author><author pid="h/JAlexHalderman">J. Alex Halderman</author><author pid="24/973">Roya Ensafi</author></authors><title>403 Forbidden: A Global View of CDN Geoblocking.</title><venue>Internet Measurement Conference</venue><pages>218-230</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/McDonaldBVVSSHE18</key><ee>https://dl.acm.org/citation.cfm?id=3278552</ee><url>https://dblp.org/rec/conf/imc/McDonaldBVVSSHE18</url></info>
+<url>URL#2286353</url>
+</hit>
+<hit score="1" id="2286354">
+<info><authors><author pid="25/1821">Justin Meza</author><author pid="90/7566">Tianyin Xu</author><author pid="52/1896">Kaushik Veeraraghavan</author><author pid="m/OnurMutlu">Onur Mutlu</author></authors><title>A Large Scale Study of Data Center Network Reliability.</title><venue>Internet Measurement Conference</venue><pages>393-407</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MezaXVM18</key><ee>https://dl.acm.org/citation.cfm?id=3278566</ee><url>https://dblp.org/rec/conf/imc/MezaXVM18</url></info>
+<url>URL#2286354</url>
+</hit>
+<hit score="1" id="2286355">
+<info><authors><author pid="76/5048">Giovane C. M. Moura</author><author pid="h/JohnSHeidemann">John S. Heidemann</author><author pid="12/303">Moritz Müller</author><author pid="78/3819">Ricardo de Oliveira Schmidt</author><author pid="181/3630">Marco Davids</author></authors><title>When the Dike Breaks: Dissecting DNS Defenses During DDoS.</title><venue>Internet Measurement Conference</venue><pages>8-21</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/MouraHMSD18</key><ee>https://dl.acm.org/citation.cfm?id=3278534</ee><url>https://dblp.org/rec/conf/imc/MouraHMSD18</url></info>
+<url>URL#2286355</url>
+</hit>
+<hit score="1" id="2286356">
+<info><authors><author pid="05/10042">George Nomikos</author><author pid="121/4181">Vasileios Kotronis</author><author pid="128/5106">Pavlos Sermpezis</author><author pid="159/4596">Petros Gigis</author><author pid="207/7785">Lefteris Manassakis</author><author pid="177/6606">Christoph Dietzel</author><author pid="229/1145">Stavros Konstantaras</author><author pid="88/3080">Xenofontas A. Dimitropoulos</author><author pid="87/7704">Vasileios Giotsas</author></authors><title>O Peer, Where Art Thou?: Uncovering Remote Peering Interconnections at IXPs.</title><venue>Internet Measurement Conference</venue><pages>265-278</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/NomikosKSGMDKDG18</key><ee>https://dl.acm.org/citation.cfm?id=3278556</ee><url>https://dblp.org/rec/conf/imc/NomikosKSGMDKDG18</url></info>
+<url>URL#2286356</url>
+</hit>
+<hit score="1" id="2286357">
+<info><authors><author pid="01/7272">Philipp Richter</author><author pid="34/10957">Ramakrishna Padmanabhan</author><author pid="s/NeilTSpring">Neil Spring</author><author pid="46/4345">Arthur W. Berger</author><author pid="40/4629">David Clark</author></authors><title>Advancing the Art of Internet Edge Outage Detection.</title><venue>Internet Measurement Conference</venue><pages>350-363</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RichterPSBC18</key><ee>https://dl.acm.org/citation.cfm?id=3278563</ee><url>https://dblp.org/rec/conf/imc/RichterPSBC18</url></info>
+<url>URL#2286357</url>
+</hit>
+<hit score="1" id="2286358">
+<info><authors><author pid="42/9448">Arjun Roy</author><author pid="69/2945">Deepak Bansal</author><author pid="40/2434">David Brumley</author><author pid="217/3868">Harish Kumar Chandrappa</author><author pid="229/1148">Parag Sharma</author><author pid="229/1144">Rishabh Tewari</author><author pid="126/1063">Behnaz Arzani</author><author pid="s/AlexCSnoeren">Alex C. Snoeren</author></authors><title>Cloud Datacenter SDN Monitoring: Experiences and Challenges.</title><venue>Internet Measurement Conference</venue><pages>464-470</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RoyBBCSTAS18</key><ee>https://dl.acm.org/citation.cfm?id=3278572</ee><url>https://dblp.org/rec/conf/imc/RoyBBCSTAS18</url></info>
+<url>URL#2286358</url>
+</hit>
+<hit score="1" id="2286359">
+<info><authors><author pid="143/4759">Jan Rüth</author><author pid="91/1881">Torsten Zimmermann</author><author pid="215/5849">Konrad Wolsing</author><author pid="75/6403">Oliver Hohlfeld</author></authors><title>Digging into Browser-based Crypto Mining.</title><venue>Internet Measurement Conference</venue><pages>70-76</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/RuthZWH18</key><ee>https://dl.acm.org/citation.cfm?id=3278539</ee><url>https://dblp.org/rec/conf/imc/RuthZWH18</url></info>
+<url>URL#2286359</url>
+</hit>
+<hit score="1" id="2286360">
+<info><authors><author pid="151/8748">Armin Sarabi</author><author pid="97/5725">Mingyan Liu</author></authors><title>Characterizing the Internet Host Population Using Deep Learning: A Universal and Lightweight Numerical Embedding.</title><venue>Internet Measurement Conference</venue><pages>133-146</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SarabiL18</key><ee>https://dl.acm.org/citation.cfm?id=3278545</ee><url>https://dblp.org/rec/conf/imc/SarabiL18</url></info>
+<url>URL#2286360</url>
+</hit>
+<hit score="1" id="2286361">
+<info><authors><author pid="175/1318">Quirin Scheitle</author><author pid="147/1125">Oliver Gasser</author><author pid="117/4280">Theodor Nolte</author><author pid="150/8002">Johanna Amann</author><author pid="208/4302">Lexi Brent</author><author pid="c/GeorgCarle">Georg Carle</author><author pid="42/1058">Ralph Holz</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem.</title><venue>Internet Measurement Conference</venue><pages>343-349</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ScheitleGNABCHS18</key><ee>https://dl.acm.org/citation.cfm?id=3278562</ee><url>https://dblp.org/rec/conf/imc/ScheitleGNABCHS18</url></info>
+<url>URL#2286361</url>
+</hit>
+<hit score="1" id="2286362">
+<info><authors><author pid="175/1318">Quirin Scheitle</author><author pid="75/6403">Oliver Hohlfeld</author><author pid="220/5536">Julien Gamba</author><author pid="215/3927">Jonas Jelten</author><author pid="91/1881">Torsten Zimmermann</author><author pid="77/10700">Stephen D. Strowes</author><author pid="50/7563">Narseo Vallina-Rodriguez</author></authors><title>A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists.</title><venue>Internet Measurement Conference</venue><pages>478-493</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ScheitleHGJZSV18</key><ee>https://dl.acm.org/citation.cfm?id=3278574</ee><url>https://dblp.org/rec/conf/imc/ScheitleHGJZSV18</url></info>
+<url>URL#2286362</url>
+</hit>
+<hit score="1" id="2286363">
+<info><authors><author pid="180/5453">Rachee Singh</author><author pid="224/9068">Arun Dunna</author><author pid="52/2893">Phillipa Gill</author></authors><title>Characterizing the Deployment and Performance of Multi-CDNs.</title><venue>Internet Measurement Conference</venue><pages>168-174</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/SinghDG18</key><ee>https://dl.acm.org/citation.cfm?id=3278548</ee><url>https://dblp.org/rec/conf/imc/SinghDG18</url></info>
+<url>URL#2286363</url>
+</hit>
+<hit score="1" id="2286364">
+<info><authors><author pid="143/5685">Florian Streibelt</author><author pid="188/5868">Franziska Lichtblau</author><author pid="12/1817">Robert Beverly</author><author pid="f/AnjaFeldmann">Anja Feldmann</author><author pid="72/952">Cristel Pelsser</author><author pid="88/6355">Georgios Smaragdakis</author><author pid="81/5952">Randy Bush</author></authors><title>BGP Communities: Even more Worms in the Routing Can.</title><venue>Internet Measurement Conference</venue><pages>279-292</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/StreibeltLBFPSB18</key><ee>https://dl.acm.org/citation.cfm?id=3278557</ee><url>https://dblp.org/rec/conf/imc/StreibeltLBFPSB18</url></info>
+<url>URL#2286364</url>
+</hit>
+<hit score="1" id="2286365">
+<info><authors><author pid="71/6037">Ke Tian</author><author pid="175/5282">Steve T. K. Jan</author><author pid="125/3714-2">Hang Hu 0002</author><author pid="y/DanfengYao">Danfeng Yao</author><author pid="71/4292-11">Gang Wang 0011</author></authors><title>Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild.</title><venue>Internet Measurement Conference</venue><pages>429-442</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/TianJ0Y018</key><ee>https://dl.acm.org/citation.cfm?id=3278569</ee><url>https://dblp.org/rec/conf/imc/TianJ0Y018</url></info>
+<url>URL#2286365</url>
+</hit>
+<hit score="1" id="2286366">
+<info><authors><author pid="205/8958">Piet De Vaere</author><author pid="190/1424">Tobias Bühler</author><author pid="50/8423">Mirja Kühlewind</author><author pid="56/5974">Brian Trammell</author></authors><title>Three Bits Suffice: Explicit Support for Passive Measurement of Internet Latency in QUIC and TCP.</title><venue>Internet Measurement Conference</venue><pages>22-28</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VaereBKT18</key><ee>https://dl.acm.org/citation.cfm?id=3278535</ee><url>https://dblp.org/rec/conf/imc/VaereBKT18</url></info>
+<url>URL#2286366</url>
+</hit>
+<hit score="1" id="2286367">
+<info><authors><author pid="227/2781">Kevin Vermeulen</author><author pid="77/10700">Stephen D. Strowes</author><author pid="54/5967">Olivier Fourmaux</author><author pid="62/609">Timur Friedman</author></authors><title>Multilevel MDA-Lite Paris Traceroute.</title><venue>Internet Measurement Conference</venue><pages>29-42</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/VermeulenSFF18</key><ee>https://dl.acm.org/citation.cfm?id=3278536</ee><url>https://dblp.org/rec/conf/imc/VermeulenSFF18</url></info>
+<url>URL#2286367</url>
+</hit>
+<hit score="1" id="2286368">
+<info><authors><author pid="50/8499-1">Haoyu Wang 0001</author><author pid="70/1220">Zhe Liu</author><author pid="228/7926">Jingyue Liang</author><author pid="50/7563">Narseo Vallina-Rodriguez</author><author pid="07/6300-1">Yao Guo 0001</author><author pid="53/2189-29">Li Li 0029</author><author pid="98/3527">Juan Tapiador</author><author pid="228/7777">Jingcun Cao</author><author pid="76/10013">Guoai Xu</author></authors><title>Beyond Google Play: A Large-Scale Comparative Study of Chinese Android App Markets.</title><venue>Internet Measurement Conference</venue><pages>293-307</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/WangLLV0LTCX18</key><ee>https://dl.acm.org/citation.cfm?id=3278558</ee><url>https://dblp.org/rec/conf/imc/WangLLV0LTCX18</url></info>
+<url>URL#2286368</url>
+</hit>
+<hit score="1" id="2286369">
+<info><authors><author pid="58/10074">Zachary Weinberg</author><author pid="157/1128">Shinyoung Cho</author><author pid="c/NicolasChristin">Nicolas Christin</author><author pid="45/4044">Vyas Sekar</author><author pid="52/2893">Phillipa Gill</author></authors><title>How to Catch when Proxies Lie: Verifying the Physical Locations of Network Proxies with Active Geolocation.</title><venue>Internet Measurement Conference</venue><pages>203-217</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/WeinbergCCSG18</key><ee>https://dl.acm.org/citation.cfm?id=3278551</ee><url>https://dblp.org/rec/conf/imc/WeinbergCCSG18</url></info>
+<url>URL#2286369</url>
+</hit>
+<hit score="1" id="2286370">
+<info><authors><author pid="225/4590">Tarun Kumar Yadav</author><author pid="192/2771">Akshat Sinha</author><author pid="207/8090">Devashish Gosain</author><author pid="177/1859">Piyush Kumar Sharma</author><author pid="95/1983">Sambuddho Chakravarty</author></authors><title>Where The Light Gets In: Analyzing Web Censorship Mechanisms in India.</title><venue>Internet Measurement Conference</venue><pages>252-264</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/YadavSGSC18</key><ee>https://dl.acm.org/citation.cfm?id=3278555</ee><url>https://dblp.org/rec/conf/imc/YadavSGSC18</url></info>
+<url>URL#2286370</url>
+</hit>
+<hit score="1" id="2286371">
+<info><authors><author pid="184/5969">Savvas Zannettou</author><author pid="146/6116">Tristan Caulfield</author><author pid="12/8780">Jeremy Blackburn</author><author pid="36/6225">Emiliano De Cristofaro</author><author pid="92/5463">Michael Sirivianos</author><author pid="86/8823">Gianluca Stringhini</author><author pid="56/9730">Guillermo Suarez-Tangil</author></authors><title>On the Origins of Memes by Means of Fringe Web Communities.</title><venue>Internet Measurement Conference</venue><pages>188-202</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZannettouCBCSSS18</key><ee>https://dl.acm.org/citation.cfm?id=3278550</ee><url>https://dblp.org/rec/conf/imc/ZannettouCBCSSS18</url></info>
+<url>URL#2286371</url>
+</hit>
+<hit score="1" id="2286372">
+<info><authors><author pid="85/20">Liang Zhu</author><author pid="h/JohnSHeidemann">John S. Heidemann</author></authors><title>LDplayer: DNS Experimentation at Scale.</title><venue>Internet Measurement Conference</venue><pages>119-132</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/imc/ZhuH18</key><ee>https://dl.acm.org/citation.cfm?id=3278544</ee><url>https://dblp.org/rec/conf/imc/ZhuH18</url></info>
+<url>URL#2286372</url>
+</hit>
+<hit score="1" id="2358643">
+<info><title>Proceedings of the Internet Measurement Conference 2018, IMC 2018, Boston, MA, USA, October 31 - November 02, 2018</title><venue>Internet Measurement Conference</venue><publisher>ACM</publisher><year>2018</year><type>Editorship</type><key>conf/imc/2018</key><ee>http://dl.acm.org/citation.cfm?id=3278532</ee><url>https://dblp.org/rec/conf/imc/2018</url></info>
+<url>URL#2358643</url>
+</hit>
+</hits>
+</result>

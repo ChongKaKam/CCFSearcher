@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59597">:facetid:toc:\"db/conf/mobihoc/mobihoc2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">182.54</time>
+<completions total="1" computed="1" sent="1">
+<c sc="46" dc="46" oc="46" id="41055886">:facetid:toc:db/conf/mobihoc/mobihoc2020.bht</c>
+</completions>
+<hits total="46" computed="46" sent="46" first="0">
+<hit score="1" id="1500000">
+<info><authors><author pid="90/10805">Jorge Baranda</author><author pid="24/5256">Josep Mangues-Bafalluy</author><author pid="79/8853">Luca Vettori</author><author pid="32/5452-1">Ricardo Martínez 0001</author></authors><title>Scaling composite NFV-network services.</title><venue>MobiHoc</venue><pages>307-308</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/BarandaMVM20</key><doi>10.1145/3397166.3415277</doi><ee>https://doi.org/10.1145/3397166.3415277</ee><url>https://dblp.org/rec/conf/mobihoc/BarandaMVM20</url></info>
+<url>URL#1500000</url>
+</hit>
+<hit score="1" id="1500001">
+<info><authors><author pid="57/697">Alessandro Bazzi</author><author pid="25/642">Claudia Campolo</author><author pid="20/4502">Barbara M. Masini</author><author pid="11/4677">Antonella Molinaro</author></authors><title>How to deal with data hungry V2X applications?</title><venue>MobiHoc</venue><pages>333-338</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/BazziCMM20</key><doi>10.1145/3397166.3413465</doi><ee>https://doi.org/10.1145/3397166.3413465</ee><url>https://dblp.org/rec/conf/mobihoc/BazziCMM20</url></info>
+<url>URL#1500001</url>
+</hit>
+<hit score="1" id="1500002">
+<info><authors><author pid="133/3897">Ahmed M. Bedewy</author><author pid="07/863">Yin Sun</author><author pid="74/5590-1">Rahul Singh 0001</author><author pid="67/1991">Ness B. Shroff</author></authors><title>Optimizing information freshness using low-power status updates via sleep-wake scheduling.</title><venue>MobiHoc</venue><pages>51-60</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/BedewySSS20</key><doi>10.1145/3397166.3409125</doi><ee>https://doi.org/10.1145/3397166.3409125</ee><url>https://dblp.org/rec/conf/mobihoc/BedewySSS20</url></info>
+<url>URL#1500002</url>
+</hit>
+<hit score="1" id="1500003">
+<info><authors><author pid="252/1425">Andrea Coletta</author><author pid="79/5259">Gaia Maselli</author><author pid="186/4398">Mauro Piva</author><author pid="249/3632">Domenicomichele Silvestri</author></authors><title>DANGER: a drones aided network for guiding emergency and rescue operations.</title><venue>MobiHoc</venue><pages>303-304</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ColettaMPS20</key><doi>10.1145/3397166.3415276</doi><ee>https://doi.org/10.1145/3397166.3415276</ee><url>https://dblp.org/rec/conf/mobihoc/ColettaMPS20</url></info>
+<url>URL#1500003</url>
+</hit>
+<hit score="1" id="1500004">
+<info><authors><author pid="133/4761">Salvatore D&apos;Oro</author><author pid="202/9921">Leonardo Bonati</author><author pid="119/9062">Francesco Restuccia</author><author pid="175/1389">Michele Polese</author><author pid="14/2991">Michele Zorzi</author><author pid="05/1629">Tommaso Melodia</author></authors><title>Sl-edge: network slicing at the edge.</title><venue>MobiHoc</venue><pages>1-10</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/DOroBRPZM20</key><doi>10.1145/3397166.3409133</doi><ee>https://doi.org/10.1145/3397166.3409133</ee><url>https://dblp.org/rec/conf/mobihoc/DOroBRPZM20</url></info>
+<url>URL#1500004</url>
+</hit>
+<hit score="1" id="1500005">
+<info><authors><author pid="41/3043">Aditya Dhananjay</author><author pid="209/6316">Kai Zheng</author><author pid="44/8332">Marco Mezzavilla</author><author pid="s/DennisShasha">Dennis E. Shasha</author><author pid="36/6881">Sundeep Rangan</author></authors><title>Fully-digital beamforming demonstration with Pi-Radio mmWave SDR platform.</title><venue>MobiHoc</venue><pages>301-302</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/DhananjayZMSR20</key><doi>10.1145/3397166.3415275</doi><ee>https://doi.org/10.1145/3397166.3415275</ee><url>https://dblp.org/rec/conf/mobihoc/DhananjayZMSR20</url></info>
+<url>URL#1500005</url>
+</hit>
+<hit score="1" id="1500006">
+<info><authors><author pid="150/5692">Sherif ElAzzouni</author><author pid="84/3254-8">Fei Wu 0008</author><author pid="67/1991">Ness B. Shroff</author><author pid="13/4992">Eylem Ekici</author></authors><title>Predictive caching at the wireless edge using near-zero caches.</title><venue>MobiHoc</venue><pages>121-130</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ElAzzouniWSE20</key><doi>10.1145/3397166.3409126</doi><ee>https://doi.org/10.1145/3397166.3409126</ee><url>https://dblp.org/rec/conf/mobihoc/ElAzzouniWSE20</url></info>
+<url>URL#1500006</url>
+</hit>
+<hit score="1" id="1500007">
+<info><authors><author pid="137/8382">Zana Limani Fazliu</author><author pid="c/CFChiasserini">Carla-Fabiana Chiasserini</author><author pid="67/7179">Francesco Malandrino</author><author pid="48/3930">Alessandro Nordio</author></authors><title>Graph-based model for beam management in Mmwave vehicular networks.</title><venue>MobiHoc</venue><pages>363-367</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/FazliuCMN20</key><doi>10.1145/3397166.3413469</doi><ee>https://doi.org/10.1145/3397166.3413469</ee><url>https://dblp.org/rec/conf/mobihoc/FazliuCMN20</url></info>
+<url>URL#1500007</url>
+</hit>
+<hit score="1" id="1500008">
+<info><authors><author pid="195/8104">Shuqin Gao</author><author pid="35/5376">Costas Courcoubetis</author><author pid="65/7661">Lingjie Duan</author></authors><title>Distributed double auctions for large-scale device-to-device resource trading.</title><venue>MobiHoc</venue><pages>281-290</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/GaoCD20</key><doi>10.1145/3397166.3409145</doi><ee>https://doi.org/10.1145/3397166.3409145</ee><url>https://dblp.org/rec/conf/mobihoc/GaoCD20</url></info>
+<url>URL#1500008</url>
+</hit>
+<hit score="1" id="1500009">
+<info><authors><author pid="28/10607">Linqing Gui</author><author pid="91/8079-1">Fu Xiao 0001</author><author pid="07/4580">Yang Zhou</author><author pid="29/1639-2">Feng Shu 0002</author><author pid="90/3575-1">Shui Yu 0001</author></authors><title>Performance analysis of indoor localization based on channel state information ranging model.</title><venue>MobiHoc</venue><pages>191-200</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/GuiXZ0Y20</key><doi>10.1145/3397166.3409150</doi><ee>https://doi.org/10.1145/3397166.3409150</ee><url>https://dblp.org/rec/conf/mobihoc/GuiXZ0Y20</url></info>
+<url>URL#1500009</url>
+</hit>
+<hit score="1" id="1500010">
+<info><authors><author pid="276/3735">Alperen Gündogan</author><author pid="183/0010">H. Murat Gürsu</author><author pid="63/5750">Volker Pauli</author><author pid="32/3203">Wolfgang Kellerer</author></authors><title>Distributed resource allocation with multi-agent deep reinforcement learning for 5G-V2V communication.</title><venue>MobiHoc</venue><pages>357-362</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/GundoganGPK20</key><doi>10.1145/3397166.3413468</doi><ee>https://doi.org/10.1145/3397166.3413468</ee><url>https://dblp.org/rec/conf/mobihoc/GundoganGPK20</url></info>
+<url>URL#1500010</url>
+</hit>
+<hit score="1" id="1500011">
+<info><authors><author pid="244/4345">Vikas Hassija</author><author pid="266/7359">Vatsal Gupta</author><author pid="158/4648">Vinay Chamola</author><author pid="42/840">Salil S. Kanhare</author></authors><title>A blockchain-based framework for energy trading between solar powered base stations and grid.</title><venue>MobiHoc</venue><pages>315-320</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/HassijaGCK20</key><doi>10.1145/3397166.3412800</doi><ee>https://doi.org/10.1145/3397166.3412800</ee><url>https://dblp.org/rec/conf/mobihoc/HassijaGCK20</url></info>
+<url>URL#1500011</url>
+</hit>
+<hit score="1" id="1500012">
+<info><authors><author pid="163/7352">Ping-Chun Hsieh</author><author pid="81/7010-11">Xi Liu 0011</author><author pid="21/1392">I-Hong Hou</author></authors><title>Fresher content or smoother playback?: a brownian-approximation framework for scheduling real-time wireless video streams.</title><venue>MobiHoc</venue><pages>41-50</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Hsieh0H20</key><doi>10.1145/3397166.3409121</doi><ee>https://doi.org/10.1145/3397166.3409121</ee><url>https://dblp.org/rec/conf/mobihoc/Hsieh0H20</url></info>
+<url>URL#1500012</url>
+</hit>
+<hit score="1" id="1500013">
+<info><authors><author pid="200/0639">Uzair Javaid</author><author pid="71/7910">Muhammad Naveed Aman</author><author pid="s/BiplabSikdar">Biplab Sikdar 0001</author></authors><title>Defining trust in IoT environments via distributed remote attestation using blockchain.</title><venue>MobiHoc</venue><pages>321-326</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/JavaidAS20</key><doi>10.1145/3397166.3412801</doi><ee>https://doi.org/10.1145/3397166.3412801</ee><url>https://dblp.org/rec/conf/mobihoc/JavaidAS20</url></info>
+<url>URL#1500013</url>
+</hit>
+<hit score="1" id="1500014">
+<info><authors><author pid="241/0280">Suhan Jiang</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>A game-theoretic approach to storage offloading in PoC-based mobile blockchain mining.</title><venue>MobiHoc</venue><pages>171-180</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Jiang020</key><doi>10.1145/3397166.3409136</doi><ee>https://doi.org/10.1145/3397166.3409136</ee><url>https://dblp.org/rec/conf/mobihoc/Jiang020</url></info>
+<url>URL#1500014</url>
+</hit>
+<hit score="1" id="1500015">
+<info><authors><author pid="276/3745">Navin V. Keizer</author><author pid="62/7401">Onur Ascigil</author><author pid="71/1406">Ioannis Psaras</author><author pid="p/GeorgePavlou">George Pavlou</author></authors><title>Rewarding relays for decentralised NAT traversal using smart contracts.</title><venue>MobiHoc</venue><pages>309-314</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/KeizerAPP20</key><doi>10.1145/3397166.3412799</doi><ee>https://doi.org/10.1145/3397166.3412799</ee><url>https://dblp.org/rec/conf/mobihoc/KeizerAPP20</url></info>
+<url>URL#1500015</url>
+</hit>
+<hit score="1" id="1500016">
+<info><authors><author pid="34/4957">Dilip Krishnaswamy</author></authors><title>Quantum blockchain networks.</title><venue>MobiHoc</venue><pages>327-332</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Krishnaswamy20</key><doi>10.1145/3397166.3412802</doi><ee>https://doi.org/10.1145/3397166.3412802</ee><url>https://dblp.org/rec/conf/mobihoc/Krishnaswamy20</url></info>
+<url>URL#1500016</url>
+</hit>
+<hit score="1" id="1500017">
+<info><authors><author pid="89/6764-14">Bin Li 0014</author><author pid="56/5751">Atilla Eryilmaz</author><author pid="s/RSrikant">R. Srikant 0001</author></authors><title>Emulating round-robin for serving dynamic flows over wireless fading channels.</title><venue>MobiHoc</venue><pages>231-240</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LiE020</key><doi>10.1145/3397166.3409131</doi><ee>https://doi.org/10.1145/3397166.3409131</ee><url>https://dblp.org/rec/conf/mobihoc/LiE020</url></info>
+<url>URL#1500017</url>
+</hit>
+<hit score="1" id="1500018">
+<info><authors><author pid="33/2805-5">Ang Li 0005</author><author pid="76/9989">Chunpeng Wu</author><author pid="80/1641">Yiran Chen 0001</author><author pid="88/686">Bin Ni</author></authors><title>MVStylizer: an efficient edge-assisted video photorealistic style transfer system for mobile phones.</title><venue>MobiHoc</venue><pages>31-40</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/LiWCN20</key><doi>10.1145/3397166.3409140</doi><ee>https://doi.org/10.1145/3397166.3409140</ee><url>https://dblp.org/rec/conf/mobihoc/LiWCN20</url></info>
+<url>URL#1500018</url>
+</hit>
+<hit score="1" id="1500019">
+<info><authors><author pid="70/3312">Richard T. B. Ma</author></authors><title>Internet transport economics: model and analysis.</title><venue>MobiHoc</venue><pages>291-300</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Ma20</key><doi>10.1145/3397166.3409137</doi><ee>https://doi.org/10.1145/3397166.3409137</ee><url>https://dblp.org/rec/conf/mobihoc/Ma20</url></info>
+<url>URL#1500019</url>
+</hit>
+<hit score="1" id="1500020">
+<info><authors><author pid="167/9245">Erfan Meskar</author><author pid="86/2829">Ben Liang 0001</author></authors><title>Fair multi-resource allocation in mobile edge computing with multiple access points.</title><venue>MobiHoc</venue><pages>11-20</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/MeskarL20</key><doi>10.1145/3397166.3409144</doi><ee>https://doi.org/10.1145/3397166.3409144</ee><url>https://dblp.org/rec/conf/mobihoc/MeskarL20</url></info>
+<url>URL#1500020</url>
+</hit>
+<hit score="1" id="1500021">
+<info><authors><author pid="276/3733">Benjie Miao</author><author pid="74/5587">Shuaiqi Wang</author><author pid="44/7207">Luoyi Fu</author><author pid="38/5957-1">Xiaojun Lin 0001</author></authors><title>De-anonymizability of social network: through the lens of symmetry.</title><venue>MobiHoc</venue><pages>71-80</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/MiaoWFL20</key><doi>10.1145/3397166.3409127</doi><ee>https://doi.org/10.1145/3397166.3409127</ee><url>https://dblp.org/rec/conf/mobihoc/MiaoWFL20</url></info>
+<url>URL#1500021</url>
+</hit>
+<hit score="1" id="1500022">
+<info><authors><author pid="270/6109">Johannes Mols</author><author pid="140/6565">Emmanouil Vasilomanolakis</author></authors><title>Visualizing the Bitcoin&apos;s OP_RETURN operator.</title><venue>MobiHoc</venue><pages>305-306</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/MolsV20</key><doi>10.1145/3397166.3415278</doi><ee>https://doi.org/10.1145/3397166.3415278</ee><url>https://dblp.org/rec/conf/mobihoc/MolsV20</url></info>
+<url>URL#1500022</url>
+</hit>
+<hit score="1" id="1500023">
+<info><authors><author pid="192/9996">Yanjun Pan</author><author pid="e/AlonEfrat">Alon Efrat</author><author pid="l/MingLi3">Ming Li 0003</author><author pid="05/11538">Boyang Wang</author><author pid="170/6791">Hanyu Quan</author><author pid="m/JosephSBMitchell">Joseph S. B. Mitchell</author><author pid="g/JieGao">Jie Gao 0001</author><author pid="46/5034">Esther M. Arkin</author></authors><title>Data inference from encrypted databases: a multi-dimensional order-preserving matching approach.</title><venue>MobiHoc</venue><pages>151-160</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/PanELWQM0A20</key><doi>10.1145/3397166.3409135</doi><ee>https://doi.org/10.1145/3397166.3409135</ee><url>https://dblp.org/rec/conf/mobihoc/PanELWQM0A20</url></info>
+<url>URL#1500023</url>
+</hit>
+<hit score="1" id="1500024">
+<info><authors><author pid="119/2595">Konstantinos Poularakis</author><author pid="88/6785">Jaime Llorca</author><author pid="03/4183">Antonia Maria Tulino</author><author pid="03/3843">Leandros Tassiulas</author></authors><title>Approximation algorithms for data-intensive service chain embedding.</title><venue>MobiHoc</venue><pages>131-140</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/PoularakisLTT20</key><doi>10.1145/3397166.3409149</doi><ee>https://doi.org/10.1145/3397166.3409149</ee><url>https://dblp.org/rec/conf/mobihoc/PoularakisLTT20</url></info>
+<url>URL#1500024</url>
+</hit>
+<hit score="1" id="1500025">
+<info><authors><author pid="61/11052">Adnan Quadri</author><author pid="241/9397">Hossein Pirayesh</author><author pid="156/7181">Pedram Kheirkhah Sangdeh</author><author pid="36/8208">Huacheng Zeng</author></authors><title>TCCI: taming co-channel interference for wireless lans.</title><venue>MobiHoc</venue><pages>251-260</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/QuadriPSZ20</key><doi>10.1145/3397166.3409138</doi><ee>https://doi.org/10.1145/3397166.3409138</ee><url>https://dblp.org/rec/conf/mobihoc/QuadriPSZ20</url></info>
+<url>URL#1500025</url>
+</hit>
+<hit score="1" id="1500026">
+<info><authors><author pid="119/9062">Francesco Restuccia</author><author pid="05/1629">Tommaso Melodia</author></authors><title>PolymoRF: polymorphic wireless receivers through physical-layer deep learning.</title><venue>MobiHoc</venue><pages>271-280</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/RestucciaM20</key><doi>10.1145/3397166.3409132</doi><ee>https://doi.org/10.1145/3397166.3409132</ee><url>https://dblp.org/rec/conf/mobihoc/RestucciaM20</url></info>
+<url>URL#1500026</url>
+</hit>
+<hit score="1" id="1500027">
+<info><authors><author pid="207/1794">Shamik Sarkar</author><author pid="263/9961">Aniqua Baset</author><author pid="164/8263">Harsimran Singh</author><author pid="03/498">Phillip Smith</author><author pid="45/3974">Neal Patwari</author><author pid="95/161">Sneha Kumar Kasera</author><author pid="207/1739">Kurt Derr</author><author pid="207/1774">Samuel Ramirez</author></authors><title>LLOCUS: learning-based localization using crowdsourcing.</title><venue>MobiHoc</venue><pages>201-210</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/SarkarBSSPKDR20</key><doi>10.1145/3397166.3409142</doi><ee>https://doi.org/10.1145/3397166.3409142</ee><url>https://dblp.org/rec/conf/mobihoc/SarkarBSSPKDR20</url></info>
+<url>URL#1500027</url>
+</hit>
+<hit score="1" id="1500028">
+<info><authors><author pid="129/1922">Luis Sequeira</author><author pid="33/3519">Toktam Mahmoodi</author></authors><title>The role of machine learning for trajectory prediction in cooperative driving.</title><venue>MobiHoc</venue><pages>368-373</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/SequeiraM20</key><doi>10.1145/3397166.3413470</doi><ee>https://doi.org/10.1145/3397166.3413470</ee><url>https://dblp.org/rec/conf/mobihoc/SequeiraM20</url></info>
+<url>URL#1500028</url>
+</hit>
+<hit score="1" id="1500029">
+<info><authors><author pid="183/6195">Benjamin Sliwa</author><author pid="270/8075">Rick Adam</author><author pid="85/3348">Christian Wietfeld</author></authors><title>Acting selfish for the good of all: contextual bandits for resource-efficient transmission of vehicular sensor data.</title><venue>MobiHoc</venue><pages>345-350</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/SliwaAW20</key><doi>10.1145/3397166.3413466</doi><ee>https://doi.org/10.1145/3397166.3413466</ee><url>https://dblp.org/rec/conf/mobihoc/SliwaAW20</url></info>
+<url>URL#1500029</url>
+</hit>
+<hit score="1" id="1500030">
+<info><authors><author pid="179/9878">Youngwook Son</author><author pid="242/2070">Kanghyun Lee</author><author pid="00/1314">Seongwon Kim</author><author pid="276/3783">Jinmyeong Lee</author><author pid="c/SunghyunChoi">Sunghyun Choi 0001</author><author pid="72/5261">Saewoong Bahk</author></authors><title>REFRAIN: promoting valid transmission in high-density modern wi-fi networks.</title><venue>MobiHoc</venue><pages>221-230</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/SonLKLCB20</key><doi>10.1145/3397166.3409124</doi><ee>https://doi.org/10.1145/3397166.3409124</ee><url>https://dblp.org/rec/conf/mobihoc/SonLKLCB20</url></info>
+<url>URL#1500030</url>
+</hit>
+<hit score="1" id="1500031">
+<info><authors><author pid="68/3428">Shaojie Tang</author><author pid="17/5765-2">Jing Yuan 0002</author><author pid="72/4230">Vijay S. Mookerjee</author></authors><title>Optimizing ad allocation in mobile advertising.</title><venue>MobiHoc</venue><pages>181-190</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/Tang0M20</key><doi>10.1145/3397166.3409139</doi><ee>https://doi.org/10.1145/3397166.3409139</ee><url>https://dblp.org/rec/conf/mobihoc/Tang0M20</url></info>
+<url>URL#1500031</url>
+</hit>
+<hit score="1" id="1500032">
+<info><authors><author pid="205/9695">Waqas Tariq Toor</author><author pid="66/479">Jun-Bae Seo</author><author pid="47/1138">Hu Jin</author></authors><title>Online control of random access with splitting.</title><venue>MobiHoc</venue><pages>61-70</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ToorSJ20</key><doi>10.1145/3397166.3409148</doi><ee>https://doi.org/10.1145/3397166.3409148</ee><url>https://dblp.org/rec/conf/mobihoc/ToorSJ20</url></info>
+<url>URL#1500032</url>
+</hit>
+<hit score="1" id="1500033">
+<info><authors><author pid="132/7987">Seyhan Ucar</author><author pid="36/9583">Takamasa Higuchi</author><author pid="87/10698">Chang-Heng Wang</author><author pid="266/3111">Duncan Deveaux</author><author pid="40/1062">Jérôme Härri</author><author pid="97/194">Onur Altintas</author></authors><title>Vehicular knowledge networking and application to risk reasoning.</title><venue>MobiHoc</venue><pages>351-356</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/UcarHWDHA20</key><doi>10.1145/3397166.3413467</doi><ee>https://doi.org/10.1145/3397166.3413467</ee><url>https://dblp.org/rec/conf/mobihoc/UcarHWDHA20</url></info>
+<url>URL#1500033</url>
+</hit>
+<hit score="1" id="1500034">
+<info><authors><author pid="31/5772-1">Zhibo Wang 0001</author><author pid="240/6484">Hengchang Guo</author><author pid="66/9500">Zhifei Zhang</author><author pid="223/6270">Mengkai Song</author><author pid="247/9478">Siyan Zheng</author><author pid="75/5723-2">Qian Wang 0002</author><author pid="90/4149-1">Ben Niu 0001</author></authors><title>Towards compression-resistant privacy-preserving photo sharing on social networks.</title><venue>MobiHoc</venue><pages>81-90</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/WangGZSZWN20</key><doi>10.1145/3397166.3409141</doi><ee>https://doi.org/10.1145/3397166.3409141</ee><url>https://dblp.org/rec/conf/mobihoc/WangGZSZWN20</url></info>
+<url>URL#1500034</url>
+</hit>
+<hit score="1" id="1500035">
+<info><authors><author pid="88/10359">Fuxi Wen</author><author pid="68/2707">Tommy Svensson</author></authors><title>Tensor completion-based 5G positioning with partial channel measurements.</title><venue>MobiHoc</venue><pages>339-344</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/WenS20</key><doi>10.1145/3397166.3413464</doi><ee>https://doi.org/10.1145/3397166.3413464</ee><url>https://dblp.org/rec/conf/mobihoc/WenS20</url></info>
+<url>URL#1500035</url>
+</hit>
+<hit score="1" id="1500036">
+<info><authors><author pid="206/9091">Jiin Woo</author><author pid="117/3448">Jungseul Ok</author><author pid="01/66">Yung Yi</author></authors><title>Iterative learning of graph connectivity from partially-observed cascade samples.</title><venue>MobiHoc</venue><pages>141-150</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/WooOY20</key><doi>10.1145/3397166.3409130</doi><ee>https://doi.org/10.1145/3397166.3409130</ee><url>https://dblp.org/rec/conf/mobihoc/WooOY20</url></info>
+<url>URL#1500036</url>
+</hit>
+<hit score="1" id="1500037">
+<info><authors><author pid="121/0376">Haoran Yu</author><author pid="15/9188">Ermin Wei</author><author pid="b/RandallBerry">Randall A. Berry</author></authors><title>Learning to price vehicle service with unknown demand.</title><venue>MobiHoc</venue><pages>161-170</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/YuWB20</key><doi>10.1145/3397166.3409129</doi><ee>https://doi.org/10.1145/3397166.3409129</ee><url>https://dblp.org/rec/conf/mobihoc/YuWB20</url></info>
+<url>URL#1500037</url>
+</hit>
+<hit score="1" id="1500038">
+<info><authors><author pid="123/0475">Ruozhou Yu</author><author pid="64/4394">Guoliang Xue</author><author pid="224/0803">Yinxin Wan</author><author pid="181/2667-8">Jian Tang 0008</author><author pid="81/7890">Dejun Yang</author><author pid="53/4376">Yusheng Ji</author></authors><title>Robust resource provisioning in time-varying edge networks.</title><venue>MobiHoc</venue><pages>21-30</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/YuXW0YJ20</key><doi>10.1145/3397166.3409146</doi><ee>https://doi.org/10.1145/3397166.3409146</ee><url>https://dblp.org/rec/conf/mobihoc/YuXW0YJ20</url></info>
+<url>URL#1500038</url>
+</hit>
+<hit score="1" id="1500039">
+<info><authors><author pid="76/1584-54">Xin Zhang 0054</author><author pid="157/0863">Minghong Fang</author><author pid="49/1245-2">Jia Liu 0002</author><author pid="68/151">Zhengyuan Zhu</author></authors><title>Private and communication-efficient edge learning: a sparse differential gaussian-masking distributed SGD approach.</title><venue>MobiHoc</venue><pages>261-270</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhangF0Z20</key><doi>10.1145/3397166.3409123</doi><ee>https://doi.org/10.1145/3397166.3409123</ee><url>https://dblp.org/rec/conf/mobihoc/ZhangF0Z20</url></info>
+<url>URL#1500039</url>
+</hit>
+<hit score="1" id="1500040">
+<info><authors><author pid="94/689">Shigeng Zhang</author><author pid="13/5407-1">Xuan Liu 0001</author><author pid="01/267-1">Song Guo 0001</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author><author pid="75/2669-1">Jianxin Wang 0001</author></authors><title>Why queue up?: fast parallel search of RFID tags for multiple users.</title><venue>MobiHoc</venue><pages>211-220</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhangL0Z020</key><doi>10.1145/3397166.3409143</doi><ee>https://doi.org/10.1145/3397166.3409143</ee><url>https://dblp.org/rec/conf/mobihoc/ZhangL0Z020</url></info>
+<url>URL#1500040</url>
+</hit>
+<hit score="1" id="1500041">
+<info><authors><author pid="04/6901-13">Meng Zhang 0013</author><author pid="129/1650">Brian Swenson</author><author pid="77/623-1">Jianwei Huang 0001</author><author pid="p/HVincentPoor">H. Vincent Poor</author></authors><title>Truthful mobile crowd sensing with interdependent valuations.</title><venue>MobiHoc</venue><pages>91-100</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhangSHP20</key><doi>10.1145/3397166.3409147</doi><ee>https://doi.org/10.1145/3397166.3409147</ee><url>https://dblp.org/rec/conf/mobihoc/ZhangSHP20</url></info>
+<url>URL#1500041</url>
+</hit>
+<hit score="1" id="1500042">
+<info><authors><author pid="91/195-43">Chi Zhang 0043</author><author pid="02/3687">Haisheng Tan</author><author pid="243/3818">Haoqiang Huang</author><author pid="147/1606">Zhenhua Han</author><author pid="157/6062">Shaofeng H.-C. Jiang</author><author pid="92/7140">Nikolaos M. Freris</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Online dispatching and scheduling of jobs with heterogeneous utilities in edge computing.</title><venue>MobiHoc</venue><pages>101-110</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhangTHHJF020</key><doi>10.1145/3397166.3409122</doi><ee>https://doi.org/10.1145/3397166.3409122</ee><url>https://dblp.org/rec/conf/mobihoc/ZhangTHHJF020</url></info>
+<url>URL#1500042</url>
+</hit>
+<hit score="1" id="1500043">
+<info><authors><author pid="45/47">Qin Zhang</author><author pid="41/10471">Ruiting Zhou</author><author pid="34/3772-1">Chuan Wu 0001</author><author pid="47/91-2">Lei Jiao 0002</author><author pid="24/1320">Zongpeng Li</author></authors><title>Online scheduling of heterogeneous distributed machine learning jobs.</title><venue>MobiHoc</venue><pages>111-120</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhangZWJL20</key><doi>10.1145/3397166.3409128</doi><ee>https://doi.org/10.1145/3397166.3409128</ee><url>https://dblp.org/rec/conf/mobihoc/ZhangZWJL20</url></info>
+<url>URL#1500043</url>
+</hit>
+<hit score="1" id="1500044">
+<info><authors><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="27/6461">Dan Xia</author><author pid="188/8787">Xiuzhen Guo</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="11/1735-4">Yuan He 0004</author><author pid="04/6217">Huadong Ma</author></authors><title>Portal: transparent cross-technology opportunistic forwarding for low-power wireless networks.</title><venue>MobiHoc</venue><pages>241-250</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/mobihoc/ZhengXGLHM20</key><doi>10.1145/3397166.3409134</doi><ee>https://doi.org/10.1145/3397166.3409134</ee><url>https://dblp.org/rec/conf/mobihoc/ZhengXGLHM20</url></info>
+<url>URL#1500044</url>
+</hit>
+<hit score="1" id="1540692">
+<info><authors><author pid="05/1629">Tommaso Melodia</author><author pid="13/4992">Eylem Ekici</author><author pid="212/0260">Alhussein Abouzeid</author><author pid="12/4395">Minghua Chen</author></authors><title>Mobihoc &apos;20: The Twenty-first ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Virtual Event, USA, October 11-14, 2020</title><venue>MobiHoc</venue><publisher>ACM</publisher><year>2020</year><type>Editorship</type><key>conf/mobihoc/2020</key><doi>10.1145/3397166</doi><ee>https://doi.org/10.1145/3397166</ee><url>https://dblp.org/rec/conf/mobihoc/2020</url></info>
+<url>URL#1540692</url>
+</hit>
+</hits>
+</result>

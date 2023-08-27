@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59455">:facetid:toc:\"db/conf/conext/conext2021.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">194.38</time>
+<completions total="1" computed="1" sent="1">
+<c sc="51" dc="51" oc="51" id="41027753">:facetid:toc:db/conf/conext/conext2021.bht</c>
+</completions>
+<hits total="51" computed="51" sent="51" first="0">
+<hit score="1" id="962483">
+<info><authors><author pid="308/2787">Sepehr Abdous</author><author pid="246/9146">Erfan Sharafzadeh</author><author pid="121/4255">Soudeh Ghorbani</author></authors><title>Burst-tolerant datacenter networks with Vertigo.</title><venue>CoNEXT</venue><pages>1-15</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AbdousSG21</key><doi>10.1145/3485983.3494873</doi><ee>https://doi.org/10.1145/3485983.3494873</ee><url>https://dblp.org/rec/conf/conext/AbdousSG21</url></info>
+<url>URL#962483</url>
+</hit>
+<hit score="1" id="962484">
+<info><authors><author pid="308/2298">Ketheeswaran Abiram</author><author pid="12/1343">Thabotharan Kathiravelu</author></authors><title>Congestion avoidance in data communication networks using software defined networking.</title><venue>CoNEXT</venue><pages>463-464</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/AbiramK21</key><doi>10.1145/3485983.3493343</doi><ee>https://doi.org/10.1145/3485983.3493343</ee><url>https://dblp.org/rec/conf/conext/AbiramK21</url></info>
+<url>URL#962484</url>
+</hit>
+<hit score="1" id="962487">
+<info><authors><author pid="152/9913">Jose A. Ayala-Romero</author><author pid="41/8398">Andres Garcia-Saavedra</author><author pid="42/2579">Xavier Costa-Pérez</author><author pid="80/7475">George Iosifidis</author></authors><title>EdgeBOL: automating energy-savings for mobile edge AI.</title><venue>CoNEXT</venue><pages>397-410</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Ayala-RomeroGCI21</key><doi>10.1145/3485983.3494849</doi><ee>https://doi.org/10.1145/3485983.3494849</ee><url>https://dblp.org/rec/conf/conext/Ayala-RomeroGCI21</url></info>
+<url>URL#962487</url>
+</hit>
+<hit score="1" id="962489">
+<info><authors><author pid="238/6590">Duin Baek</author><author pid="154/8616">Mallesham Dasari</author><author pid="90/4174">Samir R. Das</author><author pid="22/10315">Jihoon Ryoo</author></authors><title>dcSR: practical video quality enhancement using data-centric super resolution.</title><venue>CoNEXT</venue><pages>336-343</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BaekDDR21</key><doi>10.1145/3485983.3494856</doi><ee>https://doi.org/10.1145/3485983.3494856</ee><url>https://dblp.org/rec/conf/conext/BaekDDR21</url></info>
+<url>URL#962489</url>
+</hit>
+<hit score="1" id="962493">
+<info><authors><author pid="156/6568">Tristan Braud</author><author pid="297/7202">Ahmad Yousef Alhilal</author><author pid="62/1272-1">Pan Hui 0001</author></authors><title>Talaria: in-engine synchronisation for seamless migration of mobile edge gaming instances.</title><venue>CoNEXT</venue><pages>375-381</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/BraudA021</key><doi>10.1145/3485983.3494848</doi><ee>https://doi.org/10.1145/3485983.3494848</ee><url>https://dblp.org/rec/conf/conext/BraudA021</url></info>
+<url>URL#962493</url>
+</hit>
+<hit score="1" id="962495">
+<info><authors><author pid="127/2812">Lianjie Cao</author><author pid="13/5262">Puneet Sharma</author></authors><title>Co-locating containerized workload using service mesh telemetry.</title><venue>CoNEXT</venue><pages>168-174</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/CaoS21</key><doi>10.1145/3485983.3494867</doi><ee>https://doi.org/10.1145/3485983.3494867</ee><url>https://dblp.org/rec/conf/conext/CaoS21</url></info>
+<url>URL#962495</url>
+</hit>
+<hit score="1" id="962497">
+<info><authors><author pid="232/9577">Ha Dao</author><author pid="66/1199">Kensuke Fukuda</author></authors><title>Alternative to third-party cookies: investigating persistent PII leakage-based web tracking.</title><venue>CoNEXT</venue><pages>223-229</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/DaoF21</key><doi>10.1145/3485983.3494860</doi><ee>https://doi.org/10.1145/3485983.3494860</ee><url>https://dblp.org/rec/conf/conext/DaoF21</url></info>
+<url>URL#962497</url>
+</hit>
+<hit score="1" id="962499">
+<info><authors><author pid="69/6101">Casey T. Deccio</author><author pid="87/7282">Tarun Yadav</author><author pid="308/2301">Nathaniel Bennett</author><author pid="277/0392">Alden Hilton</author><author pid="77/753">Michael Howe</author><author pid="308/2500">Tanner Norton</author><author pid="308/2921">Jacob Rohde</author><author pid="194/8654">Eunice Tan</author><author pid="10/1416">Bradley Taylor</author></authors><title>Measuring email sender validation in the wild.</title><venue>CoNEXT</venue><pages>230-242</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/DeccioYBHHNRTT21</key><doi>10.1145/3485983.3494868</doi><ee>https://doi.org/10.1145/3485983.3494868</ee><url>https://dblp.org/rec/conf/conext/DeccioYBHHNRTT21</url></info>
+<url>URL#962499</url>
+</hit>
+<hit score="1" id="962500">
+<info><authors><author pid="308/2220">Zhuoxuan Du</author><author pid="162/1613">Jiaqi Zheng</author><author pid="308/2572">Hebin Yu</author><author pid="183/6837">Lingtao Kong</author><author pid="51/1742">Guihai Chen</author></authors><title>A unified congestion control framework for diverse application preferences and network conditions.</title><venue>CoNEXT</venue><pages>282-296</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/DuZYKC21</key><doi>10.1145/3485983.3494840</doi><ee>https://doi.org/10.1145/3485983.3494840</ee><url>https://dblp.org/rec/conf/conext/DuZYKC21</url></info>
+<url>URL#962500</url>
+</hit>
+<hit score="1" id="962503">
+<info><authors><author pid="297/9096">Talaya Farasat</author><author pid="222/0407">Muhammad Ahmad Rathore</author><author pid="132/2434">Akmal Khan</author><author pid="64/4155">Sun Park</author><author pid="05/6022-1">JongWon Kim 0001</author></authors><title>BGP traffic volume forecasting using LSTM framework.</title><venue>CoNEXT</venue><pages>465-466</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/FarasatRKPK21</key><doi>10.1145/3485983.3493344</doi><ee>https://doi.org/10.1145/3485983.3493344</ee><url>https://dblp.org/rec/conf/conext/FarasatRKPK21</url></info>
+<url>URL#962503</url>
+</hit>
+<hit score="1" id="962504">
+<info><authors><author pid="162/5308">Sebastian Gallenmüller</author><author pid="218/8705">Dominik Scholz</author><author pid="253/7511">Henning Stubbe</author><author pid="c/GeorgCarle">Georg Carle</author></authors><title>The pos framework: a methodology and toolchain for reproducible network experiments.</title><venue>CoNEXT</venue><pages>259-266</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GallenmullerSSC21</key><doi>10.1145/3485983.3494841</doi><ee>https://doi.org/10.1145/3485983.3494841</ee><url>https://dblp.org/rec/conf/conext/GallenmullerSSC21</url></info>
+<url>URL#962504</url>
+</hit>
+<hit score="1" id="962505">
+<info><authors><author pid="246/8361">Luca Gioacchini</author><author pid="136/5733">Luca Vassio</author><author pid="18/6316">Marco Mellia</author><author pid="08/4676">Idilio Drago</author><author pid="64/2520">Zied Ben-Houidi</author><author pid="14/3340">Dario Rossi 0001</author></authors><title>DarkVec: automatic analysis of darknet traffic with word embeddings.</title><venue>CoNEXT</venue><pages>76-89</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GioacchiniVMDBR21</key><doi>10.1145/3485983.3494863</doi><ee>https://doi.org/10.1145/3485983.3494863</ee><url>https://dblp.org/rec/conf/conext/GioacchiniVMDBR21</url></info>
+<url>URL#962505</url>
+</hit>
+<hit score="1" id="962506">
+<info><authors><author pid="220/1469">Giacomo Giuliari</author><author pid="276/1054">Dominik Roos</author><author pid="227/7984">Marc Wyss</author><author pid="33/1769">Juan Ángel García-Pardo</author><author pid="262/5593">Markus Legner</author><author pid="16/6873">Adrian Perrig</author></authors><title>Colibri: a cooperative lightweight inter-domain bandwidth-reservation infrastructure.</title><venue>CoNEXT</venue><pages>104-118</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GiuliariRWGLP21</key><doi>10.1145/3485983.3494871</doi><ee>https://doi.org/10.1145/3485983.3494871</ee><url>https://dblp.org/rec/conf/conext/GiuliariRWGLP21</url></info>
+<url>URL#962506</url>
+</hit>
+<hit score="1" id="962507">
+<info><authors><author pid="42/13">Roberto Gonzalez</author><author pid="57/1338">Claudio Soriente</author><author pid="135/8791">Juan Miguel Carrascosa</author><author pid="53/11261">Alberto García-Durán</author><author pid="155/4391">Costas Iordanou</author><author pid="n/MathiasNiepert">Mathias Niepert</author></authors><title>User profiling by network observers.</title><venue>CoNEXT</venue><pages>212-222</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/GonzalezSCGIN21</key><doi>10.1145/3485983.3494859</doi><ee>https://doi.org/10.1145/3485983.3494859</ee><url>https://dblp.org/rec/conf/conext/GonzalezSCGIN21</url></info>
+<url>URL#962507</url>
+</hit>
+<hit score="1" id="962509">
+<info><authors><author pid="304/8109">Anaobi Ishaku Hassan</author><author pid="141/9377">Aravindh Raman</author><author pid="99/11343">Ignacio Castro</author><author pid="213/7568">Haris Bin Zia</author><author pid="36/6225">Emiliano De Cristofaro</author><author pid="12/6462">Nishanth Sastry</author><author pid="85/85">Gareth Tyson</author></authors><title>Exploring content moderation in the decentralised web: the pleroma case.</title><venue>CoNEXT</venue><pages>328-335</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HassanRCZCST21</key><doi>10.1145/3485983.3494838</doi><ee>https://doi.org/10.1145/3485983.3494838</ee><url>https://dblp.org/rec/conf/conext/HassanRCZCST21</url></info>
+<url>URL#962509</url>
+</hit>
+<hit score="1" id="962510">
+<info><authors><author pid="267/2878">Kilian Holzinger</author><author pid="253/7511">Henning Stubbe</author><author pid="265/3302">Franz Biersack</author><author pid="295/2362">Angela Gonzalez Mariño</author><author pid="308/2843">Abdoul Kane</author><author pid="308/2588">Francisco Fons Lluis</author><author pid="26/1931">Haigang Zhang</author><author pid="15/4766">Thomas Wild</author><author pid="62/5988">Andreas Herkersdorf</author><author pid="c/GeorgCarle">Georg Carle</author></authors><title>Precise real-time monitoring of time-critical flows.</title><venue>CoNEXT</venue><pages>489-490</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HolzingerSBMKLZ21</key><doi>10.1145/3485983.3493356</doi><ee>https://doi.org/10.1145/3485983.3493356</ee><url>https://dblp.org/rec/conf/conext/HolzingerSBMKLZ21</url></info>
+<url>URL#962510</url>
+</hit>
+<hit score="1" id="962511">
+<info><authors><author pid="202/8464">Kaiyu Hou</author><author pid="70/9499">Sen Lin</author><author pid="88/2827-4">Yan Chen 0004</author><author pid="75/3570">Vinod Yegneswaran</author></authors><title>Accelerate and secure serverless networks with QUIC.</title><venue>CoNEXT</venue><pages>477-478</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/HouLCY21</key><doi>10.1145/3485983.3493350</doi><ee>https://doi.org/10.1145/3485983.3493350</ee><url>https://dblp.org/rec/conf/conext/HouLCY21</url></info>
+<url>URL#962511</url>
+</hit>
+<hit score="1" id="962513">
+<info><authors><author pid="308/2848">Md. Monzurul Amin Ifath</author><author pid="129/2290">Miguel C. Neves</author><author pid="209/8668">Israat Haque 0001</author></authors><title>Raptor: rapid prototyping of distributed stream processing applications at scale.</title><venue>CoNEXT</venue><pages>485-486</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/IfathNH21</key><doi>10.1145/3485983.3493354</doi><ee>https://doi.org/10.1145/3485983.3493354</ee><url>https://dblp.org/rec/conf/conext/IfathNH21</url></info>
+<url>URL#962513</url>
+</hit>
+<hit score="1" id="962516">
+<info><authors><author pid="299/9010">Cyrill Krähenbühl</author><author pid="246/4549">Seyedali Tabaeiaghdaei</author><author pid="210/2447">Christelle Gloor</author><author pid="46/4109">Jonghoon Kwon</author><author pid="16/6873">Adrian Perrig</author><author pid="76/3287">David Hausheer</author><author pid="276/1054">Dominik Roos</author></authors><title>Deployment and scalability of an inter-domain multi-path routing infrastructure.</title><venue>CoNEXT</venue><pages>126-140</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KrahenbuhlTGKPH21</key><doi>10.1145/3485983.3494862</doi><ee>https://doi.org/10.1145/3485983.3494862</ee><url>https://dblp.org/rec/conf/conext/KrahenbuhlTGKPH21</url></info>
+<url>URL#962516</url>
+</hit>
+<hit score="1" id="962517">
+<info><authors><author pid="139/5527">Johannes Krude</author><author pid="143/4759">Jan Rüth</author><author pid="119/0975">Daniel Schemmel</author><author pid="204/9512">Felix Rath</author><author pid="308/2269">Iohannes-Heorh Folbort</author><author pid="w/KlausWehrle">Klaus Wehrle</author></authors><title>Determination of throughput guarantees for processor-based SmartNICs.</title><venue>CoNEXT</venue><pages>267-281</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/KrudeRSRFW21</key><doi>10.1145/3485983.3494842</doi><ee>https://doi.org/10.1145/3485983.3494842</ee><url>https://dblp.org/rec/conf/conext/KrudeRSRFW21</url></info>
+<url>URL#962517</url>
+</hit>
+<hit score="1" id="962522">
+<info><authors><author pid="262/1327">Rengang Li</author><author pid="187/2986">Dongdong Su</author><author pid="277/1885">Hongwei Kan</author></authors><title>A fast, scalable, and energy-efficient edge acceleration architecture based on FPGA cluster.</title><venue>CoNEXT</venue><pages>479-480</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/LiSK21</key><doi>10.1145/3485983.3493351</doi><ee>https://doi.org/10.1145/3485983.3493351</ee><url>https://dblp.org/rec/conf/conext/LiSK21</url></info>
+<url>URL#962522</url>
+</hit>
+<hit score="1" id="962523">
+<info><authors><author pid="16/8495">Kexin Liu</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="224/4397">Qingyue Wang</author><author pid="31/6916">Hao Zheng</author><author pid="35/8012">Peiwen Yu</author><author pid="212/7482">Wenhao Sun</author><author pid="176/8839">Yonghui Xu</author><author pid="97/5056">Ke Meng</author><author pid="75/2307">Lei Han</author><author pid="16/7565">Jie Fu</author><author pid="57/5595">Wanchun Dou</author><author pid="51/1742">Guihai Chen</author></authors><title>Floodgate: taming incast in datacenter networks.</title><venue>CoNEXT</venue><pages>30-44</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/Liu0WZYSXMHFDC21</key><doi>10.1145/3485983.3494854</doi><ee>https://doi.org/10.1145/3485983.3494854</ee><url>https://dblp.org/rec/conf/conext/Liu0WZYSXMHFDC21</url></info>
+<url>URL#962523</url>
+</hit>
+<hit score="1" id="962524">
+<info><authors><author pid="61/3234-13">Qiang Liu 0013</author><author pid="42/1257">Nakjung Choi</author><author pid="78/744-2">Tao Han 0002</author></authors><title>OnSlicing: online end-to-end network slicing with reinforcement learning.</title><venue>CoNEXT</venue><pages>141-153</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/LiuCH21</key><doi>10.1145/3485983.3494850</doi><ee>https://doi.org/10.1145/3485983.3494850</ee><url>https://dblp.org/rec/conf/conext/LiuCH21</url></info>
+<url>URL#962524</url>
+</hit>
+<hit score="1" id="962527">
+<info><authors><author pid="12/4563">Matthew Luckie</author><author pid="11/3626">Bradley Huffaker</author><author pid="189/5385">Alexander Marder</author><author pid="14/5053">Zachary S. Bischof</author><author pid="277/0398">Marianne Fletcher</author><author pid="68/4966">Kimberly C. Claffy</author></authors><title>Learning to extract geographic information from internet router hostnames.</title><venue>CoNEXT</venue><pages>440-453</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/LuckieHMBFC21</key><doi>10.1145/3485983.3494869</doi><ee>https://doi.org/10.1145/3485983.3494869</ee><url>https://dblp.org/rec/conf/conext/LuckieHMBFC21</url></info>
+<url>URL#962527</url>
+</hit>
+<hit score="1" id="962529">
+<info><authors><author pid="181/2560">Gal Mendelson</author><author pid="183/0710">Shay Vargaftik</author><author pid="49/2478">Dean H. Lorenz</author><author pid="96/6314">Kathy Barabash</author><author pid="68/2276">Isaac Keslassy</author><author pid="65/1175">Ariel Orda</author></authors><title>Load balancing with JET: just enough tracking for connection consistency.</title><venue>CoNEXT</venue><pages>191-204</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/MendelsonVLBKO21</key><doi>10.1145/3485983.3494851</doi><ee>https://doi.org/10.1145/3485983.3494851</ee><url>https://dblp.org/rec/conf/conext/MendelsonVLBKO21</url></info>
+<url>URL#962529</url>
+</hit>
+<hit score="1" id="962530">
+<info><authors><author pid="83/8545">Rui Meng</author><author pid="307/7816">Junjie Wan</author><author pid="68/3832">Bing Xu</author><author pid="308/2586">Wanhong Wang</author><author pid="70/313">Zhongwei Li</author><author pid="39/2813">Chuang Wang</author></authors><title>Towards highly scalable multicast via explicit path definition.</title><venue>CoNEXT</venue><pages>487-488</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/MengWXWLW21</key><doi>10.1145/3485983.3493355</doi><ee>https://doi.org/10.1145/3485983.3493355</ee><url>https://dblp.org/rec/conf/conext/MengWXWLW21</url></info>
+<url>URL#962530</url>
+</hit>
+<hit score="1" id="962531">
+<info><authors><author pid="92/8328">Habib Mostafaei</author><author pid="308/2339">Seyed Milad Miri</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>ReactNet: self-adjusting architecture for networked systems.</title><venue>CoNEXT</venue><pages>473-474</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/MostafaeiMS21</key><doi>10.1145/3485983.3493348</doi><ee>https://doi.org/10.1145/3485983.3493348</ee><url>https://dblp.org/rec/conf/conext/MostafaeiMS21</url></info>
+<url>URL#962531</url>
+</hit>
+<hit score="1" id="962533">
+<info><authors><author pid="185/0838">Marcin Nawrocki</author><author pid="303/4577">Maynard Koch</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>Transparent forwarders: an unnoticed component of the open DNS infrastructure.</title><venue>CoNEXT</venue><pages>454-462</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/NawrockiKSW21</key><doi>10.1145/3485983.3494872</doi><ee>https://doi.org/10.1145/3485983.3494872</ee><url>https://dblp.org/rec/conf/conext/NawrockiKSW21</url></info>
+<url>URL#962533</url>
+</hit>
+<hit score="1" id="962534">
+<info><authors><author pid="218/5628">Mirko Palmer</author><author pid="253/0466">Malte Appel</author><author pid="175/1336">Kevin Spiteri</author><author pid="c/BChandrasekaran2">Balakrishnan Chandrasekaran 0002</author><author pid="f/AnjaFeldmann">Anja Feldmann</author><author pid="s/RameshKSitaraman">Ramesh K. Sitaraman</author></authors><title>VOXEL: cross-layer optimization for video streaming with imperfect transmission.</title><venue>CoNEXT</venue><pages>359-374</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PalmerAS0FS21</key><doi>10.1145/3485983.3494864</doi><ee>https://doi.org/10.1145/3485983.3494864</ee><url>https://dblp.org/rec/conf/conext/PalmerAS0FS21</url></info>
+<url>URL#962534</url>
+</hit>
+<hit score="1" id="962535">
+<info><authors><author pid="261/2022">Sourav Panda</author><author pid="271/6979">Yixiao Feng</author><author pid="185/5705">Sameer G. Kulkarni</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author><author pid="d/NickGDuffield">Nick Duffield</author><author pid="b/LaxmiNBhuyan">Laxmi N. Bhuyan</author></authors><title>SmartWatch: accurate traffic analysis and flow-state tracking for intrusion prevention using SmartNICs.</title><venue>CoNEXT</venue><pages>60-75</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PandaFKRDB21</key><doi>10.1145/3485983.3494861</doi><ee>https://doi.org/10.1145/3485983.3494861</ee><url>https://dblp.org/rec/conf/conext/PandaFKRDB21</url></info>
+<url>URL#962535</url>
+</hit>
+<hit score="1" id="962536">
+<info><authors><author pid="213/4958">Mahmoud Parham</author><author pid="248/2113">Thomas Fenz</author><author pid="308/2329">Nikolaus Süss</author><author pid="125/2922">Klaus-Tycho Foerster</author><author pid="58/3289-1">Stefan Schmid 0001</author></authors><title>Traffic engineering with joint link weight and segment optimization.</title><venue>CoNEXT</venue><pages>313-327</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ParhamFSF021</key><doi>10.1145/3485983.3494846</doi><ee>https://doi.org/10.1145/3485983.3494846</ee><url>https://dblp.org/rec/conf/conext/ParhamFSF021</url></info>
+<url>URL#962536</url>
+</hit>
+<hit score="1" id="962537">
+<info><authors><author pid="61/1326">Jinwoo Park</author><author pid="162/5250">Byungkwon Choi</author><author pid="48/8379">Chunghan Lee</author><author pid="12/5388">Dongsu Han</author></authors><title>GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices.</title><venue>CoNEXT</venue><pages>154-167</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ParkCLH21</key><doi>10.1145/3485983.3494866</doi><ee>https://doi.org/10.1145/3485983.3494866</ee><url>https://dblp.org/rec/conf/conext/ParkCLH21</url></info>
+<url>URL#962537</url>
+</hit>
+<hit score="1" id="962538">
+<info><authors><author pid="298/3963">Federico Parola</author><author pid="308/2358">Roberto Procopio</author><author pid="49/1360">Fulvio Risso</author></authors><title>Assessing the performance of XDP and AF_XDP based NFs in edge data center scenarios.</title><venue>CoNEXT</venue><pages>481-482</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ParolaPR21</key><doi>10.1145/3485983.3493352</doi><ee>https://doi.org/10.1145/3485983.3493352</ee><url>https://dblp.org/rec/conf/conext/ParolaPR21</url></info>
+<url>URL#962538</url>
+</hit>
+<hit score="1" id="962539">
+<info><authors><author pid="146/7901">Hauke Petersen</author><author pid="s/TCSchmidt">Thomas C. Schmidt</author><author pid="91/5978">Matthias Wählisch</author></authors><title>Mind the gap: multi-hop IPv6 over BLE in the IoT.</title><venue>CoNEXT</venue><pages>382-396</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PetersenSW21</key><doi>10.1145/3485983.3494847</doi><ee>https://doi.org/10.1145/3485983.3494847</ee><url>https://dblp.org/rec/conf/conext/PetersenSW21</url></info>
+<url>URL#962539</url>
+</hit>
+<hit score="1" id="962540">
+<info><authors><author pid="245/3592">Rupesh Prajapati</author><author pid="h/VasantHonavar">Vasant G. Honavar</author><author pid="54/2696">Dinghao Wu</author><author pid="66/3108">John Yen</author><author pid="68/4656">Michalis Kallitsis 0001</author></authors><title>Shedding light into the darknet: scanning characterization and detection of temporal changes.</title><venue>CoNEXT</venue><pages>469-470</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/PrajapatiHWYK21</key><doi>10.1145/3485983.3493347</doi><ee>https://doi.org/10.1145/3485983.3493347</ee><url>https://dblp.org/rec/conf/conext/PrajapatiHWYK21</url></info>
+<url>URL#962540</url>
+</hit>
+<hit score="1" id="962541">
+<info><authors><author pid="60/2579">Pedro Reviriego</author><author pid="72/5613">Salvatore Pontarelli</author></authors><title>Perfect cuckoo filters.</title><venue>CoNEXT</venue><pages>205-211</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ReviriegoP21</key><doi>10.1145/3485983.3494852</doi><ee>https://doi.org/10.1145/3485983.3494852</ee><url>https://dblp.org/rec/conf/conext/ReviriegoP21</url></info>
+<url>URL#962541</url>
+</hit>
+<hit score="1" id="962542">
+<info><authors><author pid="186/8215">Florentin Rochet</author><author pid="277/6019">Emery Assogba</author><author pid="228/8215">Maxime Piraux</author><author pid="161/2692">Korian Edeline</author><author pid="27/3281">Benoit Donnet</author><author pid="91/2043">Olivier Bonaventure</author></authors><title>TCPLS: modern transport services with TCP and TLS.</title><venue>CoNEXT</venue><pages>45-59</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/RochetAPEDB21</key><doi>10.1145/3485983.3494865</doi><ee>https://doi.org/10.1145/3485983.3494865</ee><url>https://dblp.org/rec/conf/conext/RochetAPEDB21</url></info>
+<url>URL#962542</url>
+</hit>
+<hit score="1" id="962543">
+<info><authors><author pid="24/10823">Joeri de Ruiter</author><author pid="296/0872">Caspar Schutijser</author></authors><title>Next-generation internet at terabit speed: SCION in P4.</title><venue>CoNEXT</venue><pages>119-125</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/RuiterS21</key><doi>10.1145/3485983.3494839</doi><ee>https://doi.org/10.1145/3485983.3494839</ee><url>https://dblp.org/rec/conf/conext/RuiterS21</url></info>
+<url>URL#962543</url>
+</hit>
+<hit score="1" id="962545">
+<info><authors><author pid="03/2422-1">Robert Schmidt 0001</author><author pid="214/3298">Mikel Irazabal</author><author pid="79/8">Navid Nikaein</author></authors><title>FlexRIC: an SDK for next-generation SD-RANs.</title><venue>CoNEXT</venue><pages>411-425</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SchmidtIN21</key><doi>10.1145/3485983.3494870</doi><ee>https://doi.org/10.1145/3485983.3494870</ee><url>https://dblp.org/rec/conf/conext/SchmidtIN21</url></info>
+<url>URL#962545</url>
+</hit>
+<hit score="1" id="962547">
+<info><authors><author pid="304/8629">Raz Segal</author><author pid="04/5911">Chen Avin</author><author pid="10/833">Gabriel Scalosub</author></authors><title>SOAR: minimizing network utilization with bounded in-network computing.</title><venue>CoNEXT</venue><pages>16-29</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SegalAS21</key><doi>10.1145/3485983.3494853</doi><ee>https://doi.org/10.1145/3485983.3494853</ee><url>https://dblp.org/rec/conf/conext/SegalAS21</url></info>
+<url>URL#962547</url>
+</hit>
+<hit score="1" id="962548">
+<info><authors><author pid="308/2450">Farbod Shahinfar</author><author pid="191/3336">Sebastiano Miano</author><author pid="295/8830">Alireza Sanaee</author><author pid="144/7799">Giuseppe Siracusano</author><author pid="81/8239">Roberto Bifulco</author><author pid="00/4948">Gianni Antichi</author></authors><title>The case for network functions decomposition.</title><venue>CoNEXT</venue><pages>475-476</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ShahinfarMSSBA21</key><doi>10.1145/3485983.3493349</doi><ee>https://doi.org/10.1145/3485983.3493349</ee><url>https://dblp.org/rec/conf/conext/ShahinfarMSSBA21</url></info>
+<url>URL#962548</url>
+</hit>
+<hit score="1" id="962549">
+<info><authors><author pid="246/9146">Erfan Sharafzadeh</author><author pid="121/4255">Soudeh Ghorbani</author></authors><title>A high-resolution study of data center traffic at its origin.</title><venue>CoNEXT</venue><pages>467-468</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SharafzadehG21</key><doi>10.1145/3485983.3493346</doi><ee>https://doi.org/10.1145/3485983.3493346</ee><url>https://dblp.org/rec/conf/conext/SharafzadehG21</url></info>
+<url>URL#962549</url>
+</hit>
+<hit score="1" id="962550">
+<info><authors><author pid="261/7269">Kyle A. Simpson</author><author pid="49/1051">Dimitrios P. Pezaros</author></authors><title>Online RL in the programmable dataplane with OPaL.</title><venue>CoNEXT</venue><pages>471-472</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/SimpsonP21</key><doi>10.1145/3485983.3493345</doi><ee>https://doi.org/10.1145/3485983.3493345</ee><url>https://dblp.org/rec/conf/conext/SimpsonP21</url></info>
+<url>URL#962550</url>
+</hit>
+<hit score="1" id="962558">
+<info><authors><author pid="33/4822">Yue Wang</author><author pid="87/4248">Guangxing Zhang</author><author pid="82/5266-1">Haiyang Jiang 0001</author><author pid="01/2888">Gaogang Xie</author></authors><title>Compact-index: an efficient index algorithm for network traffic.</title><venue>CoNEXT</venue><pages>90-103</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/WangZJX21</key><doi>10.1145/3485983.3494858</doi><ee>https://doi.org/10.1145/3485983.3494858</ee><url>https://dblp.org/rec/conf/conext/WangZJX21</url></info>
+<url>URL#962558</url>
+</hit>
+<hit score="1" id="962559">
+<info><authors><author pid="235/7025">Yunming Xiao</author><author pid="01/6280">Matteo Varvello</author></authors><title>FIAT: frictionless authentication of IoT traffic.</title><venue>CoNEXT</venue><pages>483-484</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/XiaoV21</key><doi>10.1145/3485983.3493353</doi><ee>https://doi.org/10.1145/3485983.3493353</ee><url>https://dblp.org/rec/conf/conext/XiaoV21</url></info>
+<url>URL#962559</url>
+</hit>
+<hit score="1" id="962560">
+<info><authors><author pid="30/495">Kai Xu</author><author pid="149/5226">Rajkarn Singh</author><author pid="75/1476">Marco Fiore</author><author pid="71/2142">Mahesh K. Marina</author><author pid="97/2993">Hakan Bilen</author><author pid="74/6117">Muhammad Usama</author><author pid="157/7826">Howard Benn</author><author pid="48/8344">Cezary Ziemlicki</author></authors><title>SpectraGAN: spectrum based generation of city scale spatiotemporal mobile network traffic data.</title><venue>CoNEXT</venue><pages>243-258</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/XuSFMBUBZ21</key><doi>10.1145/3485983.3494844</doi><ee>https://doi.org/10.1145/3485983.3494844</ee><url>https://dblp.org/rec/conf/conext/XuSFMBUBZ21</url></info>
+<url>URL#962560</url>
+</hit>
+<hit score="1" id="962561">
+<info><authors><author pid="87/7043">Gang Yan</author><author pid="33/5448-8">Jian Li 0008</author><author pid="t/DonaldFTowsley">Don Towsley</author></authors><title>Learning from optimal caching for content delivery.</title><venue>CoNEXT</venue><pages>344-358</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/YanLT21</key><doi>10.1145/3485983.3494855</doi><ee>https://doi.org/10.1145/3485983.3494855</ee><url>https://dblp.org/rec/conf/conext/YanLT21</url></info>
+<url>URL#962561</url>
+</hit>
+<hit score="1" id="962563">
+<info><authors><author pid="26/4189-9">Han Zhang 0009</author><author pid="93/5648">Xingang Shi</author><author pid="77/5776">Xia Yin</author><author pid="18/6008-1">Jilong Wang 0001</author><author pid="58/5311">Zhiliang Wang</author><author pid="155/8107">Yingya Guo</author><author pid="31/83">Tian Lan</author></authors><title>Boosting bandwidth availability over inter-DC WAN.</title><venue>CoNEXT</venue><pages>297-312</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZhangSYWWGL21</key><doi>10.1145/3485983.3494843</doi><ee>https://doi.org/10.1145/3485983.3494843</ee><url>https://dblp.org/rec/conf/conext/ZhangSYWWGL21</url></info>
+<url>URL#962563</url>
+</hit>
+<hit score="1" id="962564">
+<info><authors><author pid="197/4350">Zikai Zhou</author><author pid="192/3618">Mu He</author><author pid="32/3203">Wolfgang Kellerer</author><author pid="147/1082">Andreas Blenk</author><author pid="125/2922">Klaus-Tycho Foerster</author></authors><title>P4Update: fast and locally verifiable consistent network updates in the P4 data plane.</title><venue>CoNEXT</venue><pages>175-190</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZhouHKBF21</key><doi>10.1145/3485983.3494845</doi><ee>https://doi.org/10.1145/3485983.3494845</ee><url>https://dblp.org/rec/conf/conext/ZhouHKBF21</url></info>
+<url>URL#962564</url>
+</hit>
+<hit score="1" id="962565">
+<info><authors><author pid="07/10207">Shuying Zhuang</author><author pid="79/2151">Jessie Hui Wang</author><author pid="18/6008-1">Jilong Wang 0001</author><author pid="308/2439">Zujiang Pan</author><author pid="17/1976">Tianhao Wu</author><author pid="20/8277">Fenghua Li</author><author pid="03/5274">Zhiyong Zhang</author></authors><title>Discovering obscure looking glass sites on the web to facilitate internet measurement research.</title><venue>CoNEXT</venue><pages>426-439</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/conext/ZhuangW0PWLZ21</key><doi>10.1145/3485983.3494857</doi><ee>https://doi.org/10.1145/3485983.3494857</ee><url>https://dblp.org/rec/conf/conext/ZhuangW0PWLZ21</url></info>
+<url>URL#962565</url>
+</hit>
+<hit score="1" id="1099740">
+<info><authors><author pid="c/GeorgCarle">Georg Carle</author><author pid="57/6706">Jörg Ott</author></authors><title>CoNEXT &apos;21: The 17th International Conference on emerging Networking EXperiments and Technologies, Virtual Event, Munich, Germany, December 7 - 10, 2021</title><venue>CoNEXT</venue><publisher>ACM</publisher><year>2021</year><type>Editorship</type><key>conf/conext/2021</key><doi>10.1145/3485983</doi><ee>https://doi.org/10.1145/3485983</ee><url>https://dblp.org/rec/conf/conext/2021</url></info>
+<url>URL#1099740</url>
+</hit>
+</hits>
+</result>

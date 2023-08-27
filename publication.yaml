@@ -14,7 +14,7 @@
 # Type: 
 #   - 0 journals
 #   - 1 conf
-# Number: Just to identify each entry
+# Number: Just to identify each item
 
 # A类期刊
 # A010: 计算机体系结构/并行与分布计算/存储系统 
@@ -1539,6 +1539,63 @@ B03110:
 # B041
 # B051
 # B061
+
 # B071
 # B081
 # B091
+B09100:
+  Acronym: CogSci
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: Annual Meeting of the Cognitive Science Society
+  Publisher: 
+    - Psychology Press
+  Type: conf
+  Path: cogsci
+  URL: https://dblp.uni-trier.de/db/conf/cogsci/
+B09101:
+  Acronym: BIBM
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: IEEE International Conference on Bioinformatics and Biomedicine
+  Publisher: 
+    - IEEE
+  Type: conf
+  Path: bibm
+  URL: http://dblp.uni-trier.de/db/conf/bibm/
+B09102:
+  Acronym: EMSOFT
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: International Conference on Embedded Software
+  Publisher: 
+    - ACM
+    - IEEE
+    - IFIP
+  Type: conf
+  Path: emsoft
+  URL: http://dblp.uni-trier.de/db/conf/emsoft/
+B09103:
+  Acronym: RECOMB
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: Annual International Conference on Research in Computational Molecular Biology
+  Publisher: 
+    - Springer
+  Type: conf
+  Path: recomb/recomb
+  URL: http://dblp.uni-trier.de/db/conf/recomb/
+B09104:
+  Acronym: MICCAI
+  Domian: 交叉/综合/新兴
+  Level: CCF-B
+  Name: International Conference on Medical Image Computing and Computer-Assisted Intervention
+  Publisher: 
+    - Springer
+  Type: conf
+  Path: miccai/miccai
+  URL: https://dblp.org/db/conf/miccai/index.html
+
+
+
+

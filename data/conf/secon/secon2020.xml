@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59484">:facetid:toc:\"db/conf/secon/secon2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">196.28</time>
+<completions total="1" computed="1" sent="1">
+<c sc="37" dc="37" oc="37" id="41063426">:facetid:toc:db/conf/secon/secon2020.bht</c>
+</completions>
+<hits total="37" computed="37" sent="37" first="0">
+<hit score="1" id="1515263">
+<info><authors><author pid="89/6527-2">Zhijun Li 0002</author><author pid="143/0948-1">Yongrui Chen 0001</author></authors><title>BLE2LoRa: Cross-Technology Communication from Bluetooth to LoRa via Chirp Emulation.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0001C20</key><doi>10.1109/SECON48991.2020.9158446</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158446</ee><url>https://dblp.org/rec/conf/secon/0001C20</url></info>
+<url>URL#1515263</url>
+</hit>
+<hit score="1" id="1515264">
+<info><authors><author pid="184/7591-1">Yibo Jin 0001</author><author pid="47/91-2">Lei Jiao 0002</author><author pid="96/2572">Zhuzhong Qian</author><author pid="69/6137-1">Sheng Zhang 0001</author><author pid="56/1670">Ning Chen</author><author pid="24/3318">Sanglu Lu</author><author pid="02/3450-1">Xiaoliang Wang 0001</author></authors><title>Provisioning Edge Inference as a Service via Online Learning.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0001JQ0CL020</key><doi>10.1109/SECON48991.2020.9158425</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158425</ee><url>https://dblp.org/rec/conf/secon/0001JQ0CL020</url></info>
+<url>URL#1515264</url>
+</hit>
+<hit score="1" id="1515265">
+<info><authors><author pid="132/7817">Heba Abdelnasser</author><author pid="63/4747">Khaled A. Harras</author><author pid="52/727">Moustafa Youssef 0001</author></authors><title>MagStroke: A Magnetic Based Virtual Keyboard for Off-the-Shelf Smart Devices.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AbdelnasserHY20</key><doi>10.1109/SECON48991.2020.9158416</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158416</ee><url>https://dblp.org/rec/conf/secon/AbdelnasserHY20</url></info>
+<url>URL#1515265</url>
+</hit>
+<hit score="1" id="1515268">
+<info><authors><author pid="40/10241">Kittipat Apicharttrisorn</author><author pid="90/4619">Bharath Balasubramanian</author><author pid="35/9005">Jiasi Chen</author><author pid="05/7641">Rajarajan Sivaraj</author><author pid="279/5637">Yi-Zhen Tsai</author><author pid="18/6174">Rittwik Jana</author><author pid="k/SrikanthVKrishnamurthy">Srikanth V. Krishnamurthy</author><author pid="133/4851">Tuyen X. Tran</author><author pid="36/2728">Yu Zhou</author></authors><title>Characterization of Multi-User Augmented Reality over Cellular Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Apicharttrisorn20</key><doi>10.1109/SECON48991.2020.9158434</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158434</ee><url>https://dblp.org/rec/conf/secon/Apicharttrisorn20</url></info>
+<url>URL#1515268</url>
+</hit>
+<hit score="1" id="1515271">
+<info><authors><author pid="115/9413">Yuhang Chen</author><author pid="190/2697">Longfei Yan</author><author pid="65/8230-1">Chong Han 0001</author></authors><title>Millidegree-Level Direction-of-Arrival (DoA) Estimation and Tracking for Terahertz Wireless Communications.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChenYH20</key><doi>10.1109/SECON48991.2020.9158439</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158439</ee><url>https://dblp.org/rec/conf/secon/ChenYH20</url></info>
+<url>URL#1515271</url>
+</hit>
+<hit score="1" id="1515272">
+<info><authors><author pid="209/2993">Ander Galisteo</author><author pid="39/6303">Patrizio Marcocci</author><author pid="z/MarcoZuniga">Marco Zuniga</author><author pid="09/4100">Lorenzo Mucchi</author><author pid="175/2837">Borja Genovés Guzmán</author><author pid="07/1247">Domenico Giustiniano</author></authors><title>Filtering Visible Light Reflections with a Single-Pixel Photodetector.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GalisteoMZMGG20</key><doi>10.1109/SECON48991.2020.9158414</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158414</ee><url>https://dblp.org/rec/conf/secon/GalisteoMZMGG20</url></info>
+<url>URL#1515272</url>
+</hit>
+<hit score="1" id="1515274">
+<info><authors><author pid="269/8204">Omar Hashem</author><author pid="63/4747">Khaled A. Harras</author><author pid="52/727">Moustafa Youssef 0001</author></authors><title>DeepNar: Robust Time-based Sub-meter Indoor Localization using Deep Learning.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HashemHY20</key><doi>10.1109/SECON48991.2020.9158428</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158428</ee><url>https://dblp.org/rec/conf/secon/HashemHY20</url></info>
+<url>URL#1515274</url>
+</hit>
+<hit score="1" id="1515275">
+<info><authors><author pid="284/4424">Xueyu Hou</author><author pid="78/744">Tao Han</author></authors><title>TrustServing: A Quality Inspection Sampling Approach for Remote DNN Services.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HouH20</key><doi>10.1109/SECON48991.2020.9158444</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158444</ee><url>https://dblp.org/rec/conf/secon/HouH20</url></info>
+<url>URL#1515275</url>
+</hit>
+<hit score="1" id="1515276">
+<info><authors><author pid="132/1219">Avinash Kalyanaraman</author><author pid="141/9566">Yunze Zeng</author><author pid="284/4389">Sushanta Rakshit</author><author pid="29/4326-1">Vivek Jain 0001</author></authors><title>CaraoKey : Car States Sensing via the Ultra-Wideband Keyless Infrastructure.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KalyanaramanZRJ20</key><doi>10.1109/SECON48991.2020.9158440</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158440</ee><url>https://dblp.org/rec/conf/secon/KalyanaramanZRJ20</url></info>
+<url>URL#1515276</url>
+</hit>
+<hit score="1" id="1515277">
+<info><authors><author pid="148/1927">Qiongzheng Lin</author><author pid="50/2484-25">Lei Yang 0025</author><author pid="203/8833">Zhenlin An</author><author pid="24/3508">Yi Guo</author><author pid="62/5860-20">Ping Li 0020</author></authors><title>RFCamera: Identifying RFIDs in Pixel Dimensions.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LinYAG020</key><doi>10.1109/SECON48991.2020.9158430</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158430</ee><url>https://dblp.org/rec/conf/secon/LinYAG020</url></info>
+<url>URL#1515277</url>
+</hit>
+<hit score="1" id="1515279">
+<info><authors><author pid="271/9833">Jiadong Lou</author><author pid="24/6114">Xu Yuan</author><author pid="82/4827">Nian-Feng Tzeng</author></authors><title>Instant AoI Optimization in IoT Networks with Packet Combination.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LouYT20</key><doi>10.1109/SECON48991.2020.9158445</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158445</ee><url>https://dblp.org/rec/conf/secon/LouYT20</url></info>
+<url>URL#1515279</url>
+</hit>
+<hit score="1" id="1515280">
+<info><authors><author pid="272/6217">Sabarish Krishna Moorthy</author><author pid="24/5237">Zhangyu Guan</author></authors><title>FlyTera: Echo State Learning for Joint Access and Flight Control in THz-enabled Drone Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/MoorthyG20</key><doi>10.1109/SECON48991.2020.9158415</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158415</ee><url>https://dblp.org/rec/conf/secon/MoorthyG20</url></info>
+<url>URL#1515280</url>
+</hit>
+<hit score="1" id="1515281">
+<info><authors><author pid="247/8439">Qi Qiao</author><author pid="60/7270">Daojing He</author><author pid="90/2817">Yun Gao</author><author pid="40/2231">Sencun Zhu</author><author pid="233/9500">Jiahao Gao</author><author pid="68/4423">Sammy Chan</author></authors><title>Hybrid Intrusion Detection Mechanisms for Integrated Electronic Systems.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/QiaoHGZGC20</key><doi>10.1109/SECON48991.2020.9158421</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158421</ee><url>https://dblp.org/rec/conf/secon/QiaoHGZGC20</url></info>
+<url>URL#1515281</url>
+</hit>
+<hit score="1" id="1515282">
+<info><authors><author pid="249/5741">Panneer Selvam Santhalingam</author><author pid="266/2837">Yuanqi Du</author><author pid="266/2872">Riley Wilkerson</author><author pid="249/5634">Al Amin Hosain</author><author pid="36/5080">Ding Zhang</author><author pid="62/8333">Parth H. Pathak</author><author pid="30/444">Huzefa Rangwala</author><author pid="62/8359">Raja S. Kushalnagar</author></authors><title>Expressive ASL Recognition using Millimeter-wave Wireless Signals.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SanthalingamDWH20</key><doi>10.1109/SECON48991.2020.9158441</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158441</ee><url>https://dblp.org/rec/conf/secon/SanthalingamDWH20</url></info>
+<url>URL#1515282</url>
+</hit>
+<hit score="1" id="1515284">
+<info><authors><author pid="201/5644">Alireza Shahanaghi</author><author pid="10/3200">Yaling Yang</author><author pid="50/6804">R. Michael Buehrer</author></authors><title>Link Stability Analysis of Wireless Sensor Networks Over the Ocean Surface.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShahanaghiYB20</key><doi>10.1109/SECON48991.2020.9158418</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158418</ee><url>https://dblp.org/rec/conf/secon/ShahanaghiYB20</url></info>
+<url>URL#1515284</url>
+</hit>
+<hit score="1" id="1515287">
+<info><authors><author pid="135/6278">Zhong-qin Wang</author><author pid="09/0-1">Min Xu 0001</author><author pid="49/1785">Ning Ye</author><author pid="22/6402">Haiping Huang</author><author pid="85/5653-1">Ruchuan Wang 0001</author><author pid="91/8079-1">Fu Xiao 0001</author></authors><title>RF-Mirror: Mitigating Mutual Coupling Interference in Two-Tag Array Labeled RFID Systems.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangXYHW020</key><doi>10.1109/SECON48991.2020.9158443</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158443</ee><url>https://dblp.org/rec/conf/secon/WangXYHW020</url></info>
+<url>URL#1515287</url>
+</hit>
+<hit score="1" id="1515288">
+<info><authors><author pid="150/5759">Hengzhi Wang</author><author pid="01/6376">Yongjian Yang</author><author pid="94/10612">En Wang</author><author pid="87/793">Wenbin Liu</author><author pid="184/4944">Yuanbo Xu</author><author pid="w/JieWu1">Jie Wu 0001</author></authors><title>Combinatorial Multi-Armed Bandit Based User Recruitment in Mobile Crowdsensing.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangYWLX020</key><doi>10.1109/SECON48991.2020.9158448</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158448</ee><url>https://dblp.org/rec/conf/secon/WangYWLX020</url></info>
+<url>URL#1515288</url>
+</hit>
+<hit score="1" id="1515289">
+<info><authors><author pid="09/8269">Yuting Wang</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>CoHop: Quantitative Correlation based Channel Hopping for Low-power Wireless Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangZLM20</key><doi>10.1109/SECON48991.2020.9158435</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158435</ee><url>https://dblp.org/rec/conf/secon/WangZLM20</url></info>
+<url>URL#1515289</url>
+</hit>
+<hit score="1" id="1515290">
+<info><authors><author pid="279/5447">Kristina Sorensen Wheatman</author><author pid="137/0256">Fidan Mehmeti</author><author pid="207/3455">Mark Mahon</author><author pid="20/1303">Hang Qiu</author><author pid="129/2261">Kevin S. Chan</author><author pid="l/TomLaPorta">Thomas F. La Porta</author></authors><title>Optimal Resource Allocation for Crowdsourced Image Processing.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WheatmanMMQCP20</key><doi>10.1109/SECON48991.2020.9158417</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158417</ee><url>https://dblp.org/rec/conf/secon/WheatmanMMQCP20</url></info>
+<url>URL#1515290</url>
+</hit>
+<hit score="1" id="1515291">
+<info><authors><author pid="38/4472">Hejun Wu</author><author pid="284/3797">Baiyun Xu</author><author pid="c/JiannongCao">Jiannong Cao 0001</author><author pid="284/4238">Yongkang Wang 0009</author><author pid="262/2557">Zhongheng Yang</author></authors><title>FlagLoc: Localization Using a Flag for Mobile Wireless Sensor Networks with Measurement Errors.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WuX0WY20</key><doi>10.1109/SECON48991.2020.9158409</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158409</ee><url>https://dblp.org/rec/conf/secon/WuX0WY20</url></info>
+<url>URL#1515291</url>
+</hit>
+<hit score="1" id="1515292">
+<info><authors><author pid="68/10839">Qiufen Xia</author><author pid="284/4268">Wenhao Ren</author><author pid="05/8410">Zichuan Xu</author><author pid="84/6614">Pan Zhou</author><author pid="00/9492">Wenzheng Xu</author><author pid="51/1027">Guowei Wu</author></authors><title>Learn to Optimize: Adaptive VNF Provisioning in Mobile Edge Clouds.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XiaRXZXW20</key><doi>10.1109/SECON48991.2020.9158427</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158427</ee><url>https://dblp.org/rec/conf/secon/XiaRXZXW20</url></info>
+<url>URL#1515292</url>
+</hit>
+<hit score="1" id="1515293">
+<info><authors><author pid="27/6461">Dan Xia</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="239/4819">Chaoyu Wang</author><author pid="04/6217">Huadong Ma</author></authors><title>c-Chirp: Towards Symmetric Cross-technology Communication over Asymmetric Channels.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XiaZLWM20</key><doi>10.1109/SECON48991.2020.9158411</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158411</ee><url>https://dblp.org/rec/conf/secon/XiaZLWM20</url></info>
+<url>URL#1515293</url>
+</hit>
+<hit score="1" id="1515294">
+<info><authors><author pid="40/1068">Lin Xu</author><author pid="49/1245-8">Jia Liu 0008</author><author pid="64/5700">Xia Wang</author><author pid="279/2277">Hualin Gong</author><author pid="62/6975">Yanyan Wang</author><author pid="c/LijunChen6">Lijun Chen 0006</author></authors><title>HF RFID-based Book Localization via Mobile Scanning.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XuLWGWC20</key><doi>10.1109/SECON48991.2020.9158442</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158442</ee><url>https://dblp.org/rec/conf/secon/XuLWGWC20</url></info>
+<url>URL#1515294</url>
+</hit>
+<hit score="1" id="1515295">
+<info><authors><author pid="178/7258">Zhenqiang Xu</author><author pid="220/9672">Shuai Tong</author><author pid="209/8660">Pengjin Xie</author><author pid="75/3699">Jiliang Wang</author></authors><title>FlipLoRa: Resolving Collisions with Up-Down Quasi-Orthogonality.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XuTXW20</key><doi>10.1109/SECON48991.2020.9158432</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158432</ee><url>https://dblp.org/rec/conf/secon/XuTXW20</url></info>
+<url>URL#1515295</url>
+</hit>
+<hit score="1" id="1515296">
+<info><authors><author pid="187/1683">Yanni Yang</author><author pid="c/JiannongCao">Jiannong Cao 0001</author></authors><title>Robust RFID-based Respiration Monitoring in Dynamic Environments.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Yang020</key><doi>10.1109/SECON48991.2020.9158419</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158419</ee><url>https://dblp.org/rec/conf/secon/Yang020</url></info>
+<url>URL#1515296</url>
+</hit>
+<hit score="1" id="1515297">
+<info><authors><author pid="33/4854">Yi Yang</author><author pid="32/5505">Anfu Zhou</author><author pid="243/6473">Dongzhu Xu</author><author pid="188/5250">Shaoyuan Yang</author><author pid="284/3958">Lele Wu</author><author pid="04/6217">Huadong Ma</author><author pid="137/0134">Teng Wei</author><author pid="00/5899">Jianhua Liu</author></authors><title>mmMuxing: Pushing the Limit of Spatial Reuse in Directional Millimeter-wave Wireless Networks.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangZXYWMWL20</key><doi>10.1109/SECON48991.2020.9158423</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158423</ee><url>https://dblp.org/rec/conf/secon/YangZXYWMWL20</url></info>
+<url>URL#1515297</url>
+</hit>
+<hit score="1" id="1515298">
+<info><authors><author pid="226/4806">Chenhao Ying</author><author pid="14/3177">Haiming Jin</author><author pid="69/5181-1">Xudong Wang 0001</author><author pid="90/6959-3">Yuan Luo 0003</author></authors><title>CHASTE: Incentive Mechanism in Edge-Assisted Mobile Crowdsensing.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YingJ0020</key><doi>10.1109/SECON48991.2020.9158412</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158412</ee><url>https://dblp.org/rec/conf/secon/YingJ0020</url></info>
+<url>URL#1515298</url>
+</hit>
+<hit score="1" id="1515299">
+<info><authors><author pid="271/9903">Wencong You</author><author pid="47/91-2">Lei Jiao 0002</author><author pid="69/3637">Sourav Bhattacharya</author><author pid="48/2168-13">Yuan Zhang 0013</author></authors><title>Dynamic Distributed Edge Resource Provisioning via Online Learning across Timescales.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YouJB020</key><doi>10.1109/SECON48991.2020.9158422</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158422</ee><url>https://dblp.org/rec/conf/secon/YouJB020</url></info>
+<url>URL#1515299</url>
+</hit>
+<hit score="1" id="1515300">
+<info><authors><author pid="202/2146">Ayman Younis</author><author pid="246/7385">Brian Qiu</author><author pid="47/3212">Dario Pompili</author></authors><title>Latency-aware Hybrid Edge Cloud Framework for Mobile Augmented Reality Applications.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YounisQP20</key><doi>10.1109/SECON48991.2020.9158429</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158429</ee><url>https://dblp.org/rec/conf/secon/YounisQP20</url></info>
+<url>URL#1515300</url>
+</hit>
+<hit score="1" id="1515301">
+<info><authors><author pid="06/6785-31">Yang Zhang 0031</author><author pid="84/3152">Xiangyu Dong</author><author pid="234/2928">Lanyu Shang</author><author pid="194/7739">Daniel Zhang 0001</author><author pid="40/3934-2">Dong Wang 0002</author></authors><title>A Multi-modal Graph Neural Network Approach to Traffic Risk Forecasting in Smart Urban Sensing.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangDSZW20</key><doi>10.1109/SECON48991.2020.9158447</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158447</ee><url>https://dblp.org/rec/conf/secon/ZhangDSZW20</url></info>
+<url>URL#1515301</url>
+</hit>
+<hit score="1" id="1515302">
+<info><authors><author pid="27/3057">Wenjing Zhang</author><author pid="166/1871">Yuchuan Luo</author><author pid="98/902">Shaojing Fu</author><author pid="181/2328">Tao Xie</author></authors><title>Privacy-Preserving Reputation Management for Blockchain-Based Mobile Crowdsensing.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangLFX20</key><doi>10.1109/SECON48991.2020.9158420</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158420</ee><url>https://dblp.org/rec/conf/secon/ZhangLFX20</url></info>
+<url>URL#1515302</url>
+</hit>
+<hit score="1" id="1515303">
+<info><authors><author pid="06/6785-31">Yang Zhang 0031</author><author pid="259/6548">Ruohan Zong</author><author pid="02/3721">Jun Han</author><author pid="194/7739">Daniel Zhang 0001</author><author pid="180/8984">Md. Tahmid Rashid</author><author pid="40/3934-2">Dong Wang 0002</author></authors><title>TransRes: A Deep Transfer Learning Approach to Migratable Image Super-Resolution in Remote Urban Sensing.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangZHZRW20</key><doi>10.1109/SECON48991.2020.9158410</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158410</ee><url>https://dblp.org/rec/conf/secon/ZhangZHZRW20</url></info>
+<url>URL#1515303</url>
+</hit>
+<hit score="1" id="1515304">
+<info><authors><author pid="64/675">Ruiling Zhang</author><author pid="z/MarcoZuniga">Marco Antonio Zúñiga Zamalloa</author><author pid="48/10231">Vana Jelicic</author><author pid="09/1058">Martin Siegel</author></authors><title>Exploiting Color Sensors to Provide Optimal Lighting and Anonymous Tracking in Stores.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangZJS20</key><doi>10.1109/SECON48991.2020.9158438</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158438</ee><url>https://dblp.org/rec/conf/secon/ZhangZJS20</url></info>
+<url>URL#1515304</url>
+</hit>
+<hit score="1" id="1515305">
+<info><authors><author pid="116/8682">Shuai Zhao</author><author pid="41/10513">Xiaopeng Jiang</author><author pid="35/6153">Guy Jacobson</author><author pid="18/6174">Rittwik Jana</author><author pid="58/4696">Wen-Ling Hsu</author><author pid="39/2892">Raif M. Rustamov</author><author pid="120/6455">Manoop Talasila</author><author pid="228/7793">Syed Anwar Aftab</author><author pid="88/6466-1">Yi Chen 0001</author><author pid="69/87">Cristian Borcea</author></authors><title>Cellular Network Traffic Prediction Incorporating Handover: A Graph Convolutional Approach.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhaoJJJHRTACB20</key><doi>10.1109/SECON48991.2020.9158437</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158437</ee><url>https://dblp.org/rec/conf/secon/ZhaoJJJHRTACB20</url></info>
+<url>URL#1515305</url>
+</hit>
+<hit score="1" id="1515306">
+<info><authors><author pid="79/7991">Zhijun Zhou</author><author pid="284/3874">Yingtian Zhang</author><author pid="08/1625">Xiaojing Yu</author><author pid="79/1482">Panlong Yang</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author><author pid="69/5882">Jing Zhao</author><author pid="63/778-1">Hao Zhou 0001</author></authors><title>XHAR: Deep Domain Adaptation for Human Activity Recognition with Smart Devices.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhouZYY0ZZ20</key><doi>10.1109/SECON48991.2020.9158431</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158431</ee><url>https://dblp.org/rec/conf/secon/ZhouZYY0ZZ20</url></info>
+<url>URL#1515306</url>
+</hit>
+<hit score="1" id="1515307">
+<info><authors><author pid="195/5650">Shaopeng Zhu</author><author pid="98/3341-2">Xiaolong Zheng 0002</author><author pid="10/6178-1">Liang Liu 0001</author><author pid="04/6217">Huadong Ma</author></authors><title>AirSync: Time Synchronization for Large-scale IoT Networks Using Aircraft Signals.</title><venue>SECON</venue><pages>1-9</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhuZLM20</key><doi>10.1109/SECON48991.2020.9158433</doi><ee>https://doi.org/10.1109/SECON48991.2020.9158433</ee><url>https://dblp.org/rec/conf/secon/ZhuZLM20</url></info>
+<url>URL#1515307</url>
+</hit>
+<hit score="1" id="1541044">
+<info><title>17th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2020, Virtual Event, Italy, June 22-25, 2020</title><venue>SECON</venue><publisher>IEEE</publisher><year>2020</year><type>Editorship</type><key>conf/secon/2020</key><doi>10.1109/SECON48991.2020</doi><ee>https://doi.org/10.1109/SECON48991.2020</ee><url>https://dblp.org/rec/conf/secon/2020</url></info>
+<url>URL#1541044</url>
+</hit>
+</hits>
+</result>

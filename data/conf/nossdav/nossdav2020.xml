@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59642">:facetid:toc:\"db/conf/nossdav/nossdav2020.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">187.35</time>
+<completions total="1" computed="1" sent="1">
+<c sc="11" dc="11" oc="11" id="41057626">:facetid:toc:db/conf/nossdav/nossdav2020.bht</c>
+</completions>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="1505480">
+<info><authors><author pid="73/9245">Miguel Catalan-Cid</author><author pid="78/2511">Daniel Camps-Mur</author><author pid="08/8087">Mario Montagud</author><author pid="117/5429">August Betzler</author></authors><title>FALCON: joint fair airtime allocation and rate control for DASH video streaming in software defined wireless networks.</title><venue>NOSSDAV</venue><pages>14-20</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/Catalan-CidCMB20</key><doi>10.1145/3386290.3396931</doi><ee>https://doi.org/10.1145/3386290.3396931</ee><url>https://dblp.org/rec/conf/nossdav/Catalan-CidCMB20</url></info>
+<url>URL#1505480</url>
+</hit>
+<hit score="1" id="1505481">
+<info><authors><author pid="00/8844">Gianluca Cernigliaro</author><author pid="266/2445">Marc Martos Cabré</author><author pid="08/8087">Mario Montagud</author><author pid="227/5389">Amir Ansari</author><author pid="18/10714">Sergi Fernández</author></authors><title>PC-MCU: point cloud multipoint control unit for multi-user holoconferencing systems.</title><venue>NOSSDAV</venue><pages>47-53</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/CernigliaroMMAF20</key><doi>10.1145/3386290.3396936</doi><ee>https://doi.org/10.1145/3386290.3396936</ee><url>https://dblp.org/rec/conf/nossdav/CernigliaroMMAF20</url></info>
+<url>URL#1505481</url>
+</hit>
+<hit score="1" id="1505482">
+<info><authors><author pid="04/6087">Jiawen Chen</author><author pid="74/8189">Miao Hu</author><author pid="66/2693">Zhenxiao Luo</author><author pid="36/7666">Zelong Wang</author><author pid="52/328-1">Di Wu 0001</author></authors><title>SR360: boosting 360-degree video streaming with super-resolution.</title><venue>NOSSDAV</venue><pages>1-6</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/ChenHLWW20</key><doi>10.1145/3386290.3396929</doi><ee>https://doi.org/10.1145/3386290.3396929</ee><url>https://dblp.org/rec/conf/nossdav/ChenHLWW20</url></info>
+<url>URL#1505482</url>
+</hit>
+<hit score="1" id="1505483">
+<info><authors><author pid="167/9019">Serhan Gül</author><author pid="193/6756">Dimitri Podborski</author><author pid="b/ThomasBuchholz">Thomas Buchholz</author><author pid="13/340">Thomas Schierl</author><author pid="58/2455">Cornelius Hellge</author></authors><title>Low-latency cloud-based volumetric video streaming using head motion prediction.</title><venue>NOSSDAV</venue><pages>27-33</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/GulPBSH20</key><doi>10.1145/3386290.3396933</doi><ee>https://doi.org/10.1145/3386290.3396933</ee><url>https://dblp.org/rec/conf/nossdav/GulPBSH20</url></info>
+<url>URL#1505483</url>
+</hit>
+<hit score="1" id="1505484">
+<info><authors><author pid="179/0903">Jianchao He</author><author pid="74/8189">Miao Hu</author><author pid="78/6594">Yipeng Zhou</author><author pid="52/328-1">Di Wu 0001</author></authors><title>LiveClip: towards intelligent mobile short-form video streaming with deep reinforcement learning.</title><venue>NOSSDAV</venue><pages>54-59</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/HeHZW20</key><doi>10.1145/3386290.3396937</doi><ee>https://doi.org/10.1145/3386290.3396937</ee><url>https://dblp.org/rec/conf/nossdav/HeHZW20</url></info>
+<url>URL#1505484</url>
+</hit>
+<hit score="1" id="1505485">
+<info><authors><author pid="119/5055">Mohammad Ashraful Hoque</author><author pid="43/1348">Ashwin Rao</author><author pid="67/6188-11">Abhishek Kumar 0011</author><author pid="a/MHAmmar">Mostafa H. Ammar</author><author pid="62/1272-1">Pan Hui 0001</author><author pid="66/5629">Sasu Tarkoma</author></authors><title>Sensing multimedia contexts on mobile devices.</title><venue>NOSSDAV</venue><pages>40-46</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/HoqueRKAHT20</key><doi>10.1145/3386290.3396935</doi><ee>https://doi.org/10.1145/3386290.3396935</ee><url>https://dblp.org/rec/conf/nossdav/HoqueRKAHT20</url></info>
+<url>URL#1505485</url>
+</hit>
+<hit score="1" id="1505486">
+<info><authors><author pid="220/3448">Tianchi Huang</author><author pid="220/3394">Rui-Xiao Zhang</author><author pid="06/2128">Lifeng Sun</author></authors><title>Self-play reinforcement learning for video transmission.</title><venue>NOSSDAV</venue><pages>7-13</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/HuangZS20</key><doi>10.1145/3386290.3396930</doi><ee>https://doi.org/10.1145/3386290.3396930</ee><url>https://dblp.org/rec/conf/nossdav/HuangZS20</url></info>
+<url>URL#1505486</url>
+</hit>
+<hit score="1" id="1505487">
+<info><authors><author pid="266/2491">Tomasz Lyko</author><author pid="134/2967">Matthew Broadbent</author><author pid="r/NicholasJPRace">Nicholas J. P. Race</author><author pid="30/3365">Mike Nilsson</author><author pid="168/8390">Paul Farrow</author><author pid="41/2000">Steve Appleby</author></authors><title>Evaluation of CMAF in live streaming scenarios.</title><venue>NOSSDAV</venue><pages>21-26</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/LykoBRNFA20</key><doi>10.1145/3386290.3396932</doi><ee>https://doi.org/10.1145/3386290.3396932</ee><url>https://dblp.org/rec/conf/nossdav/LykoBRNFA20</url></info>
+<url>URL#1505487</url>
+</hit>
+<hit score="1" id="1505488">
+<info><authors><author pid="198/3957">Afshin Taghavi Nasrabadi</author><author pid="228/1364">Aliehsan Samiei</author><author pid="p/RaviPrakash">Ravi Prakash 0001</author></authors><title>Viewport prediction for 360° videos: a clustering approach.</title><venue>NOSSDAV</venue><pages>34-39</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/NasrabadiSP20</key><doi>10.1145/3386290.3396934</doi><ee>https://doi.org/10.1145/3386290.3396934</ee><url>https://dblp.org/rec/conf/nossdav/NasrabadiSP20</url></info>
+<url>URL#1505488</url>
+</hit>
+<hit score="1" id="1505489">
+<info><authors><author pid="115/5967">Shichang Xu</author><author pid="47/1827">Eric Petajan</author><author pid="71/3761">Subhabrata Sen</author><author pid="91/584">Z. Morley Mao</author></authors><title>What you see is what you get: measure ABR video streaming QoE via on-device screen recording.</title><venue>NOSSDAV</venue><pages>60-66</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/nossdav/XuPSM20</key><doi>10.1145/3386290.3396938</doi><ee>https://doi.org/10.1145/3386290.3396938</ee><url>https://dblp.org/rec/conf/nossdav/XuPSM20</url></info>
+<url>URL#1505489</url>
+</hit>
+<hit score="1" id="1540763">
+<info><authors><author pid="46/1394">M. Reha Civanlar</author><author pid="29/2981">Lucile Sassatelli</author><author pid="70/1152">Jong-Seok Lee</author></authors><title>Proceedings of the 30th ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, NOSSDAV 2020, Istanbul, Turkey, June 10-11, 2020</title><venue>NOSSDAV</venue><publisher>ACM</publisher><year>2020</year><type>Editorship</type><key>conf/nossdav/2020</key><doi>10.1145/3386290</doi><ee>https://doi.org/10.1145/3386290</ee><url>https://dblp.org/rec/conf/nossdav/2020</url></info>
+<url>URL#1540763</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59462">:facetid:toc:\"db/conf/secon/secon2018.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">190.71</time>
+<completions total="1" computed="1" sent="1">
+<c sc="66" dc="66" oc="66" id="41063423">:facetid:toc:db/conf/secon/secon2018.bht</c>
+</completions>
+<hits total="66" computed="66" sent="66" first="0">
+<hit score="1" id="2331245">
+<info><authors><author pid="40/3934-2">Dong Wang 0002</author><author pid="194/7739">Daniel Zhang 0001</author><author pid="18/4087-1">Chao Huang 0001</author></authors><title>Towards Reliable Hypothesis Validation in Social Sensing Applications.</title><venue>SECON</venue><pages>64-72</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/0002ZH18</key><doi>10.1109/SAHCN.2018.8397103</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397103</ee><url>https://dblp.org/rec/conf/secon/0002ZH18</url></info>
+<url>URL#2331245</url>
+</hit>
+<hit score="1" id="2331246">
+<info><authors><author pid="158/1369">Ni An</author><author pid="220/6991">Steven Weber 0001</author></authors><title>Efficiency and Detectability of Random Reactive Jamming in Wireless Networks.</title><venue>SECON</venue><pages>10-18</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/AnW18</key><doi>10.1109/SAHCN.2018.8397097</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397097</ee><url>https://dblp.org/rec/conf/secon/AnW18</url></info>
+<url>URL#2331246</url>
+</hit>
+<hit score="1" id="2331247">
+<info><authors><author pid="218/6075">Shumin Cao</author><author pid="79/1482">Panlong Yang</author><author pid="l/XiangYangLi">Xiangyang Li 0001</author><author pid="21/6611">Mingshi Chen</author><author pid="222/5477">Peide Zhu</author></authors><title>iPand: Accurate Gesture Input with Smart Acoustic Sensing on Hand.</title><venue>SECON</venue><pages>468-470</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CaoYLCZ18</key><doi>10.1109/SAHCN.2018.8397157</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397157</ee><url>https://dblp.org/rec/conf/secon/CaoYLCZ18</url></info>
+<url>URL#2331247</url>
+</hit>
+<hit score="1" id="2331248">
+<info><authors><author pid="222/5438">Guodong Cao</author><author pid="63/778-1">Hao Zhou 0001</author><author pid="222/5388">Hangkai Zhang</author><author pid="90/514">Jun Xu</author><author pid="79/1482">Panlong Yang</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Requirement-Driven Magnetic Beamforming for MIMO Wireless Power Transfer Optimization.</title><venue>SECON</venue><pages>388-396</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CaoZZXY018</key><doi>10.1109/SAHCN.2018.8397139</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397139</ee><url>https://dblp.org/rec/conf/secon/CaoZZXY018</url></info>
+<url>URL#2331248</url>
+</hit>
+<hit score="1" id="2331249">
+<info><authors><author pid="136/2177">Wenqiang Chen</author><author pid="203/9302">Maoning Guan</author><author pid="222/5431">Yandao Huang</author><author pid="49/3800-2">Lu Wang 0002</author><author pid="33/1726">Rukhsana Ruby</author><author pid="01/6410">Wen Hu</author><author pid="34/4445">Kaishun Wu</author></authors><title>ViType: A Cost Efficient On-Body Typing System through Vibration.</title><venue>SECON</venue><pages>19-27</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChenGHWRHW18</key><doi>10.1109/SAHCN.2018.8397098</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397098</ee><url>https://dblp.org/rec/conf/secon/ChenGHWRHW18</url></info>
+<url>URL#2331249</url>
+</hit>
+<hit score="1" id="2331250">
+<info><authors><author pid="64/8022">Linlin Chen</author><author pid="12/11514">Taeho Jung</author><author pid="91/7389">Haohua Du</author><author pid="176/5924">Jianwei Qian</author><author pid="167/5933">Jiahui Hou</author><author pid="l/XiangYangLi">Xiang-Yang Li 0001</author></authors><title>Crowdlearning: Crowded Deep Learning with Data Privacy.</title><venue>SECON</venue><pages>37-45</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChenJDQH018</key><doi>10.1109/SAHCN.2018.8397100</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397100</ee><url>https://dblp.org/rec/conf/secon/ChenJDQH018</url></info>
+<url>URL#2331250</url>
+</hit>
+<hit score="1" id="2331251">
+<info><authors><author pid="59/7651">Xingyu Chen</author><author pid="49/1245-8">Jia Liu 0008</author><author pid="64/5700">Xia Wang</author><author pid="201/8080">Xiaocong Zhang</author><author pid="62/6975">Yanyan Wang</author><author pid="c/LijunChen6">Lijun Chen 0006</author></authors><title>Combating Tag Cloning with COTS RFID Devices.</title><venue>SECON</venue><pages>343-351</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChenLWZW018</key><doi>10.1109/SAHCN.2018.8397134</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397134</ee><url>https://dblp.org/rec/conf/secon/ChenLWZW018</url></info>
+<url>URL#2331251</url>
+</hit>
+<hit score="1" id="2331253">
+<info><authors><author pid="35/5618">Junyoung Choi</author><author pid="177/6291">Gyujin Lee</author><author pid="128/2627">Yeonchul Shin</author><author pid="128/2679">Jonghoe Koo</author><author pid="82/9089">Minseok Jang</author><author pid="c/SunghyunChoi">Sunghyun Choi 0001</author></authors><title>BLEND: BLE Beacon-Aided Fast WiFi Handoff for Smartphones.</title><venue>SECON</venue><pages>253-261</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChoiLSKJC18</key><doi>10.1109/SAHCN.2018.8397124</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397124</ee><url>https://dblp.org/rec/conf/secon/ChoiLSKJC18</url></info>
+<url>URL#2331253</url>
+</hit>
+<hit score="1" id="2331255">
+<info><authors><author pid="56/8471">Jing Chu</author><author pid="77/2062-4">Kun Qian 0004</author><author pid="w/XuWang18">Xu Wang 0018</author><author pid="56/6651-1">Lina Yao 0001</author><author pid="91/8079-1">Fu Xiao 0001</author><author pid="19/1228">Jianbo Li</author><author pid="62/4917">Xin Miao</author><author pid="59/5806-2">Zheng Yang 0002</author></authors><title>Passenger Demand Prediction with Cellular Footprints.</title><venue>SECON</venue><pages>163-171</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ChuQWYXLMY18</key><doi>10.1109/SAHCN.2018.8397114</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397114</ee><url>https://dblp.org/rec/conf/secon/ChuQWYXLMY18</url></info>
+<url>URL#2331255</url>
+</hit>
+<hit score="1" id="2331256">
+<info><authors><author pid="183/1778">Max Curran</author><author pid="127/6111">Md. Shaifur Rahman</author><author pid="g/HimanshuGupta">Himanshu Gupta 0001</author><author pid="45/4044">Vyas Sekar</author></authors><title>Rethinking Virtual Network Embedding in Reconfigurable Networks.</title><venue>SECON</venue><pages>424-432</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/CurranRGS18</key><doi>10.1109/SAHCN.2018.8397143</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397143</ee><url>https://dblp.org/rec/conf/secon/CurranRGS18</url></info>
+<url>URL#2331256</url>
+</hit>
+<hit score="1" id="2331257">
+<info><authors><author pid="161/2796">Saandeep Depatla</author><author pid="73/3144">Yasamin Mostofi</author></authors><title>Passive Crowd Speed Estimation and Head Counting Using WiFi.</title><venue>SECON</venue><pages>208-216</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DepatlaM18</key><doi>10.1109/SAHCN.2018.8397119</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397119</ee><url>https://dblp.org/rec/conf/secon/DepatlaM18</url></info>
+<url>URL#2331257</url>
+</hit>
+<hit score="1" id="2331258">
+<info><authors><author pid="57/4533">Yan Ding</author><author pid="66/3019-4">Chao Chen 0004</author><author pid="222/5480">Xuefeng Xie</author><author pid="73/4566-1">Kai Liu 0001</author><author pid="07/5681">Liang Feng</author></authors><title>An Online Trajectory Compression System Applied to Resource-Constrained GPS Devices in Vehicles.</title><venue>SECON</venue><pages>477-479</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DingCXLF18</key><doi>10.1109/SAHCN.2018.8397160</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397160</ee><url>https://dblp.org/rec/conf/secon/DingCXLF18</url></info>
+<url>URL#2331258</url>
+</hit>
+<hit score="1" id="2331259">
+<info><authors><author pid="02/6435">Changlai Du</author><author pid="88/8376">Xiaoqun Yuan</author><author pid="73/3673">Wenjing Lou</author><author pid="h/YTHou">Y. Thomas Hou 0001</author></authors><title>Context-Free Fine-Grained Motion Sensing Using WiFi.</title><venue>SECON</venue><pages>199-207</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/DuYLH18</key><doi>10.1109/SAHCN.2018.8397118</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397118</ee><url>https://dblp.org/rec/conf/secon/DuYLH18</url></info>
+<url>URL#2331259</url>
+</hit>
+<hit score="1" id="2331260">
+<info><authors><author pid="43/8404">Guangsheng Feng</author><author pid="213/8482">Sen Liang</author><author pid="19/3380">Huiqiang Wang</author><author pid="151/5007">Junyu Lin</author><author pid="68/8684">Jingyao Liu</author><author pid="87/8407">Hongwu Lv</author><author pid="116/8682">Shuai Zhao</author></authors><title>Abstract: An Indoor Localization Simulation Platform for Localization Accuracy Evaluation.</title><venue>SECON</venue><pages>471-473</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/FengLWLLLZ18</key><doi>10.1109/SAHCN.2018.8397158</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397158</ee><url>https://dblp.org/rec/conf/secon/FengLWLLLZ18</url></info>
+<url>URL#2331260</url>
+</hit>
+<hit score="1" id="2331261">
+<info><authors><author pid="138/6317">Songwei Fu</author><author pid="15/1762-1">Matteo Ceriotti 0001</author><author pid="52/146">Yuming Jiang 0001</author><author pid="88/1891">Chia-Yen Shih</author><author pid="194/3060">Xintao Huan</author><author pid="65/3060">Pedro José Marrón</author></authors><title>An Approach to Detect Anomalous Degradation in Signal Strength of IEEE 802.15.4 Links.</title><venue>SECON</venue><pages>271-279</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/FuCJSHM18</key><doi>10.1109/SAHCN.2018.8397126</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397126</ee><url>https://dblp.org/rec/conf/secon/FuCJSHM18</url></info>
+<url>URL#2331261</url>
+</hit>
+<hit score="1" id="2331262">
+<info><authors><author pid="222/5449">Yongqin Fu</author><author pid="61/2118">Yuexuan Wang</author><author pid="128/8237">Zhaoquan Gu</author><author pid="09/5763">Xiaolin Zheng</author><author pid="222/5386">Tianhao Wei</author><author pid="98/6208">Zhen Cao</author><author pid="59/5565">Heming Cui</author><author pid="l/FrancisChiMoonLau">Francis C. M. Lau 0001</author></authors><title>How Local Information Improves Rendezvous in Cognitive Radio Networks.</title><venue>SECON</venue><pages>352-360</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/FuWGZWCC018</key><doi>10.1109/SAHCN.2018.8397135</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397135</ee><url>https://dblp.org/rec/conf/secon/FuWGZWCC018</url></info>
+<url>URL#2331262</url>
+</hit>
+<hit score="1" id="2331264">
+<info><authors><author pid="14/8405">Xinjie Guan</author><author pid="99/1699">Jia Yin</author><author pid="99/8401">Xili Wan</author><author pid="222/5418">Tianjing Wang</author><author pid="90/3078">Guangwei Bai</author></authors><title>A Stackelberg Game Model for Dynamic Resource Scheduling in Edge Computing with Cooperative Cloudlets.</title><venue>SECON</venue><pages>444-445</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/GuanYWWB18</key><doi>10.1109/SAHCN.2018.8397146</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397146</ee><url>https://dblp.org/rec/conf/secon/GuanYWWB18</url></info>
+<url>URL#2331264</url>
+</hit>
+<hit score="1" id="2331267">
+<info><authors><author pid="222/5445">Yi Chun Hsiao</author><author pid="60/2777-1">Chien-Ming Chen 0001</author><author pid="66/4850">Che Lin</author></authors><title>Energy Efficiency Maximization in Multi-User Miso Mixed RF/VLC Heterogeneous Cellular Networks.</title><venue>SECON</venue><pages>82-90</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HsiaoCL18</key><doi>10.1109/SAHCN.2018.8397105</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397105</ee><url>https://dblp.org/rec/conf/secon/HsiaoCL18</url></info>
+<url>URL#2331267</url>
+</hit>
+<hit score="1" id="2331268">
+<info><authors><author pid="77/9577">Chin-Ya Huang</author><author pid="12/3055">Hong-Yi Wang</author><author pid="222/5491">Yu-Pei Wu</author></authors><title>SDWDS: Fault Recovery Automation in IoTs.</title><venue>SECON</venue><pages>456-457</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/HuangWW18</key><doi>10.1109/SAHCN.2018.8397152</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397152</ee><url>https://dblp.org/rec/conf/secon/HuangWW18</url></info>
+<url>URL#2331268</url>
+</hit>
+<hit score="1" id="2331269">
+<info><authors><author pid="47/91-2">Lei Jiao 0002</author><author pid="119/2673">Lingjun Pu</author><author pid="17/6729-15">Lin Wang 0015</author><author pid="38/5957-1">Xiaojun Lin 0001</author><author pid="l/JunLi1">Jun Li 0001</author></authors><title>Multiple Granularity Online Control of Cloudlet Networks for Edge Computing.</title><venue>SECON</venue><pages>406-414</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/JiaoPWLL18</key><doi>10.1109/SAHCN.2018.8397141</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397141</ee><url>https://dblp.org/rec/conf/secon/JiaoPWLL18</url></info>
+<url>URL#2331269</url>
+</hit>
+<hit score="1" id="2331270">
+<info><authors><author pid="222/5514">Feiyu Jin</author><author pid="73/4566-1">Kai Liu 0001</author><author pid="55/2270-65">Hao Zhang 0065</author><author pid="07/5681">Liang Feng</author><author pid="66/3019-4">Chao Chen 0004</author><author pid="10/2312-1">Weiwei Wu 0001</author></authors><title>Towards Scalable Indoor Localization with Particle Filter and Wi-Fi Fingerprint.</title><venue>SECON</venue><pages>464-465</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/Jin0ZF0W18</key><doi>10.1109/SAHCN.2018.8397155</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397155</ee><url>https://dblp.org/rec/conf/secon/Jin0ZF0W18</url></info>
+<url>URL#2331270</url>
+</hit>
+<hit score="1" id="2331271">
+<info><authors><author pid="120/0108">Naigao Jin</author><author pid="05/3403">Xin Zhou</author><author pid="24/8037">Chi Lin</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="97/2274-35">Yu Liu 0035</author><author pid="163/8921">Mathew L. Wymore</author><author pid="32/2358">Daji Qiao</author></authors><title>ThunderLoc: Smartphone-Based Crowdsensing for Thunder Localization.</title><venue>SECON</venue><pages>452-453</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/JinZLWLWQ18</key><doi>10.1109/SAHCN.2018.8397150</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397150</ee><url>https://dblp.org/rec/conf/secon/JinZLWLWQ18</url></info>
+<url>URL#2331271</url>
+</hit>
+<hit score="1" id="2331272">
+<info><authors><author pid="167/8006">Çagdas Karatas</author><author pid="69/8167">Luyang Liu</author><author pid="87/88">Marco Gruteser</author><author pid="26/1455">Richard E. Howard</author></authors><title>Single-Sensor Motion and Orientation Tracking in a Moving Vehicle.</title><venue>SECON</venue><pages>181-189</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KaratasLGH18</key><doi>10.1109/SAHCN.2018.8397116</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397116</ee><url>https://dblp.org/rec/conf/secon/KaratasLGH18</url></info>
+<url>URL#2331272</url>
+</hit>
+<hit score="1" id="2331274">
+<info><authors><author pid="206/7488">Gyungmin Kim</author><author pid="143/9163">Yonggang Kim</author><author pid="12/4482">Jaehyoung Park</author><author pid="86/2194">Hyuk Lim</author></authors><title>Frame-Selective Wireless Attack Using Deep-Learning-Based Length Prediction.</title><venue>SECON</venue><pages>442-443</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/KimKPL18</key><doi>10.1109/SAHCN.2018.8397145</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397145</ee><url>https://dblp.org/rec/conf/secon/KimKPL18</url></info>
+<url>URL#2331274</url>
+</hit>
+<hit score="1" id="2331275">
+<info><authors><author pid="147/0739">Hyunjae Lee</author><author pid="218/1868">Myungjae Shin</author><author pid="218/1727">Kyeong Seon Kim</author><author pid="222/5375">Yeongeun Kang</author><author pid="69/4977">Joongheon Kim</author></authors><title>Recipient-Oriented Transaction for Preventing Double Spending Attacks in Private Blockchain.</title><venue>SECON</venue><pages>454-455</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LeeSKKK18</key><doi>10.1109/SAHCN.2018.8397151</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397151</ee><url>https://dblp.org/rec/conf/secon/LeeSKKK18</url></info>
+<url>URL#2331275</url>
+</hit>
+<hit score="1" id="2331276">
+<info><authors><author pid="66/190">Chao Li</author><author pid="97/1256">Shan Chang</author><author pid="29/5901">Hongzi Zhu</author><author pid="87/3677">Hang Chen</author><author pid="47/7822-1">Ting Lu 0001</author></authors><title>Lotus: Evolutionary Blind Regression over Noisy Crowdsourced Data.</title><venue>SECON</venue><pages>1-9</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiCZCL18</key><doi>10.1109/SAHCN.2018.8397096</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397096</ee><url>https://dblp.org/rec/conf/secon/LiCZCL18</url></info>
+<url>URL#2331276</url>
+</hit>
+<hit score="1" id="2331277">
+<info><authors><author pid="160/2310">Songyuan Li</author><author pid="07/7178">Shibo He</author><author pid="133/3842">Lingkun Fu</author><author pid="00/6472">Shuo Chen</author><author pid="55/2484-1">Jiming Chen 0001</author></authors><title>Towards Optimal Operation State Scheduling in RF-Powered Internet of Things.</title><venue>SECON</venue><pages>361-369</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiHFCC18</key><doi>10.1109/SAHCN.2018.8397136</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397136</ee><url>https://dblp.org/rec/conf/secon/LiHFCC18</url></info>
+<url>URL#2331277</url>
+</hit>
+<hit score="1" id="2331278">
+<info><authors><author pid="24/8037">Chi Lin</author><author pid="222/5430">Jiaye Hu</author><author pid="62/3689">Yu Sun</author><author pid="85/10856">Fenglong Ma</author><author pid="w/LeiWang5">Lei Wang 0005</author><author pid="51/1027">Guowei Wu</author></authors><title>WiAU: An Accurate Device-Free Authentication System with ResNet.</title><venue>SECON</venue><pages>109-117</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LinHSMWW18</key><doi>10.1109/SAHCN.2018.8397108</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397108</ee><url>https://dblp.org/rec/conf/secon/LinHSMWW18</url></info>
+<url>URL#2331278</url>
+</hit>
+<hit score="1" id="2331279">
+<info><authors><author pid="24/8037">Chi Lin</author><author pid="79/3289">Yanhong Zhou</author><author pid="124/6911">Haipeng Dai</author><author pid="06/6599-1">Jing Deng 0001</author><author pid="51/1027">Guowei Wu</author></authors><title>MPF: Prolonging Network Lifetime of Wireless Rechargeable Sensor Networks by Mixing Partial Charge and Full Charge.</title><venue>SECON</venue><pages>379-387</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LinZDDW18</key><doi>10.1109/SAHCN.2018.8397138</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397138</ee><url>https://dblp.org/rec/conf/secon/LinZDDW18</url></info>
+<url>URL#2331279</url>
+</hit>
+<hit score="1" id="2331280">
+<info><authors><author pid="65/10844">Kang Ling</author><author pid="124/6911">Haipeng Dai</author><author pid="222/5492">Yuntang Liu</author><author pid="l/AlexXLiu">Alex X. Liu</author></authors><title>UltraGesture: Fine-Grained Gesture Sensing and Recognition.</title><venue>SECON</venue><pages>28-36</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LingDLL18</key><doi>10.1109/SAHCN.2018.8397099</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397099</ee><url>https://dblp.org/rec/conf/secon/LingDLL18</url></info>
+<url>URL#2331280</url>
+</hit>
+<hit score="1" id="2331281">
+<info><authors><author pid="178/1896">Kin Sum Liu</author><author pid="g/JieGao">Jie Gao 0001</author><author pid="68/2855">Xiaobing Wu</author><author pid="12/3912-1">Shan Lin 0001</author></authors><title>On-Street Parking Guidance with Real-Time Sensing Data for Smart Cities.</title><venue>SECON</venue><pages>154-162</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LiuGWL18</key><doi>10.1109/SAHCN.2018.8397113</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397113</ee><url>https://dblp.org/rec/conf/secon/LiuGWL18</url></info>
+<url>URL#2331281</url>
+</hit>
+<hit score="1" id="2331283">
+<info><authors><author pid="129/7104">Bingxian Lu</author><author pid="66/8772">Zhenquan Qin</author><author pid="222/5391">Mingyi Yang</author><author pid="16/3576">Xu Xia</author><author pid="191/0427">Renjie Zhang</author><author pid="w/LeiWang5">Lei Wang 0005</author></authors><title>Spoofing Attack Detection Using Physical Layer Information in Cross-Technology Communication.</title><venue>SECON</venue><pages>450-451</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LuQYXZW18</key><doi>10.1109/SAHCN.2018.8397149</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397149</ee><url>https://dblp.org/rec/conf/secon/LuQYXZW18</url></info>
+<url>URL#2331283</url>
+</hit>
+<hit score="1" id="2331285">
+<info><authors><author pid="132/7875">Chen Lyu</author><author pid="62/7000">Amit Pande</author><author pid="23/6185-2">Yuanyuan Zhang 0002</author><author pid="72/1963">Dawu Gu</author><author pid="m/PrasantMohapatra">Prasant Mohapatra</author></authors><title>FastTrust: Fast and Anonymous Spatial-Temporal Trust for Connected Cars on Expressways.</title><venue>SECON</venue><pages>289-297</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LyuPZGM18</key><doi>10.1109/SAHCN.2018.8397128</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397128</ee><url>https://dblp.org/rec/conf/secon/LyuPZGM18</url></info>
+<url>URL#2331285</url>
+</hit>
+<hit score="1" id="2331286">
+<info><authors><author pid="214/2000-1">Feng Lyu 0001</author><author pid="29/5901">Hongzi Zhu</author><author pid="73/8540">Nan Cheng</author><author pid="02/6595">Yanmin Zhu</author><author pid="14/8431">Haibo Zhou</author><author pid="96/8862-1">Wenchao Xu 0001</author><author pid="79/1810">Guangtao Xue</author><author pid="l/MingluLi">Minglu Li 0001</author></authors><title>ABC: Adaptive Beacon Control for Rear-End Collision Avoidance in VANETs.</title><venue>SECON</venue><pages>307-315</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/LyuZCZZXXL18</key><doi>10.1109/SAHCN.2018.8397130</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397130</ee><url>https://dblp.org/rec/conf/secon/LyuZCZZXXL18</url></info>
+<url>URL#2331286</url>
+</hit>
+<hit score="1" id="2331287">
+<info><authors><author pid="222/5327">Yingling Mao</author><author pid="32/2948">Ke Liu</author><author pid="17/5705-40">Hao Li 0040</author><author pid="89/1428">Xiaohua Tian</author><author pid="96/1149">Xinbing Wang</author></authors><title>Scalability of Wireless Fingerprinting Based Indoor Localization Systems.</title><venue>SECON</venue><pages>145-153</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/MaoLLTW18</key><doi>10.1109/SAHCN.2018.8397112</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397112</ee><url>https://dblp.org/rec/conf/secon/MaoLLTW18</url></info>
+<url>URL#2331287</url>
+</hit>
+<hit score="1" id="2331288">
+<info><authors><author pid="192/9996">Yanjun Pan</author><author pid="l/MingLi3">Ming Li 0003</author><author pid="92/8605">Neng Fan</author><author pid="31/10644">Yantian Hou</author></authors><title>On the Throughput Limit of Multi-Hop Wireless Networks with Reconfigurable Antennas.</title><venue>SECON</venue><pages>280-288</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/PanLFH18</key><doi>10.1109/SAHCN.2018.8397127</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397127</ee><url>https://dblp.org/rec/conf/secon/PanLFH18</url></info>
+<url>URL#2331288</url>
+</hit>
+<hit score="1" id="2331290">
+<info><authors><author pid="166/5846">Swetank Kumar Saha</author><author pid="167/2257">Hany Assasa</author><author pid="46/10471">Adrian Loch</author><author pid="207/1726">Naveen Muralidhar Prakash</author><author pid="207/1763">Roshan Shyamsunder</author><author pid="222/5396">Shivang Aggarwal</author><author pid="164/7346">Daniel Steinmetzer</author><author pid="92/442">Dimitrios Koutsonikolas</author><author pid="07/3803">Joerg Widmer</author><author pid="95/1816">Matthias Hollick</author></authors><title>Fast and Infuriating: Performance and Pitfalls of 60 GHz WLANs Based on Consumer-Grade Hardware.</title><venue>SECON</venue><pages>244-252</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/SahaALPSASKWH18</key><doi>10.1109/SAHCN.2018.8397123</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397123</ee><url>https://dblp.org/rec/conf/secon/SahaALPSASKWH18</url></info>
+<url>URL#2331290</url>
+</hit>
+<hit score="1" id="2331292">
+<info><authors><author pid="67/2601">Yan Shi</author><author pid="208/6643">Rita Enami</author><author pid="202/6634">John Wensowitch</author><author pid="33/10194">Joseph Camp</author></authors><title>UABeam: UAV-Based Beamforming System Analysis with In-Field Air-to-Ground Channels.</title><venue>SECON</venue><pages>127-135</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ShiEWC18</key><doi>10.1109/SAHCN.2018.8397110</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397110</ee><url>https://dblp.org/rec/conf/secon/ShiEWC18</url></info>
+<url>URL#2331292</url>
+</hit>
+<hit score="1" id="2331296">
+<info><authors><author pid="215/6067">Nathan Vance</author><author pid="151/8148">Ryan Mackey</author><author pid="194/7739">Daniel Zhang 0001</author><author pid="40/3934-2">Dong Wang 0002</author></authors><title>Simulating Large-Scale Social Sensing Based Edge Computing Systems with Heterogeneous Network Configurations.</title><venue>SECON</venue><pages>466-467</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/VanceMZ018</key><doi>10.1109/SAHCN.2018.8397156</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397156</ee><url>https://dblp.org/rec/conf/secon/VanceMZ018</url></info>
+<url>URL#2331296</url>
+</hit>
+<hit score="1" id="2331297">
+<info><authors><author pid="99/8401">Xili Wan</author><author pid="189/4664">Wentian Zhao</author><author pid="14/8405">Xinjie Guan</author><author pid="70/6154">Feng Ye</author><author pid="90/3078">Guangwei Bai</author></authors><title>Performance Guaranteed Traffic Signal Control with Frame-Based Algorithm.</title><venue>SECON</venue><pages>446-447</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WanZGYB18</key><doi>10.1109/SAHCN.2018.8397147</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397147</ee><url>https://dblp.org/rec/conf/secon/WanZGYB18</url></info>
+<url>URL#2331297</url>
+</hit>
+<hit score="1" id="2331298">
+<info><authors><author pid="w/YangWang15">Yang Wang 0015</author><author pid="218/5732">Zhiwei Lv</author><author pid="203/0768">Wuji Chen</author><author pid="69/6532">Hengchang Liu</author></authors><title>Wi-Eye: Tracking Urban Private Vehicles with Inter-Vehicle Communications and Sparse Video Surveillance Cameras.</title><venue>SECON</venue><pages>316-324</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangLCL18</key><doi>10.1109/SAHCN.2018.8397131</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397131</ee><url>https://dblp.org/rec/conf/secon/WangLCL18</url></info>
+<url>URL#2331298</url>
+</hit>
+<hit score="1" id="2331300">
+<info><authors><author pid="181/2817-152">Lei Wang 0152</author><author pid="69/476-12">Ke Sun 0012</author><author pid="124/6911">Haipeng Dai</author><author pid="l/AlexXLiu">Alex X. Liu</author><author pid="58/4775-4">Xiaoyu Wang 0004</author></authors><title>WiTrace: Centimeter-Level Passive Gesture Tracking Using WiFi Signals.</title><venue>SECON</venue><pages>217-225</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangSDLW18</key><doi>10.1109/SAHCN.2018.8397120</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397120</ee><url>https://dblp.org/rec/conf/secon/WangSDLW18</url></info>
+<url>URL#2331300</url>
+</hit>
+<hit score="1" id="2331301">
+<info><authors><author pid="203/0135">Haoxin Wang</author><author pid="x/JXie-1">Jiang Xie 0001</author><author pid="148/1910">Xingya Liu</author></authors><title>Rethinking Mobile Devices&apos; Energy Efficiency in WLAN Management Services.</title><venue>SECON</venue><pages>370-378</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/WangXL18</key><doi>10.1109/SAHCN.2018.8397137</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397137</ee><url>https://dblp.org/rec/conf/secon/WangXL18</url></info>
+<url>URL#2331301</url>
+</hit>
+<hit score="1" id="2331303">
+<info><authors><author pid="28/6937">Yong Xiao</author><author pid="193/8573">Mohammed Hirzallah</author><author pid="47/2755">Marwan Krunz</author></authors><title>Optimizing Inter-Operator Network Slicing over Licensed and Unlicensed Bands.</title><venue>SECON</venue><pages>100-108</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XiaoHK18</key><doi>10.1109/SAHCN.2018.8397107</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397107</ee><url>https://dblp.org/rec/conf/secon/XiaoHK18</url></info>
+<url>URL#2331303</url>
+</hit>
+<hit score="1" id="2331304">
+<info><authors><author pid="95/3616-3">Jia Xu 0003</author><author pid="222/5496">Chengcheng Guan</author><author pid="222/5385">Haobo Wu</author><author pid="81/7890">Dejun Yang</author><author pid="65/5553">Lijie Xu</author><author pid="75/4601-1">Tao Li 0001</author></authors><title>Online Incentive Mechanism for Mobile Crowdsourcing Based on Two-Tiered Social Crowdsourcing Architecture.</title><venue>SECON</venue><pages>55-63</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XuGWYX018</key><doi>10.1109/SAHCN.2018.8397102</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397102</ee><url>https://dblp.org/rec/conf/secon/XuGWYX018</url></info>
+<url>URL#2331304</url>
+</hit>
+<hit score="1" id="2331305">
+<info><authors><author pid="90/514">Jun Xu</author><author pid="37/2749-1">Jingyu Wang 0001</author><author pid="80/6406-1">Qi Qi 0001</author><author pid="00/11044-1">Haifeng Sun 0001</author><author pid="04/2868-3">Bo He 0003</author></authors><title>IARA: An Intelligent Application-Aware VNF for Network Resource Allocation with Deep Learning.</title><venue>SECON</venue><pages>458-460</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XuWQSH18</key><doi>10.1109/SAHCN.2018.8397153</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397153</ee><url>https://dblp.org/rec/conf/secon/XuWQSH18</url></info>
+<url>URL#2331305</url>
+</hit>
+<hit score="1" id="2331306">
+<info><authors><author pid="172/1282">Xiangyu Xu</author><author pid="85/3615">Jiadi Yu</author><author pid="18/2343-1">Yingying Chen 0001</author><author pid="02/6595">Yanmin Zhu</author><author pid="l/MingluLi">Minglu Li 0001</author></authors><title>SteerTrack: Acoustic-Based Device-Free Steering Tracking Leveraging Smartphones.</title><venue>SECON</venue><pages>172-180</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XuYCZ018</key><doi>10.1109/SAHCN.2018.8397115</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397115</ee><url>https://dblp.org/rec/conf/secon/XuYCZ018</url></info>
+<url>URL#2331306</url>
+</hit>
+<hit score="1" id="2331307">
+<info><authors><author pid="57/10208">Zhenbo Xu</author><author pid="03/1094-11">Wei Yang 0011</author><author pid="61/3906-20">Yang Xu 0020</author><author pid="222/5452">Ajin Meng</author><author pid="00/5899">Jianhua Liu</author><author pid="195/2060">Qijian He</author><author pid="51/769">Liusheng Huang</author></authors><title>Link Us if You Can: Enabling Unlinkable Communication on the Internet.</title><venue>SECON</venue><pages>433-441</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/XuYXMLHH18</key><doi>10.1109/SAHCN.2018.8397144</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397144</ee><url>https://dblp.org/rec/conf/secon/XuYXMLHH18</url></info>
+<url>URL#2331307</url>
+</hit>
+<hit score="1" id="2331308">
+<info><authors><author pid="142/2046">Jinli Yan</author><author pid="75/4601-8">Tao Li 0008</author><author pid="85/1868">Sheng Wang</author><author pid="126/5231">Gaofeng Lv</author><author pid="20/3089">Zhigang Sun</author></authors><title>Demonstration of Path-Based Packet Batcher for Accelerating Vectorized Packet Processing.</title><venue>SECON</venue><pages>461-463</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YanLWLS18</key><doi>10.1109/SAHCN.2018.8397154</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397154</ee><url>https://dblp.org/rec/conf/secon/YanLWLS18</url></info>
+<url>URL#2331308</url>
+</hit>
+<hit score="1" id="2331309">
+<info><authors><author pid="86/8501">Kang Yang</author><author pid="03/7484">Xiaoqing Gong</author><author pid="51/3710-101">Yang Liu 0101</author><author pid="35/203">Zhenjiang Li</author><author pid="02/10522">Tianzhang Xing</author><author pid="95/10521">Xiaojiang Chen</author><author pid="80/3909">Dingyi Fang</author></authors><title>cDeepArch: A Compact Deep Neural Network Architecture for Mobile Sensing.</title><venue>SECON</venue><pages>190-198</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangGLLXCF18</key><doi>10.1109/SAHCN.2018.8397117</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397117</ee><url>https://dblp.org/rec/conf/secon/YangGLLXCF18</url></info>
+<url>URL#2331309</url>
+</hit>
+<hit score="1" id="2331310">
+<info><authors><author pid="78/1102-1">Shuo Yang 0001</author><author pid="222/5315">Kunyan Han</author><author pid="07/6378-6">Fan Wu 0006</author><author pid="51/1742">Guihai Chen</author></authors><title>On Designing Quality-Aware Steering Algorithms for Large-Scale Mobile Crowdsensing.</title><venue>SECON</venue><pages>46-54</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YangHWC18</key><doi>10.1109/SAHCN.2018.8397101</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397101</ee><url>https://dblp.org/rec/conf/secon/YangHWC18</url></info>
+<url>URL#2331310</url>
+</hit>
+<hit score="1" id="2331312">
+<info><authors><author pid="207/1961">Juheon Yi</author><author pid="86/2322">Weiping Sun</author><author pid="128/2679">Jonghoe Koo</author><author pid="119/9515">Seongho Byeon</author><author pid="51/236-2">Jaehyuk Choi 0002</author><author pid="c/SunghyunChoi">Sunghyun Choi 0001</author></authors><title>BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio.</title><venue>SECON</venue><pages>262-270</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YiSKBCC18</key><doi>10.1109/SAHCN.2018.8397125</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397125</ee><url>https://dblp.org/rec/conf/secon/YiSKBCC18</url></info>
+<url>URL#2331312</url>
+</hit>
+<hit score="1" id="2331313">
+<info><authors><author pid="156/1136">Kangjin Yoon</author><author pid="86/2322">Weiping Sun</author><author pid="c/SunghyunChoi">Sunghyun Choi 0001</author></authors><title>COALA: Collision-Aware Link Adaptation for LTE in Unlicensed Band.</title><venue>SECON</venue><pages>73-81</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YoonSC18</key><doi>10.1109/SAHCN.2018.8397104</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397104</ee><url>https://dblp.org/rec/conf/secon/YoonSC18</url></info>
+<url>URL#2331313</url>
+</hit>
+<hit score="1" id="2331314">
+<info><authors><author pid="17/7735-1">Hamed Yousefi 0001</author><author pid="222/5402">Masoud Mehrabi Koushki</author><author pid="139/9839">Bahram Alinia</author><author pid="s/KangGShin">Kang G. Shin</author></authors><title>Maximizing Quality of Aggregation in WSNs under Deadline and Interference Constraints.</title><venue>SECON</venue><pages>118-126</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/YousefiKAS18</key><doi>10.1109/SAHCN.2018.8397109</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397109</ee><url>https://dblp.org/rec/conf/secon/YousefiKAS18</url></info>
+<url>URL#2331314</url>
+</hit>
+<hit score="1" id="2331316">
+<info><authors><author pid="08/5937">Deze Zeng</author><author pid="84/6889-76">Jie Zhang 0076</author><author pid="70/3413-2">Lin Gu 0002</author><author pid="01/267-1">Song Guo 0001</author></authors><title>Stochastic Scheduling Towards Cost Efficient Network Function Virtualization in Edge Cloud.</title><venue>SECON</venue><pages>397-405</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZengZGG18</key><doi>10.1109/SAHCN.2018.8397140</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397140</ee><url>https://dblp.org/rec/conf/secon/ZengZGG18</url></info>
+<url>URL#2331316</url>
+</hit>
+<hit score="1" id="2331317">
+<info><authors><author pid="00/2446">Jie Zeng</author><author pid="46/3885">Ming Zhan</author><author pid="222/5340">Yaqin Shi</author></authors><title>FPGA Implementation of a Power-Efficient and Low-Memory Capacity Turbo Decoding Architecture.</title><venue>SECON</venue><pages>474-476</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZengZS18</key><doi>10.1109/SAHCN.2018.8397159</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397159</ee><url>https://dblp.org/rec/conf/secon/ZengZS18</url></info>
+<url>URL#2331317</url>
+</hit>
+<hit score="1" id="2331318">
+<info><authors><author pid="41/10435">Youlin Zhang</author><author pid="c/ShigangChen">Shigang Chen</author><author pid="20/2165-3">You Zhou 0003</author><author pid="222/5461">Olufemi Odegbile</author></authors><title>Missing-Tag Detection with Presence of Unknown Tags.</title><venue>SECON</venue><pages>334-342</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangC0O18</key><doi>10.1109/SAHCN.2018.8397133</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397133</ee><url>https://dblp.org/rec/conf/secon/ZhangC0O18</url></info>
+<url>URL#2331318</url>
+</hit>
+<hit score="1" id="2331319">
+<info><authors><author pid="94/689">Shigeng Zhang</author><author pid="73/1417">Yan Fu</author><author pid="201/8136">Danming Jiang</author><author pid="13/5407-1">Xuan Liu 0001</author></authors><title>RFID Localization Based on Multiple Feature Fusion.</title><venue>SECON</venue><pages>448-449</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangFJ018</key><doi>10.1109/SAHCN.2018.8397148</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397148</ee><url>https://dblp.org/rec/conf/secon/ZhangFJ018</url></info>
+<url>URL#2331319</url>
+</hit>
+<hit score="1" id="2331320">
+<info><authors><author pid="97/8704">Lei Zhang</author><author pid="222/5454">Meiguang Liu</author><author pid="198/6861">Liangfu Lu</author><author pid="151/5896">Liangyi Gong</author></authors><title>Wi-Run: Multi-Runner Step Estimation Using Commodity Wi-Fi.</title><venue>SECON</venue><pages>235-243</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangLLG18</key><doi>10.1109/SAHCN.2018.8397122</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397122</ee><url>https://dblp.org/rec/conf/secon/ZhangLLG18</url></info>
+<url>URL#2331320</url>
+</hit>
+<hit score="1" id="2331321">
+<info><authors><author pid="80/3482-10">Di Zhang 0010</author><author pid="69/5468">Yuezhi Zhou</author><author pid="45/5842-3">Xiang Lan 0003</author><author pid="99/4094">Yaoxue Zhang</author><author pid="33/4231">Xiaoming Fu 0001</author></authors><title>AHT: Application-Based Handover Triggering for Saving Energy in Cellular Networks.</title><venue>SECON</venue><pages>91-99</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhangZLZ018</key><doi>10.1109/SAHCN.2018.8397106</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397106</ee><url>https://dblp.org/rec/conf/secon/ZhangZLZ018</url></info>
+<url>URL#2331321</url>
+</hit>
+<hit score="1" id="2331322">
+<info><authors><author pid="124/6274">Run Zhao</author><author pid="40/3934-24">Dong Wang 0024</author><author pid="04/2024-12">Qian Zhang 0012</author><author pid="121/7527">Haonan Chen</author><author pid="30/2065">Anna Huang</author></authors><title>CRH: A Contactless Respiration and Heartbeat Monitoring System with COTS RFID Tags.</title><venue>SECON</venue><pages>325-333</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhaoWZCH18</key><doi>10.1109/SAHCN.2018.8397132</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397132</ee><url>https://dblp.org/rec/conf/secon/ZhaoWZCH18</url></info>
+<url>URL#2331322</url>
+</hit>
+<hit score="1" id="2331323">
+<info><authors><author pid="133/0537">Rui Zhou</author><author pid="184/7209">Meng Hao</author><author pid="05/5990">Xiang Lu</author><author pid="01/7213">Mingjie Tang</author><author pid="66/3764">Yang Fu</author></authors><title>Device-Free Localization Based on CSI Fingerprints and Deep Neural Networks.</title><venue>SECON</venue><pages>226-234</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhouHLTF18</key><doi>10.1109/SAHCN.2018.8397121</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397121</ee><url>https://dblp.org/rec/conf/secon/ZhouHLTF18</url></info>
+<url>URL#2331323</url>
+</hit>
+<hit score="1" id="2331324">
+<info><authors><author pid="139/4372">Chongyu Zhou</author><author pid="72/872">Qiang Li</author><author pid="08/45">Chen-Khong Tham</author></authors><title>Information-Driven Distributed Sensing for Efficient Bayesian Inference in Internet of Things Systems.</title><venue>SECON</venue><pages>136-144</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhouLT18</key><doi>10.1109/SAHCN.2018.8397111</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397111</ee><url>https://dblp.org/rec/conf/secon/ZhouLT18</url></info>
+<url>URL#2331324</url>
+</hit>
+<hit score="1" id="2331325">
+<info><authors><author pid="139/4372">Chongyu Zhou</author><author pid="08/45">Chen-Khong Tham</author></authors><title>Deadline-Aware Peer-to-Peer Task Offloading in Stochastic Mobile Cloud Computing Systems.</title><venue>SECON</venue><pages>415-423</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhouT18</key><doi>10.1109/SAHCN.2018.8397142</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397142</ee><url>https://dblp.org/rec/conf/secon/ZhouT18</url></info>
+<url>URL#2331325</url>
+</hit>
+<hit score="1" id="2331327">
+<info><authors><author pid="76/445-2">Chao Zhu 0002</author><author pid="121/2541">Giancarlo Pastor</author><author pid="54/5385-1">Yu Xiao 0001</author><author pid="93/2334-8">Yong Li 0008</author><author pid="63/5415">Antti Ylä-Jääski</author></authors><title>Fog Following Me: Latency and Quality Balanced Task Allocation in Vehicular Fog Computing.</title><venue>SECON</venue><pages>298-306</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/secon/ZhuPXLY18</key><doi>10.1109/SAHCN.2018.8397129</doi><ee>https://doi.org/10.1109/SAHCN.2018.8397129</ee><url>https://dblp.org/rec/conf/secon/ZhuPXLY18</url></info>
+<url>URL#2331327</url>
+</hit>
+<hit score="1" id="2359475">
+<info><title>15th Annual IEEE International Conference on Sensing, Communication, and Networking, SECON 2018, Hong Kong, China, June 11-13, 2018</title><venue>SECON</venue><publisher>IEEE</publisher><year>2018</year><type>Editorship</type><key>conf/secon/2018</key><ee>https://ieeexplore.ieee.org/xpl/conhome/8396916/proceeding</ee><url>https://dblp.org/rec/conf/secon/2018</url></info>
+<url>URL#2359475</url>
+</hit>
+</hits>
+</result>

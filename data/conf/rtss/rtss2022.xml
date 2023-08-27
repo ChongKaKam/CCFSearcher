@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59401">:facetid:toc:\"db/conf/rtss/rtss2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">196.44</time>
+<completions total="1" computed="1" sent="1">
+<c sc="48" dc="48" oc="48" id="41061791">:facetid:toc:db/conf/rtss/rtss2022.bht</c>
+</completions>
+<hits total="48" computed="48" sent="48" first="0">
+<hit score="1" id="614481">
+<info><authors><author pid="27/1207-2">Zheng Dong 0002</author><author pid="95/6404-5">Cong Liu 0005</author></authors><title>A Utilization-based Test for Non-preemptive Gang Tasks on Multiprocessors.</title><venue>RTSS</venue><pages>105-117</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0002L22</key><doi>10.1109/RTSS55097.2022.00019</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00019</ee><url>https://dblp.org/rec/conf/rtss/0002L22</url></info>
+<url>URL#614481</url>
+</hit>
+<hit score="1" id="614482">
+<info><authors><author pid="196/5052-2">Tianming Zhao 0002</author><author pid="64/6025-58">Wei Li 0058</author><author pid="z/AlbertYZomaya">Albert Y. Zomaya</author></authors><title>Real-Time Scheduling with Predictions.</title><venue>RTSS</venue><pages>331-343</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0002LZ22</key><doi>10.1109/RTSS55097.2022.00036</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00036</ee><url>https://dblp.org/rec/conf/rtss/0002LZ22</url></info>
+<url>URL#614482</url>
+</hit>
+<hit score="1" id="614483">
+<info><authors><author pid="166/8570-6">Jatin Arora 0006</author><author pid="153/1818">Syed Aftab Rashid</author><author pid="65/8364">Cláudio Maia</author><author pid="62/7802">Geoffrey Nelissen</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>Work-in-Progress: A Holistic Approach to WCRT Analysis for Multicore Systems.</title><venue>RTSS</venue><pages>511-514</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/0006RMNT22</key><doi>10.1109/RTSS55097.2022.00054</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00054</ee><url>https://dblp.org/rec/conf/rtss/0006RMNT22</url></info>
+<url>URL#614483</url>
+</hit>
+<hit score="1" id="614484">
+<info><authors><author pid="270/3077">Sunandan Adhikary</author><author pid="242/6131">Ipsita Koley</author><author pid="262/6161">Srijeeta Maity</author><author pid="89/4589">Soumyajit Dey</author></authors><title>Work-in-Progress: Control Skipping Sequence Synthesis to Counter Schedule-based Attacks.</title><venue>RTSS</venue><pages>491-494</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/AdhikaryKMD22</key><doi>10.1109/RTSS55097.2022.00049</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00049</ee><url>https://dblp.org/rec/conf/rtss/AdhikaryKMD22</url></info>
+<url>URL#614484</url>
+</hit>
+<hit score="1" id="614485">
+<info><authors><author pid="198/4990">Shareef Ahmed</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>Exact Response-Time Bounds of Periodic DAG Tasks under Server-Based Global Scheduling.</title><venue>RTSS</venue><pages>447-459</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/AhmedA22</key><doi>10.1109/RTSS55097.2022.00045</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00045</ee><url>https://dblp.org/rec/conf/rtss/AhmedA22</url></info>
+<url>URL#614485</url>
+</hit>
+<hit score="1" id="614486">
+<info><authors><author pid="221/5097">Joshua Bakita</author><author pid="a/JamesHAnderson">James H. Anderson</author></authors><title>Enabling GPU Memory Oversubscription via Transparent Paging to an NVMe SSD.</title><venue>RTSS</venue><pages>370-382</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BakitaA22</key><doi>10.1109/RTSS55097.2022.00039</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00039</ee><url>https://dblp.org/rec/conf/rtss/BakitaA22</url></info>
+<url>URL#614486</url>
+</hit>
+<hit score="1" id="614487">
+<info><authors><author pid="b/SKBaruah">Sanjoy K. Baruah</author><author pid="46/9578">Pontus Ekberg</author><author pid="27/2328-7">Abhishek Singh 0007</author></authors><title>Fixed-Parameter Analysis of Preemptive Uniprocessor Scheduling Problems.</title><venue>RTSS</venue><pages>185-196</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BaruahE022</key><doi>10.1109/RTSS55097.2022.00025</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00025</ee><url>https://dblp.org/rec/conf/rtss/BaruahE022</url></info>
+<url>URL#614487</url>
+</hit>
+<hit score="1" id="614488">
+<info><authors><author pid="336/3777">Kimaya Bedarkar</author><author pid="336/3878">Mariam Vardishvili</author><author pid="243/3849">Sergey Bozhko</author><author pid="320/9762">Marco Maida</author><author pid="19/2942">Björn B. Brandenburg</author></authors><title>From Intuition to Coq: A Case Study in Verified Response-Time Analysis 1 of FIFO Scheduling.</title><venue>RTSS</venue><pages>197-210</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BedarkarVBMB22</key><doi>10.1109/RTSS55097.2022.00026</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00026</ee><url>https://dblp.org/rec/conf/rtss/BedarkarVBMB22</url></info>
+<url>URL#614488</url>
+</hit>
+<hit score="1" id="614489">
+<info><authors><author pid="28/5173">Ran Bi</author><author pid="160/6184">Qingqiang He</author><author pid="14/9961">Jinghao Sun</author><author pid="93/6084-2">Zhenyu Sun 0002</author><author pid="39/4489">Zhishan Guo</author><author pid="45/5411">Nan Guan</author><author pid="99/4218">Guozhen Tan</author></authors><title>Response Time Analysis for Prioritized DAG Task with Mutually Exclusive Vertices.</title><venue>RTSS</venue><pages>460-473</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/BiHS0GGT22</key><doi>10.1109/RTSS55097.2022.00046</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00046</ee><url>https://dblp.org/rec/conf/rtss/BiHS0GGT22</url></info>
+<url>URL#614489</url>
+</hit>
+<hit score="1" id="614490">
+<info><authors><author pid="201/8076">Daniel Casini</author></authors><title>A Theoretical Approach to Determine the Optimal Size of a Thread Pool for Real-Time Systems.</title><venue>RTSS</venue><pages>66-78</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Casini22</key><doi>10.1109/RTSS55097.2022.00016</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00016</ee><url>https://dblp.org/rec/conf/rtss/Casini22</url></info>
+<url>URL#614490</url>
+</hit>
+<hit score="1" id="614491">
+<info><authors><author pid="163/9343">Kuan-Hsun Chen</author><author pid="256/4929">Mario Günzel</author><author pid="166/7057">Georg von der Brüggen</author><author pid="70/1961">Jian-Jia Chen</author></authors><title>Critical Instant for Probabilistic Timing Guarantees: Refuted and Revisited.</title><venue>RTSS</venue><pages>145-157</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ChenGBC22</key><doi>10.1109/RTSS55097.2022.00022</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00022</ee><url>https://dblp.org/rec/conf/rtss/ChenGBC22</url></info>
+<url>URL#614491</url>
+</hit>
+<hit score="1" id="614492">
+<info><authors><author pid="214/9699">Jiale Chen</author><author pid="171/1077">Xiaoqiang Wu</author><author pid="179/3270">Debayan Roy</author><author pid="12/417-16">Hui Chen 0016</author><author pid="60/6730">Ping Xiang</author><author pid="201/2053">Wenzhuo Zhang</author><author pid="84/485">Yuhong Feng</author><author pid="67/3746">Wanli Chang 0001</author></authors><title>Latency-driven Optimization of Switching Pipeline Design in Network Chips.</title><venue>RTSS</venue><pages>344-355</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ChenWRCXZF022</key><doi>10.1109/RTSS55097.2022.00037</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00037</ee><url>https://dblp.org/rec/conf/rtss/ChenWRCXZF022</url></info>
+<url>URL#614492</url>
+</hit>
+<hit score="1" id="614493">
+<info><authors><author pid="235/9564">Zhuochen Fan</author><author pid="50/3993">Xiaodong Li</author><author pid="72/7268">Yanwei Xu</author><author pid="73/3521">Yuqing Li</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="87/6218">Steve Uhlig</author></authors><title>Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters.</title><venue>RTSS</venue><pages>519-522</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/FanLXL0U22</key><doi>10.1109/RTSS55097.2022.00056</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00056</ee><url>https://dblp.org/rec/conf/rtss/FanLXL0U22</url></info>
+<url>URL#614493</url>
+</hit>
+<hit score="1" id="614494">
+<info><authors><author pid="289/5599">Chuanchao Gao</author><author pid="73/1708">Arvind Easwaran</author></authors><title>Work-in-Progress: Deadline-Constrained Multi-Resource Allocation in Edge-Cloud System.</title><venue>RTSS</venue><pages>503-506</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GaoE22</key><doi>10.1109/RTSS55097.2022.00052</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00052</ee><url>https://dblp.org/rec/conf/rtss/GaoE22</url></info>
+<url>URL#614494</url>
+</hit>
+<hit score="1" id="614495">
+<info><authors><author pid="213/8296">Robert Gifford</author><author pid="92/1043">Linh Thi Xuan Phan</author></authors><title>Multi-mode on Multi-core: Making the best of both worlds with Omni.</title><venue>RTSS</venue><pages>118-131</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GiffordP22</key><doi>10.1109/RTSS55097.2022.00020</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00020</ee><url>https://dblp.org/rec/conf/rtss/GiffordP22</url></info>
+<url>URL#614495</url>
+</hit>
+<hit score="1" id="614496">
+<info><authors><author pid="334/7393">Javier Enrique Méndez Gómez</author><author pid="c/AMKCheng">Albert M. K. Cheng</author></authors><title>Work-in-Progress: Real-Time On-board Processing for Cloud Detection in FACSAT-2 Multispectral Satellite Imagery.</title><venue>RTSS</venue><pages>499-502</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GomezC22</key><doi>10.1109/RTSS55097.2022.00051</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00051</ee><url>https://dblp.org/rec/conf/rtss/GomezC22</url></info>
+<url>URL#614496</url>
+</hit>
+<hit score="1" id="614497">
+<info><authors><author pid="69/3269">Sathish Gopalakrishnan</author><author pid="336/2651">Nima Nasiri</author><author pid="336/3306">Jared Paul</author></authors><title>Job Scheduling with Battery Recharging Constraints: Applications to UAV Flight Planning.</title><venue>RTSS</venue><pages>422-434</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GopalakrishnanN22</key><doi>10.1109/RTSS55097.2022.00043</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00043</ee><url>https://dblp.org/rec/conf/rtss/GopalakrishnanN22</url></info>
+<url>URL#614497</url>
+</hit>
+<hit score="1" id="614498">
+<info><authors><author pid="135/0577">Arpan Gujarati</author><author pid="225/9660">Ningfeng Yang</author><author pid="19/2942">Björn B. Brandenburg</author></authors><title>In-ConcReTeS: Interactive Consistency meets Distributed Real-Time Systems, Again!</title><venue>RTSS</venue><pages>211-224</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GujaratiYB22</key><doi>10.1109/RTSS55097.2022.00027</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00027</ee><url>https://dblp.org/rec/conf/rtss/GujaratiYB22</url></info>
+<url>URL#614498</url>
+</hit>
+<hit score="1" id="614499">
+<info><authors><author pid="256/4929">Mario Günzel</author><author pid="166/7057">Georg von der Brüggen</author><author pid="163/9343">Kuan-Hsun Chen</author><author pid="70/1961">Jian-Jia Chen</author></authors><title>EDF-Like Scheduling for Self-Suspending Real-Time Tasks.</title><venue>RTSS</venue><pages>172-184</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/GunzelBCC22</key><doi>10.1109/RTSS55097.2022.00024</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00024</ee><url>https://dblp.org/rec/conf/rtss/GunzelBCC22</url></info>
+<url>URL#614499</url>
+</hit>
+<hit score="1" id="614500">
+<info><authors><author pid="126/6070">Jongwoo Han</author><author pid="38/2822">Chang-Gun Lee</author><author pid="b/SKBaruah">Sanjoy K. Baruah</author></authors><title>Improved Results for Guaranteeing Safety Despite Physical Errors in CPS&apos;s.</title><venue>RTSS</venue><pages>266-276</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HanLB22</key><doi>10.1109/RTSS55097.2022.00031</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00031</ee><url>https://dblp.org/rec/conf/rtss/HanLB22</url></info>
+<url>URL#614500</url>
+</hit>
+<hit score="1" id="614501">
+<info><authors><author pid="160/6184">Qingqiang He</author><author pid="45/5411">Nan Guan</author><author pid="23/4249">Mingsong Lv</author><author pid="38/555-4">Xu Jiang 0004</author><author pid="67/3746">Wanli Chang 0001</author></authors><title>Bounding the Response Time of DAG Tasks Using Long Paths.</title><venue>RTSS</venue><pages>474-486</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/HeGL0022</key><doi>10.1109/RTSS55097.2022.00047</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00047</ee><url>https://dblp.org/rec/conf/rtss/HeGL0022</url></info>
+<url>URL#614501</url>
+</hit>
+<hit score="1" id="614502">
+<info><authors><author pid="330/9931">Mingoo Ji</author><author pid="157/9211">Saehanseul Yi</author><author pid="313/9540">Changjin Koo</author><author pid="330/9204">Sol Ahn</author><author pid="127/7778">Dongjoo Seo</author><author pid="d/NikilDDutt">Nikil D. Dutt</author><author pid="11/7792">Jong-Chan Kim</author></authors><title>Demand Layering for Real-Time DNN Inference with Minimized Memory Usage.</title><venue>RTSS</venue><pages>291-304</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/JiYKASDK22</key><doi>10.1109/RTSS55097.2022.00033</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00033</ee><url>https://dblp.org/rec/conf/rtss/JiYKASDK22</url></info>
+<url>URL#614502</url>
+</hit>
+<hit score="1" id="614503">
+<info><authors><author pid="38/555-4">Xu Jiang 0004</author><author pid="170/6527">Dong Ji</author><author pid="45/5411">Nan Guan</author><author pid="231/1167">Ruoxiang Li</author><author pid="07/11244-1">Yue Tang 0001</author><author pid="y/WangYi">Wang Yi 0001</author></authors><title>Real-Time Scheduling and Analysis of Processing Chains on Multi-threaded Executor in ROS 2.</title><venue>RTSS</venue><pages>27-39</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/JiangJGLTW22</key><doi>10.1109/RTSS55097.2022.00013</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00013</ee><url>https://dblp.org/rec/conf/rtss/JiangJGLTW22</url></info>
+<url>URL#614503</url>
+</hit>
+<hit score="1" id="614504">
+<info><authors><author pid="137/7286">Donghwa Kang</author><author pid="27/1604">Seunghoon Lee</author><author pid="46/11077">Hoon Sung Chwa</author><author pid="211/6993">Seung-Hwan Bae</author><author pid="158/4931">Chang Mook Kang</author><author pid="39/1801-1">Jinkyu Lee 0001</author><author pid="184/3699">Hyeongboo Baek</author></authors><title>RT-MOT: Confidence-Aware Real-Time Scheduling Framework for Multi-Object Tracking Tasks.</title><venue>RTSS</venue><pages>318-330</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/KangLCBK0B22</key><doi>10.1109/RTSS55097.2022.00035</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00035</ee><url>https://dblp.org/rec/conf/rtss/KangLCBK0B22</url></info>
+<url>URL#614504</url>
+</hit>
+<hit score="1" id="614505">
+<info><authors><author pid="166/6234">Jiwoo Lee</author><author pid="c/AMKCheng">Albert M. K. Cheng</author><author pid="224/5149">Guangli Dai</author></authors><title>Work-in-Progress: Generalized Demand-Based Schedulability Test for Dual-Criticality Sporadic Task Model.</title><venue>RTSS</venue><pages>507-510</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LeeCD22</key><doi>10.1109/RTSS55097.2022.00053</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00053</ee><url>https://dblp.org/rec/conf/rtss/LeeCD22</url></info>
+<url>URL#614505</url>
+</hit>
+<hit score="1" id="614506">
+<info><authors><author pid="293/3668">Seongtae Lee</author><author pid="45/5411">Nan Guan</author><author pid="39/1801-1">Jinkyu Lee 0001</author></authors><title>Design and Timing Guarantee for Non-Preemptive Gang Scheduling.</title><venue>RTSS</venue><pages>132-144</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LeeG022</key><doi>10.1109/RTSS55097.2022.00021</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00021</ee><url>https://dblp.org/rec/conf/rtss/LeeG022</url></info>
+<url>URL#614506</url>
+</hit>
+<hit score="1" id="614507">
+<info><authors><author pid="293/3668">Seongtae Lee</author><author pid="27/1604">Seunghoon Lee</author><author pid="39/1801-1">Jinkyu Lee 0001</author></authors><title>Response Time Analysis for Real-Time Global Gang Scheduling.</title><venue>RTSS</venue><pages>92-104</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LeeL022</key><doi>10.1109/RTSS55097.2022.00018</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00018</ee><url>https://dblp.org/rec/conf/rtss/LeeL022</url></info>
+<url>URL#614507</url>
+</hit>
+<hit score="1" id="614508">
+<info><authors><author pid="231/1167">Ruoxiang Li</author><author pid="45/5411">Nan Guan</author><author pid="38/555-4">Xu Jiang 0004</author><author pid="39/4489">Zhishan Guo</author><author pid="27/1207-2">Zheng Dong 0002</author><author pid="23/4249">Mingsong Lv</author></authors><title>Worst-Case Time Disparity Analysis of Message Synchronization in ROS.</title><venue>RTSS</venue><pages>40-52</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LiGJGDL22</key><doi>10.1109/RTSS55097.2022.00014</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00014</ee><url>https://dblp.org/rec/conf/rtss/LiGJGDL22</url></info>
+<url>URL#614508</url>
+</hit>
+<hit score="1" id="614509">
+<info><authors><author pid="54/2788-6">Ao Li 0006</author><author pid="300/9141">Marion Sudvarg</author><author pid="35/2899">Han Liu</author><author pid="172/4550">Zhiyuan Yu</author><author pid="51/3192">Chris Gill 0001</author><author pid="181/2597-17">Ning Zhang 0017</author></authors><title>PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference.</title><venue>RTSS</venue><pages>225-239</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LiSLYGZ22</key><doi>10.1109/RTSS55097.2022.00028</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00028</ee><url>https://dblp.org/rec/conf/rtss/LiSLYGZ22</url></info>
+<url>URL#614509</url>
+</hit>
+<hit score="1" id="614510">
+<info><authors><author pid="201/1832">Liangkai Liu</author><author pid="27/1207-2">Zheng Dong 0002</author><author pid="45/7737">Yanzhi Wang</author><author pid="s/WeisongShi">Weisong Shi</author></authors><title>Prophet: Realizing a Predictable Real-time Perception Pipeline for Autonomous Vehicles.</title><venue>RTSS</venue><pages>305-317</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LiuDWS22</key><doi>10.1109/RTSS55097.2022.00034</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00034</ee><url>https://dblp.org/rec/conf/rtss/LiuDWS22</url></info>
+<url>URL#614510</url>
+</hit>
+<hit score="1" id="614511">
+<info><authors><author pid="56/9909">Mengyu Liu</author><author pid="37/1629">Lin Zhang</author><author pid="231/5742">Pengyuan Lu</author><author pid="289/5808">Kaustubh Sridhar</author><author pid="32/8375">Fanxin Kong</author><author pid="31/4030">Oleg Sokolsky</author><author pid="l/InsupLee">Insup Lee 0001</author></authors><title>Fail-Safe: Securing Cyber-Physical Systems against Hidden Sensor Attacks.</title><venue>RTSS</venue><pages>240-252</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LiuZLSKSL22</key><doi>10.1109/RTSS55097.2022.00029</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00029</ee><url>https://dblp.org/rec/conf/rtss/LiuZLSKSL22</url></info>
+<url>URL#614511</url>
+</hit>
+<hit score="1" id="614512">
+<info><authors><author pid="23/4249">Mingsong Lv</author><author pid="253/0754">Xuemei Peng</author><author pid="133/7176">Wenjing Xie</author><author pid="45/5411">Nan Guan</author></authors><title>Task Allocation for Real-time Earth Observation Service with LEO Satellites.</title><venue>RTSS</venue><pages>14-26</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/LvPXG22</key><doi>10.1109/RTSS55097.2022.00012</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00012</ee><url>https://dblp.org/rec/conf/rtss/LvPXG22</url></info>
+<url>URL#614512</url>
+</hit>
+<hit score="1" id="614513">
+<info><authors><author pid="262/6161">Srijeeta Maity</author><author pid="336/3577">Rudrajyoti Roy</author><author pid="98/4468">Anirban Majumder</author><author pid="89/4589">Soumyajit Dey</author><author pid="143/0666">Ashish R. Hota</author></authors><title>Future aware Dynamic Thermal Management in CPU-GPU Embedded Platforms.</title><venue>RTSS</venue><pages>396-408</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MaityRMDH22</key><doi>10.1109/RTSS55097.2022.00041</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00041</ee><url>https://dblp.org/rec/conf/rtss/MaityRMDH22</url></info>
+<url>URL#614513</url>
+</hit>
+<hit score="1" id="614514">
+<info><authors><author pid="201/8074">Filip Markovic</author><author pid="33/4193">Thomas Nolte</author><author pid="92/9596">Alessandro Vittorio Papadopoulos</author></authors><title>Analytical Approximations in Probabilistic Analysis of Real-Time Systems.</title><venue>RTSS</venue><pages>158-171</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/MarkovicNP22</key><doi>10.1109/RTSS55097.2022.00023</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00023</ee><url>https://dblp.org/rec/conf/rtss/MarkovicNP22</url></info>
+<url>URL#614514</url>
+</hit>
+<hit score="1" id="614515">
+<info><authors><author pid="198/6784">Vinod Nigade</author><author pid="24/9396">Pablo Bauszat</author><author pid="b/HenriEBal">Henri E. Bal</author><author pid="17/6729-15">Lin Wang 0015</author></authors><title>Jellyfish: Timely Inference Serving for Dynamic Edge Networks.</title><venue>RTSS</venue><pages>277-290</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NigadeBB022</key><doi>10.1109/RTSS55097.2022.00032</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00032</ee><url>https://dblp.org/rec/conf/rtss/NigadeBB022</url></info>
+<url>URL#614515</url>
+</hit>
+<hit score="1" id="614516">
+<info><authors><author pid="321/0121">Andrea Nota</author><author pid="95/10843">Selma Saidi</author><author pid="229/3243">Dennis Overbeck</author><author pid="143/1042">Fabian Kurtz</author><author pid="85/3348">Christian Wietfeld</author></authors><title>Context-based Latency Guarantees Considering Channel Degradation in 5G Network Slicing.</title><venue>RTSS</venue><pages>253-265</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/NotaSOKW22</key><doi>10.1109/RTSS55097.2022.00030</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00030</ee><url>https://dblp.org/rec/conf/rtss/NotaSOKW22</url></info>
+<url>URL#614516</url>
+</hit>
+<hit score="1" id="614517">
+<info><authors><author pid="251/4990">Radha Reddy</author><author pid="a/LuisAlmeida">Luís Almeida 0001</author><author pid="67/417-3">Pedro Santos 0003</author><author pid="t/EduardoTovar">Eduardo Tovar</author></authors><title>Work-in-Progress: Exploring the Composition of Synchronous Intelligent Intersections.</title><venue>RTSS</venue><pages>523-526</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/Reddy00T22</key><doi>10.1109/RTSS55097.2022.00057</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00057</ee><url>https://dblp.org/rec/conf/rtss/Reddy00T22</url></info>
+<url>URL#614517</url>
+</hit>
+<hit score="1" id="614518">
+<info><authors><author pid="177/7317">Shahin Roozkhosh</author><author pid="296/1739">Denis Hoornaert</author><author pid="19/5387">Renato Mancuso 0001</author></authors><title>CAESAR: Coherence-Aided Elective and Seamless Alternative Routing via on-chip FPGA.</title><venue>RTSS</venue><pages>356-369</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/RoozkhoshH022</key><doi>10.1109/RTSS55097.2022.00038</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00038</ee><url>https://dblp.org/rec/conf/rtss/RoozkhoshH022</url></info>
+<url>URL#614518</url>
+</hit>
+<hit score="1" id="614519">
+<info><authors><author pid="270/8038">Wenyuan Shao</author><author pid="296/4790">Bite Ye</author><author pid="281/7025">Huachuan Wang</author><author pid="86/4930">Gabriel Parmer</author><author pid="162/7779">Yuxin Ren</author></authors><title>Edge-RT: OS Support for Controlled Latency in the Multi-Tenant, Real-Time Edge.</title><venue>RTSS</venue><pages>1-13</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ShaoYWPR22</key><doi>10.1109/RTSS55097.2022.00011</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00011</ee><url>https://dblp.org/rec/conf/rtss/ShaoYWPR22</url></info>
+<url>URL#614519</url>
+</hit>
+<hit score="1" id="614520">
+<info><authors><author pid="293/4310">Hehuan Shi</author><author pid="13/3479-2">Lin Chen 0002</author></authors><title>On Batching Task Scheduling.</title><venue>RTSS</venue><pages>79-91</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ShiC22</key><doi>10.1109/RTSS55097.2022.00017</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00017</ee><url>https://dblp.org/rec/conf/rtss/ShiC22</url></info>
+<url>URL#614520</url>
+</hit>
+<hit score="1" id="614521">
+<info><authors><author pid="321/0059">Harun Teper</author><author pid="256/4929">Mario Günzel</author><author pid="208/0854">Niklas Ueter</author><author pid="166/7057">Georg von der Brüggen</author><author pid="70/1961">Jian-Jia Chen</author></authors><title>End-To-End Timing Analysis in ROS2.</title><venue>RTSS</venue><pages>53-65</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/TeperGUBC22</key><doi>10.1109/RTSS55097.2022.00015</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00015</ee><url>https://dblp.org/rec/conf/rtss/TeperGUBC22</url></info>
+<url>URL#614521</url>
+</hit>
+<hit score="1" id="614522">
+<info><authors><author pid="56/9374">Kankan Wang</author><author pid="95/63">Qingxu Deng</author></authors><title>Mixed-Criticality Scheduling of Energy-Harvesting Systems.</title><venue>RTSS</venue><pages>435-446</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/WangD22</key><doi>10.1109/RTSS55097.2022.00044</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00044</ee><url>https://dblp.org/rec/conf/rtss/WangD22</url></info>
+<url>URL#614522</url>
+</hit>
+<hit score="1" id="614523">
+<info><authors><author pid="189/7596">Yidi Wang</author><author pid="228/5594">Mohsen Karimi</author><author pid="19/5798-1">Hyoseung Kim 0001</author></authors><title>Towards Energy-Efficient Real-Time Scheduling of Heterogeneous Multi-GPU Systems.</title><venue>RTSS</venue><pages>409-421</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/WangK022</key><doi>10.1109/RTSS55097.2022.00042</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00042</ee><url>https://dblp.org/rec/conf/rtss/WangK022</url></info>
+<url>URL#614523</url>
+</hit>
+<hit score="1" id="614524">
+<info><authors><author pid="166/4902">Yuhao Wu</author><author pid="00/8454">Yujie Wang</author><author pid="336/4249">Shixuan Zhai</author><author pid="233/6392">Zihan Li</author><author pid="54/2788-6">Ao Li 0006</author><author pid="03/2885">Jinwen Wang</author><author pid="181/2597-17">Ning Zhang 0017</author></authors><title>Work-in-Progress: Measuring Security Protection in Real-time Embedded Firmware.</title><venue>RTSS</venue><pages>495-498</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/WuWZLLWZ22</key><doi>10.1109/RTSS55097.2022.00050</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00050</ee><url>https://dblp.org/rec/conf/rtss/WuWZLLWZ22</url></info>
+<url>URL#614524</url>
+</hit>
+<hit score="1" id="614525">
+<info><authors><author pid="323/4166">Tyler Yandrofski</author><author pid="134/1184">Jingyuan Chen</author><author pid="137/3819">Nathan Otterness</author><author pid="a/JamesHAnderson">James H. Anderson</author><author pid="s/FDonelsonSmith">F. Donelson Smith</author></authors><title>Making Powerful Enemies on NVIDIA GPUs.</title><venue>RTSS</venue><pages>383-395</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/YandrofskiCOAS22</key><doi>10.1109/RTSS55097.2022.00040</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00040</ee><url>https://dblp.org/rec/conf/rtss/YandrofskiCOAS22</url></info>
+<url>URL#614525</url>
+</hit>
+<hit score="1" id="614526">
+<info><authors><author pid="37/1629">Lin Zhang</author><author pid="35/10147">Zifan Wang</author><author pid="32/8375">Fanxin Kong</author></authors><title>Work-in-Progress: Optimal Checkpointing Strategy for Real-time Systems with Both Logical and Timing Correctness.</title><venue>RTSS</venue><pages>515-518</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ZhangWK22</key><doi>10.1109/RTSS55097.2022.00055</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00055</ee><url>https://dblp.org/rec/conf/rtss/ZhangWK22</url></info>
+<url>URL#614526</url>
+</hit>
+<hit score="1" id="614527">
+<info><authors><author pid="64/4129">Dakai Zhu 0001</author><author pid="117/9668-1">Steven Drager 0001</author><author pid="14/4161">Matthew Anderson</author><author pid="95/5362">Hakan Aydin</author></authors><title>Work-in-Progress: Victim-Aware Scheduling for Robust Operations in Safety-Critical Systems.</title><venue>RTSS</venue><pages>487-490</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/rtss/ZhuDAA22</key><doi>10.1109/RTSS55097.2022.00048</doi><ee>https://doi.org/10.1109/RTSS55097.2022.00048</ee><url>https://dblp.org/rec/conf/rtss/ZhuDAA22</url></info>
+<url>URL#614527</url>
+</hit>
+<hit score="1" id="641090">
+<info><title>IEEE Real-Time Systems Symposium, RTSS 2022, Houston, TX, USA, December 5-8, 2022</title><venue>RTSS</venue><publisher>IEEE</publisher><year>2022</year><type>Editorship</type><key>conf/rtss/2022</key><doi>10.1109/RTSS55097.2022</doi><ee>https://doi.org/10.1109/RTSS55097.2022</ee><url>https://dblp.org/rec/conf/rtss/2022</url></info>
+<url>URL#641090</url>
+</hit>
+</hits>
+</result>

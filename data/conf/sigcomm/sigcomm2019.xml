@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59277">:facetid:toc:\"db/conf/sigcomm/sigcomm2019.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">196.49</time>
+<completions total="1" computed="1" sent="1">
+<c sc="33" dc="33" oc="33" id="41064533">:facetid:toc:db/conf/sigcomm/sigcomm2019.bht</c>
+</completions>
+<hits total="33" computed="33" sent="33" first="0">
+<hit score="1" id="1947280">
+<info><authors><author pid="246/9348">Jeremy Bogle</author><author pid="72/1994">Nikhil Bhatia</author><author pid="37/1704">Manya Ghobadi</author><author pid="65/5280">Ishai Menache</author><author pid="51/912">Nikolaj S. Bjørner</author><author pid="145/1065">Asaf Valadarsky</author><author pid="15/5634">Michael Schapira</author></authors><title>TEAVAR: striking the right utilization-availability balance in WAN traffic engineering.</title><venue>SIGCOMM</venue><pages>29-43</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/BogleBGMBVS19</key><doi>10.1145/3341302.3342069</doi><ee>https://doi.org/10.1145/3341302.3342069</ee><url>https://dblp.org/rec/conf/sigcomm/BogleBGMBVS19</url></info>
+<url>URL#1947280</url>
+</hit>
+<hit score="1" id="1947287">
+<info><authors><author pid="167/5916">Quentin De Coninck</author><author pid="25/1006">François Michel</author><author pid="228/8215">Maxime Piraux</author><author pid="186/8215">Florentin Rochet</author><author pid="08/8877">Thomas Given-Wilson</author><author pid="52/579">Axel Legay</author><author pid="78/1061">Olivier Pereira</author><author pid="91/2043">Olivier Bonaventure</author></authors><title>Pluginizing QUIC.</title><venue>SIGCOMM</venue><pages>59-74</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ConinckMPRGLPB19</key><doi>10.1145/3341302.3342078</doi><ee>https://doi.org/10.1145/3341302.3342078</ee><url>https://dblp.org/rec/conf/sigcomm/ConinckMPRGLPB19</url></info>
+<url>URL#1947287</url>
+</hit>
+<hit score="1" id="1947288">
+<info><authors><author pid="211/7996">Axel Dahlberg</author><author pid="246/9419">Matthew Skrzypczyk</author><author pid="246/9416">Tim Coopmans</author><author pid="246/9308">Leon Wubben</author><author pid="245/7368">Filip Rozpedek</author><author pid="246/9168">Matteo Pompili</author><author pid="246/9460">Arian Stolk</author><author pid="29/1584">Przemyslaw Pawelczak</author><author pid="246/9470">Robert Knegjens</author><author pid="246/8989">Julio de Oliveira Filho</author><author pid="246/9193">Ronald Hanson</author><author pid="89/5916">Stephanie Wehner</author></authors><title>A link layer protocol for quantum networks.</title><venue>SIGCOMM</venue><pages>159-173</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/DahlbergSCWRPSP19</key><doi>10.1145/3341302.3342070</doi><ee>https://doi.org/10.1145/3341302.3342070</ee><url>https://dblp.org/rec/conf/sigcomm/DahlbergSCWRPSP19</url></info>
+<url>URL#1947288</url>
+</hit>
+<hit score="1" id="1947298">
+<info><authors><author pid="86/6151">Yu Guan</author><author pid="246/9092">Chengyuan Zheng</author><author pid="45/702">Xinggong Zhang</author><author pid="02/894">Zongming Guo</author><author pid="49/8398">Junchen Jiang</author></authors><title>Pano: optimizing 360° video streaming with a better understanding of quality perception.</title><venue>SIGCOMM</venue><pages>394-407</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/GuanZZGJ19</key><doi>10.1145/3341302.3342063</doi><ee>https://doi.org/10.1145/3341302.3342063</ee><url>https://dblp.org/rec/conf/sigcomm/GuanZZGJ19</url></info>
+<url>URL#1947298</url>
+</hit>
+<hit score="1" id="1947310">
+<info><authors><author pid="246/9492">Junsu Jang</author><author pid="51/9975">Fadel Adib</author></authors><title>Underwater backscatter networking.</title><venue>SIGCOMM</venue><pages>187-199</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/JangA19</key><doi>10.1145/3341302.3342091</doi><ee>https://doi.org/10.1145/3341302.3342091</ee><url>https://dblp.org/rec/conf/sigcomm/JangA19</url></info>
+<url>URL#1947310</url>
+</hit>
+<hit score="1" id="1947311">
+<info><authors><author pid="63/7057">Karthick Jayaraman</author><author pid="51/912">Nikolaj S. Bjørner</author><author pid="p/JPadhye">Jitu Padhye</author><author pid="23/4403">Amar Agrawal</author><author pid="246/9249">Ashish Bhargava</author><author pid="246/9219">Paul-Andre C. Bissonnette</author><author pid="246/9239">Shane Foster</author><author pid="246/9442">Andrew Helwer</author><author pid="246/9009">Mark Kasten</author><author pid="54/5625">Ivan Lee</author><author pid="246/9186">Anup Namdhari</author><author pid="148/1936">Haseeb Niaz</author><author pid="246/9091">Aniruddha Parkhi</author><author pid="246/9183">Hanukumar Pinnamraju</author><author pid="246/9358">Adrian Power</author><author pid="246/9151">Neha Milind Raje</author><author pid="229/1148">Parag Sharma</author></authors><title>Validating datacenters at scale.</title><venue>SIGCOMM</venue><pages>200-213</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/JayaramanBPABBF19</key><doi>10.1145/3341302.3342094</doi><ee>https://doi.org/10.1145/3341302.3342094</ee><url>https://dblp.org/rec/conf/sigcomm/JayaramanBPABBF19</url></info>
+<url>URL#1947311</url>
+</hit>
+<hit score="1" id="1947312">
+<info><authors><author pid="148/1321">Yuchen Jin</author><author pid="229/7130">Sundararajan Renganathan</author><author pid="08/5351">Ganesh Ananthanarayanan</author><author pid="49/8398">Junchen Jiang</author><author pid="p/VenkataNPadmanabhan">Venkata N. Padmanabhan</author><author pid="217/3854">Manuel Schröder</author><author pid="24/3165">Matt Calder</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author></authors><title>Zooming in on wide-area latencies to a global cloud provider.</title><venue>SIGCOMM</venue><pages>104-116</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/JinRAJPSCK19</key><doi>10.1145/3341302.3342073</doi><ee>https://doi.org/10.1145/3341302.3342073</ee><url>https://dblp.org/rec/conf/sigcomm/JinRAJPSCK19</url></info>
+<url>URL#1947312</url>
+</hit>
+<hit score="1" id="1947318">
+<info><authors><author pid="64/4985">Minsung Kim</author><author pid="149/1236">Davide Venturelli</author><author pid="j/KyleJamieson">Kyle Jamieson</author></authors><title>Leveraging quantum annealing for large MIMO processing in centralized radio access networks.</title><venue>SIGCOMM</venue><pages>241-255</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/KimVJ19</key><doi>10.1145/3341302.3342072</doi><ee>https://doi.org/10.1145/3341302.3342072</ee><url>https://dblp.org/rec/conf/sigcomm/KimVJ19</url></info>
+<url>URL#1947318</url>
+</hit>
+<hit score="1" id="1947319">
+<info><authors><author pid="26/10647">Philipp H. Kindt</author><author pid="c/SamarjitChakraborty">Samarjit Chakraborty</author></authors><title>On optimal neighbor discovery.</title><venue>SIGCOMM</venue><pages>441-457</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/KindtC19</key><doi>10.1145/3341302.3342067</doi><ee>https://doi.org/10.1145/3341302.3342067</ee><url>https://dblp.org/rec/conf/sigcomm/KindtC19</url></info>
+<url>URL#1947319</url>
+</hit>
+<hit score="1" id="1947322">
+<info><authors><author pid="95/448-3">Praveen Kumar 0003</author><author pid="74/5250">Nandita Dukkipati</author><author pid="62/6358">Nathan Lewis</author><author pid="65/2576">Yi Cui</author><author pid="56/8396">Yaogong Wang</author><author pid="246/9291">Chonggang Li</author><author pid="246/9413">Valas Valancius</author><author pid="246/9316">Jake Adriaens</author><author pid="g/StevenDGribble">Steve D. Gribble</author><author pid="15/3253">Nate Foster</author><author pid="v/AminVahdat">Amin Vahdat</author></authors><title>PicNIC: predictable virtualized NIC.</title><venue>SIGCOMM</venue><pages>351-366</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/KumarDLCWLVAGFV19</key><doi>10.1145/3341302.3342093</doi><ee>https://doi.org/10.1145/3341302.3342093</ee><url>https://dblp.org/rec/conf/sigcomm/KumarDLCWLVAGFV19</url></info>
+<url>URL#1947322</url>
+</hit>
+<hit score="1" id="1947327">
+<info><authors><author pid="122/5219">Bojie Li</author><author pid="159/1771">Tianyi Cui</author><author pid="133/7314">Zibo Wang</author><author pid="45/661">Wei Bai</author><author pid="94/5689">Lintao Zhang</author></authors><title>Socksdirect: datacenter sockets can be fast and compatible.</title><venue>SIGCOMM</venue><pages>90-103</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiCWBZ19</key><doi>10.1145/3341302.3342071</doi><ee>https://doi.org/10.1145/3341302.3342071</ee><url>https://dblp.org/rec/conf/sigcomm/LiCWBZ19</url></info>
+<url>URL#1947327</url>
+</hit>
+<hit score="1" id="1947330">
+<info><authors><author pid="75/10258">Yuanjie Li</author><author pid="10/5900">Kyu-Han Kim</author><author pid="135/2740">Christina Vlachou</author><author pid="98/9581">Junqing Xie</author></authors><title>Bridging the data charging gap in the cellular edge.</title><venue>SIGCOMM</venue><pages>15-28</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiKVX19</key><doi>10.1145/3341302.3342074</doi><ee>https://doi.org/10.1145/3341302.3342074</ee><url>https://dblp.org/rec/conf/sigcomm/LiKVX19</url></info>
+<url>URL#1947330</url>
+</hit>
+<hit score="1" id="1947334">
+<info><authors><author pid="52/4954">Yuliang Li</author><author pid="62/675">Rui Miao</author><author pid="117/4311">Hongqiang Harry Liu</author><author pid="02/5194">Yan Zhuang</author><author pid="92/140">Fei Feng</author><author pid="246/9488">Lingbo Tang</author><author pid="11/5229">Zheng Cao</author><author pid="73/1844-5">Ming Zhang 0005</author><author pid="32/3722">Frank Kelly</author><author pid="37/8397">Mohammad Alizadeh</author><author pid="89/6345">Minlan Yu</author></authors><title>HPCC: high precision congestion control.</title><venue>SIGCOMM</venue><pages>44-58</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiMLZFTCZKAY19</key><doi>10.1145/3341302.3342085</doi><ee>https://doi.org/10.1145/3341302.3342085</ee><url>https://dblp.org/rec/conf/sigcomm/LiMLZFTCZKAY19</url></info>
+<url>URL#1947334</url>
+</hit>
+<hit score="1" id="1947336">
+<info><authors><author pid="189/5715">Fangfan Li</author><author pid="208/4182">Arian Akhavan Niaki</author><author pid="48/6854">David R. Choffnes</author><author pid="52/2893">Phillipa Gill</author><author pid="31/3833">Alan Mislove</author></authors><title>A large-scale analysis of deployed traffic differentiation practices.</title><venue>SIGCOMM</venue><pages>130-144</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiNCGM19</key><doi>10.1145/3341302.3342092</doi><ee>https://doi.org/10.1145/3341302.3342092</ee><url>https://dblp.org/rec/conf/sigcomm/LiNCGM19</url></info>
+<url>URL#1947336</url>
+</hit>
+<hit score="1" id="1947340">
+<info><authors><author pid="29/2973">Eric Liang</author><author pid="127/6289">Hang Zhu</author><author pid="68/3340-8">Xin Jin 0008</author><author pid="s/IonStoica">Ion Stoica</author></authors><title>Neural packet classification.</title><venue>SIGCOMM</venue><pages>256-269</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiangZJS19</key><doi>10.1145/3341302.3342221</doi><ee>https://doi.org/10.1145/3341302.3342221</ee><url>https://dblp.org/rec/conf/sigcomm/LiangZJS19</url></info>
+<url>URL#1947340</url>
+</hit>
+<hit score="1" id="1947342">
+<info><authors><author pid="166/6255">Zaoxing Liu</author><author pid="140/7690">Ran Ben-Basat</author><author pid="139/7090">Gil Einziger</author><author pid="167/4056">Yaron Kassner</author><author pid="14/4758">Vladimir Braverman</author><author pid="f/RoyFriedman">Roy Friedman</author><author pid="45/4044">Vyas Sekar</author></authors><title>Nitrosketch: robust and general sketch-based monitoring in software switches.</title><venue>SIGCOMM</venue><pages>334-350</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiuBEKBFS19</key><doi>10.1145/3341302.3342076</doi><ee>https://doi.org/10.1145/3341302.3342076</ee><url>https://dblp.org/rec/conf/sigcomm/LiuBEKBFS19</url></info>
+<url>URL#1947342</url>
+</hit>
+<hit score="1" id="1947343">
+<info><authors><author pid="20/2039-27">Ming Liu 0027</author><author pid="159/1771">Tianyi Cui</author><author pid="246/9302">Henry Schuh</author><author pid="k/AKrishnamurthy">Arvind Krishnamurthy</author><author pid="43/3917">Simon Peter 0001</author><author pid="05/4820">Karan Gupta</author></authors><title>Offloading distributed applications onto smartNICs using iPipe.</title><venue>SIGCOMM</venue><pages>318-333</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/LiuCSKPG19</key><doi>10.1145/3341302.3342079</doi><ee>https://doi.org/10.1145/3341302.3342079</ee><url>https://dblp.org/rec/conf/sigcomm/LiuCSKPG19</url></info>
+<url>URL#1947343</url>
+</hit>
+<hit score="1" id="1947346">
+<info><authors><author pid="150/3252">Hongzi Mao</author><author pid="49/7988">Malte Schwarzkopf</author><author pid="149/2620">Shaileshh Bojja Venkatakrishnan</author><author pid="198/8304">Zili Meng</author><author pid="37/8397">Mohammad Alizadeh</author></authors><title>Learning scheduling algorithms for data processing clusters.</title><venue>SIGCOMM</venue><pages>270-288</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/MaoSVMA19</key><doi>10.1145/3341302.3342080</doi><ee>https://doi.org/10.1145/3341302.3342080</ee><url>https://dblp.org/rec/conf/sigcomm/MaoSVMA19</url></info>
+<url>URL#1947346</url>
+</hit>
+<hit score="1" id="1947347">
+<info><authors><author pid="229/7145">Mohammad Hossein Mazaheri 0001</author><author pid="246/9046">Soroush Ameli</author><author pid="33/3045-2">Ali Abedi 0002</author><author pid="71/9428">Omid Abari</author></authors><title>A millimeter wave network for billions of things.</title><venue>SIGCOMM</venue><pages>174-186</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/MazaheriA0A19</key><doi>10.1145/3341302.3342068</doi><ee>https://doi.org/10.1145/3341302.3342068</ee><url>https://dblp.org/rec/conf/sigcomm/MazaheriA0A19</url></info>
+<url>URL#1947347</url>
+</hit>
+<hit score="1" id="1947348">
+<info><authors><author pid="134/3944">James Murphy McCauley</author><author pid="08/9995">Yotam Harchol</author><author pid="55/925">Aurojit Panda</author><author pid="22/3604">Barath Raghavan</author><author pid="34/5593">Scott Shenker</author></authors><title>Enabling a permanent revolution in internet architecture.</title><venue>SIGCOMM</venue><pages>1-14</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/McCauleyHPRS19</key><doi>10.1145/3341302.3342075</doi><ee>https://doi.org/10.1145/3341302.3342075</ee><url>https://dblp.org/rec/conf/sigcomm/McCauleyHPRS19</url></info>
+<url>URL#1947348</url>
+</hit>
+<hit score="1" id="1947349">
+<info><authors><author pid="m/KennethLMcMillan">Kenneth L. McMillan</author><author pid="z/LDZuck">Lenore D. Zuck</author></authors><title>Formal specification and testing of QUIC.</title><venue>SIGCOMM</venue><pages>227-240</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/McMillanZ19</key><doi>10.1145/3341302.3342087</doi><ee>https://doi.org/10.1145/3341302.3342087</ee><url>https://dblp.org/rec/conf/sigcomm/McMillanZ19</url></info>
+<url>URL#1947349</url>
+</hit>
+<hit score="1" id="1947355">
+<info><authors><author pid="153/2198">Vikram Nathan</author><author pid="190/7568">Vibhaalakshmi Sivaraman</author><author pid="243/2857">Ravichandra Addanki</author><author pid="173/5209">Mehrdad Khani Shirkoohi</author><author pid="153/2265">Prateesh Goyal</author><author pid="37/8397">Mohammad Alizadeh</author></authors><title>End-to-end transport for video QoE fairness.</title><venue>SIGCOMM</venue><pages>408-423</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/NathanSAKGA19</key><doi>10.1145/3341302.3342077</doi><ee>https://doi.org/10.1145/3341302.3342077</ee><url>https://dblp.org/rec/conf/sigcomm/NathanSAKGA19</url></info>
+<url>URL#1947355</url>
+</hit>
+<hit score="1" id="1947356">
+<info><authors><author pid="116/9879">A. Pinar Ozisik</author><author pid="73/5288-2">Gavin Andresen</author><author pid="l/BrianNeilLevine">Brian Neil Levine</author><author pid="243/9967">Darren Tapp</author><author pid="83/3459">George Bissias</author><author pid="225/4561">Sunny Katkuri</author></authors><title>Graphene: efficient interactive set reconciliation applied to blockchain propagation.</title><venue>SIGCOMM</venue><pages>303-317</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/OzisikALTBK19</key><doi>10.1145/3341302.3342082</doi><ee>https://doi.org/10.1145/3341302.3342082</ee><url>https://dblp.org/rec/conf/sigcomm/OzisikALTBK19</url></info>
+<url>URL#1947356</url>
+</hit>
+<hit score="1" id="1947357">
+<info><authors><author pid="34/10957">Ramakrishna Padmanabhan</author><author pid="77/3626">Aaron Schulman</author><author pid="03/6428">Dave Levin</author><author pid="s/NeilTSpring">Neil Spring</author></authors><title>Residential links under the weather.</title><venue>SIGCOMM</venue><pages>145-158</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/PadmanabhanSLS19</key><doi>10.1145/3341302.3342084</doi><ee>https://doi.org/10.1145/3341302.3342084</ee><url>https://dblp.org/rec/conf/sigcomm/PadmanabhanSLS19</url></info>
+<url>URL#1947357</url>
+</hit>
+<hit score="1" id="1947359">
+<info><authors><author pid="77/2062-4">Kun Qian 0004</author><author pid="180/5887">Wenxue Cheng</author><author pid="07/4227-18">Tong Zhang 0018</author><author pid="05/6995">Fengyuan Ren</author></authors><title>Gentle flow control: avoiding deadlock in lossless networks.</title><venue>SIGCOMM</venue><pages>75-89</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/QianC0R19</key><doi>10.1145/3341302.3342065</doi><ee>https://doi.org/10.1145/3341302.3342065</ee><url>https://dblp.org/rec/conf/sigcomm/QianC0R19</url></info>
+<url>URL#1947359</url>
+</hit>
+<hit score="1" id="1947362">
+<info><authors><author pid="209/2828">Devdeep Ray</author><author pid="188/9911">Jack Kosaian</author><author pid="40/7113">K. V. Rashmi</author><author pid="s/SrinivasanSeshan">Srinivasan Seshan</author></authors><title>Vantage: optimizing video upload for time-shifted viewing of social live streams.</title><venue>SIGCOMM</venue><pages>380-393</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/RayKRS19</key><doi>10.1145/3341302.3342064</doi><ee>https://doi.org/10.1145/3341302.3342064</ee><url>https://dblp.org/rec/conf/sigcomm/RayKRS19</url></info>
+<url>URL#1947362</url>
+</hit>
+<hit score="1" id="1947370">
+<info><authors><author pid="73/6941-1">Muhammad Shahbaz 0001</author><author pid="206/4530">Lalith Suresh</author><author pid="r/JenniferRexford">Jennifer Rexford</author><author pid="87/840">Nick Feamster</author><author pid="48/2092">Ori Rottenstreich</author><author pid="183/9612">Mukesh Hira</author></authors><title>Elmo: source routed multicast for public clouds.</title><venue>SIGCOMM</venue><pages>458-471</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/ShahbazSRFRH19</key><doi>10.1145/3341302.3342066</doi><ee>https://doi.org/10.1145/3341302.3342066</ee><url>https://dblp.org/rec/conf/sigcomm/ShahbazSRFRH19</url></info>
+<url>URL#1947370</url>
+</hit>
+<hit score="1" id="1947372">
+<info><authors><author pid="139/9079">Vishal Shrivastav</author></authors><title>Fast, scalable, and programmable packet scheduler in hardware.</title><venue>SIGCOMM</venue><pages>367-379</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Shrivastav19</key><doi>10.1145/3341302.3342090</doi><ee>https://doi.org/10.1145/3341302.3342090</ee><url>https://dblp.org/rec/conf/sigcomm/Shrivastav19</url></info>
+<url>URL#1947372</url>
+</hit>
+<hit score="1" id="1947377">
+<info><authors><author pid="24/7628">Sucha Supittayapornpong</author><author pid="22/3604">Barath Raghavan</author><author pid="g/RameshGovindan">Ramesh Govindan</author></authors><title>Towards highly available clos-based WAN routers.</title><venue>SIGCOMM</venue><pages>424-440</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Supittayapornpong19</key><doi>10.1145/3341302.3342086</doi><ee>https://doi.org/10.1145/3341302.3342086</ee><url>https://dblp.org/rec/conf/sigcomm/Supittayapornpong19</url></info>
+<url>URL#1947377</url>
+</hit>
+<hit score="1" id="1947379">
+<info><authors><author pid="223/0237">Bingchuan Tian</author><author pid="04/4189">Xinyi Zhang</author><author pid="23/7560">Ennan Zhai</author><author pid="117/4311">Hongqiang Harry Liu</author><author pid="246/8977">Qiaobo Ye</author><author pid="88/8400">Chunsheng Wang</author><author pid="13/5235">Xin Wu</author><author pid="66/6461">Zhiming Ji</author><author pid="246/9347">Yihong Sang</author><author pid="73/1844-5">Ming Zhang 0005</author><author pid="48/8545">Da Yu</author><author pid="94/1247-1">Chen Tian 0001</author><author pid="43/4261">Haitao Zheng 0001</author><author pid="z/BenYZhao">Ben Y. Zhao</author></authors><title>Safely and automatically updating in-network ACL configurations with intent language.</title><venue>SIGCOMM</venue><pages>214-226</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/TianZZLYWWJSZYT19</key><doi>10.1145/3341302.3342088</doi><ee>https://doi.org/10.1145/3341302.3342088</ee><url>https://dblp.org/rec/conf/sigcomm/TianZZLYWWJSZYT19</url></info>
+<url>URL#1947379</url>
+</hit>
+<hit score="1" id="1947383">
+<info><authors><author pid="28/10471">Chenshu Wu</author><author pid="48/1294-16">Feng Zhang 0016</author><author pid="246/9170">Yusen Fan</author><author pid="68/3163">K. J. Ray Liu</author></authors><title>RF-based inertial measurement.</title><venue>SIGCOMM</venue><pages>117-129</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/WuZFL19</key><doi>10.1145/3341302.3342081</doi><ee>https://doi.org/10.1145/3341302.3342081</ee><url>https://dblp.org/rec/conf/sigcomm/WuZFL19</url></info>
+<url>URL#1947383</url>
+</hit>
+<hit score="1" id="1947393">
+<info><authors><author pid="98/5660">Xu Zhang</author><author pid="58/968">Siddhartha Sen 0001</author><author pid="206/4503">Daniar Heri Kurniawan</author><author pid="84/5664">Haryadi S. Gunawi</author><author pid="49/8398">Junchen Jiang</author></authors><title>E2E: embracing user heterogeneity to improve quality of experience on the web.</title><venue>SIGCOMM</venue><pages>289-302</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/sigcomm/Zhang0KGJ19</key><doi>10.1145/3341302.3342089</doi><ee>https://doi.org/10.1145/3341302.3342089</ee><url>https://dblp.org/rec/conf/sigcomm/Zhang0KGJ19</url></info>
+<url>URL#1947393</url>
+</hit>
+<hit score="1" id="1973795">
+<info><authors><author pid="82/4905">Jianping Wu</author><author pid="h/WendyHall">Wendy Hall 0001</author></authors><title>Proceedings of the ACM Special Interest Group on Data Communication, SIGCOMM 2019, Beijing, China, August 19-23, 2019</title><venue>SIGCOMM</venue><publisher>ACM</publisher><year>2019</year><type>Editorship</type><key>conf/sigcomm/2019</key><doi>10.1145/3341302</doi><ee>https://doi.org/10.1145/3341302</ee><url>https://dblp.org/rec/conf/sigcomm/2019</url></info>
+<url>URL#1973795</url>
+</hit>
+</hits>
+</result>

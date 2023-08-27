@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="59563">:facetid:toc:\"db/conf/icnp/icnp2022.bht\"</query>
+<status code="200">OK</status>
+<time unit="msecs">185.22</time>
+<completions total="1" computed="1" sent="1">
+<c sc="50" dc="50" oc="50" id="41043976">:facetid:toc:db/conf/icnp/icnp2022.bht</c>
+</completions>
+<hits total="50" computed="50" sent="50" first="0">
+<hit score="1" id="557657">
+<info><authors><author pid="334/2146">Sara Alam</author><author pid="334/1263">Devon Lee</author><author pid="07/9556">Aaron Gember-Jacobson</author></authors><title>Poster: Identifying Syntactic Motifs and Errors in Router Configurations Using Graphs.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/AlamLG22</key><doi>10.1109/ICNP55882.2022.9940337</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940337</ee><url>https://dblp.org/rec/conf/icnp/AlamLG22</url></info>
+<url>URL#557657</url>
+</hit>
+<hit score="1" id="557658">
+<info><authors><author pid="183/1789">Haofan Cai</author><author pid="70/3604-1">Chen Qian 0001</author></authors><title>Poster: RF-HGR: Domain-independent Few-Shot Recognition for Unseen Gestures with RFID.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/CaiQ22</key><doi>10.1109/ICNP55882.2022.9940355</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940355</ee><url>https://dblp.org/rec/conf/icnp/CaiQ22</url></info>
+<url>URL#557658</url>
+</hit>
+<hit score="1" id="557659">
+<info><authors><author pid="97/4461">Jing Du</author><author pid="16/656">Kate Ching-Ju Lin</author></authors><title>Distributed In-Network Coflow Scheduling.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/DuL22</key><doi>10.1109/ICNP55882.2022.9940377</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940377</ee><url>https://dblp.org/rec/conf/icnp/DuL22</url></info>
+<url>URL#557659</url>
+</hit>
+<hit score="1" id="557660">
+<info><authors><author pid="202/8478">Xincai Fei</author><author pid="17/6673">Yonggang Chen</author><author pid="72/4250-6">Hao Wu 0006</author><author pid="143/8245">Shuihai Hu</author><author pid="209/6316">Kai Zheng</author><author pid="42/5784">Kun Tan</author></authors><title>ComboTE: Scalable Mixed-link based Traffic Engineering for Hybrid WANs.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/FeiCWHZT22</key><doi>10.1109/ICNP55882.2022.9940374</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940374</ee><url>https://dblp.org/rec/conf/icnp/FeiCWHZT22</url></info>
+<url>URL#557660</url>
+</hit>
+<hit score="1" id="557661">
+<info><authors><author pid="115/4965">Junhui Gao</author><author pid="88/3327">Yan Pan</author><author pid="47/7019-3">Zhigang Li 0003</author><author pid="155/4903">Qingye Han</author></authors><title>Poster: Data-Driven Studies of UAV-sharing in Parcel Delivery and Surveillance.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/GaoPLH22</key><doi>10.1109/ICNP55882.2022.9940417</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940417</ee><url>https://dblp.org/rec/conf/icnp/GaoPLH22</url></info>
+<url>URL#557661</url>
+</hit>
+<hit score="1" id="557662">
+<info><authors><author pid="15/3485">Lin Han</author><author pid="209/4504">Alvaro Retana</author><author pid="37/800">Cédric Westphal</author><author pid="62/5158">Richard Li</author><author pid="06/5735">Tianji Jiang</author><author pid="97/10354">Meiling Chen</author></authors><title>New IP based semantic addressing and routing for LEO satellite networks.</title><venue>ICNP</venue><pages>1-6</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HanRWLJC22</key><doi>10.1109/ICNP55882.2022.9940332</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940332</ee><url>https://dblp.org/rec/conf/icnp/HanRWLJC22</url></info>
+<url>URL#557662</url>
+</hit>
+<hit score="1" id="557663">
+<info><authors><author pid="258/6110">Shuzheng Hao</author><author pid="281/7235">Xudong Sun 0012</author><author pid="181/2883">Yu Qiao</author><author pid="20/3894">Jun Wu</author><author pid="334/1160">Haonan Ye</author><author pid="50/6759">Liang Zhang</author></authors><title>Poster: Matrix Implementation for Matching IP Network Segment.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/HaoSQWYZ22</key><doi>10.1109/ICNP55882.2022.9940342</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940342</ee><url>https://dblp.org/rec/conf/icnp/HaoSQWYZ22</url></info>
+<url>URL#557663</url>
+</hit>
+<hit score="1" id="557664">
+<info><authors><author pid="235/3882">Ahan Kak</author><author pid="323/0017">Van-Quan Pham</author><author pid="204/5532">Huu-Trung Thieu</author><author pid="42/1257">Nakjung Choi</author></authors><title>Poster: Multi-RAT Network Slicing in the Open RAN Era.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KakPTC22</key><doi>10.1109/ICNP55882.2022.9940339</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940339</ee><url>https://dblp.org/rec/conf/icnp/KakPTC22</url></info>
+<url>URL#557664</url>
+</hit>
+<hit score="1" id="557665">
+<info><authors><author pid="241/6143">Ike Kunze</author><author pid="54/1634">Dirk Trossen</author><author pid="w/KlausWehrle">Klaus Wehrle</author></authors><title>Evolving the End-to-End Transport Layer in Times of Emerging Computing In The Network (COIN).</title><venue>ICNP</venue><pages>1-6</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/KunzeTW22</key><doi>10.1109/ICNP55882.2022.9940379</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940379</ee><url>https://dblp.org/rec/conf/icnp/KunzeTW22</url></info>
+<url>URL#557665</url>
+</hit>
+<hit score="1" id="557666">
+<info><authors><author pid="252/1017">Lingang Li</author><author pid="89/6527-2">Zhijun Li 0002</author><author pid="143/0948-1">Yongrui Chen 0001</author><author pid="71/6950">Jiajun Zhang</author><author pid="73/2252">Lin Li</author></authors><title>Upload Your Data Faster: Driver-Queue based Congestion Control for Wireless Networks.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiLCZL22</key><doi>10.1109/ICNP55882.2022.9940357</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940357</ee><url>https://dblp.org/rec/conf/icnp/LiLCZL22</url></info>
+<url>URL#557666</url>
+</hit>
+<hit score="1" id="557667">
+<info><authors><author pid="77/35">Zhen Liu</author><author pid="151/6230">Shouxi Luo</author><author pid="75/6627">Ke Li</author><author pid="17/3284">Huanlai Xing</author></authors><title>Poster: Selective Reduce for Heterogeneous Distributed Training.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuLLX22</key><doi>10.1109/ICNP55882.2022.9940385</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940385</ee><url>https://dblp.org/rec/conf/icnp/LiuLLX22</url></info>
+<url>URL#557667</url>
+</hit>
+<hit score="1" id="557668">
+<info><authors><author pid="196/8629">Zirui Liu</author><author pid="191/2499">Yikai Zhao</author><author pid="235/9564">Zhuochen Fan</author><author pid="44/7710-3">Tong Yang 0003</author><author pid="50/3993">Xiaodong Li</author><author pid="299/2233">Ruwen Zhang</author><author pid="118/4505">Kaicheng Yang</author><author pid="69/7279">Zheng Zhong</author><author pid="15/6040">Yi Huang</author><author pid="95/6404">Cong Liu</author><author pid="95/6046">Jing Hu</author><author pid="01/2888">Gaogang Xie</author><author pid="55/5031">Bin Cui 0001</author></authors><title>BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic.</title><venue>ICNP</venue><pages>1-13</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LiuZFYLZYZHLHXC22</key><doi>10.1109/ICNP55882.2022.9940372</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940372</ee><url>https://dblp.org/rec/conf/icnp/LiuZFYLZYZHLHXC22</url></info>
+<url>URL#557668</url>
+</hit>
+<hit score="1" id="557669">
+<info><authors><author pid="236/3110">Jiamei Lv</author><author pid="92/748-1">Wei Dong 0001</author><author pid="38/4304-1">Yi Gao 0001</author><author pid="07/4182-0001">Chun Chen 0001</author></authors><title>Performant TCP over BLE.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/LvDGC22</key><doi>10.1109/ICNP55882.2022.9940406</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940406</ee><url>https://dblp.org/rec/conf/icnp/LvDGC22</url></info>
+<url>URL#557669</url>
+</hit>
+<hit score="1" id="557670">
+<info><authors><author pid="199/7788">Kiran Makhijani</author><author pid="286/3549">Bhaskar Kataria</author><author pid="201/7266">Shashank D</author><author pid="334/1689">Deepta Devkota</author><author pid="92/10847">Mohit P. Tahiliani</author></authors><title>TinTin: Tiny In-Network Transport for High Precision INdustrial Communication.</title><venue>ICNP</venue><pages>1-6</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MakhijaniKDDT22</key><doi>10.1109/ICNP55882.2022.9940343</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940343</ee><url>https://dblp.org/rec/conf/icnp/MakhijaniKDDT22</url></info>
+<url>URL#557670</url>
+</hit>
+<hit score="1" id="557671">
+<info><authors><author pid="277/4049">Noureddine Mouhoub</author><author pid="43/11358">Mohamed Lamine Lamali</author><author pid="05/5104">Damien Magoni</author></authors><title>Semiring Algebraic Structure for Metarouting with Automatic Tunneling.</title><venue>ICNP</venue><pages>1-6</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/MouhoubLM22</key><doi>10.1109/ICNP55882.2022.9940413</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940413</ee><url>https://dblp.org/rec/conf/icnp/MouhoubLM22</url></info>
+<url>URL#557671</url>
+</hit>
+<hit score="1" id="557672">
+<info><authors><author pid="261/2022">Sourav Panda</author><author pid="r/KKRamakrishnan">K. K. Ramakrishnan</author><author pid="b/LaxmiNBhuyan">Laxmi N. Bhuyan</author></authors><title>Synergy: A SmartNIC Accelerated 5G Dataplane and Monitor for Mobility Prediction.</title><venue>ICNP</venue><pages>1-12</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/PandaRB22</key><doi>10.1109/ICNP55882.2022.9940261</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940261</ee><url>https://dblp.org/rec/conf/icnp/PandaRB22</url></info>
+<url>URL#557672</url>
+</hit>
+<hit score="1" id="557673">
+<info><authors><author pid="164/1709">Taejune Park</author><author pid="330/7789">Myoungsung You</author><author pid="41/5360">Jian Cui</author><author pid="318/2988">Youngjin Jin</author><author pid="32/10300">Kilho Lee</author><author pid="84/3319">Seungwon Shin</author></authors><title>MECaNIC: SmartNIC to Assist URLLC Processing in Multi-Access Edge Computing Platforms.</title><venue>ICNP</venue><pages>1-12</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ParkYCJLS22</key><doi>10.1109/ICNP55882.2022.9940263</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940263</ee><url>https://dblp.org/rec/conf/icnp/ParkYCJLS22</url></info>
+<url>URL#557673</url>
+</hit>
+<hit score="1" id="557674">
+<info><authors><author pid="197/0269">Xiangyu Ren</author><author pid="218/7047">Jiequ Ji</author><author pid="20/8688-1">Lin Cai 0001</author></authors><title>Delay Laxity-Based Scheduling with Double-Deep Q-Learning for Time-Critical Applications.</title><venue>ICNP</venue><pages>1-6</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/RenJC22</key><doi>10.1109/ICNP55882.2022.9940259</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940259</ee><url>https://dblp.org/rec/conf/icnp/RenJC22</url></info>
+<url>URL#557674</url>
+</hit>
+<hit score="1" id="557675">
+<info><authors><author pid="242/2020">Yidong Ren</author><author pid="33/4528">Li Liu</author><author pid="271/9735">Chenning Li</author><author pid="05/7548-1">Zhichao Cao 0001</author><author pid="c/ShigangChen">Shigang Chen</author></authors><title>Is LoRaWAN Really Wide? Fine-grained LoRa Link-level Measurement in An Urban Environment.</title><venue>ICNP</venue><pages>1-12</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/RenLLCC22</key><doi>10.1109/ICNP55882.2022.9940375</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940375</ee><url>https://dblp.org/rec/conf/icnp/RenLLCC22</url></info>
+<url>URL#557675</url>
+</hit>
+<hit score="1" id="557676">
+<info><authors><author pid="334/0916">Jumpei Sakamoto</author><author pid="04/5494">Daiki Nobayashi</author><author pid="20/5737">Kazuya Tsukamoto</author><author pid="10/155">Takeshi Ikenaga</author><author pid="60/7446">Goshi Sato</author><author pid="63/6987">Kenichi Takizawa</author></authors><title>Poster: Implementation and Performance Evaluation of TCP/IP Communication over Private LoRa.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SakamotoNTIST22</key><doi>10.1109/ICNP55882.2022.9940334</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940334</ee><url>https://dblp.org/rec/conf/icnp/SakamotoNTIST22</url></info>
+<url>URL#557676</url>
+</hit>
+<hit score="1" id="557677">
+<info><authors><author pid="141/1987">Yurino Sato</author><author pid="93/3767">Hiroyuki Koga</author></authors><title>Poster: A Content Popularity Classification-Based Content Search Scheme for CCN.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SatoK22</key><doi>10.1109/ICNP55882.2022.9940389</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940389</ee><url>https://dblp.org/rec/conf/icnp/SatoK22</url></info>
+<url>URL#557677</url>
+</hit>
+<hit score="1" id="557678">
+<info><authors><author pid="259/3843">Tibor Schneider</author><author pid="142/1822">Roland Schmid</author><author pid="51/7546">Laurent Vanbever</author></authors><title>On the Complexity of Network-Wide Configuration Synthesis.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SchneiderSV22</key><doi>10.1109/ICNP55882.2022.9940325</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940325</ee><url>https://dblp.org/rec/conf/icnp/SchneiderSV22</url></info>
+<url>URL#557678</url>
+</hit>
+<hit score="1" id="557679">
+<info><authors><author pid="224/6549">Lars-Christian Schulz</author><author pid="334/1130">Elham Ehsani Moghadam</author><author pid="279/2012">Juan A. García-Pardo</author><author pid="76/3287">David Hausheer</author><author pid="99/4063">Kenneth L. Calvert</author></authors><title>Supporting Dynamic Secure Interdomain Routing.</title><venue>ICNP</venue><pages>1-6</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SchulzMGHC22</key><doi>10.1109/ICNP55882.2022.9940382</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940382</ee><url>https://dblp.org/rec/conf/icnp/SchulzMGHC22</url></info>
+<url>URL#557679</url>
+</hit>
+<hit score="1" id="557680">
+<info><authors><author pid="177/7943">Akshit Singhal</author><author pid="34/4799">Xuan Wang</author><author pid="37/1593-1">Zhijun Wang 0001</author><author pid="50/1964">Hao Che</author><author pid="16/3631-1">Hong Jiang 0001</author></authors><title>Two Families of Optimal Multipath Congestion Control Protocols.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SinghalWWCJ22</key><doi>10.1109/ICNP55882.2022.9940376</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940376</ee><url>https://dblp.org/rec/conf/icnp/SinghalWWCJ22</url></info>
+<url>URL#557680</url>
+</hit>
+<hit score="1" id="557681">
+<info><authors><author pid="243/2996">Enge Song</author><author pid="299/2216">Nianbing Yu</author><author pid="26/11343">Tian Pan 0001</author><author pid="17/1352-11">Qiang Fu 0011</author><author pid="54/3420">Liang Xu</author><author pid="299/2231">Xionglie Wei</author><author pid="289/1133">Yisong Qiao</author><author pid="117/4499">Jianyuan Lu</author><author pid="334/1203">Yijian Dong</author><author pid="299/8812">Mingxu Xie</author><author pid="75/5705">Jun He</author><author pid="299/8795">Jinkui Mao</author><author pid="303/7394">Zhengjie Luo</author><author pid="209/5418">Chenhao Jia</author><author pid="04/527-2">Jiao Zhang 0002</author><author pid="34/808-5">Tao Huang 0005</author><author pid="267/2853">Biao Lyu</author><author pid="299/2226">Shunmin Zhu</author></authors><title>MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SongYPFXWQLDXHM22</key><doi>10.1109/ICNP55882.2022.9940340</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940340</ee><url>https://dblp.org/rec/conf/icnp/SongYPFXWQLDXHM22</url></info>
+<url>URL#557681</url>
+</hit>
+<hit score="1" id="557682">
+<info><authors><author pid="284/2900">Dongyuan Su</author><author pid="78/6594">Yipeng Zhou</author><author pid="86/10615">Laizhong Cui</author></authors><title>Boost Decentralized Federated Learning in Vehicular Networks by Diversifying Data Sources.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/SuZC22</key><doi>10.1109/ICNP55882.2022.9940426</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940426</ee><url>https://dblp.org/rec/conf/icnp/SuZC22</url></info>
+<url>URL#557682</url>
+</hit>
+<hit score="1" id="557683">
+<info><authors><author pid="72/3034">Nik Sultana</author></authors><title>Demo: The Hangar environment for Teaching and Research in Programmable Networking.</title><venue>ICNP</venue><pages>1-2</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/Sultana22</key><doi>10.1109/ICNP55882.2022.9940410</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940410</ee><url>https://dblp.org/rec/conf/icnp/Sultana22</url></info>
+<url>URL#557683</url>
+</hit>
+<hit score="1" id="557684">
+<info><authors><author pid="181/2667">Jian Tang</author><author pid="85/2516">Tingting Xu</author><author pid="14/5079">Cam-Tu Nguyen</author><author pid="02/3450-1">Xiaoliang Wang 0001</author><author pid="24/3318">Sanglu Lu</author><author pid="69/5116">Baoliu Ye</author></authors><title>Tuning Target Delay for RTT-based Congestion Control.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TangXNWLY22</key><doi>10.1109/ICNP55882.2022.9940420</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940420</ee><url>https://dblp.org/rec/conf/icnp/TangXNWLY22</url></info>
+<url>URL#557684</url>
+</hit>
+<hit score="1" id="557685">
+<info><authors><author pid="204/0960">Timothy Alberdingk Thijm</author><author pid="161/6041">Ryan Beckett</author><author pid="18/2229">Aarti Gupta</author><author pid="53/5714">David Walker</author></authors><title>Kirigami, the Verifiable Art of Network Cutting.</title><venue>ICNP</venue><pages>1-12</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ThijmBGW22</key><doi>10.1109/ICNP55882.2022.9940333</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940333</ee><url>https://dblp.org/rec/conf/icnp/ThijmBGW22</url></info>
+<url>URL#557685</url>
+</hit>
+<hit score="1" id="557686">
+<info><authors><author pid="58/8126">Ying Tian</author><author pid="58/5311">Zhiliang Wang</author><author pid="77/5776">Xia Yin</author><author pid="93/5648">Xingang Shi</author><author pid="62/2814-1">Jiahai Yang 0001</author><author pid="26/4189-9">Han Zhang 0009</author></authors><title>Centralized Network Utility Maximization with Accelerated Gradient Method.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/TianWYSYZ22</key><doi>10.1109/ICNP55882.2022.9940402</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940402</ee><url>https://dblp.org/rec/conf/icnp/TianWYSYZ22</url></info>
+<url>URL#557686</url>
+</hit>
+<hit score="1" id="557687">
+<info><authors><author pid="272/9234">Xinchen Wan</author><author pid="c/KaiChen5">Kai Chen 0005</author><author pid="76/5416">Yiming Zhang</author></authors><title>DGS: Communication-Efficient Graph Sampling for Distributed GNN Training.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WanCZ22</key><doi>10.1109/ICNP55882.2022.9940348</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940348</ee><url>https://dblp.org/rec/conf/icnp/WanCZ22</url></info>
+<url>URL#557687</url>
+</hit>
+<hit score="1" id="557688">
+<info><authors><author pid="93/2237">Weihong Wu</author><author pid="160/3987">Sijia Li</author><author pid="334/2106">Anbang Pei</author><author pid="34/808">Tao Huang</author></authors><title>Behavior-decoupled Labeling Mechanism in Generalized SRv6.</title><venue>ICNP</venue><pages>1-6</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/WuLPH22</key><doi>10.1109/ICNP55882.2022.9940352</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940352</ee><url>https://dblp.org/rec/conf/icnp/WuLPH22</url></info>
+<url>URL#557688</url>
+</hit>
+<hit score="1" id="557689">
+<info><authors><author pid="305/3725">Zhaoyuan Xu</author><author pid="11/3249-1">Wei Gong 0001</author></authors><title>Enabling ZigBee Backscatter Communication in a Crowded Spectrum.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/XuG22</key><doi>10.1109/ICNP55882.2022.9940384</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940384</ee><url>https://dblp.org/rec/conf/icnp/XuG22</url></info>
+<url>URL#557689</url>
+</hit>
+<hit score="1" id="557690">
+<info><authors><author pid="193/9897">Zhuqing Xu</author><author pid="l/JunzhouLuo">Junzhou Luo</author><author pid="130/9834-1">Zhimeng Yin 0001</author><author pid="42/1503-8">Shuai Wang 0008</author><author pid="294/2091">Ciyuan Chen</author><author pid="277/5882">Jingkai Lin</author><author pid="44/9881">Runqun Xiong</author><author pid="h/TianHe">Tian He 0001</author></authors><title>X-MAC: Achieving High Scalability via Imperfect-Orthogonality Aware Scheduling in LPWAN.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/XuLYWCLXH22</key><doi>10.1109/ICNP55882.2022.9940331</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940331</ee><url>https://dblp.org/rec/conf/icnp/XuLYWCLXH22</url></info>
+<url>URL#557690</url>
+</hit>
+<hit score="1" id="557691">
+<info><authors><author pid="178/7258">Zhenqiang Xu</author><author pid="209/8660">Pengjin Xie</author><author pid="75/3699">Jiliang Wang</author><author pid="27/2403">Yunhao Liu 0001</author></authors><title>Ostinato: Combating LoRa Weak Links in Real Deployments.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/XuXWL22</key><doi>10.1109/ICNP55882.2022.9940369</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940369</ee><url>https://dblp.org/rec/conf/icnp/XuXWL22</url></info>
+<url>URL#557691</url>
+</hit>
+<hit score="1" id="557692">
+<info><authors><author pid="238/1349">Leyang Xue</author><author pid="71/2142">Mahesh K. Marina</author><author pid="23/3761">Geng Li</author><author pid="73/3928-3">Kai Zheng 0003</author></authors><title>PAINT: Path Aware Iterative Network Tomography for Link Metric Inference.</title><venue>ICNP</venue><pages>1-12</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/XueMLZ22</key><doi>10.1109/ICNP55882.2022.9940432</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940432</ee><url>https://dblp.org/rec/conf/icnp/XueMLZ22</url></info>
+<url>URL#557692</url>
+</hit>
+<hit score="1" id="557693">
+<info><authors><author pid="334/1277">Yangsheng Yan</author><author pid="95/8385">Fuliang Li</author><author pid="35/7092">Wei Wang</author><author pid="99/4694-1">Xingwei Wang 0001</author></authors><title>TalentSketch: LSTM-based Sketch for Adaptive and High-Precision Network Measurement.</title><venue>ICNP</venue><pages>1-12</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YanLWW22</key><doi>10.1109/ICNP55882.2022.9940396</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940396</ee><url>https://dblp.org/rec/conf/icnp/YanLWW22</url></info>
+<url>URL#557693</url>
+</hit>
+<hit score="1" id="557694">
+<info><authors><author pid="77/377-27">Bin Yang 0027</author><author pid="139/4309">Dian Shen</author><author pid="155/4434">Junxue Zhang 0001</author><author pid="75/2871-1">Fang Dong 0001</author><author pid="l/JunzhouLuo">Junzhou Luo</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Towards the Full Extensibility of Multipath TCP with eMPTCP.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YangSZDLL22</key><doi>10.1109/ICNP55882.2022.9940354</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940354</ee><url>https://dblp.org/rec/conf/icnp/YangSZDLL22</url></info>
+<url>URL#557694</url>
+</hit>
+<hit score="1" id="557695">
+<info><authors><author pid="216/0085">Longzhi Yuan</author><author pid="11/3249-1">Wei Gong 0001</author></authors><title>SubScatter: Sub-symbol WiFi Backscatter for High Throughput.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YuanG22</key><doi>10.1109/ICNP55882.2022.9940419</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940419</ee><url>https://dblp.org/rec/conf/icnp/YuanG22</url></info>
+<url>URL#557695</url>
+</hit>
+<hit score="1" id="557696">
+<info><authors><author pid="334/2155">Qianchen Yuan</author><author pid="95/8385">Fuliang Li</author><author pid="26/11343">Tian Pan 0001</author><author pid="316/1271">Yuhua Lai</author><author pid="334/1035">Yetao Gu</author><author pid="99/4694-1">Xingwei Wang 0001</author></authors><title>INT-Segment: MTU-Adaptive Single-Path In-Band Network-Wide Telemetry.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YuanLPLGW22</key><doi>10.1109/ICNP55882.2022.9940397</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940397</ee><url>https://dblp.org/rec/conf/icnp/YuanLPLGW22</url></info>
+<url>URL#557696</url>
+</hit>
+<hit score="1" id="557697">
+<info><authors><author pid="334/2155">Qianchen Yuan</author><author pid="95/8385">Fuliang Li</author><author pid="26/11343">Tian Pan 0001</author><author pid="62/1662">Yifan Xu</author><author pid="99/4694-1">Xingwei Wang 0001</author></authors><title>INT-react: An O(E) Path Planner for Resilient Network-Wide Telemetry Over Megascale Networks.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/YuanLPXW22</key><doi>10.1109/ICNP55882.2022.9940409</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940409</ee><url>https://dblp.org/rec/conf/icnp/YuanLPXW22</url></info>
+<url>URL#557697</url>
+</hit>
+<hit score="1" id="557698">
+<info><authors><author pid="44/8352">Zeyu Zhang</author><author pid="68/925">Weiwei Chen</author><author pid="29/5437">Junwen Wang</author><author pid="42/1503-8">Shuai Wang 0008</author><author pid="h/TianHe">Tian He 0001</author></authors><title>CONST: Exploiting Spatial-Temporal Correlation for Multi-Gateway based Reliable LoRa Reception.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangCWWH22</key><doi>10.1109/ICNP55882.2022.9940424</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940424</ee><url>https://dblp.org/rec/conf/icnp/ZhangCWWH22</url></info>
+<url>URL#557698</url>
+</hit>
+<hit score="1" id="557699">
+<info><authors><author pid="14/10138">Xiaoxue Zhang</author><author pid="70/3604-1">Chen Qian 0001</author></authors><title>Towards Aggregated Payment Channel Networks.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangQ22</key><doi>10.1109/ICNP55882.2022.9940365</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940365</ee><url>https://dblp.org/rec/conf/icnp/ZhangQ22</url></info>
+<url>URL#557699</url>
+</hit>
+<hit score="1" id="557700">
+<info><authors><author pid="84/6889">Jie Zhang</author><author pid="83/2089">Hang Shi</author><author pid="91/2346-1">Yong Cui 0001</author><author pid="54/476-1">Feng Qian 0001</author><author pid="35/7092">Wei Wang</author><author pid="73/3928-3">Kai Zheng 0003</author><author pid="82/4905">Jianping Wu</author></authors><title>To Punctuality and Beyond: Meeting Application Deadlines with DTP.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangSCQWZW22</key><doi>10.1109/ICNP55882.2022.9940391</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940391</ee><url>https://dblp.org/rec/conf/icnp/ZhangSCQWZW22</url></info>
+<url>URL#557700</url>
+</hit>
+<hit score="1" id="557701">
+<info><authors><author pid="334/2127">Yunmo Zhang</author><author pid="01/5265-1">Hong Xu 0001</author><author pid="x/ChunJasonXue">Chun Jason Xue</author><author pid="07/3181">Tei-Wei Kuo</author></authors><title>Probabilistic Analysis of Network Availability.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangXXK22</key><doi>10.1109/ICNP55882.2022.9940438</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940438</ee><url>https://dblp.org/rec/conf/icnp/ZhangXXK22</url></info>
+<url>URL#557701</url>
+</hit>
+<hit score="1" id="557702">
+<info><authors><author pid="170/9703">Chuwen Zhang</author><author pid="148/4501">Boyang Zhou</author><author pid="309/5643">Zerui Tian</author><author pid="72/5666-1">Liang Cheng 0001</author><author pid="30/8131">Yuxi Liu</author><author pid="44/8309">Huayu Zhang</author><author pid="04/4291">Song Chen</author><author pid="93/3987">Ying Wan</author><author pid="64/3114">Wenquan Xu</author><author pid="26/11343">Tian Pan 0001</author><author pid="61/3906-10">Yang Xu 0010</author><author pid="67/6649-4">Yi Wang 0004</author><author pid="22/1534">Hailong Zhu</author><author pid="35/837-1">Bin Liu 0001</author></authors><title>TSN-Peeper: an Efficient Traffic Monitor in Time-Sensitive Networking.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhangZTCLZCWXPX22</key><doi>10.1109/ICNP55882.2022.9940335</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940335</ee><url>https://dblp.org/rec/conf/icnp/ZhangZTCLZCWXPX22</url></info>
+<url>URL#557702</url>
+</hit>
+<hit score="1" id="557703">
+<info><authors><author pid="04/11534">Sen Zhao</author><author pid="156/0093">Jinfa Wang</author><author pid="189/2409">Shouguo Yang</author><author pid="232/0043">Yicheng Zeng</author><author pid="198/6947">Zhihui Zhao</author><author pid="57/5368">Hongsong Zhu</author><author pid="37/4705">Limin Sun</author></authors><title>ProsegDL: Binary Protocol Format Extraction by Deep Learning-based Field Boundary Identification.</title><venue>ICNP</venue><pages>1-12</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhaoWYZZZS22</key><doi>10.1109/ICNP55882.2022.9940264</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940264</ee><url>https://dblp.org/rec/conf/icnp/ZhaoWYZZZS22</url></info>
+<url>URL#557703</url>
+</hit>
+<hit score="1" id="557704">
+<info><authors><author pid="121/3276">Shiyuan Zheng</author><author pid="90/2144">Xudong Liu</author><author pid="39/3657-4">Hong Xie 0004</author><author pid="l/JohnCSLui">John C. S. Lui</author></authors><title>Reposting Service in Online Social Networks: Modeling and Online Incentive Protocols.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhengLXL22</key><doi>10.1109/ICNP55882.2022.9940336</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940336</ee><url>https://dblp.org/rec/conf/icnp/ZhengLXL22</url></info>
+<url>URL#557704</url>
+</hit>
+<hit score="1" id="557705">
+<info><authors><author pid="239/2971">Zhengyan Zhou</author><author pid="192/4261">Jingwen Lv</author><author pid="35/6916">Lingfei Cheng</author><author pid="64/3062">Xiang Chen</author><author pid="15/7643">Tianzhu Zhang</author><author pid="130/5419-1">Qun Huang 0001</author><author pid="136/4534">Jiayu Luo</author><author pid="257/2179">Longlong Zhu</author><author pid="68/3245">Dong Zhang</author><author pid="97/8329-1">Chunming Wu 0001</author></authors><title>SketchGuide: Reconfiguring Sketch-based Measurement on Programmable Switches.</title><venue>ICNP</venue><pages>1-11</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/icnp/ZhouLCCZHLZZW22</key><doi>10.1109/ICNP55882.2022.9940368</doi><ee>https://doi.org/10.1109/ICNP55882.2022.9940368</ee><url>https://dblp.org/rec/conf/icnp/ZhouLCCZHLZZW22</url></info>
+<url>URL#557705</url>
+</hit>
+<hit score="1" id="640221">
+<info><title>30th IEEE International Conference on Network Protocols, ICNP 2022, Lexington, KY, USA, October 30 - Nov. 2, 2022</title><venue>ICNP</venue><publisher>IEEE</publisher><year>2022</year><type>Editorship</type><key>conf/icnp/2022</key><doi>10.1109/ICNP55882.2022</doi><ee>https://doi.org/10.1109/ICNP55882.2022</ee><url>https://dblp.org/rec/conf/icnp/2022</url></info>
+<url>URL#640221</url>
+</hit>
+</hits>
+</result>
